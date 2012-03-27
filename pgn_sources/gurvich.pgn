@@ -505,7 +505,7 @@ Nf4+ Kg5 8. Bxe7+ Kf5 $18) 7. Nf4# (7. Nxe5 $143 $11) 1-0
 8. Nc6+ $11) 8. Nb5 Rb3 9. Nd4 Rc3 10. Nb5 Rb3 11. Nd4 Ra3 12. Nb5 Ra5 13. Nd4
 Ra3 14. Nb5 Rb3 15. Nd4 Rc3 16. Nb5 Rc5 17. Nd4 Re5 18. Nc6+ $11 1/2-1/2
 
-[Event "4.p Sachové Umenie#080"]
+[Event "4.p SachovÐ¹ Umenie#080"]
 [Site "?"]
 [Date "1947.??.??"]
 [Round "?"]
@@ -1054,53 +1054,4 @@ Kc7 $1 Kf6 6. Kd6 $1 Bc1 7. Kd5 $1 $11 1/2-1/2
 [PlyCount "31"]
 [EventDate "1959.??.??"]
 
-1. Nf6 Bc3+ 2. Kb1 $1 (2. Ka2 $143 Bxe5 3. Nd7+ Kf7 $1 4. Nxe5+ Kg8 $1 5. c4
-Nc3+ 6. Kb3 Ne4 $11) 2... Bxe5 3. Nd7+ Kf7 $1 4. Nxe5+ Kg8 $1 5. c4 Nc3+ 6. Kc2
-Ne4 7. Kd3 Nc5+ 8. Kd4 Ne6+ (8... Nb3+ $144 9. Kc3 Nc5 10. Ng6 $1 Kh7 11. Bd4
-Ne4+ 12. Kd3 $18) 9. Kd5 Nf4+ 10. Ke4 Nh5 $1 11. Ng6 Kh7 12. Nf4 $1 (12. Kf5
-$143 Ng3+ 13. Kf4 (13. Kf6 $144 Ne4+ $11) 13... Nf1 14. Kg5 (14. Ne5 $144 Kxh8
-15. Nf3 Kg7 $11) (14. Bb2 Kxg6 15. Bc1 Kh5 $11) 14... Nd2 $11) 12... Nxf4 13.
-Kxf4 Kxh8 14. Ke5 Kg7 15. Kd6 Kf6 16. c5 $1 $18 1-0
-
-[Event "Etyudy (Gurvitch)#57"]
-[Site "?"]
-[Date "1961.??.??"]
-[Round "?"]
-[White "Gurvich=A"]
-[Black "[=0173.03c8a8]"]
-[Result "1/2-1/2"]
-[Annotator "57"]
-[SetUp "1"]
-[FEN "k1K5/7B/2p5/3p1n2/8/2R1bp1b/8/8 w - - 0 1"]
-[PlyCount "15"]
-[EventDate "1961.??.??"]
-
-1. Ra3+ Ba7 2. Rxf3 Nd6+ $1 (2... Ne7+ $144 3. Kd8 Bg4 4. Rf4 $11) 3. Kc7 Nb5+
-$1 (3... Ne8+ $144 4. Kxc6 Bg4 5. Rf8 Bh5 6. Kxd5 $11) 4. Kxc6 $1 Nd4+ 5. Kc7
-Nxf3 6. Bg8 $1 Bb8+ 7. Kb6 $1 Ba7+ 8. Kc7 $11 1/2-1/2
-
-[Event "1.p Shakhmaty v SSSR#18"]
-[Site "?"]
-[Date "1955.??.??"]
-[Round "1"]
-[White "Gurvich=A"]
-[Black "(+0405.11d1d8)"]
-[Result "1-0"]
-[Annotator "51+"]
-[SetUp "1"]
-[FEN "3k4/1n6/p7/1N6/5r2/P7/1R6/N2K4 w - - 0 1"]
-[PlyCount "27"]
-[EventDate "1955.??.??"]
-
-{Shakhmaty v SSSR/5} 1. Rd2+ $1 (1. Nc3 $143 Rf1+ 2. Kc2 Rxa1 3. Rxb7 Rxa3 $11)
-1... Kc8 $1 (1... Ke7 $144 2. Re2+ Kd7 3. Nc3 Rf1+ 4. Re1 Rxe1+ 5. Kxe1 $18) 2.
-Na7+ Kb8 (2... Kc7 $144 3. Rc2+ Kd7 (3... Kb6 $144 4. Nc8+ Ka5 5. Kc1 Ka4 6.
-Kb2 $18) 4. Rh2 Nd6 (4... Rf1+ $144 5. Kc2 Rxa1 6. Rh7+ Kd6 7. Kb2 $18) 5. Nc2
-Kc7 6. Rh6 $18) 3. Nc6+ Kc7 4. Nc2 $1 (4. Nb3 $143 Ra4 $11) 4... Kxc6 5. Nd4+
-Kb6 6. Rb2+ Ka7 (6... Ka5 $144 7. Rb4 $1 Rxd4+ 8. Rxd4 $18 {EGTB}) 7. Nc6+ Ka8
-8. Rb6 $1 Ra4 (8... Nc5 $144 9. Rb8#) 9. Kc2 (9. Kc1 $144 $18 {<or>}) 9... Rxa3
-(9... Rc4+ $144 10. Kb2 (10. Kb3 $143 Rxc6 11. Rxc6 Na5+ $19) 10... Ra4 (10...
-Rxc6 $144 11. Rxc6 $18) 11. Ka2 $18) 10. Kb1 $1 (10. Kb2 $143 Ra4 11. Kb1 Ra3
-12. Kc2 Ra2+ 13. Kc1 Ra1+ 14. Kb2 Ra4 $11) 10... Ra4 11. Kb2 $1 Ra5 12. Nxa5
-Nxa5 13. Rxa6+ Kb7 14. Rxa5 $18 1-0
-
+1. Nf6 Bc3+ 2. Kb1 $1 (2. Ka2 $143 Bxe5 3.

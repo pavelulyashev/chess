@@ -211,12 +211,12 @@ $1 Nf6 8. Ne4+ $18) 7. Nc7 $1 Nf6 8. Nd5+ $18 1-0
 [PlyCount "27"]
 [EventDate "1933.??.??"]
 
-1. Kc5 $1 {ContrÙle b5} (1. b7 $143 Bb5 2. b8=R (2. b8=Q $144 Bf1 3. Qb1 Kxh2
+1. Kc5 $1 {Contr—Ñle b5} (1. b7 $143 Bb5 2. b8=R (2. b8=Q $144 Bf1 3. Qb1 Kxh2
 4. Qxf1 $11 (4. Qf5 $144 Bh3 5. Ke5 Kg1 6. Kf4 Kh2 $11 7. Qxg4 $143 Bxg4 8.
 Kxg4 Kg2 $19)) 2... Bf1 3. Rb1 Kxh2 4. Rxf1 Kg2 5. Ra1 Kxf2 6. Ke5 Kxg3 7. Ke4
 f2 8. Ke3 Kg2 9. Ke2 g3 $11) 1... Bg6 (1... Kxh2 $144 2. b7 Kg1 3. b8=Q Bd7 (
 3... Kxf2 $144 4. Qxe8 $18) 4. Qb2 Bc8 5. Qa2 Bd7 6. Kd4 Bb5 7. Qe6 Kxf2 8.
-Qxg4 $18) 2. Kd4 $1 {ContrÙle d4} (2. b7 $143 Bd3 $1 3. b8=R (3. b8=Q $143 Bf1
+Qxg4 $18) 2. Kd4 $1 {Contr—Ñle d4} (2. b7 $143 Bd3 $1 3. b8=R (3. b8=Q $143 Bf1
 $11) 3... Kxh2 4. Rg8 Kg1 5. Kd4 (5. Rxg4 $144 Kxf2 $11) 5... Bf1 6. Rxg4 (6.
 Ke3 $144 Bh3 $11) 6... Kxf2 7. Rg7 Bb5 8. g4 (8. Rb7 Kxg3) 8... Kg3 9. g5 f2
 10. Rf7 f1=Q 11. Rxf1 Bxf1 12. g6 Bh3 13. Ke5 Bf1 14. Kd4 Bh3 $11) 2... Be8 3.
@@ -630,7 +630,7 @@ Kxe6 7. a8=Q Rh3+ 8. Kg7 Bc3+ 9. Kf8 Rh8#) 2... Rh8+ (2... Kd6 $144 {main} 3.
 Ke8 Rh8+ 4. Kf7 Rxa8 5. Rd4+ Bxd4 $11) (2... Rh7 $144 3. Rab8 $1 Bg5+ 4. Kc8
 Ba6+ 5. R8b7 $11) 3. Kc7 Rxa8 4. Re4+ Bxe4 $11 1/2-1/2
 
-[Event "SachovÈ Umenie#14"]
+[Event "Sachov–π Umenie#14"]
 [Site "?"]
 [Date "1946.??.??"]
 [Round "?"]
@@ -648,7 +648,7 @@ Rh7 $144 2. Rb1 $11) (1... Kf7 $144 2. Rxh4 Ra8 3. Kf5 $1 Rxa6 4. Rxa4 Rxa4 $11
 ) (1... Rh6 $144 2. a7 f5+ 3. Kxf5 Ra6 4. Rxh4 Rxa7 $11) 2. Rxh4 Ra8 3. Kh5
 Rxa6 4. Rxa4 $1 Rxa4 $11 1/2-1/2
 
-[Event "3.hm Pr·ce"]
+[Event "3.hm Pr–±ce"]
 [Site "?"]
 [Date "1947.??.??"]
 [Round "?"]
@@ -665,7 +665,7 @@ Rxa6 4. Rxa4 $1 Rxa4 $11 1/2-1/2
 g4+ (5. Rh8+ $143 Kg4 6. Rg8+ Kf5 7. Rf8+ Kg6 $19) 5... Rxg4 6. Rh8+ Kg6 7.
 Rg8+ Kf5 8. Rf8+ Ke6 9. Re8+ Kd5 10. Rd8+ $11 1/2-1/2
 
-[Event "SachovÈ Umenie#081"]
+[Event "Sachov–π Umenie#081"]
 [Site "?"]
 [Date "1947.??.??"]
 [Round "?"]
@@ -744,7 +744,7 @@ $18 1-0
 f5 $18) 3. Rh6+ Nh5+ $1 (3... Qh5 $144 4. g3+ $18) 4. Rxh5+ $1 Qxh5 5. g3+ Kg5
 6. f4# 1-0
 
-[Event "Magyar Sakkvil·g#660"]
+[Event "Magyar Sakkvil–±g#660"]
 [Site "?"]
 [Date "1948.??.??"]
 [Round "?"]
@@ -965,133 +965,4 @@ Kxd5 4. Kxd7 $11) 3... c6 $1 (3... Kxd5 $144 4. Kb7 $18) 4. d6 $3 (4. Kb7 $143
 cxd5 5. Kxa7 d4 6. cxd4+ Kxd4 $11 {EGTB}) 4... Kxd6 5. Kb8 $1 (5. Kb7 $143 c5
 6. Kxa7 Kc7 $19) 5... c5 6. Kb7 (6. Kxa7 $143 Kc7 $19) 6... Kd5 7. Kxa7 $18 1-0
 
-[Event "2.p All-Union of Chess Section of Physi"]
-[Site "?"]
-[Date "1950.??.??"]
-[Round "?"]
-[White "Bondarenko=F Liburkin=M"]
-[Black "[+0031.33f5h1"]
-[Result "1-0"]
-[Annotator "**"]
-[SetUp "1"]
-[FEN "8/p7/Pp6/1P3K2/4P3/8/6Np/b6k w - - 0 1"]
-[PlyCount "13"]
-[EventDate "1950.??.??"]
-
-1. Nh4 (1. Ne1 $143 Bc3 $1 2. Nf3 Kg2 3. Nxh2 Kxh2 {Diagramme #} 4. e5 Kg3 $1
-5. Ke6 (5. e6 $144 Bb4 6. e7 Bxe7 7. Ke6 Kf4 $11) 5... Kf4 6. Kd6 Kf5 7. Kc7
-Kxe5 $11) 1... Kg1 2. Nf3+ Kg2 3. Nxh2 Kxh2 {Diagramme #} 4. e5 $1 (4. Ke6 $143
-Kg3 5. Kd7 Kf4 6. Kc8 Ke5 $1 7. Kb7 Kd6 8. Kxa7 Kc7 $11) 4... Bxe5 (4... Bc3
-$144 {main} 5. e6 Bb4 6. Ke5 Kg3 7. Kd5 Kf4 8. Kc6 Ke5 9. Kb7 Kd6 10. e7 $18) (
-4... Kg3 $144 5. e6 $18) 5. Ke6 $1 (5. Kxe5 $143 Kg3 6. Kd6 Kf4 $11) 5... Kg3
-6. Kd7 (6. Kd5 $143 Kf4 7. Kc6 Bb8 8. Kb7 Ke5 9. Kxb8 Kd6 $11) 6... Kf4 7. Kc8
-$18 (7. Kc6 $143 Bb8 8. Kb7 Ke5 $11) 1-0
-
-[Event "Shakhmaty v SSSR {ph}"]
-[Site "?"]
-[Date "1955.??.??"]
-[Round "?"]
-[White "Liburkin=M"]
-[Black "[=0046.30g7e5"]
-[Result "1/2-1/2"]
-[Annotator "**"]
-[SetUp "1"]
-[FEN "7B/5nKP/3P3P/4k1n1/8/8/8/b7 w - - 0 1"]
-[PlyCount "13"]
-[EventDate "1955.??.??"]
-
-1. Kg8+ $3 (1. d7 $143 Ke6+ 2. Kg8 (2. Kg6 $144 Bxh8 3. d8=Q Nxd8 4. Kxg5 Kf7
-$19) 2... Nxh6+ 3. Kf8 Kxd7 $1 4. Bxa1 Ne6#) 1... Nxh8 2. Kxh8 Kxd6+ (2... Ke6+
-$144 3. Kg8 Nf7 4. d7 Nxh6+ 5. Kf8 Kxd7 (5... Nf7 $144 6. Kg8 Nh6+ 7. Kf8 Nf7
-8. Kg8 Ke7 9. d8=Q+ $11) 6. h8=Q Bxh8 $11) 3. Kg8 Ke7 4. h8=Q Bxh8 5. h7 $1 (5.
-Kxh8 $143 Kf8 6. h7 Nf7#) 5... Ba1 6. h8=Q Bxh8 7. Kxh8 $11 1/2-1/2
-
-[Event "Izbrannje Etjudi Kaminera i Liburkina#1"]
-[Site "?"]
-[Date "1981.??.??"]
-[Round "?"]
-[White "Liburkin=M"]
-[Black "[=0100.43b4a7"]
-[Result "1/2-1/2"]
-[Annotator "**"]
-[SetUp "1"]
-[FEN "8/kp6/1Rp5/8/1KP3p1/1P6/PP6/8 w - - 0 1"]
-[PlyCount "16"]
-[EventDate "1981.??.??"]
-
-1. Ka5 g3 2. Rb5 $1 cxb5 (2... b6+ $144 3. Rxb6 g2 4. Rxc6 g1=Q $11) 3. cxb5 g2
-(3... b6+ $144 4. Ka4 g2 5. b4 g1=Q 6. b3 Qg2 7. a3 Qa8 $11) 4. b6+ Kb8 5. b4
-g1=Q 6. b5 Qg8 (6... Qe1+ $144 7. b4 $11) (6... Qb1 $144 7. a4 Qxb2 $11) 7. a4
-Kc8 8. b4 Kd7 $11 1/2-1/2
-
-[Event "Izbrannje Etjudi Kaminera i Liburkina#1"]
-[Site "?"]
-[Date "1981.??.??"]
-[Round "?"]
-[White "Liburkin=M"]
-[Black "[=0043.70a1c1"]
-[Result "1/2-1/2"]
-[Annotator "**"]
-[SetUp "1"]
-[FEN "7B/6Pb/5P2/4P3/3P4/P1P5/1P6/K1k1n3 w - - 0 1"]
-[PlyCount "13"]
-[EventDate "1981.??.??"]
-
-1. g8=Q (1. Ka2 $143 Bg8+ 2. b3 Bh7 $1 3. b4 (3. a4 Bb1+ 4. Ka3 Nc2#) 3... Bg8+
-4. f7 Bxf7+ 5. e6 Bxe6+ 6. d5 Bxd5+ 7. c4 Bxc4+ 8. Ka1 Nc2#) 1... Bxg8 2. f7
-Bxf7 3. e6 Bxe6 4. d5 Bxd5 5. c4 Bxc4 6. b3 Bxb3 7. Bb2+ $11 1/2-1/2
-
-[Event "Izbrannje Etjudi Kaminera i Liburkina#1"]
-[Site "?"]
-[Date "1981.??.??"]
-[Round "?"]
-[White "Liburkin=M"]
-[Black "[=0030.76c2c5"]
-[Result "1/2-1/2"]
-[Annotator "**"]
-[SetUp "1"]
-[FEN "8/p1p5/1bPp4/p1kPp3/P3P2p/P5P1/2K3P1/8 w - - 0 1"]
-[PlyCount "18"]
-[EventDate "1981.??.??"]
-
-1. Kd3 $1 (1. Kc3 $143 hxg3 2. Kd3 a6 3. Kc3 Ba7 4. Kd3 Bb8 5. Kc3 Kb6 6. Kd3
-Ka7 7. Ke2 Ka8 8. Kf1 Ba7 $19) 1... hxg3 2. Kc3 a6 3. Kd3 Ba7 4. Kc3 Bb8 5. Kd3
-Kb6 6. Ke2 $1 Ka7 7. Kf1 Ka8 8. Kg1 Ba7+ 9. Kh1 Kb8 $11 (9... Bb8 $144 10. Kg1
-Ka7 11. Kf1 Kb6 12. Ke2 Kc5 13. Kd3 $11) 1/2-1/2
-
-[Event "Izbrannje Etjudi Kaminera i Liburkina#1"]
-[Site "?"]
-[Date "1981.??.??"]
-[Round "?"]
-[White "Liburkin=M"]
-[Black "[+0315.11b1e8"]
-[Result "1-0"]
-[Annotator "**"]
-[SetUp "1"]
-[FEN "NN2k3/6p1/8/r7/8/1B3n2/2P5/1K6 w - - 0 1"]
-[PlyCount "13"]
-[EventDate "1981.??.??"]
-
-1. Nc7+ Kf8 2. Ne6+ Ke8 (2... Kf7 $144 3. Nd4+ Kf6 4. Nxf3 $18) 3. Nxg7+ Kf8 4.
-Ne6+ Ke8 5. Nc6 Nd2+ (5... Ra3 $144 6. Kb2 Rxb3+ 7. Kxb3 $18) 6. Kb2 Nxb3 7.
-cxb3 $18 1-0
-
-[Event "64#154 {c}"]
-[Site "?"]
-[Date "1939.??.??"]
-[Round "?"]
-[White "Liburkin=M"]
-[Black "[+0002.12b3e1"]
-[Result "1-0"]
-[Annotator "Nunn rajouter"]
-[SetUp "1"]
-[FEN "8/2N5/7N/p7/8/1K4p1/2P5/4k3 w - - 0 1"]
-[PlyCount "21"]
-[EventDate "1939.??.??"]
-
-1. Nf5 (1. Ne6 $143 g2 2. Nd4 Kd1 3. Nf3 a4+ 4. Kc3 a3 $11) (1. Ng4 $143 g2 2.
-Ne5 Ke2 $19) 1... g2 2. Nh4 (2. Nd4 $143 Kf2 $19) 2... g1=Q (2... g1=N $144 3.
-c4 Ne2 4. Ne6 $18) 3. Nf3+ Kd1 4. Nxg1 a4+ 5. Kc3 (5. Kb2 $143 a3+ $11) 5... a3
-6. Nd5 a2 7. Ne3+ Kc1 8. Ne2+ Kb1 9. Kd2 $1 a1=Q (9... Kb2 $144 10. Nc4+ Kb1
-11. Nc3+ Ka1 12. Nxa2 $18) 10. Nc3+ Kb2 11. Nc4# 1-0
-
+[Event "2.p All-Union of Che

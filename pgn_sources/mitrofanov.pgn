@@ -43,7 +43,7 @@ Bb8 7. Qg7 Qg1+ (7... Qxd5 $143 8. Qb7+ Qxb7+ 9. axb7#) 8. Qxg1 Ba7+ $11) 4...
 Ka7 5. Kc6 $1 {RK} (5. g8=Q $144 Nd4+ 6. Ka5 Nc4+ 7. Ka4 Nb6+ $11) (5. Rd1 $144
 h1=Q 6. Rxh1 Nd4+ 7. Ka5 Nc4+ 8. Ka4 Nb6+ 9. Ka5 $11) 5... Be7 $1 {VDH} (5...
 Bb4 $143 6. g8=Q Nd4+ 7. Kc7 Nb5+ 8. Kd8 Bxe1 9. Qg7+ Kxa6 10. Qa1+ Ba5 $18 {
-La Dame va monnayer son pion h contre une des pièces noires}) 6. Rxe7+ (6. g8=Q
+La Dame va monnayer son pion h contre une des piÐ¸ces noires}) 6. Rxe7+ (6. g8=Q
 $144 Nd4+ 7. Kc7 Nb5+ 8. Kc6 Nd4+ 9. Kc7 $11) 6... Kxa6 7. Ra7+ (7. Re1 $144
 Nxe1 8. g8=Q h1=Q $11) (7. g8=Q $144 Nd4+ (7... h1=Q $143 8. Ra7+ Kxa7 9. Qh7+
 Ka6 10. Qd3+ Ka7 11. Qa3+ Kb8 12. Qd6+ Ka8 13. Qd8+ Nc8 14. Qxc8+ Ka7 15. Qb7#)
@@ -156,7 +156,7 @@ Ke2 6. Kd4 Kd2 7. Kc4 c1=Q+ 8. Rxc1 Kxc1 9. Kxb3 $11) 2. Rh2+ $1 Kxh2 3. Nf3+
 $1 Kh3 4. Rh1+ Kg2 5. Rh2+ $1 Kf1 6. Ke3 {(Menace Rf2#)} Qc2 7. Rh1+ $1 Kg2 8.
 Rg1+ $1 Kh3 9. Kf4 $1 {Menace Rg4#} Qg6 (9... Qg2 $144 10. Rxg2 Kxg2 11. bxc3
 b2 12. Nd2 $11) 10. Rh1+ Kg2 11. Rh2+ Kf1 12. Ke3 $11 {
-(même position qu'après 6.Ke3)} 1/2-1/2
+(mÐºme position qu'aprÐ¸s 6.Ke3)} 1/2-1/2
 
 [Event "4/5.c Kommunist"]
 [Site "?"]
@@ -281,7 +281,7 @@ Ka7 11. cxb6+ Kxb6 $11) 8... Qxb6+ 9. Kxb6 $18 1-0
 Rh8 3. d8=Q Rxd8 4. Rxd8 c3 5. Rc8 $1 Kb6 6. Rf8 $1 Kb5 7. Rf2 Kc4 8. Kf1 $1
 Kd3 9. Ke1 c2 10. Rf3+ Kd4 11. Kd2 $18 1-0
 
-[Event "2.p Tidskrift för Schack"]
+[Event "2.p Tidskrift fÑ†r Schack"]
 [Site "?"]
 [Date "1992.??.??"]
 [Round "?"]

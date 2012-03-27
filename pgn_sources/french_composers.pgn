@@ -276,9 +276,9 @@ Bxd6 $1 4. d8=R $3 (4. d8=Q $143 Bf4 5. Qd2+ Kf3 $19) 4... Bf4 (4... Bxh2 $144
 [PlyCount "9"]
 [EventDate "1935.??.??"]
 
-1. a7+ Ka8 2. Kh8 $1 {A l'abri de tout échecs de la Q qui va être promue en b1}
-f5 3. Kh7 {A l'abri de tout échecs de la Q qui va être promue en b1} f4 4. Kh6
-$1 {A l'abri de tout échecs de la Q qui va être promue en b1} b1=Q 5. Rd2 $18
+1. a7+ Ka8 2. Kh8 $1 {A l'abri de tout Ð¹checs de la Q qui va Ðºtre promue en b1}
+f5 3. Kh7 {A l'abri de tout Ð¹checs de la Q qui va Ðºtre promue en b1} f4 4. Kh6
+$1 {A l'abri de tout Ð¹checs de la Q qui va Ðºtre promue en b1} b1=Q 5. Rd2 $18
 1-0
 
 [Event "1/2.p Gros {v}"]
@@ -368,7 +368,7 @@ a8=Q Rc1+ $19) 4... Ke4 (4... Ke6 $144 5. Nc5+ Ke5 6. Nf3+ $18) 5. Nf2+ Ke3 (
 7. Nc3+ Ke5 8. Nf3+ Ke6 9. Nd4+ Ke5 10. Re8 $1 Rxa7 11. Nc6+ $18) 7. Nc3+ Ke1 (
 7... Ke3 $144 8. Nd5+ Nxd5 9. Re8+ $18) 8. Nf3# 1-0
 
-[Event "Journal de Genève"]
+[Event "Journal de GenÐ¸ve"]
 [Site "?"]
 [Date "1955.??.??"]
 [Round "?"]
@@ -414,7 +414,7 @@ Kc5 $144 5. Kc7 $1 $11 {Diagramme # zz1B}) (4... Kd6 $144 5. Kc8 $1 Ke5 (5...
 Kc5 $144 6. Kc7 $11 {Diagramme # zz1B}) 6. Kc7 Kf4 7. Kd6 g4 8. Kc5 $11) 5. Kc6
 $1 a4 6. Kd6 a3 7. Ke5 $1 Kd3 8. Be6 Ke3 9. Kf5 $11 1/2-1/2
 
-[Event "Journal de Genève"]
+[Event "Journal de GenÐ¸ve"]
 [Site "?"]
 [Date "1956.??.??"]
 [Round "?"]
@@ -553,8 +553,8 @@ Ng6 $11) 7. Ke2 Kxe7 8. Kd3 $11 1/2-1/2
 [PlyCount "15"]
 [EventDate "1978.??.??"]
 
-{(Correction 2006 de JMR, un pion a été ajouté en e6 pour éviter une seconde
-solution commençant par 1.Nb4+)} 1. Bxe6+ (1. Nb4+ $143 Kc5 2. Na6+ Kc6 3. Be2
+{(Correction 2006 de JMR, un pion a Ð¹tÐ¹ ajoutÐ¹ en e6 pour Ð¹viter une seconde
+solution commenÐ·ant par 1.Nb4+)} 1. Bxe6+ (1. Nb4+ $143 Kc5 2. Na6+ Kc6 3. Be2
 Ng4+ 4. Kg2 Nxe3+ 5. Kxf2 Nc2 6. Nxe6 Nc5 $11) 1... Kc6 (1... Kc5 $144 2. d4+
 Kc6 3. Kg2 $18) 2. Nb4+ Kc5 (2... Kc7 $144 3. Kg2 $18) 3. Na6+ Kc6 4. d4 f1=N+
 (4... Nc5 $144 5. Nb4+ Kc7 6. Kg2 $18) 5. Kg1 (5. Kh3 $143 Nxe3 $11) 5... Nxe3
@@ -660,8 +660,8 @@ Bxc4 9. Nc6+ Qxc6 10. Ra4+ Kxb5 11. Ra5+ bxa5 $11 (11... Kxa5 $144 $11) 1/2-1/2
 [PlyCount "29"]
 [EventDate "1997.??.??"]
 
-{(Correction par Iglésisas 2006 , la Tour initalement en f4 est déplacée en h4
-pour éviter une seconde solution)} 1. Rxe4+ Kxe4 (1... Kf6 $144 2. Rf4+ Ke7 3.
+{(Correction par IglÐ¹sisas 2006 , la Tour initalement en f4 est dÐ¹placÐ¹e en h4
+pour Ð¹viter une seconde solution)} 1. Rxe4+ Kxe4 (1... Kf6 $144 2. Rf4+ Ke7 3.
 Rh7 c1=Q+ 4. Kf2 Qxf4+ 5. gxf4 c2 6. Bxd3 c1=Q $11) 2. Bxd3+ Kxd3 3. O-O f5 (
 3... Kc4 $144 4. Kf2 Kb3 5. Ke3 Kb2 6. Kd3 c1=Q 7. Rxc1 Kxc1 8. Kxc3 $11) (3...
 Kd2 $144 4. Rf2+ Kc1 5. Rxf7 Kb2 6. Rb7+ Ka2 7. Ra7+ Kb3 8. Rb7+ Ka4 9. Ra7+ (
@@ -689,7 +689,7 @@ Rxc2 $11 1/2-1/2
 1. h7 Rg3+ 2. Nxg3 (2. Kh6 $144 Rg8 3. Nf6 Rh8 4. Nxd5 Kf7 $11) 2... Kg7 3.
 Nh5+ Kh8 4. f5 Bf7 5. Kh6 Bg6 6. f6 Bxh7 7. f7 Bg8 8. f8=B $18 1-0
 
-[Event "3ème prix Avni 50-JT"]
+[Event "3Ð¸me prix Avni 50-JT"]
 [Site "?"]
 [Date "2005.??.??"]
 [Round "?"]
@@ -712,8 +712,8 @@ la nulle)}) 5. Ra1 (5. Rd1 $144 Ne4 6. Rh1 (6. Ra1 $144 h3 $19) 6... Kxa4 7.
 Rxh4 Nc3+ 8. Kf1 Nd1 9. Rf4 Nxe3+ 10. Ke2 f1=Q+ 11. Rxf1 Nxf1 12. Kxf1 Kb4 $19)
 5... Nc4 6. Kf3 Na3 7. Ke2 Kxa4 8. Rh1 Nc4 9. Rxh4 Nxe3 10. Rf4 f1=Q+ 11. Rxf1
 Nxf1 12. Kxf1 Kb4 $19) (1. Rc1 $143 Ka7 2. a3 Kxa6 3. Ra1 Ka5 4. Rd1 Ka4 5. Ra1
-Nd2+ 6. Ke2 Nc4 7. Kf3 Kb3 8. a4 Kb4 9. Ke2 Ka5 $19 {et le pion étant à
-présent bloqué en a4, les noirs gagnent comme vuprécédement.}) 1... Ka7 ({Les
+Nd2+ 6. Ke2 Nc4 7. Kf3 Kb3 8. a4 Kb4 9. Ke2 Ka5 $19 {et le pion Ð¹tant Ð°
+prÐ¹sent bloquÐ¹ en a4, les noirs gagnent comme vuprÐ¹cÐ¹dement.}) 1... Ka7 ({Les
 noirs ne peuvent perdre un tempo en jouant sur la colonne b :} 1... Kb8 $144 2.
 Rh1 Nd2+ 3. Ke2 Ka7 $11 (3... h3 $143 4. gxh3 g2 5. Rb1+ Nxb1 6. Kxf2 Nxa3 7.
 Kxg2 $18)) 2. a4 Kxa6 ({Avec le pion blanc encore en a6, le roi noir ne peut
@@ -722,24 +722,24 @@ pas trianguler via b6 :} 2... Kb6 $144 3. Rh1 Nd2+ (3... Kxa6 $144 4. Ke2 Nc3+
 $1 Ne4 6. Rh1 Nc3+ $11 {(cf 3...Rxa6)}) 5. gxh3 g2 6. Rb1+ Nxb1 7. Kxf2 Nc3 8.
 Kxg2 $11) 3. a5 Nd2+ (3... Nc3 $144 4. Kg4 h3 5. Kxg3 Ne4+ 6. Kxh3 Nd2 7. Kg3
 f1=Q 8. Rxf1 Nxf1+ 9. Kf4 $11) 4. Ke2 Nb3 (4... f1=Q+ $144 5. Rxf1 Nxf1 6. Kxf1
-Kxa5 7. Ke2 $11 {cf la ligne principale après 12.Re2}) 5. Rh1 (5. Rb1 $143 Nxa5
+Kxa5 7. Ke2 $11 {cf la ligne principale aprÐ¸s 12.Re2}) 5. Rh1 (5. Rb1 $143 Nxa5
 6. Rh1 Nc4 7. Rxh4 Nxe3 $19) 5... Nd2 (5... Kxa5 $144 6. Rxh4 Nd2 7. Rf4 f1=Q+
 8. Rxf1 Nxf1 9. Kxf1 Kb4 10. Ke2 Kc3 11. Kf3 Kd3 12. Kf4 Ke2 13. Kg4 $1 $11 {
-cf ligne principale après 16.Rg4!}) 6. Ra1 Nc4 7. Kf3 (7. Rh1 $143 Kxa5 8. Rxh4
+cf ligne principale aprÐ¸s 16.Rg4!}) 6. Ra1 Nc4 7. Kf3 (7. Rh1 $143 Kxa5 8. Rxh4
 Nxe3 $19) 7... Na3 ({A nouveau, le roi noir ne peut trianguler car il serait
-exposé à un échec sur la colonne b :} 7... Kb7 $144 8. Rh1 Nd2+ 9. Ke2 h3 10.
+exposÐ¹ Ð° un Ð¹chec sur la colonne b :} 7... Kb7 $144 8. Rh1 Nd2+ 9. Ke2 h3 10.
 gxh3 g2 11. Rb1+ Nxb1 12. Kxf2 Nd2 13. Kxg2 $11) ({Forcer la finale de pions
 transpose toujours dans la ligne principale :} 7... f1=Q+ $144 8. Rxf1 Nd2+ 9.
 Ke2 Nxf1 10. Kxf1 Kxa5 11. Ke2 $11 {cf ligne principale 12.Re2}) 8. Ke2 Nc2 ({
-Les noirs doivent finalement se résoudre à échanger le pion f et le cavalier
+Les noirs doivent finalement se rÐ¹soudre Ð° Ð¹changer le pion f et le cavalier
 contre la tour :} 8... Nb5 $144 9. Kf3 Nc3 $11) 9. Rc1 ({Les blancs doivent
-attaquer le cavalier tout en continuant à garder la première rangée :} 9. Ra2
+attaquer le cavalier tout en continuant Ð° garder la premiÐ¸re rangÐ¹e :} 9. Ra2
 $143 Nxe3 $19) (9. Rh1 $143 Kxa5 10. Rxh4 (10. Rc1 $144 Ne1 11. Kf1 Kb4 $19)
 10... Nxe3 11. Rf4 f1=Q+ $19) 9... Ne1 10. Rxe1 ({Les blancs doivent entrer
-dans la finale immédiatement :} 10. Kf1 $143 Kxa5 11. Rb1 Ka4 12. Rb8 Nxg2 13.
+dans la finale immÐ¹diatement :} 10. Kf1 $143 Kxa5 11. Rb1 Ka4 12. Rb8 Nxg2 13.
 Kxg2 h3+ 14. Kf1 h2 15. Rh8 Kb3 $19) 10... fxe1=Q+ 11. Kxe1 Kxa5 12. Ke2 Kb4
 13. Kf3 Kc3 14. Kg4 Kd3 15. Kxh4 Ke2 16. Kg4 ({Les noirs ont tendu un dernier
-piège aux blancs :} 16. Kxg3 $143 Kxe3 $1 {zugzwang mutuel trait aux blancs,
+piÐ¸ge aux blancs :} 16. Kxg3 $143 Kxe3 $1 {zugzwang mutuel trait aux blancs,
 et maintenant :} 17. Kg4 (17. Kh4 $144 Kxd4 18. g4 Ke5 (18... Ke4 $143 19. Kg3
 $1 $11 {zz trait aux noirs}) 19. g5 (19. Kg3 $144 Ke4 $1 {zz trait aux blancs})
 19... Kf5 20. Kh5 d4 21. g6 d3 22. g7 d2 23. g8=Q d1=Q+ $19) 17... Kxd4 18. Kf3
@@ -761,26 +761,26 @@ Kc3 22. Ke2 $11 1/2-1/2
 [PlyCount "19"]
 [EventDate "2005.??.??"]
 
-{Pendant un long moment je ne voyais pas du tout l'idée de nulle, et c'est
-encore étonnant que Blanc soit capable de tenire avec ce qui ressemble à une
-position foutue. Le cinquième coup des Blancs est le point central de l'étude,
-qui est valorisée par une position naturelle. Un petit bijou avec plein de jeu
-pour un matériel limité.} 1. Kc4 Nb6+ 2. Kc3 $1 {Ce coup subtil est l'idée clé.
+{Pendant un long moment je ne voyais pas du tout l'idÐ¹e de nulle, et c'est
+encore Ð¹tonnant que Blanc soit capable de tenire avec ce qui ressemble Ð° une
+position foutue. Le cinquiÐ¸me coup des Blancs est le point central de l'Ð¹tude,
+qui est valorisÐ¹e par une position naturelle. Un petit bijou avec plein de jeu
+pour un matÐ¹riel limitÐ¹.} 1. Kc4 Nb6+ 2. Kc3 $1 {Ce coup subtil est l'idÐ¹e clÐ¹.
 Les autres coups :} (2. Kb3 $143 Kd5 3. f5 Kxd4 4. b5 c5 5. f6 Nd7 6. f7 Kd5 7.
 Kc3 Kd6 $19) (2. Kd3 $143 Kd5 3. Kc3 Nd7 4. f5 (4. Kd3 $144 Nf6 5. Kc3 Ne4+ 6.
 Kb3 Kxd4 7. Ka4 Nd6 8. Ka5 Kd5 9. Kb6 Nf5 10. Kc7 Nd4 11. Kb6 Kc4 $19) 4... Nf6
-{Zugzwang réciproque avec le trait aux Blancs} 5. Kb3 (5. Kd3 $144 Ne4 6. Ke3
+{Zugzwang rÐ¹ciproque avec le trait aux Blancs} 5. Kb3 (5. Kd3 $144 Ne4 6. Ke3
 Nd6 7. f6 Ke6 $19) (5. b5 $144 cxb5 6. Kb4 Kc6 $19) 5... Kxd4 6. b5 c5 7. b6
 Kd5 8. b7 Nd7 9. f6 Kc6 $19) 2... Kd5 3. f5 (3. Kd3 $143 Nc4 $1 4. f5 (4. Kc3
 $144 Nd6 5. Kd3 Nb5 6. f5 Nd6 7. f6 Ke6 $19) 4... Nd6 5. f6 Ke6 $19) 3... Nd7 (
 3... Nc8 $144 4. Kb3 Nd6 $11 {transpose dans la ligne principale.}) 4. Kd3 Nf6
-5. Kc3 $1 {C'est le zugzwang réciproque avec le trait aux Noirs.} Ne4+ (5...
+5. Kc3 $1 {C'est le zugzwang rÐ¹ciproque avec le trait aux Noirs.} Ne4+ (5...
 Ne8 $144 6. Kb3 $11 {transposes.}) 6. Kb3 Nd6 (6... Kxd4 $144 7. b5 $11 {Noir
 doit accepter la nulle} (7. b5 c5 $4 8. b6 Nd6 9. f6 $18)) 7. Ka4 $1 (7. f6
 $143 Ke6 $19) 7... Kxd4 8. f6 Kd5 (8... Kc4 $144 9. Ka5 $11) 9. Ka5 Nf7 10. Kb6
 $11 {avec une nulle facile .} 1/2-1/2
 
-[Event "2ème prix Avni-50JT"]
+[Event "2Ð¸me prix Avni-50JT"]
 [Site "?"]
 [Date "2005.??.??"]
 [Round "?"]
@@ -793,17 +793,17 @@ $11 {avec une nulle facile .} 1/2-1/2
 [PlyCount "30"]
 [EventDate "2005.??.??"]
 
-{Thèmes : thème du WCCT7 (à partir d'une position X, les blancs sacrifient une
-pièce, puis reviennent à une position X' identique à X moins la pièce
-sacrifiée - ici la dame nouvellement promue); pats en échos} 1. Qe8 (1. f8=Q
+{ThÐ¸mes : thÐ¸me du WCCT7 (Ð° partir d'une position X, les blancs sacrifient une
+piÐ¸ce, puis reviennent Ð° une position X' identique Ð° X moins la piÐ¸ce
+sacrifiÐ¹e - ici la dame nouvellement promue); pats en Ð¹chos} 1. Qe8 (1. f8=Q
 $143 Qe2+ 2. Kg3 Qg4+ 3. Kh2 Qxf4+ 4. Kxh3 Qg4+ 5. Kh2 Qh4#) 1... Qh4 {les
-blancs doivent trouver une suite énergique, car les deux pions noirs valent
+blancs doivent trouver une suite Ð¹nergique, car les deux pions noirs valent
 plus que la dame que les blancs sont sur le point d'obtenir :} (1... Qe4+ $144
 2. Qxe4 fxe4+ 3. Kxe4 Kxg1 4. f8=Q h2 5. Kf3 h1=Q 6. Qc5+ Kh2 7. Qh5+ Kg1 $11)
 2. f8=Q (2. Qxb5+ $143 Kxg1 3. Qxf5 Kh1 4. f8=Q g1=Q 5. Ke4 Qhe1+ 6. Kd5 Qg2+
 7. Kd6 Qxb4+ 8. Qc5 Qgb7 $19) (2. Qe2+ $143 Kxg1 3. f8=Q Kh1 4. Qd1+ Kh2 5.
 Qxf5 Qg3+ 6. Ke2 g1=Q 7. Qxg1+ Kxg1 $19) 2... Kxg1 3. Qc5+ ({Les noirs
-menacent de promouvoir à la fois g et h. Par exemple :} 3. Qe3+ Kh2 4. Qxf5
+menacent de promouvoir Ð° la fois g et h. Par exemple :} 3. Qe3+ Kh2 4. Qxf5
 Qg3+ 5. Ke4 Qxe3+ 6. Kxe3 g1=Q+ 7. Ke2 Qg2+ 8. Ke1 Qg3+ $19) (3. Qxf5 $143 Qf2+
 4. Kg4 Kh2 5. Qd3 $5 g1=Q+ 6. Kf5 Qc1 $1 7. Qde4 Qfc2 8. Q8e7 Qc8+ 9. Q7e6 Kg3
 10. Qd3+ Kh4 11. Qd8+ Qxd8 12. Qe7+ Kg3 $1 $19) 3... Kh2 4. Qg1+ Kxg1 5. Qe1+
@@ -813,7 +813,7 @@ Kh1 9. Kf1 $11) 8. Qe1 Kh2 9. Qf2+ Qg2+ 10. Ke3 (10. Ke2 $143 Kh1 11. Ke1 Qxf2+
 $144 14. Qf1+ Qg1 15. Ke2 $11) (13... Qd1+ $144 14. Ke3 Qb3+ 15. Ke2 Qa2+ 16.
 Ke3 Qe6+ 17. Kd2 Qxg6 18. Qf1+ $11) 14. Ke3 Qd1 15. Qg2+ Kxg2 $11 1/2-1/2
 
-[Event "France-échecs"]
+[Event "France-Ð¹checs"]
 [Site "?"]
 [Date "2006.??.??"]
 [Round "?"]
@@ -857,7 +857,7 @@ Bf2 $143 Nf4 10. Kc3 b2 $19) 9... Nf4 (9... Nc7 $144 10. Kc1 (10. Bd4 $144 {
 tohle je jediny dualek a jeste ve vedlejsi variante}) (10. Bf2 $144) (10. Bg1
 $144) 10... Nd5 11. Bg1 $1 $11) 10. Bxf4+ $11 1/2-1/2
 
-[Event "France-échecs"]
+[Event "France-Ð¹checs"]
 [Site "?"]
 [Date "2009.09.??"]
 [Round "?"]
@@ -871,266 +871,17 @@ $144) 10... Nd5 11. Bg1 $1 $11) 10. Bxf4+ $11 1/2-1/2
 
 1. Kf6 Rh3 2. Ra1 $1 (2. Rb1 $143 c2 3. Ra1 Rh4 $11 {Maintenant, si les blancs
 font osciller leur tour sur c1/e1/g1, les noirs font osciller la leur sur h2/
-h3 de manière à toujours répondre Th4! à Ta1 Les noirs auront toujours la
-poussée g6-g5 en réponse à Rf7. Cette position de Zugzwang trait aux blancs
+h3 de maniÐ¸re Ð° toujours rÐ¹pondre Th4! Ð° Ta1 Les noirs auront toujours la
+poussÐ¹e g6-g5 en rÐ¹ponse Ð° Rf7. Cette position de Zugzwang trait aux blancs
 est donc nulle.}) (2. Kf7 $143 g5 $19 3. f5 Rh4 4. Rxc3 Rxg4 $19) 2... Rh4 (
 2... Rh5 $144 3. Kf7 g5 4. f5 $18 {mat en quelques coups}) (2... c2 $144 3. Kf7
 $18 {mat comme dans la variante principale}) (2... b5 $144 3. Kf7 $18 {mat en
-quelques coups}) 3. Rb1 $1 (3. Kf7 $143 g5 $19 {et les Noirs se libèrent}) 3...
+quelques coups}) 3. Rb1 $1 (3. Kf7 $143 g5 $19 {et les Noirs se libÐ¸rent}) 3...
 c2 (3... b5 $144 4. Ra1 b4 5. Kf7 b3 6. Kg8 $18 {mat comme dans la variante
 principale}) (3... Rh3 $144 4. Kf7 c2 5. Ra1 $18 {mat comme dans la variante
-principale}) 4. Ra1 {La Position de Zugzwang précédente trait aux Noirx} Rh3 (
+principale}) 4. Ra1 {La Position de Zugzwang prÐ¹cÐ¹dente trait aux Noirx} Rh3 (
 4... b5 $144 5. Kf7 $18 {mat en quelques coups}) (4... Rh2 $144 5. Kf7 $18 {
 mat en quelques coups}) 5. Kf7 g5 6. f5 Rh4 7. Kg8 Rxg4 8. Ra7 $18 {mat au
 suivant} 1-0
 
-[Event "France Êchecs"]
-[Site "?"]
-[Date "2010.??.??"]
-[Round "?"]
-[White "Iglesias, J."]
-[Black "[=1037.40h8c8]"]
-[Result "1/2-1/2"]
-[Annotator ",Joachim"]
-[SetUp "1"]
-[FEN "K1k1nN2/P7/2n5/P7/Q2P4/8/4bP2/8 w - - 0 1"]
-[PlyCount "24"]
-[EventDate "2010.??.??"]
-
-1. Ne6 $1 (1. Qxc6+ $143 Nc7+ 2. Qxc7+ Kxc7 3. Ne6+ Kc8 4. d5 Bf3 5. Nf4 Be4 6.
-f3 Bxf3 7. a6 Be4 8. Ne6 Bxd5#) 1... Bf3 2. Qc4 Nc7+ $1 3. Nxc7 Ne5+ (3...
-Nxa5+ $144 4. Nd5+ $1 (4. Qd5 $143 Nc4 $1 $19) 4... Nxc4 $11) 4. Qd5 $1 (4.
-Nd5+ $143 Nxc4 5. a6 Nb6#) 4... Kxc7 (4... Nc4 $143 5. Qxf3 Nb6+ 6. axb6 $18)
-5. Qxf3 Nxf3 6. d5 Kc8 7. d6 Ne5 8. f3 $1 (8. f4 $143 Nd7 $22 9. f5 Nf6 10. d7+
-Nxd7 11. f6 Nf8 12. f7 Kc7 13. a6 Nd7 14. f8=Q Nb6#) 8... Nd7 9. f4 Nf6 10. f5
-Nd7 11. f6 Nxf6 12. a6 Nd7 $11 1/2-1/2
-
-[Event "1er prix Nestorescu 80 JT, 2010 "]
-[Site "?"]
-[Date "2010.??.??"]
-[Round "?"]
-[White "Pallier A, Doré M"]
-[Black "[+3045.30b8b5]"]
-[Result "1-0"]
-[SetUp "1"]
-[FEN "1K6/1P6/3PN1n1/1k6/8/2b1B1q1/2P4N/8 w - - 0 1"]
-[PlyCount "23"]
-[EventDate "2010.??.??"]
-
-1. Kc7 $1 (1. Kc8 $143 {or Ra8} Qxd6 2. b8=Q+ Qxb8+ 3. Kxb8 Be5+ $11) (1. Nc7+
-$143 Kc6 $11) 1... Kc4 $1 (1... Ba5+ $144 2. Kc8 $1 Qxe3 3. b8=Q+ Bb6 4. Nc7+
-Kc5 5. Qxb6+ Kxb6 6. Nd5+ $18) (1... Qxe3 $144 2. b8=Q+ Ka5 3. Qa8+ Kb5 4. Qb7+
-Ka4 5. Qb3+ Ka5 6. Nd8 $18) 2. b8=Q Qxd6+ (2... Qxe3 $144 3. Qb3#) (2... Qxh2
-$144 3. Qb3#) 3. Kxd6 Be5+ 4. Kc6 $1 (4. Kd7 $143 {Thematic try} Bxb8 5. Nf3 {
-or Cg4} (5. Nf1 $144 Kc3 6. Nd4 Be5 $11) 5... Ne5+ 6. Nxe5+ Bxe5 7. Kc6 (7. Bd2
-$144 Bc3 $11 {or Ff6=}) 7... Bh8 $1 8. Bd2 Bc3 $1 9. Be3 Bh8 $11 {Positional
-draw}) 4... Bxb8 5. Nf3 $1 (5. Ng4 $143 Kc3 $1 (5... Ne5+ $143 6. Nxe5+ Bxe5
-$18 {See main line}) 6. Nd4 Ne5+ 7. Nxe5 Bxe5 $11) 5... Ne5+ $1 6. Nxe5+ (6.
-Kb7 $143 Nxf3 7. Kxb8 Kc3 $11) 6... Bxe5 7. Bb6 $3 (7. Bd2 $143 Bc3 $1 8. Be3
-Bh8 $1 (8... Bd2 $143 9. Bb6 $18 (9. Bxd2 $143 $11)) 9. Bd2 (9. Bb6 $144 Kc3
-$11) 9... Bc3 $11 {Positional draw}) 7... Bh8 $1 (7... Kc3 $144 8. Kd5 Bh8 (
-8... Bg3 $144 9. Nd4 $18) 9. Bd4+ $18) 8. Ba5 $1 Bc3 $1 9. Kb6 $1 (9. Bd8 $143
-Ba5 $1 10. Be7 (10. Bxa5 $144 $11) 10... Bd2 $1 11. Bf6 Bc3 $1 12. Bd8 Ba5 $11
-{Positional draw}) (9. Bb6 Bh8 10. Ba5 $18 {Loss of time}) 9... Bxa5+ 10. Kxa5
-Kc3 11. Nd4 Kxd4 12. Kb4 $18 1-0
-
-[Event "1.p Moscow Ty"]
-[Site "?"]
-[Date "2010.??.??"]
-[Round "?"]
-[White "Pallier=A"]
-[Black "[+0132.22f6a2]"]
-[Result "1-0"]
-[SetUp "1"]
-[FEN "8/5R2/1b3K2/5p2/8/3PNP2/kp3N2/8 w - - 0 1"]
-[PlyCount "17"]
-[EventDate "2010.??.??"]
-
-1. Nfd1 $1 ({Thematic try} 1. Ned1 $143 Bd4+ 2. Kxf5 b1=Q 3. Ra7+ (3. Nc3+ $143
-Bxc3 4. Ra7+ Kb3 5. Rb7+ Bb4 $19) 3... Bxa7 4. Nc3+ Kb2 5. Nxb1 Bxf2 6. Nd2 Kc2
-7. Nc4 Kxd3 $11) 1... Bd4+ 2. Kxf5 b1=Q 3. Ra7+ Bxa7 4. Nc3+ Kb2 5. Nxb1 Bxe3
-6. Ke4 $1 Bc1 7. d4 $1 (7. f4 $143 Kxb1 8. d4 Ba3 $1 9. f5 Kc2 10. Ke5 Bb2 $1
-11. f6 Kd3 $11) 7... Kxb1 8. d5 Ba3 9. Ke5 $18 (9. f4 $143 Bd6 $11) 1-0
-
-[Event "1.p Sachova Skladba"]
-[Site "?"]
-[Date "2010.??.??"]
-[Round "?"]
-[White "Keith=D, Polasek=J"]
-[Black "(+0314.21h8d2)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "7K/1p6/8/P4P2/3N2B1/2r4n/3k4/8 w - - 0 1"]
-[PlyCount "13"]
-[EventDate "1981.??.??"]
-
-1. Nf3+ (1. f6 $143 Ng5 2. Bf5 Rc7 3. Kg8 Rf7 4. Nf3+ Ke3 5. Nxg5 Rxf6 $11)
-1... Kc2 $1 (1... Kc1 $144 2. f6 Rc7 3. Kg8 $1 Nf2 4. Bf5 {eg :} Nd1 5. Nd4 $1
-Ne3 6. Be6 Kb2 7. Nb5 Rc1 8. f7 Rg1+ 9. Kf8 Rf1 10. Ke8 Rf6 11. f8=Q Rxf8+ 12.
-Kxf8 $18) (1... Ke3 $144 2. f6 $1 (2. Bxh3 $143 Kxf3 3. f6 Kf4 $1 4. Bg2 Rc7 5.
-Kg8 Rc5 6. f7 Rg5+ 7. Kh7 Rf5 8. Kg7 Rg5+ 9. Kf6 Rxa5 $1 $11 10. f8=Q Rf5+ $11)
-2... Nf4 (2... Rc7 $144 3. Bxh3 Kxf3 (3... Rf7 $144 4. Ne5 Rxf6 5. Ng4+ $18) 4.
-Kg8 Ke4 5. f7 Rxf7 6. Kxf7 Kd5 7. Bg2+ Kc5 8. Bxb7 $18) 3. f7 $1 Rc7 $1 4. Kg8
-Rxf7 5. Kxf7 Nd3 $1 6. Ke7 $1 Nc5 7. Be6 $1 Kxf3 8. Kd6 $1 $18 Ne4+ 9. Kd5 $1
-Nd2 10. Kd4 Kf4 11. Bd5 Kf5 12. Kc3 $1 Ke5 13. Bxb7 Nb1+ 14. Kb4 Kd6 15. a6 Kc7
-16. Kc5 $1 $18) 2. f6 Rc7 3. Bf5+ $1 (3. Kg8 $143 Nf2 4. Bf5+ Kc3 5. Ne5 Kb4 6.
-Bd7 Rxd7 7. Nxd7 Ng4 8. f7 Nh6+ $11) (3. Bxh3 $143 Rf7 4. Bf5+ Kb2 $1 5. Be4
-Kc3 $1 6. Bxb7 Rxb7 7. Ne5 Kb4 8. a6 Rb8+ $11) (3. a6 $143 bxa6 4. Bf5+ Kc1 $1
-$11) 3... Kb2 $1 (3... Kc1 $144 4. Kg8 $1 Nf2 (4... Ng5 $144 5. Nxg5 Rc5 6. f7
-Rxf5 7. Ne4 Kc2 8. Nd6 Rf6 9. f8=Q $18) (4... Nf4 5. f7 Rxf7 6. Kxf7) 5. f7
-Rxf7 6. Kxf7 Kb2 7. Bc8 Ne4 8. Bxb7 Nd6+ 9. Ke7 Nxb7 10. a6 $18) (3... Kc3 $144
-{Or a6} 4. Bxh3 Rf7 5. Ng5 Rxf6 6. Ne4+ $18) (3... Kb3 $144 4. Bxh3 Rf7 5. Be6+
-$18) 4. Bxh3 (4. Kg8 $143 Nf4 5. Nd4 (5. f7 $144 Rxf7 6. Kxf7 Kc3 $11) 5... Nd5
-6. f7 Rxf7 7. Kxf7 Kc3 8. Nc2 Nb4 $11 9. Na3 Nc6 10. Nb5+ Kb4 11. Nd6 Nxa5 $11
-{EGTB}) (4. a6 $144 $1 bxa6 5. Bxh3 Rf7 $18 {Minor Dual. See main line 5.bxa6})
-4... Rf7 5. a6 $1 bxa6 6. Ne5 Rxf6 7. Kg7 $18 1-0
-
-[Event ".hm Zhigulevskie Zori"]
-[Site "?"]
-[Date "2008.??.??"]
-[Round "?"]
-[White "Keith=D"]
-[Black "(=0147.12g2d1)"]
-[Result "1/2-1/2"]
-[Annotator "ok+"]
-[SetUp "1"]
-[FEN "6N1/3b4/8/1R5p/1n5P/8/1B2npK1/3k4 w - - 0 1"]
-[PlyCount "22"]
-[EventDate "2008.??.??"]
-
-1. Re5 $1 (1. Ba3 $143 Nd3 (1... Bxb5 $143 2. Bxb4 Nf4+ 3. Kxf2 $11) 2. Rb1+
-Kd2 3. Rf1 Bc6+ $1 4. Kh2 Ke3 $19 {win}) 1... Nd3 2. Re3 Bh3+ $1 3. Rxh3 Ng3 4.
-Rxg3 Ke2 5. Re3+ Kxe3 6. Bd4+ $1 Kxd4 7. Nh6 $1 (7. Ne7 $143 Ke4 $1 8. Kf1 (8.
-Nc6 $144 Ke3 9. Kf1 Nc5 $1 10. Nb4 Kf3 11. Nc2 Ne4 $1 12. Nd4+ Kf4 13. Kg2 Ke3
-14. Nf5+ Ke2 15. Nd4+ Kd3 $1 16. Nf5 Nd6 17. Ng3 Ke3 18. Nxh5 Ne4 $19) 8... Kf3
-9. Nf5 Ne5 $1 10. Nd4+ Ke3 11. Nf5+ Kf4 12. Nd4 Ng4 13. Kg2 Ke3 $19) 7... Ke4
-8. Nf7 Ke3 (8... Kf4 $144 {<technical line>} 9. Nh6 (9. Nd6 $144 {<or>} Ke3 10.
-Nf5+ $11) 9... Ke3 10. Nf5+ Ke2 11. Nd4+ Kd2 12. Nf3+ (12. Kf1 $144 $1 {<minor
-dual>} Ke3 13. Nf3 Kxf3 $11) 12... Ke3 13. Kf1 Kxf3 $11 {stalemate}) 9. Kf1 Nc5
-$1 (9... Kf3 $144 10. Ne5+ Nxe5 $11 {stalemate}) 10. Ng5 (10. Ne5 $143 Ne4 $1
-$19) 10... Nb3 11. Nf3 Kxf3 $11 1/2-1/2
-
-[Event "2.sp.hm  Zadachy i Etiudy"]
-[Site "?"]
-[Date "2009.??.??"]
-[Round "?"]
-[White "Keith=D"]
-[Black "(+0040.21a2d2)"]
-[Result "1-0"]
-[Annotator "ok+"]
-[SetUp "1"]
-[FEN "8/6b1/8/4P1B1/8/4p1P1/K2k4/8 w - - 0 1"]
-[PlyCount "11"]
-[EventDate "2009.??.??"]
-
-1. e6 Bf8 2. g4 $1 (2. e7 $143 Bxe7 3. Bxe7 Ke2 $3 4. g4 Kd3 $1 5. g5 e2 6. Bb4
-Kc4 7. Be1 Kd5 $11) (2. Kb3 $143 Ke2 3. g4 Kf3 4. Bxe3 Kxg4 $11 (4... Kxe3 $143
-{#19})) 2... Kd3 3. Bxe3 $1 Ke4 (3... Kxe3 $144 4. g5 Be7 5. g6 $18) 4. Bg5 $1
-Kf3 5. Bh6 $1 Be7 6. g5 $18 1-0
-
-[Event "Cs_sach_0910_#048_2.p"]
-[Site "?"]
-[Date "2011.??.??"]
-[Round "?"]
-[White "Pallier, Alain"]
-[Black "(=1337.54.a5c8)"]
-[Result "1/2-1/2"]
-[Annotator "ok+"]
-[SetUp "1"]
-[FEN "2k5/n2p1p2/2ppN2P/Kb6/P1r2P2/2P1Q3/1n2P3/8 w - - 0 1"]
-[PlyCount "17"]
-[EventDate "2010.??.??"]
-
-1. Nc5 $1 (1. Qxa7 $143 Rxa4+ 2. Kb6 Nc4#) 1... Rxc5 (1... dxc5 $143 2. Kb6 $1
-$18) (1... Kc7 $143 2. Na6+ $1 $18) 2. Qxc5 $3 (2. axb5 $143 Rxb5+ 3. Ka6 Nc4
-4. Qe8+ Kc7 $19) (2. Qe8+ $143 Kc7 3. Qa8 Bxe2+ 4. Kb4 Nc8 5. Kb3 Nc4 $19) (2.
-Kb4 $143 Bxa4 3. h7 Rb5+ 4. Ka3 Nc4+ 5. Kxa4 Nxe3 6. h8=Q+ Kc7 7. Qd4 Nc8 8.
-Qxe3 Nb6+ 9. Ka3 Nc4+ $19) 2... dxc5 3. Kb6 $1 (3. axb5 $143 Kb7 $3 4. bxc6+
-dxc6 5. h7 Nb5 6. h8=Q Na3 $19) 3... Nxa4+ 4. Kxa7 $1 (4. Ka5 $143 Kb7 $1 $19 {
-#3}) 4... Kc7 5. c4 $3 (5. h7 $143 {thematic Try} Nb6 $1 6. h8=Q Nc8+ 7. Ka8
-Ba6 $19) 5... Bxc4 (5... Nb6 $143 6. cxb5 Nc8+ 7. Ka6 Ne7 8. b6+ Kb8 9. f5 $18)
-6. h7 Nb6 7. h8=Q Nc8+ 8. Ka8 $1 Ba6 9. Qb2 $1 $11 (9. Qe5+ $143 Nd6 $1 10. Ka7
-Bb7 $1 11. f5 f6 $1 $19 {eg :} 12. Qh2 c4 13. e4 c3 14. Qg3 c2 15. Qf4 c1=Q 16.
-Qxd6+ (16. Qxc1 $144 Nb5#) 16... Kxd6 $19) 1/2-1/2
-
-[Event "2-3.p Changes in Studies"]
-[Site "?"]
-[Date "2011.??.??"]
-[Round "?"]
-[White "Pallier=A"]
-[Black "(+1346.00d5b8)"]
-[Result "1-0"]
-[Annotator "ok+"]
-[SetUp "1"]
-[FEN "1k6/4b3/5r2/3K4/8/3n3Q/5B2/1n6 w - - 0 1"]
-[PlyCount "17"]
-[EventDate "2011.??.??"]
-
-1. Bg3+ Nf4+ 2. Bxf4+ Rxf4 3. Qg3 Bg5 4. Kc6 $1 ({Thematic try} 4. Ke6 $143 Nc3
-$1 (4... Nd2 $143 5. Qxg5 $18) (4... Bh6 5. Qh2 Kc7 6. Qxh6 Re4+ 7. Kf5 $18 {
-#48 EGTB :} (7. Kd5 $143 Nc3+ {eg :} 8. Kc5 Na4+ 9. Kb5 Nc3+ 10. Kc5 Na4+ 11.
-Kd5 Nc3+ $11) 7... Rb4 8. Qa6 Rb6 9. Qe2 Kb7 10. Qe4+ Ka6 11. Qa8+ Kb5 12. Qa2
-Kc5 13. Qc2+ Kd5 14. Qd3+ Kc5 15. Ke5 Kc6 16. Qe4+ Kc7 17. Qe3 Kc6 18. Qc1+ Kb7
-19. Kd5 Ka6 20. Qc4+ Ka7 21. Qa4+ Kb8 22. Qd4 Kb7 23. Qd3 Rb2 24. Ke6 Rb4 25.
-Kd6 Rb6+ 26. Kd7 Rb4 27. Qd6 Rb6 28. Qd5+ Ka6 29. Qa2+ Kb5 30. Qxb1+ Ka5 31.
-Qe1+ $18) 5. Qxc3 Rf6+ 6. Kd7 Rf7+ 7. Ke8 Re7+ 8. Kf8 Rc7 $1 9. Qb4+ Rb7 $11) (
-{Thematic try} 4. Kc5 $143 Nd2 $1 (4... Nc3 $143 5. Kc6 Ka8 6. Qxc3 $18) 5. Kc6
-Nf3 $11 (5... Bh6 $143 6. Qh2 Nb3 7. Kb6 Kc8 8. Qh3+ Kb8 (8... Kd8 $144 9. Qxh6
-$18 {#32}) 9. Qc3 $18)) (4. Qxg5 $143 Nc3+ 5. Ke5 Re4+ 6. Kf5 Rc4 7. Qg8+ Rc8
-8. Qb3+ Ka7 $11) 4... Nc3 5. Qh2 $3 Na4 (5... Ka8 $144 6. Qh8+ Ka7 7. Qxc3 Rf6+
-8. Kd7 Rf7+ 9. Ke8 Re7+ 10. Kf8 Kb6 11. Qg3 Bf6 12. Qf2+ Kb5 13. Qxf6 $18) 6.
-Qh8+ Ka7 7. Qg7+ {(h7)} Ka6 8. Qb7+ Ka5 9. Qb5# 1-0
-
-[Event "T.Gorgiev-100 MT, 1 prize"]
-[Site "?"]
-[Date "2010.??.??"]
-[Round "?"]
-[White "Poisson, Christian"]
-[Black "(+3110.10a5a1)"]
-[Result "1-0"]
-[SetUp "1"]
-[FEN "4B3/8/2P5/KR6/8/8/8/k1q5 w - - 0 1"]
-[PlyCount "37"]
-[EventDate "2010.??.??"]
-
-1. Ka6 (1. Bd7 $143 $1 Qf4 $11) 1... Qc4 2. Bd7 $1 (2. Kb6 $143 Qg8 3. Bd7 Qb8+
-$11) 2... Ka2 3. Kb6 Qd4+ (3... Qf7 $144 4. Bf5 Qf6 5. Kb7 Ka3 6. c7 $18) 4.
-Kb7 Ka3 5. Kb8 $1 Ka4 (5... Qd6+ $144 6. c7 $1 Qxd7 7. Rb6 Qd4 8. Ra6+ Kb4 9.
-c8=Q $18) 6. Rb7 Qh8+ 7. Bc8 {zz} Ka5 8. c7 {zz} Qf8 (8... Qe8 $144 9. Rb3 $1
-$18 {zz}) (8... Qg8 $144 9. Rb1 $1 $18 {zz}) 9. Rb2 $1 {zz} (9. Rb1 $143 Qg8 $1
-{zz} 10. Rb2 (10. Rd1 $144 Qb3+ $11) 10... Qf8 {zz} 11. Rb3 Qe8 {zz} 12. Rb7 (
-12. Rd3 $144 Qb5+ $11) 12... Qh8 $1 $11 {zz}) 9... Qh8 10. Rd2 {#30} (10. Rb7
-$144 {#36} Qf8 11. Rb2 {loss of time}) 10... Kb6 11. Rd6+ Kc5 12. Rd8 Qb2+ 13.
-Bb7 {win. eg :} Qh2 14. Rg8 Qf4 15. Rg6 Qh2 16. Rc6+ Kd4 17. Ka8 Qa2+ 18. Ra6
-Qc2 19. c8=Q $18 1-0
-
-[Event "1.p Gurgenidze,D JT"]
-[Site "?"]
-[Date "2008.??.??"]
-[Round "?"]
-[White "Loustau=J"]
-[Black "(=0160.02h1a3)"]
-[Result "1/2-1/2"]
-[SetUp "1"]
-[FEN "8/8/6b1/1p3R1p/5b2/k7/8/7K w - - 0 1"]
-[PlyCount "46"]
-[EventDate "2008.??.??"]
-
-{EG#17097} 1. Rxb5 Ka4 (1... Be4+ $144 2. Kg1 Be3+ (2... h4 $144 $11 3. Rh5) 3.
-Kh2 $11) 2. Rb2 Be4+ 3. Kg1 h4 4. Ra2+ Kb4 5. Rb2+ Kc4 6. Ra2 $1 Kb5 7. Rb2+
-Ka4 8. Ra2+ Kb4 9. Rb2+ Kc5 (9... Kc3 $144 {<main>} 10. Rb5 $1 Bf3 11. Rf5 Be3+
-12. Kh2 Bg4 13. Rf7 $1 Bd4 14. Rh7 Bf6 15. Rh6 Bg5 16. Rg6 Bf4+ 17. Kg1 Bd7 18.
-Rg7 Bc8 19. Rg8 Bf5 20. Rf8 $11) 10. Ra2 h3 11. Ra5+ Kd6 12. Rh5 Bg2 13. Rf5
-Be5 14. Rh5 Bd4+ 15. Kh2 Be5+ 16. Kg1 Bf4 (16... Ke6 $144 {<main>} 17. Rh4 Kf5
-(17... Kf7 $144 18. Rh6 Bf4 19. Rh4 Be5 20. Rh6 Bf6 21. Kh2 Be5+ 22. Kg1 Bd4+
-23. Kh2 Be5+ 24. Kg1 Kg7 25. Rh4 Kf7 26. Rh6 $11 {positionnal draw}) (17... Kf6
-$144 18. Ra4 Bc6 19. Rh4 Bd7 20. Rh7 Bc8 21. Rh8 Bd7 22. Rh7 Bf5 23. Rh5 Bg4
-24. Rh4 Bc8 (24... Be6 $144 25. Rh6+ Ke7 26. Rxe6+ Kxe6 27. Kh1 $11) 25. Rh8 {
-positionnal draw} Be6 26. Rh6+ Kf7 27. Rxe6 Kxe6 28. Kh1 $11) 18. Rb4 $1 Bf3
-19. Rh4 Bg2 20. Rb4 Bf4 21. Rb3 Kg5 22. Rg3+ Bxg3 $11 {model stalemate}) 17.
-Rf5 Be3+ 18. Kh2 Bd4 $1 19. Rh5 Be5+ 20. Kg1 Bf4 21. Rf5 Be3+ 22. Kh2 Ke6 23.
-Rf2 Bxf2 $11 {model stalemate  The tourney's great surprise : two stalemates
-whith positionnal draw. Presentation is on a high technical level [Gurgenidze]}
-1/2-1/2
-
+[Event "Fran

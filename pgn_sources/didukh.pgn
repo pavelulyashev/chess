@@ -46,7 +46,7 @@ $144 8. Rb4+ Ka3 9. Rb5 $18) 8. g7 Re3+ 9. Kc4 d5+ 10. Kxd5 Re8 11. Nc5+ Ka3
 12. Rf7 Rg8 13. Ne6 $18) 5. Kc3 Qxb3+ 6. Rxb3 Rxf2 7. g7 Rg2 8. Rb2+ Rxb2 9.
 g8=Q+ Ka1 10. Qg5 Kb1 11. Qxh4 $18 {"A prickly study with an interesting
 thematie try, White rejects taking bQ so that he can avoid obstructing wS. In
-case of White altempting to carry out elŒmŒnatŒon of the 'traitor' to his own
+case of White altempting to carry out el–ûm–ûnat–ûon of the 'traitor' to his own
 side bP shifts to the c-file giving fise 10 theory's drawn endgame of R+PP vs
 Q, Highly original! Just one remark: the solution should hait with 9,g8Q+, to
 preserve uniqueness of choice." [Oleg Pervakov]} 1-0
@@ -742,7 +742,7 @@ Kg6+ $18) (2... Rd8 $144 3. e6 Qb5+ 4. Kg6 Nh6 5. Bxg7+ $18) 3. e6 $1 Qxe6 (
 Nd8 6. Qxd8+ Qg8 7. Nf8 e5 8. Bxe5 b2 9. Bxb2 Qd5+ 10. Qxd5 $11) 5... Nd8 (5...
 Kh7 $144 6. Nf8+ $18) 6. Rxd8+ Qg8 7. Nf8 e5 8. Bxe5 b2 9. Bxb2 Qf7+ 10. Ng6+
 Kh7 11. Rh8# 1-0
-[Event "3.p Zadachy i Etiudy"]
+[Event "3.p Zadachy i Etiudy"]
 [Site "?"]
 [Date "2010.??.??"]
 [Round "?"]
@@ -866,80 +866,4 @@ Kd4 (6... Kd6 $144 7. Rh7 $1 $11) 7. Kg1 $1 Qf6 (7... Qxe7 $144 8. Nf5+ $11) (
 
 1. Ne6+ $1 (1. Nh7+ $143 Kf7 2. Kf5 Re8 3. Ng5+ Kg8 4. Ne4 c1=Q 5. Nf6+ Kf7 6.
 Nxe8 Qc2+ 7. Kxe5 Qxh2+ $19 {EGTB #54}) (1. Rd7 $143 Rxc4+ 2. Kh5 Ke8 3. Bxe5
-c1=Q 4. Rd6 Rc6 5. Rxc6 Qxc6 $19 {#36}) 1... Ke7 (1... Kf7 $144 2. Nd8+ $1 Kg8
-(2... Kg6 $144 3. Rd6+ Kh7 4. Rd7+ Kg8 5. Bxe5 Rxc4+ 6. Bd4 $1 c1=Q 7. Ne6 Qh6
-8. Kf5 $11) 3. Rxe5 c1=Q 4. Re8+ Kh7 5. Re7+ Kg6 6. Re6+ Kg7 7. Be5+ Kf8 8.
-Bd6+ $11) 2. Bf4 $1 (2. Rxe5 $143 c1=Q 3. Nd4+ Kf7 4. Rf5+ Kg8 5. Be5 Qxc4 {eg:
-} 6. Kh5 Rf8 7. Rg5+ Kf7 8. Kg4 Rd8 9. Rf5+ Ke7 10. Bf6+ Kd7 11. Bxd8 Qxd4+ 12.
-Kg5 Kxd8 $19 {#29}) (2. Bxe5 $143 c1=Q 3. Nf4 Rg8+ 4. Kf5 Qc2+ 5. Nd3 Rf8+ 6.
-Ke4 Qxc4+ 7. Bd4 Re8 8. Re5+ Kd6 9. Rxe8 Qc6+ $19 {EGTB #40}) 2... exf4 3. Re5
-(3. Nd4 $143 Rg8+ 4. Kh4 c1=Q $19) 3... c1=Q (3... Rg8+ $144 4. Ng5+ $11) 4.
-Nd4+ Kd6 5. Rd5+ Kc7 6. Rc5+ Kb7 7. Rb5+ Ka6 8. Ra5+ Kxa5 9. Nb3+ Kb4 10. Nxc1
-Rf8 11. Nd3+ $11 1/2-1/2
-
-[Event "1 prize Pervakov-50 JT"]
-[Site "?"]
-[Date "2010.??.??"]
-[Round "?"]
-[White "S.Didukh"]
-[Black "(+0033.42b6a2)"]
-[Result "1/2-1/2"]
-[Annotator "‡ monter"]
-[SetUp "1"]
-[FEN "8/3p1p2/1KP1b2n/4P3/8/4P3/k3P3/8 w - - 0 1"]
-[PlyCount "23"]
-[EventDate "2010.??.??"]
-[SourceDate "2005.01.24"]
-
-1. c7 d5 2. exd6 f6 3. e4 (3. Kb7 $143 Nf7 4. c8=N (4. d7 $144 Bxd7 5. c8=Q
-Bxc8+ 6. Kxc8 Kb3 7. Kd7 Ng5 8. Ke7 Ne4 9. Ke6 Kc4 10. Kf5 Kd5 $19) 4... Kb3 5.
-Kc7 (5. e4 $144 Kc3 6. d7 Bxd7 7. Nb6 Be6 8. Kc6 Kd4 $19) 5... Bxc8 6. Kxc8
-Nxd6+ 7. Kd7 Ne4 8. Ke6 Kc4 9. Kf5 Kd5 $19) (3. Kc6 Nf7 4. d7 Ne5+ 5. Kd6 Bxd7
-$19 {wins:} 6. Ke7 Kb3 7. Kxf6 Nc6 8. e4 Bc8 9. e5 Nd4 10. Ke7 Ne6 11. Kd6 Kb4
-12. Kc6 Ka5 13. e3 Ka6 14. e4 Ka7 15. Kb5 Nxc7+ $19) 3... Nf7 4. e5 Nxe5 (4...
-fxe5 $144 5. Kc6 e4 6. d7 Ne5+ 7. Kd6 Bxd7 8. Kxe5 $11) (4... f5 $144 5. Kb7
-Nxe5 6. c8=Q Bxc8+ 7. Kxc8 Kb3 8. d7 $11) 5. Kb7 Nc4 (5... Nf7 $144 6. c8=N Kb3
-7. Kc7 Bxc8 8. Kxc8 $11 (8. d7 $143 Ba6 $19)) 6. c8=N Kb3 7. Kc7 Bxc8 (7... Ne5
-$144 8. Nb6 $11) 8. Kxc8 (8. d7 $143 Bxd7 9. Kxd7 f5 10. Ke6 Ne3 11. Ke5 Kc3 (
-11... Kc2 $143 12. Kf4 Kd2 13. Kf3 Nd5 14. e4 $11) 12. Kf4 Kd4 $19) 8... Nxd6+
-9. Kd7 Ne4 10. Ke6 Kc4 11. Kf5 Kd5 (11... Kd4 $144 12. Ke6 Ke3 13. Kf5 Kd4 14.
-Ke6 $11) 12. e3 $11 1/2-1/2
-
-[Event "1-2 Prize, Reti-2 MT"]
-[Site "?"]
-[Date "2009.??.??"]
-[Round "?"]
-[White "Didukh=Sergij (Ukraine)"]
-[Black "(+0301.44g8a6)"]
-[Result "1-0"]
-[Annotator "‡ monter"]
-[SetUp "1"]
-[FEN "6K1/2r3Pp/k1P2p1p/8/p7/5P2/2PN4/8 w - - 0 1"]
-[PlyCount "49"]
-[EventDate "2009.??.??"]
-[SourceDate "2005.01.24"]
-
-1. Kh8 $3 (1. Kxh7 $143 h5 2. Kg6 Rxg7+ 3. Kxg7 h4 4. Kxf6 Kb6 5. Ke5 Kxc6 6.
-Kd4 (6. Kf4 $144 a3 $1 7. Nb3 Kd5 8. Nc1 Kd4 9. Na2 h3 10. Kg3 Ke3 11. f4 h2
-12. Kxh2 Kxf4 13. Kg2 Ke3 14. Kf1 Kd2 15. c4 Kc2 16. c5 Kb2 17. c6 Kxa2 18. c7
-Kb2 19. c8=Q a2 $11) 6... h3 (6... a3 $144 $1 7. Kc3 h3 $11) 7. Nf1 a3 8. Kc3
-Kd5 9. Kb3 Ke5 10. c4 Kd4 11. Kxa3 Kxc4 12. Kb2 Kd3 13. Kc1 Ke2 14. Nh2 Kf2 15.
-Kd2 Kg3 16. Ke3 Kxh2 17. Kf2 Kh1 18. f4 h2 19. f5 $11 {stalemate}) (1. Nc4 $143
-Kb5 2. Kxh7 h5 3. Kg6 Rxg7+ 4. Kxg7 Kxc6 5. Kxf6 h4 $19) 1... Rc8+ 2. g8=Q
-Rxg8+ 3. Kxg8 Kb6 4. Kf7 (4. Kg7 $144 $11 {Or}) 4... h5 (4... Kxc6 $144 5. Kxf6
-a3 6. f4 a2 7. Nb3 h5 8. Kg5 Kd5 9. Kxh5 Ke4 10. Kg4 h5+ 11. Kg3 $1 h4+ 12. Kg4
-$1 h3 13. Kxh3 Kxf4 14. Kg2 Ke3 15. Kf1 $18) (4... f5 $144 5. Ke6 Kxc6 6. Nb1
-$18 {wins :} f4 7. Ke5 Kd7 8. Kxf4 h5 9. Kg3 Kc6 10. Kh4 Kd7 11. f4 Ke8 12.
-Kxh5 Ke7 13. f5 Kf7 14. f6 Kxf6 15. Kh6 $18) 5. Kxf6 h4 6. Ke5 $1 {Reti
-maneuver} Kxc6 (6... h3 $144 7. Kd6 h2 8. Nc4+ Kb5 9. c7 h1=Q 10. c8=Q Qd1+ 11.
-Ke6 Qxf3 12. Nd6+ Kb4 13. Qc4+ Ka3 14. Nb5+ Kb2 15. Qb4+ Kc1 16. c4 $18) 7. Kd4
-h3 8. Nf1 a3 (8... Kd6 $144 9. f4 a3 (9... Ke6 $144 10. c4 $18) 10. Kc3 Kd5 11.
-Kb3 Ke4 12. c4 Kxf4 13. c5 Ke5 14. Kxa3 $18) 9. Kc3 Kd5 10. Kb3 Ke5 11. c4 Kd4
-12. Kxa3 $1 (12. Nh2 $143 h5 13. Kxa3 Kxc4 14. Kb2 Kd3 15. Kc1 Ke3 16. Kd1 Kf2
-17. f4 Kg3 $1 $11 {Reti saves Black}) 12... Kxc4 13. Kb2 Kd3 14. Kc1 Ke2 (14...
-h5 $144 15. Kd1 $18) 15. Nh2 Kf2 16. Kd2 h5 17. f4 Kg3 18. Ke3 Kxh2 19. Kf2 Kh1
-20. f5 h2 21. f6 h4 22. f7 {with mate} h3 23. Kg3 Kg1 24. f8=Q h1=Q 25. Qf2# {
-The point of the 1st move becomes clear only at the end, after the capture of
-bPh7 it would have been a stalemate. Combination of 'Reti Manoeuvre' with
-remote effect of foreknowing.} 1-0
-
+c1=Q 4. Rd6 Rc6

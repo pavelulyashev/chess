@@ -105,7 +105,7 @@ Ne3+ $1 Bxe3 4. Bh5+ Kxh5 5. Rxd5+ Qxd5 $11 {Stalemate} 1/2-1/2
 $1 Qb7 (3... Qxe2 $144 4. Re8+ $18) (3... Qh3 $144 4. Bg4+ $18) 4. c6 Qxc6 5.
 Rg6+ $18 1-0
 
-[Event "Düna Zeitung"]
+[Event "DÑŒna Zeitung"]
 [Site "?"]
 [Date "1904.??.??"]
 [Round "?"]
@@ -144,7 +144,7 @@ Kxf8 $19) 3... Ke8 (3... Kf6 $144 4. Rf7+ $1 Ke5 (4... Kxf7 $144 5. Ng5+ $18)
 Ng5+ $18) 5. Rf8+ Kd7 (5... Ke7 $144 6. Nf4 $1 Qxf3 7. Ng6+ Kd7 8. Rxf3 $18) 6.
 a3 $1 Ke7 7. Nf4 Qd7 (7... Qxf3 $144 8. Ng6+ $18) 8. Ng6# 1-0
 
-[Event "Düna Zeitung"]
+[Event "DÑŒna Zeitung"]
 [Site "?"]
 [Date "1905.??.??"]
 [Round "?"]
@@ -415,7 +415,7 @@ $19) (1. Rc8+ $143 Kg7 2. Rc7+ Kf6 3. Rd7 Ke6 $19) 1... Kg7 2. Rg3+ Kh6 $1 (
 5. Ka7 d1=Q 6. Rxd6+ Kf5 7. Rxd1 Bxd1 $11) 3. Rd3 $1 Bf3+ 4. Ka7 $1 d1=Q (4...
 d1=R $144 5. Rxf3 $11) 5. Rxd6+ $1 Qxd6 $11 {Stalemate} 1/2-1/2
 
-[Event "La Stratégie#0809"]
+[Event "La StratÐ¹gie#0809"]
 [Site "?"]
 [Date "1907.??.??"]
 [Round "?"]
@@ -469,7 +469,7 @@ Bf8 Rd1 (4... Rd4+ $144 5. Kh5 Rd5+ 6. Kg6 Rd1 7. Be7 $18) 5. Bd6 $1 Rd4+ {<eg>
 Kg5 Kxd5 $18) 2... e1=Q+ $19) 1... Kf5 $1 2. Rd5+ Ke6 (2... Kf6 $144 3. Nd7+
 Ke6 4. Re5+ $18) 3. Rd8 Ke7 4. Rd3 $1 e1=Q 5. Re3+ Qxe3 6. Nd5+ 1-0
 
-[Event "La Stratégie#0797"]
+[Event "La StratÐ¹gie#0797"]
 [Site "?"]
 [Date "1907.??.??"]
 [Round "?"]
@@ -486,7 +486,7 @@ Ke6 4. Re5+ $18) 3. Rd8 Ke7 4. Rd3 $1 e1=Q 5. Re3+ Qxe3 6. Nd5+ 1-0
 Nf3+ $19) 2... Nxf3+ (2... Kb2 $143 3. Nh2 Nf3+ 4. Kg3 $1 $18) 3. Kg3 f1=Q (
 3... f1=R $144 4. Rxf5 $11) 4. Ra1+ Kxa1 $11 {Stalemate} 1/2-1/2
 
-[Event "La Stratégie#0808"]
+[Event "La StratÐ¹gie#0808"]
 [Site "?"]
 [Date "1907.??.??"]
 [Round "?"]
@@ -604,7 +604,7 @@ Rxd7 5. Kxh6 Rxe7 $11 (5... Rd2 $144 6. e8=Q Rxa2 7. Qe4+ Kb3 8. Qxf4 $11)
 {Rech/3} 1. Bb2+ Kg8 $1 2. h7+ Kxh7 3. Nf6+ Kh6 4. Bc1+ Qg5 5. Be3 $1 Qxe3 6.
 Ng4+ Kg5 7. Nxe3 $18 1-0
 
-[Event "Düna Zeitung"]
+[Event "DÑŒna Zeitung"]
 [Site "?"]
 [Date "1909.??.??"]
 [Round "?"]
@@ -652,7 +652,7 @@ Nxd4 Kxd4 5. Kf4 Kxd3 $11) 3... Qa5 $1 (3... h6 $144 {<main>} 4. Be5 (4. Bg7
 $143 Qa6 $19) 4... Qxc1 5. Bf4+ $18) (3... Qxc1 $144 4. Bg5+ $18) (3... Kd2
 $144 4. Nb3+ $18) 4. Bxd4+ Kxd4 (4... Kd2 $144 5. Nb3+ $18) 5. Nb3+ $18 1-0
 
-[Event "La Stratégie#0119"]
+[Event "La StratÐ¹gie#0119"]
 [Site "?"]
 [Date "1910.??.??"]
 [Round "?"]
@@ -669,7 +669,7 @@ $144 4. Nb3+ $18) 4. Bxd4+ Kxd4 (4... Kd2 $144 5. Nb3+ $18) 5. Nb3+ $18 1-0
 Be5 5. Rxe5+ Rxe5 6. Bc4 Rxe7 $19 {EGTB}) 3... Rxe6 4. Rxa6 Rxa6 (4... Bd6 $144
 5. Rxd6 $18) (4... Kf7 $144 5. Rxe6 Ke8 6. b4 $18) 5. e8=Q+ $18 1-0
 
-[Event ".hm Sydsvenska Dagbladet Snällposten"]
+[Event ".hm Sydsvenska Dagbladet SnÐ´llposten"]
 [Site "?"]
 [Date "1911.??.??"]
 [Round "?"]
@@ -945,225 +945,4 @@ Rb2 4. Re7 Kf6 $11) 2... Rf7 (2... Rf2+ $144 3. Kg3 Rb2 4. Rb8 Kf6 5. b7 Kg7 6.
 Kf4 Kf7 7. Rh8 $1 $18) 3. Rb8 Kf4 4. b7 Kf3 $1 5. Kg1 $1 Kf4 (5... Rg7+ $144 6.
 Kf1 Rf7 7. Ke1 $18) 6. Kg2 $1 (6. Kf2 $143 Ke5+ 7. Ke3 Re7 8. Kd3 Rd7+ 9. Kc4
 Kd6 10. Ra8 Rxb7 11. Rxa3 $11) 6... Kf5 7. Kg3 $1 Kf6 8. Kf4 ({Or:} 8. Kg4 $18)
-8... Ke6+ 9. Ke4 ({Or :} 9. Ke3 $18) 9... Re7 10. Kd4 Rd7+ 11. Kc5 $18 1-0
-
-[Event "Shakhmaty#004"]
-[Site "?"]
-[Date "1922.??.??"]
-[Round "?"]
-[White "Platov=V"]
-[Black "(+0400.12e1g8)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "6k1/8/4p3/1P6/1p6/4R3/6r1/4K3 w - - 0 1"]
-[PlyCount "11"]
-[EventDate "1922.??.??"]
-
-{Shakhmaty/8} 1. b6 (1. Rxe6 $143 b3 $19) 1... Kf7 (1... Rg7 $144 2. Rg3 (2.
-Rxe6 $143 Kf7 3. b7 (3. Rc6 $144 Rg5 4. b7 Rb5 $11) (3. Re4 $144 Kf6 4. Rxb4
-Rb7 5. Kd2 Ke5 6. Kc3 Kd5 $11) 3... Rg8 4. Rb6 Rb8 5. Kd2 Ke7 6. Kd3 Kd7 $11)
-2... Rxg3 3. b7 $18) (1... Rg1+ $144 2. Ke2 Rg2+ 3. Kd3 Rg7 4. Rxe6 Kf7 (4...
-Rb7 $144 5. Kc4 Kf7 6. Rc6 Ke7 7. Kxb4 Kd7 8. Kb5 $18) 5. b7 Rg8 {<eg>} 6. Rb6
-Rb8 7. Kc4 Ke7 8. Kxb4 Kd7 9. Kb5 Kc7 10. Ka6 $18) (1... Rg5 $144 2. Rg3 $18)
-2. Rf3+ Ke7 3. Rf8 $1 Kxf8 (3... b3 $144 4. b7 b2 5. b8=Q b1=Q+ 6. Qxb1 Rg1+ 7.
-Rf1 $18) (3... Rg5 $144 4. b7 Kxf8 5. b8=Q+ Kg7 6. Qxb4 $18) 4. b7 Rg4 {<eg>}
-5. b8=Q+ Ke7 6. Qe5 $18 1-0
-
-[Event "L'Italia Scacchistica (c)"]
-[Site "?"]
-[Date "1923.??.??"]
-[Round "?"]
-[White "Platov=V Platov=M"]
-[Black "(+0043.22b7h1)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "B7/1K2n3/P7/b5P1/pp6/8/8/7k w - - 0 1"]
-[PlyCount "9"]
-[EventDate "1923.??.??"]
-
-{L'Italia Scacchistica/8 (c): Shakhmaty/9 1924} 1. a7 a3 (1... Kh2 $144 2. Ka6
-Nc8 (2... Bb6 $144 3. Kxb6 Nc8+ 4. Kc7 $18) 3. g6 $18) 2. Ka6+ (2. Kb8+ $143
-Kh2 3. Bd5 (3. Bh1 $144 Nc6+ $1 $11) 3... Nc6+ $1 4. Kb7 Nxa7 5. g6 a2 $1 6.
-Bxa2 b3 7. g7 bxa2 8. g8=Q a1=Q $11) 2... Kh2 3. Bh1 $3 a2 (3... Kxh1 $144 4.
-a8=Q+ $18) 4. a8=Q a1=Q 5. Qg2# 1-0
-
-[Event "Shakhmaty#114"]
-[Site "?"]
-[Date "1924.??.??"]
-[Round "?"]
-[White "Platov=V Platov=M"]
-[Black "(+0101.02d2h1)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "5N2/8/8/8/4pR2/8/3K2p1/7k w - - 0 1"]
-[PlyCount "9"]
-[EventDate "1924.??.??"]
-
-{Shakhmaty/6} 1. Rh4+ Kg1 2. Ke1 (2. Rxe4 $144 Kf2 3. Ng6 g1=Q 4. Rf4+ Kg3 5.
-Re4 Qf2+ 6. Kd3 $11) 2... e3 3. Rh8 $1 e2 4. Nh7 Kh2 5. Ng5+ $18 1-0
-
-[Event "Shakhmaty#108 (c)"]
-[Site "?"]
-[Date "1924.??.??"]
-[Round "?"]
-[White "Platov=V Platov=M"]
-[Black "(+0011.02e1h1)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "N7/8/8/7p/7B/7p/8/4K2k w - - 0 1"]
-[PlyCount "35"]
-[EventDate "1924.??.??"]
-
-{(c): Ermenenko=V Shakhmaty v SSSR/8 1955} 1. Kf2 $1 (1. Kf1 $143 h2 2. Bf2 h4
-3. Ba7 h3 $11) 1... h2 2. Bg3 $1 h4 3. Bb8 $1 h3 4. Kg3 $1 Kg1 5. Ba7+ $1 Kh1
-6. Nb6 Kg1 7. Nd5+ (7. Nc4+ $144 $18 {<or>}) (7. Na4+ $144 $18 {<or >}) (7.
-Nd7+ $144 $18 {<or>}) 7... Kh1 {eg:} 8. Ne3 Kg1 9. Ng4+ Kh1 10. Bb8 Kg1 11.
-Nxh2 Kh1 12. Be5 Kg1 13. Kf3 Kh1 14. Nf1 Kg1 15. Ng3 Kh2 16. Ne2+ Kh1 17. Kf2
-h2 18. Ng3# 1-0
-
-[Event "Shakhmaty#125"]
-[Site "?"]
-[Date "1924.??.??"]
-[Round "?"]
-[White "Platov=M"]
-[Black "(=0131.01h8e8)"]
-[Result "1/2-1/2"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "4k2K/8/8/8/7R/8/p7/3bN3 w - - 0 1"]
-[PlyCount "8"]
-[EventDate "1924.??.??"]
-
-{Shakhmaty/8} 1. Re4+ Kf7 2. Nc2 $1 (2. Ra4 $143 Bxa4 3. Nc2 Ke6 $1 (3... Bxc2
-$143 $11 {Stalemate}) 4. Na1 Kd5 $19) 2... Bxc2 3. Re1 $1 (3. Re5 $143 a1=R $1
-4. Rf5+ Kg6 5. Rf8 Rh1+ 6. Kg8 Bb3+ $19) 3... Bb1 4. Re5 $1 a1=Q $11 {Stalemate
-} (4... a1=R $144 {<main>} 5. Ra5 Ba2 6. Ra7+ $11) 1/2-1/2
-
-[Event "1.hm Shakhmaty#175"]
-[Site "?"]
-[Date "1925.??.??"]
-[Round "?"]
-[White "Platov=M"]
-[Black "(+0011.22c3a4)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "8/1p6/8/P7/k7/P1K4p/NB6/8 w - - 0 1"]
-[PlyCount "9"]
-[EventDate "1925.??.??"]
-
-{Shakhmaty/7} 1. a6 $1 bxa6 (1... h2 $144 2. a7 h1=Q 3. a8=Q+ $18) 2. Kc2 $1 h2
-3. Be5 $1 h1=Q (3... Kxa3 $144 4. Nc3 $18) 4. Nc3+ Kxa3 (4... Ka5 $144 {<main>}
-5. Bc7#) 5. Bd6# 1-0
-
-[Event "Shakhmatny Listok#085"]
-[Site "?"]
-[Date "1925.??.??"]
-[Round "?"]
-[White "Platov=M"]
-[Black "(=0104.02d8d2)"]
-[Result "1/2-1/2"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "3K4/R7/6n1/2N5/8/p7/1p1k4/8 w - - 0 1"]
-[PlyCount "16"]
-[EventDate "1925.??.??"]
-
-1. Ne4+ (1. Nb3+ $143 Kc3 $18) 1... Kc2 2. Nc3 $1 (2. Rc7+ $143 Kd3 $19) 2...
-Kxc3 3. Rxa3+ Kc4 4. Ra4+ Kc5 5. Ra5+ Kc6 (5... Kb6 $144 6. Ra8 Kb7 7. Ra5 b1=Q
-8. Rb5+ Qxb5 $11 {Stalemate}) 6. Ra6+ Kb7 7. Ra5 b1=Q (7... b1=R $144 8. Kd7
-$11) (7... Kb6 $144 8. Ra8 $11) 8. Rb5+ Qxb5 1/2-1/2
-
-[Event "64#123"]
-[Site "?"]
-[Date "1925.??.??"]
-[Round "?"]
-[White "Platov=M"]
-[Black "(+0084.10g1h6)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "5b2/8/3n1NPk/8/4B3/2B5/4b3/6K1 w - - 0 1"]
-[PlyCount "9"]
-[EventDate "1925.??.??"]
-
-1. Bd2+ (1. Ng8+ $143 Kh5 $11) 1... Kg7 2. Nh5+ Bxh5 $1 3. Bc3+ Kh6 $1 (3...
-Kg8 $144 4. Bd5+ Nf7 5. Bxf7#) 4. g7 $1 Bxg7 5. Bd2# $18 1-0
-
-[Event "1.hm Národní Listy"]
-[Site "?"]
-[Date "1929.??.??"]
-[Round "?"]
-[White "Platov=V Platov=M"]
-[Black "(+0450.03f2a1)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "6br/8/2p3R1/7p/2p5/1B6/5K2/k5B1 w - - 0 1"]
-[PlyCount "9"]
-[EventDate "1929.??.??"]
-
-1. Bh2 cxb3 2. Be5+ b2 (2... Ka2 $144 3. Bxh8 Bd5 4. Rg7 Kb1 5. Ke1 {eg:} Kc2
-6. Rg3 h4 7. Rc3+ Kb1 8. Kd2 Ka2 9. Rc5 b2 10. Rc2 Kb3 11. Rxb2+ $18) 3. Bxh8
-Bd5 4. Rg7 b1=Q (4... Ka2 $144 5. Ra7+ Kb3 6. Rb7+ Kc4 7. Bxb2 $18) 5. Ra7# 1-0
-
-[Event "2/3.p Isvestia#263"]
-[Site "?"]
-[Date "1929.??.??"]
-[Round "?"]
-[White "Platov=V Platov=M"]
-[Black "(+0110.45a6e4)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "8/5p2/K2R1Pp1/4P3/1p2k3/p7/P2P1p2/2B5 w - - 0 1"]
-[PlyCount "11"]
-[EventDate "1929.??.??"]
-
-1. e6 fxe6 (1... f1=Q+ $144 2. d3+ Ke5 3. exf7 $18) 2. d3+ $1 (2. f7 $143 f1=Q+
-3. d3+ Ke5 4. Rd7 Qxc1 5. f8=Q Qc6+ 6. Ka5 Qxd7 $19) 2... Ke5 3. Bf4+ $1 Kxf6
-4. Rd8 $1 f1=Q 5. Rf8+ Ke7 (5... Kg7 $144 6. Bh6+ $1 $18) 6. Bd6+ $1 1-0
-
-[Event "3.c Dagestaner Committee Fizkultura i S"]
-[Site "?"]
-[Date "1950.??.??"]
-[Round "?"]
-[White "Platov=V Petrov=D"]
-[Black "(+0841.01a2g6)"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "1Rb5/7R/6k1/8/1p3r2/5N1B/K7/1r6 w - - 0 1"]
-[PlyCount "21"]
-[EventDate "1950.??.??"]
-
-{Shakhmaty v SSSR/2 1962} 1. Rh4 (1. Rh8 $143 Rxf3 2. Kxb1 Rb3+ 3. Kc2 Rc3+ 4.
-Kb2 Bxh3 $11) 1... Rxf3 2. Bg2 $1 (2. Rxc8 $143 Rbb3 {eg:} 3. Rc6+ Kg7 4. Be6
-Ra3+ 5. Kb2 Rf2+ 6. Rc2 Rxc2+ 7. Kxc2 $11) (2. Kxb1 $143 Bxh3) 2... Rfb3 3.
-Be4+ Bf5 4. Bxf5+ (4. Bxb1 $143 Rxb1 $11) 4... Kxf5 5. Rb5+ Kg6 {eg:} 6. Rh2 (
-6. Rg4+ $144 $1 $18) 6... Kf6 7. Re2 Kf7 8. Rb6 Kg7 9. Rf2 Kg8 10. Rb7 Kh8 11.
-Rf8# 1-0
-
-[Event " 2  17  6101 .hm Sydsvenska Dagbladet S"]
-[Site "?"]
-[Date "1911.??.??"]
-[Round "?"]
-[White "Platov=V Platov=M"]
-[Black "(+3110.23c1a4)"]
-[Result "1-0"]
-[SetUp "1"]
-[FEN "5R2/8/2p1qP2/3p4/k7/8/3Pp3/2K1B3 w - - 0 1"]
-[PlyCount "19"]
-[EventDate "1911.??.??"]
-
-{@3: Haworth=G Bleicher=E HHdbIV 31-5-2010} 1. f7 Qe5 $1 2. Ra8+ Kb3 3. Ra3+ $1
-Kxa3 4. f8=Q+ Kb3 5. Qb4+ $1 (5. Qf3+ $143 Ka2 6. Qc3 (6. Kc2 $144 Qe4+ $11)
-6... Qxc3+ 7. dxc3 Kb3 $11) 5... Kxb4 6. d4+ Kb5 7. dxe5 Kc5 8. Kd2 d4 9. Bf2
-$1 (9. Kxe2 $143 Kd5 10. Bg3 c5 11. Kf3 c4 12. Kf4 c3 (12... d3 $143 13. Be1
-Kd4 14. e6 c3 15. Kf3 $18) 13. Be1 Kc4 (13... c2 $143 14. Bd2 d3 15. Kf5 $18)
-14. e6 Kd3 15. e7 c2 $11) 9... Kd5 10. Bxd4 $1 $18 1-0
-
+8... Ke6+ 9. Ke4 ({Or :} 9. Ke3 $18) 9... Re7 10. Kd4 Rd7+ 11

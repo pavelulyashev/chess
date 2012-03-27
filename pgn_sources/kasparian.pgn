@@ -780,7 +780,7 @@ Bf3 Bxe5 $19) (6. Bg2 $143 Nf4+ $19) (6. Bc8 $143 Nd8 $1 7. e6 Kg8 $19) (6. Kf7
 $143 Nd8+ $19) 6... Nd8 7. e6 $1 Bb2 8. Kf5 (8. Ba8 $143 Nxe6 9. Kf7 Nc7 $19)
 8... Kg7 9. Bf3 $11 {Positionnal draw} 1/2-1/2
 
-[Event "1/2.p Tidskrift för Schack#1551"]
+[Event "1/2.p Tidskrift fÑ†r Schack#1551"]
 [Site "?"]
 [Date "1970.??.??"]
 [Round "?"]
@@ -844,7 +844,7 @@ Rf3 $144 10. Be4 $11) (9... Rc6 $144 10. Bf5 Nd1 (10... Nh1 $144 11. Be4 $11)
 (11... Na4 $144 12. Bd7 Ra6 (12... Nb6 $144 13. Be6 $11) 13. Bb5 Ra5 14. Kf4+
 Kh6 15. Bc6 $11) 12. Bd5 $1 Nc7 13. Bxh1 $1 Rxh1 14. Kd6+ $11 1/2-1/2
 
-[Event "1.p Concours Internationaux de Problème"]
+[Event "1.p Concours Internationaux de ProblÐ¸me"]
 [Site "?"]
 [Date "1953.??.??"]
 [Round "?"]
@@ -927,48 +927,4 @@ Bg6 $1 b3 11. Bc3 a4 (11... b2 $144 12. Bf5 a4 13. Be4 Rb8 $1 (13... Rc8 $144
 1. Ne5+ Kd5 (1... Kd4 $144 2. Rh4+ Be4 3. Nc6+ Kc4 4. Rxe4+ Kb3 5. Rb5+ Ka3 6.
 Re3+ Ka2 7. Nb4+ Kb1 8. Rb3+ Kc1 9. Rc5 Ra1 10. Rxc2+ Kxd1 11. Ra2 Rc1 12.
 Rxd2+ Kxd2 13. Rd3# {Diagramme #}) 2. Nd7+ Kd4 (2... Kc4 $144 3. Rf4+ Kb5 4.
-Rb3+ Ka5 5. Ra3+ Ba4 6. Raxa4+ Kb5 7. Rfb4+ Kc6 8. Rb6+ Kd5 9. Ne3#) 3. Rf4+
-Be4 (3... Kd5 $144 4. Rd3+ Ke6 5. Rf6#) 4. Rxe4+ Kxe4 (4... Kd5 $144 5. Nc3+
-Kc6 6. Rh6+ f6 7. Rxf6+ Kb7 8. Rb4+ Ka8 9. Rb8#) 5. Rh4+ Kf3 (5... Kf5 $144 6.
-Ne3+ Kg6 7. Rg4+ Kh7 8. Nf6+ Kh8 9. Rg8# {Diagramme #}) (5... Kd5 $144 6. Ne3+
-Kc6 7. Rh6+ Kb7 (7... Kb5 $144 8. Rb6+ Ka4 9. Nc5+ Ka3 10. Nc4+ Ka2 11. Rb2+
-Ka1 12. Nb3# {Diagramme #}) (7... f6 8. Rxf6+ Kb5 9. Rb6+ Ka4 10. Nc5+ Ka3 11.
-Nc4+ Ka2 12. Rb2+ Ka1 13. Nb3#) 8. Rb6+ Ka8 9. Rb8# {Diagramme #}) 6. Ne5+ Kg3
-7. Rg4+ Kh2 8. Nf3+ Kh1 9. Nxf2# {Diagramme #} 1-0
-
-[Event "Aljechin MT bulletin"]
-[Site "?"]
-[Date "1956.??.??"]
-[Round "?"]
-[White "Kasparjan=G"]
-[Black "[+1330.11b4b7"]
-[Result "1-0"]
-[SetUp "1"]
-[FEN "8/bkp5/6r1/2P5/1K6/8/8/Q7 w - - 0 1"]
-[PlyCount "25"]
-[EventDate "1956.??.??"]
-
-1. Qh1+ (1. c6+ $143 Kxc6 (1... Rxc6 $143 2. Qh1 $18) 2. Qa6+ Bb6 3. Qc4+ Bc5+
-4. Qxc5+ Kb7 $11) 1... Kb8 (1... Ka6 $144 2. Qf1+ Kb7 3. Qf3+ Kb8 4. Qf8+ Kb7
-5. c6+ $18) 2. Qh8+ (2. c6 $143 Bb6 $11) 2... Kb7 3. c6+ $1 Rxc6 (3... Kb6 $144
-4. Qd4+ $18) 4. Qh1 Kb6 5. Qg1+ $1 (5. Qd5 $143 Bb8 $1 6. Qb5+ Ka7 7. Qxc6 $11)
-5... Kb7 (5... Ka6 $144 6. Qf1+ Kb7 7. Qf3 $18) 6. Qg2 Kb6 7. Qf2+ Kb7 8. Qf3
-Kb6 9. Qe3+ Kb7 10. Qe4 Kb6 11. Qd4+ Kb7 12. Qd5 Bb8 13. Kb5 $18 1-0
-
-[Event "64"]
-[Site "?"]
-[Date "1935.??.??"]
-[Round "?"]
-[White "Kasparjan=G"]
-[Black "[+3113.20h7f6]"]
-[Result "1-0"]
-[Annotator "ok"]
-[SetUp "1"]
-[FEN "2q5/5PnK/3P1k2/4R3/5B2/8/8/8 w - - 0 1"]
-[PlyCount "7"]
-[EventDate "1935.??.??"]
-
-1. d7 $1 Qf8 $1 (1... Qd8) 2. Re8 (2. d8=Q+ $143 Qxd8 3. Bg5+ Kxe5 4. Bxd8 Ne6
-$11) 2... Nxe8 3. Bg5+ $1 (3. d8=Q+ $143 Kxf7 4. Qd5+ Ke7 $1 $11) 3... Kxf7 (
-3... Kxg5 $144 4. fxe8=Q Qf5+ 5. Kg7 Qf6+ 6. Kg8 $18) 4. d8=N# 1-0
-
+Rb3+ Ka5 5. Ra3+ Ba4 6. Raxa4+ Kb5 7. Rfb4+ Kc6 8. Rb6+ Kd5 9. Ne3#)
