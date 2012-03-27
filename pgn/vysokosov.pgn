@@ -1,0 +1,753 @@
+[Event "1p. Shakhmatnoe obozrenie "]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vysokosov, A."]
+[Black "[=3801.33d1h8]"]
+[Result "1/2-1/2"]
+[Annotator "01 EG 156"]
+[SetUp "1"]
+[FEN "2r4k/P2pPq1p/6rP/5p1N/1R6/8/8/3KR3 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "2002.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf6 $1 (1. e8=Q+ $2 Rxe8 2. Rxe8+ Qxe8 3. Rb8 Rg8 4. a8=Q Qxh5+ 5. Ke1 Qh4+
+6. Kf1 Qf4+ 7. Ke2 Qe4+) 1... Rxf6 (1... Rg1 2. Rb8 Rxe1+ 3. Kxe1 Qxe7+ 4. Kf1
+Qc5 (4... Qd8 5. Nxd7 Qxd7 6. a8=Q) 5. a8=Q Qc4+ 6. Kg1) 2. e8=Q+ Rxe8 3. Rxe8+
+Qxe8 4. Rb8 Rf8 5. a8=Q Qh5+ 6. Ke1 Qh4+ 7. Kf1 Qh3+ (7... Qc4+ {voir plus bas
+8...De3+}) 8. Kg1 (8. Kf2 $2 Qh2+ 9. Kf1 Rxb8 10. Qa1+ Qb2) 8... Qg3+ (8...
+Qe3+ 9. Kg2 Qe2+ 10. Kg1 Qd1+ 11. Kg2 Qc2+ 12. Kg3 Qc3+ 13. Kg2 Qb2+ 14. Rxb2
+Rxa8 15. Kf3) 9. Kh1 Rxb8 10. Qa1+ Kg8 11. Qh8+ Kxh8 1/2-1/2
+
+[Event "1p. Josten JT65  ,8 points)"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "16"]
+[White "Vysokosov, A."]
+[Black "[+0071.44c4d8]"]
+[Result "1-0"]
+[Annotator "02  EG 151"]
+[SetUp "1"]
+[FEN "B2k4/3Pp3/4P1P1/5p1P/1pK5/7b/5p2/2b2N2 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "2002.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+{An elegant construction with WCCT theme. The key is much more impresive as in
+the second Vysokosov.} 1. Bg2 $3 (1. g7 $6 Bxf1+ 2. Kxb4 Bd2+ 3. Ka3 Bc1+ 4.
+Ka4 Bb5+ 5. Ka5 Bd2+ 6. Kb6 Be3+ 7. Kb7 Ba6+ 8. Kc6 (8. Kb8 Bf4+ 9. Ka7 Be3+)
+8... Bb5+ 9. Kd5 Bc4+ 10. Ke5 Bd4+ 11. Kxd4 Bxe6 12. Bg2 Kxd7 13. Ke5 Bg8 14.
+Kxf5 Bh7+ 15. Kg5 Ke6 16. Kh6 Bg8 17. Kg6 Bf7+ 18. Kh7 (18. Kg5 Bg8 19. h6 Kf7
+20. Bf1 e5) 18... Kf5 19. h6 Kg5) (1. Nh2 Bh6) 1... Bxg2 2. g7 Bxf1+ 3. Kxb4
+Bd2+ 4. Ka3 Bc1+ 5. Ka4 Bb5+ 6. Ka5 Bd2+ (6... Bxd7 7. g8=Q+ Be8 8. Qg3) 7. Kb6
+Be3+ 8. Kb7 Ba6+ 9. Kb8 $1 (9. Ka8 Kc7 10. d8=Q+ Kxd8 11. g8=Q+ Kc7 12. Qb8+
+Kc6 13. Qe8+ Kb6 14. Qd8+ Kc6 15. Qd7+ Kb6) 9... Bf4+ 10. Ka8 Kc7 11. d8=Q+
+Kxd8 12. g8=Q+ Kc7 13. Qb8+ Kc6 14. Qxf4 f1=Q 15. Qxf1 Bxf1 16. h6 1-0
+
+[Event "[2nd Prize 64 - 2000"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Visikosov, A."]
+[Black "[=0313.32f1c2]"]
+[Result "1/2-1/2"]
+[Annotator "03 EG 145"]
+[SetUp "1"]
+[FEN "8/5B1P/8/2p5/4p3/2P1r2n/2k1P3/5K2 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd5 (1. Bb3+ $143 Kc1 2. h8=Q (2. Ke1 $144 Rg3 3. e3 Rg1+ 4. Ke2 Rh1 5. h8=Q
+Ng1+ 6. Kf2 Rxh8 $19) 2... Rg3 3. Qg8 Rxg8 4. Bxg8 Kd2 $19) (1. Bg6 $143 Kd2 2.
+h8=Q (2. Bxe4 $144 Rxe2 3. h8=Q Rf2#) 2... Rg3 3. Qh6+ (3. Qd8+ Ke3 $19) 3...
+e3 $19) (1. h8=Q $143 Rg3 2. Bb3+ (2. e3 $144 Kd2 3. Qd8+ Kxe3 $19) 2... Kc1 (
+2... Kxb3 $143 3. Qb8+ $18) 3. Qg8 Rxg8 4. Bxg8 Kd2) 1... Rg3 {Menace Tg1#} (
+1... Kd2 $143 2. h8=Q Rg3 3. Qh6+ e3 4. Bg2 $18) 2. Bxe4+ Kd2 {Menace Tg1#} 3.
+Bg2 Rxc3 {Menace Tc1#} 4. Be4 Rg3 {Meance Tg1#} (4... Rc1+ $144 5. Kg2 Nf4+ 6.
+Kf2 $11) 5. Bg2 Rb3 {Menace Tb1#} (5... Rxg2 $144 6. Kxg2 Nf4+ 7. Kf2 Ng6 8. e4
+c4 9. e5 c3 10. e6 c2 11. h8=Q Nxh8 12. e7 c1=Q 13. e8=Q $11) 6. Bb7 $1 (6. Bd5
+$143 Rb8 7. Bg8 Rb1+ 8. Kg2 Nf4+ 9. Kg3 Ng6 $19) 6... Rb1+ 7. Kg2 Nf4+ 8. Kh2 (
+8. Kf2 $143 Ng6 9. Be4 Rb6 10. Bxg6 Rf6+ $19) (8. Kf3 $143 Rh1 $19) (8. Kg3
+$143 Ng6 $19 9. Be4 Rb3+ 10. Kg4 Nh8 $19) 8... Ng6 9. Be4 Rb8 10. Bxg6 $11
+1/2-1/2
+
+[Event "1st Prize Rezvov-80JT"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Vysokosov, Andrey"]
+[Black "[=0431.43h3e2]"]
+[Result "1/2-1/2"]
+[Annotator "04 EG 148"]
+[SetUp "1"]
+[FEN "5N2/6pr/4P1p1/2b5/5R1P/3pPP1K/4k3/8 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "2001.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e7 (1. Nxh7 $143 d2 2. e7 d1=Q 3. e8=Q Qh1+ 4. Kg3 Qg1+ 5. Kh3 Kf2 6. Qxg6
+Qxg6 $19) 1... Rxh4+ $1 (1... Bxe7 $144 2. Nxh7 d2 3. Rd4 Kxe3 4. Rxd2 Kxd2 5.
+Ng5 $11) 2. Rxh4 (2. Kxh4 $143 Bxe7+ 3. Kg4 d2 4. Rd4 (4. Nxg6 $144 Bf6 $19)
+4... Bxf8 5. e4 Be7 $19) 2... Bxe7 3. Ne6 (3. Nxg6 $143 Bxh4 4. Nf4+ Kxf3 5.
+Nxd3 Bg3 6. e4 g6 7. e5 g5 8. e6 g4#) 3... Bxh4 4. Nf4+ Kxf3 5. Nxd3 Bg3 6. e4
+g5 7. Ne5+ Bxe5 $11 1/2-1/2
+
+[Event "1st prize Shkhmatinaya Kompozistia 2000"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Vysokosov, Andrey"]
+[Black "[=0441.33h8d1]"]
+[Result "1-0"]
+[Annotator "05 EG 142"]
+[SetUp "1"]
+[FEN "2k5/5P2/4p1n1/4n3/N1pN2R1/3P4/4K3/1b6 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f8=Q+ (1. Rg1 $143 Bxd3+ 2. Kd2 Nxf7 $11) (1. Rg3 $143 Bxd3+ 2. Kd2 Nxf7 $11
+) (1. Nc6 $143 Bxd3+ 2. Kd2 Nxf7 $11) 1... Nxf8 2. Rg8 cxd3+ 3. Ke3 (3. Kd2
+$143 Neg6 4. Nxe6 Ba2 5. Nac5 Bc4 6. Kd1 Ba2 7. Kc1 Bd5 8. Kd2 Bc4 9. Kc3 Ba2
+10. Kd2 (10. Kxd3 $144 Nf4+ $11) (10. Nb3 d2 $11) 10... Bc4 11. Kc3 Ba2 $11)
+3... Neg6 (3... Ned7 $144 4. Nxe6 Ba2 5. Nac5 Nxc5 6. Rxf8+ Kb7 7. Nxc5+ $18)
+4. Nxe6 Ba2 5. Nac5 Bc4 (5... Kb8 $144 6. Nd7+ Ka7 7. Ndxf8 Nxf8 8. Rg7+ $18)
+6. Kd2 Ba2 7. Kc3 (7. Kxd3 $143 Nf4+ $11) 7... Bd5 (7... Bc4 $144 8. Kxc4 d2 9.
+Nxf8 d1=Q 10. Nfe6+ Nf8 11. Rxf8+ Qd8 12. Rxd8#) 8. Kxd3 Nf4+ (8... Ba2 $144 9.
+Kc3 Bd5 10. Kb4 Ba2 11. Nb3 $18) 9. Kd4 N4g6 (9... N4xe6+ $144 10. Kxd5 $18) (
+9... Bxe6 $144 10. Rxf8+ $18) 10. Kc3 (10. Kxd5 $143 Ne7+ $11) 10... Ba2 11.
+Nb3 1-0
+
+[Event "1st pr. Shakhmatnaya Komp. 2000"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Visikosov, A."]
+[Black "[+0138.22e2c8]"]
+[Result "1-0"]
+[Annotator "06 EG 143"]
+[SetUp "1"]
+[FEN "2k5/5P2/4p1n1/4n3/N1pN2R1/3P4/4K3/1b6 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f8=Q+ Nxf8 2. Rg8 cxd3+ 3. Ke3 Neg6 4. Nxe6 Ba2 5. Nac5 Bc4 6. Kd2 Ba2 7.
+Kc3 Bd5 8. Kxd3 Nf4+ (8... Kb8) 9. Kd4 N4g6 10. Kc3 1-0
+
+[Event "sp. Shakhmatnoe obozrenie "]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vysokosov, A KalyaginV"]
+[Black "[+0321.01h3g1]"]
+[Result "1-0"]
+[Annotator "07 EG 156"]
+[SetUp "1"]
+[FEN "8/8/8/2r1B3/8/7K/3p4/2NB2k1 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2002.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd3 Rd5 2. Bh2+ Kf1 3. Nb2 (3. Nf4 $143 Rd3+ 4. Kg4 Ke1 5. Nxd3+ Kxd1 $11)
+3... Rb5 (3... Rc5 $144 4. Kg3 Rc1 5. Kf3 Rxd1 6. Nc4 Ke1 7. Ne3 Rc1 8. Bg3#)
+4. Nc4 Ke1 5. Bf3 d1=N (5... d1=Q $144 6. Bg3+ Kf1 7. Bxd1 $18) 6. Bg3+ Nf2+ 7.
+Kh2 Rc5 8. Nb2 Rc3 9. Kg2 Rxf3 (9... Rc2 $144 10. Nd1 Kd2 11. Bxf2 $18) 10.
+Kxf3 Kf1 11. Nc4 Nd3 12. Nd2+ Kg1 13. Bd6 $18 1-0
+
+[Event "1 st prize Moscow Town"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Visokosov, A."]
+[Black "[+0042.02f3e6]"]
+[Result "1-0"]
+[Annotator "08  EG147"]
+[SetUp "1"]
+[FEN "B7/8/4k3/8/8/3b1K1p/7p/N6N w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2001.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kg3 (1. Bb7 $143 Ke5 2. Nf2 h1=Q+ 3. Nxh1 Bf1 $11) 1... Ke5 (1... Bf1 $144
+2. Bb7 Bg2 3. Bc8+ $18) 2. Nf2 Bc4 3. Ng4+ Kd6 4. Ne3 (4. Nf6 $143 Bb5 5. Bh1
+Bc6 6. Ne4+ Ke5 $11) 4... Bb5 5. Nf5+ Kc7 (5... Kc5 $144 6. Nb3+ $18) (5... Ke5
+$144 6. Nh4 Bc4 7. Bh1 Bd5 8. Nf3+ $18) (5... Kd7 $144 6. Nd4 Bf1 7. Kxh2 Bg2
+8. Nf3 $18) 6. Nd4 Ba6 7. Bh1 Bf1 8. Ne6+ Kd6 9. Nf4 Bb5 10. Kxh3 Bc6 11. Ng2
+$18 {"A systematic movement of classic proportions so as to avoid exchange of
+the light bishop and to lure bK to c7 whereby the wS that implements this
+decoy blocks the corner-to-corner played wB on hi in three jumps (moves 8, 9.
+and 11)."} 1-0
+
+[Event "2p. Josten"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vysokosov, A."]
+[Black "[+0460.43a3g2]"]
+[Result "1-0"]
+[Annotator "09 EG 151"]
+[SetUp "1"]
+[FEN "4b1r1/PR4pp/8/6P1/6p1/K6P/3b2kP/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2002.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+{An elegant mechanism with WCCT theme. But according to recommedation of FIDE
+commision such a original study could not be published before the WCCT closing.
+} 1. a8=Q Bc1+ (1... Kxh3 2. Qc8 Bf4 3. Rb4 Rf8 4. Qc5 Rf7 5. Qc3+ Be3 6. Re4)
+2. Kb4 (2. Rb2+ {Thematic line.} Kxh3 3. Qg2+ (3. Qb8 Bxb2+ 4. Kxb2 Kh4 5. Qg3+
+Kh5) 3... Kh4 4. Qf2+ Kh5) 2... Bd2+ (2... Kxh3 3. Re7 Bf7 4. Qa7 Bd2+ 5. Kb5
+Be8+ 6. Kc4 Rf8 7. Rxg7 Bg6 8. Rxh7+) 3. Kc5 Be3+ (3... Bf7 4. Rb8+) 4. Kd6
+Bf4+ 5. Ke7 Bxg5+ (5... Kxh3 6. Qa3+ Kh4 7. Rb4 Bxg5+ 8. Kd6 Kh5 9. Qg3 Kh6 10.
+h4 Bf6 11. Qxg4 Bh5 12. Qf4+ Kg6 13. Rb5) 6. Kd6 Bf4+ (6... Kxh3 7. Qa3+ Kh4 8.
+Qg3+ Kh5 9. h3 Kg6 10. h4 Be3) 7. Kc5 Be3+ (7... Kxh3 8. Rb3+ Kh4 9. Qe4) 8.
+Kb4 Bd2+ (8... Kxh3 9. Re7) 9. Ka3 {The same posititon but w/o wPg5 - 7th WCCT
+theme.} Bc1+ (9... Kxh3 10. Rb2 Bf7 11. Qc6 Rd8 12. Rxd2) 10. Rb2+ Kxh3 11.
+Qg2+ Kh4 12. Qf2+ Kg5 (12... Kh5 13. Qf5+) 13. Qc5+ 1-0
+
+[Event "pr. Shakhmatnaya kompo. 2001"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Visokosov, A."]
+[Black "[+0168.13d4b5]"]
+[Result "1-0"]
+[Annotator "10 EG 148"]
+[SetUp "1"]
+[FEN "5b2/8/5Ppn/1k1bN1p1/1n1K2p1/8/8/3N3R w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2001.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc3+ Ka5 (1... Ka6 $144 2. Nxd5 Nf5+ 3. Kc4 Nd6+ 4. Kxb4 $18 Nf7+ 5. Ne7
+Nxe5 6. Kc5 $18) 2. Ra1+ (2. Nxd5 $143 Nf5+ 3. Kc4 Nd6+ 4. Kc5 Ne4+ 5. Kd4 Nxd5
+6. Kxe4 (6. Kxd5 $144 Nxf6+ $11) 6... Nxf6+ $11) 2... Ba2 {Sortir de la
+fourchette Nc2!} 3. Ke4 Ng8 4. Nd7 (4. Nxg4 $143 Nxf6+ 5. Nxf6 Bg7 6. Nfd5 g4 {
+Zugzang} 7. Nxb4 Kxb4 8. Nxa2+ Ka3 $11) (4. Nxa2 $143 Nxf6+ 5. Kd4 Nc2+ $19)
+4... Nxf6+ (4... Bd6 $144 5. Nxa2 $18) 5. Nxf6 Bg7 6. Nfd5 Bh8 (6... g3 $144 7.
+Kf3 g4+ 8. Kxg3 $18) 7. Nxb4 Bxc3 (7... Kxb4 $144 8. Nxa2+ Ka3 9. Rh1 Bb2 10.
+Nc1 $18) 8. Nc6+ Kb5 9. Rxa2 Kxc6 10. Rc2 $18 {Commentaire dans EG 148 : "The
+stuff of prizes, and in the best style of the Moscow composer striving to
+break into the elite, as people will say. Andrei may not agree with me, but I
+am not a composer, I'm a studies person. Andrei may not concern himself (yet)
+with chess problems but all the same he is a composer. So, right here in this
+study it is melody that shines out of every move so that after the point 4.
+Sd7! the final triumphant procession flows in bravura fashion. The logic we
+see in the non-capture - is this our author's obsession? It could well be! But
+it is coupled with reciprocal zugzwang , with domination, and with the
+effective geometry of hither and thither at a maximal amplitude (Rlilal- hl).
+One thing only do I lay on Andrei as he beavers away at his complex ideas -
+and that is not to pile up so much material. This is the only way to speak
+truly of the harmony of form and content, so well expressed in the study
+before us!"} 1-0
+
+[Event "JanTimman 50JT 2.Preis"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Visokosov, Kralin"]
+[Black "[+0411.34e8a8]"]
+[Result "1-0"]
+[Annotator "11 EG154s Kindermann"]
+[SetUp "1"]
+[FEN "k3KN2/P7/5p2/2P2p2/5P2/1r4B1/p3p3/2R5 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2002.11.12"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+{# WeiРЇ gewinnt Nikolaj Kralin & Andrej Visokosov (RuРЇland) 2.Platz Auf den
+ersten Blick mag die Ausgangsposition fСЊr den "Partiespieler" ein wenig
+abschreckend wirken, scheinen die Figuren doch wild СЊber das Brett gewСЊrfelt.
+Um so schС†ner ist jedoch bei nРґherem Studium das GefСЊhl, wenn sich plС†tzlich
+klare Ideen aus dem Nebel bilden. Auch wird der LС†ser am Ende mit einem
+wunderbar klassischen Dominanz-Thema belohnt! Offenbar geht es zunРґchst um
+einen Kampf zwischen konkurrierenden Freibauern, wobei WeiРЇ immerhin ein
+betrРґchtliches materielles Plus in die Waagschale werfen kann. Doch wie soll
+er die Umwandlung eines der gegnerischen Bauern verhindern? Nikolaj Kralin &
+Andrej Visokosov (RuРЇland) 2nd.place Les Blancs jouent et gagnent. Рђ premiРёre
+vue la position initiale peut effrayer << le joueur de parties >>, les piРёces
+semblant quand mРєme sauvagement balancР№es sur l'Р№chiquier. Quand, lors d'une
+analyse plus approfondie, des idР№es claires Р№mergent tout Р° coup du brouillard
+le sentiment en est encore plus beau. Le dР№nouement avec un thРёme de dominance
+merveilleusement classique est aussi rР№compensР№ ! Manifestement, il s'agit
+d'abord d'une lutte entre pions concurrents, dans laquelle les Blancs peuvent
+jeter plus de matР№riel dans le plateau de balance. Mais comment empРєcher la
+promotion du pion adverse ?} 1. c6 (1. Ra1 $143 Rxg3 2. Ne6 Re3 3. Kd7 e1=Q 4.
+Nc7+ Kxa7 5. Rxa2+ Kb7 6. Rb2+ Ka7 7. Ra2+ $11) 1... Rb1 2. Rc4 {Gar nicht! РЇ
+erlaubt die gegnerische Verwandlung und setzt auf den eigenen c-Bauern! Die
+nРґchsten ZСЊge sind recht plausibel: Pas du tout ! Les blancs permettent la
+promotion adverse et misent sur leur pionc c. ! On peut imaiginer les suites
+suivantes :} (2. Rc5 $143 e1=Q+ 3. Bxe1 Rxe1+ 4. Kd8 Rd1+ 5. Nd7 a1=Q 6. c7
+Rxd7+ 7. Kxd7 Qd4+ 8. Kc6 Qe4+ $11) (2. Re1 $143 Rxe1 3. Bxe1 a1=Q 4. c7 Kb7 5.
+Kd8 Qxe1 6. c8=Q+ Kxa7 7. Qc7+ Ka6 8. Nd7 Qf2 $1 9. Nc5+ Kb5 10. Qb7+ Kc4 11.
+Qa6+ Kd5 12. Qa2+ Kd4 13. Ne6+ Kc3 $11) 2... e1=Q+ (2... a1=Q $144 3. c7 Kxa7 (
+3... Qxa7 $144 4. Nd7 {mainline}) (3... e1=Q+ 4. Bxe1 Rxe1+ 5. Kf7 {Main Line})
+4. Bf2+ Ka8 5. Nd7 e1=Q+ 6. Bxe1 Rxe1+ 7. Kf7 $18) 3. Bxe1 Rxe1+ 4. Kf7 (4. Kd8
+$143 a1=Q 5. c7 Qa5 $19) 4... a1=Q {Die naheliegende Fortsetzung, die zum
+Hauptabspiel der Studie fСЊhrt. Doch auch die andere schwarze Idee, ein
+listiges Patt zu errichten, hat eine faszinierende Variante mit des
+sous-promotions La suite Р№vidente qui conduit Р° la ligne principale de l'Р№tude.
+Mais l'autre idР№e noire de rechercher un pat adroit, entraРѕne Р№galement une
+variante fascinante avec sous-promotions.} (4... Rc1 $144 5. Rxc1 a1=Q 6. Rc5
+$1 Qxa7+ (6... Qa2+ $144 7. Ne6 $18) 7. Nd7 Qa2+ (7... Qc7 $144 8. Rc4 $18) 8.
+Ke7 Qd2 (8... Qe2+ $144 9. Kd8 $18) 9. c7 Ka7 10. c8=R $1 {Nur so, die
+Damenverwandlung wСЊrde den schwarzen KС†nig auf Patt stellen und eine
+Dauerverfolgung des weiРЇen KС†nigs durch die schwarze Dame ermС†glichen. Par
+exemple, mais pas la promotion en Dame !} (10. c8=Q $143 Qd6+ $11 {On a une
+Dame noire << folle >>}) 10... Qxf4 11. R5c7+ $18) 5. c7 Qxa7 {Ein radikaler
+Wechsel der Szenerie hat stattgefunden: Jetzt ist es der Schwarze, der СЊber
+groРЇen materiellen Vorteil verfСЊgt, doch ist aus dem c-Bauern eine gewaltige
+Macht geworden! Un changement radical du scР№nario a eu lieu : maintenant ce
+sont les Noirs qui ont un grand avantage matР№riel, mais le pion Blanc c est
+devenu trРёs fort.} 6. Nd7 Re7+ {Die einzige Hoffnung: Schwarz spekuliert
+wiederum auf Patt! Le seul espoir pour Noir : Speculer sur un pat.} (6... Qxc7
+$144 7. Rxc7 Re7+ (7... Re4 $144 8. Rc4 $18) 8. Kxf6 $18) 7. Kf8 $1 {Ein ganz
+hervorragender Zug, der schwarze Turm darf nicht auf e7 geschlagen werden, da
+es sonst der WeiРЇe wРґre, der in Zugzwang gerРґt. Die Komposition strebt ihrem
+HС†hepunkt, einer schС†nen Konstellation mit gegenseitigem Zugzwang entgegen. Un
+coup tout Р° fait remarquable Il ne faut pas prendre la Tour noire en e7, ce
+qui entrainerait un zugzwang des Blancs . La composition aspire contre son
+sommet, d'une belle constellation avec zugzwzangs mutuels.} (7. Kxe7 $143 Qxc7
+$11 {Und WeiРЇ wРґre im Zugzwang, da ein KС†nigszug die schwarze Dame entwischen
+lРґРЇt. Et les Blancs seraient en zugzwang, puisqu'un coup de roi laisse la dame
+noire s'enfuir.}) (7. Kxf6 $143 Re8 $11 8. c8=Q+ (8. Ra4 $144 Qxa4 9. Nb6+ Kb7
+10. Nxa4 $11) 8... Rxc8 9. Rxc8+ Kb7 10. Rf8 $11) 7... Re8+ 8. Kxe8 Qxc7 9. Ke7
+{Eine sehr schС†ne Variation des berСЊhmten "Dominanz-Themas": Die weiРЇen
+Figuren haben ein unsichtbares Netz СЊber die schwarze KС†nigin geworfen, zwar
+verfСЊgt WeiРЇ momentan СЊber keine Drohung, doch ist jetzt der Schwarze im
+Zugzwang! Une variation trРёs belle << du thРёme de dominance cР№lРёbre >> : Les
+piРёces blanchess ont tiisР№ un rР№seau invisible sur la reine noire . Les Blancs
+ne disposent s certes momentanР№ment pas de menace, mais les Noirs sont
+maintenant en zugzwang.} Qa5 (9... Qb7 $144 10. Ra4+ $18) 10. Ra4 {Die letzte
+inesse zeigt die perfekte Harmonie der verbleibenden weiРЇen Steine. La
+derniРёre finesse montre l'harmonie parfaite des autres pierres blanches.} Qxa4
+11. Nb6+ {Ein eindrucksvolles und monumentales Werk der Moskauer Komponisten.
+Un travail impressionnant et monumental des compositeurs de Moscou.} 1-0
+
+[Event "1 hm Afek-JT50"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Vysokosov, A KralinN"]
+[Black "[+0413.22d5h8]"]
+[Result "1-0"]
+[Annotator "12  EG 157"]
+[SetUp "1"]
+[FEN "1n5k/8/1p3P2/3K4/1BP2R2/1r6/1p6/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2003.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 Nd7 2. Ke6 b1=Q 3. Kxd7 Rd3+ 4. Bd6 $1 (4. Kc7 $143 Qxb4 5. f8=Q+ Qxf8 6.
+Rxf8+ Kg7 7. Rc8 Rb3 $11) 4... Rxd6+ 5. Kc8 (5. Kxd6 $143 Qb4+ 6. Kc6 Qf8 7.
+Rf1 Kg7 8. Kd7 $11) (5. Kc7 $143 Qh7 6. Kxd6 Qh6+ 7. Ke7 Qg5+ 8. Rf6 Qc5+ 9.
+Rd6 Qc7+ 10. Ke8 Qc8+ 11. Ke7 Kg7 $11) 5... Rc6+ 6. Kb8 Qb4 (6... Rg6 $144 7.
+f8=Q+ Rg8 8. Rh4+ Qh7 9. Rxh7+ Kxh7 10. Qxg8+ Kxg8 11. Kb7 $18) 7. f8=Q+ Qxf8+
+8. Rxf8+ Kg7 9. Rc8 Re6 10. Kb7 Kf6 11. Rc6 $18 1-0
+
+[Event "1p. Pidlivailo-JT75"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vysokosov, A."]
+[Black "[=0140.14e7c3]"]
+[Result "1/2-1/2"]
+[Annotator "13  EG 157"]
+[SetUp "1"]
+[FEN "2b5/4K3/3p3B/2pP4/8/1pk5/2pR4/8 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "2002.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rh2 $1 (1. Rg2 $143 b2 2. Bg7+ Kb3 3. Bxb2 Kxb2 4. Kxd6 c4 5. Kc5 c3 6. Kb4
+Bb7 $19) (1. Rf2 $143 b2 2. Bg7+ Kb3 3. Bxb2 Kxb2 4. Kxd6 c4 5. Kc5 c3 6. Kb4
+Bg4 7. d6 Kb1 8. Rf1+ Bd1 9. d7 c1=Q 10. d8=Q Qb2+ 11. Kc5 Qa3+ 12. Kb5 (12.
+Kc6 $144 Qa6+ $19 {VoilР° pourquoi la Tour est mal placР№e en f2}) 12... Qb3+ 13.
+Kc5 c2 $19) (1. Re2 $143 b2 2. Bg7+ Kb3 3. Bxb2 Kxb2 4. Kxd6 c4 5. Kc5 c3 6.
+Kb4 Bg4 $19) 1... b2 2. Bg7+ Kb3 3. Bxb2 Kxb2 4. Kxd6 c4 5. Kc5 c3 6. Kb4 Bg4
+7. d6 Kb1 8. Rh1+ Bd1 9. d7 c1=Q 10. d8=Q Qb2+ 11. Kc5 Qa3+ 12. Kc6 Qa4+ 13.
+Kc5 Qa3+ 14. Kc6 Qa6+ 15. Kc5 $11 1/2-1/2
+
+[Event "2p. Pidlivailo-JT75"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vysokosov, A."]
+[Black "[=0314.21g4a4]"]
+[Result "1/2-1/2"]
+[Annotator "14  EG 157"]
+[SetUp "1"]
+[FEN "8/8/1rN5/8/k3P1K1/2B3p1/P7/7n w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2002.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5 (1. Nd4 $143 g2 2. Ne2 Rg6+ $19) 1... g2 2. Bd4 Rb4 3. Ba7 Rxe4+ 4. Kh3
+g1=N+ 5. Bxg1 Rxe5 6. Kh2 Rh5+ 7. Kg2 Rh8 8. Bd4 Rh5 9. Bg1 Rh7 10. Bc5 $1 {zz}
+Rh5 11. Bg1 Ka3 12. Bh2 Nf2 13. Bd6+ $11 1/2-1/2
+
+[Event "1.p Vecherny Krasnoturinsky 10 JT"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Visokosov, A."]
+[Black "[=0304.53a8h7]"]
+[Result "1/2-1/2"]
+[Annotator "15  EG159-162 168"]
+[SetUp "1"]
+[FEN "K2N4/3Pp2k/1P2p2P/7P/7P/5r1p/1n6/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2007.04.10"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+{A rook down, White 's surviving chances lie in promoting one of his advanced
+pawns. But which one?} 1. b7 (1. Nxe6 $143 Rd3 2. Nf4 (2. Ng5+ $144 Kxh6 3.
+Nxh3 Na4 $19) (2. Nf8+ $144 Kxh6 3. b7 h2 4. b8=Q Ra3+ 5. Kb7 h1=Q+ 6. Kc8 Qc6+
+7. Kd8 Ra8 $19) 2... h2 3. Nxd3 h1=Q+ 4. b7 Qd5 5. Nc5 Na4 6. Nxa4 Qxd7 7. Nb6
+Qc6 8. Ka7 Qc7 9. Na8 Qa5+ 10. Kb8 Qc5 11. Nc7 e5 $19) 1... Nc4 {Here we come
+to the thematic crossroad. There are two knight's moves to create a double
+threat: promoting the d-pawn as well as a fork on g5. The thematic try shows
+the essence of the entire idea:} (1... Ra3+ $144 2. Kb8 h2 3. Nc6 Rd3 4. Kc7
+h1=Q 5. b8=Q Qh2+ 6. Kc8 Qxb8+ 7. Nxb8 e5 8. d8=Q Rxd8+ 9. Kxd8 e4 10. Nc6 e3
+11. Nd4 e5 12. Ne2 $11) 2. Nf7 (2. b8=Q $143 Ra3+ 3. Kb7 Rb3+ 4. Kc7 Rxb8 5.
+Kxb8 Ne5 6. Nxe6 Nxd7+ 7. Kc7 h2 $19) (2. Nxe6 $143 Nb6+ 3. Ka7 Nxd7 4. Ng5+
+Kxh6 5. Nxf3 Kxh5 6. Ka8 e6 7. Ne5 h2 8. Nxd7 h1=Q 9. Ka7 Qc6 10. b8=Q Qxd7+
+11. Kb6 Qd4+ 12. Kc6 Qd5+ {The point! The earlier move 6...e6 eventually
+enabled this last winn ing move as following 13.Kb6 Qb3+ wrns, or 13.Kc7 Qe5+.
+Black trades queen s and his last pawn decides. Therefore white will strive to
+prevent the move 6...e6 simply by not capturing the pawn standing there as
+early as In move two!} 13. Kb6 (13. Kc7 $144 Qe5+ $19) 13... Qb3+ $19) 2...
+Nb6+ 3. Ka7 Nxd7 4. Ng5+ Kxh6 5. Nxf3 Kxh5 6. Ka8 $1 {Here it is! Avoiding the
+capture in the second move leaves now Black in zugzwang however deprived of
+the waiting move 6...e6.} e5 (6... Kh6 $144 7. Ne5 Kh5 $11) (6... Kg4 $144 7.
+Ne5+ $11) 7. Nxe5 h2 8. Nxd7 h1=Q 9. Ka7 Qa1+ (9... Qd5 $144 10. b8=Q Qxd7+ 11.
+Kb6 $1 Qd4+ 12. Kc6 $1 Kxh4 13. Qh2+ $11) 10. Kb6 Qd4+ 11. Kc7 Qd6+ 12. Kd8 $11
+1/2-1/2
+
+[Event "3p. Shakhmatnaya kompozitsiya"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vysokosov, A."]
+[Black "[+0310.23b7c1]"]
+[Result "1-0"]
+[Annotator "16 EG159-162"]
+[SetUp "1"]
+[FEN "4r2B/1KP5/2pp4/2P5/2p5/8/8/2k5 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "2002.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bb2+ $1 (1. cxd6 $143 Rxh8 2. d7 c3 3. d8=Q Rxd8 4. cxd8=Q c2 5. Kb6 c5 6.
+Kxc5 Kb2 $11) (1. Bf6 $143 dxc5 2. Bd8 c3 3. c8=Q Rxd8 (3... Rg8 $143 4. Qh3
+$18) 4. Qxd8 c2 5. Ka6 c4 $1 6. Qb6 (6. Ka5 $144 Kb1 $11) 6... Kd2 (6... c3
+$143 7. Qc5 $18) 7. Qd4+ Kc1 8. Qxc4 (8. Ka5 $144 Kb1 $11) 8... c5 $1 9. Ka5
+Kb2 $11) 1... Kxb2 {An idea worthy of note in the treatises: blocking his P,
+bKc 1 is less useful to White than on b2} 2. cxd6 c3 3. d7 Re7 4. d8=Q Rxc7+ 5.
+Qxc7 c2 {Now White can make a beeline for the b-line "with tempo" .} 6. Qb6+
+Kc3 (6... Kc1 $144 7. Ka6 c5 8. Ka5 Kd2 9. Qh6+ Kd1 10. Qd6+ Kc1 11. Ka4 $18)
+7. Qa5+ (7. Ka6 $143 c5 8. Ka5 c1=Q 9. Qxc5+ $11) (7. Qe3+ $143 Kb2 8. Qd4+ (8.
+Qb6+ $142 {same position than after 6.Qb6+}) 8... Kc1 9. Kb6 c5 10. Qc3 Kd1 (
+10... c4 $143 11. Kb5 Kb1 12. Qb4+ Ka2 13. Qe1 Kb2 14. Qe2 Kb1 15. Kxc4 $18)
+11. Qd3+ Kc1 12. Kb5 Kb2 13. Qe2 Kb1 14. Kc4 c1=Q+ 15. Kb3 c4+ $11) 7... Kb2 8.
+Qb4+ Kc1 9. Kb6 (9. Ka6 $143 c5 $11) 9... c5 (9... Kd1 $144 10. Qd4+ Ke2 11.
+Qc3 Kd1 12. Qd3+ Kc1 13. Ka5 $18) 10. Kxc5 $18 Kd1 11. Qd4+ Kc1 12. Kc4 Kb1 13.
+Qb6+ Ka2 14. Qb3+ $18 {"This study realises the classic ' roman' theme,
+persuading bK to occupy b2, with the paradoxical and far from obvious
+sacrifice of wB. Andrei is a violent opponent of the use of 5-man *c.
+databases, but in this case he shows the direction we are being forced to take.
+"} 1-0
+
+[Event "1p. Uralsky Problemist"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Vysokosov, A."]
+[Black "[+0310.31g1a4]"]
+[Result "1-0"]
+[Annotator "17  EG155"]
+[SetUp "1"]
+[FEN "8/8/pP1P4/P2r4/k7/8/8/B5K1 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2003.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. b7 Rg5+ 2. Kh2 $1 {A l'abri d'un Р№checs de la Tour en h8} (2. Kf2 $143 Rg8
+3. Bd4 Rb8 4. d7 Kb5 5. Be5 Rf8+ 6. Ke3 Kc6 7. b8=Q Rxb8 8. Bxb8 Kxd7 9. Kd4
+Kc6 10. Kc4 Kb7 $11) 2... Rg8 3. Bd4 Kxa5 4. Ba7 Kb5 5. b8=Q+ Rxb8 6. Bxb8 Kc6
+7. Kg3 a5 8. Kf4 a4 9. Ke5 a3 10. Ba7 a2 11. Bd4 $18 1-0
+
+[Event "64-Shakmatnoe Obozrenie"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Vysokosov, A."]
+[Black "[+0461.33f7d8]"]
+[Result "1-0"]
+[Annotator "18  "]
+[SetUp "1"]
+[FEN "2rk4/1P1p1K2/Nb3p2/3P4/8/8/pR3Pb1/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f3 $1 (1. bxc8=Q+ $143 Kxc8 2. Rxb6 Bxd5+ 3. Ke7 Bb7 4. Rxf6 Bd5 5. Rb6 Bb7
+6. Rg6 Bg2 7. Rg8+ Kb7 8. Nc5+ Ka7 9. Nb3 Bd5 10. Rg1 Bxb3 $11) 1... a1=Q (1...
+Bxf3 $144 2. bxc8=Q+ Kxc8 3. Rxb6 Bxd5+ 4. Ke7 $1 Bb7 5. Rxf6 Bd5 $1 6. Rf1 $1
+Bc4 $1 7. Rc1 $18) 2. Rc2 $1 Rb8 3. Nxb8 Bc7 $1 4. Rxg2 $1 Bxb8 5. d6 $1 Bxd6
+6. Rg8+ Kc7 7. b8=Q+ $18 1-0
+
+[Event "1p. Rusinek JT50"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vysokosov, A."]
+[Black "[+1313.15h5a1]"]
+[Result "1-0"]
+[Annotator "19  EG148"]
+[SetUp "1"]
+[FEN "8/4Q3/2p2P1p/7K/2np4/3pp3/8/k3Br2 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2002.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qa7+ Kb1 2. Qxd4 d2 (2... Ne5 $144 3. Qxe5 Rxe1 4. f7 d2 5. Qe4+ Kb2 6. f8=Q
+d1=Q+ 7. Kg6 $18) 3. Bxd2 Rf5+ 4. Kg6 (4. Kg4 $143 Rg5+ 5. Kf4 exd2 6. f7 Ne5
+7. Qxd2 Ng6+ 8. Ke4 Re5+ 9. Kf3 Rf5+ 10. Kg4 Rg5+ $11) 4... Rxf6+ 5. Kg7 (5.
+Kxf6 $143 exd2 {VZ} 6. Kg6 (6. Ke6 $144 h5 $11) 6... Ne5+ 7. Kxh6 Kc2 $11) (5.
+Qxf6 $143 exd2 6. Qd4 Ne5+ $11 {with Kc2}) 5... exd2 6. Kxf6 c5 7. Qe4+ $1 (7.
+Qd3+ $143 Kb2 {zugzwang} 8. Qd5 Kc3 9. Kg6 Ne3 10. Qxc5+ Kd3 $11) 7... Kb2 8.
+Qd3 $18 (8. Qd3 $144 Ka1 9. Qc2 h5 10. Kg5 $18) 1-0
+
+[Event "1.hm Dvoretsky-60 JT Uralski Problemist"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Visokosov=A"]
+[Black "(+1770.22c1d8)"]
+[Result "1-0"]
+[Annotator "20"]
+[SetUp "1"]
+[FEN "3k2b1/7B/rr6/Q1p5/8/4P2P/2p1R3/2K3b1 w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2007.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+{EG#16576} 1. Rd2+ $1 (1. Qd2+ $143 Rd6 2. Qc3 Ra1+ $1 (2... Bxh7 $143 3. Qh8+
+Kc7 4. Qxh7+ Rd7 5. Qxc2 $18) 3. Qxa1 Rd1+ 4. Kxc2 Rxa1 5. Bxg8 Ra3 6. Bb3 Bxe3
+7. Rxe3 (7. Kb2 $144 Bc1+ $11) 7... c4 $11) 1... Ke8 $1 (1... Ke7 $144 2. Qxc5+
+$18 {eg:} Rd6 3. Qg5+ Kd7 4. Qg7+ Ke8 5. Qxg8+ $18) (1... Kc7 $144 2. Qxc5+ $18
+{eg:} Rc6 3. Qe5+ Kb6 4. Bxg8 $18) 2. Bg6+ $1 Bf7 $1 (2... Rxg6 $144 3. Rd8+ $1
+Ke7 4. Qc7+ Kf6 5. Rf8+ Ke6 (5... Kg5 $144 6. Qf4+ Kh5 7. Rf5+ Rg5 8. Qxg5#) 6.
+Re8+ Kd5 7. Re5+ Kc4 8. Qxc5+ Kb3 (8... Kd3 $144 9. Qxc2#) 9. Qb5+ Ka3 10. Qb2+
+Ka4 11. Re4+ Ka5 12. Qb4#) 3. Bxf7+ Kxf7 4. Qc3 $1 (4. Qxc5 $143 Bxe3 $1 5.
+Qxe3 Ra1+ 6. Kxc2 Ra2+ 7. Kd1 Ra1+ 8. Ke2 Re6 $1 9. Rd7+ Kf6 10. Rd6 $1 Ra2+ $1
+(10... Rxd6 $143 11. Qc3+ $18) 11. Kf1 $1 Ra1+ $1 (11... Rxd6 $143 12. Qc3+ $1
+Ke7 13. Qg7+ Ke6 14. Qg8+ Ke7 15. Qxa2 $18) 12. Kg2 Ra2+ 13. Kg3 Rxd6 14. Qh6+
+(14. Qc3+ $144 Kg6 $1 $11) (14. Qf4+ $144 Ke7 $1 $11) 14... Ke5 $1 15. Qf4+ Kd5
+$1 (15... Ke6 $143 16. Qc4+ $18) 16. Qf7+ Re6 $1 $11) 4... Bxe3 $1 (4... Ra1+
+$144 5. Qxa1 Rb1+ 6. Qxb1 cxb1=Q+ 7. Kxb1 Bxe3 8. Rg2 $18 {#32}) (4... Re6 $144
+5. Rd7+ $1 Ke8 6. Qg7 $1 Bxe3+ 7. Kxc2 Ra2+ 8. Kb3 Rf2 9. Rb7 $1 Rb6+ 10. Rxb6
+c4+ 11. Kxc4 Bxb6 12. Qg6+ Rf7 13. Qxb6 $18) (4... Ra7 $144 5. Qc4+ $1 Re6 (
+5... Kf6 $144 6. Qf4+ Kg7 7. Rg2+ Rg6 8. Qe5+ Kh6 9. Qh8+ Rh7 10. Rxg6+ Kxg6
+11. Qe8+ Kf5 12. Qc8+ Ke5 13. Qe8+ Kf6 14. Qc6+ Ke5 15. Qxc5+ Kf6 16. Qd4+ Kf7
+17. Qc4+ Kg7 18. Qg4+ Kf6 19. Qxg1 $18) 6. Rd3 $1 Rae7 7. Kxc2 Bh2 8. Rd5 $1
+$18) (4... Rb1+ $144 5. Kxc2 Rba1 6. Qc4+ Kf6 7. Qf4+ Ke6 8. Qh6+ Kf7 9. Qh7+
+Kf6 10. Qh8+ Ke6 11. Qc8+ Kf6 12. Qd8+ Ke6 13. Qd7+ Kf6 14. Rd6+ $18) 5. Qxe3
+Ra1+ 6. Kxc2 Ra2+ 7. Kd1 Ra1+ 8. Ke2 Re6 $1 9. Rd7+ Kf6 10. Rd6 $1 Ra2+ (10...
+Rxd6 $144 11. Qc3+ $18) 11. Kf3 $1 (11. Kf1 $143 Rxd6 12. Qc3+ Rd4 $1 $11)
+11... Rxd6 12. Qh6+ $1 (12. Qf4+ $143 Ke7 $1 $11) 12... Ke5 $18 (12... Ke7 $144
+13. Qg7+ Ke6 14. Qg8+ Ke7 15. Qxa2 $18) (12... Ke5 13. Qf4+ (13. Qg5+ $144 Kd4
+14. Qf4+) 13... Kd5 (13... Ke6 $144 14. Qc4+ Ke7 15. Qxa2 $18) 14. Qe4#) 1-0
+
+[Event "1.hm 64-Shakmatnoe Obozrenie#35"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Visokosov=A"]
+[Black "[+0082.03h5d6"]
+[Result "1-0"]
+[Annotator "ok EG159-162 "]
+[SetUp "1"]
+[FEN "7N/6b1/3k1p2/3B3K/p2B4/p7/8/N4b2 w - - 0 1"]
+[PlyCount "35"]
+[EventDate "1999.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bb7 $1 Bxh8 2. Kg6 $1 Bd3+ 3. Kf7 $1 Bh7 4. Bf3 $1 Kd7 5. Bd1 $1 Kc6 6. Nc2
+$1 Kd5 7. Ba1 $1 $18 {eg :} a2 8. Nb4+ Kc4 9. Nxa2 a3 10. Bf3 Kb3 11. Bd5+ Kc2
+12. Bc3 Kb1 13. Bb3 Bc2 14. Be6 Bh7 15. Bd4 Kc2 16. Nc3 Kd3 17. Nb5 Kc2 18.
+Nxa3+ $18 1-0
+
+[Event "2.hm jf03 tf29#00632"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Vysokosov, A."]
+[Black "[=0143.43b4e7]"]
+[Result "1/2-1/2"]
+[Annotator "ok EG 142s "]
+[SetUp "1"]
+[FEN "8/4k3/2R4P/n1P5/1K1B4/P1p1p3/4P2p/2b5 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc7+ (1. h7 $143 Nxc6+ 2. Kxc3 h1=Q 3. h8=Q Bd2+ 4. Kd3 Qd5 $1 5. Qg7+ Kd8
+$19) (1. Bf6+ $143 Kf7 2. h7 h1=Q 3. h8=Q Nxc6+ 4. Kxc3 Bd2+ $19) 1... Kd8 $1
+2. h7 h1=Q 3. h8=Q+ Qxh8 4. Bxh8 Bd2 $1 (4... Kxc7 $144 5. Kxc3 $11) 5. Bf6+ $1
+(5. Bxc3 $143 Kxc7 6. Kxa5 Bxc3+ 7. Kb5 Bf6 $1 8. a4 Be7 9. a5 Bf8 10. a6 Be7
+$1 11. c6 Kb8 12. Kc4 Bd8 $1 13. Kd5 Bb6 14. Kd6 Kc8 15. c7 Bxc7+ 16. Kc6 Bb8
+17. Kb6 Be5 18. a7 Bd4+ 19. Ka6 Bxa7 20. Kxa7 Kc7 $1 $19) 5... Kxc7 6. Bxc3 Kc6
+(6... Kb7 $144 7. Kxa5 Bxc3+ 8. Kb5 Bb2 $1 (8... Bf6 $144 9. c6+ $1 Kc7 (9...
+Ka7 $144 10. Kc5 Bd8 11. a4 Bb6+ 12. Kd6 Kb8 13. Ke6 Kc7 14. Kd5 $11) 10. Kc5
+$11) 9. a4 $1 (9. c6+ $143 Kc7 10. a4 Bd4 $1 11. Kc4 Ba7 12. Kb5 Bb6 13. a5 Ba7
+$1 14. Ka6 Bd4 $1 15. Kb5 Bc3 $1 $19) 9... Kc7 $1 10. Kc4 $1 Kc6 11. Kd3 Bc1
+12. Kd4 $1 (12. Kc4 $143 Ba3 $19) 12... Bd2 13. Kc4 Be1 14. Kd3 Bf2 15. Kd4 $1
+Bg1 16. Kc4 Bh2 17. a5 $1 Bf4 18. a6 $1 $11) (6... Kd7 $144 7. Kxa5 Bxc3+ 8.
+Kb6 $11) 7. Ka4 $1 Nb7 $1 (7... Bxc3 $144 $11) (7... Nc4 $144 8. Bb4 $1 $11) 8.
+Kb3 $1 Nxc5+ 9. Kc4 (9. Kc2 $143 Ne4 $19) 9... Ne4 10. Bd4 $1 Nf2 $1 (10... Ng3
+$144 11. Kd3 Nf1 12. a4 $11) 11. a4 Nd1 $1 12. Kd3 $1 Kd5 (12... Kb7 $144 13.
+Ke4 $11) 13. a5 $1 Nf2+ 14. Kc2 Kc6 15. a6 $1 $11 (15. Bb6 $143 Kb5 $19)
+1/2-1/2
+
+[Event "2.c 64-Shakmatnoe Obozrenie#44"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Visokosov=A"]
+[Black "[=3813.22b2h8"]
+[Result "1/2-1/2"]
+[Annotator "ok EG159-162 "]
+[SetUp "1"]
+[FEN "7k/5Bp1/PRr2n2/5Pp1/8/5q2/1K1R4/5r2 w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rd8+ $1 Ng8 2. Rxg8+ Kh7 3. Bg6+ $1 Rxg6 4. fxg6+ Kxg8 5. Rb8+ Qf8 6. a7 $1
+Rf4 $1 7. a8=Q Rb4+ 8. Ka1 $1 Qxb8 9. Qa2+ $1 Kh8 10. Qh2+ $1 Kg8 11. Qa2+ $1
+Kh8 (11... Rb3 $144 12. Qxb3+ Qxb3 $11 {stalemate}) 12. Qh2+ Qxh2 $11 {
+stalemate} 1/2-1/2
+
+[Event "3.p Shakhmatnaja Kompozitsia#1960"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Visokosov=A"]
+[Black "[=0753.21b2h4"]
+[Result "1-0"]
+[Annotator "ok EG159-162 "]
+[SetUp "1"]
+[FEN "nb3r2/8/8/6P1/7k/2B1r3/1Kp1PRB1/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be1 $1 (1. Rxf8 $143 Rxc3 2. Rf1 $1 Be5 $1 3. Kc1 Nc7 4. Be4 Nb5 5. e3 (5.
+Bxc2 $144 Nd4 $19) 5... Rxe3 6. Bxc2 Kxg5 7. Rf5+ Kg4 8. Kd2 Bf4 $19) 1...
+c1=Q+ $1 (1... Be5+ $144 2. Kc1 $11) 2. Kxc1 Rc8+ 3. Kd2 $1 Ree8 $1 4. Rf8+ $1
+(4. Bxa8 $143 Red8+ 5. Ke3 Ba7+ $19) (4. Rf7+ $143 Kxg5 5. Bxa8 Bf4+ 6. Rxf4
+Kxf4 7. Bd5 Rcd8 $19) 4... Kg4 (4... Bg3 $144 5. Rf4+ Kxg5 6. Bxg3 $11) 5. Bf3+
+$1 (5. Rxe8 $143 Rxe8 6. Bxa8 (6. Bf3+ $144 Kf5 $19) 6... Bf4+ 7. e3 Bxe3+ 8.
+Kd3 Bc1 9. Be4 Kf4 $19) 5... Kxg5 6. Rxe8 Rxe8 7. Bxa8 Bf4+ 8. e3 $1 Bxe3+ (
+8... Rxe3 $144 9. Kd1 $11 {EGTB}) 9. Kd3 $1 Bc1 $1 10. Be4 $1 Kf4 $1 11. Bh4 $1
+Rxe4 (11... Rh8 $144 12. Be7 Rh3+ 13. Kc2 $11) 12. Bg5+ $1 $11 1-0
+
+[Event "1.hm Shakhmatnaja Kompozitsia#2009"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Visokosov=A"]
+[Black "[=0414.13e6g2"]
+[Result "1/2-1/2"]
+[Annotator "ok EG159-162 "]
+[SetUp "1"]
+[FEN "2Bn4/Pp6/4K3/8/8/pR6/3p2k1/3r3N w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd7 $1 (1. Kd5 $143 Rxh1 2. Bg4 a2 3. a8=Q d1=Q+ 4. Bxd1 Rxd1+ 5. Rd3 a1=Q
+6. Qxa1 Rxa1 7. Kc5 Ne6+ 8. Kd6 Ra6+ $19) (1. Kd6 $143 Rxh1 2. Bg4 Rh6+ 3. Kc7
+Ra6 4. Rb1 a2 5. Ra1 Rxa7 6. Kxd8 b5 $19) 1... Re1 $1 2. Rg3+ $1 (2. Rd3 $143
+d1=Q 3. Rxd1 Rxd1+ 4. Ke8 a2 5. a8=Q a1=Q 6. Bxb7+ Nxb7 7. Qxb7+ Kg1 8. Qb6+
+Rd4 $1 9. Qg6+ Kxh1 $19 {#30}) 2... Kxh1 3. Rd3 d1=Q 4. Rxd1 Rxd1+ 5. Ke8 $1 a2
+6. a8=Q a1=Q 7. Bxb7+ Nxb7 8. Qxb7+ Kg1 $1 9. Qg7+ $1 $11 1/2-1/2
+
+[Event "2.p 64-Shakmatnoe Obozrenie#35 {v}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Visokosov=A"]
+[Black "[=0313.32f1c2"]
+[Result "1/2-1/2"]
+[Annotator "ok EG159-162 "]
+[SetUp "1"]
+[FEN "8/5B1P/8/2p5/4p3/2P1r2n/2k1P3/5K2 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd5 $1 (1. h8=Q $143 Rg3 2. Bb3+ Kc1 (2... Kxb3 $143 3. Qb8+ $18) 3. Qg8
+Rxg8 4. Bxg8 Kd2 5. Bd5 e3 6. c4 Ng1 $19) (1. Bb3+ $143 Kc1 $1 2. h8=Q Rg3 3.
+Qh6+ (3. e3 $144 Kd2 $1 4. Qd8+ Kxe3 $19) (3. Qg8 $144 Rxg8 4. Bxg8 Kd2 $19)
+3... e3 $1 $19) (1. Bg6 $143 Kd2 $1 (1... Rg3 $143 2. Bxe4+ Kd2 3. Bg2 Rxc3 $1
+(3... Rxg2 $143 $4 $18) 4. Be4 Rg3 5. Bg2 Rb3 6. Bb7 $1 Rb1+ 7. Kg2 Nf4+ 8. Kh2
+Ng6 9. Be4 Rb6 10. Bxg6 Rb8 11. e4 c4 12. e5 c3 13. e6 c2 14. Bxc2 Kxc2 15. e7
+$11) 2. h8=Q Rg3 3. Qh6+ (3. Qd8+ $144 Ke3 $19 {#2}) 3... e3 $19) 1... Rg3 (
+1... Kd2 $143 2. h8=Q Rg3 3. Qh6+ e3 4. Bg2 $1 $18) 2. Bxe4+ Kd2 $1 3. Bg2 Rxc3
+4. Be4 $1 Rg3 $1 (4... Rc1+ $144 5. Kg2 Nf4+ 6. Kf2 Nh3+ 7. Kg3 Ng5 8. h8=Q
+Nxe4+ 9. Kf3 Rc4 $11) 5. Bg2 Rb3 $1 6. Bb7 $1 (6. Bd5 $143 Rb8 $1 7. Bg8 Rb1+
+8. Kg2 Nf4+ 9. Kf2 Ng6 $19) 6... Rb1+ 7. Kg2 Nf4+ 8. Kh2 $1 (8. Kf2 $143 Ng6 9.
+Be4 Rb6 $1 10. Bxg6 Rf6+ $1 $19 {#20}) 8... Ng6 9. Be4 $1 Rb8 10. Bxg6 $11
+1/2-1/2
+
+[Event "1.p Kralin-55 JT"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Visokosov=A"]
+[Black "[+0513.14e4f1"]
+[Result "1-0"]
+[Annotator "ok EG 142"]
+[SetUp "1"]
+[FEN "3r4/2R4P/1B3p1p/8/4K2n/8/pR2p3/5k2 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc1+ Rd1 $1 (1... e1=Q+ $144 2. Rxe1+ Kxe1 3. Rxa2 f5+ 4. Ke3 f4+ 5. Ke4 Rh8
+6. Bf2+ $1 Kf1 7. Bxh4 Rxh7 8. Kf3 Kg1 9. Bf2+ Kh1 10. Ra5 h5 11. Ra1+ Kh2 12.
+Bg1+ Kh3 13. Be3 $1 $18) 2. Rxe2 $1 Kxe2 $1 (2... Rxc1 $144 3. Rf2+ Ke1 4. Rxa2
+$18) 3. Rc2+ $1 (3. Rxd1 $143

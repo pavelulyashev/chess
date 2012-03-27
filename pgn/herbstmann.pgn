@@ -1,0 +1,737 @@
+[Event "Shakhmaty"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0040.31b7d3]"]
+[Result "1/2-1/2"]
+[Annotator "00"]
+[SetUp "1"]
+[FEN "8/1K6/1P6/8/4P3/1p1k4/5P2/6bB w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1925.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ka8 $1 b2 2. b7 Bh2 3. f4 Bxf4 4. e5 Bxe5 5. b8=Q Bxb8 6. Bd5 b1=Q 7. Be4+
+Kxe4 $11 1/2-1/2
+
+[Event "Isvestia WZIK"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+3101.44b7f8]"]
+[Result "1-0"]
+[Annotator "01"]
+[SetUp "1"]
+[FEN "3N1k2/1K4pq/8/p1p1R2p/8/7P/P1P2P2/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1925.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne6+ Kg8 $1 2. Ng5 Qg6 3. Kc7 h4 4. Kd7 Kf8 5. a4 c4 (5... Qh5 $144 6. Ne6+
+$18) 6. f3 $1 (6. f4 $143 c3 7. Ne6+ Kg8 8. Ng5 Kf8 $11) 6... c3 7. f4 $18 1-0
+
+[Event "Shakhmatny Listok"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0133.24f3c3]"]
+[Result "1/2-1/2"]
+[Annotator "02"]
+[SetUp "1"]
+[FEN "8/1npp4/1P1P1pb1/8/8/2kp1K1R/8/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. dxc7 Nd6 2. c8=Q+ (2. Kf4 $143 Be4 3. c8=Q+ Nxc8 4. Kxe4 f5+ 5. Kxf5 Nxb6 {
+EGTB 6 piРёces} 6. Ke5 d5 7. Rg3 Kc4 8. Rg2 Nd7+ 9. Kf4 Kc3 10. Kf3 Ne5+ 11. Kf2
+d2 12. Ke2 Kc2 13. Ke3 Nc4+ 14. Kd4 Nb6 15. Ke3 Kc3 16. Ke2 Na4 17. Rg3+ Kc2
+18. Rd3 d1=Q+ 19. Rxd1 Nc3+ 20. Ke3 Kxd1 21. Kd3 Nb5 22. Ke3 Kc2 23. Kf4 d4 $19
+) 2... Nxc8 3. b7 Be4+ 4. Kxe4 Nd6+ 5. Kd5 Nxb7 6. Rxd3+ Kxd3 $11 1/2-1/2
+
+[Event "64"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=3014.54h3f5]"]
+[Result "1/2-1/2"]
+[Annotator "03"]
+[SetUp "1"]
+[FEN "3N3n/p3p3/7q/3PPk2/B2P3p/4p2K/P3P3/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1927.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bc2+ Kg5 2. Ne6+ Kh5 3. Be4 $1 a5 4. a4 Nf7 5. Bf3+ Kg6 6. Be4+ Kh5 $11
+1/2-1/2
+
+[Event "Zadatschy & Etudjy"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+0040.67e2c1]"]
+[Result "1-0"]
+[Annotator "04"]
+[SetUp "1"]
+[FEN "8/4B1pp/8/pp1PppP1/b3p3/P7/P3KP1P/2k5 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1927.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g6 hxg6 2. Bb4 $1 Bd1+ (2... axb4 $144 3. d6 b3 (3... bxa3 $144 4. d7 Kb2 5.
+d8=Q Kxa2 6. Qa5 $18) 4. axb3 b4 5. bxa4 bxa3 6. d7 a2 7. d8=Q a1=Q 8. Qd1+ $18
+) (2... f4 $144 3. Ke1 Bd1 4. h3 $18) 3. Ke1 $1 Bg4 (3... f4 $144 4. h3 $18) 4.
+Bd2+ Kb2 5. Bf4 $1 Kxa2 6. d6 exf4 7. d7 Kxa3 8. d8=Q $18 1-0
+
+[Event "Isvestia WZIK"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Herbstmann, A DidrichsonB"]
+[Black "[+0071.44e3c5]"]
+[Result "1-0"]
+[Annotator "05"]
+[SetUp "1"]
+[FEN "5N2/2pB4/P2pp3/2k5/2P3bb/P3K2p/3P4/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1928.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a7 Bg5+ 2. Kd3 $1 Bf5+ $1 3. Kc3 $1 Bf6+ $1 4. d4+ $1 Bxd4+ 5. Kb3 Be4 6.
+Bc6 $1 Bxc6 7. Nd7+ $18 1-0
+
+[Event "L'Echiquier"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0146.21e6b5]"]
+[Result "1/2-1/2"]
+[Annotator "06"]
+[SetUp "1"]
+[FEN "2B3n1/8/2R1K2P/1k4P1/6n1/8/4p3/3b4 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1928.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ba6+ Kxc6 2. Bxe2 Bxe2 3. h7 Bc4+ 4. Kf5 Bd3+ 5. Ke6 Bxh7 6. g6 $1 Bxg6 $11
+1/2-1/2
+
+[Event "1.hm Magyar SakkvilР±g"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+0432.03c3h5]"]
+[Result "1-0"]
+[Annotator "07"]
+[SetUp "1"]
+[FEN "6R1/pN6/p7/2p4k/3r4/2K1b3/8/7N w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1929.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ng3+ Kh6 2. Nf5+ Kh7 3. Rg7+ $1 Kh8 4. Nxe3 $1 Kxg7 5. Nxc5 Rh4 6. Nf5+ Kf6
+7. Nxh4 $18 1-0
+
+[Event "6.hm Isvestia WZIK"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0134.23c4f7]"]
+[Result "1/2-1/2"]
+[Annotator "08"]
+[SetUp "1"]
+[FEN "1n6/5k2/2R5/N7/2K1b3/p3p3/1Pp1P3/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1930.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc7+ Kf6 2. Kb3 Nc6 (2... a2 $143 3. Kxa2 Nc6 4. Nb3 $18) (2... Bc6 $144 3.
+Kxc2 a2 4. Nb3 Ba4 5. Kc3 Bxb3 6. Ra7 Nc6 7. Ra6 Be6 8. b3 Ke5 9. Rxa2 $11) 3.
+Rxc6+ Bxc6 4. Kxc2 a2 5. Nb3 Ba4 6. Kc1 Kg5 (6... Bxb3 $144 $11) (6... Ke5 $144
+7. Na1 Bb5 (7... Kd4 $144 8. b3 Bc6 9. Kb2 Be4 10. b4 $1 Bb1 11. Nb3+ $11) 8.
+Kd1 Kd5 9. Ke1 Kc4 10. Kd1 Ba4+ 11. Ke1 Kb4 12. Kf1 $11) 7. Na1 Bb5 8. Kd1 Kf4
+9. Ke1 Kg4 10. Kf1 Kg3 11. Nc2 Ba4 12. Na1 Kh2 13. Ke1 Kg1 14. Nb3 $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+0300.54a1g5]"]
+[Result "1-0"]
+[Annotator "09"]
+[SetUp "1"]
+[FEN "8/8/1rPP3p/5Pk1/1p5p/1p5P/1P6/K7 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1932.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d7 Kh5 $3 2. c7 $1 Rc6 (2... Rd6 $144 3. d8=R Rc6 4. c8=R $18) 3. c8=R $1 (
+3. c8=Q $143 Rc1+ 4. Qxc1 $11) 3... Rd6 4. d8=R $1 $18 (4. d8=Q $143 Ra6+ 5.
+Kb1 Ra1+ 6. Kxa1 $11) 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+3110.33c7a5]"]
+[Result "1-0"]
+[Annotator "10"]
+[SetUp "1"]
+[FEN "8/2Kp2p1/6PB/k7/p2RP3/q7/P7/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1933.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd2+ (1. Rd5+ $143 Kb4 2. Bxg7 Qxa2 3. Bf8+ Kc4 4. g7 Qg2 $11) 1... Kb5 $1 (
+1... Ka6 $144 2. Rd5 Qg3+ 3. e5 $18) 2. Rb4+ Kc5 (2... Ka5 $144 3. Rb3+ $18) (
+2... Ka6 $144 3. Rb6+ Ka7 4. Rb5 $18) 3. Bf4 Qd3 4. a3 d6 (4... d5 $144 5. Bd6#
+) 5. Bh2 $1 Qd1 $1 6. Bg3 $1 (6. Kd7 $143 Qg4+ $19) 6... Qd2 $1 7. Kd7 $18 1-0
+
+[Event "2.p Tyovaen Shakki"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+3440.20b1g8]"]
+[Result "1-0"]
+[Annotator "11"]
+[SetUp "1"]
+[FEN "5rk1/3qPb2/8/7P/8/3B4/8/1K1R4 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1934.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bh7+ Kh8 (1... Kg7 $144 2. exf8=B+ (2. h6+ $143 Kf6 3. Rxd7 Re8 4. Bd3 Bg8
+$11) (2. exf8=Q+ $143 Kxh7 3. Rxd7 $11) 2... Kxf8 3. Rxd7 $18) (1... Kxh7 $144
+2. exf8=N+ Kg8 $1 3. Nxd7 (3. Rxd7 $143 Kxf8 4. h6 Kg8 5. h7+ Kh8 6. Rxf7 $11))
+2. exf8=R+ (2. exf8=Q+ $143 Kxh7 3. Rxd7 $11) 2... Bg8 3. Rxg8+ $18 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=3206.21a1a3]"]
+[Result "1/2-1/2"]
+[Annotator "12"]
+[SetUp "1"]
+[FEN "1n6/P1R5/1Pn5/8/p2R4/kq6/8/K7 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1935.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rxa4+ Qxa4 2. a8=Q Qxa8 3. Ra7+ Nxa7 4. b7 Qxb7 $11 1/2-1/2
+
+[Event "3/4.p Magyar SakkvilР±g"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0700.20b2a7]"]
+[Result "1/2-1/2"]
+[Annotator "13"]
+[SetUp "1"]
+[FEN "8/k1P5/8/8/2r5/7R/1K2P3/2r5 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1935.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c8=N+ (1. c8=Q $143 R1c2+ 2. Kb1 Rxc8 $19) 1... Rxc8 (1... Kb8 $144 2. Nd6
+R4c2+ 3. Kb3 Rxe2 $11 {EGTB 6 piРёces}) 2. Ra3+ Kb6 3. Rb3+ Ka5 4. Ra3+ Kb4 5.
+Rb3+ Kc4 6. Rd3 $3 $11 1/2-1/2
+
+[Event "Shakhmaty"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0303.23f1d6]"]
+[Result "1/2-1/2"]
+[Annotator "14"]
+[SetUp "1"]
+[FEN "8/8/3k1p1P/p7/3r2np/8/5P2/5K2 w - - 0 1"]
+[PlyCount "26"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h7 Nh2+ 2. Kg2 h3+ 3. Kg3 Rg4+ 4. Kxh3 Nf3 5. Kxg4 Ne5+ 6. Kf5 Nf7 7. Kxf6
+Nh8 8. Kg7 Ke7 9. Kxh8 Kf8 10. f3 a4 11. f4 a3 (11... Kf7 $144 12. f5 a3 13. f6
+Kf8 14. f7 a2 $11) 12. f5 a2 13. f6 a1=Q $11 1/2-1/2
+
+[Event "1/2.p SchackvРґrlden"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+0561.03h4h8]"]
+[Result "1-0"]
+[Annotator "15"]
+[SetUp "1"]
+[FEN "6Nk/4R2p/5R2/8/5p1K/4b3/4r1p1/5b2 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf8 Bf2+ 2. Kh5 Rxe7 3. Kh6 Rf7 4. Ra8 Ra7 5. Rb8 (5. Re8 $143 Bb5 $11) 5...
+Rb7 6. Rc8 Rc7 7. Rd8 Rd7 8. Re8 $18 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0800.34a4e7]"]
+[Result "1/2-1/2"]
+[Annotator "16"]
+[SetUp "1"]
+[FEN "3r2R1/4k3/1Rpr4/3P4/K2P4/1p3p2/5P1p/8 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1937.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rg7+ Kf6 2. Rh7 Ra8+ 3. Kxb3 Ra1 4. Rxh2 Rb1+ 5. Kc4 Rxb6 6. Kc5 cxd5 7.
+Rh6+ Ke7 8. Rh7+ Kf8 9. Rf7+ Kxf7 $11 1/2-1/2
+
+[Event "64"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+0040.23c6a7]"]
+[Result "1-0"]
+[Annotator "17"]
+[SetUp "1"]
+[FEN "3B4/k2P4/p1K5/1P6/8/8/2p2b1p/8 w - - 0 1"]
+[PlyCount "41"]
+[EventDate "1937.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. b6+ $1 Ka8 $1 (1... Bxb6 $144 2. Bxb6+ $18) (1... Kb8 $144 2. Bc7+ $18) 2.
+b7+ Ka7 3. Bb6+ $1 Bxb6 4. b8=Q+ $1 Kxb8 5. Kxb6 c1=Q 6. d8=Q+ Qc8 7. Qd6+ (7.
+Qe7 $143 Qc6+ $3 8. Kxc6 h1=Q+ $11) 7... Ka8 8. Qd5+ Kb8 9. Qe5+ Ka8 10. Qe4+
+Kb8 11. Qf4+ Ka8 12. Qf3+ Kb8 13. Qg3+ Ka8 14. Qg2+ Kb8 15. Qxh2+ Ka8 16. Qg2+
+Kb8 17. Qg3+ Ka8 18. Qf3+ Kb8 19. Qf4+ Ka8 20. Qe4+ Kb8 21. Qe7 $18 1-0
+
+[Event "1/2.p64"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0400.14f7h8]"]
+[Result "1/2-1/2"]
+[Annotator "18"]
+[SetUp "1"]
+[FEN "7k/3p1K2/2P5/8/p2r3p/8/2p5/R7 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1939.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c7 Rf4+ 2. Kg6 Rc4 3. Rxa4 Rg4+ 4. Rxg4 c1=Q 5. c8=Q+ Qxc8 6. Kf7 Qd8 7. Rg6
+Kh7 8. Rh6+ Kxh6 $11 1/2-1/2
+
+[Event "Shakhmaty"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0700.52b2d1]"]
+[Result "1/2-1/2"]
+[Annotator "19"]
+[SetUp "1"]
+[FEN "2r5/P2p3P/3P4/1p6/1P6/1P2R3/1K6/2rk4 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rd3+ (1. Ka3 $143 Ra8 2. Kb2 Rc2+ 3. Kb1 Rh2 4. Rc3 Rxh7 5. Rc7 Kd2 $19)
+1... Ke2 2. h8=Q Rxh8 3. a8=Q Rxa8 4. Rd2+ Ke1 5. Kxc1 Ra1+ 6. Kc2 Ra2+ 7. Kc3
+Rxd2 $11 1/2-1/2
+
+[Event "3.hm Fizkultura i Sport"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Herbstmann, A KorolkovV"]
+[Black "[=4067.31f7h7]"]
+[Result "1/2-1/2"]
+[Annotator "20"]
+[SetUp "1"]
+[FEN "8/2P1PKPk/4p3/2n3qN/8/2Q1bb2/3n4/8 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1950.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf6+ Qxf6+ 2. Kxf6 Nde4+ 3. Ke5 (3. Kf7 $143 Bh5+ 4. Kf8 Nd7#) 3... Nd7+ 4.
+Kxe6 Bg4+ 5. Kd5 (5. Kf7 $143 $1 Nd6#) 5... Nxc3+ (5... Ndf6+ $144 6. Ke5 Nxc3
+7. g8=Q+ (7. Kxf6 $143 Nd5+ 8. Kf7 Nxe7 9. Kxe7 Kxg7 10. Kd6 Bf4+ 11. Kc6 Bc8
+$19) (7. e8=Q $143 Bd4+ 8. Kxd4 Nxe8 $19) (7. c8=Q $143 Bd4+ 8. Kxd4 Bxc8 $19)
+7... Kxg8 8. c8=Q+ (8. e8=Q+ $143 Nxe8 9. c8=Q Bd4+ 10. Kxd4 Bxc8 $19) 8...
+Bxc8 9. e8=Q+ Nxe8 $11) 6. Kc6 Nf6 7. g8=Q+ (7. e8=Q $143 Bf3+ 8. Kd6 Nxe8+ $19
+) (7. c8=Q $143 Bxc8 8. e8=Q (8. g8=Q+ $144 Nxg8 9. e8=Q Bh6 10. Qxc8 Ne7+ $19)
+8... Bd7+ $19) 7... Kxg8 8. c8=Q+ (8. e8=Q+ $144 {petit dual} Nxe8 9. c8=Q Bf3+
+10. Kd7 Bg4+ 11. Kc6 Bxc8 $11) 8... Bxc8 9. e8=Q+ Nxe8 $11 1/2-1/2
+
+[Event "1.hm Dagestaner Committee Fizkultura i "]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+0234.02a4c3]"]
+[Result "1-0"]
+[Annotator "21"]
+[SetUp "1"]
+[FEN "R7/1R6/8/2p5/K7/2kpnb2/8/2N5 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1952.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rb3+ Kc2 $1 2. Rc8 $1 (2. Nxd3 $143 Bxa8 3. Nxc5 $11 {EGTB 6 piРёces}) 2...
+Kxc1 3. Rxd3 Bd1+ 4. Ka5 $1 Nc4+ 5. Kb5 Be2 6. Rc3+ $1 (6. Kxc4 $143 Kc2 7.
+Rcd8 Bf1 $11) 6... Kb2 $1 7. Rh3 $3 (7. Rxc4 $143 Kb3 8. R8xc5 Bd3 $11) (7. Rg3
+$143 Nd6+ 8. Kxc5 Ne4+ $11) 7... Nd6+ 8. Kxc5 Nxc8 9. Rh2 $1 $18 1-0
+
+[Event "2.p Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0140.22h7f5]"]
+[Result "1/2-1/2"]
+[Annotator "22"]
+[SetUp "1"]
+[FEN "8/7K/1R5B/5k2/1p6/2P5/pbP5/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1953.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rb5+ $1 (1. Ra6 $143 Ba3 $19) 1... Ke6 $1 (1... Kf6 $143 2. Bg7+ Kf7 3. Rf5+
+Ke6 4. Ra5 $18) 2. Ra5 Ba3 3. Bg7 $1 (3. Re5+ $143 Kxe5 4. Bg7+ Ke4 5. cxb4
+Bxb4 $19) 3... a1=Q 4. Re5+ Kf7 5. Rf5+ Ke6 6. Re5+ Kd6 7. Rd5+ $1 Kc6 8. Rc5+
+Kb6 $1 9. Rb5+ $1 Ka6 10. Ra5+ $11 1/2-1/2
+
+[Event ".c Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0430.11h2h5]"]
+[Result "1/2-1/2"]
+[Annotator "23"]
+[SetUp "1"]
+[FEN "1R6/8/2b3P1/2p4k/8/8/7K/2r5 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1954.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g7 (1. Rb3 $143 Kg4 2. Rg3+ Kf4 $19) 1... Rh1+ (1... Bd5 $144 2. Rd8 $1 $11
+(2. g8=Q $143 Rh1+ 3. Kg3 Rg1+ 4. Kf4 Rxg8 $19)) 2. Kg3 Rg1+ 3. Kf4 Rxg7 4.
+Rh8+ $1 Kg6 5. Rc8 $1 Rf7+ 6. Ke5 $1 Rf6 7. Rg8+ $1 Kf7 8. Rg7+ $1 Kxg7 $11
+1/2-1/2
+
+[Event "British Chess Magazine"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Herbstmann, A KorolkovV"]
+[Black "[+3022.15b2d3]"]
+[Result "1-0"]
+[Annotator "24"]
+[SetUp "1"]
+[FEN "8/2B1pN2/2p1B1q1/8/6N1/3kP3/1Kp1p1p1/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1955.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nfe5+ Ke4 2. Nf2+ Kxe3 3. Bb6+ c5 4. Bxc5+ Kf4 5. Nfd3+ (5. Nxg6+ $143 Kg3
+6. Nd3 c1=Q+ 7. Kxc1 g1=Q+ 8. Bxg1 e1=Q+ 9. Nxe1 $11) 5... Ke4 6. Bd5+ (6. Nxg6
+$143 c1=Q+ 7. Kxc1 g1=Q+ 8. Bxg1 e1=Q+ 9. Nxe1 $11) 6... Kxd5 7. Nxg6 c1=Q+ 8.
+Kxc1 e1=Q+ 9. Nxe1 Kxc5 10. Nxg2 $18 1-0
+
+[Event "7.p USSR Study Composition champ"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0100.24h3c6]"]
+[Result "1/2-1/2"]
+[Annotator "25"]
+[SetUp "1"]
+[FEN "8/8/P1k5/6p1/1p4Pp/5R1K/2p5/8 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1956.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf6+ $1 (1. a7 $143 Kb7 2. Rf7+ Ka8 3. Rc7 b3 4. Rc3 Kxa7 $19) 1... Kc7 2.
+a7 Kb7 (2... c1=Q $143 3. a8=Q Qc3+ 4. Rf3 $18) 3. Ra6 $1 (3. Rc6 $143 b3 4.
+a8=Q+ Kxa8 5. Rc7 Kb8 $1 6. Rc3 Ka7 7. Rc6 Kb7 8. Rc3 Ka6 9. Rc5 Kb6 10. Rc3
+Ka5 11. Rc4 Kb5 $19) 3... Ka8 4. Rc6 b3 5. Rc7 $1 b2 6. Rc8+ $1 Kxa7 7. Rxc2
+b1=Q 8. Ra2+ Kb7 9. Rb2+ Qxb2 $11 1/2-1/2
+
+[Event "2.p Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0048.02e2d8]"]
+[Result "1/2-1/2"]
+[Annotator "26"]
+[SetUp "1"]
+[FEN "3kn3/4pp2/n7/5B2/3N4/b6N/4K3/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1956.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ng5 Nd6 (1... f6 $144 2. Nge6+ $11) 2. Nxf7+ $1 Nxf7 3. Ne6+ Ke8 (3... Kd7
+$144 4. Ng5+ (4. Nc5+ $143 Kc6 5. Nxa6 Kb7 6. Bd3 Ne5 7. Bb5 Kb6 $19) 4... Ke8
+5. Bg6 $11) 4. Bg6 $1 Bc1 5. Bd3 $1 (5. Kd1 $143 Bh6 $1 6. Bd3 Kd7 $1 $19) 5...
+Nb8 (5... Kd7 $144 6. Nf8+ Ke8 7. Ne6 $11) 6. Bb5+ Nd7 7. Kd1 $1 Bh6 8. Be2 Be3
+9. Ke1 $11 1/2-1/2
+
+[Event "Ceskoslovensky Sach"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0047.11h4f5]"]
+[Result "1/2-1/2"]
+[Annotator "27"]
+[SetUp "1"]
+[FEN "8/3b4/6p1/2n2k1N/7K/6Bn/6P1/8 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ng7+ Kf6 2. Nh5+ gxh5 3. Kxh5 $1 Be8+ $1 4. Kh6 $1 (4. Kg4 $143 Ng5 5. Bh4
+Nce6 $19) 4... Ng5 (4... Ne4 $144 5. Bh4+ Nhg5 6. g4 $11) 5. Bh4 Nce6 6. g4 $1
+Ba4 (6... Bf7 $144 7. Bxg5+ Nxg5 $11) 7. Kh5 Nf4+ 8. Kh6 Nfh3 9. Kh5 Bd1 10.
+Kh6 Bxg4 11. Bxg5+ Nxg5 $11 1/2-1/2
+
+[Event "2.p Spartak"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[+0540.01c6a1]"]
+[Result "1-0"]
+[Annotator "28"]
+[SetUp "1"]
+[FEN "R7/B7/2K5/3R4/8/5b1p/7r/k7 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd4+ Kb1 2. Ra1+ Kc2 3. Ra2+ Kd3 4. Ra3+ $1 (4. Rxh2 $143 Bxd5+ 5. Kxd5 (5.
+Kc5 $144 Bg2 $11)) 4... Ke2 5. Re3+ $1 Kf2 6. Re4+ $1 Kf1 7. Rf5 Rf2 8. Kd6 h2
+(8... Bxe4 $144 9. Rxf2+ Ke1 10. Ra2 $18) 9. Rh4 $18 1-0
+
+[Event "Izbrannje Shakhmatnje Etjudi (Herbstman"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Herbstmann, A."]
+[Black "[=0330.22d4g4]"]
+[Result "1/2-1/2"]
+[Annotator "29"]
+[SetUp "1"]
+[FEN "8/3pp3/2P5/8/3K2k1/2P5/b1r5/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1964.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c7 Rd2+ 2. Ke3 Re2+ $1 3. Kd4 $1 (3. Kd3 $143 Bc4+ $1 4. Kxc4 Re6 $1 5. c8=Q
+Rc6+ 6. Qxc6 dxc6 $19) (3. Kxe2 $143 Bc4+ 4. Ke3 Ba6 $19) 3... Re4+ $1 (3...
+e5+ $144 4. Kd3 $1 (4. Kc5 $143 Re4 $19) 4... e4+ (4... Kf3 $144 5. c8=Q e4+ 6.
+Kd4 Rd2+ 7. Kc5 e3 $11) 5. Kxe2 Bc4+ 6. Ke3 Ba6 7. Kxe4 $11) 4. Kxe4 Be6 $1 5.
+Ke5 Bf5 6. c8=N $1 $11 1/2-1/2
+
+[Event "1.p Shakhmaty Moskva"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Nadareishvili Herbstmann"]
+[Black "[=1040.26h2h4]"]
+[Result "1/2-1/2"]
+[Annotator "30"]
+[SetUp "1"]
+[FEN "8/p7/P7/8/Q2p1ppk/7p/1p4PK/5bB1 w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1968.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+{Correction par Daniel Keith : ajout d'un pion blanc en a6 et d'un pion noir
+en a7 pour Р№viter une dР№molition commenР·ant par 4....h1=Q.} 1. Bxd4 (1. gxh3
+$143 g3+ 2. Kh1 b1=Q 3. Qxd4 Qg6 $1 4. Qh8+ Qh5 5. Qxh5+ Kxh5 6. Bxa7 f3 $19)
+1... g3+ 2. Kg1 $1 h2+ 3. Kh1 Bxg2+ $1 4. Kxg2 f3+ (4... h1=Q+ $144 5. Kxh1
+b1=Q+ 6. Kg2 Qe4+ 7. Kf1 Qh1+ 8. Bg1 Qf3+ 9. Ke1 Kh3 10. Qd7+ Kg2 11. Qb7 Qxb7
+12. axb7 f3 13. b8=Q f2+ 14. Bxf2 gxf2+ 15. Kd2 f1=Q 16. Qxa7 $11) 5. Kh1 b1=Q+
+6. Bg1+ Qb4 $1 7. Qxb4+ Kh3 8. Bxh2 $1 f2 9. Qh4+ $1 Kxh4 10. Bxg3+ Kxg3 $11
+1/2-1/2
+
+[Event ".hm Armenian Central Chess Club Ty"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Herbstmann, A KatsnelsonL"]
+[Black "[+4101.15c8f7]"]
+[Result "1-0"]
+[Annotator "31"]
+[SetUp "1"]
+[FEN "2K4Q/3p1kp1/7p/7p/5N1P/3p4/2R5/q7 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1975.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc5 $1 (1. Qd8 $143 Qa8+ $19) (1. Qh7 $143 dxc2 $11) (1. Kxd7 $143 Qd4+ $19)
+1... Qa8+ 2. Kxd7 Qxh8 3. Rf5+ Kg8 4. Ng6 d2 $1 (4... Qh7 $144 5. Rf8#) 5. Rf1
+d1=Q+ 6. Rxd1 Qh7 7. Rg1 $1 Kf7 8. Rf1+ Kxg6 9. Rf8 $1 $18 1-0
+
+[Event "64#640 {v}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Herbstmann=A"]
+[Black "[=0407.00d1f1"]
+[Result "1/2-1/2"]
+[Annotator "32"]
+[SetUp "1"]
+[FEN "r7/8/8/8/8/2R5/n7/Nn1K1k2 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1933.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf3+ $1 (1. Rc2 $143 Rd8+ 2. Rd2 Rxd2#) 1... Kg2 2. Rb3 Nac3+ 3. Kc1 $1 Rxa1
+4. Rb2+ Kg1 5. Ra2 $1 Nxa2+ (5... Rxa2 $143 $11) 6. Kb2 $11 1/2-1/2
+
+[Event "1.p Achalgazdra Kommunisti"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Herbstmann=A"]
+[Black "[+0400.24a3f2"]
+[Result "1-0"]
+[Annotator "33"]
+[SetUp "1"]
+[FEN "8/3R1P2/1ppP1p2/3r4/8/K7/p4k2/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1954.??.??"]
+
+1. Kb2 $3 (1. Kxa2 $143 f5 $1 2. f8=Q (2. Ra7 $144 Re5 3. f8=Q Re2+ 4. Ka3 Re3+
+5. Ka4 Re4+ 6. Kb3 Re3+ 7. Kc4 Re4+ $11) 2... Ra5+ 3. Kb2 Rb5+ 4. Kc3 Rc5+ 5.
+Kd4 Rd5+ 6. Kc3 Rc5+ $11) 1... a1=Q+ (1... Rb5+ $144 2. Ka1 $1 $18 (2. Kxa2
+$143 f5 $11)) (1... Rd2+ $144 2. Ka1 Rd1+ 3. Kxa2 $18) (1... f5 $144 2. Ra7 (2.
+f8=Q $143 a1=Q+ 3. Kxa1 Ra5+ $11) 2... Re5 3. Rxa2 $18) 2. Kxa1 Ra5+ (2... f5
+$144 3. Ra7 Re5 4. Ra2+ $18) 3. Kb2 Rb5+ (3... f5 $144 4. Ra7 $1 Rxa7 5. f8=Q
+Ra5 6. d7 Rb5+ 7. Kc3 Rc5+ 8. Qxc5+ $18) (3... Ra8 $144 4. Re7 Rf8 5. d7 $18)
+4. Kc3 Rc5+ 5. Kd4 f5 6. Ra7 $1 Rd5+ 7. Kc3 Rc5+ 8. Kb2 Rb5+ 9. Ka1 Re5 10.
+Ra2+ $18 1-0
+
+[Event "Zadatschy & Etudjy#09 {v}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Herbstmann=A"]
+[Black "[=3043.54d6a7"]
+[Result "1/2-1/2"]
+[Annotator "34"]
+[SetUp "1"]
+[FEN "b6n/kP3p1q/p2K1Pp1/P5Pp/7P/8/7B/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1928.??.??"]
+
+1. b8=Q+ Kxb8 2. Kd7+ $1 (2. Ke7+ $143 Kc8 3. Kf8 Kd7 4. Bg3 Ke6 5. Be1 Bd5 6.
+Bg3 Kf5 7. Bf2 Kg4 8. Be1 Qh6+ $1 9. gxh6 g5 10. hxg5 Kxg5 11. Kg7 Ng6 $19)
+2... Ka7 3. Bg1+ Kb7 $1 4. Bc5 $3 Qg8 5. Bf8 $11 1/2-1/2
+
+[Event "4.hm Troitzky MT Bulletin Central Chess"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Herbstmann=A Pogosjants=E"]
+[Black "[+0400.22c4a8"]
+[Result "1-0"]
+[Annotator "35"]
+[SetUp "1"]
+[FEN "k7/1p5R/2P5/8/P1Kp4/4r3/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1966.??.??"]
+
+1. c7 $1 (1. Kxd4 $143 Re8 $1 2. Rxb7 (2. cxb7+ $144 Ka7 3. Kd5 Re1 4. a5 Rb1
+5. Kc6 Rc1+ 6. Kd6 Rb1 $11) 2... Re4+ $1 3. Kc5 Rc4+ $1 4. Kb6 Rxc6+ 5. Kxc6
+$11) (1. Rxb7 $143 Rc3+ 2. Kd5 (2. Kb5 $144 d3 3. Rd7 (3. Kb6 $144 Rb3+ 4. Kc7
+d2 5. Rxb3 d1=Q $11) 3... Kb8 4. a5 (4. Kb6 $144 Rb3+ 5. Kc5 Rc3+ 6. Kb5 Kc8 7.
+a5 Rb3+ $11) 4... Kc8 5. a6 Ra3 6. a7 d2 $11) 2... d3 3. Rb2 (3. Rb1 $144 d2 4.
+Rd1 Kb8 5. Rxd2 Kc7 6. Rh2 Rd3+ $11) 3... Rc2 4. Rb3 (4. Rb1 $144 d2 5. Rd1 Ka7
+6. Kd6 Kb6 7. a5+ Kxa5 $11) 4... d2 5. Rd3 Kb8 6. Kd6 Kc8 7. a5 Ra2 8. Rd5 Rxa5
+) (1. Rh8+ $143 Ka7 2. c7 (2. Kxd4 $144 Re7 $11) 2... Rc3+ $11) 1... b5+ $1 (
+1... Rc3+ $144 2. Kxd4 Rc1 3. Rh8+ $18) (1... Re8 $144 2. Rd7 Rc8 3. Rd8 b5+ 4.
+axb5 Kb7 5. b6 $18) 2. axb5 $1 (2. Kxd4 $143 Re8 3. Kd5 (3. Kc5 $144 Kb7 4.
+axb5 (4. a5 $144 Re6 5. Kxb5 Re5+ 6. Kb4 Re6 $11) 4... Re6 5. b6 Rc6+ $11) 3...
+Kb7 4. axb5 (4. Kd6 $144 Rc8 5. axb5 Kb6 $11) 4... Rc8 5. Kd6 Kb6 $11) (2. Kxb5
+$143 Kb7 3. a5 Re5+ 4. Kb4 Re6 $11) (2. Kc5 $143 Kb7 3. Kd6 Rc3 4. a5 d3 $11)
+2... Kb7 $1 (2... Rc3+ $144 3. Kxd4 Rc1 4. b6 Kb7 5. Rh8 $18) (2... Re8 $144 3.
+Rd7 Rc8 4. Rd8 $18) 3. b6 $1 Kxb6 4. c8=N+ $1 Kc6 (4... Ka6 $144 5. Ra7#) (4...
+Ka5 $144 5. Ra7#) 5. Ne7+ Kb6 (5... Kd6 $144 {main} 6. Nf5+ $18) 6. Nd5+ $18
+1-0
+
+[Event "1.p Shakhmaty v SSSR#785"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Herbstmann=A"]
+[Black "[+0400.43f8h8]"]
+[Result "1-0"]
+[Annotator "36"]
+[SetUp "1"]
+[FEN "5K1k/5p1p/7P/5rP1/8/3P4/3P2p1/4R3 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "1936.??.??"]
+
+1. Re8 Re5 $1 2. Ra8 $1 (2. Rb8 $143 Rb5 3. Ra8 (3. Rxb5 $144 g1=Q 4. Rb8 Qa7
+$11) 3... Rb7 $11) 2... Ra5 3. Rxa5 g1=Q 4. Ra8 Qg2 5. Rb8 $1 Qg3 6. Rc8 Qg4 7.
+Rd8 Qxg5 (7... Qe6 $144 8. d4 f5 9. d5 Qg8+ 10. Ke7 $18) 8. Re8 Qg8+ (8... Qf6
+$144 9. d4 $18) 9. Ke7 Qxe8+ 10. Kxe8 f5 11. d4 f4 12. d5 f3 13. d6 f2 14. d7
+f1=Q 15. d8=Q Qf8+ 16. Kd7 $18 1-0
+

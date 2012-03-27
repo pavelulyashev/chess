@@ -1,0 +1,736 @@
+[Event "Gambit (Romania)#024"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Pallier=A Bacque=G"]
+[Black "(=3441.67a6c8)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2k5/2P1p1q1/KPP1P3/p6p/2p1P1p1/R5P1/p5p1/BNb4r w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1994.??.??"]
+
+{Gambit (Romania)/6} 1. Nc3 $1 (1. Bxg7 $143 axb1=Q $19) 1... Qe5 $1 (1... Bf4
+$143 2. gxf4 Rb1 3. Nd5 Rxb6+ 4. Nxb6+ Kxc7 5. Bxg7 g1=Q 6. Be5+ Kxc6 7. Nc8
+$18) 2. Nd5 Qxd5 (2... Qxc7 $143 3. Nxc7 g1=Q 4. Nd5 $18) 3. exd5 Bxa3 (3...
+Bf4 $143 4. Bd4 $1 g1=Q 5. Bxg1 Rxg1 6. gxf4 a1=Q 7. Rxa1 Rxa1 8. f5 Rf1 9. Ka7
+Rb1 10. f6 c3 11. fxe7 $18) 4. Be5 $1 Bd6 5. Bxd6 exd6 6. e7 $1 Re1 7. Ka7 $1
+g1=Q 8. Ka8 $1 Qxb6 9. e8=Q+ Rxe8 $11 {stalemate} 1/2-1/2
+
+[Event "2.hm Parenti-90 JT"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0000.76b8c1)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1K6/1p5p/4p2P/p6p/P3p2P/P6P/P4P2/2k5 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1994.??.??"]
+
+{EG#10411} 1. Kc7 $1 (1. Kxb7 $143 Kd2 2. Kc6 (2. Kb6 $144 Ke2 3. Kxa5 Kxf2 $19
+) 2... Ke2 3. Kd6 Kxf2 $19) 1... Kd2 (1... Kb2 $144 2. Kd6 Kxa2 3. Kxe6 Kxa3 4.
+Kf7 Kxa4 5. Kg7 b5 (5... Kb3 $143 6. Kxh7 a4 7. Kg6 a3 8. h7 a2 9. h8=Q $18) 6.
+Kxh7 b4 7. Kg7 b3 8. h7 b2 9. h8=Q b1=Q $11) 2. Kd6 $1 Ke2 3. Ke5 $1 Kf3 (3...
+Kxf2 $144 4. Kxe4 Kg3 5. Ke5 Kxh3 6. Kf6 e5 $1 7. Kxe5 $1 Kxh4 8. Kf6 Kg3 9.
+Kg7 h4 10. Kxh7 h3 11. Kg8 h2 12. h7 h1=Q 13. h8=Q Qxh8+ 14. Kxh8 $11) 4. Kd4
+$1 Kf4 (4... Kg2 $144 5. Kxe4 $1 Kxh3 6. Ke5 Kxh4 7. Kf6 Kg4 8. Kg7 h4 9. Kxh7
+h3 10. Kg8 h2 11. h7 h1=Q 12. h8=Q Qxh8+ 13. Kxh8 Kf3 14. Kg7 Kxf2 15. Kf6 $11)
+5. Kc5 Ke5 (5... e3 $144 6. fxe3+ Kg3 (6... Kxe3 $144 7. Kd6 $11) 7. Kd6 Kxh4
+8. Kxe6 Kxh3 9. Kf6 h4 10. Kg7 Kg4 11. Kxh7 h3 12. Kg8 h2 13. h7 h1=Q 14. h8=Q
+Qd5+ $11) (5... b6+ $144 6. Kd6 $1 $11) 6. Kb6 $1 (6. Kb5 $143 Kd4 7. Kxa5 Kc5
+$19) 6... Kd4 7. Kc7 $1 Kd3 8. Kd6 Ke2 9. Ke5 $11 1/2-1/2
+
+[Event "2.p Buletin Problemistic-25 JT Buletin "]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+3511.44c4b6)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1RB5/1P3p2/rk3p2/5p2/1PK2P2/3P4/2R2p2/1q2N3 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1996.??.??"]
+
+{Buletin Problemistic/1-6 1997 EG#11135} 1. Ra8 $1 (1. Rxf2 $143 Qxe1 2. Ra8
+Qc1+ 3. Rc2 Qxc2+ 4. Kd4 Qb2+ 5. Ke3 Qc1+ 6. Ke2 $11) 1... Rxa8 $1 (1... fxe1=Q
+$144 2. b8=Q+ Kc6 3. Rxa6#) (1... Qxb4+ $144 2. Kxb4 fxe1=Q+ 3. Kc4 Rxa8 4.
+Rb2+ (4. bxa8=Q $143 Qb4+ $1 5. Kxb4 $11 {stalemate}) 4... Ka7 5. Ra2+ $18) 2.
+bxa8=Q (2. bxa8=N+ $143 Kc6 3. Rxf2 Qxe1 4. Rc2 Qb1 $1 5. Rc3 Qa2+ 6. Kd4+ Kd6
+7. Nc7 Qf2+ 8. Kc4 Kxc7 $11) 2... Qxb4+ $1 3. Kxb4 (3. Kd5 $143 Qb5+ 4. Kd6
+Qb4+ 5. Kd7 Qd4+ 6. Ke8 fxe1=Q+ 7. Kxf7 Qd7+ $1 8. Bxd7 Qe7+ $1 9. Kxe7 $11 {
+stalemate}) 3... fxe1=Q+ 4. Rc3 $1 (4. Kb3 $143 Qb4+ 5. Kxb4 $11 {stalemate}) (
+4. Kc4 $143 Qb4+ $1 5. Kd5 Qc5+ $1 6. Rxc5 $11 {stalemate}) 4... Qe7+ 5. Kb3 $1
+(5. Ka4 $143 Qb4+ 6. Kxb4 {=stalemate}) (5. Kc4 $143 Qb4+ 6. Kd5 Qc5+ 7. Rxc5
+$11 {stalemate}) (5. Rc5 $143 Qxc5+ 6. Kb3 Qb5+ 7. Ka2 Kc7 $11) 5... Qb4+ $1 6.
+Kc2 $1 Qa4+ 7. Rb3+ $1 $18 (7. Qxa4 $2) 1-0
+
+[Event "Diagrammes#3594"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+1044.35e2h3)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4N3/p3p3/8/P5p1/6Pn/1BP4k/1Q2Kp1p/4b3 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1996.??.??"]
+
+1. Bd5 Ng2 2. Bxg2+ Kxg2 3. Qb7+ Kg1 4. Qh1+ $1 Kxh1 5. Kf1 Bxc3 6. Nc7 Bd2 (
+6... e5 $144 7. Nd5 Bd2 (7... e4 $144 8. Nxc3 e3 9. Ne2 a6 10. Ng3#) 8. Nf6 Bf4
+9. Ne4 Bg3 10. Nxg3#) 7. Ne6 (7. Nb5 $143 Bxa5 8. Nd4 Bb6 9. Nb5 Ba5 10. Nd4
+Bb6 $11) (7. Nd5 $143 Bxa5 8. Nxe7 Bc7 $11) (7. Kxf2 $143 Bxa5 $19) (7. a6 $143
+e5 $1 $11) 7... Be3 8. a6 Bf4 9. Nxf4 (9. Nc5 $143 Bg3 $1 10. Ne4 Bh4 $11) 9...
+gxf4 10. g5 e5 11. g6 e4 12. g7 e3 13. g8=Q e2+ 14. Kxf2 e1=Q+ 15. Kxe1 f3 16.
+Kf1 f2 17. Qg2# 1-0
+
+[Event "Springaren#08454"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+0440.75h1h3)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "B7/1P4p1/1PP2pP1/5p1P/6pr/P2P2bk/7p/5R1K b - - 0 1"]
+[PlyCount "8"]
+[EventDate "1996.??.??"]
+
+{Springaren/9} 1... Bc7 $1 (1... Bd6 $144 2. b8=Q $1 g3 (2... Bxb8 $144 3. c7
+$18) 3. c7 $1 Re4 4. Bxe4 (4. dxe4 $143 g2#) 4... fxe4 5. c8=Q+ $18) 2. b8=B $1
+(2. bxc7 $143 g3 3. Rf3 Rf4 $1 4. Rxg3+ (4. c8=Q $144 Rxf3 $19 5. Qxf5+ Rxf5 6.
+b8=Q Rf1#) 4... Kxg3 5. c8=Q Rf1#) (2. Rxf5 $143 g3 3. Rf3 Rf4 4. Rxg3+ Kxg3 5.
+bxc7 Rf1#) (2. Rf4 $143 g3 $1 (2... Bxf4 $143 3. b8=Q g3 4. c7 $18) 3. Rxh4+
+Kxh4 4. Kg2 f4 $1 5. bxc7 f3+ $1 6. Kxf3 h1=Q+ $19) (2. h6 $143 g3 $1 (2...
+gxh6 $143 3. g7 g3 4. g8=Q Rg4 5. Qd5 $18) 3. Rf3 Rf4 $1 4. h7 Rxf3 5. h8=Q+
+Kg4 6. bxc7 Rf1+ 7. Kg2 Rg1#) (2. b8=Q $143 g3 3. Rf3 Rf4 4. Rxg3+ (4. Qxc7
+$143 Rxf3 5. Qxg3+ Kxg3 6. d4 Rf1#) 4... Kxg3 5. Qxc7 Kh3 $1 6. Qxf4 $11 {
+stalemate}) 2... g3 3. Rf3 $1 (3. Rg1 $143 hxg1=Q+ 4. Kxg1 Bxb6+ 5. Kf1 g2+ $19
+) 3... Rf4 (3... Rg4 $144 4. Bxc7 $18) (3... Ra4 $144 4. Bxc7 Rxa3 5. Rxg3+ $18
+) 4. Rxg3+ Kxg3 5. Bxc7 1-0
+
+[Event "Variantim#0822"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+0000.68a1f2)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4p1pp/1p2P3/2pp3P/3P4/1pP5/pP1P1k2/K7 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1999.??.??"]
+
+{Variantim/7 EG#15166} 1. c4 $1 dxc4 2. d5 $1 Ke2 3. h6 $1 (3. d6 $143 Kxd2 4.
+h6 (4. d7 $144 Kc2 5. d8=Q c3 $19) 4... Kc2 $1 5. hxg7 c3 6. g8=Q (6. bxc3 $144
+b2+ 7. Kxa2 b1=Q+ 8. Ka3 Qb3#) 6... cxb2#) 3... gxh6 (3... Kxd2 $144 4. hxg7 c3
+5. g8=Q Kc1 (5... Kc2 $144 6. Qxh7+ $18) 6. Qg1+ $18) 4. d6 Kxd2 (4... exd6
+$144 5. e7 Kxd2 6. e8=Q c3 7. bxc3 $18) 5. d7 $1 (5. dxe7 $143 c3 6. e8=Q c2 $1
+7. Qd8+ Ke2 $19 {#2}) 5... c3 6. d8=Q+ Kc1 7. Qh8 $1 (7. bxc3 $143 b2+ 8. Kxa2
+b1=Q+ 9. Ka3 $19 {#4}) 1-0
+
+[Event "2.hm Nestorescu JT Buletin Problemistic"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0303.73d8e6)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3K4/1P1p4/1n2k3/2p1P2p/r1P1P3/1P4P1/1P6/8 b - - 0 1"]
+[PlyCount "26"]
+[EventDate "2000.??.??"]
+
+{Buletin Problemistic/1-6 EG#13207} 1... Ra8+ 2. Kc7 (2. bxa8=Q $143 Nxa8 3.
+Kc8 Kxe5 4. Kxd7 Kxe4 5. Kc6 Kf3 6. Kb7 (6. Kxc5 $144 Kxg3 7. b4 h4 8. b5 h3 9.
+b6 Nxb6 10. Kxb6 h2 11. c5 h1=Q $19) 6... Kxg3 7. Kxa8 h4 8. b4 h3 9. bxc5 h2
+10. c6 h1=Q $19) 2... Rg8 $1 (2... Kxe5 $143 3. Kxb6 Rg8 (3... Rb8 $142 4. Kc7
+Rg8 5. b8=Q Rxb8 6. Kxb8 Kxe4 7. Kc7 Kf3 8. Kxd7 Kxg3 9. b4 $11) 4. Kxc5 Kxe4 (
+4... Rb8 $144 5. Kb6 Kxe4 6. b4 Kf3 7. b5 Kxg3 8. c5 Rxb7+ 9. Kxb7 h4 10. Ka6
+h3 11. b6 h2 12. b7 h1=Q 13. b8=Q+ $18) (4... d6+ $144 5. Kc6 Rd8 6. b4 $18) 5.
+Kd6 $1 Kf3 6. Kxd7 Kxg3 7. c5 Rg7+ 8. Kc6 Rxb7 9. Kxb7 h4 10. c6 h3 11. c7 h2
+12. c8=Q h1=Q+ $18 {#51}) 3. b8=Q $1 (3. Kxb6 $143 Rxg3 $1 4. b8=Q Rxb3+ 5. Kc7
+Rxb8 6. Kxb8 h4 $19) 3... Rxb8 (3... Na8+ $144 4. Kb7 Rxb8+ 5. Kxb8 Kxe5 6.
+Kxa8 Kxe4 $11) 4. Kxb8 Kxe5 (4... Nxc4 $144 5. bxc4 Kxe5 6. Kc7 $1 Kxe4 7. Kd6
+Kf3 (7... Kd4 $144 8. b3 $11) 8. Kxc5 Kxg3 9. b4 $11) (4... d6 $144 5. Kc7 Na8+
+$1 6. Kb7 Kxe5 7. Kxa8 Kxe4 8. Kb7 Kf3 9. Kc7 Kxg3 10. b4 cxb4 11. Kxd6 h4 12.
+c5 h3 13. c6 h2 14. c7 h1=Q 15. c8=Q Qd1+ 16. Ke5 Qe2+ 17. Kd4 Qxb2+ 18. Ke4
+$11) 5. Kb7 $1 (5. Kc7 $143 Na8+ 6. Kb7 $19) 5... Nxc4 $1 (5... Na8 $144 6.
+Kxa8 Kxe4 7. Kb7 Kf3 8. Kc7 Kxg3 9. b4 $1 cxb4 (9... h4 $144 10. b5 h3 11. b6
+h2 12. b7 h1=Q 13. b8=Q $11) 10. Kxd7 h4 11. c5 h3 12. c6 h2 13. c7 h1=Q 14.
+c8=Q Qd1+ 15. Ke7 $1 Qe2+ 16. Qe6 $1 $11) 6. bxc4 Kxe4 7. Kb6 $1 (7. Kc7 $143
+Kf3 8. Kxd7 Kxg3 9. b4 cxb4 10. c5 b3 11. c6 b2 12. c7 b1=Q 13. c8=Q Qf5+ $19)
+7... d6 $1 (7... Kf3 $144 8. Kxc5 Kxg3 9. b4 $11) (7... Kd4 $144 8. b3 d6 9.
+Kc6 $11) 8. Kc6 Kf3 9. Kxd6 Kxg3 10. b4 (10. Kxc5 $143 h4 11. b4 h3 12. b5 h2
+13. b6 h1=Q 14. Kd6 Qb7 $19) 10... cxb4 11. c5 b3 (11... h4 $144 12. c6 h3 (
+12... b3 $144 13. c7 b2 14. c8=Q b1=Q $11) 13. c7 h2 14. c8=Q h1=Q 15. Qg8+ Kf4
+$1 16. Kc5 Qe4 17. Qb8+ Qe5+ 18. Qxe5+ Kxe5 19. Kxb4 $11) 12. c6 b2 13. c7 b1=Q
+14. c8=Q $11 1/2-1/2
+
+[Event "2.hm EBUR#006"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Kralin=N Pallier=A"]
+[Black "(+4045.77h3f8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k1N/2p1q2b/2P3p1/P1P3Pp/7P/1Q2p1pK/p3PpP1/N4B1n w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2000.??.??"]
+
+{EBUR/6 EG#13859} 1. a6 $1 (1. Qb8+ $143 Qe8 2. Qxe8+ Kxe8 3. a6 Bg8 $19) (1.
+Qxa2 $143 Qe8 $1 2. Qf7+ Qxf7 3. Nxf7 Kxf7 $1 4. a6 Bg8 $1 5. Nc2 Ke6 $1 6.
+Nxe3 Ke7 7. Nf5+ gxf5 8. a7 Be6 9. a8=Q f4#) 1... Qe8 $1 (1... Bg8 $144 2.
+Nxg6+ Kg7 3. Qxg8+ Kxg8 4. Nxe7+ $18) 2. Qf7+ $1 (2. Qd5 $143 Bg8 $1 3. Nxg6+
+Qxg6 4. Qd8+ Kg7 5. Qd7+ (5. Qxc7+ $144 Qf7 6. Qe5+ $19) 5... Qf7 6. Qd4+ $19)
+2... Qxf7 3. Nxf7 Bg8 $1 (3... Kxf7 $144 4. a7 Bg8 5. a8=R $1 (5. a8=Q $143 Ke7
+6. Qxg8 $11 {stalemate}) 5... Kg7 6. Re8 $1 Bd5 7. Rxe3 Bxc6 8. Rxg3 $18) 4.
+Nd8 $1 (4. a7 $143 Bxf7 5. a8=Q+ Ke7 6. Qc8 Be6+ 7. Qxe6+ Kxe6 $19) 4... Ke7 (
+4... Kg7 $144 {<main>} 5. a7 Kh7 $1 6. a8=B $1 (6. a8=Q $143 Be6+ 7. Nxe6 $11 {
+stalemate}) (6. a8=R $143 Be6+ 7. Nxe6 $11 {stalemate}) (6. Nb3 $143 Bxb3 7.
+a8=Q Bc2 8. Qc8 Bf5+ $19) (6. Nc2 $143 Bb3 7. Na1 Bd5 8. a8=Q Be6+ 9. Nxe6 $11
+{stalemate}) 6... Bd5 7. Bb7 $1 Be4 8. Bc8 $18) (4... Bd5 5. a7 Be4 6. Ne6+ $1
+Kf7 7. Nd4 $18) 5. a7 Kxd8 6. a8=R+ $1 (6. a8=Q+ $143 Ke7 7. Qxg8 $11 {
+stalemate}) 6... Ke7 7. Rxg8 $18 1-0
+
+[Event "3.hm Hlinka-50 JT Ceskoslovensky Sach#6"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=4138.33e2h2)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "b7/8/p3R2N/P2PP2Q/q7/4p2p/4Kn1k/4n1N1 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2004.??.??"]
+
+{Ceskoslovensky Sach/9 EG#14645} 1. Nf3+ $1 (1. Kf1 $143 Bxd5 $1 $19) 1... Nxf3
+2. Qxf3 Qa2+ (2... Qd1+ $144 3. Kxe3 Qxf3+ 4. Kxf3 Bxd5+ 5. Ke2 $1 Bc4+ $1 6.
+Kf3 (6. Kxf2 $143 Bxe6 $19) 6... Bd5+ (6... Bxe6 $144 7. Kxf2 $11) 7. Ke2 $11)
+3. Kxe3 Bxd5 $1 4. Qe2 $1 (4. Qxf2+ $143 Qxf2+ 5. Kxf2 Bxe6 $19) (4. Qf4+ $143
+Kg2 5. Rg6+ Kf1 6. Ng4 Qe2+ 7. Kd4 Qc4+ 8. Ke3 Qd3#) 4... Qxe2+ (4... Qb3+ $144
+5. Kd4 $1 $11) (4... Bxe6 $144 5. Qxf2+ $1 (5. Qxa2 $143 Bxa2 6. Kxf2 Be6 $1
+$19) 5... Qxf2+ 6. Kxf2 $11) 5. Kxe2 Bc4+ $1 (5... Bxe6 $144 6. Kxf2 $1 $11) (
+5... Kg1 $143 6. Rg6+ Bg2 7. Nf5 $18) 6. Kf3 $1 (6. Kxf2 $143 Bxe6 $19) 6...
+Bd5+ $1 (6... Bxe6 $144 7. Kxf2 $11) 7. Ke2 $1 Bc4+ 8. Kf3 (8. Kxf2 $143 Bxe6
+9. Kf3 Kg1 $19) 8... Bxe6 9. Kxf2 Kh1 10. Kf1 Bc4+ 11. Kf2 Be6 12. Kf1 $11
+1/2-1/2
+
+[Event "Diagrammes#5613"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+3012.58d3a5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/N5p1/1p6/kP3P2/p4Bp1/Pp1K3q/1pN1PppP/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2005.??.??"]
+
+{Diagrammes/7-9} 1. Kc4 $1 (1. Kd4 $143 f1=N 2. Bd6 g1=Q+ $19) (1. Ke4 $143
+b1=N 2. Bd6 Nc3+ $19) (1. e3 $143 f1=Q+ $19) (1. Ne3 $143 b1=Q+ $19) (1. Be3
+$143 b1=Q $19) 1... Qc3+ $1 2. Kxc3 bxc2 $1 (2... b1=Q $144 3. Nd4 $1 $18 {#5})
+(2... b1=N+ $144 3. Kc4 $18 {#2}) (2... f1=Q $144 3. Bd6 $1 b1=N+ 4. Kb2 $18) (
+2... g1=Q $144 3. Kc4 $1 Qg2 (3... Qh1 $144 4. Bd2#) 4. Bd2#) 3. Kxb2 $1 (3.
+Kxc2 $143 b1=Q+ $1 4. Kxb1 f1=Q+ $19 {#6}) 3... c1=Q+ $1 (3... f1=N $144 4. Be5
+c1=Q+ 5. Kxc1 g1=Q 6. Bc3#) 4. Bxc1 $1 (4. Kxc1 $143 f1=Q+ $19 {#6}) 4... f1=N
+$1 (4... f1=Q $144 5. Bd2#) (4... g1=Q $144 5. Bd2#) 5. Bf4 $1 (5. Bg5 $143
+g1=Q 6. Be7 Qd4+ $19) (5. Nc6+ $143 Kxb5 6. Nd4+ Kc4 $19) 5... g1=Q 6. Be5 $1
+Qe3 7. Bc3+ Qxc3+ 8. Kxc3 Ne3 (8... g3 $144 9. hxg3 Nxg3 10. Kc4 Nxe2 11. Nc6#)
+9. Kd3 $1 (9. Nc6+ $143 Kxb5 10. Nd4+ Kc5 11. Ne6+ (11. Kd3 $144 Nf1 12. Ne6+
+Kd5 13. Nxg7 Ke5 14. e4 (14. Nh5 $144 Kxf5 15. Ng3+ Nxg3 16. hxg3 Ke5 $11)
+14... Nxh2 15. Nh5 b5 $11) 11... Kd5 12. Nxg7 Ke5 13. Kb4 Nf1 $11) (9. Kd4 $143
+Nxf5+ 10. Kd5 (10. Ke5 $144 Ne3 $11) (10. Kc3 $144 Nd6 $11) 10... Ne3+ 11. Kc6
+Nc4 12. Nc8 Nxa3 13. Nxb6 Nxb5 14. Nxa4 Kxa4 15. e4 $11) (9. Kd2 $143 Nxf5 10.
+e4 Nd6 11. Kd3 (11. e5 $144 Nc4+ $11) 11... Nxb5 $11) 9... Nxf5 (9... Nd5 $144
+10. e4 Nf4+ 11. Kc4 {#1}) (9... Nd1 $144 10. e4 $18) 10. e4 $1 (10. Kc4 $143
+Nd6+ $11) 10... Nd6 11. Kd4 $1 Nxb5+ 12. Nxb5 Kxb5 13. Kd5 $1 1-0
+
+[Event "4.p Ceskoslovensky Sach#18"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+0000.22f3h4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6p1/8/8/4P2k/5K1p/7P/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2005.??.??"]
+
+{Ceskoslovensky Sach/3 2006 EG#16530} 1. Kf4 $1 (1. e5 $143 Kg5 2. Ke4 Kg6 3.
+Kd5 Kf7 4. Kd6 Ke8 5. Ke6 g5 6. Kf5 Ke7 7. Kxg5 Ke6 $11) 1... g6 $1 (1... g5+
+$144 2. Kf5 $1 $18 (2. Kf3 $143 Kh5 $1 3. e5 Kh6 $1 4. Kg3 Kh5 $1 5. Kxh3 g4+
+6. Kg3 Kg5 7. e6 Kf6 8. Kxg4 Kxe6 9. Kg5 Kf7 $11)) 2. Ke5 $1 (2. e5 $143 g5+ 3.
+Kf5 g4 4. Kf4 (4. e6 $144 g3 5. e7 gxh2 6. e8=Q h1=Q 7. Qe7+ Kg3 8. Qd6+ Kg2
+$11) 4... Kh5 $1 $11) 2... g5 3. Kf5 $1 g4 4. Kf4 $1 g3 (4... Kh5 $144 5. e5 $1
+$18) 5. hxg3+ Kh5 6. Kf3 $1 (6. g4+ $143 Kh4 $1 7. Kf3 h2 8. Kg2 Kxg4 $11) 6...
+Kg5 7. Kf2 $1 (7. g4 $143 h2 $11) 7... Kg4 8. Kg1 $1 (8. e5 $143 Kf5 9. g4+
+Kxe5 10. Kg3 h2 11. Kxh2 Kf4 12. Kh3 Kg5 $11) 1-0
+
+[Event "Shakhmatnaya Poezia#2065"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=3141.55g4h6)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/qP4p1/4p1Pk/3Bp3/1R4K1/pP3PP1/1b5p/7N b - - 0 1"]
+[PlyCount "12"]
+[EventDate "2006.??.??"]
+
+{Attention trait aux noirs} 1... Qb8 $1 (1... a2 $143 2. b8=Q Qxb8 (2... a1=Q
+$144 3. Qg8 Kxg6 4. Qxe6+ Kh7 $18 {#4}) 3. Rxb8 Kxg6 (3... a1=Q $144 4. Be4 $1
+$18 {#2}) (3... exd5 $144 4. Kf5 $18 {#1}) 4. Be4+ Kf6 5. Ra8 $18) (1... exd5
+$143 2. b8=Q Qxb8 3. Rxb8 Kxg6 (3... a2 $143 4. Kf5 a1=Q 5. Rh8#) 4. Ra8 d4 5.
+Kh3 $1 d3 6. Kxh2 Bd4 7. Rxa3 d2 8. Nf2 Bxf2 9. Ra1 $16) 2. Be4 $1 (2. Bxe6
+$143 a2 3. Rc4 a1=Q 4. Rc8 Qxb7 $1 5. Bf5 Qxc8 $19) (2. Bc6 $143 a2 3. Ra4 a1=Q
+4. Ra8 Qaa7 $1 5. Be4 Bd4 $19) 2... a2 $1 (2... Bd4 $143 3. Rc4 Ba7 4. Rc2 Bg1
+5. Rc8 Ba7 6. Kh4 $18 {#4}) 3. Rc4 $1 (3. Ra4 $143 a1=Q 4. Ra8 Qaa7 $1 5. Kh3 (
+5. Kh4 $144 Bd4 6. g4 Bf2+ $1 7. Kh3 (7. Nxf2 $144 $19 Qxf2+ 8. Kh3 h1=Q#) 7...
+Qaxb7 8. Rxb8 Qxb8 9. Nxf2 $19) 5... Bd4 6. Kxh2 Qaxb7 7. Bxb7 Qxb7 $19) 3...
+a1=Q (3... Qxb7 $143 4. Bxb7 Kxg6 (4... a1=Q $144 5. Be4 $1 $18) 5. Ra4 $18) 4.
+Rc8 $1 (4. Rc2 $143 Qxh1 5. Rc8 Qg2 $1 6. Rxb8 Qh3+ $1 7. Kxh3 h1=Q+ 8. Kg4
+Qh5#) 4... Qaa7 $1 (4... Qxh1 $143 5. Rxb8 Qg2 6. Rh8#) 5. Rc2 $1 (5. Rxb8 $143
+Qxb8 6. Kh3 (6. Nf2 $144 Bd4 7. Nh1 Ba7 $19) (6. Kh4 $144 Bd4 7. g4 Qd8+ 8. Kh3
+Ba7 9. Kxh2 (9. Ng3 $144 Qd2 $19) 9... Qd2+ $19 {#6}) 6... Bd4 7. Kxh2 Ba7 $19)
+5... Qg1 $1 6. Rc8 $1 Qga7 7. Rc2 $1 $11 1/2-1/2
+
+[Event "6/9.hm Akobia-60 JT"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0301.32g8h5)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6K1/1p6/2p5/2P2NPk/2P5/8/8/4r3 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2007.??.??"]
+
+{EG#16495} 1. Kf7 (1. Kg7 $143 Kxg5 $19) (1. Nd6 $143 Re7 2. Kf8 Rh7 3. Ne4 Kg6
+$19) 1... Kxg5 2. Nd6 Re5 3. Nxb7 Kf5 4. Nd6+ (4. Nd8 $143 Rxc5 5. Nb7 Re5 $1
+6. Nd8 c5 $19) 4... Kf4 5. Kf6 (5. Nb7 $143 Ke4 $19) 5... Rxc5 6. Ke6 (6. Ke7
+$143 Rh5 7. Kd7 c5 $19) 6... Re5+ (6... Ke3 $144 {<main>} 7. Kd7 Kd4 8. Kc7 $11
+) (6... Rh5 $144 $11 {<main>} 7. Nb7 $1 Rh6+ 8. Kd7 Ke5 9. Na5 c5 10. Nb3 $11)
+7. Kd7 c5 8. Nb7 Ke4 9. Na5 Rh5 10. Kc6 Kd4 11. Kb5 Rh3 (11... Rh6 $144 12.
+Nb3+ $11) 12. Nc6+ $11 1/2-1/2
+
+[Event "5.c NONA"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0000.55b5c3)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p6/1P1p3p/pK6/P7/2k3Pp/4P2P/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "2007.??.??"]
+
+{EG#16636} 1. g4 $1 (1. e4 $143 h5 2. Kxa5 Kc4 $19) (1. e3 $143 h5 2. e4 Kd4 3.
+Kxa5 Kc4 $19) (1. Kxa5 $143 Kc4 2. g4 d5 3. e4 dxe4 $19) 1... Kb3 2. e4 (2.
+Kxa5 $143 Kc4 3. e4 Kc5 4. g5 hxg5 $19) 2... Kc3 3. Kxa5 Kc4 4. e5 $1 (4. g5
+$143 hxg5 5. e5 Kd5 $1 $19) 4... dxe5 5. g5 hxg5 $11 {stalemate} 1/2-1/2
+
+[Event "Problemaz#0027"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+0000.55c1h8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/8/4p1pP/1p6/1p2P2P/7p/2P4P/2K5 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2007.??.??"]
+
+{Problemaz/4} 1. Kd2 $1 (1. Kb2 $143 Kh7 2. Kb3 Kxh6 3. Kxb4 Kh5 4. Kxb5 Kxh4
+5. c4 g5 6. c5 g4 7. c6 g3 8. hxg3+ Kxg3 9. c7 h2 10. c8=Q h1=Q $11 {EGTB]}) (
+1. e5 $143 Kh7 2. Kd2 Kxh6 3. Ke3 Kh5 $19) 1... Kh7 (1... e5 $144 2. Ke3 Kh7 3.
+Kf3 Kxh6 4. Kg4 $18) 2. Ke3 Kxh6 3. Kf4 $1 (3. Kd4 $143 g5 4. hxg5+ Kxg5 5. Ke5
+Kg4 6. Kxe6 Kf3 7. e5 Kg2 8. Kd6 Kxh2 9. e6 Kg3 10. e7 h2 11. e8=Q h1=Q 12.
+Qg6+ (12. Qxb5 $144 $11 {EGTB}) 12... Kf2 13. Kc5 (13. Qd3 $144 Qe1 14. Kc5
+Qe3+ $11) 13... Qb7 14. Kxb4 $11 {EGTB}) (3. Kf3 $143 Kh5 (3... Kg7 $143 4. Kg4
+Kf7 5. e5 Kg7 6. h5 gxh5+ 7. Kxh5 Kh7 8. Kh4 Kg6 9. Kg4 Kh6 (9... b3 $144 10.
+cxb3 b4 11. Kxh3 Kg5 12. Kg3 Kf5 13. h4 Kxe5 14. Kg4 $18)) 4. Kg3 g5 5. hxg5
+Kxg5 6. Kf3 (6. Kxh3 $144 Kf4 $1 $11) 6... Kh5 7. Kf4 (7. Kg3 $144 Kg5 $11)
+7... Kh4 8. Ke5 (8. e5 $144 Kh5 9. Kg3 Kg5 10. Kxh3 Kf5 11. Kg3 Kxe5 12. h4 Kf5
+$11) 8... Kg4 9. Kxe6 Kf3 10. e5 Kg2 11. Kd6 Kxh2 12. e6 Kg3 13. e7 h2 14. e8=Q
+h1=Q $11) 3... Kh5 4. Ke5 Kxh4 $1 (4... Kg4 $144 5. Kf6 {and we are back in
+main line after} Kxh4 (5... Kf3 $144 6. Kxg6 $18) 6. Kxe6 $18) 5. Kxe6 g5 $1 6.
+Kf5 $1 (6. Ke5 $143 Kg4 $1 7. Kf6 Kf3 8. e5 (8. Kxg5 $143 Kxe4 $19) 8... g4 $1
+9. e6 g3 10. hxg3 h2 11. e7 h1=Q 12. e8=Q $11) 6... g4 7. Kf4 $1 (7. e5 $143 g3
+8. hxg3+ Kxg3 9. e6 h2 10. e7 h1=Q 11. e8=Q $11) 7... g3 (7... Kh5 $144 8. e5
+Kg6 9. Kxg4 $18) 8. hxg3+ Kh5 9. Kf3 $1 $18 1-0
+
+[Event "Problemaz#347"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=3441.67h4h6)"]
+[Result "1/2-1/2"]
+[Annotator "Notes"]
+[SetUp "1"]
+[FEN "1q6/1PR3p1/3p1pPk/b2PpP2/p6K/5r1p/1B2Pp1P/3N4 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2008.??.??"]
+
+{Problemaz/8} 1. Bc1+ Rf4+ 2. Bxf4+ exf4 3. Nxf2 Be1 4. Rc8 Bxf2+ 5. Kg4 Ba7 6.
+Rc3 Be3 7. Rc8 Ba7 8. Rc3 $11 1/2-1/2
+
+[Event "Problemaz#344"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0311.13f6d6)"]
+[Result "1/2-1/2"]
+[Annotator "Notes"]
+[SetUp "1"]
+[FEN "8/4r2p/3k1K1p/7P/8/5N2/3pB3/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2008.??.??"]
+
+{Problemaz/8} 1. Bd1 Re1 2. Nxd2 Rxd1 3. Ne4+ $1 Kd7 4. Kg7 $1 Ke6 $1 5. Kxh6
+Kf5 6. Ng3+ Kg4 7. Ne4 Kf5 8. Ng3+ Kg4 9. Ne4 $11 1/2-1/2
+
+[Event ".c Benko JT"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0041.32g8h5)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2B3K1/8/4N3/p1b4k/5P2/5P2/4p2P/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2008.??.??"]
+
+{thematic tourney (at least 10 moves without capture)} 1. Kh7 (1. Nxc5 $143
+e1=Q 2. Ne4 Qh4 3. Ng3+ Kg6 $19 (3... Kh6 $143 4. Nf5+ $18)) 1... Kh4 (1...
+e1=Q $144 2. Ng7+ Kh4 3. Bg4 $11) (1... a4 $143 2. Ng7+ Kh4 3. Bg4 e1=Q 4. Nf5#
+) 2. Ng7 (2. Nxc5 $143 e1=Q 3. Ne4 Qe3 4. Be6 Qxf3 5. Ng3 Qxf4 6. Kg6 a4 7.
+Nf5+ Kh3 $19) 2... e1=Q 3. Bg4 (3. Kg6 $143 Qb1+ 4. Bf5 Qb6+ 5. Be6 Bf8 6. Nf5+
+Kh3 $19) (3. Nf5+ $143 Kh3 $19) 3... Qe7 (3... Qb1+ $144 4. Nf5+ $11) 4. Kg6 (
+4. Kh6 $143 Qf6+ 5. Kh7 Qxf4 $19) (4. Kg8 $143 Qf8+ 5. Kh7 Qxf4 $19) 4... Qd6+
+5. Kf7 (5. Kh7 $143 Qxf4 $19) 5... Qd5+ (5... Qc7+ $144 6. Kg6 (6. Kg8 $143
+Qxf4 $19)) 6. Kg6 (6. Be6 $143 Qxf3 $19) 6... Qd6+ 7. Kf7 (7. Be6 $143 Qxf4 $19
+) 7... Qf8+ (7... Qxf4+ $144 8. Nf5+ $11) 8. Kg6 Qg8 9. Be6 Qf8 (9... Qh8 $144
+10. Bg4 $11) 10. Bg4 (10. Nf5+ $143 Kh3 $19) 10... Bd4 11. Nf5+ $11 1/2-1/2
+
+[Event "EG"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0031.21h5d7)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1b6/3k3N/1P6/2P4K/p7/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2008.??.??"]
+
+{EG#16609} 1. Nf6+ $1 (1. Nf8+ $143 Kc6 $19) (1. Kg4 $143 a3 $19) (1. Kg5 $143
+a3 $19) (1. Ng5 $143 a3 $19) 1... Kc6 $1 (1... Ke7 $144 2. c6 $1 Kd6 3. c7 $11)
+(1... Kc8 $144 2. Nd5 (2. c6 $143 a3 $19) 2... a3 3. Nb4 $11) 2. Ne4 Be5 $1 (
+2... a3 $144 3. Nc3 Kxc5 (3... Be5 $144 4. Na2 Kxc5 $11) 4. b7 $1 Kc4 5. Na2
+$11) 3. Nf2 $1 (3. Nd2 $143 Kxc5 $1 (3... a3 $143 4. Nb3 $11) (3... Bc3 $144 4.
+Nb1 $11) 4. Nb1 Kxb6 $1 5. Kg6 Kc6 6. Kf7 Kd7 7. Na3 Bd6 8. Nb1 Be7 9. Kg8 Ke6
+10. Kg7 Bb4 11. Kg6 Be1 12. Na3 Bd2 13. Nc2 Bc3 14. Na3 Ke5 15. Nc4+ Kd4 16.
+Na3 Bb4 17. Nc2+ Kc3 18. Ne3 a3 $19) (3. Kg5 $143 a3 4. Nd2 Kxc5 $19) 3... a3 (
+3... Kxc5 $144 4. Nd3+ $1 Kxb6 5. Nxe5 Kc5 6. Nd3+ $1 $11) (3... Bd4 $144 4.
+Nd3 $11) 4. Nd3 $1 Bc3 (4... a2 $144 5. Nb4+ $11) (4... Bd4 $144 5. Nb4+ $11)
+5. Nc1 $1 $11 1/2-1/2
+
+[Event "5.p Corus-70 JT"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+0103.32g4b2)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/p4PK1/2n2P2/Pk6/R7 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2008.??.??"]
+
+{EG#16392} 1. Rh1 $1 (1. Rg1 $143 exf4 2. Rg2+ Ka3 3. Kxf4 Nxa2 4. Ke4 Kb3 5.
+f4 a3 6. f5 Nc3+ $1 7. Ke5 $1 Na4 8. f6 Nc5 9. f7 Nd7+ 10. Kd6 $1 Nf8 11. Rg8
+Nh7 $1 12. Rh8 a2 $1 13. Rxh7 a1=Q $11) (1. Rf1 $143 exf4 2. Rf2+ Ka3 $11) (1.
+Re1 $143 exf4 $11) (1. Rd1 $143 Nxd1 2. fxe5 (2. f5 $143 Ne3+ $19) 2... Kxa2
+$11) (1. fxe5 $143 Kxa1 2. f4 (2. e6 $143 Nd5 3. Kf5 Kxa2 $19) (2. a3 $144 Kb2
+3. f4 Kxa3 $11) 2... Kxa2 $11) 1... exf4 (1... Kxa2 $144 2. fxe5 $18) (1...
+Nxa2 $144 2. fxe5 $18) 2. Rh2+ $1 (2. Kxf4 $143 Nxa2 3. Rh2+ Kb3 $1 $11) (2.
+Rh8 $143 Nxa2 3. Rb8+ Kc2 $11) 2... Ka3 (2... Kb1 $144 3. Kxf4 Nxa2 4. Ke3 a3
+5. Kd4 $18) 3. Kxf4 $1 Nxa2 4. Ke4 $1 Kb3 5. f4 a3 6. f5 Nc3+ $1 7. Ke5 $1 (7.
+Kd4 $144 Na4 8. Kd5 (8. f6 $143 Nb6 $1 $11) 8... Nc3+ 9. Ke5 $1 $18 {loss of
+time}) 7... Na4 (7... a2 $144 8. Rxa2 $18) 8. f6 (8. Rh3+ $144 Nc3 $1 9. Rh2
+Na4 $18 {loss of time See main line 7...Ca4}) (8. Kd5 $144 Nc3+ 9. Ke5 Na4 $18
+{loss of time See main line 7...Ca4}) (8. Kd6 $144 Nc3 9. Ke5 Na4 $18 {loss of
+time See main line 7...Ca4}) 8... Nc5 9. f7 Nd7+ 10. Kd6 $1 (10. Ke6 $143 Nf8+
+$11) (10. Kd5 $143 a2 $1 $11) 10... Nf8 11. Rh8 $1 a2 {<eg>} (11... Ng6 $144
+12. Ke6 $18) 12. Rxf8 $18 1-0
+
+[Event "1.c Vlasenko-70 JT Problemist Ukraini"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0630.21e1g3)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1PP5/2b5/6r1/1p6/6k1/2r5/4K3 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2009.??.??"]
+
+{Problemist Ukraini/10-12} 1. c8=Q $1 (1. b8=Q $143 {Thematic try} Re5+ $1 2.
+Kd1 Ba4 3. Qg8+ Kf2 4. Qf8+ Kg1 5. Qxb4 Rd5+ $1 6. Ke1 Rc1+ 7. Ke2 Re5+ $1 8.
+Kf3 (8. Kd2 $144 Rd1+ 9. Kc3 Re3+ 10. Kb2 Re2+ 11. Ka3 (11. Kc3 $144 Rc2#)
+11... Ra1#) (8. Kd3 $144 Rd1+ 9. Kc4 Re4+ 10. Kc5 Rxb4 $19) 8... Bc6+ 9. Kg3
+Re3+ 10. Kf4 Re4+ 11. Kg5 Rxb4 12. c8=Q $19) 1... Re5+ 2. Kd1 Ba4 3. Qg8+ Kf2 (
+3... Kf4 $144 4. Qf8+ Ke4 (4... Ke3 $144 5. Qh6+ Ke4 6. Qh4+ Kd5 (6... Kd3 $144
+7. Qg3+ Re3 8. Qd6+ Kc3 9. Qf6+ Kd3 10. Qd6+ $11) 7. Qd8+ Ke4 8. Qh4+ $11) 5.
+Qxb4+ Rc4+ 6. Qxa4 Rd5+ 7. Ke2 Rxa4 8. b8=Q Ra2+ 9. Ke1 $11) 4. Qf8+ (4. Qf7+
+$143 Kg1 5. Qg6+ Rg2+ $19) 4... Kg1 (4... Kg2 $144 5. Qg7+ Kf1 6. Qxe5 Rc5+ (
+6... Re2+ $144 7. Kc1 Rxe5 8. b8=Q $11) 7. Kd2 Rxe5 8. b8=Q $11) 5. Qxb4 $1 (5.
+Qa8 $143 $1 Bb3 $1 $19) 5... Rc4+ (5... Rd5+ $144 {<main>} 6. Ke1 Rc1+ 7. Ke2
+Re5+ 8. Kf3 Bc6+ {<eg>} 9. Kf4 Re4+ 10. Qxe4 $1 Bxe4 11. b8=Q $11) 6. Qxa4 Rd5+
+7. Ke2 $1 (7. Ke1 $143 Rxa4 8. b8=Q Re4#) 7... Rxa4 8. b8=Q Re4+ 9. Kf3 $11
+1/2-1/2
+
+[Event "StrateGems#0166"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0331.41h8f5)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1b5K/4r2P/1PP5/4Pk1N/p7/8/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2009.??.??"]
+
+{StrateGems/4-6} 1. Kg8 $1 (1. Ng7+ $143 Kg6 2. Kg8 Rxg7+ 3. Kf8 Rxh7 4. e6 Kf6
+$19) (1. Nf4 $143 Bxe5+ 2. Kg8 Rg7+ $19) (1. Ng3+ $143 Kg6 $19) (1. Nf6 $143
+Bxe5 2. c7 Bxf6+ 3. Kg8 Re8+ 4. Kf7 Rc8 $19) (1. c7 $143 Bxc7 2. bxc7 Rxc7 3.
+Kg8 (3. Ng3+ $144 Kxe5 4. Kg8 Rxh7 $19) 3... Rxh7 $19) 1... Bxe5 (1... a3 $144
+2. Ng7+ $11) (1... Ke6 $143 2. Nf4+ Kf5 3. h8=Q Re8+ 4. Kh7 Rxh8+ 5. Kxh8 $18)
+(1... Kg6 $143 2. Nf4+ Kf5 3. h8=Q Re8+ 4. Kh7 Rxh8+ 5. Kxh8 $18) (1... Re8+
+$143 2. Kf7 Rc8 (2... Rd8 $144 3. Ng7+ Kxe5 4. c7 Bxc7 5. bxc7 Rh8 6. c8=Q Rxc8
+7. Ne8 $18) (2... Rh8 $144 3. c7 a3 (3... Bxc7 $144 4. bxc7 a3 5. Ng7+ Kxe5 6.
+c8=Q Rxc8 7. Ne8 $18) 4. Kg7 Bxc7 5. bxc7 Rc8 6. h8=Q Rxc7+ 7. Kh6 $18) 3. Ng7+
+Kg5 (3... Kxe5 $143 4. Ne8 $18) (3... Ke4 $144 4. e6 $18) 4. e6 a3 5. Ne8 Be5
+6. c7 a2 7. b7 Rxc7+ 8. Nxc7 a1=Q 9. b8=Q Qf1+ 10. Ke8 Kg6 11. Qb4 Qf5 12. Qe7
+Bg7 13. Qh4 Bh8 14. Kd7 $18) 2. c7 $1 (2. h8=Q $143 Re8+ $1 3. Kf7 Rxh8 $19) (
+2. b7 $143 Re8+ 3. Kf7 Rh8 4. Ng7+ Kg5 5. Ne6+ Kh6 6. c7 Rxh7+ 7. Kg8 Rxc7 $1
+8. b8=Q Rg7+ 9. Nxg7 Bxb8 $19) 2... Bxc7 (2... Re8+ $144 3. Kf7 $1 Rh8 (3...
+Rc8 $144 4. Ng7+ Ke4 5. Ne8 $1 a3 6. b7 Rxc7+ 7. Nxc7 a2 8. b8=Q a1=Q $11) 4.
+Ng7+ Ke4 (4... Kg5 $143 5. Ne6+ Kh6 6. Nf8 $18) 5. Ne8 $1 Rxh7+ (5... Bxc7 $144
+6. Nf6+ Kd3 7. bxc7 a3 8. c8=Q Rxc8 9. Ne8 a2 10. h8=Q Rc1 $11) 6. Kg6 $1 Bxc7
+7. bxc7 Rxc7 8. Nxc7 a3 9. Nb5 $1 a2 10. Nc3+ $11) 3. bxc7 (3. Ng7+ $143 Rxg7+
+$1 4. Kxg7 Bxb6 5. h8=Q Bd4+ $19) (3. h8=Q $143 Re8+ 4. Kg7 Rxh8 5. Kxh8 Be5+
+$19) 3... Rxc7 4. Ng7+ $1 Kg6 $1 5. h8=N+ $1 Kh6 $1 (5... Kf6 $144 6. Ne8+ Ke7
+7. Nxc7 $11) (5... Kg5 $144 6. Ne6+ Kg4 (6... Kf6 $144 7. Nxc7 $11) 7. Nxc7 $11
+) 6. Nf7+ Kg6 7. Nh8+ $1 (7. Ne5+ $143 Kf6 $1 8. Ne8+ Kxe5 9. Nxc7 a3 $19) 7...
+Kh6 8. Nf7+ $11 1/2-1/2
+
+[Event "4.c RР№ti MT Ceskoslovensky Sach"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "2"]
+[White "Pallier=A"]
+[Black "(=0300.20b3b1)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1K1P4/5P2/1k2r3 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2009.??.??"]
+
+{Ceskoslovensky Sach/11 after Reti=R b3a1 1929} 1. Kc4 Kc2 (1... Kb2 $144 2. f4
+$1 Ka3 3. f5 $1 Ka4 4. Kd5 $1 Rf1 5. Ke6 Kb5 6. f6 $11 (6. d4 $143 Kc6 $19)) 2.
+d4 Re4 3. f3 $1 (3. Kc5 $143 Kd3 4. d5 Rc4+ $1 5. Kb6 Rd4 $1 6. Kc6 Ke4 7. d6
+Ke5 8. f4+ Ke6 $19) 3... Rf4 4. Kc5 Kd3 5. d5 Rf5 6. Kc6 Kd4 7. d6 Rc5+ 8. Kb6
+$11 (8. Kb7 $144 $11 {<or>}) 1/2-1/2
+
+[Event "Olimpiya Dunyasi#436"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0003.33b5f6)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "n7/p1p5/P4k2/PK6/3p4/3P4/8/8 w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2009.??.??"]
+
+1. Kc6 $1 (1. Kc5 $143 Ke7 2. Kc6 Kd8 3. Kb7 c5 $19) 1... Ke7 2. Kb7 Kd7 (2...
+c5 $144 3. Kxa8 (3. Kxa7 $143 Nc7 4. Kb7 Kd8 $19) 3... c4 4. Kxa7 $11) 3. Kxa8
+$1 (3. Kxa7 $143 {Essai ThР№matique} c6 4. Kxa8 (4. Kb7 $144 Nc7 $19) 4... Kc8
+5. Ka7 Kc7 6. Ka8 c5 7. a7 c4 8. a6 Kc8 $1 9. dxc4 d3 10. c5 d2 11. c6 d1=Q 12.
+c7 Qd5#) 3... c6 $1 4. Kb7 (4. Kxa7 $143 Kc7 5. Ka8 c5 6. a7 c4 7. a6 Kc8 $19)
+(4. Kb8 $144 $11 {<or>}) 4... c5 (4... Kd6 $144 5. Kb8 $11) 5. Kxa7 Kc7 6. Ka8
+c4 (6... Kc8 $144 7. a7 $11) 7. a7 Kc8 8. a6 Kc7 9. dxc4 d3 10. c5 d2 11. c6
+Kb6 $1 12. c7 Kxc7 $11 {stalemate} 1/2-1/2
+
+[Event "Springaren#11639"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0000.55f4c4)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/p6p/P1p4p/P2p3P/2k2K1P/8/3P4/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2009.??.??"]
+
+{Springaren/9} 1. Ke5 $1 Kb5 (1... Kc5 $144 2. d4+ $1 Kc4 3. Kd6 $1 Kxd4 (3...
+Kb5 $144 4. Kc7 $11) 4. Kxc6 Ke5 5. Kb7 Kd6 6. Kxa7 Kc7 7. Ka8 d4 8. a7 d3 9.
+a6 d2 $11 {stalemate}) (1... Kd3 $144 2. Kd6 $1 Kxd2 3. Kxc6 d4 4. Kb7 $1 $11)
+(1... c5 $144 2. Kd6 d4 3. Kc6 Kb4 4. Kb7 $1 $11) 2. Kd6 $1 (2. Kd4 $143 Kb4 $1
+(2... Kxa6 $143 3. Kc5 Kxa5 (3... d4 $144 4. Kxc6 $1 (4. d3 $143 Kxa5 5. Kxc6
+Kb4 $19) 4... d3 5. Kc5 Kxa5 6. Kc4 $1 Ka4 7. Kxd3 $11) 4. d4 $1 (4. Kxc6 $143
+Kb4 $19) 4... Ka4 5. Kxc6 Kb4 6. Kxd5 $11)) 2... d4 (2... Kxa6 $144 3. Kxc6 d4
+4. Kc5 Kxa5 5. Kxd4 $11) 3. Kc7 $1 Kxa6 (3... Kc5 $144 4. Kb7 $1 (4. Kd7 $143
+Kd5 5. Kc7 c5 $19) 4... Kd6 5. Kxa7 Kc7 6. Ka8 c5 7. a7 c4 8. a6 Kc8 (8... c3
+$144 9. d3 $1 (9. dxc3 $143 d3 10. c4 d2 11. c5 d1=Q 12. c6 Qd8#) 9... c2 $11 {
+stalemate}) 9. d3 Kc7 10. dxc4 d3 11. c5 d2 12. c6 Kb6 (12... Kc8 $144 13. c7
+$11) 13. c7 $1 (13. Kb8 $143 d1=Q 14. c7 Qd6 $19) 13... Kxc7 $11 {stalemate})
+4. Kxc6 Kxa5 (4... d3 $144 5. Kc5 Kxa5 6. Kc4 Ka4 7. Kxd3 Kb3 8. Ke4 $11) 5.
+Kc5 $1 (5. Kd5 $143 Kb4 $1 6. Kxd4 a5 7. Ke4 a4 $19) 5... Ka4 (5... d3 $144 6.
+Kc4 Ka4 7. Kxd3 Kb3 8. Ke4 $11) 6. Kxd4 $1 (6. Kc4 $143 a5 $1 7. Kxd4 (7. d3
+$144 Ka3 $19) 7... Kb4 8. Ke4 (8. Ke3 $144 a4 $19) 8... a4 $19) 6... Kb4 $1 (
+6... Kb5 $144 7. Kc3 $11) (6... a5 $143 7. Kc4 $1 $18) 7. Kd3 $1 (7. Ke5 $143
+a5 8. d4 a4 9. d5 a3 10. d6 a2 11. d7 a1=Q+ $19) (7. Ke4 $143 a5 8. d4 a4 9. d5
+Kc5 $1 10. Kd3 Kxd5 11. Kc3 Ke5 12. Kb4 Kf5 13. Kxa4 Kg4 $19) (7. Ke3 $143 a5
+8. d4 a4 9. d5 Kc5 $1 10. Kd3 Kxd5 11. Kc3 Ke5 12. Kb4 Kf5 13. Kxa4 Kg4 $19)
+7... Kb3 (7... a5 $144 8. Kc2 $11) (7... Kc5 $144 8. Kc3 $11) 8. Ke4 $1 (8. Ke3
+$143 a5 9. d4 Kc4 10. Ke4 a4 11. d5 Kc5 $1 12. Ke5 a3 13. d6 a2 14. d7 a1=Q+
+$19) 8... a5 9. d4 $1 a4 (9... Kc4 $144 10. d5 Kc5 11. Ke5 a4 12. d6 a3 13. d7
+a2 14. d8=Q $11) 10. d5 a3 11. d6 a2 12. d7 a1=Q 13. d8=Q $11 1/2-1/2
+
+[Event ".c Tel Aviv-100 AT"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(=0000.44f4c4)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/5pp1/3p4/2kP1KP1/6p1/3P2P1/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "2009.??.??"]
+
+1. g5 $1 (1. Ke3 $143 g5 2. d3+ Kc3 3. Ke2 Kc2 4. Ke3 Kd1 $1 $19) (1. Kxg3 $143
+Kxd4 2. Kf2 (2. g5 $144 fxg5 3. Kg4 Kd3 $19) 2... Kd3 3. Ke1 Kc2 4. Ke2 d4 5.
+g5 fxg5 6. g4 Kc1 $1 7. Kd3 Kd1 8. Kxd4 Kxd2 $19) 1... fxg5+ (1... f5 $144 2.
+Kxg3 Kxd4 3. Kf4 Kd3 4. Ke5 d4 5. Kd5 Kxd2 6. Kxd4 $11) 2. Ke5 $1 g4 $1 (2...
+Kd3 $144 3. Kxd5 Ke2 4. Kc4 Kf2 5. d5 Kxg2 6. d6 Kh3 7. d7 g2 8. d8=Q g1=Q 9.
+Qh8+ Kg3 10. Qe5+ $11) 3. d3+ $1 Kxd3 4. Kxd5 Ke3 5. Kc4 $1 (5. Ke5 $143 Kf2 6.
+d5 Kxg2 7. d6 Kh3 $1 8. d7 g2 9. d8=Q g1=Q 10. Qh8+ Kg3 $1 $19) 5... Kf2 6. d5
+Kxg2 7. d6 Kh3 $1 8. d7 g2 9. d8=Q g1=Q 10. Qh8+ $1 (10. Qd3+ $143 Qg3 $1 11.
+Qxg6 Qe5 $1 $19 (11... Qf4+ $143 12. Kb5 $1 g3 13. Qh5+ Kg2 14. Ka6 $1 $11))
+10... Kg2 $1 (10... Kg3 $144 11. Qe5+ $11) 11. Qa8+ $1 (11. Qb2+ $143 Qf2 $1
+12. Qb7+ Kh2 13. Qb8+ g3 $19) 11... Kf1 $1 12. Qa1+ $1 Kg2 13. Qa8+ Kh2 14.
+Qh8+ $11 1/2-1/2
+
+[Event "Suomen TehtРґvРґniekat#3312"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+0403.42e3c1)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6R1/8/2n2P2/1r6/p7/P3Kp2/P5P1/2k5 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2009.??.??"]
+
+1. f7 (1. gxf3 $143 Ne5 2. f4 (2. Kf4 $144 Nf7 3. Rg7 Rb7 $11) 2... Nd7 3. f7
+Rf5 $11) 1... Rf5 2. f8=Q Rxf8 3. Rxf8 fxg2 4. Rg8 (4. Kf2 $143 Kb2 5. Rc8 Nd4
+6. Rc4 Nc2 $11) 4... Kb2 5. Rxg2+ Kxa3 6. Kd3 Nb4+ 7. Kc4 Nxa2 (7... Nc6 $144
+8. Kc5 {#33}) 8. Rc2 Nb4 9. Rc3+ $18 1-0
+
+[Event "1.hm Bondar-50 JT "]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+0103.33g4b2)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3n4/6R1/2P5/4p3/p5K1/4P3/Pk1p4/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2009.??.??"]
+
+1. Rd7 Nxc6 (1... d1=Q+ $144 2. Rxd1 Nxc6 3. Rd2+ Ka3 4. Kf5 Nb4 5. Kxe5 Nxa2
+6. Kd4 Kb3 7. Rd3+ Kb4 8. e4 Nc1 9. Rd1 Ne2+ 10. Kd3 Nf4+ 11. Kc2 Ne6 12. Kb2
+$18) 2. Rxd2+ Ka3 (2... Kc3 $144 3. Rd7 Kb2 (3... Nb4 $144 4. Ra7 Nc2 (4...
+Nxa2 $144 5. Rxa4 $18) 5. Rxa4 Nxe3+ 6. Kf3 $18) (3... Kc4 $144 4. Kf5 Nb4 (
+4... a3 $144 5. Ke4 Nb4 (5... Kc5 $144 6. Rd3 Kb4 $18 7. Kd5 $18) 6. Ra7 Nxa2
+7. Rxa3 $18) 5. Ra7 Kb5 6. Kxe5 Nxa2 $18) (3... Na5 $144 4. Ra7 Kb4 5. Kf5 Nc4
+6. Ke4 a3 7. Kd3 $18) 4. Rc7 Nb4 (4... Na5 $144 5. Rc5 $18) (4... Nd8 $144 5.
+Kf5 Kxa2 6. Kf6 $18) 5. Rb7 Ka3 6. Kf5 Nc2 (6... Nxa2 $144 7. Kxe5 $18) 7. e4
+Kxa2 8. Kxe5 $18) 3. Kf5 (3. e4 $143 Nb4 4. Rd5 Nxa2 5. Rxe5 Nb4 $11) (3. Rd5
+$143 Kxa2 4. Rc5 Nb4 5. Rxe5 a3 $11) 3... Nb4 4. Kxe5 Nxa2 5. Kd4 (5. e4 $143
+Nc3 $11) (5. Kd5 $143 Kb3 6. Rd3+ Kb4 $11 (6... Kc2 $143 7. Kc4 $18)) 5... Kb3
+6. Rd3+ (6. e4 $143 Nb4 $11) 6... Kb4 7. e4 Nc1 8. Rd1 (8. Rf3 $143 a3 $11 (
+8... Nb3+ $143 9. Kd5 a3 10. e5 a2 11. Rf1 $18)) (8. Re3 $143 Nb3+ (8... a3
+$143 9. Re1 Nb3+ 10. Kd5 $18) 9. Kd5 Nc5 10. e5 Nd7 11. e6 Nf6+ 12. Kc6 a3 $11)
+8... Nb3+ (8... Ne2+ $144 9. Ke3 $18 {#37}) 9. Kd5 $18 (9. Kd3 $143 a3 10. e5
+a2 $11) 1-0
+
+[Event "EG"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+0103.12f2c2)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "R7/2p5/2n5/8/8/8/P1k2Kp1/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2009.??.??"]
+
+{EG/4 EG#16616} 1. Rc8 (1. Kxg2 $143 Kb2 $11) (1. a4 $143 Kb3 2. a5 (2. Ra6
+$144 Nb4 3. Ra5 c5 $11) 2... Kb4 3. a6 Ka5 $11) 1... Kb2 2. Rxc7 (2. a4 $143
+Ka3 $11) 2... Nb4 3. Rb7 Ka3 4. Ra7+ Kb2 5. a4 (5. a3 $143 Nc2 (5... Nd3+ $143
+6. Kxg2 Kb3 7. Re7 Nb2 8. Re3+ $18) 6. a4 Ka3 $11) 5... Ka3 6. Kxg2 Nc6 7. Ra6
+(7. Ra8 $143 Kb4 $11) (7. Rc7 $143 Na5 $11) 7... Nb4 8. Ra5 Nd3 (8... Na2 $144
+9. Ra8 $18) (8... Nc6 $144 9. Rc5 $18) 9. Ra8 (9. Ra7 $143 Kb4 $11) (9. Rd5
+$143 Nf4+ $11) 9... Kb4 (9... Nc5 $144 10. a5 $18) 10. a5 $18 (10. Rd8 $143 Nc1
+(10... Nf4+ $143 11. Kf3 $18) 11. Rd4+ Ka5 $11) 1-0
+
+[Event "2.hm  ChessStar 2009"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pallier=A"]
+[Black "(+0103.12e6d4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4K3/6R1/p2k3p/4n3/P7/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2009.??.??"]
+
+1. Ra5 Kc3 2. Rxa4 Nc4 3. Ra7 $1 (3. Ra8 $143 {Essai ThР№matique} Kb2 4. a4 h3
+5. Kd5 (5. Rh8 $144 Kb3 6. a5 Nxa5 $11) (5. a5 $144 h2 $11) 5... Nb6+ $11) 3...
+Kb2 4. a4 h3 5. Kd5 h2 6. Rh7 Nb6+ 7. Kc5 Nxa4+ 8. Kb4 Nb6 9. Rxh2+ $18 1-0
+
+[Event "2.p Kaljagin JT"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "4"]
+[White "Pallier=A"]
+[Black "(+0100.13g6b4)"]
+[Result "1-

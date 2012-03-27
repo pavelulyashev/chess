@@ -1,0 +1,342 @@
+[Event "1.p Rustaveli MT Vecherni Tbilisi {c}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Mitrofanov=L"]
+[Black "[+0136.51a5a7"]
+[Result "1-0"]
+[Annotator "00"]
+[SetUp "1"]
+[FEN "8/k7/P2b2P1/KP1Pn2P/4R3/8/6np/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1967.??.??"]
+
+1. b6+ (1. g7 $143 Bc7+ $19) 1... Ka8 $1 2. Re1 $1 (2. g7 $143 h1=Q 3. g8=Q+
+Bb8 4. Rxe5 Qa1+ 5. Kb5 Qb2+ 6. Kc6 Qc3+ 7. Kd7 Qxe5 8. Qxg2 Qd6+ 9. Ke8 Qe5+
+10. Kf7 Qxh5+ $11) 2... Nxe1 (2... Nc4+ $144 3. Kb5 Nxe1 4. g7 h1=Q 5. g8=Q+
+Bb8 6. a7 Qh2 7. axb8=Q+ Qxb8 8. Qxb8+ Kxb8 9. Kxc4 Nf3 10. d6 Kc8 11. h6 Ng5
+12. Kb5 $18) 3. g7 h1=Q (3... Nc4+ $144 4. Kb5 h1=Q 5. g8=Q+ Bb8 6. a7 Na3+ 7.
+Kc6 Qh2 8. axb8=Q+ Qxb8 9. b7+ Ka7 10. Qg1+ Ka6 11. Qb6#) 4. g8=Q+ Bb8 5. a7
+Nc6+ $1 (5... Nd7 $144 6. Qe6 Nc5 7. axb8=Q+ Kxb8 8. Qe8+ Kb7 9. Qc6+ Kb8 10.
+Qc7+ Ka8 11. Qa7#) 6. dxc6 (6. Kb5 $143 Nxa7+ (6... Nd3 $142 $17 7. axb8=Q+
+Nxb8 8. Qe6) 7. bxa7 Qf1+ 8. Ka5 Kxa7 $11) 6... Qxh5+ 7. Qg5 $3 (7. Ka6 $143
+Qe2+ $11) 7... Qxg5+ 8. Ka6 Bxa7 9. c7 Qa5+ (9... Qd5 $144 10. c8=Q+ Bb8 11.
+b7+ Qxb7+ 12. Qxb7#) 10. Kxa5 Kb7 11. bxa7 Kxa7 12. c8=Q $18 1-0
+
+[Event "1.p Rustaveli MT Vecherni Tbilisi @3"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Mitrofanov=L"]
+[Black "[+0136.51a5a7"]
+[Result "1-0"]
+[Annotator "01"]
+[SetUp "1"]
+[FEN "8/k7/P2b2P1/KP1Pn2P/4R3/5n2/7p/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1967.??.??"]
+
+1. b6+ Ka8 2. Re1 (2. g7 $143 h1=Q 3. g8=Q+ Bb8 $11) 2... Nxe1 (2... Nc4+ $1 {
+cook AK} 3. Kb5 Nxb6 4. g7 (4. Kc6 $144 Nxe1 5. g7 h1=Q 6. g8=Q+ Bb8 7. a7
+Qxd5+ 8. Qxd5 Nxd5 9. axb8=Q+ Kxb8 $11) (4. Kxb6 $144 Nxe1 5. g7 h1=Q 6. g8=Q+
+Bb8 7. Qg7 Qg1+ (7... Qxd5 $143 8. Qb7+ Qxb7+ 9. axb7#) 8. Qxg1 Ba7+ $11) 4...
+Ka7 5. Kc6 $1 {RK} (5. g8=Q $144 Nd4+ 6. Ka5 Nc4+ 7. Ka4 Nb6+ $11) (5. Rd1 $144
+h1=Q 6. Rxh1 Nd4+ 7. Ka5 Nc4+ 8. Ka4 Nb6+ 9. Ka5 $11) 5... Be7 $1 {VDH} (5...
+Bb4 $143 6. g8=Q Nd4+ 7. Kc7 Nb5+ 8. Kd8 Bxe1 9. Qg7+ Kxa6 10. Qa1+ Ba5 $18 {
+La Dame va monnayer son pion h contre une des piРёces noires}) 6. Rxe7+ (6. g8=Q
+$144 Nd4+ 7. Kc7 Nb5+ 8. Kc6 Nd4+ 9. Kc7 $11) 6... Kxa6 7. Ra7+ (7. Re1 $144
+Nxe1 8. g8=Q h1=Q $11) (7. g8=Q $144 Nd4+ (7... h1=Q $143 8. Ra7+ Kxa7 9. Qh7+
+Ka6 10. Qd3+ Ka7 11. Qa3+ Kb8 12. Qd6+ Ka8 13. Qd8+ Nc8 14. Qxc8+ Ka7 15. Qb7#)
+8. Kc5 h1=Q $146 9. Kxd4 Qa1+ 10. Ke4 Qh1+ 11. Ke5 Qh2+ $11) 7... Kxa7 8. g8=Q
+Nd4+ (8... h1=Q $143 9. Qh7+ Ka6 10. Qd3+ Ka7 11. Qa3+ Kb8 12. Qd6+ Ka8 13.
+Qd8+ Nc8 14. Qxc8+ Ka7 15. Qb7#) 9. Kc5 h1=Q $11) 3. g7 h1=Q 4. g8=Q+ Bb8 5. a7
+Nc6+ 6. dxc6 Qxh5+ 7. Qg5 $1 (7. Ka6 $143 Qe2+ $11) 7... Qxg5+ 8. Ka6 Bxa7 9.
+c7 Qa5+ 10. Kxa5 Kb7 11. bxa7 Kxa7 12. c8=Q $18 1-0
+
+[Event "1/2.p tr11#0330"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Korolov=V Mitrofanov=L"]
+[Black "[=4003.56a6b8]"]
+[Result "1/2-1/2"]
+[Annotator "02"]
+[SetUp "1"]
+[FEN "1k6/2p5/K1p1P1P1/2p2P2/P1P1pQ2/4p3/3qp3/5n2 w - - 0 1"]
+[PlyCount "37"]
+[EventDate "1957.??.??"]
+[WhiteTeam "Revista de Romana de Sah"]
+
+1. Qe5 {Menace Qh8#} (1. e7 $143 Qd7 {Mat en 4}) (1. g7 $143 Qd8 {Mat en 4})
+1... Qa5+ 2. Kxa5 Kb7 {Menace e1=Q #} 3. Qb2+ Ka7 4. Qb8+ Kxb8 5. Ka6 e1=Q 6.
+g7 {Menace g8=Q #} (6. e7 $143 Qa5+ 7. Kxa5 Kb7 8. e8=Q e2 9. Qa8+ Kxa8 10. Ka6
+e1=Q 11. g7 Qg3 $19) 6... Qa5+ (6... Qg3 $143 7. e7 $18) 7. Kxa5 Kb7 8. g8=Q e2
+{Menace e1=Q #} 9. Qa8+ Kxa8 10. Ka6 e1=Q 11. e7 {Menace e1=Q #} Qa5+ 12. Kxa5
+Kb7 13. e8=Q Nd2 {Menace Nb3 #} 14. Qa8+ Kxa8 15. Ka6 Nxc4 16. f6 Ne5 17. f7
+Nd7 18. f8=Q+ Nxf8 19. a5 $11 1/2-1/2
+
+[Event "1.p wf01"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Korolov=V Mitrofanov=L"]
+[Black "[=0803.43g3e5]"]
+[Result "1/2-1/2"]
+[Annotator "03"]
+[SetUp "1"]
+[FEN "3r4/1p3r2/RR6/4kp2/p7/1n1P1PK1/P2P4/8 w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1958.??.??"]
+[WhiteTeam "FIDE Ty"]
+
+1. Rb5+ $1 (1. Rxa4 $143 f4+ 2. Kf2 Nc5 3. Ra5 Rc7 $19) (1. Re6+ $143 Kd5 2.
+Rf6 Rxf6 3. Rxf6 Nd4 $19) (1. f4+ $143 Kd5 2. Rb5+ Nc5 3. Raa5 Rc7 $19) (1. d4+
+$143 Kd5 2. Rb5+ Kc4 3. Rab6 Nxd4 $19) 1... Nc5 $1 2. Rxc5+ (2. Raa5 $143 f4+
+3. Kf2 b6 $1 4. Rxb6 Rd5 $19) 2... Kd4 3. Raa5 $1 (3. Rc4+ $143 Kxd3 4. Raxa4
+b5 $1 $19) 3... Rg7+ $1 (3... b6 $144 4. Rxf5 $1 Rg7+ 5. Rg5 Rxg5+ 6. Rxg5 $11)
+4. Kf4 $1 b6 $1 5. Rc4+ Kxd3 6. Raxa4 b5 7. Rc3+ Kxd2 8. Raa3 b4 $1 9. Rc5 $1
+bxa3 10. Rd5+ Rxd5 $11 1/2-1/2
+
+[Event "1.p wt07 {c}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Korolov=V Mitrofanov=L"]
+[Black "[=0104.14b3c7]"]
+[Result "1/2-1/2"]
+[Annotator "04"]
+[SetUp "1"]
+[FEN "5N2/2k5/1p3R2/1p6/1p3P2/1K3p2/8/4n3 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1958.??.??"]
+[WhiteTeam "Tuwinsk Com Phys Sport"]
+
+1. Ne6+ Kd7 2. Nf8+ Kc8 3. Rc6+ $1 (3. Rh6 $143 f2 4. Rh1 Nf3 5. Ne6 Ng1 6.
+Rh8+ Kd7 7. Rd8+ Kxe6 8. Rd1 Nf3 9. Kc2 Ne1+ 10. Kd2 f1=Q 11. Rxe1+ Qxe1+ 12.
+Kxe1 Kf5 $19) 3... Kb7 4. Rh6 f2 5. Rh1 Nf3 6. Ne6 $1 (6. Rf1 $143 Nd2+ $19)
+6... Ng1 7. Rh7+ Kc8 (7... Kc6 $144 8. Nd4+ $1 (8. Rc7+ $144 $11) 8... Kc5 9.
+Nf5 $1 f1=Q 10. Rc7+ Kd5 11. Ne3+ Kd6 12. Nxf1 Kxc7 $11) 8. Rc7+ $1 Kb8 9. Rc1
+Nf3 $1 10. Rh1 $1 Ng1 11. Rh8+ Kb7 12. Rh7+ Kc8 13. Rc7+ Kb8 14. Rc1 $11
+1/2-1/2
+
+[Event "1.p wf01"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Korolov=V Mitrofanov=L"]
+[Black "[=0760.30b5d5]"]
+[Result "1/2-1/2"]
+[Annotator "05"]
+[SetUp "1"]
+[FEN "5R2/8/P7/1K1k4/8/1b2r3/5PPr/6b1 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1960.??.??"]
+[WhiteTeam "FIDE Ty"]
+
+1. a7 Ba4+ $1 2. Kxa4 Rh4+ 3. g4 $1 (3. f4 $143 Re4+ 4. Kb5 Bxa7 $19) 3...
+Rxg4+ 4. f4 Re4+ 5. Kb5 Bxa7 6. Rd8+ Ke6 7. Re8+ Kf5 8. Rf8+ Kg6 9. Rg8+ Kh5
+10. Rh8+ Kg6 11. Rg8+ Kf5 12. Rf8+ Ke6 13. Re8+ Kd5 14. Rd8+ $11 1/2-1/2
+
+[Event "1.p wf01"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Korolov=V Mitrofanov=L"]
+[Black "[=3201.14f4g2]"]
+[Result "1/2-1/2"]
+[Annotator "06"]
+[SetUp "1"]
+[FEN "8/5pq1/5p2/6NR/5K2/1pp5/RP4k1/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1962.??.??"]
+[WhiteTeam "FIDE Ty"]
+
+1. Ra1 $1 Qg6 $1 (1... fxg5+ $144 2. Rxg5+ Qxg5+ 3. Kxg5 c2 4. Kf4 Kf2 5. Ke4
+Ke2 6. Kd4 Kd2 7. Kc4 c1=Q+ 8. Rxc1 Kxc1 9. Kxb3 $11) 2. Rh2+ $1 Kxh2 3. Nf3+
+$1 Kh3 4. Rh1+ Kg2 5. Rh2+ $1 Kf1 6. Ke3 {(Menace Rf2#)} Qc2 7. Rh1+ $1 Kg2 8.
+Rg1+ $1 Kh3 9. Kf4 $1 {Menace Rg4#} Qg6 (9... Qg2 $144 10. Rxg2 Kxg2 11. bxc3
+b2 12. Nd2 $11) 10. Rh1+ Kg2 11. Rh2+ Kf1 12. Ke3 $11 {
+(mРєme position qu'aprРёs 6.Ke3)} 1/2-1/2
+
+[Event "4/5.c Kommunist"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Mitrofanov=L Pogosjants=E"]
+[Black "[=4000.03d1b1"]
+[Result "1/2-1/2"]
+[Annotator "07"]
+[SetUp "1"]
+[FEN "8/8/1pq5/8/8/2p5/4Qp2/1k1K4 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1973.??.??"]
+
+1. Qb5+ Ka1 (1... Qxb5 $144 $11) 2. Qa6+ $1 (2. Qxc6 $143 f1=Q+ 3. Kc2 Qb1+ 4.
+Kxc3 Qc1+ 5. Kb4 Qxc6 $19) 2... Kb2 3. Qb5+ Ka2 4. Qxc6 $1 (4. Qa6+ $143 Kb3
+$19) 4... f1=Q+ 5. Kc2 Qb1+ 6. Kxc3 Qc1+ 7. Kb4 Qxc6 $11 1/2-1/2
+
+[Event "4.hm Kommunist"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Mitrofanov=L Pogosjants=E"]
+[Black "[+0301.20g2g5"]
+[Result "1-0"]
+[Annotator "08"]
+[SetUp "1"]
+[FEN "4r3/8/3P4/6k1/5N2/1P6/6K1/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1973.??.??"]
+
+1. d7 Rg8 $1 2. d8=R $1 (2. d8=Q+ $143 Kh6+ 3. Qxg8 $11) 2... Kh4+ $1 (2...
+Rxd8 $144 3. Ne6+ Kf5 4. Nxd8 Ke4 5. Nc6 $1 Kd3 6. Kf3 $1 Kc3 7. b4 Kc4 8. Ke4
+Kb5 9. Kd5 $18) 3. Ng6+ $1 (3. Rxg8 $143 $11) 3... Rxg6+ 4. Kf3 $1 (4. Kf2 $143
+Re6 5. Rd3 Kg4 6. Re3 Rb6 7. Ke2 Kf4 8. Kd2 Rb4 9. Rd3 (9. Kc3 $144 Rxb3+ $11)
+9... Ke4 10. Kc3 Rxb3+ $11) 4... Rb6 (4... Rg3+ $144 5. Kf4 Rxb3 6. Rh8#) 5.
+Rd3 Rb4 6. Ke3 Kg5 7. Kd2 Kf5 8. Kc3 Rb8 9. Re3 $1 $18 1-0
+
+[Event "1.p Putr k Kommunismu {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Mitrofanov=L"]
+[Black "[=0030.11f5c1"]
+[Result "1/2-1/2"]
+[Annotator "09"]
+[SetUp "1"]
+[FEN "8/2p5/8/4PK2/7b/8/8/2k5 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1977.??.??"]
+
+1. Ke6 $1 (1. Ke4 $143 c6 2. Kd3 Kb2 3. Kd4 Be7 4. e6 Kb3 $19) 1... c5 2. Kd5
+Be7 3. Ke6 Bf8 4. Kf7 Bh6 5. Kg6 Bf4 6. Kf5 Bg3 7. Ke4 $1 Bh4 8. Kd5 Be7 9. Ke6
+$11 1/2-1/2
+
+[Event "2.hm Bulletin Central Chess Club USSR"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Mitrofanov=L Pogosjants=E"]
+[Black "[+0410.13a5a8"]
+[Result "1-0"]
+[Annotator "10"]
+[SetUp "1"]
+[FEN "k7/pR1p3r/8/KBP5/8/2p5/8/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1979.??.??"]
+
+1. c6 (1. Bc6 $2 c2) 1... c2 2. Rxd7 Rh8 3. Rd8+ $1 Rxd8 4. c7 c1=Q 5. cxd8=Q+
+Kb7 6. Ba6+ Kc6 7. Qc8+ 1-0
+
+[Event "1.p Molodoj Leninets (Kurgan) {c}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Gurgenidze=D Mitrofanov=L"]
+[Black "[+3131.13d5h1"]
+[Result "1-0"]
+[Annotator "11"]
+[SetUp "1"]
+[FEN "8/8/8/2pK3p/8/5N2/1P4pq/5Rbk w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1981.??.??"]
+
+1. Rb1 $1 (1. Re1 $143 c4 2. Ke4 h4 3. Rc1 h3 4. Re1 c3 $11) 1... c4 2. Kc6 h4
+3. Kb7 h3 4. Ka8 c3 5. bxc3 Qb8+ 6. Rxb8 h2 7. Rh8 Bf2 8. Rxh2# 1-0
+
+[Event "2.p Kommunist"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Beljavski=A Mitrofanov=L"]
+[Black "[+0310.42c6a8"]
+[Result "1-0"]
+[Annotator "12"]
+[SetUp "1"]
+[FEN "k7/6pB/2K5/1PP2PP1/8/8/1p1r4/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1985.??.??"]
+
+1. f6 gxf6 2. Kc7 $1 (2. gxf6 $143 Kb8 3. b6 Rf2 4. Kd7 Rxf6 5. c6 Rf7+ 6. Kd8
+Rxh7 7. c7+ Rxc7 8. bxc7+ Ka7 9. c8=Q b1=Q $11) (2. b6 $143 Kb8 3. gxf6 $11 {
+see above}) 2... Rd5 (2... f5 $144 3. Bxf5 Rd5 4. Be4 b1=Q 5. b6 Qb3 6. Bf3
+Qxb6+ 7. Kxb6 Kb8 8. Bxd5 $18) 3. Be4 b1=Q 4. b6 Qb3 5. Bf3 fxg5 6. Kc8 g4 7.
+Bg2 g3 8. Kc7 (8. Bh1 $143 g2 9. Bxg2 Qxb6 10. Bxd5+ (10. cxb6 $144 $11) 10...
+Ka7 11. cxb6+ Kxb6 $11) 8... Qxb6+ 9. Kxb6 $18 1-0
+
+[Event "1.p Uralskye Skazy"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Mitrofanov=L Ryabinin=N"]
+[Black "[+0400.12h3a5"]
+[Result "1-0"]
+[Annotator "13"]
+[SetUp "1"]
+[FEN "8/2p5/3P4/kr6/2p5/7K/8/3R4 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1991.??.??"]
+
+1. d7 $1 (1. dxc7 $143 Rc5 2. Rd5 Rxd5 3. c8=Q Kb4 $1 $11) 1... Rh5+ 2. Kg2 $1
+Rh8 3. d8=Q Rxd8 4. Rxd8 c3 5. Rc8 $1 Kb6 6. Rf8 $1 Kb5 7. Rf2 Kc4 8. Kf1 $1
+Kd3 9. Ke1 c2 10. Rf3+ Kd4 11. Kd2 $18 1-0
+
+[Event "2.p Tidskrift fС†r Schack"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Mitrofanov=L Roslov=Y"]
+[Black "[=0041.25e8h8"]
+[Result "1/2-1/2"]
+[Annotator "14"]
+[SetUp "1"]
+[FEN "4K2k/3p3p/7P/2p5/3N4/2Pp3p/8/B2b4 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1992.??.??"]
+
+1. Kf8 c4 2. Nf3 d2 (2... Bxf3 $143 3. Bb2 d2 (3... h2 $144 4. Bc1 h1=Q 5. Bg5
+$18) 4. Ba3 d1=Q 5. Be7 $18) 3. Bb2 Bc2 4. Ba3 (4. Ng5 $143 Bg6 5. Ba3 d1=R $1
+6. Nf7+ Bxf7 7. Be7 Rf1 $19) 4... d1=Q 5. Ne5 Bg6 6. Nf7+ Bxf7 7. Be7 Qf3 8.
+Bf6+ Qxf6 $11 1/2-1/2
+
+[Event "1.hm Die Schwalbe#08227"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Mitrofanov=L Samilo=V"]
+[Black "[+0040.33h4c4"]
+[Result "1-0"]
+[Annotator "15"]
+[SetUp "1"]
+[FEN "8/1pp5/8/1PP1P2p/2k4K/3b3B/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1993.??.??"]
+
+1. Bf1 $1 (1. c6 $143 bxc6 2. Bf1 Kd5 (2... Bxf1 $143 3. e6 $18) 3. Bxd3 cxb5
+$11) 1... Bxf1 (1... Kd5 $144 {main} 2. Bxd3 c6 $1 (2... Kxe5 $144 3. c6 bxc6
+4. bxc6 Kd6 5. Bb5 Kc5 6. Ba4 Kb4 7. Bd1 Kc5 8. Bf3 $18) 3. Be4+ $1 Kxe5 (3...
+Kxc5 $144 4. bxc6 $18) 4. Bxc6 $1 bxc6 (4... Kd4 $144 5. Bxb7 Kxc5 6. Bc6 $18)
+5. b6 $18) (1... Kxb5 $144 2. Bxd3+ Kxc5 3. Kg5 $18) (1... Kxc5 $144 2. Bxd3
+Kd5 (2... c6 $144 3. bxc6 bxc6 4. Bc4 $18) 3. Be4+ Kxe5 4. Bxb7 $18) 2. b6 $1 (
+2. c6 $143 Bg2 $1 3. e6 Kxb5 4. cxb7 Bxb7 5. e7 Bc6 $19) 2... cxb6 (2... c6
+$144 3. e6 Bd3 4. Kg5 $18) (2... Bd3 $144 3. c6 $1 $18) 3. c6 bxc6 4. e6 Bd3 5.
+Kg5 $1 (5. Kxh5 $143 Bf5 6. e7 Bd7 $19) 1-0
+
+[Event "3.p Vecherni Peterburg"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Kaljagin=V Mitrofanov=L"]
+[Black "[+0400.33b5b7"]
+[Result "1-0"]
+[Annotator "16"]
+[SetUp "1"]
+[FEN "5r2/Pk3P2/5p2/pK6/Pp6/7R/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1993.??.??"]
+
+1. a8=Q+ Kxa8 2. Kb6 $1 b3 $1 3. Re3 $1 (3. Rd3 $143 Rb8+ 4. Ka6 b2 5. Rd1 f5
+6. Rd7 Rb6+ 7. Kxb6 b1=Q+ 8. Kc5 $11 (8. Kxa5 $144 Qe1+ $11)) 3... Rb8+ 4. Ka6
+b2 5. Re1 f5 6. Re7 Rb6+ $1 (6... b1=Q $144 7. Ra7#) 7. Kxb6 b1=Q+ 8. Kxa5 Qb8
+9. Re8 $18 1-0
+

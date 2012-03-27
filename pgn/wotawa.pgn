@@ -1,0 +1,1041 @@
+[Event "DС†. T.Z."]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+4032.45f1h4)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/8/pbq4p/Q1p1pP1k/4P1pP/3N2P1/5K1N w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1930.??.??"]
+
+1. Qxb5 Qxb5 2. Nxg3 Kxg3 3. Kg1 {#5} c3 (3... Qf5 $144 4. Nf1+ Kh4 5. Kh2
+Qxh3+ 6. gxh3 c3 7. Ng3 c2 8. Nf5#) 4. Nxe4+ Kh4 5. Kh2 Qb2 6. Ng3 (6. Nd6 {
+<or>}) 6... Qc2 7. Nf5+ Qxf5 8. g3# 1-0
+
+[Event "Wiener Schachzeitung"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0030.21g4f7)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "7b/5k2/7p/8/6K1/6P1/6P1/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1935.??.??"]
+
+{Wiener Schachzeitung/5} 1. Kh5 (1. Kh3 $143 Bf6 2. Kh2 Ke6 3. Kh1 Ke5 4. Kg1
+Ke4 5. Kh2 Ke3 6. Kh1 Ke2 7. Kg1 Bd4+ 8. Kh1 Kf2 9. Kh2 Kf1 10. Kh1 Bg1 11. g4
+Be3 12. Kh2 Kf2 13. Kh1 Bf4 14. g3 Be3 15. Kh2 Kf1 16. Kh1 Bg1 17. g5 hxg5 18.
+g4 Bc5 19. Kh2 Kf2 20. Kh3 Kf3 21. Kh2 Kxg4 $19) 1... Bg7 2. g4 $1 Kf6 3. g5+
+$1 hxg5 4. g4 $1 Bh8 (4... Bf8 $144 $11 {stalemate}) 5. Kh6 Bg7+ 6. Kh5 $1 Bh8
+7. Kh6 $11 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1926 (c)"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+3011.32a1a5)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/p1p5/k5B1/1N6/qP6/P6P/K7 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1935.??.??"]
+
+{Deutsche Schachzeitung/12 (c): Wotawa=A Schach Magazin#145 1951} 1. Kb1 (1.
+Be7 $143 Qc1#) (1. Bd2 $143 Kb6 $19) (1. Bd8+ $143 Kxb4 2. Be7+ c5 3. Bg5 Kc3
+$19) 1... Kb5 (1... Qxb4 $144 2. Bd8+ Kb5 3. a4+ Kc5 4. Be7+ $18) (1... Kxb4
+$144 2. Bc1 Qa5 3. Bd2+ $18) (1... c5 $144 2. Nc2 $18) (1... Kb6 $144 2. Be7 c5
+3. Nc2 $1 (3. Bxc5+ $143 Kb7 4. Nd3 Qa5 5. Bb4 $17) 3... Qa5 4. Bd8+ $18) 2.
+Be7 c5 3. Bxc5 Qa5 (3... Kxc5 $144 4. Nc2 Qa5 5. b4+ $18) (3... a5 $144 4. Nd3
+$18) 4. Be7 Qc7 5. a4+ Ka5 (5... Kb6 $144 6. Nd5+ $18) 6. Bd8 Qxd8 7. Nc6+ $18
+1-0
+
+[Event "Wiener Schachzeitung (s)"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+3010.61g1c7)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/2k5/8/PB1P4/2P3Pp/5P1q/5P2/6K1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1935.??.??"]
+
+1. d6+ Kxd6 2. c5+ Kxc5 (2... Kc7 $144 3. Be2 Kb8 4. a6 Ka7 5. c6 Kb6 6. c7
+Kxc7 7. a7 Kb7 8. Bf1 Qxf3 9. Bg2 $18) 3. Be2 Kc6 4. Bf1 Qxf3 5. Bg2 $18 1-0
+
+[Event "Deutsche Schachzeitung#1930"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=3010.74d6f8)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "5k2/5ppB/1p1KP2p/1P3PPP/1P6/8/q1P5/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1936.??.??"]
+
+{Deutsche Schachzeitung/2} 1. e7+ Ke8 2. g6 f6 (2... Qc4 $143 3. gxf7+ Qxf7 4.
+Bg6 $18) 3. Bg8 Qxg8 4. c4 $1 Qh8 5. Ke6 Qg8+ 6. Kd6 Qxc4 $11 {stalemate}
+1/2-1/2
+
+[Event "Deutsche Schachzeitung#1944"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0320.14h1h8)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "7k/4B3/B6p/7r/6p1/6p1/6Pp/7K w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1936.??.??"]
+
+{Deutsche Schachzeitung/6} 1. Bf6+ $1 Kh7 2. Bh4 $1 Rxh4 (2... Ra5 $144 3. Bd3+
+Kg7 4. Bxg3 Ra3 5. Be5+ $11 Kf7 6. Bc4+ Kg6 7. Kxh2 h5 $11) 3. Bd3+ Kg7 4. Bg6
+Kxg6 $11 {stalemate} (4... Kf6 $144 5. Be8 Ke7 6. Bh5 $11) 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2003"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0040.11d2d8)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3k4/b7/3p4/7P/5B2/8/3K4/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1937.??.??"]
+
+{Deutsche Schachzeitung/12} 1. Be5 $1 dxe5 2. h6 e4 (2... Bd4 $144 3. Kd3 Ba1
+4. Ke4 $18) 3. Kc3 $1 Bb8 4. Kd4 e3 5. h7 $18 1-0
+
+[Event "Deutsche Schachzeitung#2061"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0100.35b8a6)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "1K6/8/k2p4/p7/P1p3p1/5p2/2PP4/1R6 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1939.??.??"]
+
+{Deutsche Schachzeitung/9} 1. c3 f2 (1... g3 $144 2. d3 g2 (2... cxd3 $144 3.
+c4 g2 4. c5 dxc5 5. Re1 {#1}) 3. dxc4 f2 4. c5 dxc5 5. Rd1 $18 {#1}) 2. d3 cxd3
+3. c4 g3 (3... f1=Q 4. Rxf1 Kb6 5. Rd1 $18) 4. c5 dxc5 5. Rh1 $18 {#2} 1-0
+
+[Event "Deutsche Schachzeitung#2042"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0011.55g8f6)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "5BKN/8/5k2/3p2p1/2pP1pP1/2P1pP1P/8/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1939.??.??"]
+
+{Deutsche Schachzeitung/1} 1. Ng6 Kxg6 (1... e2 $144 2. Be7+ Ke6 (2... Kxg6
+$144 3. h4 $18) 3. Nxf4+ gxf4 4. Bh4 $18) 2. Be7 e2 3. h4 gxh4 (3... e1=Q $144
+4. h5+ Kh6 5. Bf8#) 4. Bxh4 $18 1-0
+
+[Event "Deutsche Schachzeitung#2099"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0700.21b2f8)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "5k1r/2P5/P1r4p/8/8/8/1K6/7R w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1940.??.??"]
+
+{Deutsche Schachzeitung/8} 1. Rxh6 $3 Rhxh6 2. a7 Rb6+ 3. Ka3 Ra6+ 4. Kb4 Rhc6
+5. Kb5 $1 $11 Ke7 6. c8=Q Rxc8 7. Kxa6 $11 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2171"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=3410.21h7a8)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "k1rB2R1/qp5K/2P5/1P6/8/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1941.??.??"]
+
+{Deutsche Schachzeitung/11} 1. Bb6 (1. b6 $143 Qa6 $19) 1... Qxb6 (1... Qb8
+$143 2. Rxc8 (2. c7 $144 Rxg8 3. cxb8=Q+ Rxb8 $19) 2... Qxc8 3. c7 Qg4 4. Bd4
+Qd7+ 5. Kg6 Qxc7 $19) 2. Rxc8+ Ka7 3. c7 Qc5 4. Ra8+ Kxa8 (4... Kb6 $144 5.
+c8=Q Qe7+ $11 {perpetual check}) 5. b6 $11 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2205"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+4800.16d7h6)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "5rR1/2pK2pp/r1p4k/p1p1q3/6P1/8/8/2R3Q1 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1942.??.??"]
+
+{Deutsche Schachzeitung/11} 1. Qh1+ Kg6 2. Qh5+ Qxh5 3. gxh5+ Kf7 4. Rh8 $1
+Rxh8 5. Rf1+ Kg8 6. h6 $1 Ra8 (6... gxh6 $144 7. Ke7 $18) 7. Ke7 a4 8. Rg1 $1 (
+8. Rf7 $143 Re8+ 9. Kxe8 gxh6 10. Ke7 h5 11. Kf6 h4 12. Rg7+ Kf8 13. Rxc7 Ke8
+14. Rc8+ Kd7 15. Rxh8 Kd6 16. Rd8+ Kc7 17. Ra8 Kd6 18. Kf5 Kd5 19. Rxa4 c4 20.
+Kf4 Kd4 21. Ra7 Kd3 22. Kf3 h3 23. Rd7+ Kc2 24. Rxh7 c3 25. Rxh3 Kb2 $11) 8...
+g6 9. Rf1 a3 10. Rf7 a2 11. Rg7# 1-0
+
+[Event "Deutsche Schachzeitung#2249 (v)"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0803.11g5a1)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/3r1R2/6K1/8/1Rp2P2/3n3r/k7 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1944.??.??"]
+
+{Deutsche Schachzeitung/9 (v): Schach Magazin#79 1949} 1. Rxc3 Ne4+ 2. fxe4
+Rg2+ 3. Kf5 Rf2+ 4. Kg5 Rfxf6 5. e5 Rg6+ 6. Kf5 Rb6 7. Rb3 Rbc6 8. Rc3 Rce6 9.
+Rh3 $11 1/2-1/2
+
+[Event "Schach Magazin (m)"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0132.01a2g2)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/8/8/R7/2b5/K1p3kN/7N w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1949.??.??"]
+
+{(m): Wotawa=A Deutsche Schachzeitung#470 Deutsche Schachzeitung/2 1962} 1.
+Rg4+ (1. Re4 $143 c1=Q 2. Re2+ Kxh1 3. Nf3 Qa1+ 4. Kb3 Qd1+ 5. Rc2 Qxf3 6. Rc1+
+Be1+ $19) (1. Rf4 $143 c1=Q 2. Rf2+ Kh3 $1 3. Nf3 Qa1+ 4. Kb3 Ba5 5. Kc2 Bc7 6.
+Rd2 Kg4 7. Nd4 Qxh1 $19) 1... Kxh2 (1... Kxh1 $144 2. Nf3 Bd4 (2... c1=Q $144
+3. Rg1+ $11) 3. Rh4+ $11) 2. Rh4+ (2. Rg1 $143 Kxg1 3. Ng3 Kf2 4. Ne4+ Ke3 $19)
+2... Kg2 3. Rg4+ Kxh1 4. Rb4 $1 c1=Q (4... Bxb4 $144 5. Kb2 $11) 5. Rb1 $11
+1/2-1/2
+
+[Event "Schach Magazin#073"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0010.13f5c1)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/8/1pp1BK2/8/3P3p/8/2k5 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1949.??.??"]
+
+1. d4 cxd4 2. Ke4 b4 3. Kxd4 b3 4. Kc3 b2 5. Bf4+ Kb1 6. Kb3 Ka1 7. Ka3 (7. Be5
+$143 h2 $19) 7... b1=Q 8. Be5+ Qb2+ 9. Bxb2+ Kb1 10. Be5 $11 1/2-1/2
+
+[Event "Wiener Schachzeitung#99"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0411.01d8g1)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3K4/8/8/r7/3p2B1/8/5R2/6kN w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1949.??.??"]
+
+1. Bf3 Rf5 2. Rg2+ Kxh1 3. Bc6 $1 Rf1 4. Kc7 $1 d3 5. Kb6 $18 d2 6. Rxd2+ Kg1
+7. Rg2+ Kh1 8. Ka6 Rf6 9. Rg6+ Rxc6+ 10. Rxc6 $19 1-0
+
+[Event "Schach Magazin#088"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0400.34h8h6)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "7K/p5p1/1pP3pk/1R3P2/6P1/8/8/3r4 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1949.??.??"]
+
+1. c7 Rc1 2. f6 gxf6 (2... Rxc7 $144 3. g5+ Kh5 4. fxg7 $18) 3. g5+ fxg5 (3...
+Kh5 $144 4. gxf6+ $18) 4. Rb1 Rxb1 (4... Rxc7 $144 5. Rh1#) 5. c8=Q g4 (5...
+Rb3 $144 6. Qg8 $18) (5... Rh1 $144 6. Qg8 $18) 6. Qxg4 Rb5 (6... g5 $144 7.
+Qh3+ Kg6 8. Qd3+ $18) 7. Qh4+ Rh5 8. Qf4+ Rg5 9. Qe3 a5 10. Kg8 a4 11. Kf7 a3
+12. Kf6 a2 13. Qxg5+ Kh7 14. Qxg6+ Kh8 15. Qg7# 1-0
+
+[Event "Schach Magazin#107 (c)"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0700.21b3d5)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "7R/2pr4/1P6/2Pk4/8/1K6/8/2r5 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1950.??.??"]
+
+{(c): Wotawa=A Deutsche Schachzeitung/8-9 1967} 1. b7 Rb1+ 2. Kc3 Rxb7 3. Rh5+
+Kc6 4. Kc4 $11 Ra7 (4... Rg7 $143 5. Rh6+ Kd7 6. c6+ Ke7 (6... Kc8 $144 7. Rh8+
+Rg8 8. Rxg8#) 7. cxb7 Rg8 $18) (4... Rb1 $144 5. Rh6+ Kb7 6. c6+ Kc8 7. cxd7+
+Kxd7 $11) 5. Rh6+ Kb7 6. c6+ Kc8 7. cxd7+ Kxd7 $11 1/2-1/2
+
+[Event "Schach Magazin#103"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0841.04f7h8)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "7k/5KpN/2p5/2Rp3p/8/7r/3b3r/R6B w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1950.??.??"]
+
+1. Nf6 gxf6 2. Be4 dxe4 3. Rg5 fxg5 (3... Bxg5 $144 4. Kg6 $18 {#4}) 4. Kg6 $18
+{#4} 1-0
+
+[Event "Schach Magazin#103"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0841.04f7h8)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "7k/5KpN/2p5/2Rp3p/8/7r/3b3r/R6B w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1950.??.??"]
+
+1. Nf6 gxf6 2. Be4 dxe4 3. Rg5 fxg5 (3... Bxg5 $144 4. Kg6 $18 {#4}) 4. Kg6 $18
+{#4} 1-0
+
+[Event "Р¦sterreichische Schachzeitung"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0430.51c7c5)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/8/1pp1BK2/8/3P3p/8/2k5 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1950.??.??"]
+
+1. d4 cxd4 2. Ke4 b4 3. Kxd4 b3 4. Kc3 b2 5. Bf4+ Kb1 6. Kb3 $18 Ka1 $144 7.
+Ka3 (7. Be5 h2) 7... b1=Q 8. Be5+ $18 Qb2+ $144 9. Bxb2+ Kb1 10. Be5 $1 1-0
+
+[Event "Schach Magazin#133"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0311.10h3d7)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/3k3P/8/B7/8/7K/N7/r7 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1950.??.??"]
+
+1. Nc1 $1 (1. Kg2 $143 Rxa2+ 2. Bd2 Ra8 $1 $11) 1... Rxc1 2. Bc7 $1 (2. Kg2
+$143 Rc8 $11) 2... Kxc7 (2... Rh1+ $144 3. Bh2 $18) 3. Kg2 (3. Kh2 $144 $18 {Or
+}) 3... Rc2+ 4. Kg3 Rc3+ 5. Kg4 Rc4+ 6. Kg5 Rc5+ 7. Kg6 Rc6+ 8. Kg7 $18 1-0
+
+[Event "Schach Magazin#117"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0310.20e8b7)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "4K3/Pk5P/8/8/2r5/8/8/3B4 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1950.??.??"]
+
+1. a8=Q+ $1 (1. Bg4 $143 Re4+ 2. Kd7 Rd4+ 3. Ke7 Re4+ $11) 1... Kxa8 2. Bg4 $1
+Re4+ (2... Rb4 $144 3. Kd8 Rd4+ 4. Kc7 Rc4+ 5. Kb6 Rb4+ 6. Ka6 Ra4+ 7. Kb5 $18)
+3. Kd7 {Rd8 Or} Rd4+ 4. Kc7 Rc4+ 5. Kb6 Rb4+ 6. Ka6 $1 Ra4+ 7. Kb5 Rxg4 8.
+h8=Q+ $18 1-0
+
+[Event "Schach Magazin"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0461.23g1b5)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "N7/4b3/3P3p/rk5b/1PR4p/7p/8/6K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1951.??.??"]
+
+1. Rc5+ (1. bxa5 $143 h2+ $1 2. Kg2 Bf3+ 3. Kxh2 Bxd6+ 4. Kh3 Kxc4 $19) 1...
+Kxb4 2. Rxh5 Bg5 $1 (2... Rxh5 $144 3. dxe7 Re5 4. Nc7 Re1+ 5. Kh2 $11) (2...
+Ra1+ $144 3. Kh2 Bxd6+ 4. Kxh3 Rxa8 5. Rxh4+ $11) 3. Nc7 Be3+ 4. Kh1 Rxh5 5. d7
+Bg5 6. Nd5+ Kc5 7. Nf4 $11 1/2-1/2
+
+[Event "Schach Magazin#143"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0410.12h7b4)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/7K/5p1p/P6R/1k6/4r3/2B5/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1951.??.??"]
+
+1. a6 Ra3 2. Ba4 Kxa4 3. Rh3 Ra2 4. Rh2 Ra1 5. Rh1 Ra3 6. Rb1 Re3 7. Ra1+ Kb5
+8. a7 $18 1-0
+
+[Event "Wiener Montag"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0000.35f7a8)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "k7/2p2Kpp/2Pp4/1P3p1P/8/8/8/8 w - - 0 1"]
+[PlyCount "59"]
+[EventDate "1951.??.??"]
+
+1. b6 $1 (1. Ke7 $143 Ka7 2. Kd7 Kb6 $19) 1... Kb8 (1... cxb6 $144 2. Ke7 $18)
+2. Ke6 $1 Kc8 (2... f4 $144 3. Kd7 $18) 3. b7+ Kb8 4. Kxf5 Ka7 5. Ke4 Kb8 6.
+Kd5 Ka7 (6... g5 $144 7. hxg6 hxg6 8. Ke6 $18) 7. Kc4 Kb8 8. Kb5 Ka7 9. Ka5 Kb8
+10. Ka6 g5 11. hxg6 hxg6 12. Kb5 Ka7 (12... g5 $144 13. Kc4 g4 14. Kd4 g3 15.
+Ke3 d5 16. Kf3 $18) 13. Kc4 Kb8 14. Kd5 Ka7 15. Ke6 Kb8 16. Kf6 Ka7 17. Kxg6
+Kb8 18. Kf5 Ka7 19. Ke4 Kb8 20. Kd5 Ka7 21. Kc4 Kb8 22. Kb5 Ka7 23. Ka5 Kb8 24.
+Ka6 d5 25. Kb5 d4 26. Kc4 Ka7 27. Kxd4 Kb8 28. Kd5 Ka7 29. Ke6 Kb8 30. Kd7 $18
+1-0
+
+[Event "Deutsche Schachzeitung#067"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0441.12h1h6)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3B4/4N3/4p2k/2b5/6r1/1R6/3p1P2/7K w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1952.??.??"]
+
+{Deutsche Schachzeitung/12} 1. Nf5+ (1. Ng8+ $143 Kg6 $1 $19) 1... exf5 2. Rd3
+(2. Rb1 $143 Rc4 $19) 2... Rd4 (2... Bb4 $144 3. Bb6 f4 4. Bc7 Kg5 5. f3 Rh4+
+6. Kg2 $11) 3. Rxd2 Rxd2 4. Bg5+ Kxg5 5. f4+ Kg6 $11 1/2-1/2
+
+[Event "Р¦sterreichische Schachzeitung"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0431.01f2b2)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/3r1Np1/b7/8/8/8/1k3K2/5R2 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1952.??.??"]
+
+1. Ne5 Rd2+ 2. Ke3 Re2+ 3. Kd4 (3. Kf4 $143 Rxe5 $19) 3... Rxe5 4. Rf6 $1 gxf6
+$11 {stalemate} (4... Ra5 $144 5. Rg6 $11) 1/2-1/2
+
+[Event "Р¦sterreichische Schachzeitung"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0310.54f2f8)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3r1k2/B2PpP1p/2p1P2P/2P5/8/8/5Kp1/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1952.??.??"]
+
+1. Kg1 (1. Kxg2 $143 Rb8 2. Bb6 Ra8 3. Ba5 Rb8 4. Bc3 Rb2+ $11 {Tour folle})
+1... Ra8 2. Kh2 Rd8 (2... g1=Q+ $144 3. Kxg1 Rd8 4. Bb6 Rb8 5. Kf1 Rd8 6. Ba5
+Ra8 7. Kg1 Rb8 8. Bb4 Ra8 9. Ba3 Rb8 10. Bb2 $18 {#1}) 3. Bb6 Rb8 4. Kg1 Rd8 5.
+Ba5 Ra8 6. Kh2 Rb8 7. Bb4 (7. Be1 $144 g1=Q+ 8. Kxg1 Ra8 9. Ba5 Rb8 10. Bb4 Ra8
+11. Ba3 Rb8 12. Bb2 Ra8 13. Bg7#) 7... Ra8 8. Ba3 Rb8 9. Bb2 g1=Q+ 10. Kxg1 {#1
+} 1-0
+
+[Event "Р¦sterreichische Schachzeitung"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0041.14b6a8)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "k4B2/P2N4/1K1p4/4p3/3p2p1/b7/8/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1953.??.??"]
+
+1. Ka6 Bc5 2. Bxd6 Bxa7 3. Bb8 Bc5 4. Bxe5 Ba7 5. Bb8 Bc5 6. Bg3 Ba7 (6... d3
+$144 7. Nxc5 d2 8. Nd7 d1=Q 9. Nb6#) 7. Bf2 g3 8. Bg1 g2 9. Bf2 g1=Q 10. Bxg1
+$18 1-0
+
+[Event "Р¦sterreichische Schachzeitung"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0010.33e6h4)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "B7/6p1/4K3/7P/p1p4k/8/5PP1/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1953.??.??"]
+
+1. h6 (1. Kf5 $143 Kxh5 $19) (1. Bf3 $143 Kg5 $1 $19) 1... gxh6 2. Kf5 a3 3.
+Bf3 h5 4. Be2 a2 5. Bf1 a1=Q 6. g3# 1-0
+
+[Event "Р¦sterreichische Schachzeitung"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0670.30a8a6)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "K2B4/PPP5/k2b4/1r6/1r6/1b6/8/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1954.??.??"]
+
+1. b8=N+ Rxb8+ (1... Ka5 $143 2. c8=Q+ Ka4 3. Qa6+ Ra5 4. Qxa5#) 2. axb8=N+
+Rxb8+ 3. cxb8=N+ (3. cxb8=Q $143 Bd5+ 4. Qb7+ Bxb7#) 1/2-1/2
+
+[Event "Deutsche Schachzeitung#113"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0503.02h5h2)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "4R3/5pp1/4n3/6RK/8/r7/7k/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1954.??.??"]
+
+{Deutsche Schachzeitung/8} 1. Rxe6 $1 (1. Rg4 $143 Rh3+ 2. Rh4 g6+ 3. Kg4 f5#)
+(1. Re5 $143 g6+ 2. Kg4 (2. Kh4 $144 Ra4+ 3. Re4 Rxe4#) 2... Rg3+ 3. Kh4 Nf4 $1
+(3... g5+ $143 4. Rxg5 Rxg5 (4... Nxg5 $144 5. Re2+ Rg2 6. Rxg2+ Kxg2 7. Kxg5
+$11) 5. Rxe6 $11) 4. Re2+ Ng2+ 5. Rxg2+ Rxg2 $19) 1... Rh3+ (1... fxe6 $144 2.
+Re5 Rh3+ (2... Rg3 $144 3. Rxe6 g5 4. Rg6 $11) (2... Ra6 $144 3. Kg6 $11) 3.
+Kg4 Rg3+ (3... Rh6 4. Rg5 g6 (4... Rh7 $144 5. Rg6 e5 6. Re6 $11) 5. Re5 $11)
+4. Kh5 Kh3 (4... g6+ $144 5. Kh4 Rg2 6. Rxe6 g5+ 7. Kh5 Kh3 8. Re3+ Kh2 9. Re4
+$11) 5. Rxe6 g5 6. Re1 g4 7. Rh1+ Kg2 8. Ra1 Kh2 9. Kh4 Rg2 10. Ra4 g3 11. Ra3
+$11) 2. Kg4 Rg3+ (2... fxe6 $144 3. Kf4 $11) 3. Kh4 (3. Kf4 $143 Rxg5 4. Re8
+Rg1 $19) 3... Rxg5 4. Rf6 $1 (4. Kxg5 $143 fxe6 5. Kf4 Kh3 $19) (4. Rh6 $143
+Rg4+ $1 $19 (4... gxh6 $143 $11 {stalemate})) 4... Rg2 (4... gxf6 $144 $11 {
+stalemate}) 5. Rxf7 g5+ (5... g6 $144 6. Rg7 $11) 6. Kh5 g4 (6... Kh3 $144 7.
+Rf3+ $11) 7. Kh4 g3 8. Rf3 $1 Rg1 9. Ra3 $11 1/2-1/2
+
+[Event "Р¦sterreichische Schachzeitung#088"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0450.02d2d5)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/5b2/1r1k3B/8/8/p1pK2R1/6B1 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1955.??.??"]
+
+{Oesterreichische Schachzeitung/12} 1. Bf7+ Kc6 $1 (1... Kd6 $144 2. Bxa2 Rb1
+3. Bh2+ Kd7 4. Rg1 c1=Q+ 5. Rxc1 Bg5+ 6. Kd3 Rxc1 $11 {EGTB}) (1... Ke4 $144 2.
+Re2+ Kf3 3. Bxa2 Rb1 4. Re3+ Kf4 5. Kxc2 $11) (1... Ke5 $144 2. Bxa2 Rb2 3. Rg6
+c1=Q+ 4. Kxc1 Rxa2 $11) 2. Bxa2 (2. Be8+ $143 Kb7 3. Bxb5 a1=Q 4. Kxc2 Qa2+ $19
+) 2... Rb1 $1 3. Kxc2 Rb2+ 4. Kd3 Rxg2 5. Bd4 Bxd4 (5... Rg3+ $144 6. Ke4 Rg4+
+7. Kf5 $11) 6. Bd5+ Kxd5 $11 {stalemate} 1/2-1/2
+
+[Event "Deutsche Schachzeitung#137 (c)"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0300.42b6a1)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/pKP5/7p/P2r4/3P4/P7/k7 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1955.??.??"]
+
+{Deutsche Schachzeitung/5 (c): Marwitz=J 8.c} 1. c7 Rd6+ 2. Kc5 Rxd3 3. Kb4 a5+
+4. Kc4 Rd1 5. Kb3 Rc1 6. a3 Rxc7 (6... h4 $144 7. c8=Q Rxc8 $11) 1/2-1/2
+
+[Event "Deutsche Schachzeitung#146"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0500.21b3b1)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "7R/8/3RP3/8/8/1K6/4p1P1/1k1r4 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1955.??.??"]
+
+{Deutsche Schachzeitung/8} 1. Rd2 $3 (1. e7 $143 e1=Q 2. e8=Q Qg3+ $1 3. Ka4
+Qxd6 $11) (1. Rhd8 $143 Rxd6 2. Rxd6 e1=Q $19 {EGTB : wins in 39}) 1... Rxd2 (
+1... e1=Q $144 2. Rb2+ Kc1 3. Rc8+ Qc3+ 4. Rxc3#) 2. Rh1+ Rd1 3. Re1 $1 Rxe1 4.
+e7 Rd1 (4... Rc1 $144 5. e8=Q e1=Q (5... e1=N $144 6. Qe2 Nc2 7. Qe4 Ka1 8.
+Qa4+ Na3 9. Qxa3+ Kb1 10. Qb2#) 6. Qg6+ Ka1 7. Qa6+ Qa5 8. Qxa5+ Kb1 9. Qa2#) (
+4... Kc1 $144 5. e8=Q Kd2 6. Qd8+ Ke3 7. Qb6+ Kd3 8. Qb5+ Ke3 9. Qc5+ Kd3 10.
+Qc3+ Ke4 11. Qxe1 $18) 5. e8=Q e1=Q 6. Qg6+ $18 Ka1 7. Qa6+ $18 {#3} 1-0
+
+[Event "Р¦sterreichische Schachzeitung"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0413.12b2d8)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3k1r2/1npP1B2/8/8/p7/8/1K3R2/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1956.??.??"]
+
+1. Rf1 (1. Rf3 $143 Nd6 2. Bd5 Rxf3 3. Bxf3 Nc4+ 4. Ka2 (4. Kc2 $144 a3 $1 $19)
+4... Kxd7 5. Be2 Nb6 6. Ka3 Kd6 7. Kb4 Kd5 $19) 1... Nd6 (1... a3+ $144 2. Ka2
+Nd6 3. Bc4 $11) (1... Kxd7 $144 2. Be6+ Ke7 3. Rxf8 Kxf8 4. Ka3 Nc5 5. Bg4 Ke7
+6. Kb4 Kd6 7. Bf3 c6 8. Bg2 Kc7 9. Bf3 (9. Kxc5 $143 a3 $19) 9... Kb6 10. Bg2
+$11) (1... Rh8 $144 2. Bd5 Nc5 3. Bc6 Nxd7 4. Rd1 Rh7 5. Bxa4 $11) (1... Nc5
+$144 2. Ka3 Kxd7 3. Kb4 Ke7 4. Bc4 Rxf1 5. Bxf1 Kd6 6. Bg2 $11) 2. Bc4 Nxc4+ (
+2... a3+ $144 3. Ka2 $11) (2... Rh8 $144 3. Be6 $11) 3. Ka2 Rg8 (3... Rxf1 $144
+$11 {stalemate}) 4. Rg1 Rh8 5. Rh1 Rxh1 $11 {stalemate} 1/2-1/2
+
+[Event "Deutsche Schachzeitung#287"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0060.32a3c8)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "2k5/7p/1Pp1P3/6P1/8/K4b2/8/4b3 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1958.??.??"]
+
+{Deutsche Schachzeitung/6} 1. g6 (1. b7+ $143 Kxb7 2. g6 Bh4 $1 3. g7 (3. gxh7
+$144 Bf6 4. e7 Bh5 $19) 3... Be7+ 4. Ka4 (4. Kb2 $144 Bf6+ $19) (4. Kb3 $144
+Bd5+ $19) 4... Bd1+ $143 5. Ka5 Bf6 6. g8=Q Bc3#) 1... hxg6 (1... Bd5 $143 2.
+e7 $18) (1... Bh4 $143 2. g7 Be7+ 3. Ka4 Bd1+ 4. Ka5 $18) (1... Bb4+ $144 2.
+Kxb4 c5+ 3. Kxc5 hxg6 4. Kd6 Kd8 (4... Kb7 $144 5. Ke5 Bc6 6. Kf6 Be8 7. Ke7
+$11) 5. e7+ Ke8 6. Ke6 g5 7. Kf5 g4 8. b7 Bxb7 9. Kxg4 $11) 2. b7+ (2. e7 $143
+Kd7 3. b7 Bb4+ 4. Kxb4 c5+ $19) 2... Kxb7 (2... Kc7 $143 3. e7 Bb4+ 4. Kxb4 c5+
+5. Kxc5 Bc6 6. b8=Q+ $18) 3. e7 Bb4+ 4. Kxb4 c5+ 5. Ka5 $1 (5. Kxc5 $143 Bc6
+$19) 5... Bc6 6. e8=Q Bxe8 $11 {stalemate} 1/2-1/2
+
+[Event "Deutsche Schachzeitung#330"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0400.34b1f6)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/2p5/P2p1kp1/P5r1/4P3/2R5/1p6/1K6 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1959.??.??"]
+
+{Deutsche Schachzeitung/4} 1. Rf3+ Ke7 (1... Kg7 $144 2. Rf5 Rg1+ (2... gxf5
+$144 3. a7 fxe4 4. a8=Q $18) 3. Kxb2 Rh1 4. Rf8 $1 $18) 2. e5 $1 Rxe5 (2... Rh5
+$144 3. Rf8 $1 Rxe5 4. a7 Rxa5 5. a8=Q Rxa8 6. Rxa8 Ke6 7. Kxb2 $18) 3. Re3 $1
+Rxe3 4. a7 $18 1-0
+
+[Event "Deutsche Schachzeitung#390"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0042.12e8d6)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "4K3/8/B1Nk1p2/4N3/2P4b/8/7p/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1960.??.??"]
+
+{Deutsche Schachzeitung/7} 1. c5+ $1 (1. Nf7+ $143 Kc7 $1 $19 (1... Kxc6 $143
+2. Nd8+ Kc7 3. Bb7 $11)) 1... Kxc5 (1... Kc7 $144 2. Nd8 $1 (2. Nd4 $144 fxe5
+3. Nb5+ Kc6 $1 4. Na7+ Kxc5 $11) 2... fxe5 $144 (2... h1=Q $144 3. Ne6+ Kb8 4.
+c6 $11) 3. Bb7 Bxd8 4. Be4 $11) (1... Ke6 $144 2. Nd7 (2. Bc8+ $143 Kd5 3. Bb7
+fxe5 4. Nxe5+ Kxe5 $11) 2... h1=Q 3. Nd4+ Kd5 4. Bb7+ $18) 2. Nd7+ Kxc6 (2...
+Kd5 $143 3. Bb7 $18) (2... Kd6 $144 3. Nd4 h1=Q 4. Nb5+ Ke6 5. Nd4+ Kd6 6. Nb5+
+Kc6 7. Nd4+ Kc7 8. Nb5+ Kc6 $11) 3. Be2 $1 (3. Nc5 $143 Kxc5 4. Bb7 Kd4 5. Kf7
+Ke3 6. Kg6 Kf2 7. Kh5 Bg5 $19) 3... h1=Q 4. Bf3+ Qxf3 5. Ne5+ fxe5 (5... Kd5
+$144 6. Nxf3 Bg5 (6... Bf2 $144 7. Kf7 f5 8. Kf6 Ke4 (8... f4 $144 9. Kf5 Bg3
+10. Kg4 $11) 9. Ng5+ Kf4 10. Nh3+ $11) 7. Kf7 Ke4 8. Ne1 Bh4 9. Kg6 f5 10. Ng2
+Bg3 11. Kg5 Bc7 12. Kf6 Bf4 (12... Bd8+ 13. Kg6 Be7 14. Kh5 Kf3 15. Kg6) 13.
+Nh4 Be5+ 14. Kg5 f4 15. Kg4 $11) 1/2-1/2
+
+[Event "Wiener Kurier"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0410.11h3c4)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/4p2R/7B/1P6/2k5/7K/5r2/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1960.??.??"]
+
+1. b6 Rf3+ 2. Kg2 $1 Rb3 3. Be3 Rxe3 4. Rh4+ $1 Kc5 5. Rb4 $1 Kxb4 6. b7 $18
+1-0
+
+[Event "Deutsche Schachzeitung#395 (c)"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0000.44b7d8)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3k4/1K2p3/1p2pP2/2P5/4P3/8/1P3p2/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1960.??.??"]
+
+{Deutsche Schachzeitung/8 (c): Zinar=M Garmonia Peshechnogo Etyuda#222c 1990} 
+1. f7 f1=Q 2. c6 Qf4 3. e5 $1 (3. f8=Q+ $143 Qxf8 4. c7+ Kd7 5. Kxb6 (5. c8=Q+
+$144 Qxc8+ $19) 5... Qf2+ 6. Ka5 Kxc7 $19) 3... Qf3 4. b3 $1 (4. b4 $143 b5 5.
+Kb8 Qxc6 6. f8=Q+ Kd7 7. Qh8 $11) 4... b5 5. b4 {#2 eg:} Qxc6+ 6. Kxc6 Kc8 7.
+f8=Q# 1-0
+
+[Event "Deutsche Schachzeitung#437"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=3011.34a1a5)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/qpp5/8/k1p1N3/2p5/P7/1PP1B3/K7 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1961.??.??"]
+
+{Deutsche Schachzeitung/7} 1. Nc6+ $1 (1. Nxc4+ $143 Kb5 2. Ne5+ c4 $19) 1...
+bxc6 2. c3 $1 Qa8 3. Bg4 $1 Qg8 4. Bd7 Qf7 5. Bg4 Qf4 6. Bd7 Qf3 7. Ka2 Kb6 8.
+Be6 Kb7 9. Bd7 Qd1 10. Bh3 Qb3+ 11. Ka1 Ka6 12. Be6 Ka5 13. Bf5 Ka4 14. Bc8 Qc2
+15. Ka2 $11 1/2-1/2
+
+[Event "Schach Echo#305"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0044.12e8c6)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "4K1B1/8/1Pk5/1b3p2/p4n2/8/1N6/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1961.??.??"]
+
+1. Nxa4 $1 (1. Ke7 $143 a3 2. Nd1 Kxb6 3. Kf6 Kc5 4. Ne3 Nd5+ 5. Kg5 Nxe3 6.
+Ba2 Bc4 7. Bb1 f4 8. Kxf4 Nd5+ 9. Ke4 Ba2 10. Bxa2 Nc3+ $19) (1. Nd1 $143 Kxb6+
+$19 2. Ke7 Kc5 3. Kf6 a3 4. Ba2 Nd5+ 5. Ke5 Bc4 6. Bb1 Be2 7. Ba2 Bxd1 8. Bxd5
+f4 $19) 1... Bxa4 (1... Kb7+ $144 2. Ke7 Bxa4 3. Bh7 Bc2 4. Kf6 $11 Nd5+ 5. Ke5
+Nb4 6. Bxf5 $11) 2. Bh7 (2. Ke7 $143 Nh5 3. Bh7 Ng3 4. Bg8 f4 $19) 2... Nh5 (
+2... Bc2 $144 3. Ke7 Nd5+ 4. Ke6 Ne3 5. Ke5 Nc4+ 6. Kf4 Nd6 7. Ke5 $11) 3. Bxf5
+$1 (3. Ke7 $143 Ng3 $19) 3... Ng7+ 4. Kd8 Nxf5 5. b7 Kxb7 $11 {stalemate}
+1/2-1/2
+
+[Event "Deutsche Schachzeitung"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0311.56e7e5)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "6B1/p3K3/6p1/2p1k2p/P1P1pN2/1p2P2P/5P1r/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1962.??.??"]
+
+{Deutsche Schachzeitung/7} 1. Be6 $1 (1. Nxg6+ $143 Kf5 2. Nf4 (2. Nf8 $144
+Rxf2 3. Bh7+ Kg5 4. Ne6+ Kh6 5. Bxe4 b2 6. Nf4 Rf3 7. Nd5 Rxh3 8. Kd6 Rg3 9.
+Kxc5 h4 10. Kd4 h3 11. Kc3 Rg2 12. Nf4 h2 13. Nxg2 h1=Q 14. Kxb2 $19) 2... Rxf2
+3. Bh7+ Kg5 4. Bxe4 b2 5. Kd6 Rf3 6. Nd5 Rxh3 7. Kxc5 h4 8. Kb4 Rf3 9. c5 h3
+10. c6 h2 11. c7 Rf8 12. Nc3 Rc8 13. Ka3 Rxc7 14. Kxb2 Re7 15. Bg2 Rxe3 16. Kc2
+Kg4 17. Kd2 Rg3 18. Bh1 Rg1 19. Be4 h1=Q 20. Bxh1 Rxh1 $19 {#35}) 1... Rg2 2.
+Nxg2 g5 3. Nh4 $1 (3. h4 $143 b2 4. hxg5 b1=Q 5. Nf4 Qb7+ 6. Kf8 h4 7. Kg8 a5
+8. Bh3 Qb2 9. g6 Qxf2 10. g7 Qxe3 11. Kh7 Kxf4 12. g8=Q Qxh3 $19) 3... gxh4 4.
+Bg8 $1 b2 5. Bh7 $1 a5 6. Bg6 b1=Q 7. f4+ exf3 8. Bxb1 f2 9. Bd3 f1=Q 10. Bxf1
+$18 1-0
+
+[Event "Schach Echo#425"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0341.20a3a5)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "2r5/6bP/8/kN3P2/8/K7/8/2B5 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1963.??.??"]
+
+1. f6 $1 (1. Bg5 $143 Kxb5 2. f6 Bh8 3. f7 Kc4 4. Bh6 Ra8#) (1. Bh6 $143 Bxh6
+2. Nd6 Bf8 $19) (1. Nd6 $143 Rxc1 2. Ne8 Bf8+ 3. Kb3 Rh1 4. Nf6 Be7 5. Ng8 Rxh7
+6. f6 Bf8 7. Kc4 Rh8 8. f7 Rh7 $19) 1... Bxf6 (1... Bh8 $144 2. f7 Kxb5 3. Bh6
+$11) (1... Bf8+ $144 2. Kb3 Bb4 3. Bh6 Kxb5 4. Bg7 $11) 2. Nc7 $1 Rxc7 (2...
+Be5 $144 3. Bd2+ Kb6 4. Nd5+ $11) 3. Bg5 $1 Rc3+ (3... Bh8 $144 4. Bd8 $11) 4.
+Kb2 $1 (4. Ka2 $143 Rc2+ 5. Kb3 Rb2+ 6. Ka3 Bh8 $19) 4... Bh8 5. Bd2 $1 $11
+1/2-1/2
+
+[Event "Deutsche Schachzeitung#630"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0135.21f1f3)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "5R2/2P5/8/3N4/5P1n/5k2/N1b2p2/5K2 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1965.??.??"]
+
+{Deutsche Schachzeitung/3 EG#00036} 1. Nab4 Nf5 (1... Bf5 $143 2. c8=Q Bxc8 3.
+Rxc8 $18) 2. Rxf5 (2. Rg8 $143 Bd1 $19 {#1}) 2... Bxf5 3. c8=Q Bxc8 4. f5 Bxf5
+5. Nf4 Bc8 6. Nbd3 Ba6 7. Ne2 Bxd3 $11 1/2-1/2
+
+[Event "Deutsche Schachzeitung#683"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0432.14f5c3)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "1b6/7p/2p1NR2/2N1pK2/8/2k2Pp1/8/4r3 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1966.??.??"]
+
+{Deutsche Schachzeitung/4} 1. Ne4+ Rxe4 2. Kxe4 g2 3. Nf4 exf4 4. Rg6 hxg6
+1/2-1/2
+
+[Event "Deutsche Schachzeitung"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0130.51e3h7)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "6R1/7k/7P/7P/7P/4K2P/3p3P/2b5 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1966.??.??"]
+
+{Deutsche Schachzeitung/8} 1. Rg7+ Kxh6 (1... Kh8 $143 2. Ke2 $18) 2. Rg6+ Kxh5
+3. Rg5+ Kxh4 4. Rg4+ Kxh3 5. Rg3+ Kxh2 6. Kf2 $1 d1=Q 7. Rh3+ Kxh3 $11 {
+stalmate} 1/2-1/2
+
+[Event "2.hm Problem#215"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0416.21c8b5)"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "2K5/5p2/2nr3P/1kn2R2/5P2/2B5/8/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1967.??.??"]
+
+{Problem/10 1968 EG#09835} 1. Rxc5+ (1. h7 $143 Ne7+ 2. Kc7 Rd7+ 3. Kb8 Rd8+ 4.
+Kc7 (4. Ka7 $144 Nc6#) 4... Rc8+ 5. Kd6 Nxf5+ 6. Kd5 Rd8+ 7. Ke5 Rh8 $19) (1.
+Bf6 $143 Na7+ 2. Kb8 (2. Kc7 $144 Rd7+ 3. Kb8 Nc6+ 4. Kc8 Kb6 5. Rxc5 Rc7#)
+2... Rxf6 3. Rh5 (3. h7 $144 Rxf5 4. h8=Q Nc6+ 5. Kc7 Rxf4 $19) (3. Rxf6 $144
+Nd7+ 4. Kxa7 Nxf6 $19) 3... Ra6 4. h7 Nc6+ 5. Kc7 Ra7+ 6. Kc8 Kb6 7. h8=Q Rc7#)
+(1. Rxf7 $143 Rd8+ 2. Kc7 Na6+ 3. Kb7 Rb8#) (1. Rh5 $143 f5 2. Rxf5 Rd8+ 3. Kc7
+Rd7+ 4. Kc8 Ne7+ 5. Kb8 Nxf5 $19) 1... Kb6 (1... Kxc5 $144 2. h7 Ne7+ 3. Kc7
+Rc6+ 4. Kd8 Ng6 5. f5 Nh8 6. Bxh8 Rh6 7. Bb2 Rxh7 8. Ke7 Kd5 9. Kf8 Ke4 10. Bg7
+$11) 2. Bf6 Rxf6 3. h7 Rh6 4. Rf5 Ne7+ (4... Rxh7 $144 5. Kd7 Nd4 6. Rf6+ Kc5
+7. Ke7 Nc6+ 8. Kd7 Nb4 9. Ke8 $11) 5. Kd7 Nxf5 6. h8=Q Rxh8 $11 {stalemate}
+1/2-1/2
+
+[Event "Schach#05729"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0712.03f8d8)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "2Bk1K2/2p5/3N2p1/6p1/N7/2R5/3r2r1/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1968.??.??"]
+
+{Schach/6} 1. Bh3 $1 Rgf2+ (1... Rxd6 $144 2. Bxg2 $18) 2. Nf7+ Rxf7+ 3. Kxf7
+g4 $1 4. Bxg4 Rd4 5. Rd3 $1 Rxd3 6. Nc5 Rg3 7. Nb7# 1-0
+
+[Event "Schach Echo#614"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0332.32f6a5)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/5P2/1pp2K2/k1N5/1b4r1/N7/2PP4/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1968.??.??"]
+
+{Schach Echo/2} 1. f8=Q Rf4+ 2. Ke5 $1 Rxf8 3. Nc4+ Kb5 4. Nd6+ Ka5 (4... Kxc5
+$144 5. d4#) 5. Ndb7+ Kb5 6. c4+ $1 Kxc4 7. Nd6+ Kxc5 8. d4# 1-0
+
+[Event "Deutsche Schachzeitung#786"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0240.26d7g7)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/BR1K1pk1/1pR3p1/6p1/6P1/1Pp5/5p2/7b w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1968.??.??"]
+
+{Deutsche Schachzeitung/3} 1. Rf6 $1 Kxf6 (1... Bc6+ $144 2. Ke7 $18) (1... c2
+$144 2. Rc7 Kxf6 3. Bxb6 Ke5 (3... f1=Q $144 4. Bd4#) 4. Bxf2 $18) 2. Rxb6+ (2.
+Bxb6 $143 Ke5 3. Bxf2 Bxb7 4. Be3 f5 5. gxf5 gxf5 $19) 2... Kg7 (2... Ke5 $144
+3. Rb5+ (3. Rf6 $143 c2 4. Be3 Ke4 5. Rxf2 Kxe3 6. Rxc2 f5 $11) 3... Kf4 4.
+Bxf2 c2 5. Rc5 Be4 6. b4 Bd3 $18) 3. Rf6 $1 c2 (3... Kxf6 $144 4. Bd4#) 4. Be3
+$1 Bc6+ (4... Bd5 $144 5. Rxf2 Bxb3 6. Bxg5 $18) 5. Ke7 $18 1-0
+
+[Event "Deutsche Schachzeitung#864"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0810.34d2f4)"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "1RB3R1/r7/p7/4r1p1/3p1kP1/8/p1PK1P2/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1970.??.??"]
+
+{Deutsche Schachzeitung/2} 1. Rf8+ Ke4 2. Be6 $1 (2. Bb7+ $143 Rxb7 3. Rbd8
+Reb5 $19 4. f3+ Ke5 5. Rfe8+ Kf6 6. Rd6+ Kf7 7. Re1 Rb1 8. Rxa6 Rxe1 9. Kxe1
+Rb1+ 10. Kd2 a1=Q $19) 2... Rxe6 (2... Rd5 $144 3. Bxd5+ Kxd5 4. Rf5+ Kc6 5.
+Ra5 $18) (2... a1=Q $144 3. f3#) 3. Rf5 $1 (3. Rbd8 $143 Rf6 $1 4. Rfe8+ Kf3 5.
+Re1 Rb6 6. Ra1 Rb2 7. Rxd4 Rc7 8. Rd3+ Kxf2 9. Rc3 $17) 3... Re5 4. Re8 $1 Rxe8
+(4... Kd5 $144 5. Rexe5+ $18) 5. f3# 1-0
+
+[Event "Deutsche Schachzeitung#413"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(+0506.23d7g6)"]
+[Result "1-0"]
+[Annotator "1960"]
+[SetUp "1"]
+[FEN "6R1/3K1Ppp/6k1/7n/6P1/np6/5r2/7R w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1960.??.??"]
+
+{Deutsche Schachzeitung/12 @3: Dowd=S HHdbIV 2-11-2007} 1. f8=Q $1 (1. gxh5+
+$143 Kxf7 2. Ra8 b2 $1 3. Rxa3 Rd2+ 4. Kc6 Rc2+ 5. Kb5 Rc1 $11) 1... Rxf8 (1...
+Nf6+ $144 2. Kc8 Rc2+ 3. Kb7 $18) (1... Rf7+ $144 2. Qxf7+ (2. Ke6 $144 Nf4+ 3.
+Ke5 Nc4+ 4. Ke4 Nd2+ 5. Ke3 Nc4+ 6. Kf3 Nd2+ 7. Kf2 Rxf8 8. Rxf8 Kg5 9. Rd8 Nc4
+10. Rxh7 Kg6 11. Rh1 Ne6 12. Rb8 Nc5 13. Ke2 Nb2 14. Rb6+ Kf7 15. Rc6 Nba4 16.
+Kd2 Ke7 17. Re1+ Kd7 18. Rg6 Nb2 19. Rxg7+ Kc6 20. g5 Nbd3 21. Rf1 Ne5 22. Kc3
+Kd5 23. Rd1+ Ke6 24. g6 Kf6 25. Rc7 Ne6 26. Rf1+ Kxg6 27. Re7 Nf4 28. Rxe5 $18)
+2... Kxf7 3. Rb8 Nf6+ 4. Kd8 Nc4 5. Rxb3 Nxg4 6. Rxh7 Kg6 7. Rh8 Kf5 8. Ke7
+Nge5 9. Rf8+ Ke4 10. Rg8 Ne3 11. Re8 Kf4 12. Kd6 Nf5+ 13. Kd5 Ng4 14. Re4+ Kg5
+$18 {certainly a win for White}) 2. gxh5+ (2. Rxf8 $143 Nf6+ 3. Ke7 b2 4. Rb8
+b1=Q 5. Rhxb1 Nxb1 6. Rxb1 Nxg4 $11) 2... Kf7 3. Rh8 $1 (3. Rxf8+ $143 Kxf8 4.
+Rf1+ Kg8 5. h6 (5. Ke7 $144 h6 6. Rf8+ Kh7 7. Rb8 Nc4 8. Rxb3 Ne5 9. Rg3 (9.
+Ke6 $144 Ng4 10. Rb5 Nf6 11. Kf7 Ne4 $11) 9... Kg8 10. Ke6 Nf7 11. Rg1 Ng5+ $11
+) 5... gxh6 6. Ke7 h5 $1 7. Rg1+ Kh8 8. Kf7 h6 9. Kg6 (9. Rg8+ $144 Kh7 10.
+Rg7+ Kh8 11. Kg6 b2 $11) (9. Rg6 $144 Kh7 10. Rb6 Nc4 11. Rxb3 Nd6+ 12. Kf6
+Ne4+ 13. Kf5 Ng5 14. Rb7+ Kg8 $11) 9... b2 10. Kf7 $11) (3. Rf1+ $143 Kxg8)
+3... Rxh8 (3... b2 $144 4. Rf1#) 4. Rf1+ Kg8 5. h6 gxh6 (5... g6 $144 6. Ke7 b2
+7. Rf8#) 6. Ke7 b2 7. Rg1# 1-0
+
+[Event "Deutsche Schachzeitung#2111 (c)"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Wotawa=A"]
+[Black "(=0700.10f8d1)"]
+[Result "1/2-1/2"]
+[Annot

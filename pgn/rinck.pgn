@@ -1,0 +1,727 @@
+[Event "1.p Melbourne Leader"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+3101.55e2c6)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p4R1/2kp4/2p1P3/2P2Npq/3P3p/4K1PP/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1903.??.??"]
+
+1. Nd5 (1. e6 $143 hxg2 2. Nd5 (2. e7 $143 Kd7 $19) 2... Qe1+ 3. Kxe1 g1=Q+ $11
+) (1. g3 $143 Qh8 $11) 1... dxe5 (1... Qd8 $144 2. g3 Qa5 (2... b5 $144 3. Rc7+
+$18) (2... b6 $144 3. e6 Qb8 4. Rg8 Qb7 5. e7 $18) 3. e6 Qa2+ 4. Ke3 Qa5 5.
+Rc7+ Qxc7 6. Nxc7 Kxc7 7. Kf4 $18) 2. g3 (2. Rg6+ $143 $2 Kd7 3. g3 Qh8 4. Rg8
+Qh6 $1 $11) 2... Qd8 (2... Qh8 $144 {<main>} 3. Rg8 Qh5 (3... Qh7 $144 {<main>}
+4. Rg6+ Qxg6 5. Ne7+ $18) (3... Qh6 $144 {<main>} 4. Rg6+ Qxg6 5. Ne7+ $18) 4.
+Rg6+ Qxg6 (4... Kd7 $144 {<main>} 5. Nf6+ $18) 5. Ne7+ $18) 3. Rg6+ (3. Rg8
+$143 Qa5 $1 4. Rg6+ Kd7 5. Nf6+ Kc7 $11) 3... Kd7 4. Rg8 $1 (4. Rg7+ $143 Ke6
+$11) 4... Qa5 $1 5. Ra8 $1 Qxa8 6. Nb6+ $18 1-0
+
+[Event "1.p Bohemia"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0031.12d1a1)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4p3/2bP4/8/8/p7/k2KN3 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1906.??.??"]
+
+1. Kc1 (1. Kc2 $143 exd5 2. Kc1 (2. Nf3 $144 Be3 $11) (2. Nd3 $144 Ba3 $11)
+2... Ba3+ 3. Kc2 d4 4. Nd3 Bd6 5. Nc1 d3+ 6. Nxd3 Ba3 $1 $11) 1... Be3+ (1...
+Ba3+ $144 {<main>} 2. Kc2 exd5 $1 3. Nf3 (3. Nd3 $143 d4 $1 4. Ne5 (4. Ne1 $144
+Bc1 5. Nd3 Ba3 $11) 4... Bc1 5. Nd3 Ba3 $11) 3... Bb2 (3... Bc5 $144 4. Nd2 $18
+) (3... Bb4 $144 4. Nd4 $18) (3... Bc1 $144 4. Nd4 $18) 4. Nd2 d4 5. Nb3#) 2.
+Kc2 exd5 3. Nd3 d4 4. Nc5 d3+ 5. Nxd3 Bc5 6. Nc1 Be3 7. Nb3# 1-0
+
+[Event "1.p Bohemia"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0400.11a3h6)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/P5rk/8/8/KpR5/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1906.??.??"]
+
+1. Rh3+ (1. a7 $143 Ra6+ $1 $11) 1... Kg7 $1 2. Rg3 $1 Rxg3 3. a7 Rg1 $1 (3...
+Kf6 $144 4. a8=Q Kf5 $1 5. Qd5+ Kf4 6. Qd4+ Kf5 7. Kb2 Rf3 $1 8. Kc1 Rg3 9. Kd1
+Kg5 10. Ke1 Rf3 11. Ke2 Rh3 12. Kf1 Rh1+ (12... Rg3 13. Kf2) 13. Kg2 Rb1 14.
+Qe5+ Kh6 $1 15. Qf6+ $18) 4. Kb2 Rg2+ 5. Kxb3 Rg3+ 6. Kb4 Rg4+ 7. Kb5 Rg5+ 8.
+Kb6 Rg6+ 9. Kb7 $18 1-0
+
+[Event "1.p Bohemia"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+3002.54a2d4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p2N2/6p1/1q4Np/pP1k1P1P/8/K1PP4/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1906.??.??"]
+
+1. Ne6+ (1. Ne5 $143 Qf1 $19) (1. Ka3 $143 Qf5 $19) 1... Kc4 (1... Ke4 $144 {
+<main>} 2. Nfg5+ Kf5 (2... Kd5 $144 {<main>} 3. Nxc7+ $18) 3. Nd4+ $18) 2. Nxc7
+Qb6 (2... Qb8 $144 {<main>} 3. Ne5+ Kd4 (3... Kxb4 $144 {<main>} 4. Nc6+ $18)
+4. Nc6+ $18) (2... Qxb4 $144 {<main>} 3. Ne5+ Kd4 4. Nc6+ $18) 3. d3+ (3. Ne5+
+$143 Kd4 $1 4. c3+ Ke4 5. d3+ Kf5 $1 $19) 3... Kd4 $1 4. Nd8 (4. Nd6 $143 Qc6
+$19) 4... Qf6 (4... Qxc7 $144 5. Ne6+ $18) 5. Nde6+ (5. b5 $143 Qxh4 6. b6 Qf2
+7. Kb2 a3+ 8. Kxa3 Qxc2 9. Nde6+ Ke3 10. Nd5+ Kd2 11. Nb4 Qc8 $19) 5... Kc3 (
+5... Ke3 $144 {<main>} 6. Nd5+ $18) 6. Nd5+ $18 1-0
+
+[Event "1.p Bohemia"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+4000.23c6c4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7q/2K2p2/4p3/2k1P2p/8/3P4/7Q w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1906.??.??"]
+
+1. Qb1 (1. Qf3 $143 Kb4 $1 $11) 1... Kd4 (1... Qg8 $144 2. Qa2+ $18) (1... Qf7
+$144 2. Qa2+ $18) 2. Qb3 $1 (2. Qb2+ $143 Kd3 3. Qc3+ Ke2 $11) (2. Qb4+ $143
+Kd3 3. Qc3+ Ke2 $11) 2... Qxe4+ (2... Kxe4 $144 3. Qc2+ $18) 3. Kd6 Qa8 (3...
+Qg2 $144 {<main>} 4. Qc3+ Ke4 5. Qc6+ $18) (3... Qh1 $144 4. Qc3+ Ke4 5. Qc6+
+$18) 4. Qe3+ $1 Kc4 5. Qc3+ Kb5 6. Qb3+ Ka6 (6... Ka5 $144 7. Qa3+ $18) 7. Qa4+
+Kb7 8. Qb5+ Ka7 $1 (8... Kc8 $144 9. Qd7+ Kb8 10. Qc7#) 9. Kc7 $18 1-0
+
+[Event "1.p Bohemia"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+4004.12b1d1)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5n2/2Q5/5q1p/1N3p2/7P/8/8/1K1k4 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1906.??.??"]
+
+1. Nc3+ Ke1 $1 2. Qg3+ Kd2 (2... Kf1 $144 {<main>} 3. Qf3+ Kg1 4. Ne2+ $18) 3.
+Qh2+ (3. Qf2+ $143 Kd3 $1 4. Nd5 (4. Qe2+ $144 Kd4 $11) (4. Qf3+ $144 Kd4 $11)
+4... Qe5 $11) 3... Kd3 $1 (3... Kxc3 $144 4. Qb2+ $18) 4. Nd5 Qf7 (4... Qd8
+$144 {<main>} 5. Qc2+ Kd4 6. Qc3+ Ke4 7. Qe3+ Kxd5 8. Qd3+ $18) (4... Qg7 $144
+5. Qc2+ Kd4 6. Qb2+ $18) (4... Qd4 $144 5. Qc2#) (4... Qe6 $144 5. Nf4+ $18) (
+4... Qa6 $144 5. Nb4+ $18) 5. Qc2+ (5. Qg3+ $144 Kc4 $1 6. Qc3+ Kb5 $1 7. Qb3+
+(7. Qb4+ $143 Kc6 $1 8. Qb6+ Kd7 $1 9. Qc7+ Ke6 $1 10. Nf4+ Kf6 11. Qc3+ Ke7
+$11) 7... Kc5 8. Qb6+ Kc4 9. Qb4+ Kd3 10. Qb3+ Kd4 11. Qc3+ Ke4 12. Qe3+ Kxd5
+13. Qb3+ $18) 5... Kd4 6. Qc3+ Ke4 7. Qe3+ Kxd5 8. Qb3+ $18 1-0
+
+[Event "1.p Budapest Ty"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0400.22h7d1)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/R6K/P6p/8/7p/2P5/8/3k3r w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1911.??.??"]
+
+{Deutsche Schachzeitung/5 1912} 1. Rg7 $1 (1. Ra8 $143 Kc2 2. c4 (2. a7 $144
+Ra1 $11) 2... Re1 3. a7 (3. c5 $144 h3 $11) 3... h3 4. Rg8 Re7+ 5. Rg7 Re8 6.
+c5 h2 7. Rg2+ Kc3 8. Rxh2 Re7+ $11) (1. Re7 $143 Kd2 2. c4 Ra1 3. Re6 h3 4.
+Rxh6 Kd3 5. c5 h2 6. Rxh2 Rxa6 7. Rh6 Ra7+ 8. Kg8 Rc7 9. c6 Kd4 10. Kf8 Kd5 $11
+) (1. Rd7+ $143 Kc2 $11) (1. c4 $143 $1 Re1 $11) 1... Kc2 (1... Re1 $144 {
+<main>} 2. Rg1 (2. a7 $143 Re8 3. Rg8 Re7+ 4. Rg7 Re8 5. Kxh6 h3 6. Kg5 Kc2 7.
+c4 Kc3 8. c5 Kc4 9. c6 Kc5 10. c7 Kc6 11. Kg4 h2 12. Rh7 h1=Q 13. Rxh1 Kxc7 $11
+) 2... Rxg1 3. a7 h3 {<eg>} 4. a8=Q h2 (4... Rg3 $144 5. Qh1+ $18) 5. Qa1+ Kc2
+6. Qa2+ $18) 2. Rg2+ Kb3 $1 3. Ra2 $1 Kxa2 4. a7 $18 1-0
+
+[Event "1.p Sydsvenska Dagbladet SnРґllposten"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0311.22b1e8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4k3/8/pN4P1/8/5r2/5p2/1P3B2/1K6 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1911.??.??"]
+
+1. Nd5 Rc4 (1... Ra4 $144 {<main>} 2. Bc5 f2 3. Nf6+ Kd8 4. Bxf2 $18) (1... Rf5
+$144 {<main>} 2. g7 Rg5 (2... Kf7 $144 3. g8=Q+ Kxg8 4. Ne7+ $18) 3. g8=Q+ Rxg8
+4. Nf6+ Kf7 {<eg>} 5. Nxg8 Kxg8 6. Kc2 Kf7 7. Kc3 Ke6 8. Kd4 Kd6 (8... a5 $144
+9. Kc5 $18) 9. b4 Kc6 (9... a5 $144 10. b5 $18) 10. Kc4 Kb7 11. Kc5 Ka7 12.
+Kc6+ Kb8 13. Kb6 a5 14. Kxa5 $18) (1... Rf8 $144 2. g7 $18) 2. g7 (2. b3 $143
+Rc8 $1 3. Nf6+ (3. Bd4 $144 Rd8 4. Nf6+ Kf8 $1 $11) 3... Kf8 4. Ng4 $18 (4. Nh5
+$144 Rc6 5. Nf4 (5. g7+ $144 Kf7 6. Bd4 Rg6 7. Kc2 Rg5 8. Nf6 $11) 5... Rf6 6.
+g7+ Kg8 7. Nh5 Rf5 8. Ng3 Rg5 $11) 4... Kg7 5. Ne5 Kf6 6. Bd4 f2 7. Nd3+ Kxg6
+$11) 2... Kf7 3. g8=Q+ $1 Kxg8 4. b3 $1 Rc8 (4... Rc6 $144 {<main>} 5. Ne7+ $18
+) (4... Re4 $144 {<main >} 5. Nf6+ $18) (4... Rg4 $144 {<main>} 5. Nf6+ $18) 5.
+Ne7+ $18 1-0
+
+[Event "1.p Barcelona Ty"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0301.65c2d5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r6/1P3N2/8/2pkp2p/P1p3p1/4P3/2KP1P1P/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1914.??.??"]
+
+{The Chess Amateur/11 1914} 1. a5 (1. e4+ $143 Kc6 2. Nxe5+ Kxb7 3. Nxc4 (3.
+Nd7 $144 Re8 $11) 3... Rf8 4. Nd6+ (4. e5 $143 Rxf2 $19) 4... Kc6 5. Nf5 Ra8 6.
+Kb3 Rb8+ 7. Kc3 Rb4 $11) (1. Kc3 $143 e4 $19) 1... Rxb7 (1... Kc6 $144 {<main>}
+2. a6 Kb6 (2... Rf8 $144 3. Nxe5+ Kc7 4. Nd7 $18) (2... Kc7 $144 3. a7 $18) 3.
+Nxe5 Kxa6 4. Nd7 Kxb7 5. Nxb8 Kxb8 $18) 2. e4+ Kd4 (2... Kxe4 $144 3. Nd6+ $18)
+(2... Ke6 $144 3. Nd8+ $18) (2... Kc6 $144 3. Nd8+ $18) 3. Nd8 $1 (3. Nd6 $143
+Rd7 $19) 3... Rb5 (3... Rb3 $144 {<main>} 4. Ne6+ Kxe4 5. Nxc5+ Kf3 (5... Kd5
+$144 6. Nxb3 cxb3+ 7. Kxb3 $18) 6. Nxb3 cxb3+ 7. Kxb3 Kxf2 8. a6 $18) (3... Rd7
+$144 {<main>} 4. Ne6+ Kxe4 5. Nxc5+ Kf3 6. Nxd7 Kxf2 7. a6 $18) (3... Rh7 $144
+{<main>} 4. Ne6+ Kxe4 5. Ng5+ $18) (3... Ra7 $144 {<main>} 4. Nc6+ $18) (3...
+Rg7 $144 {<main>} 4. Ne6+ $18) 4. a6 (4. Nc6+ $143 Kxe4 5. a6 Rb6 $19) 4... c3
+(4... Rb6 $144 {<main>} 5. a7 Ra6 6. Ne6+ Kxe4 (6... Rxe6 $144 7. a8=Q $18) 7.
+Nxc5+ $18) (4... Kxe4 $144 {<main>} 5. Nb7 Rb4 (5... Rb6 $144 {<main>} 6. a7
+Ra6 7. Nxc5+ $18) 6. a7 Ra4 7. Nxc5+ $18) 5. dxc3+ (5. Nc6+ $143 Kxe4 6. a7
+Rb2+ 7. Kxc3 Ra2 8. Kc4 Kf3 9. Kb5 Rxa7 10. Nxa7 Kxf2 11. Kxc5 (11. Nc6 $144 h4
+$19) 11... h4 $19) 5... Kc4 (5... Kxe4 $144 {<main>} 6. Nb7 Rb6 7. a7 (7. Nxc5+
+$144 $18 {<or>}) 7... Ra6 8. Nxc5+ $18) 6. Nb7 (6. Nf7 $144 $18 {<or>}) 6...
+Rb6 $1 7. a7 Ra6 8. a8=Q (8. Nd6+ $144 {<or>} Rxd6 9. a8=Q $18) 8... Rxa8 9.
+Nd6# 1-0
+
+[Event "1.p L'Eco degli Scacchi"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0013.14g2h4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/B1p4p/2p5/8/P6k/8/2n2pK1/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1917.??.??"]
+
+{L'Eco degli Scacchi/6-7} 1. Bc5 (1. Bxf2+ $143 Kg4 2. Bc5 Ne1+ 3. Kf1 Nd3 4.
+Bf8 Nb2 5. a5 Nc4 6. a6 Nb6 7. Ke2 Kf5 8. Kd3 Ke6 $11) (1. Kxf2 $143 Nb4 2. Be3
+(2. Ke3 $144 Kg4 3. Bd4 h5 $19) 2... Kg4 3. Bh6 c5 4. Ke2 Kf5 5. Ke3 Ke6 6. Ke4
+Kd6 7. Bg7 Kc6 8. Bh6 Kb6 9. Be3 h5 10. Bf2 c6 11. Ke3 Ka5 12. Kd2 Kxa4 $19) (
+1. a5 $143 Nb4 $19) 1... Ne1+ $1 (1... f1=Q+ $144 2. Kxf1 Na1 3. a5 $18) 2. Kf1
+Nd3 (2... Nf3 $144 {<main>} 3. Bxf2+ (3. Be7+ $143 Kg3 $19) (3. Kxf2 $143 Nd2
+$11) (3. a5 $143 Nd2+ 4. Kxf2 Ne4+ $19) (3. Ke2 $143 f1=Q+ 4. Kxf1 Nd2+ 5. Ke2
+Nc4 $11) 3... Kg4 (3... Kh3 $144 4. a5 $18) 4. a5 (4. Ke2 $143 Ne5 5. a5 c5 6.
+Bxc5 Nc6 7. a6 Kf5 $11) (4. Bc5 $143 Nd2+ 5. Ke2 Nc4 $11) 4... Nd2+ (4... c5
+$144 5. a6 $18) 5. Kg1 (5. Ke1 $144 $18 {<or>}) (5. Ke2 $143 Ne4 $11) 5... Nc4
+6. a6 c5 7. Bxc5 $18) 3. Be7+ (3. Bxf2+ $143 Kg4 4. a5 (4. Ke2 $144 Nb4 $19)
+4... Nb4 $19) 3... Kg3 $1 4. a5 (4. Ba3 $143 c5 $19) 4... Ne5 (4... c5 $144 {
+<main>} 5. a6 Ne5 $1 6. a7 Nc4 7. Bh4+ $1 Kf3 8. a8=Q+ $18) (4... Kf3 $144 5.
+a6 Ne5 (5... Nb2 $144 6. Bc5 $18) 6. Bc5 $18) 5. Bc5 (5. Bd8 $143 Kf3 6. Bh4
+Nc4 7. Bxf2 Nxa5 $19) (5. a6 $143 Nf3 $19) 5... Nd7 6. Bxf2+ (6. a6 $143 Nxc5
+7. a7 Ne4 8. a8=Q Nd2+ $19) 6... Kf3 7. a6 c5 8. Bxc5 Nxc5 9. a7 $18 1-0
+
+[Event "1.p L'Eco degli Scacchi"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+3012.33d2e5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3N4/4p3/q3Bpp1/1N2k3/P6P/6P1/3K4/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1917.??.??"]
+
+{L'Eco degli Scacchi/6-7} 1. Nf7+ Ke4 $1 2. Bd5+ (2. Bc8 $143 Qa5+ 3. Ke2 Kd5
+4. Bg4 $19) 2... Kf5 $1 3. Nh6+ (3. Bb7 $143 Qa5+ 4. Nc3 Kg4 5. Be4 f5 6. Bd5
+Kxg3 $19) 3... Ke5 4. Ng4+ (4. Nf7+ $144 $2 Kf5 $18 {loss of time. See main
+line 2...Rf5}) 4... Kf5 $1 5. Ne3+ (5. Be6+ $144 Ke4 $1 6. Bd5+ Kf5 7. Ne3+ $18
+{loss of time}) 5... Ke5 6. Nc4+ Kf5 $1 7. Be6+ (7. Bb7 $143 Qxa4 $1 8. Bc8+ e6
+$1 9. Nbd6+ Kg4 10. Bxe6+ Kxg3 11. Bf7 Qa2+ 12. Kc1 $11) 7... Ke4 (7... Qxe6
+$144 8. Nd4+ $18) (7... Kxe6 $144 8. Nc7+ $18) 8. Bc8 Qc6 (8... Qxc8 $144 9.
+Ncd6+ exd6 10. Nxd6+ $18) (8... Qxa4 $144 9. Nc3+ $18) (8... Qa8 $144 9. Bb7+
+Qxb7 10. Ncd6+ exd6 11. Nxd6+ $18) 9. Bb7 (9. Ncd6+ $143 Ke5 $1 10. Nf7+ Kd5 $1
+$19) (9. Nbd6+ $143 Kd4 $1 10. Bb7 Qxa4 $19) 9... Qxb7 10. Ncd6+ (10. Nbd6+
+$144 $18 {<or>}) 10... exd6 11. Nxd6+ $18 1-0
+
+[Event "1.p L'Eco degli Scacchi"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+3200.02c1a1)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5q2/8/5p2/8/2pR4/2R5/8/k1K5 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1917.??.??"]
+
+{L'Eco degli Scacchi/6-7} 1. Rd8 (1. Rd7 $143 Qc5 $1 2. Rdd3 (2. Rd8 $144 Qa5
+$11) (2. Rd5 $143 Qb4 $19) 2... Qg5+ $11) (1. Rd5 $143 Qb4 $19) (1. Rd1 $143
+Qb4 $11) (1. Rdxc4 $143 Qh6+ $11) (1. Rcxc4 $143 Qa3+ 2. Kd2 Qa2+ 3. Kd1 (3.
+Ke1 $144 Qa5+ $11) 3... Qb3+ $1 $11) 1... Qh6+ $1 2. Rd2 (2. Kc2 $143 Qg6+ $11)
+2... Qh1+ (2... Qf8 $144 {<main>} 3. Kd1 $1 $18 (3. Kc2 $143 Qb4 $11) (3. Rd1
+$143 Qb4 $11)) 3. Rd1 Qa8 (3... Qh6+ $144 {<main>} 4. Kc2+ Ka2 5. Ra1+ Kxa1 6.
+Ra3#) 4. Kd2+ (4. Kc2+ $143 Ka2 5. Rd2 Qh1 $11) (4. Rxc4 $143 Ka2 $11) 4... Kb2
+5. Rc2+ Kb3 6. Rb1+ Ka3 7. Ra1+ $18 1-0
+
+[Event "1.p L'Eco degli Scacchi"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+4001.00d3b8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k2q3/8/4N3/8/2Q5/3K4/8/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1917.??.??"]
+
+{L'Eco degli Scacchi/6} 1. Qc7+ $1 (1. Qf4+ $143 Kb7 2. Qc7+ Ka6 3. Nc5+ Kb5
+$11) (1. Qb4+ $143 Kc8 $1 2. Qc5+ Kb7 $11) 1... Ka8 2. Qa5+ Kb7 $1 (2... Kb8
+$144 3. Qb6+ Ka8 4. Nc7#) 3. Nc5+ Kb8 (3... Kc6 $144 4. Qa4+ $18) (3... Kc8
+$144 4. Qa8+ $18) 4. Qb6+ (4. Qb4+ $143 Kc7 $1 5. Qb7+ Kd6 6. Ne4+ Ke5 $11) (4.
+Na6+ $144 $1 Kb7 $1 5. Nc5+ Kb8 6. Qb6+ $18 {DUAL}) 4... Kc8 $1 5. Qb7+ (5.
+Qa6+ $143 Kc7 $1 6. Qb7+ Kd6 $11) 5... Kd8 6. Kd2 $1 (6. Qd5+ $143 Kc7 $1 $11)
+6... Qe7 7. Qb8# 1-0
+
+[Event "1.p L'Eco degli Scacchi"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(=0013.14f5f8)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5k2/4p2p/p3B2p/5K2/7P/7n/8/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1917.??.??"]
+
+{L'Eco degli Scacchi/6-7} 1. Ke4 (1. Kg4 $143 Nf2+ 2. Kf3 Nd3 3. Ke3 Nc5 $19) (
+1. Bd7 $143 h5 $19) (1. Bc4 $143 a5 $19) 1... Nf2+ (1... Ng1 $144 {<main>} 2.
+Ke3 Kg7 3. Kf2 Kg6 (3... Kf6 $144 4. Bd7 $11) 4. Bg4 a5 5. Kxg1 a4 {<eg>} 6.
+Kg2 a3 (6... Kf6 $144 7. Bd1 a3 8. Bb3 $11) 7. Be6 Kf6 8. Ba2 e5 9. Kf3 Kg6 10.
+Ke4 Kh5 11. Kxe5 Kxh4 12. Kf4 $11) (1... Ng5+ $143 2. hxg5 hxg5 (2... h5 $144
+3. Kf5 a5 (3... Kg7 $144 4. Bb3 $11) 4. Bd7 Kg7 5. Be8 e6+ 6. Kf4 $11) 3. Kf5
+Kg7 (3... h6 $144 4. Kg6 $11) 4. Kxg5 a5 5. Bb3 h6+ (5... Kf8 $144 6. Kf5 $11)
+6. Kf5 Kh7 7. Ke6 h5 8. Kxe7 h4 9. Bc2+ Kg7 10. Kd6 h3 11. Kc5 $11) 2. Ke3 Nd1+
+(2... Nh1 $144 {<main>} 3. Kf3 Kg7 4. Kg2 Kg6 (4... Kf6 $144 5. Bd7 $11) 5. Bg4
+a5 6. Bd1 Kf5 7. Kxh1 Kf4 {<eg>} 8. Kg2 Ke3 9. Kf1 Kd2 10. Ba4 e5 11. Bc6 h5 (
+11... Ke3 $144 12. h5 $11) 12. Kf2 Kd3 13. Kf3 h6 14. Bb5+ $11) 3. Kd2 Nb2 (
+3... Kg7 $144 4. Kxd1 Kg6 5. Bg4 $11) 4. Kc3 (4. Bb3 $143 a5 $1 5. Kc3 a4 6.
+Bc2 a3 7. Kb3 Nc4 8. Bxh7 (8. Bd3 $144 Ne3 $19) 8... Kg7 9. Bd3 Ne3 10. Be4 Kf6
+11. Kxa3 Nf5 12. h5 Ng3 13. Bg6 Kg5 $19) 4... Na4+ (4... Kg7 $144 5. Kxb2 Kf6
+6. Bc4 $11) 5. Kb4 Nb6 6. Kc5 (6. Ka5 $143 Na8 7. Bc8 Nc7 8. Kb6 Nd5+ 9. Kc5
+Nf4 10. Bxa6 Ng6 11. h5 Nf4 12. Bb7 Kf7 13. Be4 Nxh5 $19) 6... Na4+ (6... Na8
+$144 {<main>} 7. Kc6 Kg7 (7... Ke8 $144 8. Kb7 Kd8 9. Kxa8 Kc7 10. Ka7 Kd6 11.
+Bc4 $11) 8. Kb7 Kf6 9. Bc4 a5 (9... Kf5 $144 10. Bxa6 $11) 10. Kxa8 $11) 7. Kb4
+Nb2 8. Kc3 Nd1+ 9. Kd2 Nf2 10. Ke3 $11 1/2-1/2
+
+[Event "1.p L'Italia Scacchistica#137"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+3101.43c1a6)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7q/p7/k7/6pp/P2P4/1NP5/5RP1/2K5 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1920.??.??"]
+
+{L'Italia Scacchistica/10-12} 1. Nc5+ (1. Rf7 $143 Qe8 2. Nc5+ Kb6 3. Rb7+ Kc6
+4. Rxa7 Qe1+ 5. Kc2 Qe2+ $11) (1. Rb2 $143 Kb6 2. Nc5+ Kc6 $11) 1... Kb6 (1...
+Ka5 $144 {<main>} 2. Rb2 a6 3. Rb4 $18) 2. Rf8 (2. Rf6+ $143 Kc7 $1 3. Rf7+ (3.
+Ne6+ $144 Kd7 $11) 3... Kc6 4. Rxa7 g4 $11) 2... Qh7 (2... Qg7 $144 3. Rf6+ $18
+) (2... Qh6 $144 3. Rf6+ Qxf6 4. Nd7+ $18) 3. Rf6+ (3. Rb8+ $143 Kc6 $1 $11)
+3... Kc7 $1 4. Ne6+ (4. d5 $143 Qh8 5. Rc6+ Kd8 6. Ne6+ (6. Nb7+ $144 Kd7 $11)
+(6. Rd6+ $144 Kc7 $11) (6. Kd2 $144 Qe5 7. Rd6+ Kc8 $11) 6... Kd7 7. Nxg5 Qe5
+$11) 4... Kc8 (4... Kb8 $144 5. Rf8+ $18) (4... Kb6 $144 5. Nxg5+ $18) (4...
+Kd7 $144 5. Nf8+ $18) 5. d5 (5. Rf8+ $143 Kd7 $1 6. Nc5+ $11) 5... h4 (5... Qe7
+$144 {<main>} 6. Rf8+ Kb7 (6... Kd7 $144 7. Rd8+ $18) 7. Rf7 Qxf7 8. Nd8+ $18)
+(5... Qd3 $144 {<main>} 6. Rf8+ Kd7 (6... Kb7 $144 {<main>} 7. Nc5+ $18) 7.
+Nc5+ $18) (5... Qe4 $144 {<main>} 6. Rf8+ Kb7 (6... Kd7 $144 {<main>} 7. Nc5+
+$18) 7. Nc5+ $18) 6. Rf8+ (6. d6 $143 h3 $1 7. d7+ (7. Nc5 $143 Qh8 $19) (7.
+gxh3 $143 Qxh3 $19) (7. Nxg5 $143 Qg7 $19) 7... Qxd7 8. gxh3 $11) (6. Nxg5 $143
+Qg7 $19) 6... Kd7 $1 7. Rd8+ Ke7 8. Rd7+ Kxd7 9. Nf8+ $18 1-0
+
+[Event "1.p The Chess Amateur#0672"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0800.01g4e1)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4p3/7R/6K1/5R2/8/1r1rk3 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1921.??.??"]
+
+{The Chess Amateur/6} 1. Rh1+ (1. Kg3 $143 Rb2 $1 2. Rh1+ (2. Re5+ $144 Kd2 3.
+Rf2+ Kc1 $11) 2... Kd2 $1 3. Rf2+ (3. Rh2+ $144 Kc1 $1 $11) 3... Ke3 $1 4. Rxd1
+(4. Rf3+ $144 Kd2 $1 $11) 4... Rxf2 5. Re1+ Re2 $1 $11) (1. Rh2 $143 Rb8 2. Kg3
+(2. Re3+ $144 Kf1 $11) 2... Rg8+ $11) 1... Kd2 (1... Ke2 $144 2. Rh2+ $18) 2.
+Rh2+ Ke1 (2... Kc1 $144 3. Rc3#) 3. Kg3 (3. Rh1+ $144 $1 Kd2 4. Rh2+ Ke1 5. Kg3
+$18 {loss of time, see 3.g3 main line}) (3. Re3+ $143 Kf1 4. Kg3 Kg1 $1 5. Rg2+
+Kh1 $11) (3. Rg3 $143 Kf1 $1 4. Rf3+ (4. Kh3 $144 e5 $11) 4... Kg1 $1 $11) 3...
+Rd8 (3... Rd7 $144 4. Rh1+ Ke2 5. Rxb1 Rg7+ 6. Kf4 e5+ (6... Rf7+ $144 7. Ke4
+Rxf3 8. Rb2+ $18) 7. Ke4 Rg4+ 8. Kf5 Kxf3 9. Rb3+ $18) (3... Rb8 $144 4. Re3+
+Kf1 5. Rh1#) (3... Rdc1 $144 4. Re3+ Kd1 5. Rd3+ Ke1 6. Kf3 $18) 4. Rh1+ (4.
+Re3+ $143 Kd1 $1 5. Rh1+ (5. Rf3 $144 Rg8+ $11) 5... Kd2 $11) 4... Ke2 $1 5.
+Rxb1 (5. Rf2+ $144 $1 Ke3 $1 6. Rf3+ Ke2 $1 7. Rxb1 $18 {loss of time. See 5.
+Tb1 main line}) 5... Rg8+ 6. Kf4 e5+ (6... Rf8+ $144 {<main>} 7. Ke4 Rxf3 8.
+Rb2+ $18) 7. Ke4 Rg4+ 8. Kf5 $1 Kxf3 9. Rb3+ $18 1-0
+
+[Event "1.p L'Italia Scacchistica#251 (m)"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0170.01g5b2)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b5/6b1/pB6/6K1/8/8/1k6/4R3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1923.??.??"]
+
+{L'Italia Scacchistica/10 (m): 700 Fins de Partie#490 1927} 1. Re8 (1. Re2+
+$143 Kb1 2. Re1+ Ka2 $1 3. Re8 Bh3 $1 4. Kg6 Bb2 $11) 1... Bh3 (1... Bb7 $144
+2. Re7 $18) (1... Bd7 $144 2. Re7 $18) 2. Kg6 (2. Rb8 $143 Kc3 $11) 2... Bc3 3.
+Re2+ (3. Re3 $143 Bf1 $11) 3... Kb3 (3... Kb1 $144 4. Re3 $18) (3... Kc1 $144
+4. Re3 $18) (3... Ka1 $144 4. Re3 $18) 4. Re3 Bf1 $1 5. Ba5 (5. Bd4 $143 Kc4 $1
+6. Bxc3 Bd3+ $1 $11) 5... Kc4 (5... Kc2 $144 6. Rxc3+ $18) 6. Rxc3+ $18 (6.
+Bxc3 $143 Bd3+ $11) 1-0
+
+[Event "1.p Sydsvenska Dagbladet SnРґllposten"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(=0701.00e1c2)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/r7/2k2N1r/4KR2 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1924.??.??"]
+
+1. Ke2 (1. Nd1 $143 Ra1 $19) 1... Rd3 $1 2. Ra1 (2. Re1 $144 Rd2+ $19) (2. Rg1
+$143 Rd2+ $19) (2. Rh1 $143 Rd2+ $19) 2... Rd2+ 3. Ke1 (3. Ke3 $143 Rhxf2 4.
+Ra2+ Kc3 5. Ra3+ Kb4 $19) 3... Rhxf2 (3... Rdxf2 $144 4. Ra2+ Kd3 5. Rxf2 $11)
+(3... Kb2 $144 4. Kxd2 $11) 4. Rc1+ (4. Ra2+ $144 $11 {<or>}) 4... Kb2 5. Rb1+
+{desesperado tower} Ka3 6. Rb3+ Kxb3 $11 1/2-1/2
+
+[Event "1.p L'Italia Scacchistica#377"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0800.03c7e8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3rk2r/2K3Rp/8/R6p/8/7p/8/8 w k - 0 1"]
+[PlyCount "19"]
+[EventDate "1925.??.??"]
+
+{L'Italia Scacchistica/12} 1. Ra3 (1. Ra1 $143 h2 2. Re1+ (2. Rg2 $144 Rd7+ $11
+) 2... Kf8 3. Rg2 Kf7 4. Rf1+ Ke6 5. Re2+ Kd5 6. Rd2+ Ke4 7. Rxd8 Rxd8 8. Kxd8
+h4 9. Ke7 Ke3 10. Kf6 Ke2 11. Rh1 Kf3 12. Rxh2 Kg3 $11) (1. Rb5 $143 Kf8 2. Rg1
+Ke7 $11) (1. Ra2 $143 h2 2. Re2+ (2. Rxh2 $144 Rd1 3. Re2+ Kf8 4. Rg3 Rf1 $11)
+2... Kf8 3. Rg3 Rc8+ 4. Kd7 Rd8+ 5. Kxd8 Kf7+ 6. Kd7 Rd8+ 7. Kxd8 h1=Q $11) (1.
+Ra4 $143 Kf8 2. Rg1 Kf7 3. Rf4+ Ke6 4. Re1+ Kd5 $11) (1. Re5+ $143 Kf8 2. Ree7
+$11) 1... h2 (1... Kf8 $144 {<main>} 2. Rg1 $1 (2. Rg5 $143 Ke7 $11) (2. Rgg3
+$143 Ke7 $11) 2... Ke7 $1 3. Re1+ {#3}) (1... h4 $144 {<main>} 2. Re3+ Kf8 3.
+Rg1 (3. Rg4 $143 Kf7 4. Rf3+ Ke6 5. Re4+ Kd5 $11) 3... Kf7 4. Rf3+ Ke6 5. Re1+
+Kd5 6. Rd3+ (6. Rd1+ $143 Ke4 7. Rxd8 Kxf3 8. Rd3+ $19) 6... Kc4 7. Rxd8 $18) (
+1... h6 $144 {<main>} 2. Re3+ Kf8 3. Rg1 Rd4 (3... Rd5 $144 4. Rf3+ Ke7 5. Re1+
+Re5 6. Rxe5#) (3... Kf7 $144 4. Rf1+ Kg6 5. Rg3+ Kh7 6. Rf7#) 4. Rf3+ (4. Rf1+
+$143 Kg7 5. Rg3+ Rg4 $11) 4... Ke7 5. Re1+ Re4 6. Rxe4#) (1... Rd2 2. Ra8+ $144
+Rd8 3. Rxd8#) 2. Re3+ (2. Ra1 $143 Kf8 3. Rg2 Ke7 $11) 2... Kf8 3. Rg2 (3. Rg5
+$143 Kf7 $19) 3... Rc8+ $1 4. Kd7 (4. Kxc8 $143 h1=Q 5. Rf2+ Kg7+ $19) 4...
+Rd8+ $1 5. Kxd8 (5. Kc7 $144 Rc8+ 6. Kd7 Rd8+ $18 {loss of time. See main line
+4...Td8+}) 5... Kf7+ $1 6. Kd7 Rd8+ $1 7. Kxd8 h1=Q 8. Rf2+ Kg7 9. Rg3+ Kh6 (
+9... Kh8 $144 {<main>} 10. Rf8#) 10. Rf6# 1-0
+
+[Event "1.p La Nau#10"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+3102.00c7b5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2K5/8/1k2N3/4Nq2/8/8/7R w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1929.??.??"]
+
+1. Nc3+ (1. Nd6+ $143 Ka4 $1 $11) (1. Rb1+ $143 Ka5 2. Ra1+ Kb4 3. Rb1+ Ka3 $11
+) 1... Kc5 $1 (1... Kb4 $143 2. Nd5+ $18) (1... Ka5 $144 2. Ra1+ $18) (1... Ka6
+$144 2. Ra1+ $18) 2. Rh5 $1 (2. Re1 $143 Qh6 3. Re4 Qd6+ $11) 2... Qf1 $1 (2...
+Kb4 $144 3. Nd5+ $18) (2... Kd4 $144 3. Ne2+ $18) (2... Qc1 $144 3. Nd3+ $18) (
+2... Qg3 $144 3. Ne4+ $18) (2... Qe3 $144 3. Ng4+ $18) 3. Rh4 $1 (3. Nd7+ $143
+Kc4 $11) (3. Ng4+ $143 Kb4 $11) (3. Nf3+ $143 Kb4 $1 4. Na2+ (4. Nd5+ $144 Ka3
+$11) 4... Ka3 $11) (3. Rg5 $143 Kd4 $11) 3... Qf7+ (3... Qf4 $144 {<main>} 4.
+Na4+ (4. Ne4+ $144 $18 {<or>}) (4. Rxf4 $143 $11 {stalemate})) (3... Qa6 $144
+4. Nd7#) 4. Nd7+ (4. Nxf7 $143 $11 {stalemate}) 4... Qxd7+ 5. Kxd7 $11 1-0
+
+[Event "1.p Le Temps#006"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0071.10e1e4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1B3b2/5N2/8/8/4k3/8/6bP/4K3 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1929.??.??"]
+
+1. Kf2 (1. Ng5+ $143 Kf5 $11) (1. h4 $143 Kf5 $11) (1. Nd6+ $143 Bxd6 $11) 1...
+Bh1 (1... Bf3 $144 2. Ng5+ $18) (1... Bh3 $144 2. Ng5+ $18) 2. Kg1 (2. Ng5+
+$143 Kf5 3. Nf3 Bxf3 $11) 2... Bf3 3. Ng5+ (3. h4 $143 Bh5 $11) 3... Ke3 4.
+Ba7+ Ke2 (4... Kf4 $144 5. Ne6+ $18) 5. Ne6 (5. h4 $143 Be7 6. Nxf3 Kxf3 7. h5
+Bf8 $11) 5... Bh6 (5... Bb4 $144 6. Nd4+ Ke3 7. Nc2+ $18) (5... Be7 $144 6.
+Nd4+ Ke3 7. Nf5+ $18) (5... Bd6 $144 6. Nd4+ Ke3 7. Nf5+ $18) (5... Ba3 $144 6.
+Nd4+ Ke3 7. Nc2+ $18) 6. Nd4+ Ke3 7. Nf5+ $18 1-0
+
+[Event "1.p Feuille d'Avis de Lausanne"]
+[Site "?"]
+[Date "1931.08.15"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0762.87f5e8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4k3/4Pp2/1P1p1P1P/pPpPpK2/pr2pbP1/7r/3RP3/NN5b w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1931.??.??"]
+
+1. Rb2 Rxb2 (1... e3 $144 2. Rxb4 Bxd5 3. Rxf4 exf4 4. Nc3 Rxh6 5. Nxd5 Rh8 6.
+Nc7+ $18) (1... Rxh6 $144 2. b7 Rxf6+ 3. Kxf6 Bg5+ 4. Kxg5 $18) (1... Bf3 $144
+2. b7 Bxg4+ 3. Kxg4 Rg3+ 4. Kh4 $18) (1... Kd7 $144 2. b7 $18) (1... Bg2 $144
+2. Rxb4 Rh5+ 3. gxh5 Bh3+ 4. Kxe4 Bg2+ 5. Kd3 Bxd5 6. h7 $18) 2. Na3 Rxa3 (2...
+Bg2 $144 3. Nc4 Rh5+ 4. gxh5 Bh3+ 5. Kxe4 Rxe2+ 6. Kf3 e4+ 7. Kxe2 Bg4+ 8. Kf2
+e3+ 9. Nxe3 $18) (2... Rh5+ $144 3. gxh5 Bg2 4. Nc4 $18) (2... e3 $144 3. b7
+$18) (2... Bg5 $144 3. Kxg5 $18) (2... Bf3 $144 3. b7 $18) 3. Nb3 {Plachutta}
+Raxb3 (3... Rbxb3 $144 {<main>} 4. h7 Rh3 5. b7 $18) (3... axb3 $144 4. b7 $18)
+(3... Bxh6 $144 4. b7 $18) 4. b7 Rxb5 5. h7 $18 1-0
+
+[Event "1.p L'Echiquier"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0313.21b3b5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p3B3/1P6/1k6/4nr2/1K6/P7/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1931.??.??"]
+
+{L'Echiquier/5-6} 1. b7 (1. a4+ $143 Kxb6 $19) (1. bxa7 $143 Nc5+ 2. Bxc5 Ra4
+$11) 1... Nc5+ (1... Ka6 $144 {<main>} 2. b8=Q Nc5+ 3. Kc3 $18 (3. Ka3 $143
+Ra4+ 4. Kb2 Rb4+ 5. Qxb4 Nd3+ $11) (3. Bxc5 $143 Rb4+ 4. Bxb4 $11 {stalemate})
+(3. Kc2 $144 $18 {<or>}) 3... Rf3+ 4. Kd4 $18) (1... Nd2+ $144 2. Kc2 Rc4+ 3.
+Kd3 $18) (1... Rf3+ $144 2. Kc2 Rf2+ (2... Rc3+ $144 3. Kb2 $18) 3. Kd3 Rd2+ (
+3... Nc5+ $144 4. Bxc5 $18) 4. Kxe4 Kc6 5. b8=Q Re2+ 6. Kd4 Rxe7 $18) 2. Bxc5
+Ka6 (2... Rb4+ $144 3. Bxb4 Ka6 4. b8=N+ $1 (4. b8=Q $143 {stalemate}) (4. b8=R
+$143 {stalemate})) (2... Kxc5 $144 {<main>} 3. b8=Q $18) (2... Rf3+ $144 3. Kb2
+$18) 3. b8=R (3. b8=Q $143 Rb4+ 4. Kxb4 $11 {stalemate} (4. Bxb4 $11 {stalemate
+}) (4. Qxb4 $11 {stalemate})) (3. b8=N+ $143 Kb7 4. Nd7 (4. Bd6 $144 Rf8 5. Nd7
+Rd8 6. Nc5+ Kc6 7. Be7 Re8 $11) 4... Kc6 5. Ne5+ Kd5 6. Nd3 (6. Be3 $144 Kxe5
+$11) (6. Ng6 $144 Rg4 $11) 6... Rf3 $11) 3... Rf3+ {<eg>} (3... Rf7 $144 4. Kc4
+Ka5 5. Rb3 Rf4+ 6. Kd5 Rf5+ 7. Kc6 Rf4 8. Bxa7 Ra4 9. Bb6+ Ka6 10. Bc5 Rxa2 11.
+Rb8 $18) (3... Ra4 $144 4. Rf8 Ra5 5. Rf6+ Kb7 6. Rf7+ Ka8 7. Bd4 Rb5+ 8. Kc4
+Rb7 9. Rf6 Rh7 10. Kb5 Rd7 11. Bc5 Rh7 12. a4 Rg7 13. a5 Rb7+ 14. Kc4 Rh7 15.
+a6 Kb8 16. Rf8+ Kc7 17. Bxa7 $18) (3... Rh4 $144 4. a3 Rh7 5. Kc4 Rd7 6. Ra8
+Rg7 7. Kd5 Rc7 8. Kd6 Rh7 9. Kc6 Rh6+ 10. Bd6 Rg6 11. Rf8 Ka5 12. Rf5+ Ka6 13.
+Rf4 Ka5 14. Rd4 Rh6 15. Kb7 a6 16. Rd5+ $18) (3... Rg4 $144 4. Re8 Kb5 5. Re5
+a6 6. Bf2+ Kc6 7. Re6+ Kb5 8. a4+ $18) (3... Rb4+ $144 4. Rxb4 $18) 4. Kc4 Rf4+
+5. Kd5 Rf5+ 6. Kc6 Rf6+ 7. Bd6 Rf2 (7... Rf5 $144 8. Rb3 Ra5 9. Bc5 Rb5 $1 10.
+Rd3 $1 Ra5 11. Rd7 $18) 8. a3 Rf3 (8... Rf6 $144 9. Rb4 Ka5 10. Rd4 Rg6 11. Kb7
+Rg7+ 12. Bc7+ Kb5 13. Rd5+ Kc4 14. Ra5 $18) (8... Rc2+ $144 9. Bc5 Rg2 10. Rb4
+Rg6+ 11. Bd6 $18) 9. Rf8 Rb3 (9... Rc3+ $144 10. Bc5 Ka5 11. Rf7 a6 12. Rf5 Ka4
+13. Kb6 $18) 10. Bc5 Rh3 11. Rf7 Rh6+ 12. Kd5 Rh5+ 13. Kc4 Rh4+ 14. Bd4 $18 1-0
+
+[Event "1.p L'Italia Scacchistica#264"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(=0350.21a7c6)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/K2Pb3/2k5/8/1P3B2/1B3r2/3p4/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1931.??.??"]
+
+{L'Italia Scacchistica/11} 1. Ba4+ (1. Bxd2 $143 Rxb3 $19) (1. Bd1 $143 Rxf4
+$19) (1. Bd5+ $143 Kxd5 2. Bxd2 Kc6 $19) (1. b5+ $143 Kxd7 $19) 1... Kd5 2.
+Bxd2 (2. b5 $143 Rxf4 3. Bd1 Rb4 4. b6 Kc6 $19) 2... Ra3 (2... Rf2 $144 3. Bb3+
+Kc6 4. Be1 Rf3 5. Bc4 Ra3+ 6. Ba6 $11) (2... Rd3 $144 3. Bc1 Rc3 4. Bb2 Rc7+ 5.
+Ka6 $11) 3. Kb6 (3. Kb7 $143 Rxa4 4. Kc7 (4. Be3 $144 Rxb4+ 5. Kc8 Rc4+ 6. Kb7
+Ke6 $19) (4. b5 $144 Ke6 5. Kc8 Rc4+ 6. Kb7 Kxd7 $19) 4... Ra7+ 5. Kc8 Ra8+ 6.
+Kc7 (6. Kb7 $144 Rd8 7. Kc7 Ke6 8. b5 Rxd7+ $19) 6... Bd6+ 7. Kb7 Rd8 $19) (3.
+Bg5 $143 Bxg5 $1 4. Kb6 Bd8+ $1 5. Kb5 Kd6 $19) 3... Rxa4 (3... Ke6 $144 4. Bc6
+$11) (3... Bd8+ $144 4. Kb5 $11) 4. Bg5 (4. Kc7 $143 Ra7+ $19) (4. Kb5 $143 Ra7
+$19) 4... Bxg5 (4... Kd6 $144 5. d8=Q+ Bxd8+ 6. Bxd8 Rxb4+ $11) (4... Rxb4+
+$144 5. Ka5 Rb8 6. Bxe7 $11) (4... Bd8+ $144 5. Bxd8 Rxb4+ 6. Kc7 $11) 5. d8=Q+
+(5. Kb5 $143 Ra8 $1 6. d8=Q+ Rxd8 $1 $19) 5... Bxd8+ 6. Kb5 Ra8 $11 1/2-1/2
+
+[Event "1.p Le Temps#129"]
+[Site "?"]
+[Date "1931.05.10"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0440.67h5h8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/5p1p/P2pP2P/P5pK/r5P1/1b1pp2B/1P1p4/7R w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1931.??.??"]
+
+1. a7 $1 (1. e7 $143 Re4 2. a7 (2. Bg2 $144 f6 $19) 2... Bd5 3. Bg2 (3. Rf1
+$144 Rxe7 $19) 3... Rxe7 4. Bxd5 Rxa7 5. Rd1 (5. Rf1 $144 e2 $19) (5. Bf3 $144
+e2 $19) 5... e2 $19) (1. Bg2 $143 Bxe6 2. a7 Rxa5 3. a8=Q+ Rxa8 4. Bxa8 f6 $19)
+(1. Ra1 $143 e2 $1 2. a7 Bd5 3. a8=Q+ (3. exf7 $144 Bxf7+ 4. Kxg5 Bd5 5. Rxa4
+e1=Q $19) (3. e7 $144 e1=Q $19) 3... Bxa8 4. exf7 (4. Rxa4 $144 e1=Q $19) 4...
+Rf4 $19) (1. Rf1 $143 Bxe6 $19) (1. exf7 $143 Bxf7+ 2. Kxg5 e2 $19) 1... Rxa5 (
+1... Bd5 $144 {<main>} 2. Bg2 $1 Bxg2 3. e7 (3. b4 $143 fxe6 $19) (3. exf7 $143
+Rf4 $19) (3. Rf1 $143 e2 $19) 3... Re4 4. a8=Q#) 2. Ra1 $1 (2. e7 $143 Ba4 3.
+Ra1 (3. Rf1 $144 Be8 $19) (3. Bg2 $144 f6 $19) 3... d1=Q 4. e8=Q+ (4. Rxd1 $144
+f6 5. a8=Q+ Rxa8 6. Rxd3 Be8#) 4... Bxe8 5. a8=Q (5. Rxa5 $144 f6#) (5. Rxd1
+$143 f6#) 5... Rxa8 6. Rxa8 Qa4 $19) 2... Rxa1 (2... Rxa7 $144 3. Rxa7 d1=Q 4.
+Ra8#) (2... Ba4 $144 3. Rxa4 $18) (2... Bd5 $144 3. Rxa5 $18) 3. e7 (3. exf7
+$143 Bxf7+ $19) 3... Ba4 4. a8=Q+ (4. Kxg5 $143 Be8 $19) (4. Bg2 $143 Be8 $19)
+4... Be8 5. Qxe8# 1-0
+
+[Event "1.p Neue Leipziger Zeitung"]
+[Site "?"]
+[Date "1931.04.05"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0034.73e1f3)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3n4/8/4P3/7p/P3PP1p/3Pbk1P/2p4P/2N1K3 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1931.??.??"]
+
+1. e7 (1. f5 $143 Bxc1 2. e7 Bf4 3. exd8=Q c1=Q#) (1. Ne2 $143 Nxe6 2. f5 Nf4
+3. Nd4+ Bxd4 4. Kd2 Nxd3 5. Kxc2 Kxe4 $19) (1. Na2 $143 Nxe6 2. f5 Nf4 $19) (1.
+Nb3 $143 Nxe6 2. Nd2+ (2. f5 $144 Nf4 $19) 2... Kxf4 3. Nb3 Nd4 $19) 1... Bxc1
+(1... Nb7 $144 2. e8=Q Bxc1 3. Qxh5+ Ke3 4. Qe2+ Kd4 (4... Kxf4 $144 5. Qxc2
+$18) 5. Qxc2 Ba3 6. Qb3 $18) (1... Nc6 $144 2. e8=Q Nd4 3. Qxh5+ Kg2 (3... Kxf4
+$144 4. Ne2+ Nxe2 5. Qf5#) 4. Qg4+ Kxh2 (4... Kh1 $144 5. Kf1 $18) 5. Kf1 $18)
+(1... Ne6 $144 2. e8=Q Nxf4 (2... Bxc1 $144 3. Qxe6 Bxf4 4. Qc4 $18) 3. Na2
+Ng2+ 4. Kf1 $18) (1... Bb6 $144 2. e8=Q $18) (1... Bxf4 $144 2. exd8=Q Bxc1 3.
+Qc7 $18) 2. exd8=R $1 (2. exd8=Q $143 Ba3 $1 3. Qc7 Bb4+ $1 4. Kf1 Bc3 5. Qxc3
+c1=Q+ 6. Qxc1 $11 {stalemate}) (2. e8=Q $143 Ke3 $1 3. Qxd8 (3. Kf1 $144 Bd2
+$19) (3. Qxh5 $144 Bd2+ 4. Kf1 c1=Q+ 5. Kg2 Ne6 6. Qf3+ Kd4 7. Qf2+ Be3 8. Qxh4
+Nxf4+ 9. Kf3 Qd1+ 10. Kg3 Qg1+ 11. Kf3 Qg2#) 3... Bd2+ 4. Kf1 c1=Q+ 5. Kg2 Ke2
+6. Qxh4 Qf1+ 7. Kg3 Qf2#) 2... Bxf4 3. Rc8 c1=Q+ 4. Rxc1 Bxc1 5. e5 $18 (5. a5
+$143 Kf4 6. a6 Be3 $11) 1-0
+
+[Event "1.p Feuille d'Avis de Lausanne"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+3140.76b2d8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3k4/P2p2P1/p1bPq3/2p5/p2P4/PpP5/1K1P1p2/R4B2 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1932.??.??"]
+
+1. Bc4 $1 Qxc4 2. Rh1 $1 (2. d5 $143 Qxd5 $1 $19) (2. d3 $143 Qf7 3. Rf1 Qxg7
+4. Rxf2 cxd4 $19) 2... Bxh1 (2... Qg8 $144 3. Rh8 Ke8 4. Rxg8+ Kf7 5. Rf8+ Kxg7
+6. Rxf2 cxd4 7. cxd4 Bd5 8. Re2 $18) (2... Ke8 $144 3. Rh8+ Kf7 4. g8=Q+ $18)
+3. d5 $1 {Plachutta} (3. d3 $143 Qf7 4. d5 Bxd5 $19) 3... Bxd5 (3... Qxd5 $144
+{<main>} 4. a8=Q+ Qxa8 5. g8=Q#) 4. g8=Q+ (4. d3 $143 Qg4 $1 $19) 4... Bxg8 5.
+a8=Q# 1-0
+
+[Event "1.p L'Italia Scacchistica#351"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+3101.66d2a7)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7q/k6p/3RN1pP/Pppp2P1/p7/4P3/2PK3P/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1932.??.??"]
+
+{L'Italia Scacchistica/10} 1. Rd7+ $1 (1. Rd8 $143 Qe5 2. Rd7+ Kb8 3. Nxc5 $11)
+(1. Rxd5 $143 a3 2. Nxc5 b4 3. Rd7+ Ka8 4. Nb3 Qc3+ 5. Kd1 Qxe3 $19) 1... Ka6 (
+1... Ka8 $144 2. Rd8+ Qxd8 3. Nxd8 a3 4. Kc1 $18) 2. Nxc5+ (2. Rd8 $143 Qe5 3.
+Nxc5+ Ka7 $1 4. Rd7+ Ka8 5. Rd8+ (5. a6 $144 Qxg5 $11) (5. Rxh7 $144 Qxg5 $11)
+5... Ka7 6. Rd7+ Ka8 $11) (2. Nc7+ $143 Kxa5 3. Nxd5 b4 4. Nf6 Qb8 5. Rxh7
+Qxh2+ 6. Kd3 b3 7. cxb3 axb3 8. Kc4 Qb8 $19) 2... Kxa5 3. Rd8 $1 (3. Ra7+ $143
+Kb6 $19) (3. Rxd5 $143 a3 $11) 3... Qb2 (3... Qa1 $144 {<main>} 4. Nb3+ (4. Rd7
+$143 Qb2 5. Nd3 $11) (4. Ra8+ $143 Kb6 5. Nb3 Qf1 6. Nd4 $19) 4... axb3 5. Ra8+
+Kb4 {<eg>} 6. Rxa1 b2 7. Rb1 Ka3 8. c3 Ka2 9. Kc2 $18) (3... Qe5 $144 {<main>}
+4. Ra8+ Kb6 (4... Kb4 $144 {<main>} 5. Nd3+ $18) 5. Nd7+ $18) (3... Qxd8 $144
+4. Nb7+ Kb4 5. Nxd8 a3 (5... Ka3 $144 6. Kc1 Ka2 7. Nc6 $18) 6. c3+ Kb3 (6...
+Kc4 $144 7. Kc2 a2 8. Kb2 a1=Q+ 9. Kxa1 Kxc3 10. h4 Kd3 (10... Kc2 $144 11. Ne6
+$18) 11. h5 $18) 7. Nc6 a2 8. Nd4+ Kb2 9. Nc2 a1=Q 10. Nxa1 Kxa1 11. h4 $18) 4.
+Ra8+ Kb6 (4... Kb4 $144 5. Nd3+ Ka3 6. Nxb2 Kxb2 7. Ra7 a3 8. Rxh7 $18) 5.
+Nxa4+ bxa4 6. Rb8+ $18 1-0
+
+[Event "1.p Le Temps#291"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+0331.41c1h4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1P6/5P2/1N1p4/1P5k/3r4/5P1b/2K5 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1933.??.??"]
+
+1. Nd4 $1 (1. f7 $143 Rf3 $19) (1. f4 $143 Bxf4+ 2. Kc2 Rd2+ 3. Kc3 Rf2 4. Kd4
+Bb8 5. Kxd5 Rxf6 $19) (1. Kc2 $143 Rf3 $19) 1... Rxd4 (1... Bf4+ $144 {<main>}
+2. Kc2 (2. Kb2 $143 Rxd4 3. Kc3 (3. f7 $144 Rxb4+ $19) 3... Rc4+ 4. Kb3 Bd6 $19
+) 2... Rd2+ (2... Rxd4 $144 3. f7 $18) 3. Kb3 (3. Kc3 $143 Rxf2 4. Nc6 Kg5 5.
+f7 Bg3 6. Kd4 Rxf7 7. b8=Q Bxb8 8. Nxb8 $11) (3. Kb1 $143 Rxd4 $19) 3... Rxf2 (
+3... Rd3+ $144 4. Ka4 $18) 4. Nf5+ (4. f7 $143 Bh2 $11) 4... Kg5 5. f7 Rf3+ {
+<eg>} 6. Ka4 Bh2 7. f8=Q Rxf5 8. b8=Q $18) (1... Rc3+ $144 2. Kb2 Rc7 (2... Rc4
+$144 3. f7 $18) 3. b8=Q Rc2+ 4. Kxc2 Bxb8 5. f7 $18) 2. f7 (2. f4 $143 Bxf4+
+$19) 2... Rc4+ $1 (2... Bf4+ $144 {<main>} 3. Kc2 (3. Kb2 $143 Rxb4+ 4. Kc3 Bd6
+$1 $19) 3... Rd2+ (3... Rxb4 $144 4. f8=Q Rc4+ 5. Kd3 $18) 4. Kb3 (4. Kc3 $143
+Rxf2 5. f8=Q Be5+ $19) 4... Rd3+ 5. Ka4 Rf3 6. f8=Q $18) (2... Rf4 $144 3. b8=Q
+Rc4+ 4. Kd1 Bxb8 5. f8=Q $18) (2... Rxb4 $144 3. f8=Q Rxb7 4. Qd8+ $18) 3. Kd1
+(3. Kb2 $143 Rxb4+ 4. Kc3 Bd6 $1 $19) (3. Kb1 $143 Rxb4+ $19) (3. Kd2 $143 Rf4
+4. b8=Q Rxf2+ 5. Ke1 Bxb8 6. Kxf2 Bd6 7. Ke3 $11) 3... Rd4+ $1 (3... Rf4 $144
+4. b8=Q Rd4+ 5. Ke2 Bxb8 6. f8=Q Re4+ 7. Kf3 Re5 8. Qxb8 $18) 4. Ke2 (4. Ke1
+$144 $18 {DUAL}) (4. Kc1 $144 {DUAL} Bd6 5. b8=Q Bxb8 6. f8=Q $18) (4. Kc2 $143
+Rf4 $19) 4... Re4+ $1 5. Kf1 (5. Kd3 $143 Rf4 6. b8=Q Rf3+ 7. Ke2 Bxb8 8. Kxf3
+Bd6 $11) (5. Kf3 $143 Rf4+ $19) (5. Kd1 $144 {DUAL} Rd4+ 6. Ke2 Re4+ 7. Kf1 $18
+) 5... Rf4 6. b8=Q $18 1-0
+
+[Event "1.p Neue Leipziger Zeitung"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck=H"]
+[Black "(+3101.44a4c4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p5N/1p1pp3/1P1q4/K1k3P1/4P2R/1P6/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1933.??.??"]
+
+1. b3+ (1. Nf6 $143 Qxb5+ 2. Ka3 Qb3#) (1. e4 $143 Qxb5+ 2. Ka3 Qa5#) (1. Rh5
+$143 Qd1+ 2. Ka3 Qa1#) 1... Kc5 (1... Kd3 $144 {<main>} 2. e4+ Kxe4 3. Nf6+ $18
+) (1... Kc3 $144 2. e4+ $18) 2. Rh5 (2. Ng5 $143 Qe5 3. b4+ (3. Rh1 $144 Qxe3
+$19) 3... Kc4 $19) (2. Nf6 $143 Qg2 $1 3. Nd7+ Kd5 4. Nxb6+ (4. Nf6+ $143 Ke5
+5. Rh6 d5 $19) 4... Ke4 5. Rh7 $11) 2... e5 3. Ng5 $1 (3. Nf6 $143 Qg2 4. Nd7+
+Kd5 5. Nxb6+ (5. Nf6+ $143 Ke6 $19) 5... Ke4 $11) 3... Qg2 (3... Qd1 $144 {
+<main>} 4. Ne4+ (4. Ne6+ $143 Kd5 5. Nf4+ Ke4 $19) 4... Kd5 5. Nc3+ $18) 

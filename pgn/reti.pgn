@@ -1,0 +1,384 @@
+[Event "2.p Kagan's Neueste Schachnachrichten#3"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+0030.31e5f2"]
+[Result "1-0"]
+[Annotator "00"]
+[SetUp "1"]
+[FEN "8/p7/8/1P2K3/P6P/5b2/5k2/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1920.??.??"]
+
+1. Kf5 $1 (1. Kf4 $143 Be2 2. Ke4 Kg3 3. Ke3 Bg4 $1 4. a5 Kxh4 5. b6 axb6 6.
+axb6 Bc8 $11) 1... Ke3 (1... Be2 $144 2. Kf4 Kg2 3. Kg5 Kf3 4. h5 Ke3 5. h6 Bd3
+6. a5 $18) 2. a5 Kd4 3. b6 (3. Kf4 $144 $1 {minor dual AC} Bd5 4. b6 axb6 5.
+axb6 Kc5 6. Ke5 $18 {main line}) 3... axb6 4. axb6 Kc5 5. Kf4 Bd5 6. Ke5 Bf3 7.
+h5 $18 1-0
+
+[Event "Deutsch Р¦sterreichische Tageszeitung"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[=0000.11h8a6"]
+[Result "1/2-1/2"]
+[Annotator "01"]
+[SetUp "1"]
+[FEN "7K/8/k1P5/7p/8/8/8/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1921.??.??"]
+
+1. Kg7 $1 h4 (1... Kb6 $144 2. Kf6 h4 3. Ke5 h3 4. Kd6 h2 5. c7 $11) 2. Kf6 $1
+Kb6 (2... h3 $144 3. Ke6 h2 4. c7 $11) 3. Ke5 $1 h3 4. Kd6 $11 1/2-1/2
+
+[Event "Deutsch Р¦sterreichische Tageszeitung {m"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[=0000.13h5a6"]
+[Result "1/2-1/2"]
+[Annotator "02"]
+[SetUp "1"]
+[FEN "8/6p1/k1P2p1p/7K/8/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1921.??.??"]
+
+1. Kg6 Kb6 (1... h5 $144 2. Kxg7 h4 3. Kxf6 $11) (1... f5 $144 2. Kxg7 f4 3.
+Kf6 f3 4. Ke7 $11) 2. Kxg7 h5 (2... f5 $144 3. Kf6 f4 4. Ke5 f3 5. Kd6 $11) 3.
+Kxf6 h4 4. Ke5 Kxc6 5. Kf4 $11 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#406 {v}"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+0400.24f5h5"]
+[Result "1-0"]
+[Annotator "03"]
+[SetUp "1"]
+[FEN "5r2/8/5p1p/5Kpk/3R4/3p4/P5P1/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1922.??.??"]
+
+1. g3 Rg8 2. Rb4 $1 g4 $1 3. Rb1 Rg5+ 4. Kxf6 Rg6+ 5. Kf7 d2 6. a4 $1 d1=Q $1
+7. Rxd1 Rf6+ 8. Kg7 Rf5 $1 (8... Rg6+ $144 9. Kh7 $18 Kg5 10. Rd5+ Kf6 11. Rd6+
+$18) 9. Rb1 Kg5 (9... Rg5+ $144 10. Kh7 Rf5 11. Rb5 $18) 10. Rb6 $1 Re5 11. Rb5
+$18 1-0
+
+[Event "Hastings and St.Leonards Post {v}"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+0031.21g2c6"]
+[Result "1-0"]
+[Annotator "04"]
+[SetUp "1"]
+[FEN "8/8/2k4b/P7/8/8/2N2PKp/8 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1922.??.??"]
+
+1. Nd4+ Kc5 2. Kh1 $3 $18 1-0
+
+[Event "Teplitz SchС†nauer Anzeiger"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+0011.02d5a3"]
+[Result "1-0"]
+[Annotator "05"]
+[SetUp "1"]
+[FEN "8/8/5N2/B1pK4/1p6/k7/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1922.??.??"]
+
+1. Ke4 $3 (1. Kc4 $143 b3 2. Ne4 b2 3. Nc3 b1=Q 4. Nxb1+ Ka4 5. Be1 $11) 1...
+b3 2. Nd5 b2 3. Nc3 Kb3 4. Kd3 c4+ 5. Kd2 $18 1-0
+
+[Event "Bohemia {v}"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+0110.01f6a2"]
+[Result "1-0"]
+[Annotator "06"]
+[SetUp "1"]
+[FEN "8/8/5K1B/8/8/1p6/k7/2R5 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1923.??.??"]
+
+1. Rc3 b2 2. Bc1 b1=Q 3. Ra3# 1-0
+
+[Event "Wiener Schachzeitung {v}"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+0101.04a3d2"]
+[Result "1-0"]
+[Annotator "07"]
+[SetUp "1"]
+[FEN "3R4/p7/3N4/8/7p/Kp6/3k3p/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1923.??.??"]
+
+1. Re8 $3 h1=Q (1... Kd1 $144 2. Ne4 Ke1 3. Ng3+ Kf2 4. Nh1+ Kg2 5. Re1 $18) 2.
+Ne4+ Kc1 3. Rc8+ Kb1 4. Nd2+ Ka1 5. Nxb3+ Kb1 6. Nd2+ Ka1 7. Rc2 $1 $18 1-0
+
+[Event "Bohemia {c} @2"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+0110.02b2d1"]
+[Result "1-0"]
+[Annotator "08"]
+[SetUp "1"]
+[FEN "8/8/8/8/5p2/6RB/1K2p3/3k4 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1923.??.??"]
+
+1. Rd3+ Ke1 2. Rf3 Kd2 (2... Kd1 $144 {main} 3. Bg4 $1 e1=Q (3... Kd2 $144 4.
+Rf2 $18) 4. Rd3# (4. Rf2+ $144 $18 {cook AK})) 3. Bf1 e1=Q (3... exf1=Q $144 4.
+Rxf1 Ke3 5. Kc2 f3 6. Re1+ (6. Kd1 $143 f2 7. Rh1 Kf3 8. Rf1 Ke3 $11) 6... Kf2
+$18) 4. Rd3# 1-0
+
+[Event "28 Rijen#220"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[=0033.20b6d7"]
+[Result "1/2-1/2"]
+[Annotator "09"]
+[SetUp "1"]
+[FEN "8/3k4/1K6/PP6/2b5/8/8/5n2 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1925.??.??"]
+
+1. Kb7 Ne3 (1... Bd5+ $144 2. Ka7 $1 $11) (1... Bxb5 $144 2. a6 $1 $11) 2. a6 (
+2. b6 $143 Nd5 3. Ka7 Nb4 $1 4. b7 Nc6+ 5. Ka8 Kc7 $19) 2... Nd5 3. a7 Nc7 4.
+a8=Q Bd5+ 5. Ka7 Nxa8 6. b6 Kc8 7. b7+ Bxb7 $11 1/2-1/2
+
+[Event "1/2.p Shakhmatny Listok#191"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "1"]
+[White "Reti=R"]
+[Black "[+0300.42c7d4"]
+[Result "1-0"]
+[Annotator "10"]
+[SetUp "1"]
+[FEN "r7/ppK2P1P/8/2P5/3k4/8/P7/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1927.??.??"]
+
+1. Kd7 $1 (1. Kd6 $143 Rh8 2. c6 bxc6 3. a4 a5 4. Ke6 Kc5 5. Ke5 Rf8 6. Ke6 Rh8
+7. Kf6 Kd6 8. Kg7 Ke7 9. Kxh8 Kxf7 $11) (1. c6 $143 bxc6 2. Kd7 Rh8 3. Kd6 c5
+$1 4. Ke6 c4 5. Kf6 c3 6. Kg7 Rxh7+ 7. Kxh7 c2 8. f8=Q c1=Q $11) 1... Rh8 2.
+Kd6 Kc4 (2... a5 $144 3. a4 $18) (2... a6 $144 3. a3 a5 4. a4 $18) (2... Ke4
+$144 3. Ke6 Kd4 4. Kf6 $18) 3. c6 bxc6 4. Ke5 $1 (4. Ke6 $143 Kc5 5. Kf6 Kd6 6.
+Kg7 Ke7 $11) 4... Kc5 5. Ke6 (5. Kf6 $143 Kd6 6. Kg7 Ke7 $11) 5... a5 6. a4 $18
+(6. Kf6 $143 Kd6 7. Kg7 Ke7 8. Kxh8 Kxf7 $11) 1-0
+
+[Event "NР±rodnРЅ Listy#15"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[=0030.21d5f7"]
+[Result "1/2-1/2"]
+[Annotator "11"]
+[SetUp "1"]
+[FEN "3b4/5k2/3P1p1P/3K4/8/8/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1928.??.??"]
+
+1. Kc6 Ba5 2. Kd5 Bc3 3. h7 $1 f5 4. d7 Ke7 5. d8=Q+ Kxd8 6. Ke6 f4 7. Kd5 f3
+8. Kc4 $11 {TEXTE A ENLEVER} 1/2-1/2
+
+[Event "NР±rodnРЅ Listy#16"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[=0030.11f8a7"]
+[Result "1/2-1/2"]
+[Annotator "12"]
+[SetUp "1"]
+[FEN "5K2/k7/4P1p1/8/8/8/4b3/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1928.??.??"]
+
+1. Ke7 $1 g5 2. Kd6 g4 3. e7 Bb5 4. Kc5 Be8 5. Kd4 g3 6. Ke3 $18 {
+Texte Р° enlever} 1/2-1/2
+
+[Event "Shakhmatny Listok#329"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[=0011.14d3b3"]
+[Result "1/2-1/2"]
+[Annotator "13"]
+[SetUp "1"]
+[FEN "8/8/B7/4p2N/5pp1/1kpK4/6P1/8 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1928.??.??"]
+
+1. Ng3 $1 (1. Bb5 $143 e4+ 2. Ke2 (2. Kxe4 $144 c2 3. Nxf4 c1=Q $19) 2... c2 3.
+Nxf4 c1=Q $19) 1... fxg3 2. Bb5 e4+ (2... c2 $144 3. Ba4+ Kxa4 4. Kxc2 $11) 3.
+Ke2 (3. Ke3 $143 Ka3 $1 (3... c2 $143 4. Ba4+ Kxa4 5. Kd2 $11)) 3... c2 4. Ba4+
+Kxa4 5. Kd2 Kb3 6. Kc1 Kc4 (6... Kc3 $144 $11) (6... e3 $144 $11) 7. Kxc2 e3 8.
+Kd1 Kd3 9. Ke1 e2 $11 1/2-1/2
+
+[Event "KС†lnische Volkszeitung {c}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+0110.02b6d7"]
+[Result "1-0"]
+[Annotator "14"]
+[SetUp "1"]
+[FEN "8/3k4/1K6/8/4BR2/4p3/4p3/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1928.??.??"]
+
+1. Bf5+ Kd8 2. Rd4+ Ke7 3. Re4+ Kd8 4. Bd7 $1 e1=Q 5. Bb5 $18 1-0
+
+[Event "1.hm Shakhmatny Listok#265 {c}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti"]
+[Black "[=0030.32h7e7]"]
+[Result "1-0"]
+[Annotator "15"]
+[SetUp "1"]
+[FEN "b7/4k2K/3p1p2/7P/4P1P1/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1928.??.??"]
+
+1. e5 dxe5 (1... Be4+ $144 2. Kg7 fxe5 (2... dxe5 $144 3. h6 Bc2 $11 {
+See main line}) 3. g5 d5 4. h6 d4 5. g6 Bxg6 6. Kxg6 d3 7. h7 d2 8. h8=Q d1=Q
+$11) (1... fxe5 $144 2. Kg7 Be4 (2... e4 $144 3. h6 e3 4. h7 e2 5. h8=Q e1=Q 6.
+Qxa8 $11) 3. h6 d5 4. g5 $11) 2. Kg7 Be4 3. h6 Bd3 4. Kg8 Ke6 5. Kg7 $11 1-0
+
+[Event "1.p Shakhmaty#330 (@2)"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+1330.43h7e8"]
+[Result "1-0"]
+[Annotator "16"]
+[SetUp "1"]
+[FEN "4kr2/5p1K/3p1Q2/1p4P1/4P3/1PP5/7b/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1928.??.??"]
+
+1. Kh6 $1 Be5 2. Kg7 $1 Bh2 (2... Bxf6+ $144 3. gxf6 $18) 3. c4 $1 (3. e5 $143
+Bxe5 4. c4 b4 $19) 3... bxc4 (3... b4 $144 4. c5 $18) 4. e5 $1 (4. bxc4 $143
+Be5 $19) 4... Bxe5 5. bxc4 Bxf6+ (5... Bh2 $144 6. c5 $18) 6. gxf6 Rh8 7. Kxh8
+Kd7 8. Kg8 $18 1-0
+
+[Event "sp.p NР±rodnРЅ Listy#49"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[=0033.30c5e7"]
+[Result "1/2-1/2"]
+[Annotator "17"]
+[SetUp "1"]
+[FEN "8/P1n1kP2/4P3/2K5/8/8/8/3b4 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1929.??.??"]
+
+1. Kb6 (1. f8=Q+ $143 Kxf8 2. Kc6 Na8 3. Kd7 Ba4+ (3... Bg4 $143 4. Kd8 Bxe6
+$11) 4. Kc8 (4. Kd8 $144 Bc6 $19) 4... Ke7 $1 5. Kb7 Kd6 $1 6. e7 Bc6+ $19)
+1... Na8+ 2. Kb7 Bf3+ 3. Kc8 (3. Kb8 $143 Bd5 4. Kc8 Bxe6+ $19) 3... Bc6 (3...
+Bg2 $144 4. f8=Q+ Kxf8 5. Kd7 $1 Bh3 6. Kd8 Bxe6 $11) 4. f8=Q+ Kxf8 5. Kd8 Kg7
+$1 6. Ke7 Kg6 $1 7. Kf8 (7. Kd6 $143 Ba4 8. Ke7 Kf5 $19) 7... Nb6 $1 8. e7 (8.
+Ke7 $143 Nc8+ 9. Kf8 Kf6 $19) 8... Nd7+ 9. Ke8 Nf6+ 10. Kd8 $1 (10. Kf8 $143
+Nh7+ 11. Kg8 Bd5+ 12. Kh8 Nf6 $19) 10... Kf7 11. e8=Q+ Nxe8 12. Kc8 Nf6 13. Kb8
+Nd7+ 14. Kc7 Ne5 15. Kb8 $11 1/2-1/2
+
+[Event "R.RР№ti: SРґmmtliche Studien#04"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[=0000.23d6g8"]
+[Result "1/2-1/2"]
+[Annotator "18"]
+[SetUp "1"]
+[FEN "6k1/p7/3K2p1/1P5p/7P/8/8/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1931.??.??"]
+
+1. Kd5 $1 (1. Kc6 $143 g5 2. Kb7 g4 $1 (2... gxh4 $143 3. Kxa7 h3 4. b6 h2 5.
+b7 h1=Q 6. b8=Q+ $11) 3. Kxa7 g3 4. b6 g2 5. b7 g1=Q+ $19) (1. Ke5 $143 Kf7 2.
+Ke4 Ke6 3. Kf4 Kf6 $19) 1... Kf7 (1... Kg7 $144 2. Ke4 $3 (2. Ke5 $143 Kf7 $19)
+(2. Ke6 $143 g5 $19) 2... Kf6 3. Kf4 Ke7 4. Ke3 $3 (4. Ke5 $143 Kf7 $19) (4.
+Ke4 $143 Ke6 $19) (4. Kg5 $143 Kf7 5. Kf4 Kf6 $19) (4. Kf3 $143 Kd6 $19) 4...
+Kd7 5. Kd3 Kc7 6. Kc4 Kd7 (6... g5 $144 7. hxg5 h4 8. g6 $11) 7. Kd3 $1 $11 (7.
+Kd5 $143 Ke7 8. Ke5 (8. Kc6 $144 g5 $19) (8. Ke4 $144 Ke6 $19) 8... Kf7 $19))
+2. Ke5 $1 Ke7 3. Kd5 $1 Kd7 (3... Kf6 $144 4. Kc6 $3 g5 5. hxg5+ $3 Kxg5 6. Kb7
+h4 7. Kxa7 h3 8. b6 h2 9. b7 h1=Q 10. b8=Q $11) (3... g5 $144 4. hxg5 $11) 4.
+Ke5 $1 (4. Kc5 $143 g5 5. hxg5 h4 $19) 4... Kc7 (4... Ke7 $144 5. Kd5 $11) 5.
+Kd5 Kb6 (5... g5 $144 6. hxg5 $11) 6. Kc4 Ka5 (6... Kb7 $144 7. Kc5 Kb8 (7...
+Kc7 $144 8. Kd5 $11) 8. Kc4 Kc8 9. Kd4 Kd8 (9... Kd7 $144 10. Ke5 $11) 10. Ke4
+Ke8 (10... Ke7 $144 11. Kd5 $11) 11. Kf4 Kf8 (11... Kf7 $144 12. Ke5 $11) (
+11... Ke7 $144 12. Ke3 $1 $11) 12. Ke4 $1 (12. Kf3 $143 Kf7 13. Ke3 Ke7 14. Kf3
+(14. Kd3 $144 Kf6 15. Ke4 g5 $19) 14... Kd6 $19) 12... Kg7 (12... Kg8 $144 13.
+Ke3 Kg7 14. Ke4 $1 $11) 13. Ke3 $1 Kf7 (13... Kf6 $144 14. Kf4 $11) 14. Kf3 $1
+$11) 7. Kc5 Ka4 8. Kc4 Ka3 9. Kc3 Ka2 10. Kc2 Ka1 11. Kc3 Kb1 12. Kb3 $11
+1/2-1/2
+
+[Event "Wiener Tageblatt"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Reti=R"]
+[Black "[+4001.01c5a2"]
+[Result "1-0"]
+[Annotator "19"]
+[SetUp "1"]
+[FEN "8/8/2Q5/2K5/4N3/6p1/k5q1/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1925.??.??"]
+
+1. Nc3+ $1 Ka1 2. Qa4+ Kb2 3. Qa2+ Kc1 4. Qb1+ Kd2 5. Qb2+ Ke1 6. Qc1+ Kf2 7.
+Nd1+ $1 Kf3 (7... Ke2 $144 8. Qb2+ Kd3 $18 {Main line}) 8. Qc3+ Ke2 (8... Kf4
+$144 9. Qf6+ Ke4 10. Qd4+ (10. Qc6+ $144 $2 Kd3 11. Qa6+ Kd2 12. Qa2+ Kd3 13.
+Nb2+ Ke4 14. Qd5+ Ke3 15. Nd1+ $18 {loss of time}) 10... Kf3 11. Qd5+ $18) 9.
+Qb2+ Kd3 (9... Kf3 $144 10. Qb7+ $18) 10. Qb3+ Kd2 11. Qa2+ Kd3 12. Nb2+ $1 Ke3
+(12... Kc3 $144 13. Na4+ $18) 13. Nc4+ Kf3 14. Ne5+ 1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Reti, Richard"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[ECO "B15"]
+[Annotator "20"]
+[PlyCount "21"]
+[EventDate "1910.??.??"]
+[EventType "tourn"]
+[EventRounds "45"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qd3 e5 6. dxe5 Qa5+ 7. Bd2 Qxe5 8.
+O-O-O Nxe4 9. Qd8+ Kxd8 10. Bg5+ Kc7 11. Bd8# 1-0
+

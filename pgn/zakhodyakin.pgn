@@ -1,0 +1,696 @@
+[Event "1.p 64#543"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0013.10d4h8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "n6k/8/8/6P1/3K4/3B4/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1931.??.??"]
+
+1. Kc5 $1 (1. Kd5 $143 Nb6+ 2. Kc6 Na4 $11) 1... Nc7 2. Kd6 Ne8+ 3. Ke7 $1 (3.
+Kd7 $143 Ng7 4. Bg6 Kg8 5. Ke7 Kh8 6. Kf7 (6. Kd6 $144 Kg8 7. Kd7 Kf8 $1 (7...
+Kh8 $143 8. Ke7 $18) 8. Kd6 Kg8 $1 9. Ke7 Kh8 $11) (6. Bf7 $144 Nf5+ 7. Kf6 Nh4
+8. Bc4 Ng6 $11) 6... Nf5 $1 7. Bxf5 $11 {stalemate}) 3... Ng7 $1 (3... Nc7 $144
+4. Kf7 Nd5 5. g6 $18) 4. Bg6 $1 Kg8 5. Bf7+ $1 Kh7 (5... Kh8 $144 6. Kf6 Kh7 7.
+Ke5 $1 Kh8 8. Kf4 Kh7 9. Kg4 Kh8 10. g6 Nh5 11. Kxh5 $18) 6. Kf6 Kh8 7. Ke5 $1
+(7. Kg6 $143 Ne6 $1 8. Bxe6 $11 {stalemate}) 7... Kh7 8. Ke4 $1 (8. Kf4 $144
+Kh8 9. Ke5 $18 {See main line 7.Re5 loss of time}) 8... Kh8 9. Kf4 Kh7 10. Kg4
+Kh8 11. g6 $1 $18 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0014.11f7d7)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2N5/3k1K2/8/B6p/n7/8/1P6/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1934.??.??"]
+
+1. Nb6+ Kc6 $1 (1... Nxb6 $144 2. Bxb6 h4 3. Kg6 h3 4. Bg1 Kc6 5. Kg5 Kb5 6.
+Kg4 Kb4 7. Kxh3 Kb3 8. Bd4 $18) 2. Nxa4 (2. Nc4 $143 Kb5 3. b3 Nc5 $11 4. Bd8
+Nxb3 5. Ne3 $11) 2... Kb5 3. Bc3 $1 Kxa4 4. Ke6 $1 h4 5. Kd5 $1 h3 (5... Kb5
+$144 6. Ke4 $18) 6. Kc4 $1 h2 7. Bb4 h1=Q 8. b3# 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0015.00c2c7)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2B5/1Nk5/1N6/8/8/8/2K5/1n6 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1981.??.??"]
+
+{Shakhmaty v SSSR/5} 1. Nc5 $1 (1. Kxb1 $143 Kxb6 2. Nd6 Kc7 $11) 1... Kxb6 2.
+Na4+ Ka5 (2... Kc7 $144 3. Ba6 Kd6 $18 (3... Na3+ $144 4. Kb2 $18)) 3. Nb2 $1
+Na3+ 4. Kb3 Nb5 (4... Nb1 $144 5. Nc4+ Kb5 6. Bf5 $18) 5. Nc4# 1-0
+
+[Event ".c Belarussia champ"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0017.10a5c7)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1n6/n1k2N2/2B5/KP6/8/8/8/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1979.??.??"]
+
+{EG#04965} 1. b6+ Kc8 (1... Kxc6 $144 2. Nd8+ $18) 2. Bb7+ $1 Kxb7 3. Nd6+ (3.
+Nd8+ $143 Kc8 4. bxa7 Nc6+ 5. Nxc6 Kb7 $11) 3... Ka8 (3... Kc6 $144 4. bxa7 $18
+) 4. b7# 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0031.10f3d5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7b/P7/3k4/8/5K2/7N/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1980.??.??"]
+
+{Shakhmaty v SSSR/10} 1. a7 Be4+ 2. Ke3 Ke5 3. Ng4+ Kf5 4. Nh6+ Ke5 5. Nf7+ Kf5
+6. Nd6+ 1-0
+
+[Event "Zemedelske Noviny"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0032.21h2h5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7N/8/7N/1p2b2k/8/2P3P1/7K/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1961.??.??"]
+
+1. N6f7 Bxg3+ $1 (1... Bxc3 $144 2. Kh3 b4 (2... Bxh8 $144 3. Nxh8 Kg5 4. Nf7+
+Kf6 5. Nd6 b4 6. Nc4 b3 7. g4 Ke6 8. g5 Kd5 9. g6 Kxc4 10. g7 b2 11. g8=Q+ Kc3
+12. Qh7 $18) 3. g4#) 2. Kxg3 b4 $1 3. Ng6 $1 Kxg6 4. Nh8+ $1 Kf5 5. cxb4 Ke4 6.
+Ng6 $1 Kd4 7. Nf4 Kc4 8. Nd3 $18 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0042.01c6f4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5B2/8/2K5/N4pN1/5k2/8/8/4b3 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1930.??.??"]
+
+{64/2} 1. Ne6+ Ke5 2. Nc5 Bxa5 3. Bg7+ Kf4 4. Kb5 $18 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0045.00b1e2)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/6B1/N7/1bn5/5N2/4k3/1K6 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1982.??.??"]
+
+{Shakhmaty v SSSR/12} 1. Nd4+ Kd2 (1... Ke3 $144 2. Nc2+ Kf4 3. Nxc4 $18) 2.
+Nab3+ Kc3 (2... Kd1 3. Bh5+ Ke1 4. Nc2+ $18) 3. Nb5+ $1 Kxb3 4. Bc2# 1-0
+
+[Event "64#558"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0106.20e3h8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4n2k/8/5nP1/7P/8/4K3/3R4/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1931.??.??"]
+
+1. h6 $1 (1. Rd8 $143 Kg7 $11) 1... Ng4+ 2. Kf4 Nxh6 3. Kg5 $1 (3. Rd8 $143 Kg7
+4. Rxe8 Kxg6 $11) 3... Ng8 (3... Kg7 $144 4. Rd7+ $18) 4. Rh2+ Kg7 5. Rh7+ Kf8
+6. Rf7# 1-0
+
+[Event "3.p Shakhmatny Listok#504 (c)"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0111.04a7a1)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/K7/2R5/8/8/3p2N1/p1p3pB/k7 w - - 0 1"]
+[PlyCount "35"]
+[EventDate "1931.??.??"]
+
+{(c): Cheron=A Les Echecs Artistiques#120 1950} 1. Ne2 $1 (1. Ne4 $143 Kb1 2.
+Rb6+ Kc1 3. Ra6 Kd1 4. Rxa2 d2 5. Nc3+ Kc1 6. Bg1 d1=Q 7. Ra1+ Kd2 8. Nxd1
+cxd1=Q 9. Rxd1+ Kxd1 $11) 1... dxe2 (1... Kb2 $144 2. Rb6+ Ka3 3. Bd6+ Ka4 4.
+Nc3+ Ka5 5. Rb5#) 2. Be5+ Kb1 3. Rb6+ Kc1 4. Bf4+ Kd1 5. Rd6+ Ke1 6. Bg3+ Kf1
+7. Rf6+ Kg1 8. Bf2+ Kf1 $1 9. Bc5+ $1 Ke1 10. Bb4+ Kd1 11. Rd6+ Kc1 12. Ba3+
+Kb1 13. Rb6+ Ka1 14. Be7 $1 (14. Bc5 $143 c1=Q 15. Bd4+ Qb2 16. Rxb2 g1=Q $1
+$19) 14... c1=Q 15. Bf6+ Qb2 16. Rxb2 g1=Q+ 17. Rb6+ Qd4 18. Bxd4# 1-0
+
+[Event "Sovyetsky Sviazist"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0113.02a4d7)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/3k4/B7/8/K1Rpn3/8/p7/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1951.??.??"]
+
+1. Bb5+ $1 (1. Rc1 $143 Nc5+ 2. Kb5 Nb3 $11) (1. Rxd4+ $143 Kc7 2. Rd1 Nc3+ $11
+3. Ka3 Nxd1 4. Kxa2) 1... Kd8 (1... Kd6 $144 2. Rc1 Nc3+ 3. Kb4 $1 Nb1 4. Rc6+
+Kd5 5. Ra6 $18) 2. Rc1 Nc3+ 3. Ka5 $1 Nb1 4. Kb6 $1 (4. Re1 $143 Kc7 $11) 4...
+a1=Q 5. Re1 d3 6. Re8# 1-0
+
+[Event ".c 64#451"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "1"]
+[White "Zakhodyakin=G"]
+[Black "(+0133.10e7g7)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7b/4K1kn/8/8/5P2/8/R7/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1930.??.??"]
+
+1. Ra6 $1 (1. Ra8 $143 Nf6 2. Rxh8 Nd5+ 3. Kd6 Nxf4 $11) (1. Rg2+ $143 Kh6 2.
+Kf7 Nf6 3. Rg6+ Kh5 4. Rxf6 Kg4 $1 5. f5 (5. Rh6 $144 Bd4 6. Rd6 Be3 $11) 5...
+Kg5 $11) 1... Kg8 (1... Nf8 $144 2. f5 $1 Nh7 (2... Kg8 $144 3. Ra8 Bg7 4. f6
+Bh6 5. f7+ $18) 3. Rg6#) 2. Ra8+ $1 (2. Rg6+ $143 Bg7 3. f5 Nf8 4. Rg3 Nh7 5.
+Rg1 Nf6 $11) 2... Kg7 3. Rxh8 $3 (3. f5 $143 Nf6 4. Rxh8 Nd5+ 5. Kd6 (5. Ke6
+$144 Nf4+ $11) 5... Ne3 $11) 3... Kxh8 4. Kf7 $1 $18 1-0
+
+[Event "64#623"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0161.00b3a8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/8/b4b2/8/8/1KN5/3R4/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1933.??.??"]
+
+{64/1[%cal Rf6e7,Re7h4,Rh4e1,Re1a5,Yd6h6,Yh6h2,Yh2a2,Yd2d6]} 1. Ne4 $1 (1. Rd6
+$143 Bxc3 $11) 1... Be7 2. Rd7 Bh4 3. Rh7 Be1 4. Rh1 Ba5 5. Ra1 $18 1-0
+
+[Event "2.p 64#581 (c)"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "1"]
+[White "Zakhodyakin=G"]
+[Black "(+0170.01g1b8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "bk6/6R1/8/6Bp/8/8/8/4b1K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1932.??.??"]
+
+{(c): Keith=D The Problemist=4 7/2009} 1. Bf4+ (1. Rg8+ $143 Kb7 $11) (1. Kf1
+$143 Bg3 $1 $11) 1... Kc8 2. Kf1 (2. Rg8+ $143 Kb7 3. Kf1 Bc3 $11) 2... Bh4 $1
+(2... Bb4 $144 3. Rg8+ Kb7 4. Rb8+ $18) (2... Ba5 $144 3. Ra7 $18) (2... Bc3
+$144 3. Rc7+ $18) 3. Rg8+ Kb7 4. Be5 $1 Ka7 5. Bd4+ Kb7 6. Ke2 $1 (6. Be5 $144
+{loss fo time see main line 4.Fe5.}) 6... Be7 7. Rg7 $18 1-0
+
+[Event "Shakhmaty v SSSR#101"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0302.33c2d5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/N7/2p5/3k2p1/N7/r3p1P1/P1K1P3/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1939.??.??"]
+
+{Shakhmaty v SSSR/7} 1. Nc3+ Kc4 2. Nxc6 Rxc3+ 3. Kb2 g4 4. Na5+ Kd4 (4... Kb4
+$144 5. a3+ Rxa3 6. Nc6+ Ka4 7. Nd4 $18) 5. Nb3+ Kc4 6. Nc5 $1 Kd4 (6... Kb4
+$144 7. Na6+ Kc4 8. Nc7 $1 $18) 7. Ne6+ Kc4 8. Nc7 (8. Nc5 $144 $18 {loss of
+time}) 8... Kd4 (8... Kb4 $144 9. Nd5+ $18) 9. Nb5+ $18 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0310.11a3f5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p4r/1P6/1B3k2/8/K7/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1934.??.??"]
+
+1. b7 Rh3+ (1... Rh8 $144 2. Bd7+ Ke5 3. Bc8 $18) 2. Ka2 $1 (2. Kb2 $143 Rh8 3.
+Bd7+ Ke5 4. Bc8 Rh6 $11) (2. Ka4 $143 Rh8 3. Bd7+ Ke5 4. Bc8 Rh1 $1 $11) 2...
+Rh2+ 3. Ka1 $1 Rh1+ 4. Bf1 $3 Rh8 (4... Rxf1+ $144 5. Kb2 $1 Rf2+ 6. Kc3 Rf3+
+7. Kc4 Rf4+ 8. Kc5 Ke6 9. b8=Q $18 {#46}) 5. Bh3+ Ke5 6. Bc8 Rh1+ 7. Ka2 $1 (7.
+Kb2 $143 Rh6 $11) 7... Rh2+ 8. Ka3 $1 $18 1-0
+
+[Event "1/2.p 64 (c)"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0310.32g1c6)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7r/2P1B1Pp/2k5/6P1/8/8/2p5/6K1 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1937.??.??"]
+
+{(c): Cheron=A Journal de Geneve=108 9-5-1950} 1. gxh8=Q c1=Q+ 2. Kg2 $1 (2.
+Kh2 $143 Qd2+ 3. Kh3 Qe3+ 4. Kg4 Qe4+ $11) (2. Kf2 $143 Qf4+ 3. Ke2 Qe4+ 4. Kd2
+Qf4+ $1 5. Kd3 Qf3+ 6. Kd4 Qf4+ $11) 2... Qd2+ 3. Kf3 $1 Qd3+ 4. Kf4 Qf1+ 5.
+Kg4 $1 Qg2+ (5... h5+ $144 6. gxh6 Qg2+ 7. Kh5 $18) 6. Kf5 Qf3+ 7. Ke6 Qd5+ 8.
+Kf6 Qd4+ 9. Kf7 Qxh8 10. Bd8 Kd7 11. c8=Q+ $3 Kxc8 12. Bf6 h6 13. g6 $18 1-0
+
+[Event "Shakhmaty v SSSR#580"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0320.10a5a8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "kr6/8/8/K4B2/8/2P5/8/4B3 b - - 0 1"]
+[PlyCount "6"]
+[EventDate "1932.??.??"]
+
+1... Re8 2. Bg3 $1 Re3 3. Bf4 Rxc3 4. Kb4 $18 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0500.01e2g4)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r6/8/8/8/6k1/1R6/pR2K3/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1983.??.??"]
+
+{Shakhmaty v SSSR/3} 1. Rb4+ Kf5 (1... Kg3 $144 2. R2b3+ Kg2 3. Rg4+ Kh2 4.
+Rh4+ Kg2 5. Rxb8 Kg3 6. Rbb4 a1=Q 7. Rbg4#) 2. Rb5+ Ke6 3. Rb6+ Ke7 4. Rb7+ Ke6
+5. R2b6+ Kd5 6. Rd7+ Kc5 7. Ra6 $18 1-0
+
+[Event ".c Chervoni Girnik"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+1600.00f5h6)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r1r1/8/7k/5K2/8/5Q2/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1978.??.??"]
+
+{EG#04098} 1. Qf4+ Kh7 2. Qh4+ Kg7 3. Qg5+ Kh7 4. Qh5+ Kg7 5. Qg6+ Kf8 (5...
+Kh8 6. Qh6#) 6. Qf6# 1-0
+
+[Event ".c Shakhmatny Listok#472"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+4001.02h6g8)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/8/7K/8/1Q4p1/3N1p2/8/3q4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1930.??.??"]
+
+1. Qe7 Qd2+ 2. Nf4 $1 Qh2+ $1 (2... Qxf4+ $144 3. Kg6 $18) 3. Nh3 $1 Qd2+ (3...
+Qxh3+ $144 4. Kg6 $18) 4. Ng5 Qh2+ 5. Kg6 Qc2+ 6. Ne4 $18 1-0
+
+[Event "ThРёmes 64#2895 (c)"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+4040.11b8d6)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1K6/4b2p/2Bk4/8/4P3/7q/2Q5/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1975.??.??"]
+
+{Themes 64/4-6 (c): Zakhodyakin=G Themes 64=81 1-3/1976} 1. Bd7 $1 Qxd7 (1...
+Qa3 $144 2. Qc7#) 2. Qd1+ $1 Ke6 (2... Kc6 $144 3. Qa4+ Kd6 4. e5+ Ke6 5. Qg4+
+$18) 3. Qg4+ Kd6 4. e5+ Kc6 5. Qa4+ $18 1-0
+
+[Event "Shakhmaty v SSSR#160"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+4040.13g2h6)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "b7/4QBqP/1p5k/6p1/4p3/8/6K1/8 w - - 0 1"]
+[PlyCount "53"]
+[EventDate "1940.??.??"]
+
+{Shakhmaty v SSSR/7} 1. h8=Q+ Qxh8 2. Qd6+ Kg7 3. Qd4+ Kh7 4. Bg6+ Kg8 5. Qc4+
+(5. Bf7+ $144 Kh7 $18 {loss of time}) 5... Kg7 6. Qc3+ Kg8 7. Qb3+ Kg7 8. Qb2+
+Kg8 9. Qa2+ Kg7 10. Qa1+ Kg8 11. Qxa8+ Kg7 12. Qa1+ Kg8 13. Qa2+ Kg7 14. Qb2+
+Kg8 15. Qb3+ Kg7 16. Qc3+ Kg8 17. Qc4+ Kg7 18. Qd4+ Kg8 19. Bf7+ $1 Kh7 20.
+Qxe4+ Kg7 21. Qe5+ Kh7 22. Bg6+ $1 Kg8 23. Qe6+ Kg7 24. Qf7+ Kh6 25. Bc2 $1 (
+25. Bd3 $143 Qb2+ $11) 25... Qg7 26. Qe6+ Kh5 27. Qh3# 1-0
+
+[Event "64#403"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0040.11h2e2)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2P5/8/8/6b1/8/3pk2K/7B w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1929.??.??"]
+
+1. Bd5 $1 (1. Kg3 $143 d1=Q 2. Bf3+ Bxf3 3. c8=Q Qd6+ 4. Kh4 Qh6+ 5. Kg3 Qg5+
+6. Kh3 Kf2 7. Qc2+ Be2 $18) 1... d1=Q 2. c8=Q Bxc8 3. Bf3+ Kxf3 $11 1/2-1/2
+
+[Event "5.hm 64#014"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0046.10e4a1)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "b7/4P3/8/3n3n/4K3/8/8/k3B3 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1970.??.??"]
+
+{EG#01620} 1. e8=N $1 Nc7+ 2. Kf5 Nxe8 3. Bc3+ Ka2 4. Be5 Nhg7+ (4... Kb3 $144
+5. Kg6 Bf3 6. Kf7 Bc6 7. Kg6 $11) 5. Kg6 Ne6 6. Kf7 N6c7 7. Ke7 $1 Bc6 8. Bxc7
+Nxc7 9. Kd6 $11 1/2-1/2
+
+[Event "Chess Life & Review#0490"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0046.20c4a7)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1b3B2/k7/P7/3P1n2/2K5/8/n7/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1972.??.??"]
+
+{Chess Life & Review/4} 1. Ba3 Bf4 2. d6 $1 Nxd6+ (2... Ng7 $144 3. d7 Ne6 4.
+Be7 $1 Bc7 5. Ba3 Bf4 6. Be7 $11) 3. Kb3 Nc1+ 4. Kc2 Ne2 5. Kd3 Ng3 6. Bc5+
+Kxa6 7. Be3 Be5 8. Bd4 Bf4 9. Be3 1/2-1/2
+
+[Event "4.p Lelo"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0050.11a6a4)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2BB4/8/KP6/8/k7/6b1/6p1/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1951.??.??"]
+
+1. Bd7+ $1 Kb3 $1 2. Be6+ Kc2 3. Bf5+ Kd1 (3... Kc3 $144 4. Bf6+ Kc4 5. Be6+
+Kc5 6. Be7+ Kc6 7. Bd7+ $1 Kd5 8. Be6+ $1 Kxe6 9. Bc5 $11) 4. Bg4+ $1 Ke1 (4...
+Kd2 $144 5. Bg5+ Kd3 6. Bf5+ Kd4 7. Bf6+ Kd5 8. Be6+ Ke4 9. Bf5+ $11) 5. b7 $1
+g1=Q 6. Ba5+ Kf1 7. Bh3+ $1 Ke2 8. Bg4+ Kd3 9. Bf5+ Kc4 10. Be6+ $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR#48"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0050.53g2g7)"]
+[Result "1/2-1/2"]
+[Annotator "forteresse"]
+[SetUp "1"]
+[FEN "8/2p1p1k1/b7/2PP4/7B/1p1PP3/5PK1/5B2 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1949.??.??"]
+
+{Shakhmaty v SSSR/5} 1. Bg3 $1 Kf6 2. Be5+ $1 Kxe5 3. d4+ Ke4 $1 4. Bxa6 b2 $1
+5. d6 $1 exd6 $1 6. Bb7+ $1 d5 $1 (6... Kf5 $144 7. f3 $1 b1=Q 8. Be4+ $11) 7.
+Bc6 $1 b1=Q 8. Be8 $1 Kf5 9. Bd7+ $1 Kf6 10. c6 $1 $11 {[%csl Yd8,Ye7,Yf7,Yf8]}
+1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0100.22e7a6)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p2K3/k7/1R6/8/1P2P3/p7/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1982.??.??"]
+
+{Shakhmaty v SSSR/4} 1. Rb4 b5 2. Rd4 $1 a1=Q 3. b4 $1 Qc3 4. Rd6+ Kb7 5. Rd7+
+Kc6 6. Rd6+ $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR#05 (c)"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0103.02c5a8)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k7/8/8/p1KR4/8/8/1p2n3/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1965.??.??"]
+
+{Shakhmaty v SSSR/2 (c): Zakhodyakin=G Shakhmaty v SSSR/6 1965} 1. Kc4 Nd4 $1
+2. Rxa5+ Kb7 3. Ra4 $1 Nc6 4. Ra3 $1 Nd4 5. Ra4 Nc2 6. Ra5 Na3+ 7. Rxa3 $11
+1/2-1/2
+
+[Event "3.p Duras MT UV CSTV"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0104.02d4e2)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/n7/8/3K2R1/5p2/N3kp2/8 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "1959.??.??"]
+
+1. Nc3+ Ke1 2. Re4+ Kd2 $1 3. Re3 f1=Q 4. Ne4+ Kd1 5. Rd3+ Kc2 6. Rc3+ Kb2 7.
+Rb3+ $1 Ka2 (7... Kxb3 $144 8. Nd2+ $11) 8. Rb1 $1 Qh3 9. Nc3+ Ka3 10. Nb5+ Ka4
+11. Nc3+ Ka3 $11 (11... Ka5 $143 12. Rb5#) 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0116.01f3f8)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5k2/8/8/8/2n1R3/1n3K2/p4B2/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1981.??.??"]
+
+{Shakhmaty v SSSR/6} 1. Re1 Ncd2+ 2. Kg4 $1 Nb1 3. Bg3 $1 a1=Q 4. Bd6+ Kf7 5.
+Re7+ Kg6 6. Re6+ Kf7 7. Re7+ Kf6 8. Be5+ $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR#08 (c)"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0140.01g4g1)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "B7/6R1/1b6/8/6K1/8/p7/6k1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1952.??.??"]
+
+{Shakhmaty v SSSR/6 (c): Shakhmaty v SSSR/11 1952} 1. Kh3+ Kf1 2. Bg2+ (2. Rf7+
+$143 Bf2 3. Bg2+ Kg1 $19) 2... Ke2 (2... Ke1 $144 3. Re7+ Kd2 4. Rd7+ $11) 3.
+Bf3+ (3. Re7+ $143 Be3 $19 4. Bf1+ Kxf1 5. Rxe3 a1=Q $19) 3... Kd3 (3... Kd2
+$144 4. Rd7+ Ke3 5. Rd1 $11) (3... Kxf3 $144 4. Rg3+ Kf4 5. Ra3 $11) 4. Be4+ (
+4. Rd7+ $143 Bd4 $19) 4... Kc4 5. Bd5+ Kxd5 6. Rd7+ Kc4 7. Rd1 $11 1/2-1/2
+
+[Event ".c Spartak"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0323.11g7a6)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6K1/k2BB3/8/6n1/2Pp4/5r2/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1962.??.??"]
+
+1. Bc4+ Kb6 2. Bxd3 Rd2 3. Bf5 Ne3 4. Bf4 Nxf5+ 5. Kf6 Rd5 6. c4 Ra5 7. c5+ $1
+Rxc5 8. Be5 $11 1/2-1/2
+
+[Event "Chess Life & Review#0501"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0340.30b1b8)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1k6/8/1P6/1P6/b7/rP1B4/8/1K6 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1972.??.??"]
+
+{Chess Life & Review/5} 1. Bc4 Bxb5 $1 2. Kb2 $1 (2. Bxb5 $143 Rxb3+ $19) 2...
+Ra5 3. b4 $1 Ra4 $1 4. Kb3 (4. Bxb5 $143 Rxb4+ $19) 4... Be8 5. Bf7 $1 Bd7 6.
+Be6 $1 Bc6 7. Bd5 $1 Bb5 8. Bc4 $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR#585"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0341.10h5h8)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7k/1B1r4/2N5/3P3K/4b3/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1932.??.??"]
+
+1. Bc8 (1. Ba6 $143 Rxd5+ 2. Kh4 Rd6 $19) 1... Rxd5+ 2. Kg4 $1 Rc5 $1 3. Nd8 $3
+(3. Ne7 $143 Rc7 $19) (3. Na7 $143 Rc7 $19) 3... Rxc8 4. Nf7+ Kg7 (4... Kh7
+$144 5. Ng5+ $11) (4... Kg8 $144 5. Nd6 $11) 5. Nd6 $11 1/2-1/2
+
+[Event "2.c Loshinksy MT 64 Shakhmatnoye Obozre"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0344.20e3h7)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "n5N1/6Pk/8/3P3B/8/4K3/4b1r1/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1982.??.??"]
+
+{EG#05085} 1. d6 $1 (1. Ne7 $143 Bxh5 2. g8=Q+ Rxg8 3. Nxg8 Kxg8 $19) 1... Nb6
+$1 2. Nf6+ Kxg7 3. d7 Nxd7 4. Bf3 $1 Bxf3 5. Kxf3 Rd2 6. Ke3 Rd1 (6... Rd6 $144
+7. Ne8+ $11) 7. Ke2 Rd4 8. Ke3 $11 1/2-1/2
+
+[Event "3.p Tschigorin MT Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0400.23d8g7)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3K4/3Rp1k1/7p/1r6/7P/6P1/2p5/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1949.??.??"]
+
+{Shakhmaty v SSSR/3 1950} 1. Rc7 $1 (1. Rxe7+ $143 Kf6 2. Rc7 Rb8+ 3. Kd7 Rb7
+4. Rxb7 c1=Q $19) 1... Rb8+ 2. Kxe7 Rb7 $1 3. Rxb7 c1=Q 4. Ke6+ $1 Kg6 (4...
+Kf8 $144 5. Rb8+ Kg7 6. Rb7+ Kg6 $11 {loss of time}) 5. h5+ $1 Kxh5 (5... Kg5
+$144 6. Rg7+ Kxh5 7. Ke7 $11) 6. Rg7 $1 Qf1 7. Ke7 $1 Qf5 8. Rg8 Qh7+ 9. Kf8
+Qd7 10. Rg7 Qe6 11. Rg8 Qd6+ (11... Qf6+ $144 12. Ke8 $11) (11... Qf5+ $144 12.
+Ke7 $11) 12. Kf7 $1 $11 (12. Ke8 $143 Qf6 13. g4+ Kh4 $19) 1/2-1/2
+
+[Event "3.p ThРёmes 64#3443"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0401.01a2c2)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/7r/RN6/8/8/K1k4p/8 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "1978.??.??"]
+
+{Themes 64/1-3 1979 EG#08181} 1. Na3+ $1 Kd2 2. Rd5+ Ke2 $1 3. Re5+ Kf2 4. Rf5+
+Kg2 (4... Kg1 $144 5. Rb5 $11) 5. Rb5 $1 (5. Rg5+ $143 Kh3 $19) 5... h1=Q 6.
+Rb1 $1 Qh5 7. Rb2+ Kf3 8. Rb3+ Ke4 9. Rb4+ $11 Ke5 10. Rb5+ Ke4 11. Rxh5 Rxh5
+$11 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0700.11f4e8)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3rk3/3p4/2R5/3P4/5K2/4r3/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1985.??.??"]
+
+{Shakhmaty v SSSR/7} 1. Rh6 $1 Rd3 2. Ke4 Rd2 3. Rh8+ Ke7 4. d6+ Rxd6 5. Rh7+
+Ke8 6. Rh8+ Ke7 7. Rh7+ Ke6 8. Rh6+ Ke7 9. Rh7+ $11 1/2-1/2
+
+[Event "2.p Lelo"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=3041.10a2a4)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2N5/8/4P3/6B1/k7/8/K2b4/6q1 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1962.??.??"]
+
+1. e7 Qe1 2. Be3 Qxe3 3. Nb6+ Kb5 4. Nd5 Qa7+ 5. Kb1 Qg1+ 6. Ka2 (6. Kb2 $143
+Qc1+ 7. Ka2 (7. Kb3 $144 Qb1+ 8. Ka3 Bc1#) 7... Qc2+ 8. Ka1 Bc3+ $19) (6. Kc2
+$143 Qc1+ 7. Kd3 Qc4+ $1 8. Kxd2 Qxd5+ $19) 6... Qg8 7. e8=Q+ Qxe8 8. Nc7+ $11
+1/2-1/2
+
+[Event "1.p Shakhmatny Listok#474"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0014.22a2h8)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5B1k/7p/6P1/4NnP1/8/8/K4p2/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1930.??.??"]
+
+1. g7+ $1 Nxg7 (1... Kg8 $144 2. Ng4 Nxg7 3. Nxf2 Kxf8 $11) 2. Nf7+ (2. Bc5
+$143 f1=Q $19) 2... Kg8 3. Bc5 $1 f1=Q 4. Nh6+ Kh8 5. Bd6 $11 (5. Bd6 $1 {Par
+exemple :} Qg2+ (5... Ne8 $144 6. Be5+ Ng7 7. Bf6 $11) (5... Qa6+ $144 6. Kb1
+Qxd6 7. Nf7+ $11) 6. Ka1 (6. Kb1 $144 Qxg5 7. Nf7+ $11) 6... Qd5 7. Kb1 $8 (7.
+Be5 $143 Qxe5+ $19) (7. Ba3 $143 Ne6 8. Bb2+ Nd4 $19)) 1/2-1/2
+
