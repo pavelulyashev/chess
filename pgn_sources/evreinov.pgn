@@ -1,0 +1,1784 @@
+[Event ".c ts23"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0410.25e7g5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4K2p/6pr/5pk1/1pB2R2/p4PP1/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rg4+ fxg4 (1... Kh5) 2. f4+ Kh5 (2... Kf5 3. Bd3#) 3. Kf8 g5 4. Bf7+ Rg6 5.
+f5 a2 6. fxg6 a1=Q 7. g7+ Kh6 8. g8=N# 1-0
+
+[Event "2.p ts23#39"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0304.11g6e8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4k1r1/6p1/2P3K1/8/2N5/8/5n2/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1957.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kh7 $1 (1. c7 $2 Kd7 2. Kh7 Re8 3. c8=Q+ Rxc8 4. Nb6+ Ke6 $1 5. Nxc8 g5 6.
+Nb6 Ke5 7. Nc4+ Kf4 8. Na3 Ke4 $1 9. Nb1 (9. Nc4 g4 10. Nd6+ Kf4) (9. Nb5 g4
+10. Nc3+ Kf4) (9. Nc2 Nd3 $1) 9... g4 10. Nd2+ Kf4 11. Nf1 Nd1) 1... Rf8 2. c7
+Ke7 (2... Kf7 3. Nd6+ Kf6 4. Ne8+ Rxe8 5. c8=Q Rxc8) (2... Kd7 3. Kxg7 Rf4 (
+3... Re8 4. c8=Q+) 4. Nb6+ Kxc7 5. Nd5+) 3. Kxg7 Ne4 (3... Rc8 4. Nb6 Rxc7 5.
+Nd5+) 4. Nb6 Rf7+ (4... Nd6 5. Nd5+ Ke8 6. Nf6+) 5. Kg6 $1 (5. Kh6 $2 Nd6 6.
+c8=Q Nxc8 7. Nxc8+ Kd8) 5... Nd6 6. c8=Q Nxc8 7. Nxc8+ Ke6 8. Nd6 $1 1/2-1/2
+
+[Event "ts23#22 @1"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0031.44f7h7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5bN1/2p2Kpk/5p2/3PP3/6PP/3p4/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1958.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d6 (1. g5 $1 fxg5 2. hxg5 Bb4 3. Nf6+ Kh8 4. Ne4 d2 5. Nxd2 Bxd2 6. g6) 1...
+cxd6 (1... Bxd6 2. exd6 d2 3. dxc7 d1=Q 4. Nxf6+ gxf6 5. c8=Q) 2. g5 $1 fxg5 3.
+hxg5 Be7 (3... g6 4. Nf6+ Kh8 5. Ne4) 4. g6+ Kh8 5. Nh6 $1 Bg5 6. e6 d2 7. e7
+Bxe7 8. Kxe7 d1=Q 9. Kf8 Qf3+ 10. Nf7+ Qxf7+ 11. gxf7 1-0
+
+[Event ".c tm04#0349"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0040.33g5e7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4k3/8/3p1PKp/8/1p1P2bB/6P1/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f6+ (1. d4 $2 Bh4+ 2. Kxh4 Kf6 $1) 1... Kf7 2. d4 $1 (2. Bf5 $2 Bh4+ $1 3.
+Kxh4 (3. Kf4 Bxf6 4. d4 Bg5+) 3... Kxf6 4. Bh7 Ke5 5. d4+ Kxd4 6. Kxh5 Kc3 7.
+g4 d4 8. g5 b2 $1 9. Bb1 d3 10. g6 d2 11. g7 d1=Q+) 2... Bh4+ $1 3. Kxh5 $1 (3.
+Kxh4 $2 Kxf6 4. g4 hxg4 $1 (4... b2 $2 5. g5+ Kg6 6. Bf1 $1 b1=Q 7. Bd3+ Qxd3)
+5. Bf1 Kf5 6. Kg3 Ke4 7. Bb5 b2 8. Be8 Kf5 $1) 3... Kxf6 4. g4 $1 b2 5. g5+
+Bxg5 6. Bf5 $1 Kxf5 1/2-1/2
+
+[Event ".c tm04#0366"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=3101.22e1f3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6q1/6P1/8/8/5pNp/5kP1/8/4K2R w K - 0 1"]
+[PlyCount "15"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. O-O+ $1 Kxg4 (1... Kxg3 $2 2. Nh6 $1 Qxg7 3. Nf5+) 2. Rxf4+ Kxg3 (2... Kg5
+3. Rxh4) 3. Rf2 h3 4. Rg2+ $1 Kf4 (4... hxg2) 5. Rg6 Kf5 6. Rg3 Kf4 7. Rg6 h2+
+8. Kh1 1/2-1/2
+
+[Event "1.p md01 tu04"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0610.33e5g4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/3B2P1/4K2p/6k1/4pr1p/5P1P/6r1 w - - 0 1"]
+[PlyCount "28"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g7 Rf5+ 2. Ke4 Rg5 3. f3+ Kh4 4. g8=Q $1 Rxg8 5. Be7+ R8g5 6. Kxe3 $1 Re1+
+7. Kf4 Ree5 8. Bd8 Ref5+ 9. Ke4 Rf7 10. Ke3 Rd7 11. Bf6 Rdg7 12. Bd8 Rg8 13.
+Be7 Re8 14. Kf4 Rxe7 1/2-1/2
+
+[Event "1.p tl10#2961"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0404.00f1f4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4n3/8/4R3/5k2/8/3N2r1/5K2 w - - 0 1"]
+[PlyCount "49"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Re4+ Kg3 2. Re3+ Kh2 3. Nf3+ Kh1 4. Re5 $1 (4. Rxe7 $2 Rf2+ 5. Kxf2) 4...
+Nf5 5. Rxf5 Rf2+ 6. Ke1 Rf1+ $1 7. Ke2 Rf2+ 8. Ke3 Ra2 9. Rg5 (9. Rh5+ $2 Kg2
+10. Rh2+ Kf1 11. Rxa2) 9... Ra3+ 10. Kf4 Ra4+ 11. Kg3 Ra5 $1 12. Rg4 (12. Rxa5
+$2) 12... Ra4 13. Nd4 Ra2 (13... Ra8 14. Kf2 Rf8+ 15. Nf3) 14. Re4 Rg2+ 15. Kf3
+Ra2 (15... Kg1 16. Ne2+ Kh1 17. Ng3+) 16. Re8 Rb2 17. Ra8 Rd2 18. Ne2 Rd3+ 19.
+Kf2 Kh2 (19... Rh3 20. Ng3+ Kh2 21. Nf1+ Kh1 22. Ra1) 20. Nf4 Rd2+ 21. Kf3 Kh1
+22. Rh8+ Rh2 23. Nh3 Ra2 24. Nf2+ Kg1 25. Rh1# 1-0
+
+[Event "1.p ts25"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+3140.33f3h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6bk/7p/2q1PP2/2Pp4/p2R4/5K2/8/B7 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Re4 $1 (1. f7 $2 Bxf7 2. Rg4+ d4+ 3. Kf2 Qxc5 4. Bxd4+ Qxd4+ 5. Rxd4 Bxe6)
+1... dxe4+ 2. Kg2 $1 e3+ 3. Kg1 $1 Bf7 4. exf7 Qxc5 5. f8=Q+ Qxf8 6. f7+ Qg7+
+7. Kh2 $3 Qxa1 8. f8=Q# 1-0
+
+[Event "2.c ts23#06 {c}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0310.53c4h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "B6k/p1p3p1/2P2P2/4r1P1/2K5/P3P3/8/8 w - - 0 1"]
+[PlyCount "41"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 Rf5 2. g6 a5 $1 3. e4 a4 $1 4. e5 Rf3 (4... Rf4+ 5. Kb5) 5. Kb5 (5. e6 $2
+Rf5) (5. Kd5 $2 Rf5 6. f8=Q+ Rxf8 7. Ke6 Re8+ 8. Kd7 Rxe5 9. Kxc7 Re3 10. Kd6
+Rd3+ 11. Ke5 Rxa3) 5... Rb3+ 6. Ka6 Rb6+ 7. Ka7 Ra6+ 8. Kb7 $1 Ra7+ 9. Kc8
+Rxa8+ 10. Kd7 Rd8+ 11. Ke7 Ra8 12. f8=Q+ (12. e6 $2 Rf8 $1) 12... Rxf8 13. Kd7
+Rf3 14. e6 (14. Kxc7 $2 Kg8) 14... Rxa3 15. Kxc7 (15. e7 $2 Re3) 15... Re3 16.
+Kd7 (16. Kd6 $2 Rd3+ 17. Kc5 Rd8 18. Kb4 Ra8 19. Ka3 Ra7 $1) 16... Rd3+ 17. Ke8
+Rc3 18. e7 Rxc6 19. Kd7 Rxg6 20. e8=Q+ Kh7 21. Qe4 1-0
+
+[Event "2.hm tp21#101"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0044.23h8f6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5B1K/8/5kpb/3PNp1p/8/8/4P3/2n5 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd7+ Kg5 2. Bxh6+ Kxh6 3. Nc5 Nxe2 4. Ne6 Nc1 5. d6 Nd3 6. d7 Ne5 7. Ng5
+Nxd7 8. Nf7# 1-0
+
+[Event "tc06#085"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0044.24d6f4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3N4/6p1/1B1K4/5pbp/3n1kp1/8/5PP1/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne6+ Nxe6 2. Kd5 $3 g3 $1 3. Be3+ Kg4 4. f3+ Kh4 5. Kxe6 $1 Bxe3 6. Kxf5 Bc1
+7. Kg6 Bf4 8. Kf5 g5 9. Ke4 $1 (9. Kg6 $2 g4) 9... Bc1 10. Kf5 Bf4 (10... g4
+11. f4) 11. Ke4 g4 12. Kxf4 gxf3 13. Kxf3 1/2-1/2
+
+[Event "tc06#103"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+4001.01d4h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6qk/8/8/6N1/3K4/2Q5/5p2/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke4+ Qg7 2. Qh3+ Kg8 3. Qb3+ Kf8 (3... Kh8 4. Qb8+ Qg8 5. Qe5+ Qg7 6. Qh2+
+Kg8 7. Qb8+ Qf8 8. Qb3+ Kh8 9. Qh3+ Kg8 (9... Kg7 10. Ne6+) 10. Qh7#) 4. Ne6+
+Ke7 5. Nxg7 f1=Q 6. Nf5+ Kd8 7. Qb8+ Kd7 8. Qb7+ Kd8 9. Qe7+ Kc8 10. Nd6+ Kb8
+11. Qb7# 1-0
+
+[Event "ts23#22"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0310.21c5f4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p5/6P1/2K2B2/5kP1/8/4r3/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g7 Re8 2. Be6 Kg3 $1 3. Kd4 $1 (3. Kc4 $2 Ra8 $1 4. Kb5 c5 $1 5. Kxc5 Ra5+
+6. Kd6 Rg5) 3... Kf4 4. Kd5 Kg5 5. Bf7 (5. Ke5 $2 Rd8 6. Ke4 c5) 5... Rd8+ (
+5... Ra8 6. Kc6 $1 Kxg4 7. Kb7 Rd8 8. Kxc7 Ra8 9. Be6+ Kg5 10. Bc8 Ra7+ 11. Bb7
+) 6. Kc6 (6. Ke6 $2 Kh6 7. g8=Q Rxg8 8. Bxg8 Kg5) 6... Ra8 7. Be6 $1 (7. Kxc7
+$2 Kh6 $1 8. g8=Q Ra7+ 9. Kd6 Ra6+) (7. Kb7 $2 Kf6 $1 8. g8=Q Rxg8 9. Bxg8 Kg5
+10. Be6 c5) 7... Re8 8. Bd5 (8. Kd7 $2 Ra8 9. Bd5 c6 $1) 8... Kf4 9. Kd7 Rb8
+10. Kxc7 Re8 11. Kd7 Rb8 12. Bf7 $1 Kg5 (12... Kxg4 13. Kc7 Ra8 14. Be6+ Kg5
+15. Bc8 Ra7+ 16. Bb7) 13. Ke7 Kh6 (13... Kxg4 14. Be8 Rb7+ 15. Bd7+) 14. g8=R
+$1 (14. g8=Q $2 Rb7+ 15. Kd6 Rb6+ 16. Kc5 Rb5+ 17. Kxb5) 1-0
+
+[Event "ts69#229"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0018.21d8h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3K3k/6Np/5nP1/3nN2B/7P/8/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf5 Nxh5 2. Nf7+ (2. g7+ $2 Kg8 $1) 2... Kg8 3. N7h6+ Kh8 (3... Kf8 4. gxh7)
+4. g7+ Nxg7 5. Nf7+ Kg8 6. N5h6+ Kf8 7. Ng5 Nf6 8. h5 Nge8 (8... Nfxh5 9. Nxh7#
+) 9. Ne6# 1-0
+
+[Event ".c tm04#0400"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0020.13h1g6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3B3p/6k1/2B5/8/7p/1p5P/7K w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be8+ Kg5 2. Be3+ (2. Be7+ $2 Kf5 3. Bd7+ Kg6 4. Be8+ Kg7) 2... Kh4 3. Bf2+
+Kg4 4. Bd7+ Kf4 5. Be3+ (5. Bg3+ $2 Kg5 6. Bh4+ Kg6) 5... Ke4 6. Bg1 h6 7. Be6
+b1=Q 8. Bf5+ Kxf5 1/2-1/2
+
+[Event "2.hm mh04"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0326.21g1a4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3B4/8/BnnP4/r3P3/k7/5p2/8/6K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e6 Nxd8 2. e7 Rg5+ 3. Kf1 Rg8 4. Bc8 Nxc8 5. e8=Q+ Rxe8 6. d7 1/2-1/2
+
+[Event "2.p ts69#287"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0000.35b6h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/6p1/1K4pp/4p3/1P4p1/6P1/6P1/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc5 Kh7 2. Kd5 $1 (2. b5 $2 e4 3. Kd4 e3 4. Kxe3 g5 5. b6 Kg6 6. b7 Kh5 7.
+b8=Q g6 8. Qh8) 2... g5 (2... e4 3. Kxe4 g5 4. Kf5) 3. Ke4 $1 Kg6 4. b5 Kh5 5.
+b6 $1 g6 6. Kd5 $1 e4 7. b7 e3 8. b8=N $1 e2 9. Nd7 e1=Q 10. Nf6# 1-0
+
+[Event "4.c ts23#26"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0431.11h1h8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7k/8/5NP1/1b6/8/3p4/2r5/5R1K w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rd1 (1. Nh5 $2 Bc6+ 2. Kg1 Rg2+) 1... d2 (1... Bc6+ 2. Kg1 Rg2+ 3. Kf1 d2 (
+3... Rxg6 4. Nh5 Rg5 5. Nf4 Rf5 6. Ke1) 4. g7+ Kxg7 5. Nh5+ Kh6 6. Nf4) 2. Kh2
+$1 Be2 (2... Bd3 3. g7+ Kxg7 4. Nh5+ Kh6 5. Nf4 Bf5 6. Kg3 Kg5 7. Ne2) 3. Rg1
+Bg4 $1 (3... Kg7 4. Ne8+ Kh6 5. g7 d1=Q 6. g8=N+) 4. g7+ $1 Kxg7 5. Nxg4 d1=Q+
+6. Nf2+ 1/2-1/2
+
+[Event "tc06#042"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0070.22b8h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1K5k/1P5p/4B2P/7b/1b6/8/7p/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc7 Ba5+ 2. Kd6 $1 (2. Kc6 $2 Bf3+) (2. Kd7 $2 Be8+) 2... Bb4+ 3. Ke5 Bc3+
+4. Kf4 $1 (4. Kf5 $2 Bg4+ 5. Kf4 Bxe6 6. b8=Q+ Bg8 7. Qc7 Bd2+ 8. Kf5 Bxh6 9.
+Qxh2 Bg7) 4... Bd2+ 5. Kf5 $1 (5. Kg3 $2 h1=N+) 5... Bg6+ 6. Ke5 Bc3+ 7. Kf4
+Bd2+ 8. Kg3 h1=N+ 9. Kf3 Bh5+ 10. Bg4 Bxg4+ 11. Kxg4 Nf2+ 12. Kf3 1-0
+
+[Event "tc06#158 @?"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0110.46f6h4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/3B3p/1p3Kp1/8/1P4pk/1Pp5/1p4PP/4R3 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bb5 $1 c2 2. Re7 h6 3. Re3 $1 c1=N (3... c1=Q 4. Rh3+ gxh3 5. g3+ Kg4 6.
+Be2#) 4. Bf1 b1=Q 5. g3+ Kh5 6. Re5+ g5 7. Bc4 Qg6+ 8. Ke7 Nd3 9. Re3 Nf4 10.
+Bf7 Nd5+ 11. Bxd5 b5 12. h3 $1 gxh3 13. Bf7 1-0
+
+[Event "tc06#158 {c}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0110.46f6h4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p2B3p/5Kp1/P7/6pk/1Pp5/1p4PP/4R3 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bb5 $1 c2 2. Re7 h6 3. Re3 $1 c1=N $1 (3... c1=Q 4. Rh3+ gxh3 5. g3+ Kg4 6.
+Be2#) 4. Bf1 b1=Q 5. g3+ Kh5 6. Re5+ g5 7. Bc4 Qg6+ 8. Ke7 Nd3 9. Re3 Nf4 10.
+Bf7 Nd5+ 11. Bxd5 a6 12. h3 $1 gxh3 13. Bf7 1-0
+
+[Event "tm04#0414"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0137.33f7h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/5Kb1/2R3p1/5p1p/6nP/3n1N2/3P2P1/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc8+ Kh7 2. Ng5+ Kh6 3. Rh8+ $1 (3. Kg8 $2 Nf6+ 4. Kf7 Ne5+) 3... Bxh8 4.
+Kg8 Nge5 5. Kxh8 f4 $1 6. Kg8 $1 Nc5 (6... Ne1 7. d4 Nxg2 8. dxe5 Nxh4 9. Nf7#)
+7. d4 Ne6 8. Nxe6 f3 9. dxe5 f2 10. Ng5 f1=Q 11. Nf7+ Qxf7+ 12. Kxf7 1-0
+
+[Event "tr11#0411"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0008.23d8g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3Kn1k1/P4N1p/6P1/5N1n/8/8/2p1p3/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. N7h6+ Kh8 2. g7+ Nexg7 3. Nf7+ Kg8 4. N5h6+ Kf8 5. Ng5 Nf6 6. a8=Q c1=Q 7.
+Nxh7+ Nxh7 8. Kd7+ Ne8 9. Qxe8+ Kg7 10. Nf5+ Kf6 11. Qe6+ Kg5 12. Qh6+ 1-0
+
+[Event "tr11#0428"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0304.30g5e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4N1PP/r3k1Kn/8/8/P7/8 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h7 Kxe6+ 2. Kh4 Ra8 3. Kxh5 Kf6 4. Kh6 Kf5 5. g7 Ra6+ 6. Kh5 Rxa2 7. Kh4 Kf4
+8. Kh3 Ra3+ 9. Kg2 Ra2+ 10. Kf1 Kf3 11. Ke1 Ke3 12. Kd1 Kd3 13. Kc1 Kc3 14. Kb1
+Rb2+ 15. Ka1 1-0
+
+[Event "ts19"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0026.11g7e1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6K1/3P1B2/3B4/8/3n2n1/7p/4k3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bh4 Kf2 2. d7 h1=Q 3. Bxh1 Nc5 4. d8=Q Ne6+ 5. Kf6 Nxd8 6. Ba8 1-0
+
+[Event "ts23#38"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+1330.00h4g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6kb/1r6/8/8/7K/8/4Q3/8 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1960.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qg2+ (1. Qg4+ $2 Rg7) (1. Qe8+ $2 Kg7 2. Qe5+ Kg8 3. Qg5+ Rg7 4. Qd8+ Kh7 5.
+Kh5 Rf7) 1... Rg7 2. Qa8+ (2. Qd5+ $2 Rf7 3. Kg5 Kg7) 2... Kh7 3. Qe4+ Kg8 (
+3... Kh6 4. Qe8 Rh7 5. Qe6+ Kg7+ 6. Kg5) 4. Qe8+ Kh7 5. Kh5 Rg1 (5... Rg8 6.
+Qe4+ Kg7 7. Qe7#) 6. Qe4+ Kg8 7. Qa8+ Kh7 8. Qa7+ Rg7 9. Qb6 $1 Rg3 (9... Rg2
+10. Qh6+ Kg8 11. Qe6+ Kg7 12. Qe5+ Kh7 13. Qe4+) 10. Qc7+ Rg7 11. Qc2+ Kg8 (
+11... Rg6 12. Qxg6#) 12. Kh6 $1 Rf7 (12... Kf7 13. Qc7+ Kf6 14. Qd8+) 13. Qc8+
+Rf8 14. Qe6+ Rf7 15. Qe8+ Rf8 16. Qg6+ Bg7+ 17. Qxg7# 1-0
+
+[Event ".hm ts69#158"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0403.43f4a6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6r1/7n/kP3Ppp/5p1P/5KP1/3R4/8/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 Rg7 2. b7 Kxb7 3. Rd7+ Kc6 4. f8=N (4. f8=Q $2 Rxd7) 4... Nxf8 5. Rxg7
+Ne6+ 6. Ke5 Nxg7 7. g5 1-0
+
+[Event "2.hm mz01"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0310.12g3h1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7r/4p3/6P1/8/8/6K1/7p/5B1k w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g7 Rg8 2. Kf2 Rxg7 3. Bc4 Rg2+ 4. Kf1 Rd2 5. Ba6 Rb2 6. Bc4 Rd2 7. Ba6 Rd1+
+8. Kf2 Rd7 9. Bc8 Rc7 10. Be6 Rc5 11. Kf1 Rb5 12. Kf2 1/2-1/2
+
+[Event "tc06#030"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0300.40h2h4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r7/8/6PP/8/6Pk/2P5/7K/8 w - - 0 1"]
+[PlyCount "39"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h7 (1. g7 $2 Ra2+ 2. Kg1 Kg3 3. Kf1 Kf3 4. Ke1 Ke3 5. Kd1 Kd3 6. Kc1 Kxc3 $1
+7. Kb1 Rb2+ 8. Ka1 Rb8 9. h7 Ra8+ 10. Kb1 Rb8+ 11. Kc1 Ra8 12. Kd1 Kd3 13. Ke1
+Ke3 14. Kf1 Kf3 15. Kg1 Kg3) 1... Ra2+ 2. Kg1 Kg3 3. Kf1 Kf3 4. Ke1 Ke3 5. Kd1
+Kd3 6. Kc1 Ra8 $1 7. Kb2 (7. g7 $2 Kxc3) 7... Rb8+ 8. Ka3 Kxc3 9. Ka4 Kc4 10.
+Ka5 Kc5 11. Ka6 Kc6 12. Ka7 Rh8 $1 13. g5 $1 (13. g7 $2 Rxh7) 13... Kc5 $1 14.
+Kb7 Kb5 (14... Kd6 15. Kb6 Rb8+ 16. Ka7 Rh8 17. Kb7 Kc5 18. Kc7 Kd5 19. Kd7 Ke5
+20. Kc6) 15. Kc7 Kc5 16. Kd7 Kd5 17. Ke7 Ke5 18. Kf7 Kf5 19. g7 $1 Rxh7 20. g6
+1-0
+
+[Event "tf01#527 @2"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0480.00g1h3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7r/4b3/B7/8/5R2/6Bk/8/6Kb w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf2 Bg2 2. Bc4 (2. Bb5 $2 Rd8) (2. Bd3 $1 Rf8 3. Rxf8 Bxf8 4. Bf5#) (2. Be2
+$2 Rg8) 2... Rh6 3. Bd3 Rh5 4. Be2 Rh4 5. Rf7 Rb4 (5... Re4 6. Bd3 Re5 7. Rxe7
+Rxe7 8. Bf5#) (5... Ra4 6. Bd1) 6. Rh7+ Bh4 7. Bd3 Rf4 8. Bf5+ Rxf5 9. Rxh4#
+1-0
+
+[Event "tm04#0448"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0010.23e6f8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/7p/4Kp1p/7B/7P/7P/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf7 (1. Kxf6 $2 Kg8 2. Bf7+ Kh8 3. Be6 h5 4. Kf7 h6 5. Bg4 Kh7 $1) 1... Kg7
+(1... h5 2. Kxf6 h6 3. Kg6) (1... f5 2. h5) 2. h5 Kf8 3. h4 f5 4. Kf6 f4 5. Bd5
+f3 6. Bxf3 Kg8 7. Bd5+ Kh8 8. Be4 Kg8 9. Bg6 $1 Kh8 $1 10. Kf7 hxg6 11. hxg6
+1-0
+
+[Event "tr11#0449"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0300.41f3d8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3k4/4p2r/5P1P/4P2P/8/5K2/8/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 $1 Rxf7+ 2. Kg4 Ke8 3. Kg5 (3. e6 $2 Rf6 $1) 3... Kf8 4. Kg6 Kg8 5. h7+
+$1 Rxh7 6. e6 (6. h6 $2 Rf7 7. e6 Rf8) 6... Rh8 (6... Rg7+ 7. Kh6 Rg1) 7. h6
+1/2-1/2
+
+[Event "ts23#06"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0431.22c1g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5bk1/4R2p/5P1P/8/1N1r4/3p4/8/2K5 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7+ Kh8 2. Re8 d2+ 3. Kd1 (3. Kb2 $2 Rxb4+ 4. Kc3 Rb3+ 5. Kc4 Rb4+) 3... Rd8
+4. Nd3 Ra8 5. Kxd2 Ra2+ 6. Ke3 Ra8 (6... Re2+ 7. Kd4) 7. Kf3 Rd8 8. Nf4 Rd3+ 9.
+Kg4 Rd8 10. Ng6+ 1-0
+
+[Event "ts23#22"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+3233.43e1h7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "q7/6pk/1P1R3p/2R2PP1/4p3/b3P1n1/8/4K3 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g6+ (1. b7 $2 Bb4+ 2. Kf2 Qa2+ 3. Kxg3 Be1+ 4. Kh3 hxg5) 1... Kh8 (1... Kg8
+2. b7 Qf8 3. Rd8 Qxd8 4. Rc8) 2. b7 Bb4+ 3. Kf2 Qa2+ $1 4. Kxg3 Qg8 5. Rd8 (5.
+Rdc6 $2 Bxc5 6. Rc8 Bd6+ 7. Kg4 Be5 8. Kh5 Bd6) 5... Qxd8 6. Rc8 Bd6+ 7. Kg4 $1
+Qg8 8. Kh5 Be5 9. f6 gxf6 10. Kxh6 f5 11. b8=Q Bxb8 12. g7# 1-0
+
+[Event "ts27#28 @1"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0413.21e1h7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r5/1RP4k/8/7P/2B5/6p1/8/3nK3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd5 (1. Bf1 $1 Nf2 $1 (1... Ne3 $2 2. Bh3 g2 3. Kf2 Rf8+ 4. Bf5+) 2. Ba6 $1
+Nd1 3. Kf1 Ne3+ 4. Kg1 Nd5 5. Rb5 Nxc7 6. Rc5 Rg8 7. Rxc7+ Kh6 8. Be2) 1... Ne3
+2. Be6 g2 3. Kf2 Rf8+ 4. Bf5+ $1 Nxf5 5. c8=R+ $1 (5. c8=Q+ $2 Ne7+ $1 6. Qxf8
+g1=Q+ 7. Kxg1) 5... Kg8 6. Rxf8+ 1-0
+
+[Event "us09"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0044.23g3g5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6n1/4B1pp/1p3Pk1/8/6K1/1P3N2/2b5 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne4+ Kh5 2. Nf6+ Kg5 3. Nh7+ Kh5 4. Kh3 Nxf5 5. Bd7 Bxb2 6. Bxb5 Nd4 7. Bd7
+Nf5 8. Ba4 Ne3 9. Bb5 Ng4 10. Be2 g5 11. Nf8 1-0
+
+[Event "1.hm tl40"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0711.02f1h1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r2/1B5r/2N5/8/8/5R2/5p1p/5K1k w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf7 (1. Rxf8 $2 Rxb7 2. Nd4 Rb1+ 3. Kxf2 Rf1+ $1 4. Kxf1) 1... Rhxf7 (1...
+Rfxf7 2. Ne7+ Rf3 3. Bxf3#) 2. Ne7+ Rf3 3. Nc8 $1 (3. Ng6 $2 R8f7 4. Bd5 R7f5
+5. Ne5 R5f4 6. Nxf3 Re4 $1 7. Bc6 Rc4 8. Bb7 Rb4) 3... R8f5 4. Be4 Rf6 5. Nd6
+R6f4 6. Bxf3+ Rxf3 7. Ne4 $1 1-0
+
+[Event "1.p tz01"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0130.23g5h1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1pp5/b7/2P3K1/8/7p/RP6/7k w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c6 h2 (1... bxc6 2. Rxa6 h2 3. Rxc6 Kg2 4. Rc2+ Kg3 5. Rc1 Kg2 6. b4) 2. b4
+Kg1 3. Rxh2 (3. b5 $2 Bxb5 4. cxb7 h1=Q 5. Ra1+ Bf1) 3... Kxh2 (3... bxc6 4.
+Rh7 Kf2 5. Rxc7 Ke3 6. Rd7 Bb5 7. Rd6 Ke4 8. Kf6) 4. b5 Kg3 5. Kf6 $1 Kf4 6.
+Ke7 Ke5 7. bxa6 $1 (7. Kd8 Kd6) 7... bxa6 8. Kd7 a5 9. Kxc7 a4 10. Kb7 a3 11.
+c7 a2 12. c8=Q a1=Q 13. Qh8+ 1-0
+
+[Event "tc06#063"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0014.03e2g1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/4B3/1p6/7p/1N2K1p1/4n1k1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd1 (1. Kxe1 $2 h2) 1... Nd3 (1... h2 2. Bd4+ Kh1 3. Nf2+ Kg1 4. Nh3+) 2.
+Kxd3 h2 3. Bd4+ Kf1 4. Ne3+ Ke1 5. Bf6 (5. Be5 $2 g1=Q) 5... h1=Q (5... g1=Q 6.
+Bh4+ Qf2 7. Bxf2+ Kxf2 8. Ng4+) (5... Kf2 6. Ng4+ Kg3 7. Be5+ Kxg4 8. Bxh2) 6.
+Bh4+ Qxh4 7. Nxg2+ 1/2-1/2
+
+[Event "ts23#21"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0004.22f7h7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3N4/5K1k/6pP/3P3p/8/8/6n1/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne6 (1. d6 $2 Ne3 2. d7 Nc4 3. Nc6 Nd6+ 4. Kf6 Nb7 5. Na5 (5. Kg5 Nc5) 5...
+Nd8 6. Ke7 h4) 1... Ne3 2. Ng5+ (2. d6 $2 Nc4 3. Ng5+ Kh8 $1) 2... Kxh6 3. d6
+Nc4 4. d7 Ne5+ 5. Kg8 Nxd7 6. Nf7# 1-0
+
+[Event "1.hm tm04#0489"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0050.02f5h5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p7/3B4/5K1k/8/3B2p1/7b/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1963.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be4 (1. Bf4 $2 Kh4 2. Be4 Kh3) 1... Kh6 2. Bf8+ Kh5 3. Bf3+ Kh4 4. Bg2 Kh5
+5. Bc5 Kh6 6. Kf6 Kh5 7. Bxa7 Kg4 8. Be3 Kh5 9. Kf5 Kh4 10. Bg5+ Kh5 11. Bf3#
+1-0
+
+[Event "3.hm wa13"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0010.03f2a1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/2B5/4pp2/8/3p1K2/k7 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1963.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke2 e3 2. Kd1 (2. Bb4 $2 f3+ 3. Kd1 f2) 2... Kb2 3. Bb4 $1 f3 4. Bxd2 f2 $1
+(4... exd2 5. Kxd2) 5. Be1 f1=R (5... f1=Q) 6. Ke2 1/2-1/2
+
+[Event "tc06#119"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0320.52b7h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rBk/1K3P1P/3p3P/2B5/2pP4/2P5/8/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1963.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ba3 $1 (1. Ba7 $2 d5 2. Ka6 Rb8 $3 3. f8=Q Rb6+ 4. Ka5 Rb5+ 5. Ka4 Rb4+ 6.
+Ka3 Rb3+ 7. Ka2 Rb2+ 8. Ka1 Rb1+ 9. Kxb1) (1. Bxd6 $2 Rb8+ 2. Kc6 Rb6+ 3. Kc5
+Rb5+ 4. Kxc4 Rb4+) 1... d5 2. Bb2 Rb8+ 3. Kc7 $1 (3. Kc6 $2 Rb6+ 4. Kc5 Rc6+)
+3... Rb7+ 4. Kd6 Rb6+ (4... Rd7+ 5. Ke5 Re7+ 6. Kf5) 5. Ke5 $1 Re6+ 6. Kxd5
+Rd6+ 7. Kxc4 Rc6+ 8. Kd3 Rxc3+ 9. Ke4 Re3+ 10. Kd5 Re5+ 11. Kc4 Rc5+ 12. dxc5#
+1-0
+
+[Event "ts23#26"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0011.22h4e3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/1B6/7K/4k1pP/1N2Pp2/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1963.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc4+ (1. Nd1+ $2 Kd2 2. Nxf2 g2) 1... Kd4 (1... Ke4 2. Bc6+) 2. e3+ Kc3 3.
+Nd2 $1 g2 4. Bf1 $1 g1=Q 5. Ne4+ Kc2 6. Ng3 $1 1/2-1/2
+
+[Event "2/4.p wk03"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0330.63h5f3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4r3/1P4pp/2P5/1p5K/6P1/1P3kP1/7P/2b5 w - - 0 1"]
+[PlyCount "24"]
+[EventDate "1964.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g5 Ba3 2. c7 Re2 3. h3 Re6 4. c8=N (4. c8=Q $2 Rh6+ 5. gxh6 g6+ 6. Kg5 Be7#)
+(4. b4 $2 Bxb4 5. c8=N Ba5) 4... Bf8 5. b8=Q g6+ 6. Kh4 Re4+ 7. g4 Bc5 8. Qg3+
+Ke2 9. Nd6 Re6 10. Ne4 (10. Nf5 $2 Bf2 11. Nd4+ Bxd4 12. b4 h6 13. gxh6 Bf2)
+10... Rxe4 11. b4 Bf2 12. Qxf2+ Kxf2 1/2-1/2
+
+[Event "tl68"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0000.44f3c5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p3p1/5pp1/P1kP3P/8/5K2/P7/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1964.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h6 gxh6 2. a4 h5 3. Kg2 (3. Kf4 $2 h4 4. Kg4 g5) 3... f5 4. Kg3 g5 5. Kg2 h4
+6. Kh3 f4 7. Kg4 Kxd5 8. a6 Kc6 9. a5 1-0
+
+[Event "3.p tl40"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0702.11h3g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/7p/5P2/4R3/4N2N/7K/4r3/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf5 (1. Rg5+ $2 Kh8 2. Nf5 h6) 1... Rxe4 (1... h6 2. Nxh6+ Kh7 3. Ng4 Kg6 4.
+Rg5+) 2. Nh6+ Kh8 3. Rg5 Re3+ 4. Kh4 Re4+ 5. Kh5 Re5 6. Rxe5 Rxf6 7. Re8+ Kg7
+8. Rg8# 1-0
+
+[Event "sp.hm wa13"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0010.22h1g3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/p7/p3B1kP/P7/7K w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bg1 $1 Kxh3 2. Bh2 1-0
+
+[Event "1.hm jm03 tm36 @3"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0013.12h4f5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6p1/7p/5k2/2B4K/8/5P1n/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1967.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kg3 Ng4 (1... g5 $1 2. Bd3+ Ke5 3. Be2 g4 4. Kxh2 Kf4) 2. Bd3+ Kg5 3. f4+
+Kh5 4. Bc4 (4. Be2 $2 g5 5. f5) 4... Nf6 5. Bf7+ g6 6. Kh3 Ne4 7. Bd5 Nf2+ 8.
+Kg3 Ng4 9. Bc4 (9. Bf3 $2 g5 10. Bxg4+ Kg6 11. f5+ Kf6 12. Kf3 h5 13. Bh3 g4+)
+1-0
+
+[Event "3.p ts23#17"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0800.34c1g7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2R5/3R1pk1/4p1p1/4P3/5P2/7p/1r3r1P/2K5 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1967.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rdd8 g5 2. f5 g4 (2... exf5 3. Rg8+ Kh7 4. Rh8+ Kg7 5. Rcg8#) 3. Rg8+ (3.
+Rh8 $2 Rbc2+ $1) 3... Kh6 4. Rxg4 Kh7 5. Rc3 (5. f6 $2 Rg2) 5... Rxh2 6. Rh4+
+Kg7 (6... Kg8 7. f6) 7. Rg3+ Kf8 8. Rh8+ Ke7 9. Rd3 (9. f6+ $2 Kd7 10. Rd3+ Kc7
+) 9... exf5 10. Rdd8 f6 11. Rhe8+ Kf7 12. e6+ Kg6 13. Rg8+ Kh6 14. e7 (14. Rd4
+$2 f4 $1 15. Rxf4 Kh5 16. Rf5+ Kh6 17. Rxf6+ Kh7) (14. Rg3 $2 Rb7 15. Rd7 Rb6
+16. e7 Re6) 14... Rbc2+ 15. Kd1 Ra2 16. Rg6+ Kh7 17. Rh8+ 1-0
+
+[Event "2.p t001#39"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0000.33h1c4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3p4/8/2pP4/2k5/4P3/3P3p/7K w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1968.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d6 (1. e4 $2 Kd4 2. d3 c4 $1 3. dxc4 Kxc4 4. Kxh2 Kd4 5. Kg3 Kxe4 6. d6 Ke5
+7. Kf3 Kxd6 8. Ke4 Kc5) (1. Kxh2 $2 Kd3 2. d6 c4 $1) 1... Kd3 2. Kg2 $1 (2.
+Kxh2 $2 c4) 2... c4 (2... h1=Q+ 3. Kxh1 c4 4. Kh2 $1 Kxd2 5. e4 c3 6. e5 c2 7.
+e6 c1=Q 8. exd7) 3. Kxh2 $1 Kxd2 4. e4 c3 5. e5 c2 6. e6 c1=Q 7. exd7 $1
+1/2-1/2
+
+[Event "3.p wu07"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0450.11d3b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1R6/1B2P3/2b4B/8/8/3K4/pr6/1k6 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1968.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e8=Q Bxe8 2. Be4 Rxb8 3. Kc3+ Ka1 4. Bg7 Rb7 5. Bh8 Rb2 6. Bc2 Ba4 7. Kd2
+Bxc2 8. Kc1 1-0
+
+[Event "9.p wa08 {tt}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0064.30h8b4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7K/5P2/4n2P/5b2/1k2N3/4b3/6P1/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1968.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd6 Bg6 2. f8=Q Nxf8 3. Kg7 Bc5 4. Nb7 Be7 5. h7 Bxh7 6. Kf7 Ng6 7. Kg7 Nf8
+8. Kf7 Ng6 9. Kg7 1/2-1/2
+
+[Event "t001#08 @3"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0431.33a4f7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1pbp1k2/2p5/2PP4/K1P2rN1/8/5R2/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1968.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d6 Rxf2 2. dxc7 Ra2+ 3. Kb4 Ra8 4. Nf2 $1 Rc8 (4... Ke6 $1 5. Ne4 d6 $1 6.
+cxd6 $1 (6. Nxd6 Kd7) 6... b5 $1 7. c5 Kd7 8. Nf6+ Kc8 9. Ng8 Kd7 10. Ne7 Ra4+
+11. Kb3 Ra8) 5. Ne4 Rxc7 6. Nd6+ Ke6 $1 7. Ka4 $1 Ke7 8. Ka5 Kd8 9. Kb6 Rc8 10.
+Kxb7 Rc7+ 11. Kb8 1-0
+
+[Event "t001#051 @2"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0040.12e3h3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/1B3b2/7p/P6p/4K2k/8/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1969.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a5 Be5 2. a6 Bb8 3. Kf3 Kh2 4. Bc7+ $1 (4. Bf2 $1 Kh1 5. Bxh4 $1 Ba7 (5...
+Kg1 6. Bg5 Kf1 7. Bf4 Ba7 8. Be3 Bb8 9. Bf2 $1 h4 10. Bxh4) 6. Bg5 $3 Bb8 7.
+Bf4 $1 Ba7 8. Be3 $1 Bb8 9. Bf2 $1 h4 (9... Kh2 10. Bg3+) 10. Bxh4) 4... Kh3 5.
+Bf4 $1 Ba7 6. Be3 Bb8 7. Bg1 1-0
+
+[Event "t001#051 {c}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0040.13e3h3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/1B3b1p/7p/P6p/4K2k/8/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1969.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a5 Be5 2. a6 $1 (2. Kf3 $2 Bc7 $1 3. Kf2 Bg3+ 4. Kf3 Bc7 5. Bxc7) 2... Bb8
+3. Kf3 $1 Kh2 4. Bc7+ Kh3 $1 5. Bf4 $3 (5. Bxb8 $2) 5... Ba7 6. Be3 $1 Bb8 7.
+Bg1 $3 1-0
+
+[Event "t001#079"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0100.42h1f6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7R/5k2/p7/P5P1/8/3P1pP1/7K w - - 0 1"]
+[PlyCount "41"]
+[EventDate "1969.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g5+ Kg6 2. Rh6+ Kxg5 3. Rh5+ Kg4 4. Rf5 Kxf5 5. g4+ Kxg4 6. Kg2 f1=Q+ 7.
+Kxf1 Kf3 8. Ke1 Ke4 9. Ke2 $1 Kd4 10. d3 Kc3 11. Ke3 Kb3 12. Kd4 $1 Kb4 13. Kd5
+Kxa4 14. Kc4 Ka3 15. d4 a4 16. d5 Kb2 17. d6 a3 18. d7 a2 19. d8=Q a1=Q 20.
+Qd2+ Kb1 21. Kb3 1-0
+
+[Event "ts04#1826"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0340.20e7c4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4K1b1/P1r5/P7/2k5/7B/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1969.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bg2 (1. Kd7 $2 Rc5) 1... Rc5 2. a7 Rc7+ 3. Ke8 $1 (3. Kd6 $2 Rxa7) (3. Kd8
+$2 Rxa7 4. a6 Bf6+ 5. Kc8 Rg7) 3... Rxa7 4. a6 Rc7 5. Kd8 Rf7 (5... Be5 6. Bb7)
+6. Ke8 Rc7 (6... Rf8+ 7. Ke7 Rc8 8. Kd7 Rf8 9. Ke7) 7. Kd8 Be5 8. Bb7 1/2-1/2
+
+[Event "ts23#38 @3"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0030.21h7e6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5p1K/4k3/P7/8/7P/7b/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1969.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h4 $1 f5 (1... Kd5 $1) 2. Kg6 f4 3. a6 $1 Bg1 4. Kg5 $1 f3 5. Kg4 f2 6. a7
+f1=Q 7. a8=Q 1/2-1/2
+
+[Event "ts23#38 {c}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0030.21h8e7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7K/4k3/5p2/P7/8/7P/7b/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1969.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kg7 f5 2. Kg6 $1 f4 3. a6 Bg1 4. Kg5 f3 5. Kg4 f2 6. a7 f1=Q 7. a8=Q 1/2-1/2
+
+[Event "3.hm om03 tz02"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+1601.00h6c8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2k5/1rNr4/7K/8/8/2Q5/8/8 w - - 0 1"]
+[PlyCount "39"]
+[EventDate "1970.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qc6 Rh7+ 2. Kg6 (2. Kg5 $2 Rbxc7) 2... Rg7+ 3. Kf6 Rf7+ 4. Ke6 Rh7 (4...
+Re7+ 5. Kd6 Kb8 6. Na6+ Ka7 7. Qa4 Kb6 8. Nb8) 5. Nb5+ Kd8 6. Qd5+ Rhd7 7. Nd6
+Re7+ (7... Ra7 8. Nf7+ Kc8 9. Qc6+ Kb8 10. Nd6 Rac7 11. Qb5+ Ka8 12. Qa4+ Kb8
+13. Qb3+ Ka8 14. Qf3+ Kb8 15. Qf8+) 8. Kf6 Rbd7 9. Qc5 Rc7 10. Qd4 Rcd7 (10...
+Red7 11. Qd5) 11. Qb6+ Rc7 12. Nb5 Rf7+ 13. Ke6 Rfe7+ 14. Kd5 Red7+ 15. Nd6 Ke7
+16. Ke5 Rc3 (16... Rc2 17. Nc8+ Rxc8 18. Qf6+ Ke8 19. Qh8+) (16... Rc1 17. Nf5+
+Ke8 18. Qg6+) 17. Nf5+ Ke8 18. Ke6 Rcd3 19. Qb8+ Rd8 20. Qe5 1-0
+
+[Event "5.p t001#087"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0310.30e1e8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4k3/B3P3/7P/rP6/8/8/8/4K3 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1970.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h7 Ra1+ 2. Kd2 Rh1 3. b6 Rh2+ 4. Kd3 Rh3+ 5. Kc4 Rh4+ 6. Kb5 Rh5+ 7. Ka6 Rh6
+$1 8. Bb8 Kxe7 9. Be5 $1 Rxh7 10. b7 Rh3 $1 11. Bd6+ $1 1-0
+
+[Event "ts23#32"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0040.23h5a3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2b1p1B1/5p2/5PpK/8/k5P1/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1970.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g4 Kb4 2. Bf8 (2. Kg6 $2 Kc5 3. Bf8 Kd6 4. Kf7 Ke5 5. Bxe7 Kf4) 2... Bd8 3.
+Kg6 Kc5 4. Kf7 Kd6 5. Bxe7+ $1 Bxe7 6. Ke8 $1 1-0
+
+[Event ".hm t001#33"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0430.11e1g3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/R7/P7/8/8/6k1/r3p3/1b2K3 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1971.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Re7 Kf3 2. a7 Be4 3. a8=Q Rxa8 (3... Bxa8 4. Re3+) 4. Rf7+ Ke3 5. Ra7 Kd3 6.
+Rd7+ Ke3 7. Ra7 Rh8 8. Rh7 1/2-1/2
+
+[Event "1/2.p tk08"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0340.20e8c4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4K3/6b1/P4r2/P7/2k5/7B/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1971.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke7 (1. a7 $2 Rf8+ 2. Ke7 Ra8) (1. Bg2 $2 Kc5 $1 2. a7 Kd6 3. a8=Q Rf8#)
+1... Rc6 (1... Rf8 2. Bg2 Rc8) (1... Kd4 2. Bc8 Rf8 3. Bb7 Rb8 4. Ke6 Kc5 5. a7
+) (1... Kb4 2. Be6 Rf8 3. Bd5 Rc8 4. Kd7 Rc5 5. a7 Rxd5+ 6. Kc6 Rxa5 7. Kb7) 2.
+Bg2 (2. Kd7 Kc5 3. Bf1 Be5) (2. Bf1+ Kc5) 2... Rc5 3. a7 Rc7+ 4. Ke8 Rxa7 5. a6
+Rc7 6. Kd8 Rf7 7. Ke8 Rc7 8. Kd8 Be5 9. Bb7 1/2-1/2
+
+[Event "3.hm mr04 tp23"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0430.43b1g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5bk1/4R2p/5P1P/r1P5/8/pp6/1P6/1K6 w - - 0 1"]
+[PlyCount "35"]
+[EventDate "1972.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7+ Kh8 2. Re8 a2+ 3. Ka1 Ra8 4. c6 Rd8 5. Re1 Rc8 (5... Ba3 6. Rc1 Bd6 7.
+Rd1) 6. Rg1 Bd6 7. Rg2 Rf8 8. Rf2 Rc8 9. Re2 Bf8 10. Rg2 Bd6 11. Rg1 Rd8 (11...
+Rf8 12. Rf1 Rc8 13. c7 Rf8 14. Rc1 Rc8 15. Re1 Bf8 16. Re8) 12. Rd1 (12. Re1 $2
+Be5 13. c7 Rd1+ 14. Rxd1 Bxb2+ 15. Kxb2 a1=Q+ 16. Kxa1 b2+ 17. Ka2 b1=Q+ 18.
+Rxb1) 12... Bf8 13. Rd7 Ra8 14. c7 Rc8 15. Rd8 Rxd8 (15... Ra8 16. Rd2 Rc8 17.
+Rg2 Ra8 18. Rg8#) 16. cxd8=B (16. cxd8=Q $2) 16... Be7 (16... Bg7 17. Bf6) 17.
+Bc7 Bd6 18. Bb8 $1 1-0
+
+[Event "ts25#103"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=3832.30g4e6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7b/2P3rr/2q1k1NN/3R3R/5PKP/8/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1972.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c8=Q+ $1 (1. Rhe5+ $2 Kf6 2. h5 Rxg6+ 3. hxg6 Rxh6 4. Rd6+ Qxd6 5. c8=Q Qd1+
+6. Kg3 Qg1+ 7. Kf3 Qh1+ 8. Ke3 Rh3+ 9. Kd2 Rh2+ 10. Re2 Qd5+ 11. Ke1 Qa5+) 1...
+Qxc8 2. Rhe5+ Kf6+ 3. Rf5+ Qxf5+ (3... Kxg6 4. Rd6+ Qe6 5. Rxe6#) 4. Rxf5+ Kxg6
+5. h5+ (5. Rg5+ $2 Kf6 6. Ng8+ Kf7) 5... Kxh6+ 6. Rg5 Rxg5+ 7. fxg5+ Kg7 8. g6
+Rh6 9. Kg5 1/2-1/2
+
+[Event "4.c tn20#03"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0540.03e1c1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/5b2/1p3R2/p7/r1k1K1BR w K - 0 1"]
+[PlyCount "13"]
+[EventDate "1973.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd4 exd4 2. Rf2 (2. Ke2+ $2 Kb2 3. Rxa1 Be3 $1 (3... Kxa1 $2 4. Rxb3) 4. Rh1
+a1=Q 5. Rxa1 Kxa1) 2... Kb1 3. O-O+ Bc1 4. Rd2 d3 5. Kf2 b2 6. Ke1 Bxd2+ 7.
+Kxd2# 1-0
+
+[Event "6/7.c tk05 (@2)"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0710.20c3h7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7k/3P1P2/8/rr3BR1/2K5/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1973.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 Rc4+ 2. Kd3 Rc8 3. d7 Rd8 4. Bd6 Ra7 (4... Rxg4 5. f8=Q Rxf8 6. Bxf8) (
+4... Raa8 5. f8=Q Rxf8 6. Bxf8 Rxf8 7. Rd4) 5. Rg7+ (5. f8=Q $1 Rxf8 6. Rg7+)
+5... Kxg7 6. f8=Q+ Rxf8 7. Bxf8+ Kxf8 8. d8=Q+ 1-0
+
+[Event ".c ml05 ts50"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0130.12h1b3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/2Pb4/4R1p1/1k3p2/8/7K w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1974.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Re3+ Kc4 2. Kg1 Kd4 (2... Kxc5 3. Kf2) 3. Re8 (3. Kf2 g3+) 3... g3 4. c6
+Bxc6 (4... Bc4 5. Rd8+ Ke3 6. Re8+ Kd2 7. Rf8 Ke2 8. Re8+) (4... f2+ 5. Kf1
+Bc4+ 6. Re2) 5. Re2 $1 fxe2 (5... Kd3 6. Rg2 $1 fxg2) 1/2-1/2
+
+[Event "tc19#669"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0700.22d8b8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k1K4/2r1r2p/4P3/3P4/8/2p5/8/3R4 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1974.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d6 c2 2. Rc1 (2. dxc7+ $2 Rxc7 3. Rc1 Rc6 $1) 2... Rcd7+ 3. exd7 Re2 4. Rxc2
+$3 Rxc2 5. Ke7 Re2+ 6. Kf7 Rf2+ 7. Kg7 Rg2+ 8. Kxh7 (8. Kh8 $2 Rc2 9. d8=Q+ Rc8
+) 8... Rh2+ 9. Kg7 Rg2+ 10. Kf7 Rf2+ 11. Ke6 Re2+ 12. Kd5 Rd2+ 13. Kc5 Rc2+ 14.
+Kb4 Rb2+ 15. Ka3 1-0
+
+[Event "ts25#277"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=4080.01e2h5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2q5/8/7k/3Q3B/2bB4/4K2p/7b w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1974.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qf2 $1 Qe5+ 2. Kf1 Qe1+ $1 (2... Bd5 3. Be2+ Kg6 4. Bf3) 3. Qxe1 Bxe1 4. Bg3
+$3 Bxg3 5. Be2+ Kg5 6. Bf3 Bxf3 1/2-1/2
+
+[Event "t001#08"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0341.21e7g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/4K1p1/5P2/b3B1P1/4r1N1/8/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1975.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7+ (1. Ke6 $2 Bb4 2. Kf5 Rxg4) 1... Kh7 2. f8=Q $3 (2. Kd7 $2 Bb4 3. Bd6
+Rd4 4. f8=Q Rxd6+) 2... Bb4+ 3. Kf7 Bxf8 4. g6+ Kh8 5. Kxf8 Rxe5 6. Nh6 $3 Rf5+
+7. Nf7+ $1 Rxf7+ 8. gxf7 1-0
+
+[Event "tc19#750"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0404.12f3h3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6pp/5RP1/6rN/4n3/5K1k/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1975.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf4+ Kh4 2. gxh7 Rh5 3. Nxh5 Ng5+ 4. Kg2 Nxh7 5. Rf5 g6 6. Rf1 gxh5 7. Rf7
+Ng5 8. Rf4# 1-0
+
+[Event ".c tm81"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0032.12h2f2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/P7/1N6/6p1/1N6/4pk1K/7b w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1976.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc1 g3+ 2. Kh3 g2 3. Nxe2 Kxe2 4. Nd4+ Kf2 5. Nf3 Kxf3 6. a7 Kf2 7. a8=Q
+g1=N+ 8. Kh2 Bxa8 1/2-1/2
+
+[Event "1.hm tl48"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0311.43h1h4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6N1/6p1/1B2P3/6r1/6Pk/5ppP/6P1/7K w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1976.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e7 Re5 2. e8=Q Rxe8 3. Ne7 Rxe7 4. Bd8 f2 5. Bxe7+ g5 6. Bc5 f1=Q+ 7. Bg1
+Qf2 8. Bxf2 gxf2 9. Kh2 f1=N+ 10. Kg1 Nd2 11. Kf2 Nc4 12. Kf3 Nd6 13. Kf2
+1/2-1/2
+
+[Event "3.p ts50 {pl}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0040.10f5h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/8/7b/4PK2/8/8/8/B7 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1976.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kg6 (1. Bb2 $2 Kg8 2. Kg6 Bf8 3. e6 Bb4 4. Bg7 Ba3 5. Bh6 Be7 6. Kf5 Ba3 7.
+Kf6 Bf8 8. Bc1 Bb4) 1... Bg7 (1... Bf8 2. Kf7 Ba3 3. e6+ Kh7 4. Bg7 Bb4 5. Bf8)
+2. e6 Kg8 3. e7 Bf8 4. e8=B (4. e8=Q $2) (4. e8=N $2 Ba3 (4... Be7 $2 5. Bg7
+Bg5 6. Nd6 Be7 7. Nf5 Bg5 8. Kxg5) 5. Bg7 Be7 6. Bh6 Bf8 7. Nf6+ Kh8 8. Bxf8 (
+8. Bc1 Ba3 9. Bg5 Be7)) 4... Ba3 5. Bg7 1-0
+
+[Event "3.hm tp36"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0000.12e3g8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6k1/8/5p2/1p6/8/4K3/1P6/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1977.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd4 Kf7 2. Kc5 Ke6 3. Kxb5 Kd5 4. Kb4 Kd4 5. Kb3 Kd3 6. Ka2 $3 Kc4 7. Kb1
+1/2-1/2
+
+[Event "sp.hm tp36"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0401.00h6h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6Nk/6r1/3R3K/8/8/8/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1977.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf6 Rg6+ 2. Kh5 Rh6+ 3. Kg5 Rg6+ 4. Kf5 Rg1 5. Rd7 Rf1+ 6. Ke6 Re1+ 7. Kf7
+Rd1 8. Re7 Re1 9. Ne4 Rg1 10. Re5 Rg7+ 11. Kf6 1-0
+
+[Event "tp38"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+1033.44h6f8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5kb1/2n1p2p/6pK/4PpP1/8/5P2/5P2/7Q w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1977.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qc1 $1 (1. Qa1 $2 Ne6 2. Qa8+ Kf7 3. Qd5 f4 $1) (1. f4 $2 Nd5 $1 2. Qc1 e6
+3. Qc8+ Kf7 4. Qd7+ Ne7 5. Qd8 Nd5) 1... Ne6 (1... Nd5 2. Qc8+ Kf7 3. e6#) 2.
+f4 Ng7 3. Qc8+ Kf7 4. f3 Ne6 5. Qxe6+ $3 Kxe6 6. Kg7 Bf7 7. Kf8 $1 1-0
+
+[Event ".c ws17 ts43"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+4602.32h2h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r3k/6p1/3N4/4Q1p1/2Pr2P1/6N1/3q2PK/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1978.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nh5 Rg8 2. Nf7+ Kh7 3. Qf5+ g6 4. Qf6 Rd6 5. Qe7 Rd7 6. Nxg5+ Kh8 7. Qf6+
+Rdg7 8. Nf7+ Kh7 9. Qxg7+ Rxg7 10. Nf6# 1-0
+
+[Event ".c ws17 ts43 {v}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+4602.33h2h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r3k/6p1/3N3p/4Q1p1/3rP1P1/6N1/3q2PK/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1978.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nh5 Rg8 2. Nf7+ Kh7 3. Qf5+ g6 4. Qf6 Rd6 5. Qe7 Rd7 (5... gxh5 6. Nxg5+ Kg6
+7. Qf7+ Kxg5 8. Qf5+ Kh4 9. Qxh5#) 6. Nxg5+ Kh8 7. Qf6+ Rdg7 8. Nf7+ Kh7 9.
+Qxg7+ Rxg7 10. Nf6# 1-0
+
+[Event "tv23"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0008.11d7h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4n2k/3K3p/6PN/5N1n/8/8/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1978.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g7+ Nexg7 2. Nf7+ Kg8 3. N5h6+ Kf8 4. Ng5 Nf6+ 5. Kd8 Ngh5 (5... Nd5 6.
+Nxh7#) 6. Ne6# 1-0
+
+[Event ".hm wb08"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0040.12g1h3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4b3/8/8/6pp/7k/5B1P/6K1 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kh1 Bd6 2. Bc5 Bb8 3. Ba7 Bxh2 4. Bf2 Bf4 5. Be3 Kg3 6. Bf2+ Kf3 7. Bxh4 Be3
+8. Bg3 Kxg3 1/2-1/2
+
+[Event "3.hm tr11 {tt}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0000.12d6f6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5p2/3K1k2/8/1p6/8/1P6/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc5 Ke5 2. Kxb4 Kd4 3. Kb3 (3. Ka5 $2 f5 4. b4 f4 5. b5 Kc5 6. b6 Kc6 7. Ka6
+f3 8. b7 f2 9. b8=Q f1=Q+ 10. Ka7 Qa1#) 3... Kd3 4. Ka2 f6 (4... Kc4 5. Kb1) 5.
+b4 Kc4 6. b5 Kxb5 7. Kb3 1/2-1/2
+
+[Event "3.p tv11"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=4080.11e2h5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4q3/8/1Q6/4P2k/2B4B/2b5/4K2p/7b w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qf2 Qxe5+ (1... Qc6 2. Qf5+ Kxh4 3. Qf4+ Kh3 4. Qf5+ Kg3 5. Qg5+) 2. Kf1
+Qe1+ $1 (2... Bc6 3. Be2+ Kh6 4. Qf8+ Kg6 5. Qg8+ Qg7 6. Qe6+ Kh7 7. Bd3+ Kh8
+8. Qxc6 Qg1+ 9. Ke2 Qg4+ 10. Ke3 Bd4+ 11. Kd2 Qxh4 12. Be4) 3. Qxe1 Bxe1 4. Bg3
+$3 Bxg3 5. Be2+ Kh4 6. Bf3 $1 Bxf3 1/2-1/2
+
+[Event "sp.p tb25"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0400.02e2f8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5k2/7R/8/3r4/7p/8/4K1p1/8 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf2 Rg5 2. Kg1 Rg4 3. Rh8+ (3. Rh5 $2 Kg7) (3. Rh6 $2 Kg8 4. Rh5 Kg7) 3...
+Kf7 4. Rh7+ Kg6 5. Rh8 Kf5 6. Rf8+ Ke4 (6... Ke5 7. Rf3) 7. Re8+ Kf4 (7... Kf3
+8. Ra8) 8. Rf8+ Kg3 9. Rf2 Kh3 10. Rf3+ Rg3 11. Rxg3+ hxg3 1/2-1/2
+
+[Event "t001#66"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0010.11g5f8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/6p1/6B1/6KP/8/8/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bh7 $1 Kf7 2. Kg4 $1 Kf6 3. Bg6 $1 Ke7 4. Kf5 Kf8 5. Bh7 Kf7 6. Kg5 Ke7 7.
+Bg8 Kf8 8. Ba2 Ke7 9. Kg6 1-0
+
+[Event "ts04#5437"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0000.44e3e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/5p2/1p2k1pp/4P2P/4K3/P5P1/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g4 hxg4 2. h5 Ke6 3. a3 $1 Kf7 4. Kf2 Kg7 5. Kg3 Kh6 (5... Kh7 6. Kxg4 Kh6
+7. Kf5 Kxh5 8. Kxf6 g4 9. e5 g3 10. e6 g2 11. e7 g1=Q 12. e8=Q+ Kh4 13. Qh8+
+Kg3 14. Qg8+ Kf2 15. Qxg1+ Kxg1 16. Ke5 Kf2 17. Kd4 $1 Kf3 18. Kc5 Ke4 19. Kxb5
+Kd5 20. a4) 6. Kxg4 Kg7 7. e5 $1 fxe5 8. Kxg5 e4 9. Kf4 Kh6 10. Kxe4 Kxh5 11.
+Kd5 Kg5 12. Kc5 Kf5 13. Kxb5 1-0
+
+[Event "ts04#5481"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0000.55h2f3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/3pp3/3p1p2/3P1P2/1pP1P3/1P3k2/7K/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e5 Ke4 $1 (1... fxe5 2. c5 e4 (2... dxc5 3. d6 exd6 4. f6) 3. cxd6 e3 (3...
+exd6 4. f6 e3 5. f7 e2 6. f8=Q+) 4. dxe7 e2 5. e8=Q) (1... dxe5 2. c5 e4 3. Kg1
+Ke2 4. c6 e3 5. cxd7 Kd2 6. d8=Q e2 7. Qxe7) 2. c5 $1 Kxd5 $1 (2... dxc5 3. d6
+exd6 4. exf6) (2... Kxf5 3. e6 $1 dxe6 4. c6) (2... Kxe5 3. c6) 3. cxd6 e6 $1
+4. exf6 Kxd6 5. Kg3 exf5 6. Kf4 Ke6 7. Kg5 Kf7 8. Kxf5 Ke8 (8... d6 9. Kg5 Kg8
+10. Kf4 Kf8 11. Ke4 Ke8 12. Kd5) 9. Ke5 Kf7 10. Kd6 Kxf6 11. Kxd7 Ke5 12. Kc6
+Kd4 13. Kb5 Kc3 14. Ka4 1-0
+
+[Event "2.p wo01"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0110.46f6h4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2B5/7p/5Kp1/8/Pp1P2pk/2p5/1p4PP/4R3 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "1980.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ba6 c2 2. Re7 h6 3. Re3 c1=N 4. Bf1 b1=Q 5. g3+ Kh5 6. Re5+ g5 7. Bc4 Qg6+
+8. Ke7 Nd3 9. Bb3 Nxe5 10. dxe5 Qg7+ 11. Bf7+ Qxf7+ 12. Kxf7 b3 13. e6 b2 14.
+e7 b1=Q 15. e8=Q Qe4 16. Kf8+ 1-0
+
+[Event "5.hm wt03"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0010.46e1h2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/2p5/1BPp4/3Pp2p/4Pp1p/5P1k/4K3 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1980.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 (1. Bf1 $2 Kg1 2. Bxh3 Kh2 3. Bf1 Kg1) 1... Kh1 2. Ba4 h2 3. Bd1 h3 4.
+Bxf3+ exf3 5. e4 dxe4 6. d5 e3 (6... cxd5 7. c6 e3 8. fxe3 d4 9. c7 dxe3 10.
+c8=Q e2+ 11. Ke1 f2+ 12. Kxf2) 7. fxe3 f2 8. Kxf2 cxd5 9. c6 d4 10. c7 dxe3+
+11. Kf1 (11. Kxe3 $2 Kg1 12. c8=Q h1=Q) 11... e2+ 12. Kxe2 Kg1 13. c8=Q h1=Q
+14. Qc1+ Kg2 15. Qg5+ Kh2 16. Qf4+ Kg2 17. Qf2# 1-0
+
+[Event "ts10#09072"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0000.45f3e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p5/1p1p1p2/3Pk1p1/P1P5/1P3K2/8/8 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1980.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. b4 $1 (1. Ke3 $2 f5 2. b4 f4+ 3. Kd3 g4 4. a5 bxa5 5. bxa5 g3 6. Ke2 Ke4 7.
+a6 f3+ 8. Kf1 Ke3 $1 9. a7 g2+ 10. Kg1 Ke2) 1... Kd4 2. a5 bxa5 3. bxa5 Kc5 4.
+Kg4 c6 5. a6 Kb6 6. c5+ $1 Kxa6 7. cxd6 Kb6 8. d7 Kc7 9. dxc6 Kd8 10. Kf5 Ke7
+11. Ke4 g4 (11... Kd8 12. Kd5 $1 Ke7 13. Kc5 g4 14. Kb6 g3 15. Kc7) 12. Ke3 $1
+f5 13. Kf4 Kd8 14. Kxf5 g3 15. Ke6 g2 16. Kd6 g1=Q 17. c7# 1-0
+
+[Event "ts25#53"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0700.23d8b8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k1K4/2r1r2p/1p2P3/3P4/8/2p5/8/3R4 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "1980.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d6 c2 $1 2. Rc1 (2. dxc7+ $2 Rxc7 3. Rc1 Rc3 4. e7 Rd3+ 5. Ke8 Rd2) 2...
+Rcd7+ $1 (2... b5 3. dxe7 b4 4. e8=Q Rc8+ 5. Kd7 Rxe8 6. Rxc2) 3. exd7 Re2 4.
+Rxc2 $1 Rxc2 5. Ke7 Re2+ 6. Kf7 Rf2+ 7. Kg7 Rg2+ 8. Kxh7 (8. Kh8 $2 Rc2) 8...
+Rh2+ 9. Kg7 Rg2+ 10. Kf7 Rf2+ 11. Ke6 Re2+ 12. Kd5 Rd2+ 13. Kc6 Rc2+ 14. Kxb6
+Rb2+ (14... Rc8 15. dxc8=Q+ Kxc8 16. Kc6) 15. Ka5 Ra2+ 16. Kb4 1-0
+
+[Event "ts10#09577 @1 @2"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[=0404.13g5f8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5kr1/6p1/2P5/2R3K1/2N5/8/4pp2/5n2 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1981.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c7 (1. Rf5+ $1 Ke7 2. Re5+ Kd8 3. c7+ Kxc7 (3... Kd7 4. Rxe2) (3... Kc8 4.
+Re7 Kb7 5. c8=Q+ Kxc8 6. Nd6+ Kd8 7. Rxe2 Rf8 8. Nf5) 4. Rxe2 Ng3 5. Rc2 f1=Q
+6. Ne3+) 1... Kf7 2. Rf5+ Ke6 3. Re5+ Kd7 4. Rxe2 Ng3 $1 (4... Rf8 5. Rc2 Ng3
+6. Nb6+ Kd6 7. c8=Q) 5. Rxf2 $1 (5. c8=Q+ $1 Rxc8 6. Rxf2 (6. Nb6+ Kc6 7. Rxf2
+Ne4+ 8. Kg6) 6... Ne4+ 7. Kg6 Rc6+ 8. Kxg7 Nxf2 9. Ne5+) 5... Ne4+ 6. Kg6 Nxf2
+7. Kh7 Rf8 $1 (7... Re8 8. c8=Q+) 8. Kxg7 Rf4 9. Nb6+ Kxc7 10. Nd5+ 1/2-1/2
+
+[Event "ts23#29 (@2)"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Evreinov, V."]
+[Black "[+0001.11e3b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/p7/8/8/4K3/P7/1k2N3 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1982.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a4 Kb2 2. Nd3+ Kc3 (2... Kb3 3. Nc5+ Kc4 4. Nxa6 Kb3 5. Nc5+ Kc4 6. Nb3 Kxb3
+7. a5) 3. Ke4 (3. Nc5 $1 a5 4. Ke4) 3... a5 4. Nc5 Kc4 5. Nd7 Kb4 6. Nb6 Kc5 7.
+Nd5 Kc4 8. Ke5 Kc5 9. Ke6 Kc6 10. Nc3 Kc5 11. Nd1 Kb4 12. Nb2 Kb3 13. Kd5 Kxb2
+14. Kc4 Kc2 15. Kb5 1-0
+

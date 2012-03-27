@@ -1,0 +1,1329 @@
+[Event "tt27"]
+[Site "?"]
+[Date "1792.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0372.66b4e8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3Bk3/1r6/2b2PPp/1N3p2/pK1p1P1P/Pp1p4/3P4/bN6 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1792.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7+ Kf8 2. Bb6 Rxb6 3. Kc5 Rxb5+ (3... Ra6 4. Nc7 Bb7 5. Nxa6 Bxa6 6. Kb6
+Bc4 7. Kc5 Be6 8. Kd6 Bc8 9. Kc7) 4. Kxc6 Ra5 5. Kb6 Ra8 6. Kb7 Rd8 7. Kc7 Rd5
+8. Kc6 1/2-1/2
+
+[Event "3.p tl20#0922"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=4040.12h8e4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7K/8/3q4/1B1b4/4k3/2Q1Pp2/6p1/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1922.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd3+ Kxe3 2. Bh7+ Kf4 $1 3. Qd4+ Kg3 4. Qg7+ Kh2 5. Qh6+ 1/2-1/2
+
+[Event "tl20#0923 @1"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0506.20h2h7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6R1/4n2k/7r/4P1Rn/8/6P1/7K/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1922.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. R8g6 (1. Ra8 $1) 1... Nxg6 2. g4 Nhf4+ 3. Rh5 Nxh5 4. g5 1/2-1/2
+
+[Event "tl20#0924"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=4443.57f7a5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "n1bq3r/1p1p1K1p/1p1P3p/k6P/pp1R3P/2PP4/5B2/2Q5 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1922.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. cxb4+ Ka6 2. b5+ Ka7 3. Rxa4+ Kb8 4. Rxa8+ Kxa8 5. Qa1+ Kb8 6. Qxh8 Qxh8 7.
+d4 Qd8 8. Be1 1/2-1/2
+
+[Event "tl20#0925"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0404.55d2b2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/R1p5/6pP/6r1/1P2p3/p3P1p1/1kPK2P1/5N1n w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1922.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ra5 Rg4 (1... c5 2. Rxc5 a2 3. h7 a1=Q 4. h8=Q+) (1... a2 2. h7 Rxa5 (2...
+Rh5 3. Rxh5 gxh5 4. h8=Q+ Kb1 5. Qa1+) 3. h8=Q+ Re5 4. Qxe5+ Kb1 5. c4) 2. Rh5
+gxh5 (2... a2 3. h7 a1=Q 4. h8=Q+ Kb1 5. Qxa1+ Kxa1 6. Rxh1) 3. h7 a2 4. h8=Q+
+Kb1 5. Qa1+ Kxa1 6. Kc1 c5 7. Nd2 (7. b5 $2 c4) (7. bxc5 $2 Rg8 8. Nd2 Rb8 9.
+Nb3+ Rxb3 10. cxb3 Nf2) 7... c4 8. Nxc4 Rg5 9. Nd2 1-0
+
+[Event ".c ts17#302"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0011.68h1h8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7k/4p3/5p2/1p1p1p2/1PpP1PpB/1pP3P1/7P/6NK w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1923.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bxf6+ exf6 2. h4 b2 3. Kg2 b1=Q 4. Kf2 Qb2+ 5. Ne2 Qa1 6. Ke3 Qe1 1/2-1/2
+
+[Event "3.hm tl10"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0731.75c1f5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2br4/r2pp3/8/1p1p1kN1/pP1P4/2P3R1/PP3PP1/2K5 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1923.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf7 Re8 2. Nd6+ exd6 3. Rf3+ Kg6 4. Rg3+ Kf7 5. Rf3+ Ke7 6. Re3+ Kd8 7.
+Rxe8+ Kxe8 8. a3 $3 Bb7 9. Kd1 Kf7 10. Ke1 Ra8 11. Kf1 Rh8 12. Kg1 $1 1/2-1/2
+
+[Event "tl10 @1"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0011.56a2b5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1N6/Bp2pp1p/1P1p1p2/1k6/8/1P1PP3/K4P2/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1923.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Na6 (1. d4 $1 h5 2. d5 h4 3. Nc6 h3 4. Nd4+ Kb4 5. Ne2 h2 6. Ng3) 1... Kxa6
+(1... h5 2. Nc7+ Kc5 3. Ne8 h4 4. Ng7 h3 5. Nf5 h2 6. Ng3) 2. Kb2 (2. Kb1 $2 h5
+) 2... h5 3. Kc3 Kb5 (3... h4 $2 4. Kb4 h3 5. Ka4 h2 6. b4 h1=Q 7. b5#) 4. Kd2
+h4 5. Ke2 h3 6. Kf1 h2 7. Kg2 1-0
+
+[Event "tl10 {m}"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0011.67a2b5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1N6/Bp1ppp1p/1P1p1p2/1k6/8/1P1PP3/K2P1P2/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1923.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Na6 Kxa6 (1... h5 2. Nc7+ Kc5 3. Ne8 h4 4. Ng7 h3 5. Nf5 h2 6. Ng3) 2. Kb2
+h5 3. Kc3 Kb5 (3... h4 4. Kb4 h3 5. Ka4 h2 6. b4 h1=Q 7. b5#) 4. Kd4 h4 (4...
+f5 5. e4 f4 6. e5 f5 7. exf6) 5. Ke4 h3 6. Kf3 h2 7. Kg2 1-0
+
+[Event "ts17#303 @3"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0310.54f2d4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/7P/1p1p1pr1/1P1k1p2/3P2P1/4PK2/6B1 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1923.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke1+ (1. Kf3+ $2 Kc3 2. Bc5 fxg3 3. Bf8 Rh5 4. Kxg3 d4) 1... Kc3 2. Bd4+
+Kxd4 3. gxf4 Rh5 4. Kd2 Rh3 (4... Rh2 5. h7 Rxh7 6. e3#) 5. h7 Rxh7 (5... Rxd3+
+$1 6. exd3) 1-0
+
+[Event "ts17#303 {v}"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0310.54f2d4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5p2/7P/1p1p2r1/1P1k1p2/3P2P1/4PK2/6B1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1923.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke1+ (1. Kf3+ $2 Kc3 2. Bc5 fxg3 3. Bf8 Rh5 4. Kxg3 d4) 1... Kc3 2. Bd4+ $1
+Kxd4 3. gxf4 Rh5 4. Kd2 Rh3 5. h7 f6 6. h8=Q Rxd3+ 7. Ke1 1-0
+
+[Event "tb08 {v}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0143.00f8e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "Bb3K1R/8/8/4k3/n7/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1924.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf7 Bc7 (1... Ba7 2. Rh5+ Kd6 3. Ra5) 2. Rh5+ Kd6 3. Rd5# 1-0
+
+[Event "tr11"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0072.00a5d8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "B2k2b1/b7/8/K4N2/3N4/8/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1924.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc6+ Kc7 2. Nxa7 Kb8 3. Be4 Kxa7 4. Ne7 Bf7 5. Nc6+ Kb7 6. Nd8+ 1-0
+
+[Event "tt06#1091"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=4406.10c5g8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6k1/7q/6nr/2K3Rn/8/8/6P1/4Q3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1924.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qe8+ Kg7 2. Qe7+ (2. Qe5+ $2 Nf6 $1 (2... Kf7 3. Rf5+ Nf6 4. Qxf6+ Kg8 (4...
+Ke8 5. Qc6+) 5. Qe6+) 3. Qe7+ Kg8 4. Qxf6 Qa7+ 5. Qb6 Qe7+) 2... Kh8 3. Qxh7+
+Kxh7 (3... Rxh7 4. Rxg6) 4. g4 Ng3 5. Rh5 Nxh5 6. g5 1/2-1/2
+
+[Event "tt06#1099"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=4443.55f7a7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "n1bq3r/kp1p1K1p/1p1P3p/1P5P/3R3P/3P4/5B2/2Q5 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1924.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ra4+ Kb8 2. Rxa8+ Kxa8 3. Qa1+ Kb8 4. Qxh8 Qxh8 5. d4 Qd8 6. Be1 1/2-1/2
+
+[Event "3.hm ts22"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0331.42e8h4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4K1b1/P6r/1N6/2p5/4p2k/4P2P/6P1/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1925.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a8=Q Bf7+ 2. Kf8 Rh8+ 3. Kxf7 Rxa8 4. Nxa8 c4 5. Nc7 c3 6. Nb5 c2 7. Nd4
+c1=Q 8. Kg6 Kg3 9. Ne2+ 1-0
+
+[Event "t001"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0010.24b8g1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1K1B4/2p5/4p3/4P3/2p5/2P5/6p1/6k1 w - - 0 1"]
+[PlyCount "37"]
+[EventDate "1925.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be7 $1 Kf1 (1... Kf2 2. Bc5+ Ke2 3. Kxc7) (1... c5 2. Bxc5+ Kf1 3. Kc7) (
+1... c6 2. Bc5+ Kf1 3. Kc7 Ke2 4. Kd6 Kd3 5. Bd4 c5 6. Kxc5) 2. Bc5 g1=Q 3.
+Bxg1 Kxg1 4. Kc8 $1 Kf2 5. Kd7 Ke2 6. Kxe6 Kd3 7. Kf5 $1 Kxc3 8. e6 Kd2 9. e7
+c3 10. e8=Q c2 11. Qd7+ Ke1 12. Qe6+ Kd1 13. Qd5+ Ke1 14. Qe4+ Kd1 15. Qd3+ Kc1
+16. Ke4 c5 17. Ke3 c4 18. Qxc4 Kb1 19. Kd2 1-0
+
+[Event "t001"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0433.00e7h1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/rn2K1b1/8/8/2R5/8/8/7k w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1925.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rh4+ Kg2 2. Rg4+ Kf3 3. Rxg7 Nd6+ (3... Nd8+ 4. Kf6) 4. Kd8 (4. Kf8 Ra8+ 5.
+Ke7 Nf5+) 4... Rxg7 1/2-1/2
+
+[Event "tr11#0008"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+1110.66b1h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/3p1ppB/7R/8/pP6/Pp2PP2/1P2P1p1/QK6 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1925.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc1 g1=Q+ 2. Kd2 Qxa1 3. Bb1+ gxh6 4. Kc1 h5 5. b5 1-0
+
+[Event "tt06#1224 @3"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+3011.32d2b4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p5/8/2p5/1kN5/3B4/PPPK4/q7 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1925.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c3+ $1 Ka4 (1... Kb5 $1 2. Bb1 Kxc4 $1 (2... Qxb1 3. Na3+) (2... Kc6 3. Kc1)
+) 2. Bb1 Kb5 (2... Qxb1 3. b3+ Kb5 4. Na3+) 3. Na3+ (3. Kc1 $2 Kxc4) 3... Kc6
+4. Kc1 Kd5 5. Nc2 1-0
+
+[Event "tt06#1224 {v}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+3011.41d2b4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/1kN1P3/3B4/PPPK4/q7 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1925.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c3+ Ka4 (1... Kb5 2. Bb1 Qxb1 (2... Kxc4 3. Bd3#) (2... Kc6 3. Kc1) 3. Na3+)
+2. Bb1 Kb5 (2... Qxb1 3. b3+ Kb5 4. Na3+) 3. Na3+ (3. Kc1 $2 Kxc4) 3... Kc6 4.
+Kc1 1-0
+
+[Event ".hm t001"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0072.00a5d8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "B2k4/b7/8/K7/3N4/3N4/b7/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc6+ Kc7 2. Nxa7 Kb8 3. Be4 Kxa7 4. Nb4 Bb3 5. Nc6+ Kb7 6. Nd4+ 1-0
+
+[Event "1.p ot07"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0041.23e8c7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4K3/2k1Bp1N/6p1/5PP1/8/7p/b7/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf6 $1 (1. f6 $2 h2 2. Kf8 h1=Q 3. Kg7 (3. Kg8 Qg2 4. Bf8 Qa8 5. Kg7 Kd7 6.
+Kg8 Ke6 7. Kg7 Kf5 8. Kg8 Bb3 9. Kg7 Qh1 10. Kg8 Qxh7+ 11. Kxh7 Kxg5 12. Bb4
+Kh5 13. Be1 Be6 14. Bd2 g5 15. Be1 g4 16. Bg3 Kg5 17. Kg7 Bd5 $1 (17... Kf5 18.
+Kh6 Kxf6 19. Kh5 Kf5 20. Kh4 Ke4 21. Bb8 Kf3 22. Bc7 f5 23. Bb8 f4 24. Kg5 g3
+25. Bxf4 g2 26. Bh2) 18. Kh7 Be4+ 19. Kg7 Bg6 20. Bb8 Kh4 21. Kh6 g3 22. Bc7 g2
+23. Bh2 Kh3 24. Bg1 Kg3 25. Kg5 Bb1 26. Kh5 Bc2 27. Kg5 Bg6) 3... Kd7 4. Bb4
+Ke6 5. Bd2 Kf5 6. Be3 Qf3 7. Bd2 Qe2 8. Bc1 Qd1 9. Be3 Qd3 10. Bc1 Qc3) 1...
+Kd6 2. Be7+ Ke5 3. Bd8 $1 Kd6 4. Be7+ Kc6 5. f6 $1 h2 6. Bf8 $1 (6. Kf8 $2 h1=Q
+7. Kg7 Kd7 8. Bf8 Qa8 $3) 6... h1=Q 7. Bh6 $1 1/2-1/2
+
+[Event "t001"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0410.33a2b5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/Bp1p3p/rP1P4/1k6/8/RP6/K7/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rxa6 Kxa6 2. Kb2 $1 (2. Ka3 $2 Kb5 (2... h5 $2 3. Ka4 h4 4. b4 h3 5. b5#))
+2... h5 3. Kc3 h4 (3... Kb5 4. Kd3) 4. Kb4 h3 5. Ka4 h2 6. b4 h1=Q 7. b5# 1-0
+
+[Event "t001"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+3041.36b2c4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/pb4P1/p1ppp2q/2k1p2P/7B/1K3P2/4N3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf1+ Kb4 (1... Kd4 2. Nc2#) 2. Nc2+ Ka4 3. Bh3 Kb5 4. Bd7+ Kc4 5. Bg4 Qxg4 (
+5... Qxg6 6. Be2#) 6. Ne3+ 1-0
+
+[Event "t001 @3"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0133.10g2b8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k6/8/3P4/3n4/3R4/8/6K1/1b6 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf3 Ba2 2. Ra4 Bb3 (2... Kc8 $1 3. Rxa2 Kd7 4. Rd2 (4. Ra6 Nb4 5. Ra4 (5.
+Rb6 Nd5) 5... Nc6) 4... Nf6 5. Kf4 (5. Rd4 Ke6 6. Ke3 Kd7 7. Kd3 Kc6 8. Kc4 Nd7
+) 5... Ke6 6. Rd4 Nd7 7. Kg5 Nc5 8. Kg6 Nd7 9. Kg7 Ne5 10. Kf8 Kd7 11. Rd5 Nc4)
+3. Ra8+ Kxa8 4. d7 1-0
+
+[Event "t001 @3"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=4800.33e1d7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3k3p/6q1/5r2/1P4Qp/7P/p1r3P1/R3K2R w KQ - 0 1"]
+[PlyCount "11"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qd1+ Ke7 (1... Qd6 $1 2. Qxc2 (2. Qxd6+ Kxd6) 2... Qe5+) 2. Qxc2 Rf1+ $1 3.
+Kxf1 Qxc2 4. Kg1 Qb2 5. Rxa2 Qxa2 6. Kh2 1/2-1/2
+
+[Event "t001 {c}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0311.02g1b7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6B1/1k6/8/4r3/4p3/4p3/5N2/6K1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nxe4 (1. Ng4 Rg5) 1... Kc6 2. Bh7 Rh5 3. Kf1 Rxh7 4. Ke2 Re7 (4... Rh3 5.
+Ng5 Rh5 (5... Rg3 6. Ne4) 6. Nf3) 5. Nc3 1/2-1/2
+
+[Event "t001 {v}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=4800.23e1d8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3k4/7p/6q1/5r2/6Qp/7P/p1r3P1/R3K2R w KQ - 0 1"]
+[PlyCount "11"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qd1+ (1. Qd4+ Kc8) (1. Qxh4+ Kc8) 1... Ke7 2. Qxc2 Rf1+ (2... Re5+ 3. Qe2)
+3. Kxf1 (3. Rxf1 Qxc2 4. Rf3 Qb2 5. Rxa2 Qxa2 6. Kf1 Qb1+) 3... Qxc2 4. Kg1 Qb2
+5. Rxa2 Qxa2 6. Kh2 1/2-1/2
+
+[Event "tb08 @1"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0143.00f7e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "Bb6/5K2/8/4k3/n7/7R/8/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rh8 (1. Rh5+ $1 Kd6 2. Rb5 Kc7 3. Ke7 Kc8 4. Bb7+ Kc7 5. Ba6 Nc3 6. Rb7+ Kc8
+7. Rb3+) 1... Bc7 (1... Ba7 2. Rh5+ Kd6 3. Ra5) 2. Rh5+ Kd6 3. Rd5# 1-0
+
+[Event "tk13"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+3140.73e8a1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4K3/6qP/5p1p/P4P1P/P2Pp3/R7/Bb2P3/k7 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h8=Q (1. Bg8+ $2 Bxa3 2. h8=Q Qe7#) 1... Qxh8+ 2. Bg8+ Bxa3 3. Kf7 1-0
+
+[Event "ts20#206"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0400.02f6h8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7k/4rpR1/5K2/8/8/p7/8/8 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rg5 Ra7 2. Rh5+ Kg8 3. Rg5+ Kf8 4. Ra5 Rxa5 1/2-1/2
+
+[Event ".c tb01"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=3110.45b8e8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1K2k3/6p1/p4p2/2pB1PP1/1P5R/q7/P6p/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1927.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bc6+ Kf7 2. g6+ Kg8 $1 3. Rc4 Qxb4+ 4. Rxb4 cxb4 5. Kc7 a5 6. Kd6 a4 7. Ke7
+b3 8. axb3 axb3 9. Bd5+ Kh8 10. Bxb3 h1=Q 11. Be6 1/2-1/2
+
+[Event "1.p tp18"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=3051.44c1e8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "N3kb2/pq4p1/4B1P1/1p1P2B1/p7/3P4/2P5/2K5 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1927.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf7+ (1. Nc7+ $2 Qxc7 2. Bf7+ Qxf7 $1) 1... Kd7 2. Be6+ Kd6 3. Bf4+ Kc5 4.
+Be3+ Kb4 5. Bd2+ Ka3 6. Kb1 Qxa8 7. Ka1 $1 (7. Bc1+ $2 Kb4 8. Bd2+ Kc5 9. Be3+
+Kd6 10. Bf4+ Ke7 11. Bg5+ Ke8 12. Bf7+ Kd7 13. Be6+ Kc7) 1/2-1/2
+
+[Event "tp18 @2"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0311.34d1d5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/2p5/3k4/p1p5/PpP5/1P2B3/r1NK4 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1927.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf3+ Kc5 (1... Ke5 2. Bxc6 Rb1 3. Bxa4 Rxb2 4. Bxb3 $1 (4. Nxb3 $1 cxb3 5.
+Kc1 Rc2+ 6. Kb1 Rxc3 7. Kb2)) 2. Be4 Ra2 $1 3. Nxa2 bxa2 4. Kc1 a1=Q+ 5. Bb1
+1/2-1/2
+
+[Event "tp18 {c}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0311.44d1e5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2p5/2P5/4k3/p1p3B1/PpP5/1P6/r1NK4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1927.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be2 $1 (1. Bh5 $2 Rb1 2. Bf7 Rxb2 3. Bxc4 Kd6 4. Bb5 Rb1 5. Kd2 b2 6. Nd3
+Rd1+) 1... Kd5 (1... Rb1 2. Bxc4 Rxb2 $2 (2... Kd6 3. Bb5 Rxb2 4. Bxa4) 3. Nd3+
+) 2. Bf3+ $1 (2. Bxc4+ $2 Kxc4 3. Kd2 Rxa3 $1) 2... Kc5 (2... Kd6 3. Be4) 3.
+Be4 $1 Ra2 $1 4. Nxa2 $3 bxa2 5. Kc1 a1=Q+ 6. Bb1 1/2-1/2
+
+[Event "tp18 {v}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0311.34d1d7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3k4/2p5/8/p1p5/PpP5/1P2B3/r1NK4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1927.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bg4+ Kd6 2. Bf5 Kc5 3. Be4 Ra2 4. Nxa2 bxa2 5. Kc1 a1=Q+ 6. Bb1 1/2-1/2
+
+[Event "6.p tm19 @3 @2"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=4633.37a8c8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K1k5/P1p1p3/p2p4/2r1P2p/1p6/1Q3p2/2r2P1b/4n1q1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1928.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e6 (1. Qe6+ $2 Kd8 2. exd6 (2. Kb8 Rb5+ 3. Ka8 Bg3) 2... cxd6) (1. Qa4 $2 c6
+2. Qxb4 Rb5 3. e6 Bg3 4. Qg4 (4. Qd4 Re5) 4... hxg4 5. fxg3 Qxa7+) (1. Qxb4 $2
+e6 2. exd6 cxd6) 1... Bg3 (1... Kd8 2. Qxb4 Rb5 3. Qxd6+ exd6 4. e7+ Kd7 5.
+e8=Q+ Kxe8) (1... Qg5 $1) 2. Qa4 Rc6 (2... Rb5 3. Qxa6+ Kd8 4. Qxb5) (2... c6
+3. Qxa6+) 3. Qxb4 Rb6 4. Qg4 (4. Qf4 $1) 4... hxg4 5. fxg3 1/2-1/2
+
+[Event "6.p tm19 {v}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=4633.38a8c8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K1k5/P1p1p3/p2p3p/2r1Pp2/1p6/1Q3p2/n1r2P1b/6q1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1928.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e6 (1. Qe6+ $2 Kd8 2. exd6 (2. Kb8 Rb5+ 3. Ka8 Bg3) 2... cxd6) (1. Qa4 $2
+Rc6 (1... c6 $2 2. e6) 2. e6 Kd8 3. Kb7 (3. Qxb4 Rb6) 3... Rb6+ 4. Ka8 Rcc6 5.
+Qxb4 Bg3 6. Qg4 fxg4 7. fxg3 Rb7 8. Kxb7 Qxa7+) (1. Qxb4 $2 e6 2. exd6 cxd6)
+1... Bg3 (1... Qd1 2. Qd3 Bg3 3. Qxd1 R5c3 (3... Re5 4. Qxf3 Rxe6 5. Qb7+ Kd7
+6. Qb5+ Rc6 7. Kb7) 4. Qd4 Be5 5. Qxc3) (1... Qe1 2. Qd5 Qe4 3. Qxe4 c6 4.
+Qxc6+ Rxc6) (1... Kd8 2. Qxb4 Rb5 3. Qxd6+ exd6 4. e7+ Ke8) 2. Qa4 Rc6 (2...
+Rb5 3. Qxa6+ Kd8 4. Qxb5) (2... c6 3. Qxa6+ Kd8 4. Qb7) 3. Qxb4 Rb6 4. Qg4 fxg4
+5. fxg3 1/2-1/2
+
+[Event "6.p tm19 {v} @?"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=4630.38a8c8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K1k5/P1p1p3/p2p3p/2r1Pp2/1p6/1Q3p2/2r2P1b/6q1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1928.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e6 (1. Qe6+ Kd8 2. exd6 (2. Kb8 Rb5+ 3. Ka8 Bg3) 2... cxd6) (1. Qa4 $2 c6 2.
+Qxb4 Rb5 3. e6 Bg3 4. Qg4 (4. Qd4 Re5) 4... fxg4 5. fxg3 Qxa7+) (1. Qxb4 $2 e6
+2. exd6 cxd6) 1... Bg3 (1... Qd1 2. Qd3 Bg3 3. Qxd1 R5c3 (3... Re5 4. Qxf3 Rxe6
+5. Qb7+ Kd7 6. Qb5+ Rc6 7. Kb7) 4. Qd4 Be5 5. Qxc3) (1... Qe1 2. Qd5 Qe4 3.
+Qxe4 c6 4. Qxc6+) (1... Kd8 2. Qxb4 Rb5 3. Qxd6+ exd6 4. e7+ Kd7 5. e8=Q+ Kxe8)
+2. Qa4 Rc6 (2... Rb5 3. Qxa6+ Kd8 4. Qxb5) (2... c6 3. Qxa6+) 3. Qxb4 Rb6 4.
+Qg4 fxg4 5. fxg3 1/2-1/2
+
+[Event "td18#4 @1"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0060.43b5a8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k1b5/4p3/4p2p/1Kb1P1P1/8/4P3/7P/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1928.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g6 (1. gxh6 $1 Ba6+ 2. Kxc5 Bd3 3. Kc6 Bf5 4. Kd7 Kb7 5. Kxe7 Kc6 6. Kf6)
+1... Ba6+ 2. Kxa6 Ba7 3. g7 Bb8 4. g8=Q 1-0
+
+[Event "4.p tf07"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0014.55b8h7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "nK6/2p3pk/1pp5/1P3NP1/5P2/1P4P1/p1B5/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1931.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne3+ Kh8 $1 2. Bh7 a1=Q 3. g6 1-0
+
+[Event "3.hm t001"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0207.55h4h2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/p7/P2p1p2/3n4/R2P3K/1p2P1N1/P1p2P1k/Rn6 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1935.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc4 b2 2. Rxc2 bxa1=Q 3. f3+ Kg1 4. Kh3 Nxe3 5. Rh2 f5 6. f4 d5 7. a3 Qxa3
+8. Rg2+ Nxg2 1/2-1/2
+
+[Event "t001 @1"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0042.01e1h1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6N1/8/8/2b5/8/5pB1/8/N3K2k w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 f2 2. Bf4 (2. Bh4 $1 Bd6 3. Kxf2 Bg3+ 4. Kxg3) 2... Bd6 3. Bh6 Bf4 4.
+Bf8 (4. Bg7 $2 Be5) 4... Bd6 5. Ne7 1-0
+
+[Event "t001 {v}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0042.01e1h1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1B4N1/8/8/2b5/8/5p2/8/N3K2k w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 f2 2. Bf4 Bd6 3. Bh6 Bf4 4. Bf8 Bd6 5. Ne7 1-0
+
+[Event "ts23"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0054.47a2b8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "Bk6/1P2p3/1Pn5/4p3/Np2PB2/pP4pb/K4p1p/8 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc5 f1=B (1... f1=Q 2. Nd7+ Bxd7 3. Bxe5+ Nxe5) 2. Bxg3 h1=B (2... h1=Q 3.
+Na6+ Bxa6 4. Bxe5+ Nxe5) 3. Bh2 Bf3 4. Bg3 B3e2 5. Bh2 Bc4 6. Bg3 (6. bxc4
+Bxc4+ 7. Kb1 b3 8. Bg3 b2 9. Bh2 Bhe6 10. Kc2 Nd4+ 11. Kd2 Nf3+) 6... Bhe6 7.
+Ka1 Bxb3 8. Nd3 Bxd3 9. Bxe5+ Nxe5 1/2-1/2
+
+[Event "ts23"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0006.32f8d5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5K2/npP5/8/PP1k4/4p3/8/3n4/8 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1937.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. b6 Nc8 2. a6 Nc4 3. axb7 N4xb6 4. b8=Q (4. Kf7 $2 Nd6+) (4. Kg7 $2 e3 5.
+b8=Q Kc6 6. Kf7 e2 7. Ke8 e1=Q+) 4... Kc6 $1 (4... e3 5. Qb7+) 5. Kf7 $3 (5.
+Ke8 $2 e3 6. Kd8 e2) 5... e3 6. Ke8 e2 7. Kd8 e1=Q (7... Kb5 8. Qb7) 8. Qb7+
+Kxb7 (8... Kc5 9. Qc6+ Kb4 (9... Kd4 10. Qc5+ Ke4 11. Qf5+ Ke3 12. Qe5+ Kd2 13.
+Qxe1+ Kxe1 14. Ke8) 10. Qe4+ Qxe4) 1/2-1/2
+
+[Event "ts23"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=1370.38g1e1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/1p3P1p/1Qb1p2P/p1ppp1BP/2rbk1K1 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1938.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bb7 (1. Qxa2 $2 Ra1 2. Qf7 c1=Q 3. Qh5 Bc2) (1. Ba8 $2 a1=Q 2. Qd5 Qa7) (1.
+Bc6 $2 a1=Q 2. Qd5 Qa7 3. Qh1 Qg7+ 4. Bg2 Be5) 1... a1=Q 2. Qd5 Bh8 3. Qh1 Qg7+
+4. Bg2 Qg8 (4... Qf6 $2 5. Bf3 Qg6+ 6. Bg4) 1/2-1/2
+
+[Event "ts23 @2"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+3011.55c1h6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5p2/4pP1k/p3P1p1/p5P1/P2N4/1P6/qBK5 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "1938.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc2 (1. Nc5 Qxb2+ 2. Kxb2) 1... Kh7 2. Nc1 (2. Nc5 $1 Kh6 3. Nxa4 Qxb2+ 4.
+Nxb2) 2... Kg8 3. Ba2 Kf8 4. Bc4 Ke8 5. Bb5+ Kf8 (5... Kd8 6. Bxa4 Kc7 7. Be8)
+6. Bxa4 Kg8 7. Bb3 Kh7 8. Ba2 Kh6 9. Bb1 a4 10. Ba2 Kh7 11. Bc4 Kh8 12. Bb5 Kg8
+13. Bxa4 Kf8 14. Bb3 Kg8 15. Ba2 Kh7 16. a4 1-0
+
+[Event "ts23 @3"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0031.54a3b5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p6/1P2bp1N/Pk3p2/5P2/Kp3P2/1P6/8 w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1938.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a6 Kxa6 (1... Kxb6 2. axb7 Kxb7 3. Kb4) 2. Kb4 Kxb6 3. Kc3 Kc5 4. Kd2 Kd4 5.
+Ke2 Kc5 6. Kd2 Kd6 7. Kc1 Ke7 8. Kb1 Kf8 (8... Bd7 $1 9. Ka1 (9. Kc1 Kf8) 9...
+Ke6 10. Kb1 Bc6 11. Ka1 Bxf3 12. Kb1 Kd5 (12... Bh5 13. Ka1 (13. Kc1 Bg6 14.
+Kd2 Bh7 15. Ke3 Kd5 16. Nf7 Bg8 17. Nd8 Kd6 18. Nxb7+ Kc6 19. Nd8+ Kc7) 13...
+Bg6 14. Kb1 Bh7 15. Ka1 b6 16. Kb1 Kd5 17. Nf7 Ke4 18. Nd6+ Kxf4) 13. Nxf5 Ke4)
+9. Ka1 Kg7 10. Nxf5+ Bxf5 1/2-1/2
+
+[Event "ts23 {v}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0031.54a3b5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p6/1P2b2N/Pk3p2/5Pp1/Kp4P1/1P6/8 w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1938.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a6 Kxa6 2. Kb4 Kxb6 3. Kc3 Kc5 4. Kd2 Kd4 5. Ke2 Kc5 6. Kd2 Kd6 7. Kc1 Ke7
+8. Kb1 Kf8 (8... Bd7 9. Ka1 Ke6 10. Ng8 Kf7 11. Nh6+ Kg6 (11... Kg7 12. Nxf5+
+Bxf5) 12. Ng8) 9. Ka1 Kg7 10. Nxf5+ Bxf5 1/2-1/2
+
+[Event "ts23 {v}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0031.65a3b5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4b2N/1p4p1/1P4p1/Pk4P1/5pP1/Kp3P2/1P6/8 w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1938.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a6 Kxa6 (1... Kxb6 2. axb7 Kxb7 3. Kb4) 2. Kb4 Kxb6 3. Kc3 Kc5 4. Kd2 (4.
+Kd3 $2 Kd6) 4... Kd4 5. Ke2 Ke5 (5... Bb5+ 6. Kd2) 6. Kd2 Ke6 7. Kc1 Ke7 8. Kb1
+Kf8 9. Ka1 Kg8 10. Nxg6 Bxg6 1/2-1/2
+
+[Event "ts23 {v} @3"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0031.64a3b5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4b2N/1p6/1P4p1/Pk4P1/5pP1/Kp3P2/1P6/8 w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1938.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a6 Kxa6 2. Kb4 Kxb6 3. Kc3 Kc5 4. Kd2 Kd4 5. Ke2 Ke5 (5... Bb5+ 6. Kd2 Be8
+7. Ke2) 6. Kd2 Ke6 7. Kc1 Ke7 8. Kb1 Kf8 9. Ka1 Kg8 (9... Kg7 $1 10. Nxg6 Kxg6)
+10. Nxg6 Bxg6 1/2-1/2
+
+[Event "ts23 {v} @?"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+3011.54c1h6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5p2/4pP1k/4P1p1/p5P1/P2N4/1P6/qBK5 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1938.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc2 (1. Nc5 Qxb2+ 2. Kxb2) 1... Kh7 2. Nc1 Kg8 3. Ba2 Kf8 4. Bc4 Ke8 5. Bb5+
+Kf8 6. Bxa4 Kg8 7. Bb3 Kh7 8. Ba2 Kh6 9. a4 (9. Bb1 $2 Qxb2+ 10. Kxb2) 1-0
+
+[Event "t001"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0350.10h5d5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/2b5/1r1kB2K/8/8/7P/1B6 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1939.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd3 Rb3 2. Bc2 Rh3+ 3. Kg4 Bd7+ 4. Kg5 Kxe5 5. Bf5 Bxf5 1/2-1/2
+
+[Event "ts23"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0116.55a1d4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/P1P1P1p1/n1p3R1/B2k1nP1/p2p3p/P7/K7 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1939.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Re5 Ng2 (1... Kxe5 2. e7) (1... Nxe6 2. Rxe6 d2 3. Rxg6) (1... Ne2 2. Re3) (
+1... d2 2. Re4+ Kd5 (2... Kc3 3. Re3+) 3. Rxf4) 2. Rxc5 d2 3. Rc3 Ne3 4. Rxe3
+1-0
+
+[Event "ts23"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0356.10d4f8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5k2/1b6/4P3/1r6/B2Kn3/6B1/8/1n6 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1939.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e7+ Kxe7 2. Bh4+ Rg5 3. Bc2 Nbd2 4. Ke3 Kf6 5. Kf4 Bc6 (5... Kg6 6. Bxg5) 6.
+Bd3 1/2-1/2
+
+[Event "ts23 @2"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+4001.33h1h6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p5/5qNk/Q7/P7/4pp2/4P2P/7K w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1939.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5 f2 2. Ng4+ Kg6 (2... Kg7 3. Qxc7+ Kg6 4. Qh7+ Kg5 5. Qh5+ Kf4 6. Nxf2
+Qc6+ (6... exf2 7. Qf3+ Ke5 8. Qxf6+ Kxf6 9. Kg2) 7. Kg1 exf2+ 8. Kxf2 Qxa4) 3.
+Qh5+ Kg7 4. Qh7+ Kf8 5. Qg8+ Ke7 6. Qe8+ (6. Nxf6 $1 f1=Q+ 7. Qg1 Qxf6 8. Qxe3+
+) 6... Kd6 7. Qd7+ Kc5 8. Qb5+ (8. Qxc7+ $2 Kb4) 8... Kd6 9. Qd5+ Ke7 10. Qd7+
+Kf8 11. Qe8+ Kg7 12. Qg8+ Kxg8 13. Nxf6+ Kf7 14. Kg2 1-0
+
+[Event "ts23 {c}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+4001.44h1h6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p5/5qNk/Q7/P2p4/4pp2/P3P2P/7K w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1939.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5 f2 2. Ng4+ Kg6 (2... Kg7 3. Qxc7+ Kg6 4. Qh7+ Kg5 5. Qh5+ Kf4 6. Nxf2
+Qc6+ 7. Kg1 exf2+ 8. Kxf2 Qxa4 9. a3) 3. Qh5+ Kg7 4. Qh7+ Kf8 5. Qg8+ Ke7 6.
+Qe8+ Kd6 7. Qd7+ Kc5 8. Qb5+ Kd6 9. Qd5+ Ke7 10. Qd7+ Kf8 11. Qe8+ Kg7 12. Qg8+
+Kxg8 13. Nxf6+ Kf7 14. Kg2 1-0
+
+[Event "ts23 {v}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+4001.34h1h6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p5/5qNk/Q7/P2p4/4pp2/4P2P/7K w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1939.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5 f2 2. Ng4+ Kg6 (2... Kg7 3. Qxc7+ Kg6 4. Qh7+ Kg5 5. Qh5+ Kf4 6. Nxf2
+Qc6+ (6... exf2 7. Qf3+ Ke5 8. Qxf6+ Kxf6 9. Kg2) 7. Kg1 exf2+ 8. Kxf2) 3. Qh5+
+Kg7 4. Qh7+ Kf8 5. Qg8+ Ke7 6. Qe8+ Kd6 7. Qd7+ Kc5 8. Qb5+ (8. Qxc7+ $2 Kb4)
+8... Kd6 9. Qd5+ Ke7 10. Qd7+ Kf8 11. Qe8+ Kg7 12. Qg8+ Kxg8 13. Nxf6+ Kf7 14.
+Kg2 1-0
+
+[Event ".hm ts23 {c}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0440.22a3d1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1B6/1P5r/p7/2R5/8/K5p1/P5b1/3k4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc1+ Ke2 (1... Kxc1 2. Bf4+) 2. Re1+ Kd3 (2... Kf3 3. Bc7) 3. Re3+ Kc4 (3...
+Kc2 4. Re2+ Kd3 (4... Kd1 5. Rd2+ Kc1 6. Rd7) (4... Kb1 5. Rb2+ Ka1 6. Be5) 5.
+Rd2+ Kc4 (5... Ke4 6. Bc7) 6. Rd4+ Kb5 (6... Kc3 7. Rd7) 7. Rb4+ Kc6 8. Bc7) 4.
+Rc3+ Kb5 (4... Kd5 5. Bc7) 5. Ba7 (5. Rc5+ $2 Kb6) 5... Rxb7 6. Rc5# 1-0
+
+[Event "1.p ot07"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0610.50h2e7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4kP2/6P1/8/3rB1r1/2P3P1/6PK/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf5 $1 Rc4 2. Be6 $1 Kf8 $1 3. Kh3 $1 Rge4 4. Bd5 $1 Kg7 5. Kh2 $1 Ra4 6.
+Bc6 $1 Rec4 7. Bb5 $1 Rg4 8. Bd7 $1 Rae4 9. Bf5 $1 1/2-1/2
+
+[Event "2.p ts23"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0043.53e4a8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k4b1B/Pp2p1n1/1P5P/1p6/4K3/1P2P3/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h7 (1. hxg7 $2 Bxg7 2. Bxg7 b4) (1. Bxg7 $2 e5) (1. Ke5 $2 Ne6 2. h7 Ng5)
+1... e5 (1... Ne6 2. Kf5) 2. Kd3 (2. Kxe5 $2 b4 3. Kf6 Ne8+ 4. Kg6 Nf6 5. Bxf6
+Bg7) 2... b4 3. Kd2 e4 4. Kc2 Be7 (4... Ne6 5. Bf6 Bg7 6. Bxg7 Nf8 7. h8=N) 5.
+Bxg7 Bf8 6. h8=N Bxg7 7. Ng6 Bd4 8. exd4 e3 9. Nf4 e2 10. Nd5 e1=Q 11. Nc7# 1-0
+
+[Event "t001"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0011.01a2a4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/3N4/8/kB6/3p4/K7/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ba3 (1. Be1 $2 d2 2. Bxd2) (1. Bc5 $2 d2 2. Ne4 d1=N) (1. Bc3 $2 d2 2. Nc4
+d1=N 3. Bd4 Kb4) 1... d2 2. Ne4 d1=N 3. Bc5 Kb5 4. Kb3 Kc6 5. Bg1 Kd5 6. Nd2
+1-0
+
+[Event "ts23"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0043.21f7a8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/Bp3K2/1P5P/8/8/8/7b/n7 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke6 Bg1 2. Kd5 Nb3 3. h7 (3. Kc4 Nd2+ 4. Kd3 Nb3 5. Kc4 Nd2+ 6. Kd5 Nf3 7.
+h7 Bd4 8. Ke4 Ng5+) 3... Bd4 4. Kc4 Nc5 5. Kxd4 Ne6+ 6. Kc3 (6. Kd5 $2 Nf4+ 7.
+Ke4 Ng6) (6. Kc4 Nf8 7. h8=N Ng6 8. Nf7 Ne5+) (6. Ke3 Nf8 7. h8=N Ng6 8. Nf7
+Ne5 9. Nd6 Nc4+) (6. Ke5 Nf8 7. h8=N Ng6+) 6... Nf8 7. h8=N Ng6 (7... Ne6 8.
+Nf7 Nd8 9. Nd6 Nc6 10. Nb5 Nxa7 11. Nxa7) 8. Nf7 Ne5 (8... Ne7 9. Nd6 Nc8 10.
+Nb5 Nxa7 11. Nxa7) 9. Nd6 Nf3 10. Nb5 1-0
+
+[Event "ts23"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0046.20h4h8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3n3k/3B4/1P6/3n2P1/7K/8/8/5b2 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. b7 Nxb7 2. Bc6 Nd6 3. Bxd5 Nf5+ 4. Kh5 Be2+ 5. Kg6 Ne7+ 6. Kf7 Nxd5 7. g6
+Bh5 8. Kf8 Bxg6 (8... Nf6 9. g7+ Kh7 10. g8=Q+ Nxg8) 1/2-1/2
+
+[Event "ts23 @2 @3"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0440.12a3d1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1B6/1P5r/p7/2R5/8/K5p1/6b1/3k4 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc1+ Ke2 2. Re1+ Kd3 (2... Kf3 3. Bc7) 3. Re3+ Kc2 (3... Kc4 4. Rc3+ Kb5 (
+4... Kd5 5. Bc7) 5. Ba7 (5. Rc5+ $2 Kb6) 5... Rxb7 6. Rc5#) (3... Kd2 4. Re7
+Rxe7 5. Bf4+) 4. Rc3+ (4. Re2+ $1 Kd3 (4... Kd1 5. Rd2+ Kc1 6. Rd7 Rxd7 $1 7.
+Bf4+ Kc2 8. b8=Q Rd3+ 9. Ka4 Bc6+ 10. Ka5 Ra3+) (4... Kb1 5. Rb2+ Ka1 6. Be5)
+5. Rd2+ Kc4 (5... Ke4 6. Bc7) 6. Rd4+ Kb5 (6... Kc3 7. Rd7) 7. Rb4+ Kc6 8. Bc7)
+4... Kd1 5. Rd3+ Ke2 6. Rd2+ Kf1 7. Rf2+ Kg1 8. Rf7 Rxf7 9. Ba7+ Kf1 10. b8=Q
+1-0
+
+[Event "ts23 {v}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0440.34a3d1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1B6/1P5r/p4p2/2R5/p5P1/Kp6/P5b1/3k4 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc1+ Ke2 2. Re1+ Kd3 3. Re3+ Kc2 4. Rc3+ Kd1 5. Rd3+ Ke2 6. Rd2+ Kf1 7. Rf2+
+Kg1 8. Bh2+ 1-0
+
+[Event "ts23 {v} @3"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0440.13a3d1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1B6/1P5r/p7/1pR5/8/K5p1/6b1/3k4 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc1+ Ke2 (1... Kxc1 2. Bf4+) 2. Re1+ Kd3 (2... Kf3 3. Bc7) (2... Kd2 3. Re7)
+3. Re3+ Kc2 (3... Kc4 4. Rc3+ Kd5 5. Bc7) 4. Rc3+ Kd1 (4... Kb1 5. Rc1+) 5.
+Rd3+ Ke2 (5... Kc2 6. Rd2+ Kc1 7. Rd7 b4+ 8. Kb3 Bd5+ 9. Rxd5 Rxb7 10. Bf4+ Kb1
+11. Rd1#) 6. Rd2+ Kf1 (6... Kf3 7. Bc7) 7. Rf2+ Kg1 (7... Kxf2 8. Ba7+) (7...
+Ke1 8. Rf7 Rxf7 9. Bxg3+) (7... gxf2 $1) 8. Rf7 Rxf7 9. Ba7+ Kf1 10. b8=Q 1-0
+
+[Event "sp.hm ts23"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=3810.33b2e4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4rr2/8/3p1R2/3p4/4k3/2B5/1K1RPPPp/6q1 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "1941.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rd4+ Ke5 2. Rd3+ d4 3. Bxd4+ Kd5 4. Rxd6+ Kxd6 5. Bh8+ Ke6 6. Re3+ Kf5 7.
+Rf3+ Kg4 8. Rg3+ Kh4 9. Rh3+ Kg4 10. Rg3+ Kf4 11. Rf3+ Ke4 12. Re3+ Kd5 13.
+Rd3+ Kc4 14. Rc3+ Kb4 15. Rb3+ Ka4 16. Ra3+ 1/2-1/2
+
+[Event "us52"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+4031.54g1c6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/2k2P2/1qP2p2/5p1p/1p5b/4PP1P/2N2QK1 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nxb3 (1. Qxh3 $2 b2 2. Qf3+ Kd7 3. Qd5+ Kc7 4. Qd6+ Kb7) 1... Qxb3 (1...
+Bxf1 2. Nd4+ Kxc5 3. Nxb5) 2. Qxh3 Qxh3 3. f3 Kxc5 4. f7 Kd4 5. f8=N Ke3 6. Ng6
+(6. Ne6 $2 Qg4+ 7. fxg4 fxg4 8. Kf1 h3 9. Ng5 g3 10. hxg3 h2 11. Kg2 fxg3) 6...
+Qg3+ (6... Qxh2+ 7. Kxh2) 7. hxg3 hxg3 8. Nh4 1-0
+
+[Event "us52 @2"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[=0362.25a5c7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1N4br/bpk3Np/5pP1/Kp3p2/8/1P6/8/8 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne8+ Kd8 2. g7 Kxe8 3. gxh8=Q Kf7 4. Nd7 Bd4 5. Kb4 (5. Kxb5 $1 f4 6. Kc4)
+5... f4 6. Ka3 f3 (6... b4+ 7. Ka2 f3 8. Qxh7+ Bxh7) 7. b4 f2 8. Ne5+ Bxe5 9.
+Qg7+ Kxg7 1/2-1/2
+
+[Event "us52"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0030.32e4h1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7b/p1p5/P7/1P6/4K3/1P6/8/7k w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. b4 (1. Kd5 $2 Bc3 2. Kc6 Ba5) 1... Bc3 2. b6 cxb6 3. b5 1-0
+
+[Event "us52"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Simkovitch, F."]
+[Black "[+0344.10b1e6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "b7/r7/2n1kP2/B7/4N3/8/8/1K6 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bb6 Ra3 2. Kb2 1-0
+

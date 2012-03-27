@@ -1,0 +1,974 @@
+[Event "3.hm tp18"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0044.12a1d4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4N3/5b2/8/8/B2k4/p2p4/1P1n4/K7 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1929.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd6 Nb3+ 2. Bxb3 Bxb3 3. Nb5+ Ke3 4. Nxa3 d2 (4... Kd2 5. Kb1 Ke1 6. Nb5 d2
+7. Nc3 Kf1 8. Ka1) 5. Nb1 d1=Q 1/2-1/2
+
+[Event "tm17"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0010.55h3f8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5k2/p5pB/6P1/8/2p2p1P/2p2P1K/2P2P2/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1929.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h5 a5 2. h6 a4 (2... gxh6 3. g7+ Kxg7 4. Be4 a4 5. Bd5 a3 6. Bxc4) 3. Bg8 $1
+Kxg8 4. h7+ Kh8 5. Kg2 a3 6. Kf1 a2 7. Ke2 a1=N (7... a1=Q) (7... a1=B 8. Kf1)
+8. Kd1 Nxc2 9. Kxc2 1/2-1/2
+
+[Event "ts23"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+4040.22h1h4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2B3p1/7b/7p/7k/2q4P/Q5P1/7K w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1934.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qf7 $1 Be3 $1 2. Qe7+ g5 3. Kh2 Bg1+ 4. Kxg1 Qc1+ (4... Qd4+ 5. Qe3 $3 Qxe3+
+6. Kh2) 5. Qe1+ $3 (5. Kh2 Qh1+ 6. Kxh1) 5... Qxe1+ 6. Kh2 Qf2 7. Bd6 $1 Qf4+
+8. g3+ Qxg3+ 9. Bxg3# 1-0
+
+[Event "ts23"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0031.24h5h1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/b4P1p/4p2K/8/1p2p2N/1P6/7k w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1935.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 e2 2. f8=Q e1=Q 3. Qf3+ Kh2 4. Nf2 Be2 5. Kh4 Qb4+ 6. Ne4 Qe7+ 7. Nf6
+Qb4+ 8. Ne4 Qe1+ 9. Nf2 1/2-1/2
+
+[Event "4.p ts23#720"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0611.33g8h5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2B3K1/8/3N1p1p/6pk/5P1P/6P1/7r/5r2 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1935.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne8 (1. Nf5 $2 Kg4 2. Ne3+ Kf3 3. Nxf1 Rf2) 1... Kg6 2. h5+ Rxh5 3. f5+ Rxf5
+4. g4 Re5 5. Bf5+ (5. Ng7 f5) 5... Rxf5 6. Ng7 1-0
+
+[Event "3.p wm03 t001"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+3100.54a5a8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/1p1p4/1PPP4/Kp6/1P3p2/5P1q/8/3R4 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c7 Qh8 2. Rd4 Qg8 3. Rd5 Qh8 4. Re5 Qg8 5. Re6 Qh8 6. Rf6 Qg8 7. Rf7 Qh8 8.
+Rg7 Qe8 9. Rg2 Qh8 10. Ra2 Qg8 11. Kxb5+ 1-0
+
+[Event "tl20#2019 {v}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0233.34b3h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/6pP/8/4p1P1/R7/1Kb5/pp2P3/Rn6 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1937.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g6 Nd2+ (1... bxa1=N+ 2. Kxa2) 2. Ka3 Nb1+ 3. Rxb1 a1=Q+ 4. Kb3 e4 $1 (4...
+Bd4 5. e3 Bc3 6. e4 Bd4 7. Kb4 Bc3+ 8. Kb5 Bd4 9. Ra6 Bc3 10. Kb6) 5. e3 $1 Be5
+6. Kb4 Bf6 7. Kb5 Bc3 8. Ra6 Bf6 $1 9. Kb6 $1 Bd8+ 10. Kb7 Qxb1 (10... Bf6 11.
+Ra8+) 11. Re6 1-0
+
+[Event "t001#184"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=3140.33a1h8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2q1B2k/8/1P4PP/1p6/b7/p7/p2R4/K7 w - - 0 1"]
+[PlyCount "30"]
+[EventDate "1939.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bc6 (1. g7+ $2 Kh7) 1... Bb3 $1 (1... b4 2. b7 Qc7 3. b8=Q+ Qxb8 4. Bxa4
+Qe5+ 5. Kxa2 Qe6+ 6. Bb3 Qxg6 7. Rc2 Qxh6 8. Re2) 2. b7 Qc7 (2... Qb8 $2 3. Re2
+) 3. Re2 Bg8 $1 4. b8=Q $1 (4. Re8 $2 Qh2) 4... Qxb8 5. Re7 (5. Bd5 $2 Bxd5 6.
+Re8+ Qxe8 7. g7+ Kh7 8. g8=Q+ Kxg8 9. h7+ Kf7) 5... Qf4 (5... Qd6 6. Rh7+ Bxh7
+7. g7+ Kg8 8. Bd5+ Qxd5) (5... Bf7 $2 6. gxf7 Qf4 7. Re8+ Kh7 8. Be4+) 6. Rh7+
+$1 Bxh7 7. g7+ Kg8 8. Bd5+ Qf7 9. Be6 $1 (9. Bb3 Qc4) 9... Be4 10. Bd5 Bf5 11.
+Be6 Bg6 12. Bd5 Kh7 13. Bxf7 Bxf7 14. g8=Q+ Kxg8 15. h7+ Kxh7 1/2-1/2
+
+[Event "1.p ts23"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0410.12c1a2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/5Pr1/3R4/pp6/8/k2B4/2K5 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1939.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bg5 (1. Rf5 $2 Rg1+ 2. Kc2 b3+ 3. Kc3 b2 4. f7 Rc1+) 1... b3 2. Rd2+ Ka1 3.
+f7 (3. Be3 $2 b2+ 4. Rxb2 Rxf6 5. Bd4 Rf1+ 6. Kc2 a3 7. Rb1+ Ka2 8. Rxf1) 3...
+Rxg5 (3... a3 4. Rd1 Rd6 5. f8=Q b2+ 6. Kc2+ Rxd1 7. Qxa3#) 4. f8=Q Rg1+ 5. Rd1
+Rg2 6. Qa3+ Ra2 7. Rd2 $1 (7. Qc5 $2 Rh2 (7... b2+ $2 8. Kd2+ b1=Q+ 9. Ke1) 8.
+Rd2 Rh1+ 9. Rd1 Rh2) 7... Rxa3 (7... b2+ 8. Qxb2+ Rxb2 9. Rxb2 a3 10. Rb1+ Ka2
+11. Rb8 Ka1 12. Kc2 a2 13. Kb3) 8. Rb2 Ra2 9. Rb1# 1-0
+
+[Event "5.p we03"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+3114.43e3h1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5pp1/6n1/q7/2B3P1/4K3/1RNPPP1p/7k w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1940.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf3 $1 (1. Rb5 $2 Qxb5 2. Bxb5 Nh4 3. Ne1 Ng2+ 4. Nxg2 Kg1) 1... Nh4+ 2. Kg3
+Qe5+ 3. f4 Qxb2 4. Kf2 Qb7 5. Ne3 f5 $3 (5... g5 6. Bd5+ Qxd5 7. Nxd5 f5 8. Nf6
+$1 fxg4 (8... gxf4 9. g5 $1 Ng6 10. d4) 9. Nxg4 Ng6 10. fxg5) 6. g5 $1 (6. gxf5
+$2 g5 $1 7. fxg5 Qe4 $1 8. Bd5 Ng2 $1 9. Bxe4) (6. Bd5+ $2 Qxd5 7. Nxd5 fxg4 8.
+Ne3 g3+) 6... g6 (6... Qe4 7. Bd5 Qxd5 8. Nxd5) 7. Bd5+ Ng2 $1 8. Bc6 $3 (8.
+Bxb7) (8. Nf1 $2 Qb6+ 9. e3 Qxe3+) 8... Qa8 (8... Qxc6 9. Nf1 Qb6+ 10. e3) 9.
+Bb7 $3 Qxb7 10. Nf1 Qb6+ 11. e3 1-0
+
+[Event "1/2.p mk03 ts23#22"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0431.21e2c3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2b1p3/2r4P/6RN/8/2kP4/4K3/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1945.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ng7 $1 Rxh6 2. Rc5+ Kd4 3. Rc4+ Ke5 4. Rxc7 Kf6 5. Ne8+ Kf7 6. Rc8 Re6+ $1
+7. Kd1 $3 Rg6 8. Nc7 Rc6 9. Kd2 $1 Rc5 10. Rf8+ Kxf8 11. Ne6+ 1-0
+
+[Event "2.p ts23#19"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0044.23b3c8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2k5/pNpn4/p7/2P5/7b/1K6/P5B1/8 w - - 0 1"]
+[PlyCount "37"]
+[EventDate "1948.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c6 $1 Ne5 $1 (1... Nf6 2. Bh3+ Kb8 3. Nc5 Bg3 4. Nxa6+ Ka8 5. Bc8) (1... Nb6
+2. Bh3+ Kb8 3. Nc5 Bg3 4. Nxa6+ Ka8 5. a4 Bf4 6. a5 Bg3 7. axb6) 2. Bh3+ Kb8 3.
+Nc5 $1 Nxc6 4. Nd7+ Kb7 5. Bg2 Bg3 6. Kc4 a5 $1 7. Nc5+ Kb6 8. Na4+ Kb7 9. Kd3
+$1 Bf2 (9... a6 10. Ke2) 10. Ke2 $3 (10. Bd5 $2 a6 11. Ke4 Ba7 $3 12. Kf5 Bb8
+13. Ke6 Ka7 14. Bxc6) 10... Bg1 11. Bd5 $1 a6 12. Kf3 Bd4 13. Kf4 $3 (13. Ke4
+$2 Ba7) 13... Ba7 14. Ke4 $3 Bb8 15. Nc5+ Kb6 (15... Ka7 16. Bxc6 Kb6 17. Kd5)
+16. Nd7+ Kb5 17. a4+ Kxa4 18. Bxc6+ Kb3 19. Nxb8 1-0
+
+[Event "3.p ts23#72"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=3110.54h4f8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3B1k2/P2p1p2/3P2pR/7p/7K/6P1/6PP/3q4 w - - 0 1"]
+[PlyCount "35"]
+[EventDate "1949.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h3 Qd4+ (1... Qa4+ 2. Kg5 $1 Qb5+ 3. Kh4) 2. g4 (2. Kg5 $2 Qd5+ 3. Kh4 Kg7)
+2... Qxa7 3. Bf6 Qf2+ 4. Kg5 Qd2+ 5. Kh4 Qxh6 6. g5 Qh7 7. Kg3 $1 h4+ (7... Qg8
+8. h4 Ke8 9. Kf4 Qf8 10. Ke5) 8. Kf2 Ke8 $1 (8... Qh5 9. Ke1 Ke8 10. Kd2 $1 Qh7
+11. Kd3 Qg8 12. Kd4 Qf8 13. Kd5) 9. Ke3 $1 Qh5 10. Kd2 Kf8 11. Ke1 (11. Be7+ $2
+Kg7 $1 12. Bf6+ Kg8 13. Ke1 Kf8 14. Kd2 Ke8 15. Ke1 Qh7 16. Kf2 Qg8 17. Ke3 Qf8
+) 11... Ke8 12. Kd2 Qh7 13. Ke3 Qg8 14. Kd4 Qf8 15. Ke5 Qg8 16. Kd4 Qh7 17. Ke3
+Qh5 18. Kd2 1/2-1/2
+
+[Event "2.p mt02 ts23"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0381.11g2e2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5b2/p4B2/5B2/1bN5/8/P3r3/4k1K1/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1949.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bh5+ (1. Ne6 $2 Bc6+ 2. Kg1 Rg3+ 3. Kh2 Bd6 4. Nd4+ Kf1 5. Nxc6 Re3+) 1...
+Ke1 2. Bh4+ Kd2 3. Bg5 Bxc5 4. Kf2 Kd3 (4... a5 5. Bg6 Bd3 6. Bh5 Bf5 7. Be2)
+5. Bg6+ Re4+ 6. Kf3 Bc6 7. a4 $1 (7. Bc1 $2 Kc2 (7... a5 $2 8. a4 $1 Kd4 9.
+Bb2+) 8. Bg5 Bxa3 $1 9. Bxe4+ Bxe4+ 10. Kxe4 a5 11. Kd4 Kb3 (11... a4 $2 12.
+Kc4 Bf8 13. Bh6 Be7 14. Bg5) 12. Kd3 a4 13. Bf4 Bf8 14. Bc1 Bg7) 7... Kd4 8.
+Bf6+ Re5+ 9. Kf4 Bd6 10. a5 $1 (10. Bc2 $2 a5 11. Bd1 Bd5 12. Bg7 Bc4 13. Bf3
+Bb3 14. Bc6 Bd5 $1 (14... Kc5 $2 15. Bxe5 Kxc6 16. Bxd6 Kxd6 17. Ke3) 15. Be8
+Be4 $1 16. Bf7 Bc2 17. Be8 Kd5 18. Bf7+ Re6+) 10... Kd5 11. Bf7+ Re6+ 12. Kf5
+Bd7 13. a6 $1 (13. Bc3 $2 Bc5 14. Be5 a6 15. Bg8 Bb4 16. Bc7 Kc6) 1/2-1/2
+
+[Event "1.p ts23#69 {c}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0044.22c6f8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4Bk2/5p2/2K5/1p3P2/2b2P2/8/1n6/2N5 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1949.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd7 b4 (1... Na4 2. Kd6) 2. Kc5 b3 3. Kb4 Na4 $1 4. Nxb3 Bxb3 5. Bc6 $3 (5.
+Kxb3 Nc5+) (5. Bxa4 Bxa4 6. Kxa4 Ke7) 5... Bd1 6. f6 $1 Nb6 7. Kc5 Na4+ 8. Kb4
+Nb2 9. Kc3 Ba4 $1 10. Bf3 $1 Nd1+ 11. Kd2 Nf2 12. Ke3 Nd1+ (12... Nh3 13. Bg4
+Ng1 14. Kf2) 13. Kd2 Nb2 14. Kc3 Bd1 15. Bc6 $1 1/2-1/2
+
+[Event "4.c ts23#15"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0801.02g4f7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6RR/5k2/8/8/2p3K1/r1p4r/8/N7 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1953.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf8+ Ke7 (1... Kg7 2. Rhg8+ Kh7 3. Nc2) 2. Re8+ Kd7 3. Rd8+ Kc7 4. Rc8+ Kb7
+5. Rb8+ Ka7 6. Ra8+ Kb7 7. Rhb8+ Kc7 8. Rc8+ (8. Rxa3 $2 c2 $1 9. Kxh3 c1=Q 10.
+Rba8 c3 11. Ra2 Qe3+ 12. Kg2 Qd2+ 13. Kf1 Qd3+ 14. Ke1 Qe3+ 15. Kd1 Qd3+ 16.
+Kc1 Qf1+ 17. Kc2 Qe2+ 18. Kxc3 Qe3+ 19. Kb2 Qd4+) 8... Kd7 (8... Kb7 9. Rab8+
+Ka7 10. Nc2) 9. Rd8+ Ke7 10. Re8+ Kf7 11. Rf8+ Kg7 12. Rg8+ Kh7 13. Rxa3 $1 c2
+14. Rxh3+ 1-0
+
+[Event "1.hm ts23#26"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0310.11d1b1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3B4/p7/8/8/1P6/1r6/1k1K4 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "1955.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf5+ (1. Bc8 $2 Ra2 $1 (1... a5 $2 2. Bf5+ Ka1 3. Bc2) 2. b4 Kb2 3. Be6 Ra4)
+(1. Be6 $2 Rh2 2. b4 Kb2 3. Bc4 Rh6) (1. Ba4 $2 Ka2 2. Kc1 Ka3) 1... Ka1 $1 (
+1... Ka2 2. Bd3 a5 3. Bc2) 2. Bd3 $1 (2. Bc2 $2 Ra2 3. b4 (3. Kc1 a5) 3... Kb2
+4. Kd2 Ra3 5. Bd3 (5. Bd1 Rh3 6. Be2 Rh6) 5... Kb3 6. b5 a5 7. Bc2+ (7. b6 Ra2+
+8. Ke3 Kc3) (7. Ke3 Kc3) 7... Kc4 8. b6 Ra2 9. Kc1 Kc3 10. Be4 Rb2) 2... Ra2 $1
+(2... a5 3. Bc2) 3. Kc1 a5 (3... Ra5 4. b4 Ra4 5. Kc2) (3... Ra3 4. Kc2 a5 5.
+Kc3 Ka2 (5... a4 6. Bc4 Ka2 7. Kb4 axb3 8. Kc3) (5... Ra2 6. Bc2) 6. Kc2 $1
+Rxb3 7. Bc4 a4 8. Be6 Ka3 9. Bd5) 4. Bc2 Rb2 5. Kd2 Ka2 6. Kd1 (6. Kc1 $2 Ka3
+7. Kd2 (7. Bd1 Rh2) 7... Kb4) 6... Ka3 7. Kc1 Ra2 8. Kb1 Rb2+ 9. Kc1 Ka2 10.
+Kd1 Ka1 11. Kd2 $1 Ra2 12. Kc1 Ra3 13. Bd1 $1 Ka2 14. Bc2 Ka1 15. Bd1 $1 Ka2
+16. Bc2 1/2-1/2
+
+[Event "tz07"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0431.11b6a8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/8/1K6/3r1N2/8/8/2Pp4/5R1b w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1955.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd4 (1. Ne3 Rd6+ 2. Kc7 (2. Kb5 Bf3) 2... d1=Q) 1... Bf3 2. Rxf3 Rd6+ 3. Kc7
+Rd7+ 4. Kxd7 d1=Q 5. Kc7 Qc1 (5... Qxd4 6. Ra3+ Qa7+ 7. Rxa7+ Kxa7 8. c4) (5...
+Qa1 6. Rf8+ Ka7 7. Nc6+) 6. Rf8+ (6. Nc6 $2 Qf4+ 7. Rxf4) (6. Rf6 Qa3) 6... Ka7
+7. c4 (7. Rf6 $2 Qg5 (7... Qb2 $2 8. Nc6+ Ka6 9. Nb8+ Ka5 10. Ra6+ Kb4 11. Rb6+
+) 8. Nc6+ Ka6) (7. Rf5 Qe1 (7... Ka6 $2 8. Rf6+) 8. Nc6+ Ka6 9. Ra5+ Qxa5+ 10.
+Nxa5 Kxa5) 7... Qxc4+ 8. Nc6+ Ka6 9. Ra8+ Kb5 10. Ra5# 1-0
+
+[Event "1.hm ts23#45"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+3230.34b3a1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "Rb6/1p4Pq/1p6/P2pR3/4p3/1K6/5P2/k7 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1956.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g8=Q (1. Rxd5 $2 Qg8 $1 2. Kc2 Qc8+ $1 3. Kd1 Qg4+) (1. Rh5 $2 Qxh5 $1) (1.
+Rg5 $2 Qh3+ 2. Rg3 Qf1) 1... Qxg8 (1... Qh3+ 2. Qg3 Qxg3+ 3. fxg3 Bxe5 4. Kc2)
+2. Rg5 $1 Qxg5 3. Kc2 b5 4. a6 b6 5. a7 Bd6 6. Rh8 $1 Ba3 (6... Bb4 7. a8=Q+
+Ba5 8. Rh1+ Ka2 9. Ra1+ Kxa1 10. Qh8+ Ka2 11. Qb2#) 7. Rh1+ Ka2 8. a8=Q Qe5 (
+8... b4 9. Qa4) 9. Ra1+ $1 Kxa1 10. Qxa3# 1-0
+
+[Event "sp.p ts23#44"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0314.11h4f3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2B5/2N5/3P4/5p1K/3n1k2/5r2/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1957.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d6 Nc5 2. Ne5+ Ke4 3. d7 Ne6 4. Ng4 $1 (4. Nc6 $2 Rc2 $1) (4. Nf7 $2 Rh2+ 5.
+Kg4 Rg2+ 6. Kh4 Rg7 $1 7. Ng5+ Rxg5 8. d8=Q Nxd8 9. Kxg5 Ne6+) 4... Rd2 (4...
+Rf1 5. Kh5 Rh1+ 6. Kg6 Rh8 7. Nf6+) 5. d8=Q Nxd8 6. Ba5 Rd4 7. Bb6 Rd6 8. Bc7
+Rd2 (8... Rg6 9. Kh5 $1 (9. Bxd8 $2 Kf5 10. Nf6 f3 11. Nd5 f2 12. Ne3+ Kf4)) 9.
+Ba5 1/2-1/2
+
+[Event "1.p tm04#0231"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0053.41f2h7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7b/7k/2B2P2/B7/6P1/P2P4/p4K2/1n6 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1957.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be4+ Kh6 2. f7 Bd4+ $1 (2... Bg7 3. Bc7 Kg5 4. Bd8+ Kxg4 5. f8=Q Bxf8 6. Bf6
+) 3. Kg2 $1 Bc5 4. Bd8 $1 (4. f8=Q+ $2 Bxf8 5. Bd8 Be7 $3 6. Bxe7 a1=Q 7. g5+
+Kh5 8. Bf3+ Kg6 9. Be4+ Kf7) 4... a1=Q 5. f8=Q+ $1 Bxf8 6. g5+ Kh5 7. Bf3+ Kg6
+8. Be4+ Kf7 9. Bd5+ Ke8 10. Bf6 Qxa3 (10... Nc3 11. Bc6+) 11. Bc6+ Kf7 12. Bd5+
+Kg6 13. Be4+ Kh5 14. Bf3+ 1/2-1/2
+
+[Event "1.p wa03"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0341.23d1c8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1bk5/2p2N2/8/1PP3p1/1r2p3/8/B7/3K4 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1957.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be6+ Kb7 2. Nd8+ Ka8 3. Bd5+ c6 4. Nxc6 $1 Rb1+ $1 5. Kc2 Rxb5 6. Nd4+ (6.
+Nd8+ $2 Ka7 7. Nc6+ Ka6 8. Bc4 Be5 $1 9. Nxe5 Ka5 10. Bxb5 Kxb5 11. c6 Kb6 12.
+Kd2 g4 13. Ke3 g3 14. Ke2 Kc7) 6... Rb7 7. c6 Rc7 8. Nb5 e3 9. Kd1 $1 e2+ 10.
+Ke1 $1 g4 11. Be4 $3 (11. Bg2 $2 g3 12. Bd5 g2 13. Bxg2) (11. Bh1 $2 Rh7 12.
+Be4 Bg3+ 13. Kxe2 Rh2+ 14. Ke3 Kb8) 11... g3 12. Bg2 $1 Ra7 13. c7+ Rb7 14.
+c8=N $1 Be5 15. Ncd6 $1 1-0
+
+[Event "ts23#30"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0110.12c2d4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2RB4/8/8/3k4/6p1/2K3Pp/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1957.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bh3 h1=Q 2. Rd7+ Ke3 (2... Kc4 3. Rd1 Qh2 4. Kb2 Kc5 (4... Kb4 5. Rc1) 5.
+Kc3 Kb5 6. Kd4 Kc6 (6... Kb4 7. Rb1+) 7. Kc4 Kb6 8. Kd5 Kc7 9. Kc5 Kb7 10. Kd6
+Kb6 11. Rb1+ Ka5 12. Kc5 Ka4 13. Kc4 Ka3 14. Kc3 Ka4 15. Kb2 Kb4 16. Rc1 Kb5
+17. Kb3 Ka5 18. Kc4 Kb6 19. Kb4 Ka6 20. Kc5 Kb7 21. Kb5 Ka7 22. Kc6 Kb8 23. Kb6
+Ka8 24. Rc8#) (2... Ke4 3. Rd1 Qh2 4. Re1+ Kf4 5. Kd3 Kg5 6. Rf1 Kg6 7. Ke4 Kg5
+8. Ke5 Kg6 9. Kf4 Kf6 10. Re1 Kg6 11. Kg4 Kf6 12. Kh5 Kf7 13. Kg5 Kg7 14. Rf1
+Kh7 15. Rf7+ Kg8 16. Be6 Kh8 17. Kg6) 3. Rd1 Qh2 4. Re1+ Kf2 5. Kd1 $1 (5. Kd2
+$2 Qh1 $1 6. Re2+ (6. Rxh1) 6... Kg1 7. Re8 Kh2 8. Re1 Qxe1+ 9. Kxe1) 1-0
+
+[Event "4.hm tm04#0293 {ea}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Kasparian, G BondarenkoF"]
+[Black "[+0441.11c2h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "N1r4k/1p6/6B1/2b5/8/8/1RKP4/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1958.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ra2 Ba7+ (1... Ba3+ 2. Kb3) 2. Kd1 $1 Rxa8 3. Bh5 $1 (3. Be4 $2 Re8 4. Rxa7
+Rxe4 5. Rxb7 Kg8) 3... Kg7 (3... b5 4. Bf7 $1 b4 5. Bb3 $1 Kg7 6. Ra6 Kf8 7.
+Ra4 Ke7 8. Bd5) 4. Bg4 $1 Kh6 (4... b5 5. Bf3) (4... Kh8 5. Bh3 b5 6. Be6 $1
+Re8 7. Bd7 Ra8 8. Kc2 b4 9. Kb3 Kg8 10. d4 Kf8 11. d5 Ke7 12. Bc6) 5. Bh3 $1
+Kg5 (5... b5 6. Ra6+ Kg5 7. Bg2) 6. Bg2 $1 Kf4 7. Bxb7 Rd8 8. Rxa7 1-0
+
+[Event "3.p tm04#0315"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0183.21e6a6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1B6/8/k3K3/3R3p/7n/bb3P2/6BP/8 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1958.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bh1 (1. Bf1+ $2 Kb7) 1... Kb7 2. Bg3 $1 (2. Be5 $2 Nxf3 3. Bxf3 Kc6) (2. Bd6
+$2) 2... Nxf3 $1 (2... Kc6 3. f4 Ng6 4. Kf6) (2... Bxd5+ 3. Kxd5 Nf5 4. Bf2) 3.
+Bxf3 Kc6 4. Ke5 Bb2+ 5. Rd4+ Kc5 6. Bf2 h4 $1 (6... Bf7 7. h4 $1 Be8 8. Be4 Bc3
+9. Bf5 Bc6 10. Bg6 Bf3 11. Be4 $1 Bd1 12. Bd5 $1 Bc2 13. Bf7 Bd1 14. Ke4 Bc2+
+15. Rd3+) 7. Ke4 Bc2+ 8. Rd3+ Kc4 9. Be2 h3 $1 (9... Bf6 10. h3 Be7 11. Be3 Bb1
+12. Bf4 Bc5 13. Bg5 Bf2 14. Kf3) 10. Ke3 Bc1+ 11. Rd2+ Kc3 12. Be1 Bf5 13. Bf3
+Bd3 14. Bg4 Bf1 15. Be2 Bg2 16. Ba6 Bc6 17. Ke2 1-0
+
+[Event "1.p tt22"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0440.22a8c8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "K1k1B2b/3pP3/1rp5/1P6/8/8/2R5/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf7 Rb8+ 2. Ka7 Bd4+ 3. b6 Bxb6+ 4. Ka6 Bd8 5. Rxc6+ dxc6 6. Be6+ Kc7 7.
+e8=N# 1-0
+
+[Event "1.p wi01 {tt}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0044.21g5g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/6nN/7B/6K1/6p1/1PP5/5b2/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf6+ (1. Kg6 $2 Ne8) 1... Kf7 2. Nxg4 (2. Bxg7 $2 g3) 2... Ne6+ 3. Kf5 $1 (
+3. Kh5 $2 Be1 4. c4 Nc5 $1 5. Ne5+ Ke6 6. Nf3 Bc3 $1 7. Bd2 Bxd2 8. Nxd2 Ke5 $1
+9. b4 Nd3 10. b5 Kd4 11. b6 (11. Nb3+ Kxc4 12. b6 Ne5 13. b7 Nd7) 11... Nb4 $1
+12. b7 Na6 $1) 3... Be1 4. Ne5+ Ke7 5. Nc6+ Kd6 $1 (5... Kd7 6. c4 Nc5 (6...
+Bc3 7. Nb8+ Kd6 8. Be3 Bd4 9. Bc1 Ba7 10. Ba3+ Bc5 11. b4 Ba7 12. b5+ Bc5 13.
+Bxc5+ Nxc5 14. Na6) (6... Kd6 7. Be3) 7. Ne5+ Kc8 8. Nf3 Ba5 $1 9. Nd4 Bc3 10.
+Ne2 Bb4 11. Nc1 Ba3 12. Be3) 6. c4 (6. Nd4 $2 Nxd4+ 7. cxd4 Kd5) (6. Na7 $2
+Bxc3 7. Nb5+ Kc5 8. Nxc3 Nd4+) 6... Bc3 $1 (6... Bf2 7. b4 Be1 8. b5) 7. Na7 $1
+(7. Be3 $2 Ng7+) 7... Nd4+ 8. Ke4 Nxb3 9. Nb5+ Kc5 10. Bf8+ Kxc4 11. Na3# 1-0
+
+[Event "4.p jg05 @2"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Kasparian, G MandinjanR"]
+[Black "[+0162.04b1f1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3b4/1pN5/8/1p6/bp6/1p6/R7/1K3k1N w - - 0 1"]
+[PlyCount "61"]
+[EventDate "1964.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf2+ (1. Ng3+ $2 Kg1) 1... Kg1 2. Nd5 $1 (2. Ne6 Bb6) 2... Kxh1 3. Rf8 Ba5 (
+3... Bg5 4. Rh8+ Kg2 5. Rg8) 4. Ra8 b6 5. Kb2 $1 Kg2 6. Rf8 Kg3 7. Ne3 Kh4 8.
+Rg8 Kh5 9. Ng4 Kh4 10. Nf6 Kh3 11. Nh5 (11. Ne4 $1) 11... Kh4 12. Ng3 Kh3 13.
+Nf5 Kh2 14. Ne3 (14. Rg3 $1) 14... Kh3 (14... Kh1 15. Nd5 Kh2 16. Nf4) 15. Ng2
+Kh2 16. Nf4 Kh1 17. Rg7 Kh2 18. Rg2+ Kh1 19. Re2 Kg1 20. Rd2 Kf1 (20... Kh1 21.
+Nd5 Kg1 22. Ne3) 21. Ng2 Kg1 22. Ne3 Kh1 23. Ng4 Kg1 24. Nh2 Kh1 25. Kb1 Kg1 (
+25... b2 26. Nf3) 26. Rb2 $1 Kh1 27. Kc1 Kg1 28. Kd1 Kh1 29. Ke1 Kg1 30. Nf3+
+Kh1 31. Rh2# 1-0
+
+[Event "1/2.p ta16"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0350.20c1c3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r5/b6P/7B/3B3P/8/2k5/8/2K5 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1964.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bg7+ Bd4 2. h6 Kd3+ 3. Kb1 $1 (3. Kd1 Be3) 3... Rb8+ $1 (3... Rh8 4. Bb3 Ke4
+5. Bc2+ Kd5 6. Bf5 Be5 7. Kc2) 4. Ka2 Rh8 5. Bf7 $1 (5. Bg8 $2 Ke4 6. Bb3 (6.
+Kb3 Be5 7. Kc4 Kf5 8. Kd5 Bf6 9. Kd6 Kg6) 6... Be5 $1 7. Bc2+ Kd5 8. Bf5 Rb8 $1
+9. Ka3 Kd6 10. Ka4 Kd5 11. Ka5 Kd6 12. Ka6 Kd5 13. Ka7 Re8) 5... Ra8+ $1 (5...
+Ke4 6. Bg6+ Kd5 7. Kb3 Be5 8. Bf5) 6. Kb3 Rb8+ 7. Ka4 Rh8 $1 8. Ba2 $3 (8. Kb5
+Ke4 9. Kc4 (9. Bg6+ Kd5 10. Ka4 Be5 11. Bf5 Rb8) 9... Kf5 $3 10. Kxd4 Rxh7 11.
+Bg8 Rxg7 12. hxg7 Kf6) (8. Bg6+ Kc4 9. Be4 Rb8) 8... Kc3 (8... Ke4 9. Bb1+ Kd5
+10. Kb3) 9. Bg8 $1 Kd3 10. Kb5 Ke4 11. Kc6 Be5 12. Kd7 Kf5 13. Ke7 1-0
+
+[Event "1/2.p tv06"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0008.23d7d5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3K4/6pp/3k4/8/3N4/2P2Pnp/1N5n w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1965.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd2 (1. Nc3+ $2 Kd4 2. Ne2+ (2. Nb5+ Ke4) 2... Ke4 3. Ke6 Nxf2 4. Nxf2+ Kf3)
+1... Ng3 2. fxg3 $1 (2. c4+ $2 Kd4 3. Nf3+ Kxd3 4. Nxh2 Ne4) 2... h1=Q 3. c4+
+Kd4 4. Nf2 Qh5 5. g4 $1 1/2-1/2
+
+[Event ".hm th10"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+3101.14c4a5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/q7/1ppN4/k1P3R1/2K5/4p2p/8/8 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rg1 $1 (1. cxb6+ $2 Kxb6 2. Nc8+ Ka6 3. Nxa7 h2 4. Rh5 e2) 1... Qa6+ (1...
+b5+ 2. Kb3 Qxc5 3. Nb7+ Kb6 4. Nxc5 Kxc5 5. Kc3) 2. Kc3 bxc5 3. Nc4+ Ka4 4.
+Ra1+ Kb5 5. Rb1+ Ka4 6. Rb2 $1 e2 7. Rxe2 Kb5 8. Rb2+ Ka4 9. Rb3 $1 (9. Rb8 $2
+Qa7) 9... h2 10. Rb1 h1=Q 11. Rxh1 Kb5 12. Rb1+ Ka4 13. Rb2 Qa7 14. Ra2+ Kb5
+15. Nd6+ Kb6 16. Nc8+ 1-0
+
+[Event "1.p ts13#48"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0016.01b3c1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5n1n/8/1B6/8/4p3/1K6/8/2k5 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1969.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc4 (1. Kc3 $2 Ne6 2. Kc4 Nf7 3. Kd5 Neg5) 1... Kd2 2. Kd4 e3 3. Ba5+ Ke2 4.
+Ke4 Nd7 5. Bd8 Nf7 (5... Nc5+ 6. Kd5 Nf7 7. Bb6) 6. Be7 Kd2 7. Bb4+ Ke2 8. Be7
+Kf2 9. Bh4+ Ke2 10. Be7 1/2-1/2
+
+[Event "1/2.p tc19#0919"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0460.20g8f6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6K1/8/R3Pk1P/4r3/8/8/1b6/5b2 w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1970.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h7 (1. Rb6 $2 Ba3 2. h7 Rg5+ 3. Kh8 Ke7) 1... Rg5+ (1... Rh5 2. Ra2) 2. Kf8
+Kg6 $1 (2... Rh5 3. Rc6 $1 Bg2 4. Ra6 Bf1 5. Rc6) 3. h8=Q $1 Bxh8 4. e7+ Kh7 5.
+e8=Q (5. Rh6+ $2 Kxh6 6. e8=Q Bg7+) 5... Rg8+ 6. Kf7 Rxe8 (6... Bc4+ 7. Qe6) 7.
+Ra4 $1 (7. Ra5 $2 Re5) 7... Kh6 8. Rf4 $1 (8. Rh4+ $2 Kg5 9. Rh1 Bg2 (9... Bb5
+$2 10. Rh5+ Kxh5) 10. Rh2 Bc6 11. Rh5+ Kf4) 8... Bb5 (8... Re1 9. Rh4+) 9. Rh4+
+Kg5 10. Rh5+ Kxh5 1/2-1/2
+
+[Event "5.p ts83"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=3414.20f6h7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7q/6Nk/r3nK1P/6P1/8/7R/5B2/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1973.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g6+ Kg8 2. Ke7 Ng5 $1 (2... Nf4 3. h7+ Kxg7 4. Bd4+ Kxg6 5. Rg3+ Kxh7 6.
+Bxh8) 3. Bd4 $1 (3. h7+ $2 Kxg7 4. Bd4+ Kxg6 5. Bxh8 Nxh3) (3. Rh4 $2 Nf3 $1 (
+3... Rxg6 $2 4. h7+ Nxh7 5. Bd4)) 3... Rxg6 4. h7+ Nxh7 5. Rh4 $1 (5. Nf5 $2
+Re6+ $1) 5... Rxg7+ (5... Ra6 6. Nf5) (5... Rg2 6. Ne6) 6. Ke8 Re7+ (6... Nf6+
+7. Bxf6) 7. Kxe7 1/2-1/2
+
+[Event "wu04"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+3105.57d8e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3K4/2p2Rp1/2pN1Np1/4k3/2Pp1pP1/3P1P2/P3p2q/6n1 b - - 0 1"]
+[PlyCount "12"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1... e1=Q (1... Kxd6 2. Ne4+ Ke6 3. Re7#) (1... Qh8+ 2. Nde8) (1... gxf6 2. Ne8
+) (1... cxd6 2. Nd7+ Ke6 3. Re7#) 2. Ke7 $1 (2. Nde4 $2 Qh8+ 3. Kd7 Qb4) (2.
+Nde8 $2 Qb4) (2. Nfe4 $2 Qhh4+) 2... Qhh4 (2... gxf6 3. Rxf6 Qh7+ 4. Nf7+ Qxf7+
+5. Kxf7 Qh4 6. Re6#) (2... Qeh4 3. Rf8 cxd6 4. Re8 d5 5. c5 Qxf6+ (5... Qxg4 6.
+Nxg4+ Kf5 7. Nxh2) 6. Kd7+ Qe7+ 7. Kxe7 Qh8 8. Rxh8 Nxf3 9. Kf7 Ng5+ 10. Kxg6)
+3. Rf8 Qb4 (3... cxd6 4. Re8 d5 (4... Qxg4 5. Kf7+ Qe6+ 6. Rxe6+ Kf5 7. Rxe1
+Nxf3 8. Rd1 gxf6 9. a4) 5. c5 Qxf6+ 6. Kd7+ Qe7+ 7. Kxe7) 4. Re8 $3 Nxf3 (4...
+Qa3 5. Kd7+ $1 Kxf6 6. Re6+ Kg5 7. Nf7#) (4... Qxd6+ 5. Kf7+ Qe7+ 6. Rxe7+ Kd6
+7. Ne4#) (4... Qxf6+ 5. Kd7+ Qe7+ 6. Rxe7+ Kf6 7. Ne4#) 5. Kf7+ $1 Kxd6 6. Re6+
+Kc5 7. Nd7# 1-0
+
+[Event "3.p ts10#12776"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[+0314.21h3f2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/P5B1/4p3/3r2n1/3P3K/1N3k2/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a7 $1 Ke1 2. Be4 Nf2+ 3. Kg2 Rd8 4. a8=Q Rxa8 5. Bxa8 Ke2 6. Bf3+ Ke3 7. d4
+$1 exd4 8. Nc4+ Kd3 9. Nd6 Ke3 10. Kg3 Nd3 11. Nc4# 1-0
+
+[Event "1.hm The Problemist#585"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Kasparian, G."]
+[Black "[=0043.22h1e4]"]
+[Result "1/2-1/2"]
+[Annotator "ok+"]
+[SetUp "1"]
+[FEN "2b5/1p3B2/3P4/2P5/4k3/5n1p/8/7K w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1992.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c6 (1. d7 $143 Bxd7 2. c6 bxc6 3. Bd5+ Kf4 4. Bxc6 Bg4 $19) 1... Ne5 (1...
+bxc6 $144 2. Be6 $11) 2. d7 Nxd7 (2... Bxd7 $144 3. cxb7 Nc6 4. Kh2 $11) 3.
+cxb7 Bxb7 4. Kh2 (4. Be6 $143 Ke5+ $19) 4... Ne5 5. Be6 Nf3+ 6. Kg3 h2 7. Kg2
+Kf4 8. Ba2 Be4 9. Bg8 Bc6 10. Ba2 Ke3 11. Bg8 $11 1/2-1/2
+
+[Event "1.p Erevan Ty"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Kasparjan=G"]
+[Black "[=0044.12h2f6"]
+[Result "1/2-1/2"]
+[Annotator "ok+"]
+[SetUp "1"]
+[FEN "5b1N/1B2p3/5k2/7n/4P3/7p/7K/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1950.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e5+ (1. Bd5 $143 Nf4 2. Bc4 e6 3. Kg3 Bd6 $19) (1. Kxh3 $143 Nf4+ 2. Kg4 e5
+$19) (1. Bc6 $143 Kg7 2. Kxh3 Nf4+ 3. Kg4 e5 $19) 1... Kg7 2. Kxh3 (2. Bf3 $143
+Nf4 3. Kg3 Ne6 4. Nf7 Kxf7 5. Bd5 h2 $19) 2... Kxh8 (2... Nf4+ $144 3. Kg4 Ne6
+(3... Nd3 $144 4. Ng6 $1 $11) (3... Ne2 $144 4. Kg5 Kxh8 5. Kg6 $11) 4. Nf7 $1
+Kxf7 5. Bd5 $11) 3. Kg4 Ng7 4. Kg5 Ne6+ (4... Kg8 $144 5. Kg6 e6 6. Kf6 Bb4 7.
+Bf3 $1 (7. Ba6 $143 Ne8+ $1 (7... Kf8 $143 8. Bc4 Be7+ 9. Kg6 Bh4 10. Ba2 $11)
+8. Kxe6 (8. Kg6 $144 Kf8 9. Bc4 Ke7 $19) 8... Nc7+ $19) 7... Kf8 8. Bg4 Be7+ 9.
+Kg6 Bh4 10. Bh3 Bg3 11. Bg4 Bxe5 12. Bxe6 $1 Nxe6 13. Kf5 $11) (4... Kh7 $144
+5. Be4+ Kg8 6. Kg6 e6 $11 {See previous line}) 5. Kg6 Bg7 $1 (5... Nd8 $144 6.
+Bd5 e6 (6... Bg7 $144 7. e6 $11) 7. Bxe6 Nxe6 8. Kf7 $11) 6. Bh1 $3 (6. Ba8
+$143 Nc7 7. Bb7 Bxe5 $19) (6. Bc6 $143 Nd8 7. Be8 Bxe5 $19) (6. Be4 $143 Nc5 7.
+Bf3 Bxe5 $19) (6. Bg2 $143 Nf4+ $19) (6. Bc8 $143 Nd8 $1 7. e6 Kg8 $19) (6. Kf7
+$143 Nd8+ $19) 6... Nd8 7. e6 $1 Bb2 8. Kf5 (8. Ba8 $143 Nxe6 9. Kf7 Nc7 $19)
+8... Kg7 9. Bf3 $11 {Positionnal draw} 1/2-1/2
+
+[Event "1/2.p Tidskrift för Schack#1551"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kasparjan=G"]
+[Black "[+3042.41h8f6"]
+[Result "1-0"]
+[Annotator "ok+"]
+[SetUp "1"]
+[FEN "2b4K/4p3/5kN1/3P1P2/1q1NP2P/8/1B6/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1970.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e5+ (1. Kg8 $143 Bxf5 $1 2. Nxf5+ (2. exf5 $143 Qxb2 $19) 2... Kxg6 $17) (1.
+Ba1 $143 Kf7 $11) 1... Kf7 2. e6+ Bxe6 (2... Ke8 $144 3. f6 exf6 4. Nf5 $18) (
+2... Kf6 $144 3. Ne5 $1 Bxe6 4. dxe6 Qb8+ 5. Kh7 $18 {See main line}) 3. dxe6+
+(3. Ne5+ $143 Ke8 $1 $17) 3... Kf6 (3... Ke8 $144 4. f6 exf6 5. Nf5 $1 Qxb2 6.
+Ng7+ Kd8 7. e7+ $18) 4. Ne5 $1 (4. Nf8 $143 Qb8 5. Kg8 Qg3+ 6. Ng6 Qb8+ $11) (
+4. Ba1 $143 Qb8+ 5. Kh7 Qg8+ 6. Kh6 Qh7+ 7. Kxh7 $11) 4... Qb8+ 5. Kh7 Qxe5 6.
+Ba1 $1 Qd5 (6... Qe4 $144 7. Ne2+ Kxf5 8. Ng3+ $19) (6... Qa5 $144 7. Nb3+ $18)
+(6... Qe1 $144 7. Nc2+ $18) 7. Nc2+ Kxf5 8. Ne3+ $18 1-0
+
+[Event "1.p October Revolution JT {c}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Kasparjan=G"]
+[Black "[=0327.10f5f8"]
+[Result "1/2-1/2"]
+[Annotator "ok+"]
+[SetUp "1"]
+[FEN "5kN1/7B/8/2n2K2/2r1n3/8/3B1P2/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1967.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bh6+ (1. Be3 $143 Kg7 2. Bxc5 Kxh7 $19) (1. Bf4 $143 Kg7 2. f3 Kxh7 $19) (1.
+Bg5 $143 Kg7 2. Nf6 Nxf6 $19) 1... Kf7 2. Ke5 (2. f4 $143 Nd7 $1 $19) (2. f3
+$143 Ng3+ 3. Ke5 Rh4 $1 4. f4 (4. Kd5 $144 Nd7 5. Kd6 Nf6 $19) (4. Kd6 $144 Rh5
+5. f4 (5. Be3 $144 Nb7+ 6. Kc7 Rxh7 $19) (5. Kc6 $144 Ne6 6. Kd6 Nd4 $19) 5...
+Nb3 6. f5 (6. Bc2 $144 Nd4 7. Bh7 Ndf5+ 8. Kd7 Nxh6 $19) 6... Nxf5+ 7. Bxf5
+Rxf5 8. Ne7 Rf6+ $19) 4... Nd7+ 5. Kd6 (5. Kd5 $144 Nf8 $1 6. Bxf8 Rxh7 $19) (
+5. Kd4 $144 Rh5 $1 6. Kc4 Nf5 $19) 5... Nf6 $1 $19) 2... Nd7+ $1 (2... Rb4 $144
+3. Be3 Kg7 4. Bxe4 Nxe4 5. Ne7 $11) (2... Nxf2 $144 3. Kd5 Rc3 4. Bd2 Rh3 5.
+Nh6+ Kg7 6. Bc2 $11 (6. Kxc5 $144 Kxh7 7. Nf7 $11 {EGTB})) 3. Kd5 (3. Kf5 $143
+Nxf2 4. Be3 Nd1 5. Bh6 (5. Nh6+ $144 Kg7 $19) 5... Nc3 6. Kg5 Ne4+ 7. Kf5 Ng3+
+8. Kg5 Ne5 $19) 3... Nb6+ 4. Ke5 Nxf2 $1 5. Nf6 $1 (5. Kf5 $143 Nd7 6. Kg5 (6.
+Bg5 $144 Rc5+ $19) (6. Be3 $144 Nd1 7. Nh6+ Kg7 $19) 6... Ne4+ 7. Kf5 Ng3+ 8.
+Kg5 Ne5 $19) (5. Bb1 $143 Ra4 6. Bc2 Rb4 $19) (5. Bg5 $143 Rc5+ 6. Kf4 Nh3+ $19
+) (5. Bf4 $143 Nd7+ 6. Kf5 Rc5+ $19) (5. Bd2 $143 Ng4+ 6. Kf5 Kg7 $19) 5... Rc6
+$1 (5... Rc5+ $144 6. Kd4 Rc6 7. Bg5 $11) 6. Bg8+ $1 (6. Be3 $143 Re6+ 7. Kf4
+Rxf6+ $19) 6... Kg6 7. Be3 $1 Rxf6 (7... Nd3+ $144 8. Ke4 $11) 8. Bh7+ $1 Kg7 (
+8... Kf7 $144 {main} 9. Bg8+ Kg7 10. Bd4 Rf8 $1 11. Be6 $1 Na8 (11... Na4 $144
+12. Bd7 $11) 12. Bf5 $1 Nh1 (12... Nd1 $144 13. Bg4 Rf1 14. Be2 Re1 15. Kd6+
+Kg6 16. Bf3 $11) 13. Be4 Ng3 14. Bxa8 Rxa8 15. Kf4+ $11) 9. Bd4 $1 Rh6 $1 (9...
+Rf3 $144 10. Be4 $11) (9... Rc6 $144 10. Bf5 Nd1 (10... Nh1 $144 11. Be4 $11)
+11. Be4 Rf6 12. Bc2 $11) (9... Rf8 $144 10. Bf5 Nc4+ 11. Ke6+ $11) 10. Bf5 $1 (
+10. Bc2 $143 Nh3 $19) 10... Nh1 $1 (10... Nd1 $144 11. Bg4 $11) 11. Be6 $1 Na8
+(11... Na4 $144 12. Bd7 Ra6 (12... Nb6 $144 13. Be6 $11) 13. Bb5 Ra5 14. Kf4+
+Kh6 15. Bc6 $11) 12. Bd5 $1 Nc7 13. Bxh1 $1 Rxh1 14. Kd6+ $11 1/2-1/2
+
+[Event "1.p Concours Internationaux de Problème"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Kasparjan=G"]
+[Black "[+0133.20h8g3"]
+[Result "1-0"]
+[Annotator "ok+"]
+[SetUp "1"]
+[FEN "4b2K/8/1R6/1P6/4P3/6k1/8/2n5 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1953.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e5 $1 (1. Rc6 $143 Nd3 $1 2. Kg7 Bxc6 3. bxc6 Nc5 $11) (1. Rb8 $143 Bxb5 2.
+Rxb5 Kf4 3. e5 Kf5 4. Kg7 Nd3 $11) 1... Nd3 2. Rb8 (2. e6 $143 Nf4 3. e7 Bxb5
+4. Rxb5 Ng6+ 5. Kg7 Nxe7 6. Rc5 Kf4 7. Kf6 Ng8+ 8. Kg7 Ne7 $11) 2... Bd7 $1 (
+2... Bf7 $144 3. b6 Nxe5 4. b7 $18) 3. b6 $1 (3. Rg8+ $143 Kf4 $1 4. b6 Nc5 $11
+) 3... Nxe5 (3... Nc5 $144 4. b7 Kh4 5. Rd8 $18) 4. Rg8+ $1 (4. b7 $143 Nf7+ 5.
+Kh7 Bf5+ 6. Kg7 Nd6 $11) (4. Kg7 $143 Nc4 5. b7 Nd6 $11) 4... Kh4 $1 (4... Kf4
+$144 5. b7 Nc6 6. Rc8 Nb8 7. Rxb8 Bc6 8. Rf8+ $18) 5. b7 Nc6 6. Kg7 $1 (6. Rc8
+$143 Nb8 7. Rxb8 Bc6 8. Kg7 Kg5 9. Kf7 Kf5 10. Ke7 Ke5 11. Kf7 (11. Kd8 $144
+Kd6 12. Kc8 Bd7+ 13. Kd8 Bc6 $11) 11... Kf5 $11) 6... Kg5 $1 7. Kf7+ Kf5 8. Rf8
+$1 (8. Rc8 $143 Nb8 9. Ke7 Bc6 10. Rf8+ $1 Ke4 $3 11. Rxb8 Ke5 $11) (8. Rh8
+$143 Nb8 9. Rc8 Ba4 $3 $11 10. Rc5+ Ke4 11. Rc4+ Kd5 12. Rxa4 Kc6 13. Rb4 $11)
+8... Nb8 (8... Be6+ $144 9. Kg7+ Kg5 10. Rf6 $18) 9. Ke7+ (9. Rc8 $143 Ba4 $3
+10. Rc5+ Ke4 11. Rc4+ Kd5 12. Rxa4 Kc6 13. Rb4 Kc7 $11) 9... Ke5 10. Rc8 $1 (
+10. Rh8 $143 Ba4 $3 11. Rc8 (11. Rh5+ $144 Kd4 12. Rh4+ Kc5 13. Rxa4 Kc6 $11)
+11... Bd7 $1 12. Rc5+ (12. Rh8 $144 Ba4 $11) 12... Kd4 13. Kd6 Bg4 (13... Bh3
+$143 14. Rc2 $18 (14. Rc1 $143 Bg2 $11)) 14. Rc8 Na6 15. Rf8 Ke3 $11) 10... Ba4
+11. Rc5+ Kd4 12. Kd6 Bb3 13. Ra5 $18 1-0
+
+[Event "1.p Szachy"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Kasparjan=G"]
+[Black "[+0450.14c2h8"]
+[Result "1-0"]
+[Annotator "ok+"]
+[SetUp "1"]
+[FEN "3r2bk/pp1R4/5P2/p7/8/B7/2K3p1/1B6 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bb2 (1. Rg7 $143 Bh7+ 2. Kc1 Bxb1 3. Rxg2 Be4 4. Rg7 (4. Rf2 $144 Bg6 $11)
+4... Bd5 5. Bb2 Rf8 6. f7 Rc8+ 7. Kd2 Bxf7 $11) (1. Rxd8 $143 g1=Q 2. f7 Qf2+
+$11) (1. f7 $143 Rc8+ 2. Kd2 Bxf7 3. Bb2+ Kg8 4. Bd4 $11) 1... Rc8+ $1 (1...
+g1=Q $144 2. f7+ Kh7 3. fxg8=Q+ $1 Kxg8 4. Ba2+ Kf8 5. Ba3+ Ke8 6. Re7+ Kf8 7.
+Re1+ $18) 2. Kd2 $1 (2. Kd3 $143 Bf7 $1 (2... g1=Q $143 3. f7+ Qg7 4. f8=Q $18)
+3. Bd4 g1=Q 4. Bxg1 Bg6+ 5. Kd2 Bxb1 6. Bd4 Kg8 $11) 2... g1=Q (2... Bf7 $144
+3. Bd4 Kg8 4. Be4 $18) 3. f7+ Qg7 4. fxg8=Q+ Rxg8 5. Ba1 $1 (5. Bf6 $143 b5 6.
+Bd3 a6 7. Rc7 b4 8. Kc2 b3+ 9. Kb1 a4 10. Be4 (10. Kb2 $143 Qxf6+ $19) 10... a3
+11. Kc1 a2 12. Bxg7+ Rxg7 13. Rc8+ Rg8 14. Rxg8+ Kxg8 15. Kb2 $11) 5... b5 6.
+Be4 $1 (6. Bd3 $143 b4 7. Rxa7 Qc3+ 8. Bxc3+ bxc3+ 9. Kxc3 $11) 6... a4 (6...
+b4 $144 7. Ke3 a4 8. Rxa7 a3 9. Be5 b3 10. Bf6 b2 11. Re7 $1 $18) 7. Ke3 $1 a5
+8. Rf7 $1 (8. Re7 $143 b4 $11 {lost of a fatal tempo}) 8... b4 9. Kf4 a3 10.
+Bg6 $1 b3 11. Bc3 a4 (11... b2 $144 12. Bf5 a4 13. Be4 Rb8 $1 (13... Rc8 $144
+14. Bxg7+ Kg8 15. Rb7 $18) 14. Rxg7 $1 Rb3 15. Bf6 Rb6 16. Kg5 a2 17. Rc7+ Rxf6
+18. Kxf6 $18) 12. Kg5 a2 13. Rxg7 Rxg7 14. Kh6 a3 15. Bxg7+ Kg8 16. Bd3 a1=Q
+17. Bc4# (17. Bxa1 $143 b2 $11) 1-0
+
+[Event "1/2.hm Birnov MT"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Varov=S Kasparjan=S"]
+[Black "[+0832.05d8c4"]
+[Result "1-0"]
+[Annotator "ok+"]
+[SetUp "1"]
+[FEN "3K4/r4p2/2b5/5R2/2k5/3N3R/2pppp2/3Nr3 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5+ Kd5 (1... Kd4 $144 2. Rh4+ Be4 3. Nc6+ Kc4 4. Rxe4+ Kb3 5. Rb5+ Ka3 6.
+Re3+ Ka2 7. Nb4+ Kb1 8. Rb3+ Kc1 9. Rc5 Ra1 10. Rxc2+ Kxd1 11. Ra2 Rc1 12.
+Rxd2+ Kxd2 13. Rd3# {Diagramme #}) 2. Nd7+ Kd4 (2... Kc4 $144 3. Rf4+ Kb5 4.
+Rb3+ Ka5 5. Ra3+ Ba4 6. Raxa4+ Kb5 7. Rfb4+ Kc6 8. Rb6+ Kd5 9. Ne3#) 3. Rf4+
+Be4 (3... Kd5 $144 4. Rd3+ Ke6 5. Rf6#) 4. Rxe4+ Kxe4 (4... Kd5 $144 5. Nc3+
+Kc6 6. Rh6+ f6 7. Rxf6+ Kb7 8. Rb4+ Ka8 9. Rb8#) 5. Rh4+ Kf3 (5... Kf5 $144 6.
+Ne3+ Kg6 7. Rg4+ Kh7 8. Nf6+ Kh8 9. Rg8# {Diagramme #}) (5... Kd5 $144 6. Ne3+
+Kc6 7. Rh6+ Kb7 (7... Kb5 $144 8. Rb6+ Ka4 9. Nc5+ Ka3 10. Nc4+ Ka2 11. Rb2+
+Ka1 12. Nb3# {Diagramme #}) (7... f6 8. Rxf6+ Kb5 9. Rb6+ Ka4 10. Nc5+ Ka3 11.
+Nc4+ Ka2 12. Rb2+ Ka1 13. Nb3#) 8. Rb6+ Ka8 9. Rb8# {Diagramme #}) 6. Ne5+ Kg3
+7. Rg4+ Kh2 8. Nf3+ Kh1 9. Nxf2# {Diagramme #} 1-0
+
+[Event "Aljechin MT bulletin"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Kasparjan=G"]
+[Black "[+1330.11b4b7"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/bkp5/6r1/2P5/1K6/8/8/Q7 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1956.??.??"]
+
+1. Qh1+ (1. c6+ $143 Kxc6 (1... Rxc6 $143 2. Qh1 $18) 2. Qa6+ Bb6 3. Qc4+ Bc5+
+4. Qxc5+ Kb7 $11) 1... Kb8 (1... Ka6 $144 2. Qf1+ Kb7 3. Qf3+ Kb8 4. Qf8+ Kb7
+5. c6+ $18) 2. Qh8+ (2. c6 $143 Bb6 $11) 2... Kb7 3. c6+ $1 Rxc6 (3... Kb6 $144
+4. Qd4+ $18) 4. Qh1 Kb6 5. Qg1+ $1 (5. Qd5 $143 Bb8 $1 6. Qb5+ Ka7 7. Qxc6 $11)
+5... Kb7 (5... Ka6 $144 6. Qf1+ Kb7 7. Qf3 $18) 6. Qg2 Kb6 7. Qf2+ Kb7 8. Qf3
+Kb6 9. Qe3+ Kb7 10. Qe4 Kb6 11. Qd4+ Kb7 12. Qd5 Bb8 13. Kb5 $18 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kasparjan=G"]
+[Black "[+3113.20h7f6]"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "2q5/5PnK/3P1k2/4R3/5B2/8/8/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1935.??.??"]
+
+1. d7 $1 Qf8 $1 (1... Qd8) 2. Re8 (2. d8=Q+ $143 Qxd8 3. Bg5+ Kxe5 4. Bxd8 Ne6
+$11) 2... Nxe8 3. Bg5+ $1 (3. d8=Q+ $143 Kxf7 4. Qd5+ Ke7 $1 $11) 3... Kxf7 (
+3... Kxg5 $144 4. fxe8=Q Qf5+ 5. Kg7 Qf6+ 6. Kg8 $18) 4. d8=N# 1-0
+

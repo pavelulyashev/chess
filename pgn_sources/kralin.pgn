@@ -1,0 +1,685 @@
+[Event "1/2.p tv11"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0350.20a3d3"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/B7/8/5P2/B3P3/K2k4/4r1b1/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1962.??.??"]
+
+1. Bb5+ Kxe4 2. f6 Ra2+ $1 (2... Ke5 $144 3. f7 Ra2+ 4. Kb4 $1 Rxa7 5. f8=Q $18
+) 3. Kxa2 Ke5 4. Bd4+ $1 Kxd4 5. Bc4 $1 Kxc4 6. f7 $18 1-0
+
+[Event "4.p wd03"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Kralin=N Kuznetsov=AG"]
+[Black "[+0110.24h4g1"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/P7/6p1/6Pp/4R2K/8/p3B2p/6k1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1966.??.??"]
+
+1. Bf3 a1=Q (1... h1=Q+ $144 2. Bxh1 a1=Q 3. a8=Q Qxa8 4. Re1+ Kh2 5. Be4 Qa1
+6. Rb1 $18) 2. a8=Q h1=Q+ $1 (2... Qxa8 $144 3. Re1+ Kf2 4. Bxa8 Kxe1 $18) 3.
+Bxh1 Qxa8 4. Re1+ Kh2 $1 5. Be4 $1 (5. Bxa8 $143 $11) 5... Qa1 6. Rb1 $1 $18
+1-0
+
+[Event "1.p ts25#118"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=0401.13a5d1"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3r4/8/3pR3/K7/7p/p2N4/4P3/3k4 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1968.??.??"]
+
+1. Nb4 Ra8+ 2. Kb5 Rb8+ 3. Ka4 Rxb4+ $1 4. Kxb4 $1 (4. Kxa3 $143 Rd4 $19) 4...
+a2 5. Rg6 $1 (5. Rxd6+ $143 Kc2 6. Ra6 Kb1 7. e4 h3 8. e5 h2 9. e6 h1=Q $19)
+5... Kc2 6. Rg1 Kb2 7. Rg2 $1 h3 (7... a1=Q $144 8. e3+ $1 (8. e4+ $143 Kb1 9.
+Kb3 Qd4 $19) 8... Kc1 (8... Kb1 $143 9. Kb3 $19) 9. Rg1+ Kb2 10. Rg2+ $11) 8.
+Rh2 a1=Q 9. e4+ $1 (9. e3+ $143 Kb1 10. Kb3 Qa8 $19) 9... Kc1 (9... Kb1 $143
+10. Kb3 $19) 10. Rh1+ Kb2 11. Rh2+ $11 1/2-1/2
+
+[Event "2.p ts24"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0143.14f1a2"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/pb1p4/3p4/3n4/1P6/8/k1BR1p2/5K2 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1968.??.??"]
+
+1. Be4+ Kb3 2. Bxd5+ Kc3 3. Rd1 Kc2 4. Rd4 Kc3 5. Rc4+ Kb3 (5... Kd3 $144 6.
+Bf7 $18) 6. Rc6+ $1 (6. Bf7 $143 Ba6 $19) 6... Kxb4 7. Rc4+ (7. Rxd6 $143 Kc5
+$11) 7... Kb3 (7... Kb5 $144 8. Bf7 $18) 8. Rd4+ Kc3 9. Rd1 Kc2 10. Bb3+ Kxb3
+11. Rb1+ $18 1-0
+
+[Event "1.p tb25#19"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=1743.10f5h4"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "b7/8/r7/1R3K2/2P3nk/1r6/2Q5/5B2 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "1973.??.??"]
+
+1. Qf2+ $1 Kh5 2. Qh2+ $1 Nxh2 3. Rxb3 Ra5+ $1 4. c5 $1 Rxc5+ 5. Kf4 $1 Nxf1 6.
+Rb5 $1 Rd5 $1 7. Ra5 $1 Bb7 8. Rb5 $1 Bc6 9. Rc5 $1 Bb7 10. Rb5 Ba8 11. Ra5
+Rxa5 $11 1/2-1/2
+
+[Event "1.p tg02"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+4001.32h8h6"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "7K/4p3/4P1Pk/7p/7P/q4N1Q/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1973.??.??"]
+
+1. g7 $1 (1. Kg8 $143 Qa8+ 2. Kf7 Qxf3+ $1 3. Qxf3 $11) 1... Qc3 2. Nd4 $1 (2.
+Ne5 $143 Qc8+ 3. g8=Q Qxg8+ 4. Kxg8 $11) 2... Qxd4 (2... Qxh3 $144 3. g8=Q $18)
+3. Qe3+ $3 Qxe3 4. g8=N+ $1 Kg6 5. Nxe7+ Kf6 (5... Kh6 $144 6. Nf5+ $18) 6.
+Nd5+ $18 1-0
+
+[Event "ts69#0158"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0041.12a1b5"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "6b1/7p/7p/1k6/2N4P/1B6/8/K7 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1973.??.??"]
+
+1. Na3+ $1 (1. Nd2 $143 Bxb3 2. Nxb3 Kc4 3. Kb2 Kd3 $11) 1... Kb4 2. Bxg8 Kxa3
+3. Ba2 $1 (3. Kb1 $143 Kb4 4. Kc2 Kc5 5. Kd3 Kd6 6. Ke4 Ke7 7. Kf5 Kf8 8. Ba2
+Kg7 $11) 3... h5 $1 4. Kb1 h6 5. Ka1 (5. Kc2 $143 Kxa2 6. Kd3 Kb2 7. Ke4 Kc2 8.
+Kf5 Kd2 9. Kg6 Ke3 10. Kxh6 Kf4 11. Kxh5 Kf5 $11) 5... Kb4 6. Kb2 Kc5 7. Kc3
+Kd6 8. Kd4 Ke7 9. Ke5 Kf8 10. Kf6 Ke8 11. Kg6 Kf8 12. Kxh6 Ke7 13. Kxh5 Kf6 14.
+Kh6 $18 1-0
+
+[Event "1/2.p ts23 {c}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=0013.45e2b7"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/1k3p1p/5p1P/5p2/8/5PPn/2p1K2P/7B w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1974.??.??"]
+
+1. f4+ (1. Kd2 $143 Nf2 2. Bg2 Nd3 3. f4+ Kb6 4. Kxc2 Ne1+ 5. Kd2 Nxg2 6. Ke2
+Kc5 7. Kf2 Nxf4 8. gxf4 Kd4 9. Kg3 Ke4 10. h3 Ke3 11. Kh4 Kxf4 12. Kh5 Ke3 13.
+h4 f4 $19) 1... Kb6 2. Kd2 Nf2 3. Ba8 $1 (3. Bg2 $143 Nd3 4. Kxc2 Ne1+ $19) (3.
+Bd5 $143 Nd3 4. Kxc2 Nb4+ $19) (3. Bf3 $143 Nd3 4. Kxc2 Ne1+ $19) 3... Ka7 4.
+Bg2 $1 Nd3 5. Kxc2 Ne1+ 6. Kd2 Nxg2 7. Ke2 Kb6 8. Kf2 Nxf4 9. gxf4 Kc5 10. Kg3
+Kd4 11. Kh4 Ke4 12. Kh5 Kxf4 13. h4 $11 1/2-1/2
+
+[Event "4.p tb25#21"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0317.30a4c5"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/1n1n4/PPr3N1/P1k5/K7/8/1B6/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1974.??.??"]
+
+1. Ba3+ Kc4 (1... Kd4 $144 2. Ne7 Nxa5 3. Kxa5 Rxb6 4. a7 Rb3 5. Bb4 Rb2 6. Kb5
+Ra2 7. Nc6+ Kd3 8. Ba5 $18) 2. Ne5+ Nxe5 3. a7 Rc8 4. a6 Nc5+ 5. Bxc5 Nd7 6. b7
+Rc6 7. b8=N (7. a8=Q $143 Nxc5+ 8. Ka5 Nb3+ 9. Ka4 Nc5+ 10. Ka3 Rxa6+ 11. Kb2
+Rb6+ 12. Kc2 Rxb7 $11) 7... Nxb8 8. axb8=N Kxc5 9. a7 Ra6+ 10. Nxa6+ Kb6 11.
+a8=R $18 1-0
+
+[Event "2.p wa08"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Kralin=N Pogosjants=E"]
+[Black "[+0351.12h1a8"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "kb6/8/4P3/N7/5pB1/2r5/3p4/6BK w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1976.??.??"]
+
+1. e7 Rh3+ $1 2. Kg2 $1 (2. Bxh3 $143 d1=Q 3. e8=Q Qd5+ 4. Bg2 f3 5. Bh3 (5.
+Bf2 $144 fxg2+ 6. Kg1 Qd1+ 7. Be1 Qf3 8. Qc6+ Qxc6 9. Nxc6 $11) 5... f2+ 6. Bg2
+Qxg2+ 7. Kxg2 f1=Q+ 8. Kxf1 $11) 2... Rg3+ 3. Kf2 (3. Kh2 $143 f3 4. e8=Q Rxg1+
+$11) 3... f3 (3... Re3 $143 4. Bf3+ Rxf3+ (4... Ka7 5. Kg2) 5. Ke2 $18) (3...
+Ba7+ $144 4. Ke2 d1=Q+ 5. Kxd1 Rxg1+ 6. Ke2 $1 Rg2+ 7. Kf3 Rg3+ 8. Kxf4 Bb8+ 9.
+Kf5 $1 Re3 10. Bf3+ $1 Rxf3+ 11. Ke4 $1 Rf1 12. Nc4 $1 $18) 4. Bxf3+ Rxf3+ 5.
+Ke2 Rf1 (5... Rd3 $144 {main} 6. Kd1 Rd8 $1 7. exd8=B $1 (7. exd8=Q $143 $11) (
+7. exd8=N $143 Ba7 8. Bh2 Bb8 $11) 7... Bc7 8. Bb6 $1 $18) 6. Kxd2 Rf8 $1 7.
+exf8=B $1 (7. exf8=Q $143 $11) (7. exf8=N $143 Ba7 8. Bh2 Bb8 $11) 7... Bd6 8.
+Bc5 $1 $18 1-0
+
+[Event "1.p tv06"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Kralin=N Kuznetsov=AG"]
+[Black "[+0402.01e1c5"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/8/2k5/8/pr4N1/1N6/R3K3 w Q - 0 1"]
+[PlyCount "13"]
+[EventDate "1977.??.??"]
+
+1. Ne4+ Kd5 2. Nc4 Kxc4 3. Nd2+ Kc3 4. Nxb3 Kxb3 (4... Kb2 $144 5. Kd2 a2 6.
+Kd1 Kxb3 7. Kc1 $18) 5. O-O-O a2 6. Rd3+ Kc4 7. Ra3 $18 1-0
+
+[Event "2/3.p ts23#31"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=0334.30a1h5"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/5b2/P2P4/7k/8/2P2r2/6N1/K2n4 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1977.??.??"]
+
+1. d7 (1. a7 $143 Rxc3 2. Nf4+ Kg4 3. Nd3 Rc8 $19) 1... Rxc3 2. Nf4+ Kg4 3. Nd3
+(3. Kb1 $143 Rb3+ 4. Kc1 Rb8 $19) 3... Ra3+ 4. Kb1 Rxd3 5. a7 Bg6 (5... Bd5
+$144 6. d8=Q Ba2+ 7. Ka1 Rxd8 8. a8=Q Rxa8 $11) 6. a8=Q Ra3+ 7. Kc1 Rxa8 8.
+d8=Q Rxd8 $11 1/2-1/2
+
+[Event "2.p jo01 tm15"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0113.22f5a4"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "5R2/1n3B2/8/1P3K2/k7/1p6/pP6/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1977.??.??"]
+
+1. Ra8+ Kb4 2. Ra3 (2. b6 $143 Na5 3. b7 Nxb7 $11) 2... Nd6+ 3. Kg6 $1 (3. Kf6
+$143 Nxb5 4. Rxb3+ Ka4 5. Rxb5 a1=Q 6. Be8 Qb1 7. Ke6 (7. Kg7 $144 Qh7+ 8. Kxh7
+$11) (7. Bc6 $144 Qg6+ 8. Kxg6 $11) 7... Qa2+ 8. Ke7 Qe6+ 9. Kxe6 $11) 3...
+Nxb5 4. Rxb3+ Ka4 5. Rxb5 a1=Q 6. Be8 Qb1+ 7. Kf6 $18 1-0
+
+[Event "1.p wo01"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Kralin=N Kuznetsov=AG"]
+[Black "[+0310.21g3e1"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "5B2/3r4/8/4P3/8/5PKp/8/4k3 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1980.??.??"]
+
+1. e6 Rd3 2. Bc5 h2 3. Kxh2 Rxf3 4. e7 Kf1 5. Bg1 (5. e8=Q $143 Rh3+ 6. Kxh3
+$11) 5... Ra3 6. e8=Q Rh3+ 7. Kxh3 $18 1-0
+
+[Event "2.p ts21"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0714.11h3a8"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "k3NB2/p2R1P2/8/6r1/8/7K/r3n3/8 w - - 0 1"]
+[PlyCount "37"]
+[EventDate "1981.??.??"]
+
+1. Nc7+ (1. Bc5 $143 Rg3+ 2. Kh2 (2. Kh4 $144 Ra4+ 3. Kh5 Nf4+ 4. Kh4 Ne2+ 5.
+Kh5 Nf4+ 6. Kh6 Ne6 7. Nc7+ Kb8 8. Be7 Ra1 9. Bh4 $11) 2... Rf3 $11) (1. Kh4
+$143 Rg1 2. Bb4 Nd4 $11) 1... Kb8 2. Na6+ $1 Ka8 $1 3. Bc5 Ng1+ 4. Bxg1 Rh2+ 5.
+Bxh2 $1 (5. Kxh2 $143 Rg2+ 6. Kh3 Rg3+ 7. Kh4 Rg4+ 8. Kh5 Rg5+ 9. Kh6 Rg6+ 10.
+Kh7 Rg7+ 11. Kh8 Rh7+ 12. Kg8 Rg7+ 13. Kf8 Rxf7+ 14. Ke8 Re7+ 15. Kd8 Re8+ 16.
+Kc7 Rc8+ 17. Kd6 Rc6+ $11 18. Kd5 Rxa6 $11) 5... Rg3+ $1 6. Kh4 Rg4+ 7. Kh5
+Rg5+ 8. Kh6 Rg6+ 9. Kh7 Rg7+ 10. Kh8 Rh7+ $1 11. Kg8 Rg7+ 12. Kf8 Rxf7+ $1 13.
+Ke8 Re7+ 14. Kd8 Re8+ 15. Kc7 Rc8+ 16. Kd6 Rc6+ 17. Kd5 $1 Rxa6 18. Rd8+ Kb7
+19. Rb8# 1-0
+
+[Event "1.p tt21#4135"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Kralin=N Sokolenko=L"]
+[Black "[+0401.13a4d8"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3k4/1pN5/8/2p5/K3R3/1p6/P7/1r6 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1983.??.??"]
+
+1. Ne6+ $1 Kc8 (1... Kd7 $144 2. Nxc5+ $18) 2. axb3 (2. a3 $143 b5+ 3. Kxb5 b2
+4. Re2 Ra1 $11) 2... b5+ 3. Ka3 (3. Kxb5 $143 Rxb3+ 4. Kc6 Rh3 $11) 3... c4 4.
+b4 Rb3+ 5. Ka2 Rxb4 6. Nc5 $1 Kd8 7. Ka1 Kc8 8. Rd4 $1 Kb8 9. Na6+ $18 1-0
+
+[Event "1/3.p wk05"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+3401.22f2d7"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "N5R1/3k1P1P/r1q5/7p/8/7p/5K2/8 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "1983.??.??"]
+
+1. f8=N+ $1 Ke7 (1... Kc8 $144 2. Ng6+ Kb7 3. Rg7+ Kb8 4. h8=Q+ Qc8 5. Rg8 Ra2+
+6. Kg3 Ra3+ 7. Kh4 Ra4+ 8. Kxh5 Ra5+ 9. Ne5 $18) 2. Rg7+ Kd8 3. Ne6+ Qxe6 4.
+h8=Q+ Qe8 5. Rg8 (5. Qxe8+ $143 Kxe8 6. Nc7+ Kf8 $11) 5... Ra2+ 6. Kf3 (6. Kf1
+$143 Ra1+ 7. Qxa1 $2 Qxg8 $11) 6... Ra3+ 7. Kf4 Ra4+ 8. Kf5 Ra5+ 9. Kf6 Ra6+
+10. Nb6 $1 Rxb6+ 11. Kf5 Rb5+ 12. Kf4 Rb4+ 13. Kf3 Rb3+ 14. Kf2 Rb2+ 15. Qxb2
+Qxg8 16. Qb8+ $18 1-0
+
+[Event "1.p mb03"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Kralin=N Pervakov=O"]
+[Black "[+0350.21h2d3"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/4BBp1/3P3b/5P2/3k1r2/7K/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1990.??.??"]
+
+1. d6 Rf2+ $1 2. Kg3 $1 (2. Kh3 $143 Rd2 3. d7 Ke4 4. Kg3 Rd3+ $11) 2... Rf3+
+3. Kg2 Ke4 $1 (3... Ke3 $144 4. Bd4+ Kxf4 5. d7 Rd3 6. d8=Q Rd2+ 7. Kh3 $18) 4.
+Bd5+ $1 Kxf4 5. d7 Rd3 $1 6. Bg5+ $1 (6. d8=Q $143 Rd2+ $11) 6... Kg4 $1 7.
+d8=Q Rxd5 $1 8. Qa8 $1 (8. Qe7 $143 Re5 $1 $11) 8... Rxg5 (8... Ra5 $144 9.
+Qc8+ Kxg5 10. Qd8+ $18) 9. Qe4# 1-0
+
+[Event "1.p wm05"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=0327.10h4e7"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/4k1Nn/8/5P2/7K/1n1B4/3B4/3r4 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1990.??.??"]
+
+1. f6+ (1. Bb4+ $143 Kf7 2. Bc4+ Kxg7 3. Bxb3 Rd4+ $19) 1... Nxf6 (1... Kxf6
+$144 2. Bc3+ $11) 2. Bg5 Rh1+ (2... Rxd3 $144 3. Nh5 Rd4+ 4. Kh3 Rd5 5. Bxf6+
+$11) 3. Kg3 Rg1+ 4. Kf4 Rg4+ 5. Kf5 Nd4+ 6. Kg6 Nf3 7. Nf5+ Ke6 8. Nd4+ Nxd4 9.
+Bf5+ Nxf5 $11 1/2-1/2
+
+[Event "1.p ts21#44"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Kralin=N Pervakov=O"]
+[Black "[+0010.12e8a8"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "k3K3/8/8/3p4/4p3/8/P7/3B4 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1995.??.??"]
+
+1. Kd7 $1 (1. Bb3 $143 e3 2. Bxd5+ Ka7 3. Bc4 Kb6 $11) (1. Ke7 $143 d4 $1 2.
+Bb3 Ka7 $1 3. Kd6 d3 $1 4. Bc4 Kb6 5. Kd5 d2 6. Be2 Ka5 7. Kxe4 Ka4 $11) 1...
+d4 $1 2. Bb3 $1 e3 $1 3. Bc4 Kb7 $1 4. Kd6 Kb6 5. Kd5 Ka5 6. Ke4 $1 Ka4 $1 7.
+Kd3 $1 Ka3 8. Kc2 e2 9. Kd2 d3 10. Ke1 $1 Kb2 11. a4 Kc2 12. Bxd3+ $1 $18 1-0
+
+[Event "2.p wm03 {tt}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0014.13d1b4"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/8/5B2/1P3N2/1kp5/1p2p3/8/1n1K4 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1996.??.??"]
+
+1. b6 Nc3+ 2. Bxc3+ Kxc3 3. b7 e2+ 4. Ke1 (4. Kxe2 $143 b2 5. b8=R Kc2 6. Nd4+
+Kc1 7. Nb3+ cxb3 8. Rc8+ Kb1 9. Kd2 Ka1 10. Ra8+ Kb1 11. Kc3 Kc1 12. Re8 b1=N+
+$11) 4... b2 5. b8=R (5. b8=Q $143 b1=Q+ 6. Qxb1 $11) 5... Kc2 6. Nd4+ Kc1 7.
+Nxe2+ Kc2 8. Nc3 Kxc3 9. Kd1 $18 1-0
+
+[Event "1.p wm03 {tt}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0001.35e7g7"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/1p1NKpk1/1p6/5PP1/1P6/4p1p1/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1997.??.??"]
+
+1. f6+ Kg6 $1 (1... Kg8 $144 2. g6 $18) 2. Ne5+ Kxg5 3. Nf3+ Kf4 (3... Kg4 $144
+4. Ng1 $1 (4. Ne1 $143 e2 5. Kxf7 Kh3 6. Kg7 g2 $11) 4... g2 5. Kxf7 Kg3 (5...
+e2 $144 6. Nxe2 Kf3 7. Ng1+ Kf2 8. Ke7 Kxg1 9. f7 Kh2 10. f8=Q g1=Q 11. Qh6+
+Kg2 12. Qg7+ Kf2 13. Qxg1+ Kxg1 14. b5 $1 $18) 6. Ke8 $1 (6. Kg8 $143 e2 $1 7.
+Nxe2+ Kf2 8. f7 Kxe2 9. f8=Q g1=Q+ $11) 6... Kf2 7. f7 e2 8. f8=Q+ Kxg1 9. Qe7
+$18) 4. Ne1 $1 (4. Ng1 $143 g2 5. Kxf7 Ke4 $1 6. Kg8 Kd3 7. Nf3 Kc3 8. f7 e2 9.
+f8=Q g1=Q+ 10. Nxg1 e1=Q 11. Nf3 Qg3+ 12. Kh7 Qh3+ 13. Kg6 Qg4+ 14. Ng5 Qxb4
+$11) 4... e2 5. Kxf7 Ke3 6. Kg8 $1 (6. Ke8 $143 g2 7. Nxg2+ Kf2 8. f7 Kxg2 9.
+f8=Q e1=Q+ $11) 6... Kf2 7. f7 Kxe1 8. f8=Q g2 9. Qg7 $18 1-0
+
+[Event "1/2.p ws22 {c}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Kralin=N Selivanov=A"]
+[Black "[=0744.30e3f7"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3R4/5k1B/r3nP2/5r2/5P2/b3K3/5N1P/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1998.??.??"]
+
+1. Rd7+ Ke8 2. Re7+ Bxe7 3. Bg6+ Kd7 4. fxe7 Ra3+ 5. Nd3 Rxd3+ 6. Kxd3 Rd5+ 7.
+Ke4 Rd4+ 8. Ke5 (8. Ke3 $143 Kxe7 9. f5 Rg4 $1 10. h3 Rg2 $1 11. Kf3 Rg5 $1 12.
+h4 Nd4+ $1 $19) 8... Kxe7 9. f5 Rg4 10. f6+ Kd7 11. Bf5 Rg5 12. h3 Rh5 13. h4
+$11 1/2-1/2
+
+[Event "2.p wi05"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=0403.21g8a2"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "6K1/8/5P2/5R2/6n1/r6p/k5P1/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1998.??.??"]
+
+1. Rf1 (1. f7 $143 Ra8+ 2. f8=Q Rxf8+ 3. Kxf8 hxg2 $19) (1. gxh3 $143 Nh6+ 2.
+Kh7 Nxf5 3. f7 Rxh3+ 4. Kg6 Nh4+ $19) 1... hxg2 2. Rg1 Rg3 3. f7 (3. Kf7 $143
+Nh6+ 4. Ke6 Kb2 5. Ke5 Rg4 $19) (3. Kh8 $143 Ne5 4. Kh7 Kb3 5. Kh6 Kc4 6. Kh5
+Rh3+ 7. Kg5 Nf3+ $19) 3... Ne5+ $1 (3... Nf6+ $144 {main} 4. Kh8 $1 (4. Kf8
+$143 Nh7+ 5. Ke7 Re3+ 6. Kd6 Re2 7. Kd5 Kb2 8. Kd4 Kc2 $19) 4... Nd7 5. f8=Q
+Nxf8 6. Rxg2+ Rxg2 $11) (3... Nh6+ $144 {main} 4. Kh7 $1 Nxf7 5. Rxg2+ Rxg2 $11
+) 4. Kh7 Ng6 $1 (4... Nd7 $144 {main} 5. Kh6 $1 (5. Kh8 $143 Kb3 $19) 5... Nf8
+6. Kh5 Ng6 7. f8=Q Nxf8 8. Kh4 Rg7 9. Kh3 Ne6 10. Rxg2+ $11) 5. Kg7 $1 (5. Kh6
+$143 Kb3 6. Kh5 Kc3 7. f8=Q Nxf8 8. Kh4 Rg7 9. Kh3 Ne6 $1 10. Rxg2 Nf4+ $19)
+5... Kb3 6. Kf6 Kc3 7. Kf5 Kd4 8. f8=Q Nxf8 9. Kf4 Rg8 10. Kf3 Ng6 11. Kxg2 $1
+(11. Rxg2 $143 Nh4+ $19) 11... Nf4+ 12. Kf1 $1 $11 (12. Kh1 $143 Rh8#) (12. Kh2
+$143 Rh8+ 13. Kg3 Ne2+ $19) (12. Kf2 $143 Nh3+ $19) 1/2-1/2
+
+[Event "1.p ww11"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0014.22c3e5"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "2N5/1p6/5P2/4k3/1n6/2K5/5pP1/B7 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1998.??.??"]
+
+1. Kd2+ Ke6 2. Ke2 Nc2 3. f7 $1 (3. Bb2 $143 Ne3 $1 4. Kxf2 Nd1+ 5. Ke2 Nxb2 6.
+Nb6 Kxf6 7. Kd2 Ke5 $11) 3... Kxf7 4. Bh8 $1 Kg8 5. Bb2 $1 Ne3 6. Kxf2 Nd1+ 7.
+Ke2 Nxb2 8. Nb6 $1 Kf7 9. Kd2 Kf6 10. Kc2 Ke5 11. Kxb2 Kf4 12. Nd5+ (12. Nc4
+$143 b5 $1 $11) 12... Kg3 13. Ne3 $18 1-0
+
+[Event "1.p mb03 tm78"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=0732.11b1e3"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "4r3/2P5/8/8/r1p5/4k1b1/3N3N/1K5R w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1999.??.??"]
+
+1. Nhf1+ (1. Ndf1+ $143 Kf4 2. Rg1 (2. Nxg3 $144 Kxg3 $19) 2... Re1+ 3. Kb2
+Re2+ 4. Kc3 Be1+ 5. Kd4 Bf2+ 6. Kc3 Bxg1 7. c8=Q Ra3+ 8. Kb4 Rb3+ 9. Kxc4 Rc2+
+10. Kxb3 Rxc8 $19) (1. Kc2 $143 Ra2+ 2. Kc3 Be5+ 3. Kxc4 Rc2+ 4. Kb5 Kxd2 5.
+Nf3+ Ke3 6. Nxe5 Rxe5+ 7. Kb6 Rec5 $19) 1... Kd3 $1 2. Nxg3 Ra1+ $1 (2... Kxd2
+$144 3. Ne4+ $1 Ke3 4. Nd6 $11) 3. Kxa1 (3. Kb2 $143 Rxh1 4. Nxc4 Rh6 5. c8=Q
+Rxc8 6. Ne5+ Kd2 7. Nf3+ Kd1 $19) 3... Kc2 4. Rc1+ $1 Kxc1 5. Nb3+ $1 cxb3 6.
+Ne2+ Rxe2 (6... Kd2 $144 7. Nd4 Kc3 8. Nb5+ $1 Kc2 9. Nd4+ $11) 7. c8=Q+ Rc2 8.
+Qc3 $1 b2+ (8... Rxc3 $144 $11 {main}) 9. Qxb2+ Rxb2 $11 1/2-1/2
+
+[Event "4.p ww11 {tt}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=0345.10h7f6"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3N4/3P3K/B1N2k2/8/8/7n/3b4/2r5 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1999.??.??"]
+
+1. Ne6 Ba5 2. Nxa5 Ng5+ 3. Nxg5 Ke7 4. Bc8 (4. Bb5 $143 Rc7 5. Ne4 Rxd7 6. Nc6+
+Ke6+ $11) 4... Rc7 5. Nc6+ Rxc6 6. Nf7 Kxf7 7. d8=N+ $18 (7. d8=Q $143 Rh6+ 8.
+Kxh6 $11) 1-0
+
+[Event "1.p ww11 {tt}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+3032.51d8c6"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "3K4/1P1bP3/2kP1q2/5p2/5P2/8/1N1PN3/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1999.??.??"]
+
+1. Nd4+ $1 (1. b8=N+ $143 Kxd6 2. Nc4+ Ke6 $19) 1... Qxd4 (1... Kxb7 $144 2.
+Kxd7 $18) 2. b8=N+ $1 Kxd6 3. Nxd7 Qd5 $1 4. Nc4+ $1 Qxc4 5. e8=N+ $1 Ke6 (5...
+Kc6 $144 6. Ne5+ $18) (5... Kd5 $144 6. Nb6+ $18) 6. Ng7+ Kd6 (6... Kf7 $144 7.
+Ne5+ $18) 7. Nxf5+ Ke6 8. Ng7+ Kd6 9. Ne8+ Ke6 10. f5+ $1 $18 1-0
+
+[Event "1.p wp12 {tt}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=0600.41h7f8"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "5k2/1r1P3K/3P4/2P5/3p4/3Pr3/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2000.??.??"]
+
+1. c6 $1 Ra7 $1 (1... Rxd7+ $144 {main} 2. cxd7 Kf7 3. d8=N+ $1 Kf6 4. Nc6 $1
+Kf7 5. Nd8+ Ke8 6. Nc6 Kf7 (6... Rxd3 $144 {main} 7. d7+ $1 Kxd7 8. Ne5+ $11)
+7. Nd8+ $11) 2. c7 Re8 3. Kg6 Raa8 4. Kf5 $1 (4. Kf6 $143 Reb8 $1 5. Ke6 Rd8 $1
+$19) 4... Reb8 5. Kf6 $1 Rd8 6. Ke6 Rab8 7. Kf6 (7. Kd5 $143 Kf7 $1 8. Kc6 Ke6
+9. cxb8=Q Rxb8 10. Kc7 Rh8 11. d8=Q Rxd8 12. Kxd8 Kxd6 $19) 7... Ra8 8. Ke6
+Rdb8 9. Kf6 $11 1/2-1/2
+
+[Event "1p. Pushkin 200 MT"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Kralin, N."]
+[Black "[+0170.01b6a2]"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "b7/8/1K6/3R1B2/5p2/b7/k7/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. Rd8 Bh1 $1 (1... Bf3 $144 2. Rd3 Bh5 (2... Ba8 $144 3. Be6+ Kb2 4. Rb3+ Ka2
+5. Rb4+ Ka1 6. Ra4 $18) 3. Be6+ Kb2 4. Rb3+ Ka2 5. Rb5+ $18) 2. Rd1 $1 (2. Kb5
+$143 Kb2 3. Rd1 Bb7 4. Rd2+ Kc1 5. Rc2+ Kd1 6. Kb6 Bh1 $1 $11) 2... Ba8 $1 3.
+Be6+ Kb2 4. Rd2+ Kc3 $1 5. Ra2 Kb4 6. Rc2 $1 Ka4 $1 (6... Bh1 $144 7. Rc4+ Kb3
+8. Rxf4+ Kc2 9. Rh4 $18) (6... f3 $144 7. Rc4+ Kb3 8. Rc8+ Kb2 9. Rxa8 f2 10.
+Bc4 $18) 7. Rc4+ Bb4 8. Rxf4 Bg2 $1 9. Bf7 $3 Ba8 10. Rg4 Bh1 (10... Bf3 $144
+11. Be8+ Kb3 12. Rg3 $18) 11. Be6 Ba8 (11... Bf3 $144 12. Bd7+ $18) 12. Rg7 $1
+Ba5+ 13. Kc5 $1 Bb4+ 14. Kc4 $18 1-0
+
+[Event "1.p wm03 us37"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[=0044.22b5h2"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "1n6/5p2/8/1K3b2/2N2P2/5P1p/7k/5B2 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2002.??.??"]
+
+1. Ne5 (1. Nd6 $143 Bd3+ 2. Bxd3 Kg1 $19) 1... f6 (1... Be6 $144 2. f5 Bxf5 3.
+Bxh3 Kxh3 4. Nxf7 $11) 2. Ng4+ Bxg4 3. fxg4 Kg3 4. Bxh3 Kxh3 5. g5 f5 6. g6 (6.
+Kc5 $143 Kg4 7. g6 Kh5 8. g7 Nd7+ 9. Kd6 Nf6 10. Ke7 Kg6 11. Kf8 Kh7 $1 12.
+g8=Q+ (12. Kf7 $144 Ng8 $19) 12... Nxg8 13. Kf7 Kh6 $1 $19 (13... Nh6+ $143 14.
+Kf6 $11)) 6... Nd7 7. Kc6 Nf6 8. Kd6 Kg4 9. Ke6 Nh5 10. Ke5 $11 1/2-1/2
+
+[Event "1/2.p vs31"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0311.11b6e8"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "r3k2N/6B1/1KP5/8/7p/8/8/8 w q - 0 1"]
+[PlyCount "33"]
+[EventDate "2003.??.??"]
+
+1. Kb7 $1 (1. c7 $143 h3 $1 2. Be5 Kd7 3. Ng6 Ra2 4. Kb7 Rc2 5. Nf8+ Ke7 6. Nh7
+Kd7 7. Nf6+ Ke6 8. Ng4 Kd7 9. Ne3 h2 $11) 1... h3 $1 2. Be5 $1 Ra1 $1 3. c7 (3.
+Ng6 $143 Rb1+ 4. Kc7 Kf7 5. Nh4 Ke6 6. Bh2 Rb2 7. Nf3 Rf2 $11) 3... Rb1+ 4. Kc6
+Rc1+ 5. Kd6 Rc2 6. Bf4 $1 h2 $1 (6... Rc3 $144 7. Ng6 $1 Rd3+ 8. Ke6 Rc3 9. Ne7
+$18) 7. Bxh2 Rd2+ $1 8. Ke6 $1 Re2+ 9. Be5 $1 Rxe5+ 10. Kd6 $1 (10. Kxe5 $143
+Kd7 $11) 10... Rd5+ $1 11. Kc6 $1 Rd8 $1 (11... Rc5+ $144 12. Kxc5 Kd7 13. Kb6
+$18) 12. Nf7 $1 (12. Ng6 $143 Rc8 $11) 12... Ra8 13. Kb7 $1 Kd7 14. Ne5+ Kd6
+15. Nc4+ Kd7 16. Nb6+ Kd6 17. Nxa8 $18 1-0
+
+[Event "sp.p ww11 us37"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+0010.22a1c2"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/2p5/1p6/8/2P5/B1P5/2k5/K7 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "2003.??.??"]
+
+1. Bb2 (1. Bb4 $143 c5 2. Ka2 Kd3 3. Kb3 cxb4 4. cxb4 Kd4 $1 $11) 1... Kd3 (
+1... Kb3 $144 2. c5 $1 bxc5 3. Kb1 c4 4. Kc1 c6 5. Kb1 c5 6. Ka1 Kc2 7. Ka2 Kd3
+8. Kb1 Kd2 9. Ba1 Kd1 10. Kb2 Kd2 11. Ka3 Kc2 12. Ka4 $18) 2. c5 $1 bxc5 (2...
+b5 $144 3. Kb1 Kc4 4. Kc2 Kxc5 5. Kd3 Kd5 6. Bc1 $18) 3. Ka2 (3. Kb1 $143 Kd2
+4. Ba1 c4 5. Bb2 c6 6. Ba1 Kd1 7. Kb2 Kd2 8. Ka3 Kc2 9. Kb4 Kb1 10. Kxc4 Kxa1
+11. Kb3 Kb1 12. c4 Kc1 13. Kc3 c5 14. Kd3 (14. Kb3 Kd2) 14... Kb2 $11) 3... c4
+4. Kb1 Kd2 5. Ba1 Kd1 (5... c6 $144 6. Bb2 Kd1 (6... Kd3 $144 7. Kc1 $18) (6...
+c5 $144 7. Ba1 Kd1 8. Kb2 Kd2 9. Ka3 $18) 7. Bc1 $18) 6. Kb2 Kd2 7. Ka3 Kc2 8.
+Kb4 Kb1 9. Kxc4 Kxa1 10. Kb3 $1 Kb1 11. c4 Kc1 12. c5 Kd2 13. Kc4 Ke3 14. Kd5
+Kd3 15. c6 $1 Kc3 16. Ke6 Kc4 17. Kd7 $18 1-0
+
+[Event "1/2.p wu18 {tt}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Kralin=N"]
+[Black "[+3041.21f5e3"]
+[Result "1-0"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "8/4p1P1/8/5K1b/B1P1N3/4k3/q7/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2004.??.??"]
+
+1. g8=Q e6+ $1 2. Qxe6 Bg4+ $1 3. Kxg4 Qxc4 4. Qh6+ $1 (4. Qxc4 $143 $11) 4...
+Kxe4 5. Qf4+ Kd3 (5... Kd5 $144 {main} 6. Bb3 Qxb3 7. Qf7+ $18) 6. Bb5 Qxb5 7.
+Qf1+ $18 1-0
+
+[Event "1st/2nd Special Prize Corus"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Kralin=N Perakov, O."]
+[Black "[=0040.13b8a6"]
+[Result "1/2-1/2"]
+[Annotator "ok"]
+[SetUp "1"]
+[FEN "1K6/1bP5/k6p/7p/8/4B1p1/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2008.??.??"]
+
+1. Bf4 $1 (1. c8=Q $143 {thematic try} Bxc8 2. Kxc8 Kb5 3. Kd7 Kc4 4. Ke6 Kd3
+5. Bf4 g2 6. Bh2 Ke4 7. Kf6 Kf3 8. Kf5 h4 $1 9. Kg6 Kg4 $1 (9... h3 $143 10.
+Kh5 g1=Q 11. Bxg1 Kg2 12. Kg4 $1 h5+ 13. Kh4 $11 {ZZ}) 10. Kxh6 Kh3 11. Bg1 Kg3
+$19) (1. Bxh6 $143 h4 2. Bf4 Kb6 $1 3. c8=Q Bxc8 4. Kxc8 Kc6 5. Bb8 Kd5 6. Kd7
+Ke4 7. Ke6 Kf3 $19) 1... g2 $1 (1... h4 $144 2. c8=Q Bxc8 3. Kxc8 Kb5 4. Kd7
+Kc4 5. Ke6 Kd3 6. Kf5 $11) 2. Be3 $1 {lose 2 tempo!} (2. Bh2 $143 Kb6 $1 3.
+c8=Q (3. Bg1+ Kc6) 3... Bxc8 4. Kxc8 Kc6 5. Kd8 Kd5 6. Ke7 Ke4 7. Kf6 Kf3 $19)
+2... h4 3. Bg1 $1 (3. Bf2 $143 h3 4. Bg1 h5 5. c8=Q Bxc8 6. Kc7 Kb5 7. Kd6 Kc4
+8. Ke5 Kd3 9. Kf4 h2 $1 10. Bxh2 Ke2 11. Kg3 Kf1 12. Kh4 Bg4 $1 $19) 3... h3 (
+3... h5 $144 4. Bf2 h3 5. Bg1 h4 6. c8=Q Bxc8 7. Kxc8 Kb5 8. Kd7 Kc4 9. Ke6 Kd3
+10. Kf5 Ke2 11. Kg4 Kf1 12. Bh2 g1=Q+ 13. Bxg1 Kg2 14. Kxh4 $11) 4. c8=Q $1
+Bxc8 5. Kc7 $1 (5. Kxc8 $143 {thematic try} Kb5 6. Kd7 Kc4 7. Ke6 Kd3 8. Kf5
+Ke2 9. Kg4 Kf1 10. Bh2 g1=Q+ 11. Bxg1 Kg2 $1 12. Kh4 h5 $1 $19 {ZZ}) 5... Kb5
+6. Kd6 Kc4 7. Ke5 Kd3 8. Kf4 h2 $1 (8... Ke2 $144 9. Kg3 Kf1 10. Kh2 $11) 9.
+Bxh2 Ke2 10. Kg3 Kf1 11. Kh4 $1 $11 1/2-1/2
+

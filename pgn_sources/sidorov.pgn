@@ -1,0 +1,1887 @@
+[Event "ts23#07"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0010.58e2h2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7B/1p3p1p/5P2/5p2/5P1p/1p4pP/1P2KpPk/8 w - - 0 1"]
+[PlyCount "63"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 Kh1 2. Bg7 Kh2 3. Bf8 Kh1 4. Bh6 Kh2 5. Bg5 b6 6. Bh6 Kh1 7. Bg7 Kh2 8.
+Bf8 Kh1 9. Bh6 Kh2 10. Bg5 b5 11. Bh6 Kh1 12. Bg7 Kh2 13. Bf8 Kh1 14. Bh6 Kh2
+15. Bg5 b4 16. Bh6 Kh1 17. Bg7 Kh2 18. Bf8 Kh1 19. Bh6 Kh2 20. Bg5 Kh1 21. Bxh4
+Kh2 22. Bg5 Kh1 23. Bh6 $1 23... Kh2 24. h4 Kh1 25. h5 Kh2 26. Bf8 Kh1 27. Bg7
+Kh2 28. Bh6 Kh1 29. Bg5 Kh2 30. Bh4 h6 31. Bg5 hxg5 32. h6 1-0
+
+[Event "ts23 {tt}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+1030.13f3a8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/6b1/8/8/p7/1p3K2/pP5Q/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1968.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qh1 Bxb2 (1... a3 2. Ke2+ Kb8 3. Qh2+ Kc8 4. Qh3+) 2. Kg4+ $1 2... Ka7 3.
+Qg1+ Ka6 4. Qf1+ Ka5 5. Qe1+ Kb5 6. Qe2+ Kb4 7. Qxb2 a3 8. Qd4+ 1-0
+
+[Event "ts23 {tt}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3040.33d7f8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5kb1/3K1p1P/7p/3p1P1P/7B/2q5/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1968.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h8=Q Qxh8 2. Be7+ Kg7 3. f6+ Kh7 4. Kd6 d4 5. Ke5 d3 6. Bb4 Qxf6+ 7. Kxf6
+Kh8 8. Bc3 1/2-1/2
+
+[Event "ts23#29 @2"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0031.23b3a7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1b6/k1p5/1pP5/1P6/8/1K6/5N1p/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1968.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc4 Ka8 2. Kd5 Ba7 3. Ke6 Bb8 4. Nh1 (4. Kf5 $1 4... Ba7 5. Kg4 Kb8 6. Kg3
+Kc8 7. Kxh2 Kd8 8. Nd3 Ke7 9. Nb4 Kd6 10. Na6 Ke5 11. Nxc7 Bb8 12. Ne8 Kd5+ 13.
+c7 Bxc7+ 14. Nxc7+ Kd6 15. Na6) 4... Ba7 5. Ng3 Bb8 (5... Kb8 6. Kd7 Ka8 7. Kc8
+$1 7... Bb8 8. Nh1 Ba7 9. Kxc7) 6. Kf5 Ba7 7. Kg4 Kb8 8. Kh3 Kc8 9. Kxh2 Kd8
+10. Nf5 $1 1-0
+
+[Event "3.p tf19"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0101.04h6a8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k2N1R2/8/7K/8/6pp/6pp/8/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1972.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf1 Ka7 (1... Kb8 2. Rf7 Kc8 3. Nc6 g2 4. Re7 g1=Q 5. Na7+ Kb8 6. Nc6+ Kc8
+7. Na7+ Kd8 8. Nc6+ Kc8 9. Na7+) 2. Rb1 Ka6 3. Nc6 h2 4. Kh5 h3 5. Kh4 g2 6.
+Rb4 g1=Q 7. Nb8+ Ka5 8. Nc6+ Ka6 9. Nb8+ Ka7 10. Nc6+ 1/2-1/2
+
+[Event "ts25#101"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3162.10a1a3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/P3R3/8/6b1/8/k7/bN6/K3N2q w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1972.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a8=Q+ Qxa8 2. Ra7+ $1 2... Qxa7 3. Nc2+ Kb3 4. Nd4+ Kc3 (4... Kb4 5. Nc6+
+Kc5 6. Nxa7 Be6 7. Nd3+ $1 (7. Na4+ $2 7... Kb4 $1 8. Nb2 8... Kb3 $1 9. Nd3
+Bf6+ 10. Kb1 10... Bf5 $1) 7... Kb6 8. Kb2 Kxa7 9. Kc3) 5. Nb5+ Kb3 6. Nd4+ $1
+(6. Nxa7 $2 6... Bf6 7. Nb5 Bxb2#) 6... Kb4 7. Nc6+ Ka3 8. Nxa7 Bf6 9. Nb5+ Kb3
+10. Nd4+ Bxd4 1/2-1/2
+
+[Event "5.c tl48"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0011.24g7a4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/N2p2K1/8/6P1/kp6/pp6/P7/7B w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1976.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd5 (1. axb3+ $2 1... Ka5 $1 (1... Kxb3 2. Bd5+ Kb2 3. Nb5 b3 (3... a2 4.
+Bxa2 Kxa2 5. Kf8) 4. Nd4 a2 5. Nxb3) 2. Kf7 a2 3. g6 a1=Q 4. g7 Qf1+ 5. Ke7
+5... Qg1 $1 6. Kf7 Qf2+ 7. Ke7 Qg3 8. Kf7 Qf4+ 9. Ke7 Qg5+ 10. Kf7 Qf5+ 11. Ke7
+Qe6+ 12. Kf8 Qf6+ 13. Kg8 13... Kb6 $1 14. Nc8+ Kc7 15. Na7) 1... bxa2 2. Bxa2
+b3 3. Nb5 bxa2 4. Nc3+ Kb3 5. Nxa2 Kxa2 6. g6 Kb3 (6... Kb2 7. Kf6 a2 8. g7
+a1=Q 9. g8=Q) (6... Kb1 7. Kh7) 7. Kf8 (7. Kf7 a2 8. g7 a1=Q 9. g8=Q 9... Qe5
+$1) 7... a2 8. g7 a1=Q 9. g8=Q+ 1/2-1/2
+
+[Event "5.hm tm81"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0011.12c8a6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2KB4/8/k7/7N/5p2/3p4/1P6/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1976.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ba5 Kxa5 2. b4+ Ka6 3. b5+ Ka5 4. b6 d2 5. b7 d1=Q 6. b8=Q 1/2-1/2
+
+[Event "1.p ts54"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0444.13c2d5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5p2/N1P5/r1Bknp2/6b1/5p2/2K5/7R w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1977.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c7 f4 2. Rd1+ Kc4 3. Rd4+ Kb5 4. Rb4+ Kc6 5. Rb6+ Kd7 6. Rd6+ Kc8 7. Rd8+
+Kb7 8. Rb8+ Kc6 9. Rb6+ Kd5 10. Rd6+ Kc4 11. Rd4+ 1/2-1/2
+
+[Event "1.p tv11"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0014.02e5e1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/B7/8/4K3/p6n/8/3p1N2/4k3 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1978.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd4 $1 1... Kxf2 2. Kd3+ Ke1 3. Bf2+ Kd1 4. Bxh4 a3 5. Bf6 a2 6. Bc3 a1=Q 7.
+Bxa1 Kc1 8. Bb2+ 1/2-1/2
+
+[Event ".c tr11 {tt}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0010.02c4e2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/B7/8/2K5/p7/2p1k3/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc3+ Kd1 2. Be2+ Kc1 3. Bc4 Kb1 4. Ba2+ 1/2-1/2
+
+[Event "1.c tr11 {tt}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0310.10h4e1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7P/1B6/8/7K/8/r7/4k3 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ba5+ $1 1... Kf1 2. Kg3 Rg2+ 3. Kh3 Kg1 4. Bc7 $1 4... Kh1 $1 5. Kh4 $3 1-0
+
+[Event "ts93"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3001.72h3h1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/P1P2P1P/8/1pN3p1/6P1/6PK/6P1/1q5k w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd3 $1 1... Qg1 2. Nf2+ $1 2... Qxf2 3. a8=Q Qg1 4. Qa1 $1 4... Qxa1 5. c8=Q
+$1 5... Qg1 6. Qc1 Qxc1 7. h8=Q $1 7... Qg1 8. Qa1 Qxa1 9. f8=Q Qg1 10. Qf1
+Qxf1 1/2-1/2
+
+[Event "wa07"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0410.11h4d1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7P/1B6/8/7K/8/r3p2R/3k4 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rh1+ e1=Q+ 2. Rxe1+ Kxe1 3. Ba5+ Kf1 4. Kg3 Rg2+ 5. Kh3 Kg1 6. Bc7 Kh1 7.
+Kh4 1-0
+
+[Event "wa07"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0011.23c8a6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2KB4/2p5/k7/7N/1P3p2/3p4/1P6/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1979.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. b5+ Ka7 2. b6+ cxb6 3. Bxb6+ Ka6 4. Ba5 Kxa5 5. b4+ Ka6 (5... Kb5 6. Nxf4 d2
+7. Nd5) 6. b5+ Ka5 7. b6 d2 8. b7 d1=Q 9. b8=Q 1/2-1/2
+
+[Event "8.hm jb07"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0040.32f3c8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2kB4/2PbP1P1/p7/8/8/5K2/2p5/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1980.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e8=N Bxe8 (1... Bc6+ 2. Kf2) 2. g8=Q c1=Q (2... Bh5+ 3. Kf2) 3. Qe6+ Kb7 4.
+Qb6+ Kc8 5. Qxa6+ Kd7 6. Qa4+ Kc8 7. Qa8+ Kd7 8. c8=Q+ Qxc8 9. Qd5# 1-0
+
+[Event "ts21"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0326.00g2c6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/2k5/3n3B/4r3/8/6K1/B6n w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1980.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf3 Rh4 (1... Re1 2. Bd4 $1 2... Rb1 3. Kh2 Rb4 4. Bg1 Rh4+ 5. Kg2 Rh8 6.
+Bd4) 2. Be5 $1 2... Rh7 (2... Kc5 3. Bh2 Nf2 4. Bg3) 3. Kg1 $1 3... Re7 4. Bh2
+Re1+ 5. Kg2 Ra1 6. Be5 Re1 7. Bh2 $1 7... Rb1 8. Be4 Re1 9. Bf3 Rc1 10. Bf4 Re1
+11. Bh2 1/2-1/2
+
+[Event "tp21#390 @2 @3"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0310.33g7a6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p5K1/k7/p3B2P/P1p5/8/7P/7r w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1981.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h6 c3 2. h7 c2 3. Bf4 c1=Q (3... Rxh2 $1 4. Bxh2 c1=Q 5. h8=Q Qc3+ 6. Kg8
+Qxh8+ 7. Kxh8 Kb7) 4. Bxc1 Rxh2 5. Bh6 Rb2 6. Kg8 (6. h8=Q $2 6... Rb8 7. Qxb8)
+6... Rg2+ 7. Kf7 Rf2+ 8. Kg6 Rg2+ 9. Kf5 (9. Kh5 $1 9... Rh2+ 10. Kg5 Rg2+ 11.
+Kf4 Rf2+ 12. Kg3) 9... Rf2+ 10. Bf4 1-0
+
+[Event "ts21"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=1252.80b8d8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "BK1k4/PPNP4/2Pb4/1R1P1P2/1P6/N7/2Q2RP1/6B1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1981.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bh2 $1 1... Bxh2 2. g3 $1 2... Bxg3 3. Rf4 $1 3... Bxf4 4. d6 Bxd6 5. Qh2
+Bxh2 6. Re5 Bxe5 7. Nab5 Bh2 8. f6 Bxc7+ 9. Nxc7 1/2-1/2
+
+[Event ".c jk01 tk07"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0344.36h1b7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rb1/1kn2p1P/2NP2pp/4P1p1/6p1/6p1/8/6BK w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1982.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd8+ (1. h8=Q $2 1... f6 2. e6 Bxe6 3. Na5+ Ka6 4. Qxf8 Bd5#) 1... Rxd8 2.
+dxc7 g2+ 3. Kh2 g3+ 4. Kh3 g4+ 5. Kh4 g5+ 6. Kh5 Kxc7 7. h8=Q 1-0
+
+[Event "sp.c tc15"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+1000.08f4d4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1Q6/2p5/2p2p2/2pp4/2pk1K2/2pp4/8/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1982.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qb1 c2 2. Qa1+ c3 3. Qa4+ c4 4. Qa7+ c5 5. Qa1 c1=Q+ 6. Qxc1 c2 7. Qa1+ c3
+8. Qa4+ c4 9. Qa7+ c5 10. Qa1 c1=Q+ 11. Qxc1 c2 12. Qa1+ c3 13. Qa4+ c4 14.
+Qa7# 1-0
+
+[Event "sp.p jg02 ts38"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0113.22d4c1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4R2B/8/8/3n4/3K4/P2p2P1/3p4/2k5 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1982.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc8+ Kb1 2. Rb8+ Ka2 3. Rb2+ Kxb2 4. Kxd3+ Kc1 5. Bb2+ Kd1 6. Bd4 Ke1 7.
+Bf2+ Kd1 8. Bd4 1/2-1/2
+
+[Event "ts21"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0416.32b2c4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6n1/R1B4P/5nPr/1P6/p1k5/8/pK6/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1982.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. b6 $1 (1. hxg8=Q+ $2 1... Nxg8 2. b6 a1=Q+ 3. Kxa1 Kb3 4. Bh2 Rxh2 5. Rh7
+5... Nh6 $1) 1... a1=Q+ $1 2. Kxa1 2... Kb3 $1 3. Bh2 $1 3... Rxh2 4. h8=Q Rxh8
+(4... Nh6 5. Qa8) 5. Rh7 $1 5... Nxh7 6. g7 1-0
+
+[Event "ts21"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3506.31a6b4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/p1R3PP/K4nPn/2R5/1k5r/7q/8/8 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1982.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rb5+ (1. g8=Q $2 1... Qa3+ $1 (1... Nhxg8 2. h8=Q Rxh8 3. Rb5+ Ka3 4. Ra5+
+Kb2 5. Rb5+ Qb3 6. Rxb3+ Kxb3 7. Rh7 $1 7... Nxh7 8. g7) 2. Kb7 Nhxg8 3. h8=Q
+Rxh8 4. Rc4+ Kb5) 1... Ka3 2. Ra5+ Kb3 3. Rb5+ Rb4 4. Rxb4+ Kxb4 5. g8=Q 5...
+Nhxg8 $1 6. h8=Q $1 6... Qxh8 7. Rh7 $1 7... Nxh7 8. g7 Qxg7 1/2-1/2
+
+[Event "ts21"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3666.08g2d1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/1p6/1pp5/n1p5/1pp5/brrp1pK1/nqbk4 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1982.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 $1 (1. Kxf2 $2 1... b4 2. Kf1 b5 3. Kf2 Nb6 4. Kf1 Nd5 5. Kf2 Ne3) 1...
+b4 2. Kxf2 b5 3. Kf1 Nb6 4. Kf2 Nd5 5. Kf1 Ne3+ 6. Kf2 Ng4+ 7. Kf1 Nh2+ 8. Kf2
+Nf3 9. Kf1 1/2-1/2
+
+[Event "2.c ws05 {pl}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0010.26f8d7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5K2/p2k4/3Pp3/2P5/1pp3pp/8/6B1/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1983.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bc6+ Kxc6 2. Ke7 b3 (2... c3 3. d7 c2 4. d8=Q c1=Q 5. Qd7+ Kxc5 6. Qc7+) (
+2... h3 3. d7 h2 4. d8=Q h1=Q 5. Qa8+) (2... g3 3. d7 g2 4. d8=Q g1=Q 5. Qd7+
+Kxc5 6. Qxa7+) 3. d7 b2 4. d8=Q b1=Q 5. Qd7+ Kxc5 6. Qd6+ Kb5 7. Qb8+ 1-0
+
+[Event "3.c ws05"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+4212.81a5a2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3R2R1/1p2N3/1P1P2P1/KP2PP1Q/6P1/2P4N/k7/1q2B3 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1983.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g7 Qb3 2. Qf7 Ka1 3. Qc4 Qxc4 4. Rc8 Qb3 5. Rc4 Qxc4 6. Rc8 Qb3 7. Rc4 Qxc4
+8. g8=B 1-0
+
+[Event "3.hm tv34"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0633.28e8e6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4K3/1nP1b1P1/3pkp2/r1p3p1/8/r1p3p1/3p1p2/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1983.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c8=Q+ Ke5 2. Qe6+ Kxe6 3. g8=Q+ Ke5 4. Qe6+ Kd4 (4... Kxe6) 5. Qg4+ Kd3 6.
+Qf5+ Ke3 7. Qe6+ Kf3 8. Qd5+ Kf4 9. Qc4+ Kf5 10. Qd3+ Ke5 11. Qe2+ Kd5 12. Qf3+
+Kd4 13. Qg4+ 1/2-1/2
+
+[Event "3.hm tv34"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=1606.08e8f5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4K3/1n5n/3p1p2/r1p2kp1/8/r1p3p1/3pQp2/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1983.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qd3+ $1 1... Kf4 (1... Kg4 2. Qe4+ Kh3 3. Qh1+ Kg4 4. Qe4+ Kh5 5. Qxh7+ Kg4
+6. Qe4+) 2. Qc4+ Kf3 3. Qd5+ Ke3 (3... Ke2 4. Qe4+ Kd1 5. Qb1+ Ke2 6. Qe4+ Kf1
+7. Qh1+ Ke2 8. Qe4+) 4. Qe6+ Kd3 5. Qf5+ Kd4 (5... Kc4 6. Qe4+ Kb5 7. Qxb7+ Kc4
+8. Qe4+ Kb3 9. Qb1+ Kc4 10. Qe4+ Kb5 11. Qb7+ Ka4 12. Qe4+ Kb3 13. Qb1+ Ka4 14.
+Qe4+) 6. Qg4+ Kd5 7. Qf3+ Ke5 (7... Ke6 $4 8. Qe4#) 8. Qe2+ 1/2-1/2
+
+[Event "ts21#60 @4"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0114.22e4a1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/7B/N7/4n3/1R2K3/1P2p2P/4p3/k7 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1983.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ra4+ $1 1... Kb2 2. Ra1 $1 2... Kxa1 3. Nb4 Kb2 4. Nc2 $1 (4. Kxe5 $1) 4...
+Kxc2 5. Kxe3+ Kd1 6. Bc2+ $1 6... Ke1 7. Be4 Kf1 8. Bg2+ $1 8... Ke1 9. Be4 Kd1
+10. Bc2+ $1 1/2-1/2
+
+[Event "ts54"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0000.23c4e1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6p1/3p4/6P1/2K5/p7/P7/4k3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1983.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd5 Kd2 2. Ke6 Kc2 3. Kf7 Kb2 4. Kxg7 Kxa2 5. g6 (5. Kf7 $2 5... Kb2 6. g6
+a2 7. g7 a1=Q 8. g8=Q Qa2+) (5. Kf6 $2 5... Kb3 6. g6 a2 7. g7 a1=Q+) (5. Kf8
+$2 5... Kb2 6. g6 a2 7. g7 a1=Q 8. g8=Q Qa8+) 5... Kb3 (5... Kb2 6. Kf6) (5...
+Kb1 6. Kh7) 6. Kf7 1/2-1/2
+
+[Event "wo02"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0010.44d8g8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3K2kB/6Pp/2pp4/6p1/6PP/3P4/8/8 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1983.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h5 $1 1... c5 2. Ke7 d5 3. Kf6 c4 4. dxc4 dxc4 5. Kxg5 c3 6. Kh6 c2 7. g5
+c1=Q 1/2-1/2
+
+[Event ".c tc13"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0536.13c6a8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k1rb4/2p3n1/1PK1p3/1p6/8/4R3/2n5/4R3 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1984.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ra1+ (1. Ra3+ $2 1... Nxa3 2. Ra1 Nf5 3. Rxa3+ Kb8 4. b7 Nd4+) 1... Kb8 2.
+Ra8+ Kxa8 3. Ra3+ Kb8 4. Ra8+ Kxa8 5. b7+ Kb8 6. Kd7 Kxb7 1/2-1/2
+
+[Event "2/3.p wt08 us11"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0071.17f2h6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5N2/3pP1p1/1p4pk/b5pp/4b3/8/1B3K1p/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1984.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e8=N g4 2. Bc1+ g5 3. Bb2 g3+ 4. Ke2 Bf3+ 5. Kd3 Be4+ 6. Kc4 Bd5+ 7. Kb5
+Bc6+ 8. Ka6 Bb7+ 9. Ka7 g4 10. Bc1+ g5 11. Bb2 1-0
+
+[Event "6.hm wt08 us11"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0410.12e7e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6R1/4K1P1/6r1/3pk3/8/8/6p1/6B1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1984.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf7 Rf6+ 2. Ke8 Rg6 3. Ke7 d4 4. Re8 Rxg7+ 5. Kf8+ Kf6 6. Bxd4+ Kg6 7. Re6+
+Kh7 8. Bxg7 g1=Q 9. Rh6# 1-0
+
+[Event "sp.hm ts23#11"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+4202.72a5a2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2N1Q1R1/1p2N1P1/1P1R4/KP6/3P4/1qPp4/k2P1P2/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1984.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qf7 Ka1 (1... Qxf7 2. Kb4) 2. Qc4 (2. Qxb3 $2) 2... Qxc4 3. Rc6 Qb3 (3...
+bxc6 4. Ka6) 4. Rc4 Qxc4 5. Nd6 Qb3 6. Nc4 Qxc4 7. Rc8 Qb3 8. Rc4 Qxc4 9. g8=B
+(9. g8=Q $2 9... Qb3 10. Qxb3) 1-0
+
+[Event ".c tm04#1715"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0074.04g3h1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6bn/5p2/8/b5p1/2p1N3/6K1/2B4p/7k w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf2 Be1+ 2. Kf1 Bh7 (2... f5 3. Nf6) 3. Ng3+ Bxg3 4. Bxh7 Ng6 5. Bg8 Ne5 6.
+Bh7 Nf3 7. Be4 g4 8. Bxf3+ gxf3 1/2-1/2
+
+[Event ".c tm81"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0300.52h6g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/1r3pP1/6pK/2PP1P2/8/8/6P1/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c6 Rc7 2. f6 Rc8 3. g3 (3. Kg5 $2 3... Rd8) (3. g4 $2 3... g5 4. Kh5 Kh7 5.
+Kxg5 Rd8) 3... g5 4. Kh5 Kh7 5. Kg4 (5. g4 $2 5... Kg8 6. Kh6 Rxc6 7. dxc6)
+5... Kg6 6. d6 Kxf6 7. d7 1-0
+
+[Event ".c ts23#43"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0711.41a6a1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/K6N/P2r3r/P7/1p4R1/4P1P1/kB6 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf5 Kxb1 (1... b2 2. Be4) 2. Rxb3+ Kc2 3. Rb5 Rdxf5 (3... Rhxf5 4. e4 Rf6+
+5. Rb6 Rdd6 6. e5 Rxb6+ 7. axb6 Re6 8. a5) 4. g4 Rh6+ 5. Rb6 Rff6 6. g5 Rxb6+
+7. axb6 Rg6 8. a5 1-0
+
+[Event ".c ts83"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+1640.05e2h1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "Q1b5/2p3pp/8/1B6/8/6pr/4Kpr1/7k w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 Rhh2 2. Bc6 Bh3 3. Qb7 h5 4. Qa8 h4 5. Qb7 g5 6. Qa8 g4 7. Be4 c5 8. Qa1
+c4 9. Ke2+ f1=Q+ 10. Kxf1 c3 11. Qa7 c2 12. Qg1# 1-0
+
+[Event "1/3.hm ts25#30"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0041.36h6f8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5kN1/4pP1B/6PK/4b1pP/3p3p/3p3p/8/8 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf6 $1 1... Bxf6 2. Bg8 d2 3. Kh7 d1=Q 4. h6 Qd3 (4... Qh5 5. g7+ Bxg7)
+1/2-1/2
+
+[Event "2.hm ts25 {tt}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3676.08e1g1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1b6/1pr2q2/7n/6p1/2p1p1r1/5p2/4pnpp/2B1K1kb w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be3 Ba7 2. Bxa7 b6 3. Bxb6 Rc5 4. Bxc5 e3 5. Bxe3 Qa7 6. Bxa7 Rd4 7. Bxd4
+Nhg4 8. Ba7 c3 9. Bxf2+ Nxf2 1/2-1/2
+
+[Event "2.p ts25 {tt}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0376.38h3d5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2n5/P5P1/2ppp3/2pkp3/1nppp3/2bb3K/6BP/r7 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g8=N $1 (1. a8=N $2 1... Ra7 2. g8=N Rh7+ 3. Kg4 (3. Kg3 Be1+ 4. Kg4 c3)
+3... Be2+ 4. Kg3 d3) 1... Rf1 $1 2. a8=N $1 (2. Bxf1 $2 2... Bxf1+ 3. Kg4 d3)
+2... Rf3+ $1 3. Kg4 Rg3+ 4. Kh4 4... Rg4+ $1 5. Kh5 Rh4+ (5... Rg5+ 6. Kh6 Rh5+
+7. Kg7 Rg5+ 8. Kf7 Rf5+ 9. Ke8 Na6 10. Ne7+ Nxe7 11. Nb6#) 6. Kg6 Rg4+ 7. Kf7
+Rxg8 8. Nc7# 1-0
+
+[Event "3.hm tv06"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0041.15d6b8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k6/1p5N/1pPK2p1/7b/8/4p3/2Bp4/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c7+ Kc8 2. Bb3 Bg4 3. Nf6 e2 4. Bd1 exd1=Q 5. Nd5 Qb3 6. Ne7# 1-0
+
+[Event "5/6.p jb03 td29"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0141.06e7c8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "BNk5/p3K3/4p3/p7/b7/p7/1p2p3/3R4 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rd8+ Kc7 2. Na6+ Kb6 3. Rb8+ Kxa6 4. Kd6 Be8 (4... Bd1 5. Bb7+ Kb5 6. Bd5+
+Ka4 (6... Ka6 7. Bc4#) 7. Bc6#) 5. Bb7+ Kb5 6. Bd5+ Ka4 (6... Ka6 7. Bc4+ Bb5
+8. Bxb5#) 7. Bb3# 1-0
+
+[Event "sp.c tm01"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3666.18a8a6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K7/1p3p1p/kpP5/qp6/1p6/1p3np1/2n2rrb/7b w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c7 (1. cxb7 $2 1... Qa1 2. b8=Q Qh8 3. Qxh8 Re2 4. Qc8+ Ka5 5. Qb7 Re8+ 6.
+Ka7 Re7 7. Qxe7 Rd2 8. Qb7 Rd7 9. Qxd7 Nfd4 10. Kb8 Nc6+) 1... Re2 2. c8=Q Re8
+3. Qxe8 Rd2 4. Qb8 (4. Qc8 $2 4... Ne5 5. Qb8 Rd8 6. Qxd8 Nd7 7. Qxd7 Qa1) 4...
+Rd8 5. Qxd8 Qa1 6. Qb8 Qh8 7. Qxh8 Nfd4 8. Qb8 Nc6 9. Qxb7+ Ka5 10. Qa6+ Kxa6
+1/2-1/2
+
+[Event "sp.p wo02 @2"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+4232.82h5g2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "Q7/PR1P2P1/1R4Pp/5PpK/6P1/2N1P1q1/N1bP2k1/8 w - - 0 1"]
+[PlyCount "35"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rb8+ $1 1... Kh2 2. Qh1+ $1 2... Kxh1 3. Rb1+ $1 3... Kh2 4. Rh1+ $1 4...
+Kxh1 5. Rb1+ $1 (5. a8=Q+ $2 5... Kh2) 5... Kh2 6. Rh1+ $1 6... Kxh1 7. a8=Q+
+7... Be4 $1 8. Qxe4+ Kh2 9. Qe5 $1 (9. Qf4 $1 9... gxf4 10. d8=Q Qh3+ 11. Qh4)
+9... Kh1 $1 (9... Qxe5 10. Kxh6) 10. Qd5+ Kh2 11. Qd6 $1 11... Kh1 $1 12. Qc6+
+Kh2 13. Qc7 $1 13... Kh1 $1 14. Qb7+ Kh2 15. Qb8 $1 15... Kh1 $1 16. Qb1+ $1
+16... Kh2 17. Qg1+ $1 17... Kxg1 18. Ne2+ 1-0
+
+[Event "sp.p wo02 {c}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+4231.82h5h2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "QR6/P5P1/1R4Pp/5PpK/6P1/2N1P1q1/P1bP3k/8 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1985.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qh1+ $1 1... Kxh1 2. Rb1+ Kh2 3. Rh1+ $1 3... Kxh1 4. Rb1+ $1 (4. a8=Q+ $2
+4... Kh2) 4... Kh2 5. Rh1+ $1 5... Kxh1 6. a8=Q+ 6... Be4 $1 7. Qxe4+ Kh2 8.
+Qe5 $1 8... Kh1 $1 (8... Qxe5 9. Kxh6) 9. Qd5+ (9. Qxg3 $2) 9... Kh2 10. Qd6 $1
+10... Kh1 11. Qc6+ Kh2 12. Qc7 $1 12... Kh1 13. Qb7+ Kh2 14. Qb8 $1 14... Kh1
+15. Qb1+ Kh2 16. Qg1+ $1 16... Kxg1 17. Ne2+ 1-0
+
+[Event ".c mb03"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0070.27e4h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5b1k/2pp4/P3P1pp/7b/2B1K2p/7p/6p1/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1986.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e7 Bxe7 2. a7 Bf3+ 3. Kxf3 g1=Q 4. a8=Q+ Kg7 5. Qg8+ Kf6 6. Qf7+ Kg5 7.
+Qxe7+ Kh5 8. Be2 Qd4 9. Qc5+ Qxc5 10. Kf4# 1-0
+
+[Event ".c ts21#12"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0350.21h5e8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1k3/4p3/5PP1/7K/8/6B1/4B3/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1986.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bb5+ Kf8 2. Bd6 exd6 3. g7+ Kf7 4. Be8+ Kg8 5. Kh6 Be6 6. Bg6 Rf8 7. f7+
+Rxf7 8. Bh7# 1-0
+
+[Event ".c wm09 tm81"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0001.31a8b6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K7/1N6/1k6/8/1P6/1P4p1/2P5/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1986.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc5 g2 2. Na4+ Ka6 3. b5+ Ka5 4. b6 g1=Q 5. b7 Ka6 6. Nc5+ Qxc5 7. b8=N+ Kb5
+8. c4+ Ka5 9. b4+ Kxb4 (9... Qxb4 10. Nc6+) 10. Na6+ 1/2-1/2
+
+[Event "6.c tc13"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0141.24a2d3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/b5N1/p2pR3/P2B4/3k1p2/K2p1P2/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1986.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf4+ (1. Rxd5 $2 1... Bc4+) 1... Kc2 (1... Kxd4 2. Rxd5+ Kc3 3. Kb1) (1...
+Kc4 2. Nxd5 d1=Q 3. Ne3+) 2. Nxd5 Bc4+ 3. Ka3 Bxd5 4. Bc3 d1=Q (4... Kxc3 5.
+Rxd5 Kc2 6. Rc5+ (6. Rxa5 $2 6... d1=Q 7. Rc5+ Kb1 8. Rb5+ Ka1) 6... Kd3 7.
+Rxa5 Ke2 8. Rd5 d1=Q 9. Rxd1 Kxd1 10. a5) 5. Re1 Qd3 6. Rc1+ Kxc1 1/2-1/2
+
+[Event ".c mg01 tk05"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0000.12g7a2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p4K1/8/p7/8/8/k5P1/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1987.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g4 a4 2. g5 a3 3. g6 Kb2 (3... Kb1 4. Kh7 (4. Kh6 $2 4... a2 5. g7 a1=Q 6.
+g8=Q Qf6+ 7. Kh5 Qf3+ 8. Kh6 Qh3+) 4... a2 5. g7 a1=Q 6. g8=Q) 4. Kf6 a2 5. g7
+a1=Q 6. g8=Q 1/2-1/2
+
+[Event ".c mk02 tn30"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3247.21a8f7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K1b5/n3Pk2/6N1/1P6/2q2p2/5n2/3R4/2B2R2 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1987.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5+ Nxe5 2. Rxf4+ Qxf4 3. e8=Q+ Kxe8 4. Rd8+ Kxd8 5. Bxf4 Nec6 6. b6 Ba6 7.
+b7 Nc8 8. b8=Q 1/2-1/2
+
+[Event ".c ts21#80"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0340.12g4d4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4p1P1/8/3k2K1/b5pB/8/4r3 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1987.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g7 Re4+ 2. Kf3 $1 2... Re3+ 3. Kg2 Re2+ 4. Kg1 $1 4... Bc5 5. g8=Q 5... Kd3+
+$1 6. Kf1 Rf2+ 7. Ke1 Bb4+ 8. Kd1 Rd2+ 9. Kc1 Ba3+ 10. Kb1 Rb2+ 11. Ka1 $1 1-0
+
+[Event "1.p wu03"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3310.24g1g4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "q7/pP6/B7/8/1r4kp/6p1/6pP/6K1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1987.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h3+ $1 (1. bxa8=Q $2 1... Rb1+ 2. Kxg2 h3#) (1. b8=Q $2 1... Qxb8 2. h3+ Kf4
+) 1... Kxh3 2. b8=Q $3 2... Qxb8 3. Bc8+ Rg4 4. Bb7 $1 4... Qa8 $1 5. Bc8 Qb8
+6. Bb7 Re4 7. Bc8+ Rg4 8. Bb7 Qa8 9. Bc8 1/2-1/2
+
+[Event "mc03 @2"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0000.18d7g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/3K2pp/2P5/6p1/4p1p1/pp4p1/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1987.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke7 (1. c7 $2 1... Kf7) 1... g6 2. c7 Kg7 3. c8=Q Kh6 4. Qf8+ (4. Qxg4 $1)
+4... Kh5 5. Qf7 (5. Qg7 $2 5... h6 6. Qa1 g2 7. Qg1 g3) 5... h6 (5... Kh6 6.
+Kf6) 6. Qf1 g2 7. Qxg2 Kh4 8. Qh2# 1-0
+
+[Event "o000"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0030.52c1a1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/7p/6P1/4P1P1/2p3P1/6P1/kbK5 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1987.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e5 $1 (1. g6 $2 1... Bxe4 2. g7 Bh7 3. g5 hxg5 4. g4 Ka2 5. g8=Q+ Bxg8 6.
+Kc2 Be6 7. Kxc3 Bxg4 8. Kd4 Bc8 9. g4 Bxg4 10. Ke5 Bc8 11. Kf6 g4) 1... hxg5 2.
+e6 Ka2 3. e7 Bg6 4. e8=Q $1 4... Bxe8 5. Kc2 Bd7 6. Kxc3 Bxg4 7. Kd4 Bc8 8. g4
+$1 8... Bxg4 9. Ke5 Bc8 10. g4 $1 10... Bxg4 11. Kf6 1/2-1/2
+
+[Event "ts21"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3104.10h3b8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1k6/8/2P1N3/8/8/7K/3R4/4qn2 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1987.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c7+ Ka7 2. Ra2+ Kb6 3. Rb2+ $1 (3. Ra6+ $2 3... Kb7 $1) 3... Ka5 4. Ra2+ $1
+(4. Rb5+ $2 4... Kxb5 5. Nd4+ Kb6) 4... Kb4 5. Rb2+ Ka3 6. Rb3+ $1 6... Kxb3 7.
+Nd4+ Ka4 8. Ne2 $1 8... Qxe2 9. c8=Q Qh2+ 10. Kg4 Qg3+ 11. Kh5 1/2-1/2
+
+[Event "ts23#31"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+3240.62h6g8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/pq4P1/P1P3PK/6RP/1p1b2P1/2R5/8/1B6 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1987.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ba2+ b3 2. Bxb3+ Qxb3 3. Re5 $1 3... Bxe5 (3... Qb8 4. c7 Qc8 5. Re8+ $1
+5... Qxe8 6. c8=Q) 4. Rxb3 4... Bf4+ $1 5. g5 Be5 6. Rb7 6... Bf4 $1 7. c7 $1
+7... Bxc7 8. Rxa7 8... Bd8 $1 9. Re7 $1 (9. Ra8 $2) 9... Bxe7 10. a7 Bd8 11.
+a8=B $1 (11. a8=Q $2) 1-0
+
+[Event ".c ts21#96"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0414.06b6c8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2k3B1/2n1p3/1K1p1pN1/7R/4p3/7p/3p2r1/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1988.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rh8 $1 1... Kd7 2. Nf8+ Ke8 3. Ng6 $1 3... Kd7 4. Nf8+ Kc8 5. Ng6 Na8+ 6.
+Kc6 Kb8 7. Bd5+ Ka7 8. Rxa8+ $1 8... Kxa8 9. Kb6+ $1 9... Kb8 10. Nxe7 d1=Q (
+10... Rg5 11. Nc6+ Ka8 12. Ne5+ Kb8 13. Nc6+ Ka8 14. Ne5+) 11. Nc6+ Ka8 12.
+Nd4+ Kb8 13. Nc6+ Ka8 14. Nd4+ 1/2-1/2
+
+[Event "2.hm jm02 tm02"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0340.25c1a6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6p1/k1P4p/6pr/B6b/2p3p1/6P1/2K5 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1988.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c7 Kb7 2. Bd7 Kxc7 3. Bg4 Kd6 4. Kc2 (4. Bxh5 $2 4... Ke5 5. Kc2 Kd4) 4...
+Ke5 5. Kxc3 Ke4 6. Kd2 Kd4 7. Ke2 Ke4 8. Kd2 Kf4 9. Kd3 Kxg4 10. Ke4 g6 11. Ke5
+1/2-1/2
+
+[Event "7.hm tm81"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0103.02g5g2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/R5K1/2p5/7p/5nk1/8 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1988.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf4 c3 2. Ke3 c2 3. Kd2 h2 4. Rg5+ Ng4 5. Rh5 Ne3 6. Rg5+ Kf1 7. Rh5 Kg1 8.
+Rg5+ Ng2 9. Rh5 Ne1 10. Rg5+ Kf2 11. Rh5 Kg3 12. Kc1 Kg2 13. Rg5+ Kh3 14. Rh5+
+Kg2 15. Rg5+ 1/2-1/2
+
+[Event "wl02"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0234.12h3f1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2R5/8/b7/6p1/1N2R3/7K/6pP/3n1k2 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1988.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf8+ $1 1... Nf2+ 2. Rxf2+ Kxf2 3. Nd3+ $1 3... Bxd3 4. Rg4 g1=N+ (4... Bf1
+5. Rxg2+ Kf3) 5. Rxg1 Bf5+ 6. Rg4 Kf3 1/2-1/2
+
+[Event "4.hm jn02 ol01"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3062.00a1a4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/q7/8/6b1/k2N4/8/b7/K2N4 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1989.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nb2+ $1 (1. Nc3+ $2 1... Kb4 2. Nc6+ Kxc3 3. Nxa7 Kb3) 1... Kb4 2. Nc6+ Kb3
+3. Nd4+ $1 3... Kc3 4. Nb5+ Kb3 5. Nd4+ $1 5... Kb4 6. Nc6+ Kc5 7. Nxa7 7...
+Be6 $1 8. Na4+ Kb4 9. Nb6 $1 9... Kb3 10. Nc6 $1 (10. Nb5 $2 10... Bf6+ 11. Kb1
+Bb2 12. Nd6 12... Bg8 $1 13. Ne4 Bh7) 1/2-1/2
+
+[Event "5.hm mb05"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3051.12e3e8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "b3k3/1qp2pB1/8/4N3/8/4K3/1PB5/8 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1989.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ba4+ Ke7 2. Nc6+ Kd6 3. Be5+ Kd5 4. Kf2 Ke4 5. Bc2+ Kd5 6. Ba4 Kc5 7. Bd4+
+Kd5 8. Be5 Qb6+ 9. Bd4 Qb7 10. Be5 Kc5 11. Bd4+ Kd6 12. Be5+ Kd5 13. Ke3 Kc5
+14. Bd4+ Kd5 15. Be5 1/2-1/2
+
+[Event "ts23"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0500.11b2h5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/R7/6P1/7k/6R1/8/1K5p/3r4 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1989.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rg2 $1 (1. g7 $2 1... h1=Q 2. g8=Q Rd2+) 1... Rb1+ $1 2. Kc3 Rc1+ 3. Kd4 $1
+(3. Kd2 $2 3... Rd1+ 4. Ke2 Re1+ 5. Kf2 Rf1+ 6. Kg3 h1=Q) (3. Kb4 $2 3... Rb1+
+4. Kc5 Rc1+ 5. Kb6 Rb1+ 6. Kc7 h1=Q) 3... Rd1+ 4. Ke5 Re1+ 5. Kf6 Rf1+ 6. Kg7
+$1 6... h1=Q 7. Raa2 $1 1-0
+
+[Event "1.c wk10"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0143.01e4d1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "R7/n6B/8/8/4K3/8/1b2p3/3k4 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1990.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rd8+ Kc1 2. Rc8+ Kd2 3. Rd8+ Bd4 4. Rxd4+ Kc1 5. Rc4+ Kb2 6. Rc2+ Kxc2 7.
+Ke3+ Kd1 8. Bc2+ 1/2-1/2
+
+[Event "1.p wk10"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3051.32g8a4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "b5K1/Pq2N3/8/7B/k3p2B/1p6/1P2P3/8 w - - 0 1"]
+[PlyCount "37"]
+[EventDate "1990.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be8+ Kb4 (1... Ka5 2. Nc6+ Ka6 (2... Kb5 3. Nd8+) (2... Kb6 3. Bd8+) 3. Bd8
+Qc8 4. Bd7 Qb7 5. Be8 e3 6. Kh8 Qc8 7. Bd7 Qb7 8. Be8 Qc8 9. Bd7) 2. Nc6+ Kc5
+3. Be7+ Kd5 4. Bf6 e3 5. Be5 (5. Kh8 $2 5... Ke4) 5... Ke4 6. Bg6+ Kd5 7. Be8
+Kc5 8. Bd4+ Kd5 9. Be5 Qb6 10. Bd4 Qb7 11. Be5 Kc5 12. Bd4+ Kd6 13. Be5+ Kc5
+14. Bd4+ Kd5 15. Kh8 Qc7 16. Be5 Qb7 17. Kg8 Ke4 18. Bg6+ Kd5 19. Be8 1/2-1/2
+
+[Event "3.hm wc07 ti13"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+4730.17g7b7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "qrr5/1kPQp1Kb/p3p3/R4p2/2p2p2/5p2/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1990.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ra1 Rg8+ 2. Kh6 Rg6+ 3. Kh5 Rg5+ 4. Kh4 Rg4+ 5. Kh3 Rg3+ 6. Kh2 Rg2+ 7. Kh1
+Rg1+ 8. Rxg1 f2 9. c8=N# 1-0
+
+[Event "4.c wc07 ti13 {tt}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0341.21e8c4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4K1N1/8/2P3B1/1pP5/1bk5/8/6r1/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1990.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf7+ Kxc5 2. c7 Re2+ 3. Kd7 Rd2+ 4. Bd5 Rxd5+ 5. Ke8 Re5+ 6. Kf7 Rf5+ 7. Nf6
+1-0
+
+[Event "4.hm ts23#41"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0350.10h1f5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1r3B2/8/5k2/5P2/3b4/3B4/7K w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1990.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd5 $1 (1. Be8 $2 1... Rb1+ 2. Kg2 Rb2 3. Kf3 Rxd2 4. Ke3 Re2+ 5. Kxd3 Rxe8)
+(1. Bg8 $2 1... Be4+ 2. Kh2 Rg7 3. Bb3 Rg2+) 1... Rb1+ 2. Kg2 Rb2 3. Kf3 Rxd2
+4. Ke3 Rd1 5. Bb3 $1 (5. Bf3 $2 5... Rf1 6. Bg2 Rg1 7. Bh3+ Kf6 8. Kxd3 Rg3+)
+5... Rb1 6. Bg8 $1 (6. Ba4 $2 6... Ra1 7. Bd7+ Kf6 8. Kxd3 Rd1+) 6... Bc2 7.
+Bh7+ 1/2-1/2
+
+[Event "ts21#08"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0340.14h1a8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k7/6p1/7p/6pr/7b/6p1/6P1/3B3K w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1990.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bg4 Kb7 2. Kg1 Kc6 3. Kf1 Kd5 4. Ke2 Ke4 5. Kd2 Kd4 6. Ke2 Ke4 7. Kd2 Kf4 8.
+Kd3 Kxg4 9. Ke4 g6 10. Ke5 1/2-1/2
+
+[Event ".c jt05"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0700.20g6f3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3R4/8/6K1/r1r1P3/8/5k2/1P6/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf8+ Ke4 2. b4 Ra6+ 3. Rf6 Rcc6 4. b5 Rxf6+ 5. exf6 Rb6 6. Kg7 1/2-1/2
+
+[Event ".c jt05"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=1160.16f1h7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/7k/8/6p1/5ppP/3p2p1/2pb2R1/3b1KQ1 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qa7+ Kg6 2. h5+ Kh6 3. Qa6+ Kxh5 4. Qxd3 Be2+ 5. Kxe2 c1=N+ 1/2-1/2
+
+[Event ".c ts23#23"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=1333.01h4e2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/7Q/8/8/7K/6n1/1b2kpr1/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qc2+ 1... Kf3 $1 (1... Ke3 2. Qxb2 f1=Q 3. Qb6+) 2. Qd3+ Kf4 3. Qd2+ 3...
+Kf5 $1 (3... Ke4 4. Qxb2 Nf5+ 5. Kh5 f1=Q (5... Ng7+ 6. Kh4 f1=Q 7. Qxg2+ $1
+7... Qxg2) 6. Qxg2+ $1 6... Qxg2) 4. Qxb2 Rh2+ (4... f1=Q 5. Qxg2 $1 5... Qxg2)
+5. Kxg3 5... f1=N+ $1 6. Kf3 Rxb2 1/2-1/2
+
+[Event ".c us36"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0410.10g1f6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r5/8/5k2/8/5P2/RB6/8/6K1 b - - 0 1"]
+[PlyCount "8"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1... Rc1+ 2. Kg2 Rc3 3. Kf2 Rh3 (3... Kf5 4. Be6+) (3... Rd3 4. Ra6+ Kf5 5. Bc2
+) 4. Ra6+ Kf5 5. Be6+ 1-0
+
+[Event ".c us36 @2"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=4000.02h1h3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "Q7/8/8/6p1/6p1/7k/5q2/7K w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qh8+ Qh4 2. Qe5 (2. Qc3+ $1 2... g3 3. Qc8+ g4 4. Qc2) 2... Qg3 3. Qh8+ Qh4
+4. Qe5 g3 5. Qe6+ Qg4 6. Qh6+ Qh4 7. Qe6+ g4 8. Qa2 Qh8 9. Qh2+ gxh2 1/2-1/2
+
+[Event ".c us36 {c}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=4003.02h1h3]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "Q7/8/3n4/6p1/6p1/7k/5q2/7K w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qh8+ Qh4 2. Qe5 Qg3 3. Qh8+ Qh4 4. Qe5 g3 5. Qe6+ Qg4 6. Qh6+ Qh4 7. Qe6+ g4
+8. Qe2 Qh8 9. Qh2+ gxh2 1/2-1/2
+
+[Event "jm02 @3"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0441.10h1h6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/3r4/6Bk/1b5P/8/1R6/2N5/7K b - - 0 1"]
+[PlyCount "10"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1... Rd1+ 2. Kh2 (2. Kg2 $2 2... Be2 3. Ne3 Rd2 4. Nf5+ Kg5 5. Rg3+ Kf6 6. h6
+Bh5+) 2... Rd2+ 3. Kg1 Be2 (3... Ba4 4. Rb2 Kg5 5. Ra2 Bxc2 6. Bxc2 Kh6 7. Rb2
+Kxh5 (7... Re2 8. Rb6+) 8. Bg6+) 4. Rh3 Bxh5 (4... Bg4 $1) 5. Bxh5 Rxc2 6. Bd1+
+1-0
+
+[Event "jt05"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+1334.15a5a8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "krb5/1p1p2p1/1n2PQ2/K7/8/1p6/p7/2N5 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1991.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qa1 b2 2. Qxa2 bxc1=N 3. Qa1 Nb3+ 4. Kxb6+ Nxa1 5. e7 Nc2 6. e8=N Nb4 7.
+Nc7# 1-0
+
+[Event ".hm wm03 us37"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0413.10b5h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "n3B2k/8/8/1K6/8/1R2P2r/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1992.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc6 Rh6+ 2. Kb7 Nb6 3. Rxb6 Rh7+ 4. Ka8 Re7 5. Rb3 Rxe8+ 6. Rb8 Rg8 7. Kb7
+Kg7 8. Rxg8+ Kxg8 9. Kc6 1-0
+
+[Event "2.c jm06 us60"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+1300.15h5h3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6r1/3p1Q1p/1p6/7K/2P5/7k/4pp2/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1992.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qf3+ Kh2 2. Qxf2+ Rg2 3. Qh4+ Kg1 4. Qe1+ Kh2 5. Kh4 d6 6. Kh5 h6 7. Kh4 h5
+8. Kxh5 Kh3 9. Qh4# 1-0
+
+[Event "6.p wa03 {tt}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3116.30h8a5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1Bq1n1nK/8/5PP1/k7/6R1/1P6/8/8 w - - 0 1"]
+[PlyCount "26"]
+[EventDate "1992.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 Nef6 2. Ra4+ (2. Bd6 $2 2... Ne7+ 3. Kg7 Nh5+ 4. Kh6 Qxg4 5. Bxe7 Nf4)
+2... Kb5 3. Rb4+ Ka6 (3... Kxb4 4. Bd6+) 4. Ra4+ Kb7 5. Rb4+ Ka8 6. Ra4+ Kxb8
+7. Rb4+ Ka7 8. Ra4+ Kb6 9. Rb4+ Ka5 10. Ra4+ Kb5 11. Rb4+ Kxb4 12. f8=Q+ Qxf8
+13. g7 Qa8 1/2-1/2
+
+[Event "tp08#2703"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+1330.00d1b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/Q7/5r2/bk1K4 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1992.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qd3+ Ka2 2. Qa6+ Kb1 3. Qg6+ Ka2 4. Qg8+ Kb1 5. Qh7+ Kb2 6. Qb7+ Kc3 7. Qc7+
+Kd4 8. Qb6+ 1-0
+
+[Event "us37#0016"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0138.01g1b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4N3/8/2N5/2n5/n2Rp3/1k2b1K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1992.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rb2+ Ka1 (1... Kc1 2. Nc5 Bf2+ 3. Kxf2 Nd1+ 4. Ke1 Nxb2 5. Na3 Nc4 6. Nd3#)
+2. Nd4 (2. Nc5 $2 2... Nc1) 2... Bf2+ 3. Kxf2 Nd1+ 4. Ke1 (4. Kf3 $2 4... e1=N+
+5. Kg3 (5. Ke2 Nac3+) 5... Nc1) 4... Nxb2 5. Nb3+ Kb1 6. Na3# 1-0
+
+[Event "1/3.p jd06 tk50"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3100.11a3a1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/P3p3/8/R7/K7/8/k2q4 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1993.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. a7 Qb1 2. Ra5 Qb2+ 3. Ka4 Ka2 4. Ra6 Qb3+ 5. Ka5 Ka3 6. Rxe6 Qb7 7. Re7 (7.
+Re3+ $2 7... Kb2 8. Re7 Qxe7 9. Kb6 Qe4) 1/2-1/2
+
+[Event ".c tv36"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0343.03e2h1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6bn/5p2/8/2r5/2p3B1/8/4K2p/7k w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1995.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 Rf5+ 2. Bxf5 Bh7 3. Bxh7 Ng6 4. Bg8 Ne5 5. Bh7 Ng6 6. Bg8 1/2-1/2
+
+[Event "2.c wr11 jv01"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0701.10a8g4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "K7/8/5P2/8/6k1/1r3R2/8/5Nr1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1995.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 $1 (1. Rf4+ $2 1... Kh3 2. f7 Rg2) (1. Rxb3 $2 1... Rxf1) 1... Ra3+ $1 2.
+Kb8 $1 (2. Kb7 $2 2... Rxf3 3. Nh2+ Kh5 4. Nxf3 Rg7) 2... Rb3+ $1 3. Kc8 $1
+3... Rxf3 4. Nh2+ Kh3 5. Nxf3 5... Rg8+ $1 6. fxg8=B $1 (6. fxg8=Q $2) 1-0
+
+[Event "2.hm mg04 us38"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0000.23c8a5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2K5/8/pp6/k7/p1P5/P7/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1995.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd8 b5 2. c5 b4 3. c6 b3 (3... bxa3 4. c7 a2 5. c8=Q a1=Q 6. Qc5#) 4. c7 b2
+5. c8=Q b1=Q 6. Qc5+ Qb5 7. Qc3+ Kb6 8. Qc7# 1-0
+
+[Event "2.p mg04 us38 @2"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0000.83h5h1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4P1p1/1PP1P1P1/6PK/6PP/8/5p1p/7k w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1995.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. b7 (1. e8=Q $2 1... f1=N 2. Qb8 Ng3+ 3. Qxg3) (1. e8=N $2 1... f1=Q 2. e7
+Qe1 3. Nxg7 (3. b7 $2 3... Kg2 4. b8=Q Qxh4+ 5. Kxh4 h1=Q+) 3... Qxe7 4. Nf5 (
+4. b7 Qf8) 4... Qe8 5. c7 Kg2 6. b7 Qh8+ 7. Nh6 h1=N 8. c8=Q Ng3#) 1... f1=N (
+1... f1=Q 2. b8=Q Kg2 3. Qb2+ Kh3 (3... Qf2 4. Qxf2+ Kxf2 5. e8=Q h1=Q 6. Qf8+
+Kg3 7. Qa3+ Kf2 8. Qb2+ Kg3 9. Qc3+) 4. Qc3+ Kg2 5. Qxg7 h1=Q 6. Qb2+ Kg3 7.
+Qe5+ Kg2 8. Qe4+) 2. b8=B $1 (2. b8=Q $2 2... Ng3+ 3. Qxg3) 2... Kg2 3. e8=N (
+3. e8=Q $2 3... h1=N) (3. Be5 $1) 3... Ng3+ 4. Bxg3 Kxg3 5. Nxg7 h1=Q 6. Nf5+ (
+6. Kh6 $2 6... Qxh4+ 7. Nh5+ Kxg4 8. c7 Qxg5+) 1-0
+
+[Event ".c mk10 @2"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+0140.13f6d8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2Bk4/8/5K2/b2P4/8/3p1p2/4p3/2R5 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf5 Ke8 2. d6 Bd8+ 3. Kg7 (3. Kg6 $1 3... Ba5 (3... Bb6 4. Rb1 Ba7 5. Ra1
+Bb6 6. Ra8+) (3... Bh4 4. d7+ Ke7 5. d8=Q+ Kxd8 6. Kf7 e1=Q 7. Rc8#) (3... d2
+4. Rh1 Be7 5. Rh8+ Bf8 6. d7+ Ke7 7. Rxf8 d1=Q 8. Re8+)) 3... Ba5 4. Rc8+ Bd8
+5. Rc7 Bg5 6. Bd7+ Kd8 7. Be6 Ke8 8. Rf7 Bh6+ 9. Kxh6 e1=Q 10. d7+ 1-0
+
+[Event "tz16#091 {pl}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+1300.11h8h6]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7K/8/7k/7r/8/8/Q1P4p/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qg8 Rh4 (1... Rh3 2. Qh7+) 2. Qg7+ Kh5 3. Kh7 Rh3 4. Qg6+ Kh4 5. Kh6 Rc3 (
+5... Ra3 6. Qg2) 6. Qf6+ (6. Qg2 $2 6... Rxc2) 6... Kg4 7. Qd4+ Kf5 8. Qf2+ Kg4
+9. Qxh2 Rh3+ 10. Qxh3+ Kxh3 11. Kg5 1-0
+
+[Event ".c jo03 @1"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3032.51f6h8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5bqk/8/5KPP/1N4PN/6Pp/6P1/8/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1997.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd6 $1 (1. g7+ Kh7 2. g6+ (2. Nd4 $1 2... Bxg7+ 3. hxg7 Qd8+ 4. Kf7) 2...
+Kxh6 3. g5+ Kxh5 4. g4+ Kxg4) (1. Nd4 $1) 1... Bxd6 2. g7+ Kh7 3. g6+ Kxh6 4.
+g5+ Kxh5 5. g4+ Kxg4 1/2-1/2
+
+[Event ".c js07"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+4313.00f1d1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r1q1/6n1/8/8/8/8/8/1B1k1KQ1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1997.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qd4+ (1. Kf2+ $2 1... Kd2) 1... Kc1 2. Qa1 $1 2... Qf7+ (2... Ra8 3. Ba2+
+3... Kc2 $1 4. Qb1+ Kc3 5. Bxg8) (2... Qc4+ 3. Bd3+) 3. Bf5+ Kd2 4. Qb2+ Ke3 (
+4... Kd1 5. Qc2#) 5. Qf2# 1-0
+
+[Event ".c js07"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=0610.20h5c6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "B5r1/1P4r1/2k4P/7K/8/8/8/8 b - - 0 1"]
+[PlyCount "16"]
+[EventDate "1997.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1... Rg5+ $1 2. Kh4 2... Rg4+ $1 (2... Kc7 3. h7 Rg4+ 4. Kh5 R8g5+ 5. Kh6 Rb5
+6. h8=Q Rh4+ 7. Kg7 Rg5+ 8. Kf6) 3. Kh3 Kc7 4. h7 $1 4... Rg3+ 5. Kh2 $1 (5.
+Kh4 $2 5... R8g4+ 6. Kh5 6... Rb4 $1) 5... Rg2+ 6. Kh3 (6. Kh1 $2 6... Rg1+ 7.
+Kh2 R8g2+ 8. Kh3 Rb2) 6... R8g3+ 7. Kh4 Rb3 8. b8=Q+ $1 8... Rxb8 9. Bxg2
+1/2-1/2
+
+[Event "3/4.p jo03 @2"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3140.24a1h7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1b3P1k/7p/6P1/2p2R2/pq6/p3B3/K7 w - - 0 1"]
+[PlyCount "28"]
+[EventDate "1997.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g6+ $1 (1. f8=N+ $2 1... Kh8 $1 (1... Kg7 $2 2. Ne6+ Kg8 3. Rf8+) 2. Ng6+
+Kg7) 1... Kxg6 2. Rg4+ Kh5 3. Re4+ $1 (3. Rg3+ $2 3... Bf3 $3 4. Bxf3+ Kh4 5.
+Rg4+ Kh3) (3. Rf4+ $1) 3... Kg5 4. Rg4+ Kh5 5. Re4+ Kg6 6. Rg4+ Kh7 (6... Kxf7
+7. Bxc4+) 7. Bd3+ $3 7... Qxd3 (7... cxd3 8. Rg7+ Kxg7 9. f8=Q+ Kxf8) 8. f8=N+
+$1 8... Kh8 9. Ng6+ Kh7 10. Nf8+ Kh8 11. Ng6+ Qxg6 12. Rxg6 Kh7 13. Rg4 Bd5 14.
+Rxc4 Bxc4 1/2-1/2
+
+[Event "sp.c js07 {tw}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+1330.00h5h7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1Q4rb/7k/8/7K/8/8/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1997.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qb1+ Kg7 2. Qf5 $1 2... Re8 3. Qd7+ Kf8 4. Kg6 Re7 5. Qf5+ Ke8 6. Qc8# 1-0
+
+[Event "sp.p mk12 tz16 @4"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3684.36f6d7]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4N3/3k3p/B2B1K1P/5p1p/4p2r/3Pp3/2Pbb1p1/5nqr w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1997.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bb5+ Kc8 (1... Kd8 2. Bc7+ Kc8 3. Ba6+ Kd7 4. Bb5+) 2. Ba6+ Kd8 3. Bc7+ (3.
+Ke6 $1 3... Kxe8 4. Be7) 3... Kxe8 4. Bb5+ Kf8 5. Bd6+ Kg8 6. Bc4+ Kh8 7. Be5
+Qh2 8. Ba1 (8. Bb2 $2 8... Qb8) 8... Ng3 9. Be5 (9. Bb2 $2 9... Rb1 10. Be5 Nf1
+) (9. Bd4 $2 9... exd3) 9... Nf1 10. Ba1 1/2-1/2
+
+[Event ".c jk15 us40"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3110.13a1h5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/5P1p/7k/ppR5/1q1B4/8/K7 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1998.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 a3 2. Be2+ Kg6 3. Rg4+ Kh7 4. Bd3+ Qxd3 5. f8=N+ Kh8 6. Ng6+ Kh7 7. Nf8+
+Kh8 8. Ng6+ 1/2-1/2
+
+[Event "5.c jt08"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+3150.23h8c7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5B1K/1pkP2p1/2b1B3/1p6/1P6/8/7R/6q1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1998.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd6+ $1 1... Kd8 2. Ra2 b6 3. Ra7 3... Bb7 $1 4. Rxb7 Qh1+ 5. Kg8 $1 5...
+Qxb7 6. Bf4 $1 6... Qg2 (6... Ke7 7. Bg5+ Kxe6 8. d8=N+) 7. Be3 $1 7... Kc7 8.
+Bxb6+ $1 8... Kxb6 (8... Kd6 9. d8=Q+ Kxe6 10. Qe8+ Kd6 11. Bc5+) 9. d8=Q+ 1-0
+
+[Event "sp.hm mt05 us92"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[+1136.12a1g1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/n2Q4/8/8/7P/8/5ppR/K4bkn w - - 0 1"]
+[PlyCount "37"]
+[EventDate "1999.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qh3 (1. Qxa7 $2 1... Kxh2) 1... Nc6 2. h5 (2. Kb2 $2 2... Ne5 3. Kc3 (3. h5
+Nd3+ 4. Kc3 Nf4) 3... Nf3) 2... Ne5 3. h6 Nf7 4. h7 (4. Kb2 $2 4... Nxh6) 4...
+Nh8 5. Kb2 Nf7 6. Kc3 Nh8 7. Kd4 Ng6 8. Kc5 Nh8 9. Kb6 Ng6 10. Ka7 Nh8 11. Ka8
+Ng6 12. Kb8 Nh8 13. Kc7 Nf7 14. Kb6 Nh8 15. Kc5 Nf7 16. Kd4 Nh8 17. Ke5 Nf7+
+18. Kf6 Nh8 19. Kg7 1-0
+
+[Event "sp.hm mt05 us92"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3104.01c3g2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6n1/8/3N4/8/p1K1R3/6k1/6q1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1999.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf4+ Kf1 (1... Kh1 2. Rh3+) (1... Kf2 2. Nh3+) 2. Rf3+ Ke1 3. Rf2 Qg5 4.
+Re2+ (4. Kc2 $2 4... Qc5+) 4... Kf1 5. Rf2+ Ke1 6. Re2+ Kd1 7. Rd2+ 1/2-1/2
+
+[Event ".c mb04 tu18"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=3111.15e6d8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3k4/B6p/p3K1pq/2N4p/p5P1/8/5R2/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+ 1/2-1/2
+
+[Event "3.hm mb04 tu18"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Sidorov, B."]
+[Black "[=4043.22a1h8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "n6k/2Q2b1q/5P2/8/p7/P7/p7/K4B2 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2000.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qb8+ $1 (1. Qc8+ $2 1... Bg8 2. Qc3 Qb1#) (1. Qd8+ $2 1... Bg8 2. Qd4 Qb1#)
+1... Qg8 2. Qh2+ Qh7 3. Qb8+ Bg8 4. Qb2 $1 4... Qf7 (4... Qb1+ 5. Qxb1 axb1=Q+
+6. Kxb1 Bb3 7. Kb2 Nb6 8. Kc3 Kg8 9. Kb4 Kf7 10. Ka5 Nd5 11. Bb5 Nc3 12. Kb4
+Nd5+ 13. Ka5) 5. Qh2+ Bh7 6. Qb8+ Qg8 7. Qe5 $1 (7. Qb2 $2 7... Qb3 $1 8. f7+
+Qxb2+ 9. Kxb2 Kg7 10. Kxa2 Kxf7 11. Kb2 Ke6) 7... Qf7 8. Qb8+ Bg8 9. Qh2+ Qh7
+10. Qb2 $1 1/2-1/2
+

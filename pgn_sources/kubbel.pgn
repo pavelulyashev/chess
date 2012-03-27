@@ -1,0 +1,528 @@
+[Event "tt22#016 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+3101.33h7f8]"]
+[Result "1-0"]
+[Annotator "00"]
+[SetUp "1"]
+[FEN "q4k2/p2pp2K/8/2R1P3/4N3/3P4/P7/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1916.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. e6 $1 dxe6 (1... d5 2. Rc2 dxe4 3. Rg2) 2. Rg5 Qc6 (2... Qb7 3. Rg8+ Kf7 4.
+Nd6+) 3. Rg8+ Kf7 4. Ng5+ Kf6 5. Nf3 $1 1-0
+
+[Event "Listok Shakhmatnogo Kruzhka Petrogubkom"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Kubbel=L"]
+[Black "[=3042.21a5c4"]
+[Result "1/2-1/2"]
+[Annotator "01"]
+[SetUp "1"]
+[FEN "7B/8/2p5/K1N2bq1/N1k5/2P5/2P5/8 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1921.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf6 Qxf6 (1... Qe3 2. Nb6+ Kxc5 3. Bd4+) (1... Qd2 2. Nb6+ Kxc5 3. Be7+) 2.
+Nd7 Bxd7 3. Nb6+ Kxc3 (3... Kc5 4. Nxd7+ Kc4 5. Nxf6) 4. Nd5+ cxd5 1/2-1/2
+
+[Event "tl46#12"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+4431.12b5a8]"]
+[Result "1-0"]
+[Annotator "02"]
+[SetUp "1"]
+[FEN "k2r1q2/2b2p1Q/7R/pK6/2N5/1P6/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1921.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qe4+ Kb8 2. Rb6+ Bxb6 (2... Kc8 3. Qb7+ Kd7 4. Ne5+ Ke7 5. Qxc7+ Ke8 6. Qc6+
+) 3. Ka6 Rd7 4. Qa8+ Kxa8 5. Nxb6+ Kb8 6. Nxd7+ 1-0
+
+[Event "ti05"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+0011.46g5h8]"]
+[Result "1-0"]
+[Annotator "03"]
+[SetUp "1"]
+[FEN "7k/1p5p/1P2p2B/4N1K1/3p2p1/3P2P1/4pP2/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1923.??.??"]
+[EventType "schev"]
+[EventRounds "4"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf3 $1 (1. Kf6 $2 e1=Q 2. Bg7+ Kg8 3. Nxg4 h5 (3... h6 $2 4. Kg6)) 1... gxf3
+2. Kf6 e1=Q (2... Kg8 3. Bd2) 3. Kf7 Qe5 4. g4 1-0
+
+[Event "tr19"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=0011.26f3g7]"]
+[Result "1/2-1/2"]
+[Annotator "04"]
+[SetUp "1"]
+[FEN "3B4/2p3k1/6p1/8/7p/4pKNp/p3P2P/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1911.??.??"]
+[EventType "schev"]
+[EventRounds "6"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nh5+ $3 gxh5 2. Bxc7 $1 Kf6 (2... a1=Q 3. Be5+ Qxe5) 3. Bb6 $3 Ke5 4. Ba5 $3
+a1=Q 5. Bc3+ Qxc3 1/2-1/2
+
+[Event "3.c ts72"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=3110.13e2f4]"]
+[Result "1/2-1/2"]
+[Annotator "05"]
+[SetUp "1"]
+[FEN "8/8/4q3/4p1pp/B4k2/3R4/4K1P1/8 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1924.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. g3+ Ke4 (1... Kg4 2. Bd7 Qxd7 3. Rxd7 Kxg3 4. Ke3 h4 5. Re7 h3 6. Rxe5 g4 7.
+Rh5 h2 8. Rh8 Kg2 9. Kf4 g3 10. Kg4 Kf2 11. Rh3) 2. Bc2 Qg4+ (2... Qc4 3. Kd2
+Qb4+ 4. Ke2 Qc4 5. Kd2 Qxd3+ 6. Bxd3+ Kf3 7. Be2+ Kxg3 8. Bxh5) 3. Kf2 Kf5 4.
+Rd4+ e4 5. Rxe4 Qxe4 6. g4+ $1 hxg4 7. Kg3 $3 (7. Bxe4+ $2 Kxe4 8. Kg3 Kf5 9.
+Kf2 Kf4 10. Kg2 g3 11. Kh3 g2 $1 12. Kxg2 Kg4) 7... Qxc2 1/2-1/2
+
+[Event "tb10#241 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+3011.33e4d7]"]
+[Result "1-0"]
+[Annotator "06"]
+[SetUp "1"]
+[FEN "1q6/2pk2p1/6N1/p1P5/4K3/PP3B2/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1917.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5+ Kc8 2. Nc6 $1 Qa8 3. Ke3 $1 Qa6 4. Bg2 $3 a4 (4... g5 5. a4 $3 g4 6.
+Kd2 $3 g3 7. Ke3 $3) 5. b4 $1 Kb7 6. b5 $3 Qxb5 7. Nd4+ Ka6 8. Nxb5 1-0
+
+[Event "us05"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+0110.13e5d2]"]
+[Result "1-0"]
+[Annotator "07"]
+[SetUp "1"]
+[FEN "8/8/8/4K3/4P1p1/5p2/3kp2B/5R2 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1935.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf4+ Kd3 (1... Kc3 2. Rc1+ Kb2 (2... Kb3 3. Bg3) 3. Re1) 2. Rc1 (2. Rxf3+ $2
+gxf3 3. Bg3 Ke3) 2... f2 3. Bg3 f1=Q 4. Be1 Qxe1 (4... g3 5. Rc3#) 5. Rxe1 Kd2
+6. Rxe2+ Kxe2 7. Kf4 1-0
+
+[Event "b049#150"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+4004.02b1h3]"]
+[Result "1-0"]
+[Annotator "08"]
+[SetUp "1"]
+[FEN "8/4q3/2p5/2n2Q2/p5N1/7k/8/1K6 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1925.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne3+ Kg3 2. Qg4+ Kf2 3. Qf4+ Ke2 4. Qf1+ Kd2 5. Qd1+ Kc3 6. Qc2+ Kb4 7. Qb2+
+Nb3 8. Qa3+ $3 Kxa3 9. Nc2# 1-0
+
+[Event "2.p tf03"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+4043.42c1a1]"]
+[Result "1-0"]
+[Annotator "09"]
+[SetUp "1"]
+[FEN "8/7P/6p1/1q6/n2P4/B6Q/P1p4P/kbK5 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1933.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d5 Qxd5 2. h8=Q+ Kxa2 3. Qa1+ $1 (3. Qg4 $2 Nc3 4. Qxc3 Qg5+ 5. Qxg5) 3...
+Kxa1 4. Bb2+ $1 Nxb2 5. Qa3+ Qa2 (5... Ba2 6. Qxb2#) 6. Qc3 $1 g5 7. h3 1-0
+
+[Event "bs81#04"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=3013.54d8f7]"]
+[Result "1/2-1/2"]
+[Annotator "10"]
+[SetUp "1"]
+[FEN "n2K3B/2p2kP1/1p5P/1pp1P3/1P6/8/2P5/6q1 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "1956.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h7 Qg5+ (1... Qd4+ 2. Kc8 Qg4+ 3. Kb8) 2. Kc8 Qf5+ 3. e6+ Qxe6+ 4. Kb8 Qe8+
+5. Ka7 Qg8 (5... cxb4 6. g8=Q+ Qxg8 7. hxg8=Q+ Kxg8 8. Bb2 Kf7 9. Kxa8) 6.
+hxg8=Q+ Kxg8 7. Kb7 (7. Ka6 $2 cxb4 8. Kxb5 c5) 7... cxb4 8. Kc6 b3 9. cxb3 b4
+10. Kb5 c5 (10... Kf7 11. Kc6) 11. Ka4 (11. Kc4 $2 Nc7) 11... Nc7 (11... Kf7
+12. Kb5 Nc7+ 13. Kxb6) 1/2-1/2
+
+[Event "1.p tb01"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+0113.03a5a7]"]
+[Result "1-0"]
+[Annotator "11"]
+[SetUp "1"]
+[FEN "8/k7/3p4/K4R1n/8/8/4ppB1/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1928.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rf7+ Kb8 2. Kb6 Kc8 3. Rxf2 Nf4 4. Rxf4 d5 5. Bf1 e1=Q 6. Rf8+ Kd7 7. Bb5+
+Kd6 8. Rd8+ Ke7 9. Re8+ 1-0
+
+[Event "1.p tr21"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+0014.25h6e4]"]
+[Result "1-0"]
+[Annotator "12"]
+[SetUp "1"]
+[FEN "4n3/4P1Bp/N2p3K/p1P1p3/4k3/5p2/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1941.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc7 (1. c6 $2 f2) (1. cxd6 $2 Nxd6) 1... Nxc7 (1... f2 2. Nxe8 f1=Q 3. Nxd6+
+Kd5 4. e8=Q) 2. cxd6 f2 3. dxc7 f1=Q 4. c8=Q (4. e8=Q $2 Qc1+ 5. Kxh7 Qxc7)
+4... Qf4+ 5. Kxh7 (5. Kh5 $2 Qf7+) 5... Qh4+ 6. Kg6 Qxe7 7. Bf8 Qa7 (7... Qh4
+8. Qc4+) 8. Bc5 1-0
+
+[Event "1.p ts20#171"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=0323.12g3g1]"]
+[Result "1/2-1/2"]
+[Annotator "13"]
+[SetUp "1"]
+[FEN "6n1/8/2p4P/8/8/r1p3K1/B7/4B1k1 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1925.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf2+ Kh1 2. h7 c2+ 3. Be3 Rxe3+ 4. Kf2 Rh3 5. Bd5+ cxd5 6. hxg8=Q Rh2+ 7.
+Kf3 c1=Q 8. Qg2+ Rxg2 1/2-1/2
+
+[Event "bl22#620"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=3143.64b1f8]"]
+[Result "1/2-1/2"]
+[Annotator "14"]
+[SetUp "1"]
+[FEN "5k2/n1R2Pp1/1p1P2P1/4b3/2p5/2P1B3/2PPp2q/1K6 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1984.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc8+ $1 Nxc8 2. d7 e1=Q+ 3. Ka2 Qa1+ $1 4. Kxa1 Bxc3+ $1 5. dxc3 Qc7 6.
+dxc8=Q+ $1 Qxc8 7. Bc1 Qa8+ 8. Kb1 Qh1 (8... Ke7 9. Ba3+ Qxa3 10. f8=Q+ Kxf8)
+9. Ka2 Qxc1 1/2-1/2
+
+[Event "ts22#004"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+0011.22a6d5]"]
+[Result "1-0"]
+[Annotator "15"]
+[SetUp "1"]
+[FEN "1N6/8/K7/3k4/3p3B/p7/2PP4/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1922.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc6 $1 Kxc6 2. Bf6 Kd5 3. d3 $3 a2 4. c4+ $1 Kc5 5. Kb7 a1=Q 6. Be7# 1-0
+
+[Event "tr18 {m}"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=0300.21a7b5]"]
+[Result "1/2-1/2"]
+[Annotator "16"]
+[SetUp "1"]
+[FEN "4r3/Kp6/5P2/1k2P3/8/8/8/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1910.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f7 Rf8 2. e6 b6 $1 3. Kb7 Kc5 4. e7 $1 (4. Kc7 $2 Kd5 5. Kd7 Ke5 6. Ke7 Ra8
+$1) 4... Rxf7 5. Ka6 $1 Rxe7 1/2-1/2
+
+[Event "tn22"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+0301.31f2f6]"]
+[Result "1-0"]
+[Annotator "17"]
+[SetUp "1"]
+[FEN "8/8/3P1k2/N6p/8/8/P4KPr/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1911.??.??"]
+[EventType "schev"]
+[EventRounds "2"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d7 (1. Kg1 $2 Rh4 2. d7 Rd4) 1... Ke7 2. Kg1 Rh4 3. g3 Ra4 (3... Rg4 4. Nc6+
+Kxd7 5. Ne5+) (3... Re4 4. Nb7 Kxd7 (4... Re1+ 5. Kf2) 5. Nc5+) 4. Nb7 Kxd7 5.
+Nc5+ 1-0
+
+[Event "ts20#016"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+0441.03c2d7]"]
+[Result "1-0"]
+[Annotator "18"]
+[SetUp "1"]
+[FEN "R7/3k1p2/b7/8/4Nrp1/2p5/2K5/4B3 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1922.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ra7+ (1. Nc5+ $2 Kc6 2. Nxa6 Kb7 3. Nc7 Kxc7 4. Bg3 Kb7) 1... Kc6 (1... Kc8
+2. Nd6+) (1... Kd8 2. Nd6 Bc4 (2... Be2 3. Bxc3) (2... Bc8 3. Nxf7+ Ke8 4. Nd6+
+) 3. Bg3 Rf3 4. Bh4+ f6 5. Nxc4 g3 6. Nd6 g2 7. Rg7) 2. Rxa6+ Kb5 3. Ra4 Kxa4
+4. Nxc3+ Ka3 5. Bh4 (5. Bg3 $2 Rf6 6. Bh4 Re6) 5... f6 6. Bg3 Rd4 (6... Rb4 7.
+Bd6 g3 8. Nd5 g2 9. Bxb4+ Ka4 10. Bc5) 7. Nb5+ 1-0
+
+[Event "t002#195"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=0014.21c2d6]"]
+[Result "1/2-1/2"]
+[Annotator "19"]
+[SetUp "1"]
+[FEN "8/8/N1Pkn3/8/8/4B3/pPK5/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1925.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bc5+ $1 (1. c7 Nxc7) 1... Ke5 (1... Kxc6 2. Nb4+) (1... Nxc5 2. c7 Kd7 3.
+Nxc5+) 2. c7 Nxc7 3. Bd4+ $1 Kxd4 4. Nc5 $1 Kxc5 5. b4+ Kxb4 6. Kb2 1/2-1/2
+
+[Event "1.hm tc05#14"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=0047.10e4g7]"]
+[Result "1/2-1/2"]
+[Annotator "20"]
+[SetUp "1"]
+[FEN "2n2b2/6k1/8/3P4/1N2K2B/8/6n1/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1929.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf2 Bxb4 2. d6 Nxd6+ (2... Bxd6 3. Kf3 Nf4 4. Bg3) 3. Kf3 Ne1+ 4. Ke2 Nc2 5.
+Kd3 Na3 (5... Na1 6. Bd4+) 6. Bd4+ Kf7 7. Bc3 Bc5 8. Bd4 Bb4 9. Bc3 1/2-1/2
+
+[Event "2.p tn17"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=0040.22h6f8]"]
+[Result "1/2-1/2"]
+[Annotator "21"]
+[SetUp "1"]
+[FEN "5k2/8/7K/8/5B2/2p1pP2/2P2b2/8 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1934.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd6+ $1 Kf7 2. Bc5 $1 Ke6 $1 (2... Bg1 3. Bd4 e2 4. Bxc3) 3. Bd4 $3 (3. Kg5
+$2 Kd5 4. Bb6 Bg1 5. Kf4 e2) 3... Be1 4. Bxe3 Bd2 $1 5. Bg5 $1 Kf5 $1 6. f4 $3
+Bxf4 7. Kh5 $3 Bxg5 1/2-1/2
+
+[Event "1.p wv04"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[+4001.04h3f2]"]
+[Result "1-0"]
+[Annotator "22"]
+[SetUp "1"]
+[FEN "8/8/1q1p4/1ppp4/8/5N1K/5k2/3Q4 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1940.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nh2 Ke3 2. Ng4+ Kf4 3. Qf1+ Ke4 4. Nf6+ Kd4 5. Qd1+ Kc4 6. Qxd5+ Kc3 7. Qa8
+$1 Kd4 8. Nd5 1-0
+
+[Event "1.p tm05"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Kubbel, L."]
+[Black "[=1307.36d8b8]"]
+[Result "1/2-1/2"]
+[Annotator "23"]
+[SetUp "1"]
+[FEN "1k1KN1nr/p1pPp2p/p6p/n6P/P3Q3/8/8/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1928.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qa8+ $1 Kxa8 2. Kxc7 $1 Nb7 3. d8=Q+ $1 Nxd8 4. Kc8 Ne6 5. a5 $3 Nf6 1/2-1/2
+
+[Event "1.p wl02"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Herbstmann, A KubbelL"]
+[Black "[=0007.01g2d2]"]
+[Result "1/2-1/2"]
+[Annotator "24"]
+[SetUp "1"]
+[FEN "8/8/8/7n/8/7N/3kp1K1/5n2 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1937.??.??"]
+[EventType "game"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ng1 Ne3+ (1... Nf4+ 2. Kh1 e1=N 3. Nf3+ Nxf3) 2. Kh3 Nf4+ (2... e1=N 3. Nf3+
+Nxf3) 3. Kh2 Ng4+ 4. Kh1 Nf2+ (4... e1=N 5. Nf3+ Nxf3) (4... e1=Q) 5. Kh2 e1=N
+6. Nf3+ (6. Kg3 $2 Ned3) 6... Nxf3+ 7. Kg3 Ke3 1/2-1/2
+
+[Event "2.p L'Eco degli Scacchi"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Kubbel=L"]
+[Black "[=0107.11d2d4"]
+[Result "1/2-1/2"]
+[Annotator "25 "]
+[SetUp "1"]
+[FEN "7R/8/n1P5/7n/3k4/8/pN1K4/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1917.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rd8+ Kc5 2. c7 (2. Nd3+ $143 Kb6 3. c7 Kxc7 $19) 2... Nxc7 3. Nd3+ Kb6 $1 (
+3... Kc4 $144 4. Rd4+ Kxd4 (4... Kb5 $144 5. Rb4+ Ka5 6. Nc1 $11) 5. Nb4 a1=N
+6. Nc2+ $11) (3... Kb5 $144 4. Rb8+ Ka6 5. Nb4+ $11) 4. Rb8+ (4. Rd6+ $143 Kb5
+$19) 4... Ka7 $1 5. Nb4 $1 a1=Q 6. Nc6+ Ka6 7. Nb4+ Ka5 8. Nc6+ Ka4 9. Rb4+ Ka3
+10. Nd4 $1 Qh1 11. Nc2+ Ka2 12. Ra4+ Kb3 13. Rb4+ $11 1/2-1/2
+
+[Event "2.p Ceskoslovensky Sach#34"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Kubbel=L Troitzky=A"]
+[Black "[+4001.03b1a3]"]
+[Result "1-0"]
+[Annotator "26"]
+[SetUp "1"]
+[FEN "N7/p7/8/q1p5/1p6/k7/8/1K1Q4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1936.??.??"]
+
+1. Qc1+ Ka4 2. Qc4 $1 Qd8 $1 (2... a6 $144 3. Kb2 Qd8 4. Qxa6+ Qa5 5. Nb6#) 3.
+Qa6+ Qa5 4. Nb6+ $1 axb6 5. Qc4 $1 Qa7 6. Qa2+ 1-0
+

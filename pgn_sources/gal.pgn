@@ -1,0 +1,1144 @@
+[Event "td20#0460"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0001.12h4f4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/7P/5pN1/5k1K/8/p7/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1892.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne6+ Ke3 (1... Ke4 2. Nc5+) (1... Kf3 2. Nd4+) 2. Nd4 Kxd4 3. h7 a1=Q 4.
+h8=Q+ 1-0
+
+[Event "us21"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+1030.02g2a1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7Q/8/8/8/1p6/bp4K1/k7 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1892.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qg7 Kb1 (1... Bb1 2. Qa7+ Ba2 3. Qd4 Bb1 4. Qg1 Ka2 5. Qa7#) 2. Qc3 Ka1 3.
+Qd4 Bb1 (3... Kb1 4. Qd1#) 4. Qg1 Ka2 5. Qa7# 1-0
+
+[Event "us21"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+4001.01g4e1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/5Q2/8/1p2N1K1/8/8/2q1k3 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1892.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qf2+ $1 Kd1 2. Kh5 $1 b3 (2... Qc2 3. Qf1#) 3. Qf3+ Kc2 4. Qc3+ Kb1 5. Nd2+
+1-0
+
+[Event "tb46#4"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+1330.01e1g1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4Q3/8/8/8/4p1r1/4K1kb w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1897.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qf6 Kh2 2. Qh4+ Kg1 3. Qf4 Rh2 4. Qd4+ Kg2 (4... Rf2 5. Qxf2#) 5. Qg4# 1-0
+
+[Event "td20#0851"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+1300.04e1b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/Q7/8/4p3/p3p3/rp6/1k2K3 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1900.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke2 Ra1 (1... Ka1 2. Qf6 Kb1 3. Qc3 Ka1 4. Qd4 Kb1 5. Qd1#) 2. Qe6 Ra2 (2...
+Kc1 3. Qc4+ Kb1 4. Qb3 a2 (4... Ra2 5. Qd1#) (4... Kc1 5. Qd1#) 5. Qd1#) (2...
+a2 3. Qb3 Kc1 4. Qd1#) 3. Qc4 Ka1 (3... Ra1 4. Qb3) 4. Qd4 Kb1 5. Qd1# 1-0
+
+[Event "tl20#438"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0000.23g3h5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/6pp/6pk/7P/6K1/7P/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1900.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. h3 gxh4+ 2. Kf4 g5+ 3. Kf5 g4 4. hxg4# 1-0
+
+[Event "tl20#439"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0032.04e5e3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/4K1N1/8/3pkp2/1N1p1p2/4b3 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1900.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne4 f1=Q (1... d1=Q 2. Nc4+ Ke2 3. Ng3#) 2. Nd1+ Ke2 3. Nec3# 1-0
+
+[Event "ts26"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0011.02e8h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4K2k/6pp/7N/8/8/8/8/B7 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1900.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf6 $1 gxf6 2. Kf8 f5 3. Nf7# 1-0
+
+[Event "ts26"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0014.00f6h8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "n6k/8/5K2/6N1/2B5/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1900.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke7 Nc7 (1... Nb6 2. Bb3 Nc8+ 3. Kd7) 2. Kd7 Na8 3. Kc6 1-0
+
+[Event "o000"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0045.03d5a2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5B2/8/3KN3/n1N5/p7/kpp5/b7 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1901.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd4 b1=Q+ (1... Kb3 2. Nd3 b1=Q+ 3. Ncb2#) (1... Kb1 2. Nxa3+ Kc1 3. Nd3+
+Kd1 4. Bh5+ Kd2 5. Nc4#) 2. Nb2+ Kxb2 3. Nd3# 1-0
+
+[Event "o000"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0361.64g3e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7b/4N3/2p1p3/2Pbk1P1/rP1pP3/3p2K1/3P1P2/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1901.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kg4 Kxe4 (1... Bb3 2. f3) (1... Ra7 2. Ng6+) 2. f3+ Ke5 3. Ng6# 1-0
+
+[Event "o000"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0311.03d3b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/3p4/p2K4/1pN3B1/rk6 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd2 Ra2 (1... Ka2 2. Bd5+ Kb1 3. Nxd4 Ra2 4. Be4+ Ka1 5. Nb3#) (1... d3 2.
+Nd4 Ra2 3. Bd5 Ra1 4. Bc4) 2. Nxd4 Ra1 3. Bd5 Ra2 4. Be4+ Ka1 5. Nb3# 1-0
+
+[Event "o000"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0311.05d2b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4p3/2p1B3/8/4N3/p2p4/rp1K4/1k6 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc5 Ra1 2. Kd1 Ra2 (2... d2 3. Kxd2 Ra2 4. Bf5+ Ka1 5. Nb3#) 3. Bc4 Ra1 4.
+Kd2 e6 5. Bxd3+ Ka2 6. Bc4+ Kb1 7. Bxe6 Ra2 8. Bf5+ Ka1 9. Nb3# 1-0
+
+[Event "o000"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0332.74h6f5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4N3/1p6/1r1p3K/1P1P1k2/8/pP2PPpN/b2P2P1/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d4 Bb1 2. Ng5 Rxb5 (2... Bd3 3. Ne6 a2 4. N6g7#) (2... Be4 3. Nxe4 a2 4.
+Nxg3#) 3. Ne6 a2 4. N6g7# 1-0
+
+[Event "o000"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0331.16d1a1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/6p1/8/1pp5/6P1/pp1p1N2/krbK4 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd3 cxd3 2. g4 b3 (2... g5) 3. g5 1/2-1/2
+
+[Event "tl20#528"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0313.24e6e8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4k3/4P1pp/3pK1p1/3P4/r1n5/8/4B3/8 w - - 0 1"]
+[PlyCount "4"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd3 Na3 (1... g5 2. Bg6+ hxg6) 2. Bb5+ Nxb5 1/2-1/2
+
+[Event "tl20#529"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0644.48c3e4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6b1/2p2rNp/1p6/1P3p2/4kP2/1pK1Pp2/2pP1p2/2r1nB2 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne8 Kd5 (1... Rd1 2. Bd3+ Kd5 3. Bc4+ Kc5 $2 4. d4+ Rxd4 5. exd4#) 2. Bc4+
+Ke4 3. Bd3+ Nxd3 4. Nf6+ Rxf6 1/2-1/2
+
+[Event "us21"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0038.35e2e4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5n2/6N1/4pnp1/1N2p1pb/2P1k1p1/6P1/4K1P1/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd2 N8d7 (1... Nd5 2. Ne8 Kf5 3. Nbd6#) 2. Nd6+ Kd4 3. Nxe6# 1-0
+
+[Event "us21"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0344.64g3e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2n2/1p2p3/1P2p2N/P1p1k1P1/2P5/2P2BK1/5P2/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd1 Kd6 (1... Ke4 2. Bc2+ Ke5 3. Nf7#) 2. Nf7+ Kc6 (2... Kd7 3. Ba4#) 3.
+Ba4# 1-0
+
+[Event "us21"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0031.37c1a1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/1p2p3/4p3/1p2P3/1p1p4/pP1P4/kbKN4 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne3 Bc2 (1... b5 2. Nc2+ bxc2 (2... dxc2 3. d3) 3. b3) 2. Nc4 Bd1 3. Nxb6
+Bf3 4. Nc4 Bxe4 5. Na5 Bd5 6. Nxb3+ Bxb3 1/2-1/2
+
+[Event "us21"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0031.37d1a1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/3p4/8/1p4p1/1p1p2p1/pP1P2P1/kb1KN3 w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc1 $1 Bc2 2. Nxc2+ bxc2 (2... dxc2 3. d3 d5 4. d4) 3. b3 d5 1/2-1/2
+
+[Event "us21"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0047.03d1b1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/B4n2/8/3Np3/p7/1p5n/bk1K4 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nf3 $1 (1. Nb3 $2 Nf3 $1) 1... Nxf3 2. Bd3+ Ka2 3. Bc4+ Kb1 4. Bd3+ exd3
+1/2-1/2
+
+[Event "us21"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0560.03d1b1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p6/1pb5/3R4/8/8/pbR5/rk1K4 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Rc4 Ba3 (1... Bxd5 2. Rb4 Bf3+ 3. Kd2) 2. Rb5+ Bxb5 3. Rb4+ Bb2 (3... Bxb4)
+4. Rxb5 1/2-1/2
+
+[Event "us21#105"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=3134.34f5a4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "qb6/8/2p1R2p/1p3K2/kP6/Pp2N3/1P5n/8 w - - 0 1"]
+[PlyCount "4"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd5 cxd5 2. Ra6+ Qxa6 1/2-1/2
+
+[Event "us21#106"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0037.23f5h4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5Nb1/5p2/5K1p/4Pn1k/6p1/6P1/7n w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5 Nxg2 2. Nf3+ Kh3 3. Ng1+ Kh2 4. Nf3+ 1/2-1/2
+
+[Event "us21#107 @3"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0010.57h4d2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6p1/2p3P1/1p2p1Pp/p1p4K/6PP/3k2P1/5B2 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Be2 Kxe2 2. Kxh5 c3 3. g4 c2 4. g3 c1=Q 5. h4 Qxg5+ 6. Kxg5 a3 (6... Kf3 $1
+7. Kh5 (7. h5 a3 8. h6 gxh6+ 9. Kxh6 a2 10. g7 a1=Q 11. g8=Q Qh1+ 12. Kg5 Kxg3)
+7... Kxg3 8. g5 Kf2) 7. Kh5 a2 8. g5 a1=Q 9. g4 b4 1/2-1/2
+
+[Event "us21#107 {c}"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0010.54h4d2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6p1/6P1/6Pp/B1p1p2K/6PP/3k2P1/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd1 $1 e3 (1... Kxd1 2. Kxh5 c3 3. g4 c2 4. g3 c1=Q 5. h4 Qxg5+ 6. Kxg5 e3
+7. Kh5 (7. h5 $2 e2 8. h6 e1=Q 9. hxg7 Qe8) 7... e2 8. g5 e1=Q 9. g4 Ke2) 2.
+Bxh5 (2. Kxh5 $2 c3 3. h4 c2 4. Bxc2 e2) 2... e2 3. Bxe2 (3. g4 $2 e1=Q+ 4. g3
+Qxg3+ 5. Kxg3 c3) 3... c3 4. Bh5 c2 5. g4 c1=Q 6. g3 Ke3 1/2-1/2
+
+[Event "us21#108"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=3466.24f5e2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7n/5p2/5P2/2p2K2/2P5/6R1/2npkp2/3bqrb1 w - - 0 1"]
+[PlyCount "4"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke4 Bh2 2. Re3+ Nxe3 1/2-1/2
+
+[Event "us21#113"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0346.36e6e8]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4k3/4P3/1p2K3/nrpB1pp1/1b4n1/p1p5/P1P5/8 w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1902.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf3 Nf6 (1... c4 2. Bc6+ Nxc6) 2. Be2 c4 3. Bh5+ Nxh5 1/2-1/2
+
+[Event "tl20#534"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0061.13h4h2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/5p2/5P2/7K/6N1/5ppk/5bb1 w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1903.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne2 Kh1 (1... Bxe2) 2. Ng3+ Kh2 3. Ne2 Bxe2 1/2-1/2
+
+[Event "tl20#535"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0051.04g1e1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6p1/5p2/8/3B4/3pN3/3p4/1b1Bk1K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1903.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bc5 Bc2 (1... f5 2. Bd6 f4 3. Bxf4 g5 4. Bg3#) 2. Nd5 f5 3. Nc3 f4 4. Bf2#
+1-0
+
+[Event "tl20#556"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0344.38f4d5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2b5/3rp1p1/1p1p1pP1/1P1k1B2/n1pN1Kp1/2p1P3/8/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1903.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne6 Nc5 2. Nc7+ Rxc7 3. Be4+ Ke6 4. Bf5+ Kd5 5. Be4+ Nxe4 1/2-1/2
+
+[Event "tl20#559"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0463.48e4f6]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5b2/1p2p1pn/1p2Pkpr/1Pp1p1Rb/2P1K1p1/6P1/8/8 w - - 0 1"]
+[PlyCount "4"]
+[EventDate "1903.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd5 Kxg5 (1... Nxg5) (1... e4 2. Rf5+ Kxf5 (2... gxf5)) 2. Kxe5 Nf6 1/2-1/2
+
+[Event "tl20#560"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0648.34e6f4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4N3/2N5/4K1p1/5Bpb/1n1P1krr/3p2pn/3P2P1/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1903.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd7 Kxf5 (1... gxf5 2. Ne6+ Ke4 3. Nf6#) (1... Na6 2. Nd5+ Kxf5 3. Nd6#) (
+1... Nf2 2. Nd6 Rh1 3. Ne6#) 2. Nd6+ Kf4 (2... Kf6 3. Nce8#) 3. Ne6# 1-0
+
+[Event "o000"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0351.03g1e1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/3pB3/p2p1N2/rb1Bk1K1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bf3 d1=Q (1... Bc2 2. Nxd3+ Bxd3 3. Bf2#) 2. Nxd1 Bc2 3. Nb2 Rd1 4. Nc4 a1=Q
+5. Bf2# 1-0
+
+[Event "tl20#594"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0076.16e4g5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4B2p/5pp1/6kb/4K1pb/1p4p1/1P4n1/n7 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd6 Kh6 2. Bf8+ Kg5 3. Bd6 Nc2 4. Bf4+ Nxf4 1/2-1/2
+
+[Event "tl20#594 {v}"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0046.25e4g5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4B2p/5pp1/6kb/4K2p/1p5P/1P4n1/n7 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Bd6 Kh6 2. Bf8+ Kg5 3. Bd6 Nc2 4. Bf4+ Nxf4 1/2-1/2
+
+[Event "tl20#610"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0430.25e2g1]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/3p3p/3P3p/2p4P/4KR1p/b5kr w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf3 Bb2 2. Rc2 Kf1 (2... Ba3 3. Rxc3 Kf1 4. Rc1+ Bxc1) 3. Rc1+ Bxc1 1/2-1/2
+
+[Event "us21#158"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=0464.46e6d4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5R1r/2pN1n1b/4K1p1/1p4p1/pP1k3b/P2p1P2/3P4/8 w - - 0 1"]
+[PlyCount "4"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5 $1 Nxe5 (1... Nd8+ 2. Rxd8+ Rxd8 3. Nc6+ Kc4 4. Na5+ Kd4 5. Nc6+) 2.
+Rf4+ gxf4 1/2-1/2
+
+[Event "us21#159"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=4637.14e4g5]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6b1/4nNrq/n5kr/3pK1pp/3P3p/2Q5/8 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qc7 $1 Rxf6 (1... Nxc7 2. Nh7+ Qxh7) (1... Nc5+ 2. Qxc5+ Kxf6 3. Qe7+ $1
+Kxe7) (1... Kxf6 2. Qe7+ Kxe7) (1... Nc6 2. Qf4+ $1 Nxf4 3. Nh7+ Qxh7) (1...
+Bxf6 2. Qf4+ Nxf4) 2. Qe5+ Kg6 $1 3. Qf5+ $1 Kf7 (3... Rfxf5) (3... Rhxf5) 4.
+Qxf6+ Kg8 (4... Kxf6) (4... Bxf6) (4... Qxf6) 5. Qf7+ Kh7 6. Qg8+ Kg6 7. Qf7+
+Kxf7 1/2-1/2
+
+[Event "us21#160"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=3674.16e3g4]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/2B4p/5pp1/b2N2kb/1p2K1pr/1P4pr/6nq w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nb5 $1 f4+ (1... Bxb5 2. Bf3+ $1 Nxf3) 2. Ke4 Bxb5 (2... Kh5 3. Be8+ Kg4 4.
+Bd7+) 3. Bxb5 f3 4. Bd7+ Kh5 5. Be8+ Kg4 6. Bd7+ 1/2-1/2
+
+[Event "us21#161"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0005.02d5a8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/1n1N4/3p4/1NpK4/8/8/8/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kc6 Nd8+ (1... Na5+ 2. Kb6 Nc4+ 3. Ka6 d5 4. Nc7#) 2. Kc7 Ne6+ 3. Kc8 d5 4.
+Nb6# 1-0
+
+[Event "us21#162 @1"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0302.02e3g1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/4N2N/4Kp2/7p/6kr w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kxf3 (1. Nd2 $1 f2 2. Ndf3+ Kf1 3. Kd2 Rg1 4. Nxh2#) 1... Kf1 2. Ng2 Kg1 3.
+Nc3 Kf1 4. Ne2 Rg1 5. Ne3+ 1-0
+
+[Event "us21#163"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0062.36g7d5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5N2/b2p2K1/2pp4/2pkp3/8/1pP2P2/bN1P4/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. d3 Bb6 (1... c4 2. dxc4+ Kc5 3. Nxd7#) (1... e4 2. dxe4+ Ke5 3. Nd3#) 2. Nc4
+b2 3. Ne3# 1-0
+
+[Event "us21#164"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0035.24f2a5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "b7/8/p1pN4/k1P2N2/p7/Pn1p4/5K2/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke1 $1 d2+ (1... Nxc5 2. Nc4+ Kb5 3. Nfd6#) (1... Bb7 2. Nxb7+ Kb5 3. Nfd6#)
+2. Kd1 Bb7 (2... Nxc5 3. Nd4 Ne4 4. Nc4#) 3. Nxb7+ Kb5 4. Nfd6# 1-0
+
+[Event "us21#165"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0038.24g2b5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4p3/np1pN3/bk1P2N1/1p6/1Pn5/6K1/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kh2 $1 Ne2 (1... Nb8 2. Nc7+ Kc5 3. Nge6#) (1... Nxd5 2. Nd4+ Kc5 3. Nge6#)
+2. Ne4 Nb8 3. Nc7# 1-0
+
+[Event "us21#167"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0332.45h2f4]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rb6/2p5/4p1pN/2N2pP1/5k2/2P1p3/4P1PK/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd7 Kxg5 (1... Ke4 2. Nf6+ Kf4 3. Nf7 c5 4. g3#) (1... c5 2. g3+) 2. Nf7+
+Kf4 3. g3+ Ke4 (3... Kg4 4. Nf6#) 4. Nf6# 1-0
+
+[Event "us21#168"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0035.26e5g5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5N2/8/3N3n/3pK1kp/3p2pb/3p2p1/3P2P1/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke6 Kf4 (1... Ng8 2. Nf7+ Kf4 3. Ng6+ Ke4 4. Nd6#) 2. Kxd5 Kg5 3. Ke5 Ng8 4.
+Nf7# 1-0
+
+[Event "us21#169"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0331.33c3a7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rb1N4/k1p5/p7/p1P5/P1P5/2K5/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1904.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. c6 Kb6 2. Kd4 Ka7 $1 3. Kd5 Kb6 4. Nf7 Ka7 5. Nh6 Kb6 6. Nf5 Ka7 7. Ne7 Kb6
+8. Nc8# 1-0
+
+[Event "tl20#0715"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0031.01f2h1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4b3/8/8/4N3/8/8/5K1p/7k w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1906.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ng4 $1 Bf7 (1... Bg6 2. Nf6 $1) 2. Ne3 $1 Bh5 3. Nf5 Bg4 4. Ng3# 1-0
+
+[Event "tl20#0716"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+4334.16d6b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/3p1p1Q/3K4/8/7p/pp6/qrp1nN1P/bk6 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1906.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne4 Kc1 (1... Nf4 2. Qf5 Ne2 3. h3 f6 4. Kxd7 Nd4 5. Nc3+ Kc1 6. Qf4#) 2.
+Qh6+ Kb1 3. Nd2+ Kc1 4. Nxb3+ Kb1 5. Qc1+ Nxc1 6. Nd2# 1-0
+
+[Event "tl20#0739"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0440.03e1b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4B3/8/4R3/8/1pp1p3/1krbK3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1906.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Re5 Ka1 2. Ra5+ Kb1 3. Ba2+ Ka1 4. Bb3+ Kb1 5. Ba4 Ka2 6. Bxc2# 1-0
+
+[Event "tl20#0751"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0042.05g1g3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4N1p1/4p1p1/4p1pb/4N1k1/4B3/6K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1906.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc7 Kf4 (1... Kh3 2. Bf1+) 2. Ncd5+ Kg3 3. Nf6 Kf4 (3... Kh3 4. Bxg4+) 4.
+Ned5+ Kg3 (4... Kf5 5. Bxg4#) 5. Bxg4 e3 6. Nc3 Kf4 7. Ne2# 1-0
+
+[Event "tl20#740"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+1334.15g1b1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4p3/8/4Q3/p2pPN2/rp4p1/1k3nKb w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1906.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nd4 Nd2 (1... Ra1 2. Qxd3+ Ka2 3. Qc4+ Kb1 4. Nb3 e5 5. e4 Ra2 (5... Ne3 6.
+Nd2#) 6. Qd3#) (1... Kc1 2. Nb3+ Kc2 3. Qc4+ Kd1 4. Qxd3+ Ke1 5. Nd4) 2. Qxd3+
+Ka1 3. Nc2+ Kb1 4. Nxa3+ Ka1 5. Qb1+ Nxb1 6. Nc2# 1-0
+
+[Event "tl20#8384"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0002.01e2a2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/8/kp1NK3/1N6 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1906.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kd3 Ka1 2. Kc4 Ka2 3. Nc3+ Ka3 (3... Ka1 4. Nb3#) 4. Ndb1# 1-0
+
+[Event "tl20#0796"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0332.44f7b5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p3K2/bp1pN3/rk1N4/p7/P7/P2PP3/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1907.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ke7 Kc4 (1... Kc6 2. Nb4+ Kb5 3. d3 d5 4. Nc2 Kc6 (4... d4 5. Ncxd4#) 5.
+Ncd4#) 2. Ne3+ Kb5 3. Kd7 d5 4. Nf5 Kc4 (4... d4 5. Nd6#) 5. Nd6# 1-0
+
+[Event "tl20#0806"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[=3614.16c6a2]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/p4pr1/p1K5/5Bn1/8/p1p5/kpP2N2/qr6 w - - 0 1"]
+[PlyCount "4"]
+[EventDate "1907.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne4 Nxe4 2. Be6+ fxe6 1/2-1/2
+
+[Event "tl20#0807"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0307.11g4h2]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/6K1/3N4/5Ppk/3n2nr w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1907.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne5 Nxf2+ (1... Ne3+ 2. fxe3 Ne2 3. Nf3#) (1... Nc3 2. Kh4) 2. Kh4 Ne4 (2...
+Ne2 3. Nf3#) 3. Ng4# 1-0
+
+[Event "tl20#0810"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0305.25g6a8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/pN6/NnP3K1/P2p4/r1pp2p1/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1907.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nbc5 Nc8 (1... Nd7 2. Nxd7) (1... g3 2. Ne6 g2 3. Nec7#) 2. Nc7+ Kb8 3.
+N5a6# 1-0
+
+[Event "tl20#0811"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0034.14e3g1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/7n/5p2/8/4KPpp/3N2p1/6kb w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1907.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. f4 Ng4+ 2. Ke2 Nh2 (2... Ne5 3. fxe5 f4 4. Nf3#) 3. Ke1 Ng4 4. Nf3# 1-0
+
+[Event "tl20#0816"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0045.24f7e5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2N5/5K2/8/2BNkpp1/4P3/6pn/1p2P3/4b3 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1907.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nce7 fxe4 (1... Kxe4 2. Nf6+ Ke5 (2... Kf4 3. Ng6#) 3. Ng6#) (1... Bc3 2.
+Ng6+ Kxe4 3. Nxc3#) (1... Nf4 2. Nc6+ Kxe4 3. Nf6#) 2. Ne3 b1=Q 3. Ng6# 1-0
+
+[Event "tl20#0817"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+1340.03f1c1]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/p1p5/pb2Q3/r1k1BK2 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1907.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Qd3 Rb1 (1... c2 2. Bd2+ Kb1 $1 3. Kf2 Bc3 (3... Bg7 4. Qf1+ Kb2 5. Qb5#) 4.
+Bxc3 Kc1 5. Qf1#) 2. Ke2 Ba1 3. Bd2+ cxd2 (3... Kb2 4. Qxc3#) 4. Qxd2# 1-0
+
+[Event "tl20#787"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0002.02e3g3]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/7p/4KNkp/7N/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1907.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Ne1 Kxh2 2. Kf2 Kh1 3. Nd3 Kh2 (3... h2 4. Kf1 h3 5. Nf2#) 4. Ne5 Kh1 5. Ng4
+h2 6. Kf1 h3 7. Nf2# 1-0
+
+[Event "tl20#820"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+0347.02h7f8]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3brkB1/2n1pN1K/4p3/8/8/7n/8/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1907.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kh8 Ng5 (1... Nd5 2. Ne5 Ba5 3. Ng6#) 2. Nxg5 e5 3. Nh7# 1-0
+
+[Event "ts30"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+3141.04b3a7]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "N7/kp4B1/qp3R2/bp6/1p6/1K6/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1908.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Nc7 Kb8 2. Rf7 Kc8 3. Be5 Kd8 4. Ne6+ Ke8 5. Rh7 Qa8 6. Bf6 Qd8 7. Nxd8 Kf8
+8. Rh8# 1-0
+
+[Event "ts30 @3"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+4040.02e2b5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p6/bq6/1k6/p7/B1Q5/4K3/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1914.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 Qa7 2. Kg2 b6 3. Qb4+ Kc6 4. Qe4+ Kc7 5. Qe7+ Kb8 6. Bd6+ Ka8 7. Qe8+
+Kb7 8. Qe4+ Kc8 9. Qc6+ Kd8 10. Be5 (10. Bf4 $2 Ke7) 10... Bb7 (10... Qd7 $1
+11. Qxb6+ Ke7 12. Qf6+ Ke8 13. Qg6+ Kd8 14. Qxa6 Qd2+) 11. Bf6# 1-0
+
+[Event "ts30 {c}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+4040.13e2b5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p6/bq4p1/1k6/p7/B1Q2P2/4K3/8 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1914.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 Qa7 2. Kg2 b6 3. Qb4+ Kc6 4. Qe4+ Kc7 5. Qe7+ Kb8 6. Bd6+ Ka8 7. Qe8+
+Kb7 8. Qe4+ Kc8 9. Qc6+ Kd8 10. Be5 (10. Bf4 $2 Ke7) 10... Qd7 (10... Bf1+ 11.
+Kxf1 Qa6+ 12. Kf2 Ke7 13. Qd6+ Ke8 (13... Kf7 14. Qd7+) 14. Qe6+ Kf8 (14... Kd8
+15. Bd6 Qb7 16. Qf6+ Ke8 17. Qf8+ Kd7 18. Qe7+ Kc6 19. Qe4+) 15. Bd6+ Kg7 16.
+Qe7+ Kh6 17. Qf8+ Kh5 (17... Kh7 18. Be5) 18. Qh8+ Kg5 19. Be7+ Kf4 20. Qf6#)
+11. Qxb6+ Ke7 12. Qf6+ Ke8 13. Qxg6+ Kd8 14. Qxa6 Qd2+ 15. Kh3 1-0
+
+[Event "ts30 {c} @3"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Galitzky, A."]
+[Black "[+4040.13e2b5]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p6/bq6/1k6/p4p2/B1Q2P2/4K3/8 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1914.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+1. Kf1 Qa7 (1... Qe3 $1) 2. Kg2 b6 3. Qb4+ Kc6 4. Qe4+ Kc7 5. Qe7+ Kb8 6. Bd6+
+Ka8 7. Qe8+ Kb7 8. Qe4+ Kc8 9. Qc6+ Kd8 10. Be5 Qd7 11. Qxb6+ Ke7 12. Qf6+ Ke8
+13. Qg6+ Kd8 14. Qxa6 Qd2+ 15. Kh3 1-0
+
