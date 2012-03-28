@@ -1415,16 +1415,3 @@ Ne5+) 3. Ne5+ 1/2-1/2
 
 1. Rxh7+ Kxh7 2. d7 Qxa2+ 3. Kh3 Qa5 4. d8=Q Qxd8 5. Ng5+ Qxg5 1/2-1/2
 
-[Event "tn24"]
-[Site "?"]
-[Date "1896.??.??"]
-[Round "?"]
-[White "Troitzky, A."]
-[Black "[=4331.12d4d8]"]
-[Result "1/2-1/2"]
-[SetUp "1"]
-[FEN "2qk4/1p6/1P6/N7/p2K4/3Q4/8/r2b4 w - - 0 1"]
-[PlyCount "7"]
-[EventDate "1896.??.??"]
-[Source "ChessBase"]
-[SourceDate "2000.10.30"]
