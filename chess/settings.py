@@ -1,4 +1,4 @@
-# Django settings for chess_etudes project.
+# Django settings for chess project.
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -100,10 +100,10 @@ MIDDLEWARE_CLASSES = (
     # 'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'chess_etudes.urls'
+ROOT_URLCONF = 'chess.urls'
 
 # Python dotted path to the WSGI application used by Django's runserver.
-WSGI_APPLICATION = 'chess_etudes.wsgi.application'
+WSGI_APPLICATION = 'chess.wsgi.application'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
@@ -122,8 +122,8 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
-    'chess_etudes.apps.pgnparser',
-    'chess_etudes.apps.etudes',
+    'chess.apps.pgnparser',
+    'chess.apps.etudes',
 )
 
 # A sample logging configuration. The only tangible logging

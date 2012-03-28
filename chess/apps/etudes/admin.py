@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from chess_etudes.apps.etudes.models import Etude, EtudeAuthor
+from chess.apps.etudes.models import Etude, EtudeAuthor
 
 
 class EtudeAuthorAdmin(admin.ModelAdmin):
