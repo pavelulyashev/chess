@@ -1,0 +1,3 @@
+[submodule "chess_etudes/pgnparser"]
+	path = chess_etudes/pgnparser
+	url = git@github.com:pavelulyashev/pgnparser.git
