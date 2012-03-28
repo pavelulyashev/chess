@@ -26,7 +26,7 @@ class EtudeAuthor(models.Model):
 
 
 class Etude(models.Model):
-    author = models.ManyToManyField(EtudeAuthor)
+    authors = models.ManyToManyField(EtudeAuthor)
     year = models.IntegerField(max_length=4)
 
     result = models.CharField(max_length=1, choices=RESULT_CHOICES)
@@ -34,6 +34,6 @@ class Etude(models.Model):
     moves = models.TextField()
 
     def __unicode__(self):
-        authors = [author.__unicode__() for author in self.author_set]
-        authors.append(self.year)
+        authors = [author.last_name for author in self.authors.all()]
+        authors.append(str(self.year))
         return u', '.join(authors)

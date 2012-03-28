@@ -33,10 +33,13 @@ class Command(BaseCommand):
 
     def _load_pgn_file(self, pgn_file):
         pgn_source = open(pgn_file).read()
-        self.etudes_bulk = []
+        # self.etudes_bulk = []
         for game in pgn.loads(pgn_source):
             self._load_etude(game)
-        Etude.objects.bulk_create(self.etudes_bulk)
+
+        # Etude.objects.bulk_create(self.etudes_bulk)
+        # for etude in self.etudes_bulk:
+            # etude.authors.add(*etude._authors)
 
     def _load_etude(self, game):
         self.total_count += 1
@@ -44,6 +47,7 @@ class Command(BaseCommand):
             self.duplicated_count += 1
             return False
 
+        self.fen_set.add(game.fen)
         authors = self._parse_authors(game.white)
         if authors:
             try:
@@ -51,7 +55,9 @@ class Command(BaseCommand):
                               fen=game.fen,
                               moves=game.moves_source,
                               result=self._parse_result(game.result))
-                self.etudes_bulk.append(etude)
+                etude.save()
+                etude.authors.add(*authors)
+                # self.etudes_bulk.append(etude)
                 self.success_count += 1
             except Exception, ex:
                 print ex
