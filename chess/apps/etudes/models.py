@@ -12,7 +12,7 @@ RESULTS_RECOGNIZER = {
 }
 
 
-class EtudeAuthor(models.Model):
+class Composer(models.Model):
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50)
     rus_name = models.CharField(max_length=250, blank=True)
@@ -26,7 +26,7 @@ class EtudeAuthor(models.Model):
 
 
 class Etude(models.Model):
-    authors = models.ManyToManyField(EtudeAuthor)
+    authors = models.ManyToManyField(Composer)
     year = models.IntegerField(max_length=4)
 
     result = models.CharField(max_length=1, choices=RESULT_CHOICES)

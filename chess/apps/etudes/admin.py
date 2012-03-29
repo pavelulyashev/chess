@@ -1,10 +1,10 @@
 from django.contrib import admin
 
-from chess.apps.etudes.models import Etude, EtudeAuthor
+from chess.apps.etudes.models import Etude, Composer
 
 
-class EtudeAuthorAdmin(admin.ModelAdmin):
-    model = EtudeAuthor
+class ComposerAdmin(admin.ModelAdmin):
+    model = Composer
 
     fieldsets = (
         (None, {
@@ -27,4 +27,4 @@ class EtudeAdmin(admin.ModelAdmin):
     list_display = ('__unicode__', 'fen', 'result')
 
 admin.site.register(Etude, EtudeAdmin)
-admin.site.register(EtudeAuthor, EtudeAuthorAdmin)
+admin.site.register(Composer, ComposerAdmin)

@@ -3,7 +3,7 @@ import re
 
 from django.core.management.base import BaseCommand, CommandError
 
-from chess.apps.etudes.models import Etude, EtudeAuthor, RESULTS_RECOGNIZER
+from chess.apps.etudes.models import Etude, Composer, RESULTS_RECOGNIZER
 from chess.apps.pgnparser import pgn
 
 
@@ -11,7 +11,7 @@ class Command(BaseCommand):
     def __init__(self, *args, **kwargs):
         super(Command, self).__init__(*args, **kwargs)
 
-        self.authors = EtudeAuthor.objects.all()
+        self.authors = Composer.objects.all()
         self.fen_set = set(fen[0] for fen in Etude.objects.values_list('fen'))
         self.total_count = self.success_count = self.failed_count = \
                            self.duplicated_count = 0
@@ -29,6 +29,7 @@ class Command(BaseCommand):
         print "Total: %d pgn games" % self.total_count
         print "Success: %d" % self.success_count
         print "Failed: %d" % self.failed_count
+        print "Duplicated: %d" % self.duplicated_count
         print "Unknown authors: %s" % self.unknown_authors
 
     def _load_pgn_file(self, pgn_file):
