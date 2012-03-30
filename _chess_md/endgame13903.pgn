@@ -1,0 +1,10 @@
+[Event "1 Prize wr02 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K2B4/p5p1/1N1Pk1P1/2n1Ppp1/7p/6P1/4P3/8 w - - 0 1"]
+
+ 1. gxh4 (1. Bxg5 $2 h3) 1... gxh4 (1... g4 2. h5 g3 (2... axb6 3. h6 gxh6 4. g7 Kf7 5. d7 g3 6. Bh4 Nxd7 7. e6+) 3. Bh4 g2 4. Bf2 axb6 (4... Ne4 5. d7 Nxf2 6. d8=Q) 5. h6 gxh6 6. d7 Nxd7 7. g7 Kf7 8. e6+) 2. Bxh4 (2. d7 $2 h3 3. Bh4 Nxd7 4. Bg3 Nxb6+ 5. Kxa7 Nc4) 2... axb6 (2... Kxe5 3. d7 Ne6 4. Nc4+ Kd4 5. Bf6+ Kxc4 6. Bxg7) 3. Bf6 $1 (3. Bg3 $2 Kd7 $1 4. Be1 (4. Bh4 b5 5. Bf6 Ne6) 4... Ne6 5. Bc3 Nf8) 3... gxf6 (3... f4 4. Bxg7 Kf5 (4... b5 5. Bf8 b4 6. d7 Nxd7 7. g7 Nb6+ 8. Kb7 Kf7 9. Kxb6 b3 10. Ba3) 5. Ka7 b5 (5... Kxg6 6. Kxb6 Ne6 7. Bf6 Kf5 8. d7 Ke4 9. Kc6) 6. Kb6 Ne6 7. Kxb5 Kxg6 (7... Nxg7 8. d7 Ne6 9. g7) 8. Bf6 Nd4+ (8... Kf7 9. d7) 9. Kc4) (3... b5 4. Bxg7 b4 5. Bf8 b3 6. g7 Kf7 7. d7 Ne6 (7... Nxd7 8. e6+ Kg8 9. exd7 b2 10. d8=Q b1=Q 11. Qd5+) (7... b2 8. d8=Q b1=Q 9. Qd5+ Ne6 10. Qd7+) 8. Ba3 Kxg7 9. Kb8) (3... Nd7 4. Bxg7 b5 5. Bh8 Nc5 $1 6. d7 $1 Nxd7 7. g7 Nb6+ 8. Kb7 Kf7 9. e6+) (3... Kd7 4. Bxg7 Ne6 5. Bf6 b5 6. g7 Nxg7 7. Bxg7 b4 8. Bh6) 4. d7 $3 (4. g7 $2 Kf7 5. d7 Ne6 6. exf6 b5 7. Kb7 b4 8. Kc6 b3 9. Kd6 Nd8 $1) 4... Nxd7 5. g7 Kf7 6. e6+ 1-0  

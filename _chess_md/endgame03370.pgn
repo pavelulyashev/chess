@@ -1,0 +1,10 @@
+[Event "4 HM {m}"]
+[Site "?"]
+[Date "2005.04.30"]
+[Round "?"]
+[White "Sizonenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3q4/8/K6R/2rp4/1p1R2Q1/k4N2/3P4/8 w - - 0 1"]
+
+{Diagram #} 1. Rd3+ (1. Rf4 $5 Qa5+ 2. Kb7 Qb5+ 3. Ka7 Qd7+ 4. Ka6 Qb5+ $11)1... Ka4 2. Qxb4+ $1 Kxb4 3. Rh4+ Rc4 (3... Qxh4 4. Nxh4 Kc4 5. Rc3+ Kb4 6.Rxc5 Kxc5 7. Nf3 $18) 4. Rxc4+ Kxc4 5. Ne5+ Kb4 6. Nc6+ Kc4 7. Rc3# {. "An original mating combination, but the play is forced."} 1-0

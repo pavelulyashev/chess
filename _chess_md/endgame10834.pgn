@@ -1,0 +1,10 @@
+[Event "1 Prize ts70#1260 @2 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1P6/p4p2/p1k2Pp1/B1p1K1p1/R1P1P3/5PPp/7n w - - 0 1"]
+
+ 1. Ra2 Ng3+ (1... Nxf2+ 2. Rxf2 h1=N 3. Rf3) 2. fxg3 h1=Q (2... h1=N 3. b8=B $1 ) 3. b8=R $1 Qe1 4. Rc8+ (4. Rab2 $1 {cook BS} Kd6 5. R2b6+ Kc7 6. R6b7+ Kd6 7. Rd7+ Kc5 8. Rd5#) 4... Kb6 5. Rb2+ Ka7 6. Rc7+ (6. Bc6 $1 {cook BS}) 6... Ka8 7. Bc6# 1-0  

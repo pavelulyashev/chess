@@ -1,0 +1,10 @@
+[Event "tl20#0281 @2 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B2K1/3P4/2p5/p1P5/kpP5/1p1Nr3/1P6/8 w - - 0 1"]
+
+ 1. Nxb4 axb4 2. Be7 Rxe7 3. d8=R (3. d8=Q $1 {cook} Rg7+ 4. Kf8 Rg8+ 5. Ke7 Rg7+ 6. Kd6 Rg6+ 7. Kc7 Rg7+ 8. Qd7) 3... Ra7 4. Rd1 1-0  

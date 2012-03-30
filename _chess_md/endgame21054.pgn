@@ -1,0 +1,10 @@
+[Event "5 Commendation, MatPlus 2009 {m}"]
+[Site "?"]
+[Date "2009.12.11"]
+[Round "?"]
+[White "Loustau J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3R4/1k6/4b2p/2b5/8/8/4K3 w - - 0 0"]
+
+ {The " 4 corners theme " achieved here in complete form (the Rook goes to each corner and then leaves it) in a continuous way (without any intermediate move), and in logical structure (see thematic tries). Also, with the main theme is made a synthesis of interesting positional Draws.} 1. Kf2 (1. Rh7 $5 Bg3+ $1 2. Kd2 h4 3. Ke3 Bd5 $19) 1... Bb3 2. Re7 (2. Rh7 $5 Bd1 $1 3. Rd7 Bg4 $19) 2... Bd6 3. Re1 $1 Kc7 (3... Ba4 4. Rb1+ ({Thematic try} 4. Rh1 $5 Be8 $1 5. Ra1 (5. Rb1+ Kc6 $3 (5... Kc5 $5 6. Rg1 Kd5 (6... Kd4 7. Rd1+ Kc5 8. Rg1 Kd4 9. Rd1+ { positional draw} Ke5 10. Re1+ Kf4 11. Rxe8 $11) 7. Rg8 Bf7 8. Rg7 Be8 9. Rg8 { positional draw, or} Ba4 10. Rg5+ Ke4 11. Rxh5 $11)) 5... Bd7 $1 6. Rh1 Bg4 $19 ) (4. Kg2 $5 Bd7 $19) (4. Ra1 $5 Bd7 $19) 4... Kc7 5. Rh1 $1 { wR on the corner 1} ({Thematic try} 5. Ra1 $5 Bb3 $1 6. Rh1 Bf7 7. Ra1 Be6 8. Rh1 Bg4 $19) 5... Be8 6. Ra1 $1 {wR on the corner 2} Kd7 $1 7. Ra8 { wR on the corner 3} Bg6 8. Rh8 {wR on the corner 4} Be5 9. Rh6 $11) 4. Kg2 $1 Kd7 5. Kh3 Be7 6. Re3 $1 ({Thematic try} 6. Re5 $5 Bf7 $1 7. Kg2 Bd6 8. Re3 (8. Rf5 Be8 9. Kh3 Ke6 $1 $19) 8... Bg6 9. Kh3 Be7 10. Re5 Ke8 11. Rb5 Kf8 $1 12. Kg3 Be8 $1 13. Rb8 $2 Bd6+ $19) (6. Kg3 $5 Ke8 $1 7. Rh1 Bf7 8. Re1 Bg6 9. Re5 Kf8 10. Rb5 Be8 $19) 6... Bc2 7. Re5 $1 Bg6 8. Ra5 Ke8 9. Kg3 Kf8 10. Kf4 $1 Kf7 11. Rb5 $1 Bd6+ 12. Kg5 Be7+ 13. Kf4 Kg7 14. Rb7 Kf8 15. Rb8+ Kf7 16. Rb5 { positional draw, or} Bd8 17. Rd5 Bc7+ 18. Kg5 $11 1/2-1/2  

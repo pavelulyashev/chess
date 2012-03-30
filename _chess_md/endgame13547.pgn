@@ -1,0 +1,10 @@
+[Event "mt02 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Birnov Z"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2n3N1/n7/8/kB6/P1K5/8/N7 w - - 0 1"]
+
+ 1. Bf8 $1 Nb5+ 2. Kb2 Nxa3 3. Bxa3 Nb4 4. Ne6 Nd3+ 5. Ka2 Nb4+ 6. Kb1 $1 Kxa3 7. Nc5 Na6 8. Nc2# 1-0  

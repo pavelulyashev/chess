@@ -1,0 +1,10 @@
+[Event "ts12#141 @2 {m}"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/r7/Pp4Pp/7k/p7/7K/6P1/R7 w - - 0 1"]
+
+ 1. g7 $1 Rxg7 (1... Ra8 2. Rxa4 Kg6 3. Rg4+) 2. Ra3 $1 (2. Rxa4 $2 Ra7 $1 3. Rg4 Rxa6 4. Rg8 Ra3+) (2. Rb1 $1 {cook} Rg5 (2... Ra7 3. Rb5+ Kg6 4. Rxb6+ Kf5 5. Rb5+ Ke6 6. Ra5) 3. a7 Ra5 4. Rb5+ Rxb5 5. a8=Q) 2... Rc7 (2... Kg6 3. Rg3+) 3. Rg3 a3 4. a7 $1 Rxa7 5. Rg8 $1 Ra4 6. g4+ Rxg4 7. Rxg4 b5 8. Rb4 $1 (8. Rg7 $1 {cook HC}) (8. Rg8 $1 {cook HC}) 1-0  

@@ -1,0 +1,10 @@
+[Event "3 Honorable Mention 64#035 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1B6/1PPk4/8/4b1p1/8/7n/3K4 w - - 0 1"]
+
+ 1. Ba8 $1 Bxc6 (1... g3 $144 2. Ke2 Bxc6 3. b7 Bb5+ 4. Ke3 Kc7 5. Kf4 Nf1 6. b8=Q+ Kxb8 7. Bg2 $11) 2. b7 Bf3+ $1 (2... Ba4+ $144 3. Ke2 Kc7 4. Kf2 Bd7 5. b8=Q+ Kxb8 6. Bg2 Kc7 7. Kg3 $11) 3. Ke1 Kc7 4. Kf2 Kb8 $1 (4... Bd1 $144 5. Kg3 Nf1+ 6. Kf2 Nd2 7. Ke1 Kb8 8. Kxd2 g3 9. Ke1 $1 $11) 5. Kg1 g3 $11 1/2-1/2  

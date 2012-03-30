@@ -1,0 +1,10 @@
+[Event "sp.HM {m}"]
+[Site "?"]
+[Date "2005.04.28"]
+[Round "?"]
+[White "Grondijs H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/7k/4ppR1/5P1K/7p/6b1 w - - 0 1"]
+
+{Diagram #} 1. Kg2 (1. Rh4+ Kg5 2. Rg4+ Kf5 3. fxe4+ Ke5 4. Kg2 f3+ 5. Kh1 f2)1... exf3+ 2. Kh1 Be3 (2... Kxg4) 3. Rxf4 Bxf4 {draw. Jocundity twins.} 1/2-1/2

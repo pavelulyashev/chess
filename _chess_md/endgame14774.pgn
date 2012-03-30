@@ -1,0 +1,10 @@
+[Event "td20#1472 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Havasi A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/4NKp1/2P3P1/7P/8/8/8/2r5 w - - 0 1"]
+
+ 1. Ke6 (1. Ke8 $2 Rc2 $1 2. Kd7 Rd2+ 3. Ke6 (3. Kc7 Rd7+) 3... Rd6+ 4. Kf5 Rd7) (1. h6 $2 Rf1+ 2. Ke6 gxh6 3. c7 Re1+ 4. Kd7 Rd1+ 5. Ke8 Rc1 6. c8=Q Rxc8+ 7. Nxc8 Kg7 8. Ne7 h5) 1... Re1+ 2. Kd6 Re6+ 3. Kd7 Rd6+ 4. Ke8 Rd8+ (4... Rd7 5. Nf5 Rd5 6. Nxg7 Kxg7 7. c7 Rc5 8. Kd7 Rd5+ 9. Kc6) 5. Kf7 Rf8+ (5... Rd7 6. h6) 6. Ke6 Rf6+ 7. Kd5 Rd6+ 8. Kc5 1-0  

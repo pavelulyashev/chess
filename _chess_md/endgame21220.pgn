@@ -1,0 +1,10 @@
+[Event "Hm, The Ural Problemist {m}"]
+[Site "?"]
+[Date "2010.09.09"]
+[Round "?"]
+[White "Kalyagin B, Kudelich E"]
+[Black "*"]
+[Result "*"]
+[FEN "4R2n/4K3/P2p4/8/8/2n5/2k5/7r w - - 0 0"]
+
+ 1. a7 ({Thematic try} 1. Kxd6 $5 Ng6 $1 2. a7 Nb5+ 3. Kc5 Nxa7 4. Kb6 Ra1 5. Ra8 Ne7 6. Rxa7 Nc8+ $19) 1... Rh7+ 2. Kxd6 Nb5+ 3. Kc5 $1 Nxa7 4. Ra8 (4. Kb6 $5 Nf7 5. Kxa7 Nd6+ $19) 4... Ng6 5. Kb6 Ne7 ({main} 5... Ne5 6. Rxa7 Nc4+ 7. Ka6 $11) 6. Kxa7 Nd5+ 7. Kb8 $11 *  

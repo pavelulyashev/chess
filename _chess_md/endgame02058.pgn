@@ -1,0 +1,10 @@
+[Event "Molot {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Solovjev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4KN2/2P3P1/8/8/8/2b4b/1PP2krN/8 w - - 0 1"]
+
+ 1. Ng4+ $1 {Nowotny} Rxg4 (1... Bxg4 2. g8=Q ({dual} 2. bxc3 $1 $18) 2... Bh5+ 3. Ng6 $1 {Nowotny} (3. Qf7+ $5 Bxf7+ 4. Ke7) 3... Bxg6+ 4. Ke7 Bb4+ 5. Kd8 (5. Kf6)) 2. c8=Q Re4+ 3. Ne6 $1 {Nowotny} Rxe6+ ({but} 3... Bxg7 $1 4. Qc5+ Bd4 5. Qxd4+ Rxd4 6. Nxd4 Ke3 $11) 4. Kf7 Rf6+ 5. Ke7 Bxc8 ({but} 5... Re6+ $1 6. Qxe6 Bxe6 $11) 6. g8=Q Re6+ 7. Kd8 Bxb2 8. Qf8+ 1-0  

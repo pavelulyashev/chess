@@ -1,0 +1,10 @@
+[Event "td20#1117 @3 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1b4k1/7p/3p3K/3n4/8/3p3p/B2P3R/3q3N w - - 0 1"]
+
+ 1. Rf2 Qxh1 2. Rf3 (2. Rf5 $2 2... h2 3. Bxd5+ (3. Rxd5 Kf8) 3... Qxd5) 2... Qxf3 3. Bxd5+ Qxd5 (3... Kf8 4. Bxf3) (3... Qf7 $1) 1/2-1/2  

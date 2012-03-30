@@ -1,0 +1,10 @@
+[Event "Comm {m}"]
+[Site "?"]
+[Date "2005.06.23"]
+[Round "?"]
+[White "Bertoli F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2N5/8/4k1p1/8/q1P3R1/8/4Bp1K/8 b - - 0 1"]
+
+{Diagram #} 1... Qc2 2. Bf1 Qd1 (2... Qb1 3. Kg2 Kd7 4. Rf4 Kxc8 5. Kxf2) 3.Rxg6+ Kf7 4. Rg2 Qxf1 5. Nd6+ Ke6 6. Ne4 Qh1+ (6... Qxc4 7. Nxf2) 7. Kxh1 f1=Q+8. Kh2 (8. Rg1 Qh3#) 8... Qf4+ (8... Qxc4 9. Ng3) 9. Ng3 Qh4+ 10. Kg1 {draw. "The pretty Q-sac leads nowhere in particular."} 1/2-1/2

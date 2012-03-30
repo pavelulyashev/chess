@@ -1,0 +1,10 @@
+[Event "td23#1096 (@2) {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Keidanz H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/1p5P/bp4p1/1k1K2P1/1N6/8 w - - 0 1"]
+
+ 1. Nxa4 bxa4 2. h6 Ka2 (2... a3 {main} 3. h7 a2 4. h8=Q Ka3 5. Kc2 b3+ 6. Kc1 Kb4 7. Kb2 Kc4 8. Ka3) 3. h7 b3 4. h8=Q b2 5. Qg8+ Ka1 6. Qg7 Ka2 7. Qf7+ Ka1 8. Qf6 Ka2 9. Qe6+ Ka1 10. Qe5 Ka2 11. Qd5+ Ka1 12. Qd4 Ka2 13. Qxa4+ Kb1 14. Qa8 (14. Ke2 $1 {minor dual JU} Kc1 15. Qd1#) 14... Kc1 15. Qh1# 1-0  

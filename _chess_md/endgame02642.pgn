@@ -1,0 +1,10 @@
+[Event "5 Honorable Mention tr11 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K2R4/8/5P2/2P5/k6r/7b/5P2/b7 w - - 0 1"]
+
+ 1. f7 (1. c6 $143 Bxf6 2. c7 Rh7 3. c8=Q Bg2+ 4. Kb8 Be5+ $19) 1... Bg2+ 2. f3 (2. Kb8 $143 Be5+ 3. Kc8 Rh7 4. Rd7 Rh8+ 5. Rd8 Bh3+ $19) 2... Bxf3+ 3. c6 (3. Ka7 $143 Rh7 4. Rd7 Rh8 $19) 3... Bxc6+ 4. Ka7 (4. Kb8 $143 Be5+ 5. Ka7 Kb5 6. f8=Q Ra4#) 4... Kb5 5. f8=Q (5. Rb8+ $144 $1 Ka5 6. Rb6 Bd4 7. f8=Q Bxb6+ 8. Kb8 $11 {EGTB 6 pieces}) 5... Ra4+ 6. Kb8 Be5+ 7. Rd6 Ra8+ (7... Kc5 $144 8. Kc7 Ra7+ 9. Kc8 Ra8+ 10. Kc7 Rxf8 $11) 8. Kc7 Rxf8 $11 1/2-1/2  

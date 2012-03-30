@@ -1,0 +1,10 @@
+[Event "tm05 @2 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/3p2K1/3p2pN/4r3/P3N3/1P6/1P6/8 w - - 0 1"]
+
+ 1. Nf7 Ra5 $1 2. b4 Rxa4 (2... Ra6 3. Nf6+ Ke7 4. Nd5+ Ke6 5. Nc7+) (2... Ra8 3. Nf6+ Ke7 4. Nd5+ Ke8 5. Nc7+) (2... Ra7 3. Nexd6+ Ke7 4. Nc8+) 3. b5 Ke7 ( 3... d5 4. Nf6+ Ke7 5. Nxd5+ Ke6 6. Nc7+ Kf5 7. b6 Rb4 8. Nb5) (3... Rxe4 4. Nxd6+ Kd8 (4... Ke7 5. Nxe4 d5 6. b6 Kd8 7. Nf6) 5. Nxe4 d5 6. Nc5) 4. Nc3 Ra7 5. b6 Rb7 6. Nd5+ Ke6 7. Nf4+ Ke7 8. Nxg6+ Ke6 (8... Ke8 9. Nxd6+) 9. Nd8+ Kd5 10. Nxb7 Kc6 11. Nxd6 (11. Na5+ $1 {cook JU}) 11... Kxd6 12. Ne5 1-0  

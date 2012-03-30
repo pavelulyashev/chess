@@ -1,0 +1,10 @@
+[Event "1 Prize tm04#0421 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kb6/r7/3p2p1/2P5/6p1/2N5/7p/1B5K w - - 0 1"]
+
+ 1. Be4+ Rb7 2. c6 Rc7 3. Nb5 g3 $1 4. Bd5 $1 g5 5. Bg2 $1 (5. Be4 $143 Re7 6. c7+ Rxe4 7. c8=Q Re1+ $19) 5... d5 (5... g4 $144 6. Bd5 g2+ 7. Bxg2 g3 8. Bd5 g2+ 9. Bxg2 d5 10. Bxd5 Ra7 11. c7+ Rb7 12. c8=B $18 (12. c8=N $144 $18)) 6. Bxd5 g4 7. Bg2 Rf7 (7... Ra7 $144 8. c7+ Rb7 9. c8=N $1 $18) 8. c7+ Rf3 $1 9. c8=R $1 $18 (9. Bxf3+ $143 gxf3) (9. c8=B $143 $18 Be5 10. Bxg4 Kb7 11. B2xf3+ $16) (9. c8=N $143 Be5 10. Ne7 Kb7 $17) (9. c8=Q $143 $11) 1-0  

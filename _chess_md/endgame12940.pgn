@@ -1,0 +1,10 @@
+[Event "ta18 {m}"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Keidanz H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/pk6/8/P1P5/1K6/1P6/8 w - - 0 1"]
+
+ 1. Kc3 Ka5 (1... Kc5 2. b4+ Kc6 3. Kd4) (1... a5 2. Kd4 Kc6 3. c5 Kd7 4. Kc4 Kc6 5. b3 b6 6. cxb6 Kxb6 7. Kd5) 2. b3 b6 3. Kd4 $1 (3. c5 $2 bxc5 4. Kc4 Kb6 5. Kd5 Ka5 6. Kxc5) 3... Kb4 4. a5 $1 Kxa5 5. Kc3 b5 6. c5 b4+ 7. Kd4 Kb5 8. Kd5 1-0  

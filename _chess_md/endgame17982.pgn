@@ -1,0 +1,10 @@
+[Event "tp22 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k1B5/pp2R3/8/2K5/8/8/7p/8 b - - 0 1"]
+
+ 1... b6+ (1... h1=Q 2. Bxb7+ Qxb7 3. Rxb7) 2. Kb5 h1=Q 3. Bb7+ Qxb7 4. Re8+ Qb8 5. Ka6 Qxe8 (5... b5 6. Rxb8+ Kxb8 7. Kxb5) 1/2-1/2  

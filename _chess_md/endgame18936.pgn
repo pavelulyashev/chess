@@ -1,0 +1,10 @@
+[Event "to06 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k1r2/1npP1B2/8/8/p7/8/1K3R2/8 w - - 0 1"]
+
+ 1. Rf1 (1. Rf3 $2 Nd6 2. Bd5 Rxf3 3. Bxf3 Nc4+ 4. Ka2 (4. Kc2 a3 $1) 4... Kxd7 5. Be2 Nb6 6. Ka3 Kd6 7. Kb4 Kd5) 1... Nd6 (1... a3+ 2. Ka2 Nd6 3. Bc4) (1... Kxd7 2. Be6+ Ke7 3. Rxf8 Kxf8 4. Ka3 Nc5 5. Bg4 Ke7 6. Kb4 Kd6 7. Bf3 c6 8. Bg2 Kc7 9. Bf3 (9. Kxc5 a3) 9... Kb6 10. Bg2) (1... Rh8 2. Bd5 Nc5 3. Bc6 Nxd7 4. Rd1 Rh7 5. Bxa4) (1... Nc5 2. Ka3 Kxd7 3. Kb4 Ke7 4. Bc4 Rxf1 5. Bxf1 Kd6 6. Bg2) 2. Bc4 Nxc4+ (2... a3+ 3. Ka2) (2... Rh8 3. Be6) 3. Ka2 Rg8 (3... Rxf1) 4. Rg1 Rh8 5. Rh1 Rxh1 1/2-1/2  

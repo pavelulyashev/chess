@@ -1,0 +1,10 @@
+[Event "tt06#0315 (@2) {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Daniel A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "q2b4/6pp/1pN5/1B1k2P1/p7/B5P1/K4P2/8 w - - 0 1"]
+
+ 1. Bf1 $1 Ke6 (1... Ke4 2. Bg2+) (1... Qa6 2. Nb4+) (1... Qc8 2. Bg2+ Kc4 (2... Ke6 3. Bh3+) 3. Bf1+ Kc3 4. Bb4+ Kc2 5. Nd4+ Kd1 6. Be2+ Kc1 7. Ba3+ Kd2 8. Bb4+) 2. Bh3+ (2. Bg2 $1 {minor dual JB} Qa6 3. Bh3+) 2... Kf7 (2... Kd5 3. Bg2+ Ke6 (3... Kc4 4. Ne5+) 4. Nd4+) 3. Ne5+ Kg8 4. Be6+ Kh8 5. Nf7+ Kg8 6. Nh6+ Kh8 7. Nf7+ 1/2-1/2  

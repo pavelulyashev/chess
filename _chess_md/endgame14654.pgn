@@ -1,0 +1,10 @@
+[Event "tb10#206 @1 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Rush V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1rN1B3/3p4/6p1/1q5k/7p/PP3R1N/1B3P1P/K7 w - - 0 1"]
+
+ 1. Rd3 (1. Rf5+ $1 {cook} Qxf5 2. Bxg6+ Qxg6 3. Nf4+) 1... Kh6 (1... Qc6 2. Rxd7) (1... Qa6 2. Bxg6+) 2. Bc1+ Kg7 3. Rxd7+ Kf8 4. Rf7+ Kxe8 5. Nd6+ Kd8 6. Bg5+ 1-0  

@@ -1,0 +1,10 @@
+[Event "4th Commendation, Nunn-50JT {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Avni A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2N5/8/7k/8/1Brpp1P1/6Pb/4N2K w - - 0 1"]
+
+ {Some rather forced tactical play ends with a position in which Black has only a choice of stalemates. Unfortunately, the final stalemate idea at move 6 has been seen before (in a study by Telbis, 1970, with a bishop on g1 instead of a knight; White: Kh1,Bd4,Be8,Pg2,Pg3 Black:Kg4,Rb3,Bd1,Bh2,Pa4 1 Bxa4 Rd3 2 Bxd1 Rxd1+ 3 Bg1! and so on), but the current study has more interesting play and introduces a second stalemate line at Black's 4th move.} 1. Bd1+ (1. Kxh2 $2 Rxb3) (1. Nxd3 $2 Bxg3 {and}) (1. Nd5 $2 Rxb3 2. Nf4+ Kg4 3. Nfxd3 Bxg3 { are all hopeless.}) 1... e2 ({After} 1... Kh6 2. Kxh2 d2 3. Nc2 $1 Rxc2 4. Nd5 {White is safe.}) 2. Bxe2+ dxe2 3. Nd5 Rc1 (3... Rc5 $2 4. Nf4+ Kg4 5. Kxh2 { draws}) 4. Nf4+ Kg4 $1 ({After} 4... Kg5 {White holds the position with} 5. Nfd3 $1 Rxe1+ 6. Nxe1 Bxg3 7. Nf3+ Kg4 8. Ng1 $1 e1=Q {(or rook) stalemate.}) 5. Nxe2 $1 (5. Nfd3 {is insufficient, as} 5... Rxe1+ 6. Nxe1 Bxg3 7. Nf3 Bc7 { wins for Black. However, the position of the black king allows a fresh possibility.}) 5... Rxe1+ 6. Ng1 $1 { and Black can choose between several different stalemates} 6... Bxg1 {or} (6... Bxg3 {or}) (6... Kxg3 {or}) (6... Rxg1+ 7. Kxh2 Rd1) 1/2-1/2  

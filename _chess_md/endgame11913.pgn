@@ -1,0 +1,10 @@
+[Event "te03 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4b3/8/1p4p1/8/6pB/1B2KP2/7k/8 w - - 0 1"]
+
+ 1. Kf2 g5 2. Bg3+ Kh3 3. Be6 (3. Bc4 $2 gxf3 4. Be6+ g4 5. Bc4 Bb5 6. Bxb5) 3... Bh5 4. Bc4 (4. Bd5 $2 gxf3 5. Bc4 b5) (4. Bd6 $2 b5 5. Bd7 Kh4 6. Bg3+ Kh3 7. Bxb5 gxf3 8. Ba6 Be8 9. Bc8+ g4 10. Ba6 Bb5 11. Bxb5) 4... gxf3 5. Bb5 (5. Be6+ $2 Bg4 6. Bc4 Bd7) 5... Bf7 (5... Kg4 6. Bd7#) (5... g4 6. Bf1#) (5... Bg4 6. Bf1#) 6. Bd7+ g4 7. Bb5 1-0  

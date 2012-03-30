@@ -1,0 +1,10 @@
+[Event "us37#0201 {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K3/8/1p2k3/7p/7p/1P2p2p/P3P2P/8 w - - 0 1"]
+
+ 1. a4 $1 (1. b4 $2 b5 $1) (1. Kd8 $2 Kd5 2. Kc7 Kd4 3. Kxb6 Kc3 4. a4 Kd2 5. a5 Kxe2 6. a6 Kf2 7. a7 e2 8. a8=Q e1=Q 9. Qd5 Kg1) 1... Kd5 2. b4 Kc4 3. a5 bxa5 4. bxa5 Kb5 5. Kd7 $1 (5. Kf7 $2 Kxa5 6. Kg6 Kb4 7. Kxh5 (7. Kf5 Kc5 $1 8. Kg5 Kd4 9. Kf4 Kd5 $1 10. Kg5 Kd4 $1 11. Kf4 Kd5 12. Kxe3 Ke5 13. Kf3 Kf5 14. e3 Ke5 15. e4 Ke6 16. Kf4 Kf6 17. e5+ Ke6 18. Ke4 Ke7 19. Kf5 Kf7 20. Kg5 Ke6) 7... Kc3 8. Kg4 Kd2 9. Kf3 Ke1 10. Kxe3 Kf1 11. Kf3 Kg1 12. e4 Kxh2 13. Kf2 Kh1 14. e5 h2 15. e6 h3 16. e7) 5... Kxa5 6. Kc6 $1 (6. Kd6 $2 Kb6 $1 7. Kd5 Kc7 8. Ke4 Kd6 9. Kxe3 Ke5) 6... Kb4 7. Kd5 Kc3 8. Ke4 Kd2 9. Kf3 $1 Ke1 $1 10. Kxe3 Kf1 $1 11. Kf3 Kg1 $1 12. e4 Kxh2 13. Kf2 Kh1 14. e5 h2 15. e6 h3 16. e7 h4 17. Ke2 $1 (17. e8=Q $2) (17. Ke3 $2 Kg1 18. e8=Q h1=Q) 17... Kg1 18. e8=Q h1=Q 19. Qe3+ $1 Kh2 20. Qf4+ Kg2 21. Qf2# 1-0  

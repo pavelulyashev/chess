@@ -1,0 +1,10 @@
+[Event "t001 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P1P3P1/P2n4/8/1n1pP1P1/3P1b1B/3P1p2/5Kbk w - - 0 1"]
+
+ 1. a8=B $3 (1. a8=Q $143 Nc4 2. dxc4 d3 3. e5 Nc6 (3... Nd5 $144 4. Qxd5 Kh2 5. Qxd3 Bg2+ 6. Bxg2 $11 {pat}) 4. Qxc6 Kh2 5. Qxf3 $11 {pat}) 1... Nc4 $1 2. dxc4 d3 3. e5 Bxa8 4. c8=B $3 (4. c8=Q $143 Bf3 5. Qb7 Nc6 (5... Nd5 $144 6. Qxd5 Kh2 7. Qxd3 Bg2+ 8. Bxg2 $11 {pat}) 6. Qxc6 Kh2 7. Qxf3 $11 {pat}) 4... Bf3 $1 5. Bb7 Nc6 $1 6. Bxc6 Bxc6 7. g8=B $3 (7. g8=Q $143 Bf3 8. Qd5 Kh2 9. Qxd3 Bg2+ 10. Bxg2) 7... Bf3 8. Bd5 Kh2 9. Bxf3 $18 1-0  

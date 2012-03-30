@@ -1,0 +1,10 @@
+[Event "bc16#139c {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3KPP2/4p2k/7n/8/3B3p/7n w - - 0 1"]
+
+ 1. e7 Nf5+ (1... Nf2 2. e8=Q+ Kg4 3. Qg8+) 2. Ke6 $3 (2. Kxe5 $2 Nxe7 3. fxe7 Nf2 $1 (3... Ng3 $2 4. e8=Q+ Kg4 5. Qg6+ Kf3 6. Be1 h1=Q 7. Qxg3+ Ke2 8. Qf2+ Kd3 9. Qd2+ Kc4 10. Qb4+ Kd3 11. Qc3+ Ke2 12. Qd2+ Kf3 13. Qd5+) 4. Kf4 (4. e8=Q+ Kg4 5. Qg6+ Kf3 6. Qf5+ Ke2 $3 7. Qh5+ Kf1) 4... Kh4 $3 5. e8=Q Nh3+ $1 6. Kf5 h1=Q 7. Be1+ Nf2 8. Qh8+ Kg3 9. Qxh1) 2... Nxe7 3. fxe7 Nf2 (3... Ng3 4. e8=Q+ Kg4 5. Qg6+ Kf3 6. Qd3+ Kg4 7. Be1 h1=Q 8. Qxg3+ Kh5 9. Qxe5+) 4. e8=Q+ Kg4 (4... Kh4 5. Qh8+ Kg3 6. Be1 Kg2 7. Qh4) 5. Qg6+ Kf3 6. Qf5+ Kg3 7. Be1 h1=Q 8. Qxf2+ Kg4 9. Qf5# 1-0  

@@ -1,0 +1,10 @@
+[Event "ts22#516 {c} @3 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/7p/P7/pP1P4/2P2n1K/k7/8/5br1 w - - 0 1"]
+
+ 1. a7 (1. Bxf4 $2 1... Bxc4 2. d6 Bxb5 3. a7 Rg8 4. d7 Bxd7 5. Bb8 Bc6) (1. Bd6+ $2 1... Ka4 2. a7 (2. b6 Nxd5 3. b7 Rg8 4. a7 Nf6) 2... Rg7 3. Bb8 Be2 4. Bxf4 Bxc4 5. Bb8 Bxd5) 1... Ng6+ (1... Be2 2. Bxf4 Rg8 3. Bb8) (1... h5 2. Bxf4 Rg8 3. Bb8) 2. Kh5 Be2+ 3. Kh6 Nf8 (3... Ne5 4. Bxe5 (4. a8=Q $2 4... Nf7+ 5. Kxh7 Bd3#) 4... Rg8 5. Bb8 Rg6+ 6. Kxh7 Bd3 7. Kh8) (3... Ne7 4. Bd6+ (4. a8=Q $2 4... Ng8+ 5. Kxh7 Nf6+ 6. Kh6 (6. Kh8 $2 6... Rg8#) 6... Ng8+) 4... Ka4 5. Bxe7 Rg8 (5... Rg6+ 6. Kxh7 Bd3 7. Kh8) 6. b6) (3... Nh8 $1 4. a8=Q Nf7+ 5. Kxh7 Bd3#) 4. Bd6+ 4... Ka4 $1 5. Bxf8 Rg6+ 6. Kxh7 Bd3 7. Kh8 $1 (7. a8=Q $2 7... Ra6+ 8. Kg7 Rxa8) (7. d6 $2 7... Rxd6+ 8. Kg7 Rd8 9. b6 Be4) (7. b6 $2 7... Rxb6+ 8. Kh8 Ra6 9. d6 Rxa7) 7... Rg8+ $1 (7... Bxc4 8. a8=Q Rg8+ 9. Kh7) 8. Kxg8 Bxc4 9. a8=B $1 (9. a8=Q $2 9... Bxd5+ 10. Qxd5) 1-0  

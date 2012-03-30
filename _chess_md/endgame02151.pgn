@@ -1,0 +1,10 @@
+[Event "De Schaakwereld {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Selman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/8/P3PN2/8/8/1P6/k2r4/5b2 w - - 0 1"]
+
+ 1. e7 Re2 (1... Bb5 2. a7) 2. Ne4 $1 (2. a7 $2 Bg2 3. Ne4 {Nowotny} Bxe4 $1 4. e8=Q Bh7+) 2... Rxe4 3. a7 Rg4+ 4. Kf8 Rf4+ 5. Ke8 Bg2 (5... Bb5+ 6. Kd8 Rd4+ 7. Kc8 $1 (7. Kc7 $2 Rd7+ 8. Kb8 Rxa7) 7... Ba6+ 8. Kc7) 6. Kd8 Rd4+ 7. Kc8 1-0  

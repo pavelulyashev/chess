@@ -1,0 +1,10 @@
+[Event "3 Honorable Mention, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.11.02"]
+[Round "?"]
+[White "Gonzales L"]
+[Black "*"]
+[Result "*"]
+[FEN "4r3/8/1p6/1p6/pP6/K7/5p2/k2b1N1Q b - - 0 0"]
+
+ 1... Rc8 (1... Re2 2. Qd5 Bb3 3. Qd4+ Kb1 4. Qd3+ Rc2 5. Qd1+ $18) 2. Qh3 Rc2 3. Qh8+ Kb1 4. Qh7 {pin} Ka1 {unpin} 5. Qg7+ Kb1 6. Qg6 Ka1 7. Qf6+ Kb1 8. Qf5 Ka1 9. Qe5+ Kb1 10. Qe4 Bf3 $1 11. Qf5 (11. Qg6 $2 Kc1 12. Qf6 Kb1 13. Qf5 { loss of time}) (11. Qh7 Kc1 $11) (11. Qd3 Be2 12. Nd2+ Kc1 13. Qxe2 Rc3+ 14. Nb3+ Rxb3+ $11) 11... Bg4 $1 12. Qg6 Bh5 $1 13. Qh7 Bd1 (13... Bg6 14. Qxg6 { etc}) 14. Ne3 (14. Ng3 $2 Be2 $11) 14... f1=Q (14... Kc1 15. Qd3 f1=Q 16. Nxf1 Be2 17. Qd4 $18) 15. Nxf1 Ka1 16. Qg7+ Kb1 17. Qg6 Ka1 18. Qf6+ Kb1 19. Qf5 Ka1 20. Qe5+ Kb1 21. Qe4 Ka1 22. Qd4+ $18 {.  .  Q-staircase manoeuvres show the required pinning and unpinning moves. Here we have a double Q-staircase, but with a beautiful sacrificial B-manoeuvre in between, forcing the wQ back. Surprisingly, it seems to be original. It is a pity that the study has BTM, especially since this is not necessary at all! I would prefer the setting with wRc8 instead of wRe8 and WTM (1.Qh3). The extra black move is hardly interesting.  HvH} *  

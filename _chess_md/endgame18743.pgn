@@ -1,0 +1,10 @@
+[Event "td20#771 {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/5KN1/8/5p2/2p2Pk1/6p1/5P1P/8 w - - 0 1"]
+
+ 1. hxg3 $1 c3 2. Nxf5 $1 (2. Nb6 $2 c2 3. Nc4 c1=Q 4. Ne5+ Kh3 5. Nxf5 Qc2 6. Kf6 Qxf2 7. Kg5 Qa2 8. g4 Qg8+ 9. Kf6 (9. Ng6 Qxg6+ 10. Kxg6 Kxg4) 9... Qf8+ 10. Kg6 Qe8+ 11. Kg7 Qa4) 2... Kxf5 3. f3 c2 4. Nc7 c1=Q 5. Nd5 (5. Ne6 $2 Qc7+ 6. Nxc7) 5... Qc7+ 6. Ne7+ $1 (6. Nxc7 $2) 1-0  

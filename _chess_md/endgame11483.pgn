@@ -1,0 +1,10 @@
+[Event "1 Prize ts23#48 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n7/2N4K/8/k7/7R/2r5/8/N7 w - - 0 1"]
+
+ 1. Rh5+ $1 (1. Nxa8 $2 Ka6 $1 (1... Rc8 $2 2. Nb3+ Ka6 3. Rb4 Ka7 4. Nb6 Rb8 5. Nc5 Rxb6 6. Ra4+ Kb8 7. Nd7+ $18) 2. Rb4 (2. Ra4+ Kb7 $11) 2... Ka7 3. Nb6 Rc7+ 4. Kg8 Rb7 5. Nc8+ Kb8 6. Rc4 Rc7 $11) (1. Nd5 {+- Ooms} 1... Rc8 2. Nb3+ Ka6 3. Ra4+ Kb7 4. Rb4+ Ka6 5. Nd4 Nc7 (5... Rc5 $5) 6. Rb6+ Ka7 (6... Ka5 7. Nb3+ Ka4 8. Nc5+ $18 Ka5 (8... Ka3 9. Rb3+ Ka2 10. Nc3+ Ka1 11. Rb1#) 9. Nb7+ Ka4 10. Nc3+ Ka3 11. Nc5) 7. Nc6+ Ka8 8. Nde7 Re8 9. Kg7 Ne6+ 10. Kf7 Nc7 11. Rb1 Rh8 12. Rb2 Re8 13. Rb6 {Zugzwang}) 1... Ka4 2. Nxa8 (2. Nd5 {+- Van der Marel} 2... Rc1 3. Rh4+ Ka3 (3... Kb5 4. Nb3 $18 {??}) 4. Rh3+ (4. Nb4) 4... Ka2 (4... Ka4 5. Nc3+ $1) 5. Nb3) 2... Rc1 (2... Ka3 3. Rh2 $1 $18 {Bohm} (3. Nb6 $2 Rc7+ $1 (3... Rc1 $2 4. Rb5 $1 $18 {zie hoofdvariant}) 4. Kg8 Kb2 $11 5. Rh1 Rc6 ( 5... Rc1 6. Na4+ Kb1) 6. Nd5 Rc1)) 3. Nb6+ (3. Rh6 $2 Ka3 $11) 3... Ka3 (3... Kb4 4. Nd5+ $18 Ka3 (4... Ka4 5. Rh4+ (5. Rh6 $5) 5... Ka3 6. Rh3+ (6. Ne3) (6. Nb4)) (4... Kc4 5. Ne3+ (5. Nc2)) 5. Rh3+ (5. Ne3)) 4. Rb5 $1 (4. Rh3+ $2 Ka2 $1 5. Nb3 Rb1 6. Nc4 Rxb3 7. Rh2+ Ka1) (4. Ra5+ $2 Kb2 $1) 4... Ka2 (4... Rxa1 5. Nc4+ Ka2 6. Rb2#) 5. Nb3 Rb1 6. Nc4 $1 Rxb3 7. Ra5+ Kb1 8. Nd2+ 1-0  

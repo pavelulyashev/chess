@@ -1,0 +1,10 @@
+[Event "Chess Clinic 2000-2001 1.p {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Benko P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1QR5/5p2/1qr3p1/6P1/4K3/6P1/1k6/8 w - - 0 1"]
+
+ 1. Qe5+ Kc1 2. Rb8 Rc4+ (2... Qc5 $144 3. Qa1+ Kd2 4. Rb2+ $18) 3. Kd3 Rd4+ 4. Kc3 (4. Qxd4 $143 Qxb8 5. Qf4+ (5. Qa1+ $144 Qb1+ 6. Qxb1+ Kxb1 $11) 5... Qxf4 6. gxf4 Kd1 7. Ke3 Kc2 8. Ke4 Kd2 9. Ke5 Ke3 10. f5 gxf5 11. Kxf5 Kf3 12. Ke5 Kg4 13. Kf6 $11) 4... Qd6 5. Qe3+ Rd2 6. Rb4 f5 (6... Qc6+ $144 7. Rc4 Qd5 8. Rc8 Qd7 9. Rc5 Qd6 10. Kb3+ Kb1 11. Rc1+ Kxc1 12. Qe1+ Rd1 13. Qc3+ Kb1 14. Qb2#) (6... Qd8 $144 7. Rc4 Qd5 8. Rc8 Qd7 (8... Kd1 9. Qg1+ Ke2 10. Re8+ Kf3 11. Qe3+ Kg4 12. Re4+ Kh3 13. Rh4+ Kg2 14. Qxd2+ $18) 9. Rc5 Qd6 10. Kb3+ $18) (6... f6 $144 $1 7. Ra4 Qc6+ (7... Qe5+ $144 8. Qxe5 Rc2+ 9. Kb3 fxe5 10. Rc4 $18) 8. Rc4 Qd5 9. Qe1+ Rd1 10. Qe2 Rd2 11. Kb3+ Kb1 12. Qe1+ Rd1 13. Qb4 Qe5 14. Ka4+ Qb2 15. gxf6 Rd7 16. Rf4 Ra7+ 17. Kb5 Rb7+ 18. Kc5 Rc7+ 19. Kd6 Rc3 20. f7 Rd3+ 21. Kc6 Rc3+ 22. Kb7 Rb3 23. f8=Q $18) 7. Ra4 Qc6+ 8. Rc4 Qd5 9. Rc8 Qd7 (9... Kd1 $144 10. Qg1+ Ke2 11. Re8+ Kf3 12. Qe3+ Kg4 13. Qf4+ Kh3 14. Rh8+ Kg2 15. Qxd2+ $18) 10. Rc5 Qd6 11. Kb3+ Kd1 12. Rc1+ Kxc1 13. Qe1+ Rd1 14. Qc3+ Kb1 15. Qb2# 1-0  

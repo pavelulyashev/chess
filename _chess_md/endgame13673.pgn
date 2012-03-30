@@ -1,0 +1,10 @@
+[Event "t001#333 {c} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5qpB/5P2/4B2N/8/p7/P2k4/K7 w - - 0 1"]
+
+ 1. fxg7 Qxh5 2. Bc3+ (2. Bf6 $2 Qh1+ 3. Bb1 Qc6 4. Be5 Qd5 5. Bf6 Qd6 6. Bc3+ Kxc3 7. g8=Q Qe5) 2... Kxc3 3. g8=Q Qd1+ 4. Bb1 Qd4 5. Qg1 Qh8 6. Qh1 Qf6 7. Qf1 Qg7 8. Qg1 Qe5 9. Qe1+ Qxe1 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "t001 @2 {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/1p6/8/1P6/5K2/8/8 w - - 0 1"]
+
+ 1. b5 $1 (1. Ke4 $2 b5) 1... Kb7 2. Ke4 (2. Kf4 $1 {cook JU}) 2... Kc7 3. Ke5 $1 (3. Kd5 $2 Kd7 4. Ke5 Ke7) 3... Kd7 4. Kd5 Kc7 5. Ke6 $1 Kb7 6. Kd6 (6. Kd7 {or}) 6... Kb8 7. Kc6 Ka7 8. Kc7 Ka8 9. Kxb6 Kb8 10. Ka6 Ka8 11. b6 Kb8 12. b7 Kc7 13. Ka7 1-0  

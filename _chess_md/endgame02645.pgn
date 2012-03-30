@@ -1,0 +1,10 @@
+[Event "ts21 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K1R5/2N1bb2/1k6/nP6/8/8/8/8 w - - 0 1"]
+
+ 1. Ne8 (1. Kb8 $143 Bd6 $19) (1. Re8 $143 Bd6 $1 $19) 1... Bd5+ 2. Kb8 Bg5 ( 2... Bh4 $144 3. Rc3 $11) 3. Rc7 $1 (3. Nc7 $143 Bf4 $19) (3. Nd6 $143 Bf4 4. Rd8 Nc4 $19) (3. Rc3 $143 Bf4+ 4. Nc7 (4. Rc7 $144 Be6 $19) (4. Kc8 $144 Be6+ 5. Kd8 Bg5+ $19) 4... Nc4 $19) 3... Bf4 (3... Be6 $144 4. Rg7 Bf4+ 5. Nc7 Bd6 6. Rg6 $1 Bxc7+ 7. Ka8 $11) 4. Kc8 Be6+ $1 5. Rd7 $1 (5. Kd8 $143 Bg5+ 6. Re7 Nb7#) 5... Nb7 (5... Bg5 $144 6. Nc7 Bh3 7. Nd5+ Kxb5 8. Kc7 $11) 6. Ng7 $1 (6. Nc7 $143 Bxd7+ 7. Kxd7 Bxc7 $19) (6. Nf6 $143 Bd6 7. Ne8 Be5 $19) 6... Nd6+ ( 6... Bg4 $144 7. Nf5 $1 Bxf5 (7... Nc5 $144 8. Rf7 $11)) 7. Kd8 Bg5+ 8. Re7 Bg4 9. Ne6 $1 Bxe6 $11 (9... Bf6 $144 10. Kd7 $11) 1/2-1/2  

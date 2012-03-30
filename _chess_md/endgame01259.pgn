@@ -1,0 +1,10 @@
+[Event "Modern Chess Endings {div. talen} {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Doluchanov A, Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2n2kp1/2b5/8/p1pnp2R/1R1N4/K2PPP2/8 w - - 0 1"]
+
+ 1. Ne5+ Ke6 (1... Kf6 $144 2. Ng4+ Kg5 3. Rbh3 Nf5 4. Ne5 Nxh4 5. Nxc6 $18) 2. Rb6 Kxe5 3. e3 Nf5 (3... Nd5 $144 4. exd4+ Kxd4 5. Rb8 $18) 4. Rxc6 Nd5 (4... Nxh4 $144 5. Rxc7 $18) 5. f4+ exf3 6. d4+ cxd3 7. Re4+ Kxe4 8. Re6# 1-0  

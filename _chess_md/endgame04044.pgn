@@ -1,0 +1,10 @@
+[Event "ts57#2729 @2 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K1k5/1N6/1p6/1BP1q3/8/8/3P4/8 w - - 0 1"]
+
+ 1. Nd6+ Kc7 2. Ne8+ (2. cxb6+ $2 2... Kxd6 3. b7 Qa1+ 4. Kb8 Qh8+ 5. Ka7 Kc7) 2... Kd8 3. c6 (3. d4 $1) 3... Qxb5 4. c7+ Ke7 5. c8=Q Qxe8 6. Qxe8+ Kxe8 7. Kb7 b5 8. Kc7 (8. Kc8 $2 8... Kf7 9. d4 Ke6 10. Kc7 Kd5) 8... b4 9. d4 b3 10. d5 b2 11. d6 b1=Q 12. d7+ Kf7 13. d8=Q 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "td23#1461 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Krieger E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/K2P4/3P4/1P1P4/b2p4/6r1/Q1n4r w - - 0 1"]
+
+ 1. Qc3 $1 (1. Qxa3 $2 Ra2) 1... Rc2 2. Qe1 $1 Rxe1 (2... Rc8 3. Qe7) (2... Rh8 3. Qe7) 3. d7 Re6+ 4. dxe6 Rc6+ 5. Kb5 Rd6 6. e7 1-0  

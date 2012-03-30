@@ -1,0 +1,10 @@
+[Event "sp Prize Gusev JT @2 {m}"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R7/P7/4r3/8/8/3K4/3p4/3k4 w - - 0 1"]
+
+ 1. Rb8 $1 (1. Rd8 $2 Ke1) 1... Rd6+ 2. Kc3 Rc6+ 3. Kb2 $1 Rc2+ 4. Kb3 Kc1 5. a8=Q (5. Rd8 $2 Rb2+ 6. Ka3 Kb1 7. Rb8 d1=Q 8. Rxb2+ Kc1 9. a8=Q Qf3+ 10. Qxf3) 5... Rb2+ $1 6. Ka3 d1=Q (6... Rxb8 7. Qxb8 d1=Q 8. Qb2#) 7. Qc6+ $1 (7. Rxb2 $2 Qf3+ $1 8. Qxf3) 7... Rc2 8. Qh6+ Rd2 (8... Qd2 9. Qh1+ Qd1 10. Rb1+) 9. Rc8+ (9. Rf8 $1 {cook}) (9. Rb3 $1 {cook} Qc2 10. Qe3) (9. Qe3 $1 {cook}) 9... Kb1 10. Qb6+ Ka1 11. Qf6+ Rd4 (11... Kb1 12. Rb8+ Kc1 13. Qc3+ Rc2 14. Qa1+) 12. Qxd4+ $1 Qxd4 13. Rc1# 1-0  

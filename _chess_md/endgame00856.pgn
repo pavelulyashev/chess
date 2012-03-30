@@ -1,0 +1,10 @@
+[Event "3rd hm-Alexander Hildebrand MT {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Jasik A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "q7/4P3/8/6pk/1Q1Bn1b1/8/2r3PK/3R4 w - - 0 1"]
+
+ 1. Qb7 (1. Qb3 $2 Rxg2+ 2. Kxg2 Nc5+ {-+}) (1. Rh1 $2 Nf6 2. Rg1 Nd5 3. Qa3 Qb8+ {-+}) 1... Qxb7 (1... Qe8 2. Qxe4 Bxd1 3. Qh7+ Kg4 4. Qe4+ Kh5 5. Qh7+ {=} ) (1... Rc8 $2 2. e8=Q+ Rxe8 3. Qh7#) 2. e8=Q+ Kh4 (2... Kh6 3. Qf8+ Kg6 4. Qg8+ Kf5 5. Rf1+ {=}) 3. Rh1 (3. Qh8+ $2 Bh5 4. Rh1 Kg4 5. Rg1 Qb3 6. Kh1 Ng3+ 7. Kh2 Nf1+ 8. Kh1 Qg3 9. Qe5 Qh4+ {-+}) 3... Ng3 4. Bf2 (4. Qh8+ $2 Bh5 5. Bf2 Rxf2 6. Kg1+ Kg4 {-+}) 4... Rxf2 (4... Bf5 5. Qe5 Rxf2 6. Qxg3+ Kh5 7. Qxf2 {=} ) 5. Kg1+ Nxh1 6. Qh8+ Bh5 (6... Kg3 $2 7. Qh2#) 7. Qxh5+ Kxh5 (7... Kg3 $2 8. Qxg5#) 8. g4+ {K-any stalemate} 1/2-1/2  

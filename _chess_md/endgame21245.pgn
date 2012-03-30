@@ -1,0 +1,10 @@
+[Event "4 Honorable Mention, World Cup 2010 {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Minski M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1P2P2k/4K3/3B4/8/q3b2P/3B4 w - - 0 0"]
+
+ 1. b7 $1 (1. Bxe2 $2 Qxe2+ 2. Kd5 Kg6 3. Bc5 Kf6 $19) 1... Bb5 $1 (1... Qa5+ 2. Ke4 $1 Qb4 3. Bxe2 Qxb7+ 4. Ke3 $11) 2. Be3+ $1 (2. Kf6 $2 Qxh2 3. Be3+ Kh7 4. Bc2+ Kg8 $19) 2... Kg6 (2... Kh7 3. b8=Q Qb2+ 4. Kd5 $1 Bc4+ 5. Kxc4 Qxb8 6. e7 Qc7+ 7. Bc5 $11) 3. Bc2+ Qxc2 4. b8=Q Qb2+ $1 5. Kd6 $1 Qxh2+ 6. Bf4 $1 Qxf4+ 7. Ke7 Qxb8 {stalemate} 1/2-1/2  

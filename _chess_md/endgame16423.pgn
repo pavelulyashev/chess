@@ -1,0 +1,10 @@
+[Event "1 Commendation ts23#19 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/p4N2/kP4N1/P1K5/3n4/8/8 w - - 0 1"]
+
+ 1. b6 Nb2+ (1... Kxb6 2. Kxd3 Ka5 3. Nd5 Kxa4 4. Kc4 a5 5. Ne4 Ka3 6. Kc3) ( 1... Ne5+ 2. Kc5 Nd3+ 3. Kc6) 2. Kb3 $1 Nxa4 3. Nge4 $1 Nxb6 4. Nd6 $1 Na8 ( 4... Nd5 5. Nc4+) (4... Nd7 5. Nc4+) (4... Na4 5. Nfe4 Nb6 6. Nd2) 5. Nd5 Nb6 6. Ne3 Na8 7. Nec4# 1-0  

@@ -1,0 +1,10 @@
+[Event "Pongracz - Vychod [4rd Pl] {m}"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Salai L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5RN1/8/6k1/5pP1/3K4/8/5r2/8 w - - 0 1"]
+
+ {Cooked by EV} 1. Nf6 Rf4+ (1... Kxg5 2. Ne4+) (1... Ra2 2. Rg8+ Kf7 3. Ke5 Re2+ (3... Ra5+ 4. Kf4) 4. Kxf5 Rf2+ 5. Ke5 Rxf6 6. gxf6 Kxg8 7. Ke6 Kf8 8. f7) (1... Re2 $3 2. Rg8+ (2. Kd3 Re6 3. Rg8+ Kf7 4. Ra8 Kg6) 2... Kf7 {cook, positional draw} 3. Kd5 Re1) 2. Ke5 (2. Ke3 {not given by author, probably positional draw} Ra4 (2... Rf1 3. Rg8+ Kf7 4. Kd4 Re1 5. Rh8 Rg1 6. Rh5 Kg6) ( 2... Kxg5 3. Nh7+ Kg4 4. Rg8+) 3. Rg8+ Kf7 4. Kf3 Rb4 5. Rh8 Kg6 6. Rh5 Ra4) 2... Kxg5 (2... Rf1 3. Rg8+ Kf7 4. g6+) 3. Rg8+ (3. Nh7+ Kg4 4. Rg8+ Kf3 5. Ng5+ Ke3) 3... Kh6 4. Rh8+ (4. Kxf4 $2) 4... Kg7 5. Rh7+ Kf8 6. Ke6 (6. Kxf4 $2 ) (6. Nd7+ Kg8 7. Nf6+ Kf8) 6... Rf1 7. Rf7# 1-0  

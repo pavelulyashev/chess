@@ -1,0 +1,10 @@
+[Event "3 Prize ml01 t001 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3R4/3P3r/5P2/8/8/4r2b/8/2K2k2 w - - 0 1"]
+
+ 1. Re8 $1 (1. f7 $2 Re1+ $1 2. Kd2 Rxf7) 1... Rc3+ 2. Kd2 Bxd7 3. f7 $1 (3. Re1+ $2 Kf2 4. Re2+ Kf3 5. f7 Rc8) 3... Rxf7 4. Re1+ Kf2 5. Re2+ Kf3 6. Re1 $1 Kf2 7. Re2+ Kf1 8. Re1+ Kf2 9. Re2+ Kf3 10. Re1 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "6 Prize wg08 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6N1/7p/5pk1/8/5P1P/P3PBPq/5K2 w - - 0 1"]
+
+ 1. f4+ $1 Kg6 $1 (1... Qxf4 2. Ne6+) (1... Kxf4 2. Bg1 Qg3 3. Nh5+) 2. e3 $1 Kxg7 3. a4 Qh1+ $1 4. Bg1 Kg6 $1 5. a5 Kh5 $1 6. a6 Kh4 $1 7. a7 h5 $1 8. a8=B $3 (8. a8=Q $2 Qxg2+ 9. Qxg2 (9. Kxg2)) 8... Kg3 $1 9. h4 $1 (9. Bb7 $2 h4 $1 10. Bc6 Qxg1+ 11. Kxg1) 9... Kg4 $1 10. Bc6 Kg3 11. Bf3 Kxh4 12. g3+ 1-0  

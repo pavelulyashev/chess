@@ -1,0 +1,10 @@
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/kP6/2n3P1/r5p1/8/3R4/4K3/8 w - - 0 1"]
+
+ 1. b8=Q+ (1. g7 Re5+) 1... Kxb8 (1... Nxb8 2. g7 Re5+ 3. Re3) 2. g7 Re5+ (2... Ne7 3. Re3) 3. Kf1 $3 (3. Kf2 $2 Re8 4. Rf3 Rc8 5. Rf7 Ne5 6. Rf8 Ng4+ 7. Kg3 Nh6 $11) 3... Re8 4. Rf3 $1 Rc8 $1 (4... Ne7 5. Re3) 5. Rf7 $3 {a vyhraje, napr.} g4 6. Kg1 {nebo} (6. Kg2 g3 7. Kxg3 Nd4 8. Rf8) 6... g3 7. Kg2 1-0  

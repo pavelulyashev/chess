@@ -1,0 +1,10 @@
+[Event "t001#387 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p3p3/K2PkP2/1P6/5b2/8/8/8 w - - 0 1"]
+
+ 1. f7 (1. b6 $2 axb6 2. f7 Bh6 $1) 1... Kxf7 $1 (1... Bh6 2. Kxa7 exd6 3. b6 Kxf7 4. b7) 2. b6 $1 axb6 3. d7 Bc7 4. Kb7 Bd8 5. Kc8 1-0  

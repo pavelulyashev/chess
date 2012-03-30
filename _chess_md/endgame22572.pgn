@@ -1,0 +1,10 @@
+[Event "o000 @3 {m}"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Duras O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/1pp2B2/4RK2/8/1k1p4/8 w - - 0 1"]
+
+ 1. Re2 Kc1 2. Bc2 Kxc2 3. Ke3 c4 (3... b4 $1 {cook} 4. Rxd2+ Kc3 $1 5. Rd1 Kc2 6. Rd5 b3 7. Rxc5+ Kd1) (3... Kc3 $1 {cook HC}) 4. Rxd2+ 1-0  

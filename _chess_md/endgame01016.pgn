@@ -1,0 +1,10 @@
+[Event "Unknown {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Costeff G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/7K/2P5/8/8/6pp/1R4nk w - - 0 1"]
+
+ 1. Ra1 $3 {Indian?} (1. Rd1 $2 d5 2. c6 d4 3. c7 d3 4. c8=Q d2 5. Rxd2 Nf3 6. Rd3 (6. Rd1+ g1=Q 7. Qc2 Qxd1 8. Qxd1+ Kg2 $11) 6... g1=Q 7. Rxf3 Qd1 8. Qc6 Qxf3 $1 9. Qxf3+ Kg1 $11) 1... d5 2. c6 d4 3. c7 d3 4. c8=B $1 d2 5. Bg4 d1=Q 6. Bxd1 (6. Rxd1 $2 {stalemate}) 6... Nh3 7. Bc2+ $1 Ng1 8. Bb1 $1 Nf3 9. Be4+ Ng1 10. Ra2 1-0  

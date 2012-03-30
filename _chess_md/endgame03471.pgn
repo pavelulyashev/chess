@@ -1,0 +1,10 @@
+[Event "Problemaz, Abdelwahed El Fassi Fihri MT {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Melnichuk A, Zhuk A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/5p1n/5p2/8/1P3K2/8/4k3/8 w - - 0 1"]
+
+1. Be4 $1 (1. Bg2 $2 Nf8 2. Bh3 Kd3 3. b5 Ng6+ 4. Kg3 Kc4 5. b6 Ne5 6. b7 Nc67. Bg2 Nb8 $11) (1. b5 $2 Nf8 $11) 1... f5 $1 (1... Ng5 2. Bf5 Nf3 3. b5 Nd4 4.b6 Nc6 5. b7 Kd2 6. Ke4 Kc3 7. Kd5 Nb8 8. Kd6 $18) 2. Bxf5 {After that move from a Database} (2. Kxf5 $2 Nf8 3. Ke5 Nd7+ 4. Kd4 Nb6 5. b5Kd2 6. Bd5 (6. Kc5 Na4+ 7. Kc4 Nb6+ $11) 6... f5 7. Be6 f4 8. Kc5 Na8 9. Bd5Nc7 10. b6 Nxd5 11. b7 Nc7 12. Kb6 f3 13. b8=Q f2 $11) 2... Nf6 3. Ke5 (3. b5$2 Nd5+ 4. Ke5 Nb6 5. Kd6 Kd2 6. Kc5 Na4+ 7. Kd4 Kc1 8. Kc4 Kb2 $11) 3... Ne84. Bd7 (4. b5 $2 f6+ 5. Kd4 Nd6 6. Bg4+ Kd2 7. b6 Nb7 8. Bc8 Nd8 9. Bf5 Nc6+10. Kc5 Nd8 11. Kd6 Nb7+ 12. Kc6 Na5+ 13. Kb5 Nb7 14. Be4 Nd8 15. Kc4 Ke3 16.Kd5 Kf4 17. Bg2 Ke3 18. Bh3 Kd3 19. Bc8 Kc3 20. Kd6 Kc4 21. Kc7 Kb5 $11) 4...Nc7 (4... f6+ 5. Kd5 Nc7+ 6. Kc6 Na6 7. Bg4+ Ke3 8. b5 $18) 5. Kd6 Na8 6. Kc5$1 {wins} (6. Kc6 $2 Kd3 7. b5 Kc4 8. Kb7 Kc5 9. Kxa8 Kb6 $11 {After the 2ndmove we have a position from the Database. I have nothing against such studies.My concern is what the author has achieved. This study is publishable but notawardable due to its content.}) 1-0

@@ -1,0 +1,10 @@
+[Event "t001#98 @3 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4n1P1/PpP5/1p6/3P2n1/KP2b3/P7/k7 w - - 0 1"]
+
+ 1. g8=Q (1. a7 $2 Nxc6 2. b4 Nxd4 3. a8=Q Bc1#) (1. c7 $2 Nf6 2. a7 Nc6 3. b4 Nxa7) 1... Nxg8 (1... Nxc6 $1 {cook NV} 2. b4 Nxd4 3. Qc8 Bd2 4. a7 Ne3 5. a8=Q Nec2+ 6. Qxc2 Nxc2+ 7. Kb3 Nd4+ 8. Ka3 Bc1#) 2. a7 Bd2 (2... Bc1+ $1 {cook SH} 3. Kb4 Ne3 4. a8=Q Nd5+ 5. Kxb5 Nc7+) 3. c7 (3. a8=Q $2 Ne3 4. b4 Nc2+ 5. Kb3 Nxd4+ 6. Ka3 Bc1#) 3... Ne3 4. c8=R $1 (4. c8=Q $2 Ne7 5. a8=Q Nc6 $1 6. Qcxc6 Nc2+ 7. Qxc2 Bb4+ 8. Kxb4) 4... Ne7 5. a8=Q Nc6 6. Rxc6 1-0  

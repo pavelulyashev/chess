@@ -1,0 +1,10 @@
+[Event "2 Prize ts70#1520 {v} {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K2k4/8/P7/r2P4/Pn6/6R1/Pb6/8 w - - 0 1"]
+
+ 1. Kb7 (1. Rb3 $2 Kc8 $1) 1... Nxa6 (1... Rxa6 2. Rb3) (1... Bd4 2. Rg8+ $1 Kd7 (2... Ke7 3. d6+ $1 Kxd6 4. Rg4 Kd5 5. Rxd4+ Kxd4 6. a7) 3. Rg4 Nc2 (3... Bc5 4. Rxb4 Bxb4 5. a7) 4. Rxd4 Nxd4 5. a7) 2. Kb6 Rxa4 3. Kb5 Rxa2 4. Rg2 $1 Ke7 ( 4... Nc5 5. Rg8+) (4... Nc7+ 5. Kc4) (4... Kc8 5. Kc4) 5. Re2+ $1 (5. Rc2 $2 Kd7 $1 6. Rh2 (6. Rc6 Nb8 7. Rc2 Ra7) 6... Nc5 $1) (5. Rd2 $2 Nc5 6. Kxc5 Ba3+) (5. Rh2 $2 Nc5 6. Rh7+ Kd6 7. Rh6+ Kxd5) 5... Kd7 6. Rc2 $1 (6. Rg2 $2 Nc5 $1) 6... Kd8 7. Rg2 $1 (7. Rh2 $2 Nc5 $1) (7. Rf2 $2 Nc5 8. Rf8+ Ke7) 7... Kc7 8. Rh2 $1 (8. Rc2+ $2 Kd7 $1) (8. Rf2 $2 Kd6) (8. Re2 $2 Nb4 $1 9. Rh2 Ba3) 8... Kd8 (8... Nc5 9. Rc2) (8... Nb4 9. Rh7+ Kd6 10. Kxb4) 9. Rg2 1/2-1/2  

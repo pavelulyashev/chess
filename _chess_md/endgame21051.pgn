@@ -1,0 +1,10 @@
+[Event "2 Commendation, MatPlus 2009 {m}"]
+[Site "?"]
+[Date "2009.03.17"]
+[Round "?"]
+[White "Mihajloski Z"]
+[Black "*"]
+[Result "*"]
+[FEN "7k/p1p2P1P/1p5q/8/2P2p2/1P2NPN1/KP6/8 w - - 0 0"]
+
+ 1. Ng4 Qg7 $1 (1... Qf8 2. Ne5 Kxh7 3. Nh5 $18) (1... Qd6 2. Ne4 Qb4 3. Ne5) 2. Ne4 $1 Qxf7 (2... Kxh7 3. Ng5+ Kg6 4. Ne6 Qxf7 5. Ne5+ $18) 3. Ng5 $1 Qf5 (3... Qg6 4. Ne5 $18) 4. Ne5 $1 (4. Nh6 $2 Qa5+ 5. Kb1 Qe1+ $11) 4... Kg7 5. Ka1 $3 ( 5. Nef7 $2 Qa5+ $11) (5. Ka3 $2 Qb1 6. b4 Qa1+ 7. Kb3 Qd1+ $11) (5. b4 $2 Qc2 6. Ka3 c5 $11) (5. c5 $2 Qc8 6. Nef7 Qa6+ $11) 5... c6 6. Ka2 Qxg5 (6... Kf6 7. h8=Q+ Kxg5 8. Qg7+ $18) 7. h8=Q+ Kxh8 8. Nf7+ Kg7 9. Nxg5 $18 *  

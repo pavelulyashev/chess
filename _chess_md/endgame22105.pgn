@@ -1,0 +1,10 @@
+[Event "ts23#18 @2 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4r3/B3Pp2/7k/2N2P2/8/5pr1/8/5K2 w - - 0 1"]
+
+ 1. Ne4 $1 (1. f6 $2 Rg2 2. Ne4 Kg6 3. Nd6 Rh8) (1. Kf2 $2 Rh3 2. f6 Kg6 3. Ne4 Ra8 4. Nd6 Rxa7 5. e8=Q Ra2+ 6. Ke3 Re2+) 1... Rxe7 2. Be3+ Kh7 3. Nf6+ Kg7 ( 3... Kh8 4. Bd4) 4. Nh5+ Kg8 5. Nf6+ Kf8 6. Bh6+ (6. Bc5 $1 {cook} Rg2 7. Nd5 Rge2 8. f6) 6... Rg7 7. Bf4 $1 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tt22#3106 @3 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/r3P3/1Nb2P2/2N5/8/2P1p3/8/2B2Kbk w - - 0 1"]
+
+ 1. f7 Bb5+ 2. c4 Bxc4+ 3. Nxc4 e2+ 4. Ke1 $1 Bf2+ $1 5. Kxf2 e1=Q+ $1 (5... Rxe7 6. Ne5 $1 Rxe5 7. Ne4 $1 Rxe4 (7... Rf5+ $1 {cook MC} 8. Kxe2 Rxf7) 8. Ke1 $1) 6. Kxe1 Rxe7+ 7. Ne5 $1 Rxe5+ 8. Ne4 $1 Rxe4+ (8... Rf5 9. Ng3+) 9. Be3 $1 (9. Kf2 $2 Rf4+ $1 10. Bxf4) (9. Kd1 $2 Rd4+) 9... Rxe3+ 10. Kf2 Re4 11. f8=R $1 (11. f8=Q $2 Rf4+ 12. Qxf4) 11... Rh4 12. Kg3 1-0  

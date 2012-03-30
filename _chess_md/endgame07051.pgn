@@ -1,0 +1,10 @@
+[Event "tm09 {c} {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Lasker Em"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R2Qn3/p2b4/k1qp4/2pp4/1r1P4/3PB3/3K4/1R6 w - - 0 1"]
+
+ 1. Ra1+ Ra4 2. dxc5 Rxa1 (2... d4 3. Rxa4+ Qxa4 4. Qb6#) 3. Rxa7+ Kxa7 4. Qxd7+ Qxd7 5. c6+ Ka6 6. cxd7 1-0  

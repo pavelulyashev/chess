@@ -1,0 +1,10 @@
+[Event "tp18 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Smyslov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5P2/8/2k2p1p/2B1p2P/6P1/2b2K2 w - - 0 1"]
+
+ 1. f7 Ba3 2. Bg7 (2. Bf6 $2 Kd3 3. Bxh4 Bc5 $1) 2... f3 $1 3. gxf3 (3. f8=Q $2 Bxf8 4. Bxf8 e2+ 5. Kf2 fxg2) 3... Kd3 4. f8=B $3 (4. f8=Q $2 e2+ 5. Kf2 Bc5+ 6. Qxc5 e1=Q+ 7. Kxe1) 4... e2+ 5. Kf2 e1=Q+ 6. Kxe1 Ke3 7. f4 $1 (7. Bxa3 $2 Kxf3) 7... Kxf4 8. Kf2 Bc1 9. Bh6+ 1-0  

@@ -1,0 +1,10 @@
+[Event "2 Prize tm04#1635 {tw} {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k2/8/8/5q2/8/2Q5/1pKpR3/8 w - - 0 1"]
+
+ 1. Kxb2 (1. Kxd2 $2 Qg5+ $1 (1... b1=N+ $2 2. Ke1 Nxc3 3. Rf2) 2. Re3 b1=N+) 1... d1=N+ 2. Ka1 (2. Kc1 $2 Nxc3 3. Rf2 Ne2+ (3... Na2+ $2 4. Kd1 Qxf2)) 2... Nxc3 3. Rf2 Qxf2 1/2-1/2  

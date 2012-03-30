@@ -1,0 +1,10 @@
+[Event "ts23 (@2) {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4r3/7k/B7/B2b3K/6N1/8/8/8 w - - 0 1"]
+
+ 1. Nf6+ (1. Bd3+ $2 Kg7 2. Bc3+ Kf8 3. Bb4+ Kg7) 1... Kh8 2. Nxe8 $1 (2. Nxd5 $2 Re5+ 3. Kg6 Re6+ (3... Rxd5 $2 4. Bc3+ Kg8 5. Bc4) 4. Kf7 Rxa6) 2... Bf7+ 3. Kh6 Bxe8 4. Bd3 $1 (4. Bc4 $2 Bf7 $1 5. Bxf7) (4. Bb4 $1 {cook JB} Kg8 5. Bd3) 4... Kg8 5. Bb4 Kh8 6. Bh7 1-0  

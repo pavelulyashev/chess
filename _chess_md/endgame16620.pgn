@@ -1,0 +1,10 @@
+[Event "ts20#371 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p1p2p1/1P6/P2PRp2/k7/7K/7P/6r1 w - - 0 1"]
+
+ 1. a6 bxa6 (1... Rg6 2. Re3) 2. b7 Rb1 3. Re1 Rb3+ $1 (3... Rxb7 4. Ra1+ Kb3 5. Rb1+) 4. Kg2 $1 (4. Kh4 $2 Rb4+ $1 5. Kh3 Ka3 $1) 4... Ka3 $1 5. Re3 $1 Rxe3 6. b8=Q 1-0  

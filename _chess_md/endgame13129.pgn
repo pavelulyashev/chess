@@ -1,0 +1,10 @@
+[Event "tb10 @1 {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Kosek V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/8/8/3K4/p2B4/8/P5rp/7k w - - 0 1"]
+
+ 1. Bb7 (1. Kc4 $1 {cook} a3 2. Be5 Kg1 3. Bxg2 Kxg2 4. Bxh2 Kxh2 5. Kb3 Kg3 6. Kxa3 Kf4 7. Kb4 Ke5 8. Kc5 Ke6 9. Kc6 Ke7 10. Kc7) 1... a3 (1... Rxa2 2. Ke5+ Rg2 3. Kf5 a3 4. Kf4 a2 5. Kf3 a1=Q 6. Bxa1 Rd2 7. Bd4 $1 Rg2 8. Be4) (1... Rd2 2. Ke5+ Rg2 3. Kf4 a3 4. Kf3 Rb2 5. Be4 Rg2 6. Be3) 2. Ke4 Rb2 (2... Rg4+ 3. Kf3) (2... Re2+ 3. Kf4+ Rg2 4. Kf3) (2... Rf2 3. Bxf2 Kg2 4. Ke3+ Kf1 5. Bg3 Kg1 6. Bxh2+) 3. Bxb2 axb2 4. Kd3+ Kg1 5. Kc2 1-0  

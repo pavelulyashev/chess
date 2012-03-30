@@ -1,0 +1,10 @@
+[Event "Problemaz, Abdelwahed El Fassi Fihri MT {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Akobia Y, Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/8/7p/1P1r1p2/8/1Rp5/8/K7 w - - 0 1"]
+
+1. Kb1 $1 (1. Rxc3 $2 Rxb5 2. Ka2 Kb7 3. Ka3 h5 4. Ka4 Rd5 5. Kb4 h4 6. Rc4 (6.Kc4 Kc6 7. Rh3 Kd6 $19) 6... h3 7. Rh4 (7. Rc3 Rd4+ $19) 7... Kc6 8. Rxh3 Kd69. Kc4 (9. Re3 Re5 $19) 9... Ke5 10. Re3+ Kf4 $19) 1... Rc5 2. Kc2 (2. b6 $2c2+ 3. Kc1 Kb7 4. Rb4 h5 $19) (2. Kc1 $2 Kb7 3. Kc2 Kb6 4. Rb4 h5 $19) 2... Kb73. b6 (3. Rb1 $2 Kb6 4. Rb4 h5 $19) 3... Rc4 (3... h5 4. Rb4 $11 (4. Rb1 $11))(3... f4 4. Rb4 $11 (4. Rb1 $11)) 4. Rb1 $1 ({Thematic try} 4. Rb5 $2 f4 {zz WTM} 5. Rb1 h5 6. Rh1 (6. Rb5 $2 h4 $19) 6... Kxb6 7. Rxh5 Kc6 $19) 4... f45. Rb5 {zz BTM} h5 6. Rxh5 Kxb6 7. Rh8 {zz BTM} ({Thematic try} 7. Rh3 $2 Kb5 {zz WTM} 8. Rf3 (8. Rxc3 f3 9. Rxc4 Kxc4 10. Kd2 Kd4 11. Ke1 Ke3 12. Kf1 f2 $19)8... Kb4 {zz WTM} 9. Rd3 Kc5 {zz WTM} 10. Rd8 Rd4 11. Rf8 Kc4 12. Rc8+ Kd5 13.Kxc3 Re4 14. Kd2 Re3 $19) (7. Rd5 $2 Kc6 $1 8. Rd8 Kb5 9. Rh8 Kb4 10. Rh3 Rc511. Rd3 Rc6 12. Rd4+ Rc4 13. Rd3 Kc5 {transposes;}) ({Thematic try} 7. Rh7 $2Kc6 $1 (7... Kb5 $2 8. Rh3 {zz BTM =;}) (7... Kc5 $2 8. Kb3 $1 Kd5 9. Rh5+ Kd410. Rh4 Kd5 11. Rh5+ {positional draw}) 8. Rh5 Kd6 9. Rf5 Ke6 $19) 7... Kb5 (7... Kc7 8. Rh6 $11) 8. Rh3 {zz BTM} Kb4 9. Rf3 {zz BTM} Kc5 10. Rd3 {zz BTM}Kb5 11. Rh3 ({Thematic try} 11. Rf3 Kb4 {zz WTM -+}) 11... Kb4 12. Rf3 Kc5 13.Rd3 {positional draw. A R-study with mutual zugswang, thematic tries andpositional draw and with rather not very nice play. Nice reworking of aposition from the DB that arises after the 6th move.} 1/2-1/2

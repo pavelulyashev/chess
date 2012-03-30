@@ -1,0 +1,10 @@
+[Event "te01#024 {c} (@2) {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Roxlau M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "Bb2K3/1P6/8/6P1/1pr3Pk/1p2p3/1P2P1P1/7N w - - 0 1"]
+
+ 1. g6 Rc7 $1 (1... Rxg4 2. Kf7 Rf4+ 3. Ke6 Rg4 4. Kf7) 2. Kf8 Rd7 3. g7 Bd6+ 4. Kg8 Kxg4 $1 (4... Be5 5. Kf8 Bd6+) (4... Kg5 5. Kh8 Kh4 6. Kg8) 5. Kh8 $1 (5. Kh7 $2 Kg5) (5. g3 $2 Kg5) 5... Kh4 $1 (5... Kh5 6. g4+ Kh4 7. Kh7 Kg5 8. Kh8) (5... Kf4 6. g3+ Kf5 7. g4+ Kf4 8. Kh7 Kg5 9. Kh8) 6. g3+ $1 (6. Kh7 $2 Kg5) ( 6. g8=Q $2 Be5+) (6. g4 $2 Be5 7. b8=Q Bxb8 8. Bc6 Ra7 9. Kh7 Be5) 6... Kh3 $1 (6... Kh5 7. g4+) 7. Kh7 $1 (7. g4 $2 Be5 8. g5 Bxg7+) (7. Kg8 $2 Bb8 8. Kf8 Kg2 9. g8=Q Rd8+ 10. Kf7 Rxg8 11. Kxg8 Kf1) 7... Bb8 $1 (7... Be5 $2 8. b8=Q Bxb8 9. Bd5 Kh2 10. Kg6) 8. g4 $1 (8. Kg6 $2 Rd8 9. Kf7 Kg2 10. g4 Kf1 11. Ng3+ Bxg3 12. b8=Q Bxb8 13. Bf3 Be5) 8... Kxg4 (8... Kg2 9. g5 Kf1 10. g6 Be5 11. b8=Q Bxb8 12. Bc6 Ra7 13. Bd5 Kxe2 14. Bf7 Ra1 15. Bd5) 9. Kg6 Rd8 10. Kf7 (10. Kf6 $1 {minor dual MC} Kh3 11. Ke7) 10... Kh3 11. Ke7 $1 (11. g8=Q $2 Rxg8 12. Kxg8 Kg2 13. Kf7 Kf1 14. Ng3+ Bxg3 15. b8=Q Bxb8 16. Bf3 Be5) 11... Rg8 12. Kf7 Rxg7+ 13. Kxg7 Kg2 14. Kf6 Kf1 (14... Kxh1 15. Kf5 Kg2 16. Ke4 Kf2 17. Kd3 Be5 18. b8=Q Bxb8 19. Bf3) 15. Ng3+ $1 (15. Kf5 $2 Kxe2 16. Kg4 Kd2 17. Ng3 e2 18. Nxe2 Kxe2 19. Kf5 Kd3 20. Ke6 Kc2 21. Kd7 Kxb2 22. Kc8 Be5) 15... Bxg3 16. b8=Q Bxb8 17. Bf3 Ke1 18. Ke6 $1 (18. Kf5 $2 Kd2 19. Ke4 Kc2 20. Kxe3 Kxb2 21. Kd3 Ka1 22. Kc4 b2 23. Be4 Bd6) 18... Kd2 19. Kd5 Kc2 20. Kc5 (20. Kc4 $1 { minor dual MC} Bd6 (20... Kxb2 21. Kxb4) 21. Bd5 Kxb2 22. Kd3 Ka3 23. Bc4 b2 24. Kc2) 20... Kxb2 21. Kxb4 Bd6+ 22. Ka4 {eg} Kc3 23. Bd5 b2 24. Be4 Kd2 25. Kb3 Kc1 26. Ka2 1/2-1/2  

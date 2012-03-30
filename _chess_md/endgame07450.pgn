@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/1r4P1/7P/7k/8/8/6r1/K7 w - - 0 1"]
+
+ 1. h7 Rg1+ (1... Ra7+ 2. Kb1 Rb7+ 3. Kc1 Rc7+ 4. Kd1 Rd7+ 5. Ke1 Re7+ 6. Kf1 Rg1+ $1 7. Kf2 $1 Rg2+ 8. Kf3 Rg3+ 9. Kf4 Rg4+ 10. Kf5 Rg5+ 11. Kf6 Rg6+ 12. Kxe7 Rxg7+ 13. Rf7 Kg6 14. h8=Q) 2. Ka2 Rg2+ 3. Ka3 Rg3+ 4. Ka4 Rg4+ 5. Ka5 Rg5+ 6. Ka6 Rg6+ 7. Rf6 $1 Ra7+ $1 8. Kb6 $1 Rb7+ 9. Kc6 Rc7+ 10. Kd6 Rd7+ 11. Ke6 Re7+ 12. Kxe7 $1 Rxg7+ 13. Rf7 Kg6 14. h8=Q 1-0  

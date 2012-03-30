@@ -1,0 +1,10 @@
+[Event "tb25 {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/8/3p1K2/8/7P/1B1np3/4p2B/8 w - - 0 1"]
+
+ 1. Bg3 $1 (1. Bxd6+ $2 Ka7 2. Bg3 Nf2) 1... Nf2 (1... Kc7 2. Bc4 $1 e1=Q 3. Bxe1 Nxe1 4. h5 d5 5. Bf1 d4 6. h6 d3 7. h7 e2 8. Bxe2 dxe2 9. h8=Q Nc2 (9... Nf3 10. Qh7+ Kb6 11. Qb1+ Kc5 12. Qc2+) 10. Qh2+) (1... e1=Q 2. Bxe1 Nxe1 3. Bc4 $1 d5 $1 4. Bb5 $1 (4. h5 $2 dxc4 5. h6 Nf3 6. h7 e2 7. h8=Q+ Ka7 8. Qh7+ Ka6) (4. Bf1 $2 d4 5. h5 d3 6. h6 e2 7. Bxe2 dxe2 8. h7 Nd3 9. h8=Q+ Ka7 10. Qh7+ Kb6 $1) (4. Be2 $2 d4 5. h5 d3 6. h6 dxe2 7. h7 Nf3 8. h8=Q+ Ka7 9. Qh7+ Kb6 $1) 4... d4 5. h5 d3 6. h6 e2 7. h7 Nf3 8. h8=Q+ Kc7 (8... Ka7 9. Qd8 e1=Q 10. Qc7+ Ka8 11. Bc6#) 9. Qe8 $1 e1=Q 10. Qc6+ Kb8 11. Qd6+ Kb7 12. Bc6+ Kb6 13. Bd7+ Ka5 (13... Kb7 14. Qc6+ Ka7 15. Qc5+ Kb7 16. Bc6+ Kc7 17. Be4+ $1 Kd8 18. Qb6+ Kd7 19. Qa7+ Kd6 20. Qe7#) 14. Qc5+ Ka6 15. Bc8#) 2. Bxd6+ Ka7 $1 ( 2... Kb7 3. Bd5+ Kb6 4. Bb4 Nd3 (4... Kb5 5. Bc3 Kc5 6. Bf3 Kc4 7. Ba5 Kb5 8. Bxe2+) 5. Bc3 Kc5 6. Bf3 Kc4 7. Ba5 e1=Q 8. Bxe1 Nxe1 9. Be2+ Kc3 10. h5 Kd2 11. Bg4) (2... Kc8 3. Be6+ Kd8 4. Bb4 Ne4+ 5. Kf7 $1 Nd2 6. Ba5#) 3. Bc5+ $1 Kb8 (3... Ka6 4. Bc4+) 4. Bb4 Ne4+ 5. Kg6 Nd2 6. Bd6+ Ka7 7. Bg3 Nf1 8. Be1 1-0  

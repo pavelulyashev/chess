@@ -1,0 +1,10 @@
+[Event "1 Prize, tm71 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K6/3Nn1b1/2k5/B7/8/3P4/5n2/8 w - - 0 1"]
+
+ 1. Nb6 (1. Be1 $2 Nxd3) 1... Kb5 2. Bd2 (2. Be1 $2 Nxd3 3. Bh4 Nc6+ 4. Kc7 Be5+ 5. Kb7 Na5+ 6. Ka7 Bd4 7. Bd8 Nc4) 2... Kxb6 (2... Nc6+ 3. Kb7 Na5+ 4. Bxa5) 3. Be3+ Ka6 4. Bxf2 Be5+ 5. Ka8 Nd5 6. Bg1 (6. d4 $2 Nb6#) (6. Ba7 $2 Nc7+ 7. Kb8 Nb5+) (6. Bc5 $2 Nc7+ 7. Kb8 Ne6+) 6... Bg3 7. Bd4 Nc7+ (7... Bh2 {main} 8. Bf2 Be5 9. Bg1 Bg3 10. Bd4) 8. Kb8 Nb5+ 9. Ka8 Nxd4 1/2-1/2  

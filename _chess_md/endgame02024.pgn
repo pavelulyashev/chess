@@ -1,0 +1,10 @@
+[Event "Deutsches Wochenschach {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Behting C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/p5b1/8/3N4/r7/p4PnR/k1K2B2 w - - 0 1"]
+
+ 1. Rh3 $3 Rxh3 {critical move} (1... Ra4 2. Nb3#) 2. f3 $1 (2. Bd3 $2 Rh1+ $19) 2... Rxf3 3. Bd3 $1 {Nowotny} Rxd3 (3... Bxd3 4. Nb3#) 4. Nc2# 1-0  

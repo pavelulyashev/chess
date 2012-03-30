@@ -1,0 +1,10 @@
+[Event "3 HM, Moscow tourney {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2Kp4/p7/Pk6/1p4p1/1P6/5PP1/8 w - - 0 1"]
+
+ 1. Kd6 $1 Kxa5 2. Kc5 d6+ $1 3. Kc6 d5 4. Kc5 $1 d4 5. Kxd4 Kb5 6. f4 gxf3 7. gxf3 a5 8. f4 a4 9. bxa4+ Kxa4 10. f5 b3 11. Kc3 Ka3 12. f6 b2 13. f7 b1=Q 14. f8=Q+ Ka2 (14... Ka4 15. Qa8+ Kb5 16. Qb7+) 15. Qa8# 1-0  

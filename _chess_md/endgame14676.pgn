@@ -1,0 +1,10 @@
+[Event "td23 {cr} @1 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Cohn E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3p4/8/8/1kP5/p2K4/4R3 w - - 0 1"]
+
+ 1. Ra1 $1 (1. c4 $1 {cook}) (1. Kd3 $2 Kb2 2. Kd4 a1=Q 3. Rxa1 Kxa1 4. Kd5 Kb2 5. c4 Kb3) 1... Kb2 (1... d5 2. Kc1 $1) 2. c4 Kxa1 3. Kc1 $1 d5 4. c5 d4 5. c6 d3 6. c7 d2+ 7. Kxd2 Kb2 8. c8=Q a1=Q 9. Qc3+ Ka2 10. Qc4+ Ka3 11. Qa6+ Kb2 12. Qb5+ Ka3 13. Qa5+ Kb2 14. Qb4+ Ka2 15. Kc2 1-0  

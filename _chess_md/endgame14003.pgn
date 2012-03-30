@@ -1,0 +1,10 @@
+[Event "4 Honorable Mention tc06#076 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Bn4b1/p6p/2p5/1P4P1/7p/4P3/PP2P3/4K2k w - - 0 1"]
+
+ 1. bxc6 (1. Kf2 $2 Bd5 $1 2. bxc6 (2. Bb7 Bg2) 2... Bxc6) 1... Nxc6 2. Kf2 $1 ( 2. Bxc6+ $2 Kg1 $1 3. a4 (3. Bd7 Bxa2 4. Bf5 Bg8 5. e4 Kg2 6. e5 h3 7. e6 h2 8. Be4+ Kg1 9. e7 Bf7) 3... h3 4. b4 h2 5. b5 Be6 6. a5 Bh3 7. b6 axb6 8. axb6 Bg2 9. b7 h1=Q) 2... Bd5 (2... Bxa2 3. Bxc6+ Kh2 4. Be4 Bg8 5. Bf5) 3. e4 $1 Bxe4 4. b4 Bd5 (4... a6 5. a4) 5. e4 $1 Bxe4 6. b5 Nd4 (6... Kh2 7. bxc6 Bf5 8. Bb7 Kh3 9. Kf3) 7. Bxe4+ Kh2 8. a4 1-0  

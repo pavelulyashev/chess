@@ -1,0 +1,10 @@
+[Event "Die Schwalbe {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Rinder G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6K1/R2B2b1/5k2/2n2P2/1p3B2/1p5b/8 w - - 0 1"]
+
+ 1. Bb8 (1. Be5 $143 Bxf4 $11) (1. Bc7 $143 Nd6 2. Rxd6 Kxf4 3. Kxg6 Kxf3 4. Rd3+ Ke4 5. Rxb3 Bxc7 $11) 1... Nd6 $1 {Nowotny} 2. Rxd6 (2. Bxd6 $143 b1=Q 3. Bc7 Qb2+ 4. Be5 Qxe5+ 5. fxe5 $11) 2... Kxf4 3. Kxg6 (3. Rb6+ $143 Ke3 4. Rxb3+ Bd3 5. Ba7+ Kxf3 6. Rxd3+ Ke2 7. Rb3 Be5+ 8. Kg6 Kd2 $11) 3... b1=Q+ (3... Kxf3 $144 4. Rd3+ Ke4 5. Rxb3) (3... Ke3 $144 4. Rd1 Bxb8 5. Bd5 $18) 4. Rd3# 1-0  

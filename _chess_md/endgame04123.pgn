@@ -1,0 +1,10 @@
+[Event "tz03 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K1n2N/8/3r1P2/8/8/8/4N1p1/6Bk w - - 0 1"]
+
+ 1. f7 Rc6+ 2. Kb8 Rc8+ (2... Nf6 3. Kb7 Nd7 4. Kxc6 Ne5+ 5. Kb7 Nxf7 6. Ng6 Ng5 7. Ne5 Nf3 8. Ng4 Nxg1 9. Ng3#) 3. Kxc8 Nd6+ 4. Kb8 $3 4... Nxf7 5. Ng6 (5. Nxf7 $2) 5... Ng5 (5... Ne5 6. Ngf4 Nf3 7. Nh3 Nxg1 8. Nhxg1 Kh2 9. Kc7 Kh1 10. Kd6 Kh2 11. Ke5 Kh1 12. Kf4 Kh2 13. Nf3+ Kh1 (13... Kh3 14. Neg1#) 14. Ng3#) 6. Ne5 (6. Ngf4 $2 6... Nh3 7. Nxh3) (6. Nh4 $2 6... Nf3 7. Nxf3) 6... Nf3 7. Ng4 Nxg1 (7... Ne5 8. Nf2#) 8. Ng3# 1-0  

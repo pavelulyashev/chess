@@ -1,0 +1,10 @@
+[Event "ts10#09460 @2 @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kitsigin V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4K3/b6p/Pr5k/R7/6P1/4P1p1/8 w - - 0 1"]
+
+ 1. Kf6 $1 Rf5+ 2. Kxf5 Bc8+ 3. Kf6 Bg4 4. Ra1 Bxe2 (4... Bf3 5. exf3 g1=Q 6. g4+ $1) 5. a6 (5. Rg1 $1 {cook} Bf3 6. Kf5) 5... Bxa6 (5... Bg4 6. a7 Bf3 7. Ra4 $1 Bg4 8. a8=Q g1=Q 9. Qe8#) (5... Kg4 $1 {cook JU} 6. a7 Bf3) 6. Ra4 $1 Bc4 7. Rxc4 g1=Q 8. Rh4# 1-0  

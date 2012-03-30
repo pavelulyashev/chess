@@ -1,0 +1,10 @@
+[Event "ts17#008 (@2) {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Planck E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6kP/3NB2n/3p3K/5p2/4p3/8/8 w - - 0 1"]
+
+ 1. h8=Q+ Kxh8 2. Kxh6 e2 (2... f3 3. Nc8 f2 4. Ne7 f1=Q 5. Ng6#) (2... d4 3. Nc8 d3 4. Ne7 d2 5. Ng6#) 3. Nf7+ Kg8 4. Ng5+ (4. Ne5+ $1 {minor dual JU}) 4... Kf8 5. Nf3 1-0  

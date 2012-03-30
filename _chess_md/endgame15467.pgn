@@ -1,0 +1,10 @@
+[Event "te03 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Bondar I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/1P6/k7/4r3/3N4/p7/4p1N1/8 w - - 0 1"]
+
+ 1. b8=N+ Ka5 2. Nbc6+ Ka4 3. Nxe5 a2 4. Nc2 Kb3 5. Nge1 Kb2 6. N5d3+ Kb1 7. Na3+ Ka1 8. Nec2# 1-0  

@@ -1,0 +1,10 @@
+[Event "1 Prize tr21 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4n3/4P1Bp/N2p3K/p1P1p3/4k3/5p2/8/8 w - - 0 1"]
+
+ 1. Nc7 (1. c6 $2 f2 $19) (1. cxd6 $2 Nxd6 $19) 1... dxc5 $5 (1... f2 2. Nxe8 f1=Q 3. Nxd6+ Kd5 4. e8=Q Qh3+ 5. Kg5 Qg3+ 6. Kf6 $1 Qh4+ 7. Kf7 Qh5+ 8. Ke7 Qxe8+ 9. Nxe8 a4 10. Nf6+ Kxc5 11. Ke6 Kc4 12. Kxe5 a3 13. Nxh7 $18) (1... Nxc7 $6 2. cxd6 f2 3. dxc7 f1=Q 4. c8=Q (4. e8=Q $2 Qc1+ 5. Kxh7 Qxc7) 4... Qf4+ 5. Kxh7 (5. Kh5 $2 Qf7+) 5... Qh4+ 6. Kg6 Qxe7 7. Bf8 Qa7 (7... Qh4 8. Qc4+) 8. Bc5 $18) 2. Nxe8 f2 3. Nd6+ Kd5 4. e8=Q f1=Q 5. Qxe5+ Kc6 6. Kxh7 Qh3+ 7. Kg6 Qg4+ 8. Kf6 $1 $18 1-0  

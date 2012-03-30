@@ -1,0 +1,10 @@
+[Event "ts67#820 @3 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7p/2Pr2P1/pp1p3k/b4P1P/2P1K3/6B1/8 w - - 0 1"]
+
+ 1. Bxd5 $1 (1. g7 $2 Bb3 $1 2. g8=Q d4+ 3. cxd4 Bxg8 4. d5 Rd8 5. c7 Rc8 6. d6 Be6) (1. gxh7 $2 Rd8 2. c7 Re8+) 1... Rxg6 (1... Rxd5 2. c7 Rc5 3. gxh7 Rxc3+ 4. Kd4 Rxc7 5. h8=Q+ Kg4 6. Qg8+ Kf3 7. f5 Rc4+ 8. Qxc4 $1) (1... Rd8 2. g7) ( 1... b4 2. c7 Bd7 3. g7 Rg6 4. Bf7 $1 Kh6 5. Bxg6 Kxg7 6. cxb4 Kxg6 7. bxa5 Bc8 8. Kd4) (1... Bc2 2. c7 Bf5 3. g7) (1... Rxc6 $1 {cook} 2. Bxc6 hxg6 3. c4 bxc4 4. Bxa4 Kxh4 5. Be8 Kg4 $1) 2. c7 Rg3+ 3. Bf3+ Rxf3+ 4. Kxf3 Bd1+ 5. Ke4 Bg4 6. f5 1-0  

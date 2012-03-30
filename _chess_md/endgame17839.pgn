@@ -1,0 +1,10 @@
+[Event "tc06#11 {c} {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Grzeban G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/p7/KP4p1/B5P1/6P1/7p/4N3/5rr1 w - - 0 1"]
+
+ 1. b7+ (1. Nxg1 $2 axb6 $1 2. Nxh3 bxa5 3. Kxa5 Rf3 4. Ng1 Rg3) 1... Kb8 2. Nxg1 (2. Bc3 $2 Ra1+ 3. Kb5 Rgb1+ 4. Kc5 Rc1) 2... h2 (2... Rxg1 3. Bc3 Rc1 4. Be5+) 3. Bc3 Re1 (3... Rf7 4. Be5+ Rc7 5. Bxh2 (5. Bxc7+ $2 Kxc7 6. Kxa7 hxg1=Q+)) 4. Ne2 (4. Bxe1 $2 hxg1=Q) 4... Rxe2 5. Be5+ Rxe5 1/2-1/2  

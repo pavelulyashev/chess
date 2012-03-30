@@ -1,0 +1,10 @@
+[Event "t001 {c} {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Birnov Z"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7p/8/1B6/5K2/3R4/4k1r1/8 w - - 0 1"]
+
+ 1. Ra3+ Kf2 2. Ra2+ Kg1 3. Ra1+ Kh2 (3... Kf2 4. Rf1#) 4. Bc6 Rf2+ 5. Bf3 Kh3 6. Ra5 Kh2 7. Rh5+ Kg1 8. Rh1# 1-0  

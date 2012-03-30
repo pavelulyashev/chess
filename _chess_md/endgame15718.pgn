@@ -1,0 +1,10 @@
+[Event "us93#0040 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1K6/N2p1R2/3n4/5p2/PNb5/4k3 w - - 0 1"]
+
+ 1. Re5+ Ne2 (1... Be4 2. Nd3+ Kd1 (2... Kd2 3. Nf2 Ke3 4. Nxe4 dxe4 5. Nc4+ Kf4 (5... Kd3 6. Nb2+ Ke3 7. Kc5 Nc2 8. Re7) 6. Kc5 Nc2 7. Kd5 Nb4+ 8. Ke6 Nxa2 9. Rf5+ Kg3 10. Kd5 Nc3+ 11. Kd4 Nd1 12. Kxe4) (2... Kf1 3. Nf4 f2 4. Nc4 Nf3 5. Ne3+ Ke1 6. Re8 f1=Q (6... Kd2 7. Nf1+ Ke1 8. Nxd5 Kxf1 9. Rxe4) 7. Nxf1 Kxf1 8. a4) 3. Nf2+ Ke2 (3... Ke1 4. Nxe4 dxe4 5. Rxe4+ Ne2 6. Nc4 f2 7. Ne3 Nc3 8. Re8 f1=Q 9. Nxf1+) (3... Kd2 4. Nc4+ Ke2 5. Nxe4 dxe4 6. Rxe4+) (3... Kc2 4. Nb3 Ne2 5. Nc5 Kd2 6. Nfxe4+) 4. Nxe4 dxe4 5. Rxe4+ Kd3 6. Rf4 Ke3 7. Rf6 f2 8. Kc5) (1... Kf2 2. Rxd5) (1... Kd2 2. Rxd5 Kc3 3. Nac4) 2. Rxd5 f2 (2... Nc3 3. Re5+ Be4 (3... Ne4 4. Nac4 f2 5. Ne3) 4. Nd3+ Kf1 5. Nc5 Bc2 6. Nc4) (2... Ng3 3. Nac4 f2 (3... Be4 4. Rd1+) 4. Nd2 Ne4 5. Nf3+ Kf1 6. Nc4) 3. Nac4 (3. Nb3 $2 f1=Q 4. Rd1+ Kf2) 3... f1=Q (3... Nc3 4. Re5+) (3... Ng3 4. Ne3 Ke2 5. Re5 Kf3 6. a4 Kf4 7. Re8 Bg6 8. Rf8+ Kxe3 9. Nd1+) 4. Rd1+ Bxd1 5. Nd3# 1-0  

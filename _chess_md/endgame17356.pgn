@@ -1,0 +1,10 @@
+[Event "ts02#1667 {m}"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6r1/3NP1p1/8/7K/4kr1p/6p1/3R4/8 w - - 0 1"]
+
+ 1. Nf8 $1 (1. Nc5+ $2 Kf3 2. Rd3+ Kg2 3. Rd2+ Rf2 4. Rd8 h3 5. Rxg8 h2 6. e8=Q h1=Q+) (1. Re2+ $2 Kf3 2. e8=Q Rxe8 3. Rxe8 h3 4. Ne5+ Kg2) (1. Kg5 $2 Re8 2. Nc5+ Ke3 3. Rd3+ Ke2 4. Kxf4 g5+ 5. Kg4 (5. Ke4 Rxe7+) 5... g2) 1... Rh8+ (1... g6+ {main} 2. Kg5 $1 Rgxf8 3. exf8=Q Rxf8 4. Kxh4 Kf4 5. Rd4+ Ke3 6. Rg4 Kf2 7. Rxg3 Rf4+ 8. Kh3 $1 (8. Rg4 $2 Kf3 9. Rxf4+ Kxf4) 8... Rf3 9. Kh4 $1 Rf4+ (9... Rxg3) 10. Kh3 Rf3 11. Kh4 Rxg3) 2. Kg5 Rhxf8 3. exf8=Q Rxf8 4. Kxh4 Kf4 (4... Rf2 5. Rd7 $1 Kf3 6. Rd3+ Kf4 7. Rd4+ Ke3 8. Rg4 g2 9. Kh3 Kf3 10. Rg3+ Kf4 11. Rxg7) 5. Rd4+ Ke3 6. Rg4 Kf2 7. Rxg3 Rf4+ 8. Rg4 $1 (8. Kh3 $2 Rf3 9. Rxf3+ Kxf3 10. Kh4 Kf4) 8... Kf3 9. Kh5 $1 Rf5+ (9... Rxg4) 10. Kh4 $1 (10. Rg5 $2 Kf4 11. Rxf5+ Kxf5) 10... Rf4 11. Kh5 Rxg4 1/2-1/2  

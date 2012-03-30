@@ -1,0 +1,10 @@
+[Event "te03 (@2) {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Aloni H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b2Q4/6P1/pq4Br/p2Pp1B1/p1K5/Pr6/1P1p1kn1/2N1R3 w - - 0 1"]
+
+ 1. Nd3+ (1. Qxb6+ $2 Rxb6 2. Nd3+ Kg3 3. Bxh6 dxe1=Q 4. g8=Q Ne3+ 5. Bxe3 Qxe3 6. Be4+ Kh4 7. Qh8+ Kg4 8. Qxe5 Kh4 9. Qe7+ Kg4) 1... Rxd3 2. Qxb6+ Rd4+ 3. Qxd4+ exd4 4. Re2+ (4. Rf1+ $2 Kxf1 5. Bd3+ Ke1 6. g8=Q d1=Q 7. Bxh6 Qb3+ 8. Kxd4 Qb6+ 9. Ke4 Qxh6) 4... Kxe2 5. Bxh6 Nf4 6. Bh5+ $1 (6. g8=Q $2 Bxd5+ 7. Qxd5 Nxd5 8. Bh5+ (8. Kxd5 d1=Q 9. Bh5+ Kd3 10. Bxd1) 8... Ke1 9. Kxd5 d1=Q 10. Bxd1 Kxd1 11. Kxd4 Kc2 12. Kd5 Kxb2 13. Bf8 Kc3) (6. Bc2 $2 Bxd5+ 7. Kxd4 d1=Q+ 8. Bxd1+ Kxd1 9. Bxf4 Bb3 10. Kc5 Kc2 11. Be5 Kd3 12. Kd6 Ke4 13. Bc3 Kf5 14. Ke7 Kg6 15. Kf8 Kh7) (6. Bd3+ $2 Kf3 7. Bc2 Bxd5+ 8. Kxd4 Bg8 9. Bd1+ Kg3 10. Ke3 Ne6 11. Kxd2 (11. Bxa4 Kg4) 11... Nd4 12. Bg5 Nf3+ 13. Bxf3 Kxf3) (6. Kc5 $2 Bxd5) 6... Nxh5 7. g8=Q d1=Q 8. Qg2+ Ke1 9. Qh1+ Ke2 10. Qxh5+ Ke1 11. Qxd1+ Kxd1 12. d6 (12. Kxd4 $1 {minor dual MR}) 12... Bc6 13. Kxd4 Kc2 14. Kc5 (14. Bg7 $1 {minor dual MR}) 14... Bd7 15. Bg7 1-0  

@@ -1,0 +1,10 @@
+[Event "1 Prize Ceskoslovensky Sach#486  {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k1N5/1r3b2/8/5p2/5NQ1/8/1r1B4/K7 w - - 0 1"]
+
+ 1. Nb6+ $1 R7xb6 $1 (1... R2xb6 $144 2. Qxf5 Ra6+ 3. Ba5 $11) 2. Qf3+ (2. Qg2+ $143 Ka7 $19) 2... Kb8 $1 (2... Ka7 $144 3. Qa3+ Ra6 4. Qxa6+ Kxa6 5. Kxb2 $11) (2... Rb7 $144 3. Qa3+ Ra7 4. Qxa7+ Kxa7 5. Kxb2 $11) 3. Nd5 Rb1+ 4. Ka2 R1b5 $1 5. Qg3+ (5. Qf4+ $143 Ka8 6. Qa4+ Kb7 $19) (5. Bf4+ $143 Kb7 $19) 5... f4 $1 (5... Ka8 $143 6. Qa3+ Kb7 7. Qe7+ Kc6 $16) (5... Kb7 $144 6. Qc7+ Ka8 7. Qc8+ $11) 6. Qxf4+ (6. Bxf4+ $143 Kb7 $19) 6... Ka8 $1 7. Bb4 $1 (7. Qa4+ $143 Kb7 $19) 7... Rxb4 (7... Bxd5+ $144 8. Ka3 Ra6+ 9. Kb2 Ra4 10. Kc3 $11) 8. Qc4 $1 Rb7 $1 (8... Rxc4 $144 9. Nxb6+ $11) (8... Ka7 $144 9. Qc7+ Ka6 10. Qc8+ Ka5 11. Qc3 Bxd5+ 12. Ka3 $11) 9. Qc8+ Ka7 10. Qc5+ (10. Ka3 $143 R4b5 $1 (10... Bxd5 $143 11. Qa8+ Kxa8 $11) 11. Nb4 Ra5+ 12. Kb2 Rxb4+ 13. Kc3 Rc4+ $19) 10... R4b6 (10... R7b6 $144 11. Qc7+ Ka6 12. Qc8+ Ka5 13. Qc3 Bxd5+ 14. Ka3 $11) ( 10... Kb8 $144 11. Qf8+ Ka7 12. Qc5+ $11) (10... Ka6 $144 11. Qc6+ Ka7 12. Qc5+ $11) 11. Ka1 $1 Bxd5 12. Qa5+ Ra6 13. Qxa6+ Kxa6 $11 1/2-1/2  

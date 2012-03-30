@@ -1,0 +1,10 @@
+[Event "Rigaer Tageblatt {m}"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Behting C, Behting J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1K5B/8/6p1/8/4BkpP/6Nb w - - 0 1"]
+
+ 1. h4 ({dual} 1. Be3+ $1 Kxe3 2. Bxg4 Kf2 3. Nh3+ $18) 1... gxh3 {e.p.} (1... Kxg1 2. Be3+ Kh2 3. h5 g1=Q 4. Bxg1+ Kxg1 5. Bxg4 Be4 6. Kc5 Kf2 7. Kd4 $18) 2. Ba6 $3 {Indian} Kxg1 3. Be3+ Kh2 4. Bf4+ Kg1 5. Bg3 h2 6. Kb5 $1 Kf1 7. Kb4+ ({ minor dual} 7. Kc5+) 7... Kg1 8. Kc4 Kf1 9. Kc3+ ({minor dual} 9. Kd4+) 9... Kg1 10. Kd3 Kf1 11. Ke3+ Kg1 12. Bf2# 1-0  

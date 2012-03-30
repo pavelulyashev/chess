@@ -1,0 +1,10 @@
+[Event "1 Prize ts70#1858 @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Cortlever N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/3r2pP/3PK1P1/2PR4/1P6/1rb5/8/8 w - - 0 1"]
+
+ 1. c6 (1. Kxd7 $2 Be5 $1 2. Rxe5 (2. c6 Bxd6 3. Rxd6 Rd3) 2... Re3 3. Rf5 Re7+ 4. Kc6 Rc7+) 1... Bxb4 (1... Rxb4 2. Kxd7) (1... Be5 2. cxd7 Bf6 3. Re5 $1 Rf3 4. Kd5 Rd3+ 5. Kc6 Rxd6+ 6. Kxd6 Bxe5+ 7. Ke7 Bf6+) 2. c7 $1 (2. cxd7 $2 Re3+ 3. Kf7 Ba5 4. Rc5 Bd8 5. Rc8 Re7+ 6. Kf8 Rxd7 7. Rc6 Rxd6 8. Rxd6 Be7+ 9. Kxe7) 2... Rxd6+ 3. Rxd6 Re3+ 4. Kd5 (4. Kf7 $2 Re7+ 5. Kxe7 Bxd6+ 6. Kxd6) 4... Re8 5. Rd8 Bf8 $1 6. Kc6 Re6+ (6... Rxd8 7. cxd8=N Bb4 8. Nf7#) 7. Kb7 Rb6+ 8. Kc8 Rb8+ 9. Kd7 Rc8 (9... Ra8 10. Rb8 Rxb8 11. cxb8=N) 10. Ke6 $1 (10. Ke8 $2 Rxc7) (10. Kc6 $2 Rxc7+) 10... Ra8 11. Rb8 Ra6+ 12. Kf7 (12. Kd7 $1 {cook MC} Rd6+ 13. Ke8 Re6+ 14. Kxf8) 12... Rf6+ 13. Ke8 Re6+ 14. Kxf8 Re8+ 15. Kf7 1-0  

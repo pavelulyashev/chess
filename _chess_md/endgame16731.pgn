@@ -1,0 +1,10 @@
+[Event "3/4 Prize ws22 @2 {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K1R1/6Pp/5N1k/8/8/8/6p1/5b2 w - - 0 1"]
+
+ 1. Ng4+ Kh5 2. Rh8 (2. Rf8 $2 Bc4 3. g8=Q Bxg8 4. Rxg8 g1=Q 5. Nf6+ Kh6 6. Rxg1 ) 2... Bc4 3. g8=Q (3. Ne5 $1 {cook} g1=Q 4. Rxh7+ Kg5 5. g8=Q+ Bxg8 6. Rg7+) 3... Bxg8 4. Nf6+ Kh6 5. Nxg8+ (5. Rxg8 $2 g1=Q 6. Rxg1) 5... Kg7 6. Nh6 Kxh8 7. Kf8 g1=Q 8. Nf7# 1-0  

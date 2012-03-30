@@ -1,0 +1,10 @@
+[Event "2 Prize tp23#2503 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B1K1k1/4Q2n/7P/5P2/6r1/7q/5P2/8 w - - 0 1"]
+
+ 1. Qe6+ (1. Be6+ $2 Kh8 $1) (1. f6 $2 Nxf6+ 2. Qxf6 Re4+ 3. Kd8 Qh4) 1... Kh8 2. Qe5+ Nf6+ 3. Qxf6+ Kh7 (3... Kg8 4. Be6+ Kh7 5. Qg6+ Kh8 6. Qg7+) 4. Qg6+ $1 Kh8 (4... Rxg6 5. fxg6+) 5. Qg7+ Rxg7 6. hxg7+ Kh7 $1 (6... Kxg7 7. f6+) 7. Be6 $1 Qh5+ 8. Kf8 $1 (8. Bf7 $2 Qe2+ 9. Kf8 Kh6 $1 10. g8=Q Qe7+) 8... Qh6 9. Bg8# 1-0  

@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Sidorov B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/R7/6P1/7k/6R1/8/1K5p/3r4 w - - 0 1"]
+
+ 1. Rg2 $1 (1. g7 $2 1... h1=Q 2. g8=Q Rd2+) 1... Rb1+ $1 2. Kc3 Rc1+ 3. Kd4 $1 (3. Kd2 $2 3... Rd1+ 4. Ke2 Re1+ 5. Kf2 Rf1+ 6. Kg3 h1=Q) (3. Kb4 $2 3... Rb1+ 4. Kc5 Rc1+ 5. Kb6 Rb1+ 6. Kc7 h1=Q) 3... Rd1+ 4. Ke5 Re1+ 5. Kf6 Rf1+ 6. Kg7 $1 6... h1=Q 7. Raa2 $1 1-0  

@@ -1,0 +1,10 @@
+[Event "ts20 @2 @3 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Barry H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/p7/2K5/P7/7p/4nk2/8/6B1 w - - 0 1"]
+
+ 1. Kb7 h3 2. Bh2 $1 (2. Kxa7 $2 Kg2) 2... Kg2 (2... Nf1 3. Kxa7 Nxh2 4. Kb6 Ng4 5. a6 h2 6. a7) 3. Bc7 $1 Nf5 4. Kxa7 Ng3 5. Kb7 (5. Bxg3 $1 {cook JU} Kxg3 6. a6) 5... h2 6. a6 h1=Q 7. a7 Kh3+ 8. Kb8 Qb1+ 9. Kc8 Qe4 10. Kb8 Qe8+ 11. Kb7 Ne4 12. a8=Q Nc5+ 13. Ka7 Qa4+ 14. Kb8 Qb5+ 15. Bb6 $1 Qxb6+ 16. Kc8 Qe6+ 17. Kc7 $1 Qd7+ (17... Qe5+ $1 {cook HC}) (17... Na6+ $1 {cook HC}) 18. Kb6 Na4+ 19. Ka5 1/2-1/2  

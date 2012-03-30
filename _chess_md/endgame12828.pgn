@@ -1,0 +1,10 @@
+[Event "2/5 Prize tb19 @1 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Behting C"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/5R1p/6kN/4B3/6P1/3q3b/7K w - - 0 1"]
+
+ 1. Bg2 (1. Bg6 $1 {cook} Qb2 2. Bf7 $1) 1... Qd1+ (1... Bxg3 2. Nxg3 Qe1+ (2... Kxf6 3. Ne4+) 3. Rf1 Qxg3 4. Rf3) (1... Kxh5 2. Kxh2) 2. Rf1 Qxh5 3. Rf5+ Kxf5 4. g4+ Qxg4 (4... Kxg4 5. Bf3+ Kxf3) 5. Bh3 Qxh3 1/2-1/2  

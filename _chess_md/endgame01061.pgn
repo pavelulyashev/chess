@@ -1,0 +1,10 @@
+[Event "Josten65 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Antonini D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2R5/5b2/8/p2pn3/p2b4/K1p5/1pBB2N1/k7 w - - 0 1"]
+
+ {Interesting finish, but too heavy introduction.} 1. Bxc3 (1. Rxc3 $2 Be8 $1 ( 1... b1=Q {better as authors move, mate in 6} 2. Bxb1 Be8) 2. Ne3 b1=N+ 3. Bxb1 Nc4+ 4. Nxc4 Bc5#) (1. Bh6 $2 Nc4+ 2. Rxc4 (2. Kxa4 Nb6+) 2... dxc4) (1. Be3 $2 Bxe3 2. Nxe3 d4 3. Rh8 b1=Q 4. Bxb1 dxe3 5. Bc2 (5. Be4 {5.Bf5} Nc4+ $1 6. Kxa4 e2 7. Rh1+ Kb2 8. Kb5 Nd6+ $19) (5. Bd3 Bd5 6. Rf8 Bg2 7. Rc8 Nxd3 8. Rxc3 Bf1 $19 (8... e2 $2 9. Rxd3 $1 e1=Q 10. Rd1+ Qxd1 $11)) 5... Nc4+ 6. Kxa4 e2 7. Rh1+ Kb2 $19) 1... Bxc3 2. Rxc3 Nc4+ (2... Bg6 3. Bxg6 Nxg6 (3... d4 4. Rc5 Nxg6 5. Ne1 $1 $11) 4. Ne3 $1 b1=N+ 5. Kxa4 Nxc3+ 6. Kxa5 $11) (2... d4 { Fritz, not author} 3. Rg3 Nc4+ 4. Kxa4 Be8+ 5. Kb3 Nd2+ 6. Ka3) (2... Be8 { Fritz} 3. Ne3 (3. Rc5 Nc4+ 4. Rxc4 dxc4 5. Ne3 c3 6. Nd5 b1=Q 7. Bxb1 Kxb1 8. Nxc3+) 3... d4 4. Rc5 Nf3 5. Nc4) 3. Rxc4 $1 (3. Kxa4 $2 Be8+ 4. Kb3 Nd2+ 5. Ka3 b1=N+ 6. Bxb1 Nxb1+ 7. Kb3 a4+ $1 8. Kb4 Nxc3 9. Kxc3 a3 $1 (9... Kb1 $2 10. Kb4 $19) 10. Kc2 Bg6+ 11. Kc1 d4 12. Nf4 d3 13. Nd5 Ka2 $1 $19) 3... dxc4 4. Ne3 $1 (4. Nf4 $2 c3 5. Ne2 (5. Nd3 b1=Q 6. Bxb1 Kxb1 $19) 5... Bb3 6. Nxc3 Bxc2 $19) (4. Ne1 $2 Bh5 $1 5. Nd3 (5. Bh7 Bd1 6. Bg6 b1=Q $19) 5... b1=Q $1 6. Bxb1 Kxb1 7. Ne1 Bd1 8. Ng2 c3 9. Ne3 Bb3 10. Nc2 Kc1 11. Nd4 Kd1 $19) (4. Kxa4 $2 Bh5 $1 (4... b1=Q 5. Bxb1 Kxb1 6. Kxa5 $11) (4... c3 $2 5. Ne1 $1 Bh5 6. Kxa5 Bd1 7. Be4 Ka2 8. Bd5+ Ka3 9. Be4 Ka2 10. Bd5+ $11) 5. Ne3 (5. Kxa5 Bd1 6. Bf5 Be2 $19) 5... Be2 6. Kxa5 Bd3 7. Nxc4 Bxc4 8. Ka4 Ba2 9. Ka3 Bb1 $19) 4... c3 5. Nd1 (5. Kxa4 $2 b1=Q 6. Bxb1 Kxb1 7. Kxa5 Kc1 $19 8. Kb4 Kd2 9. Nf1+ Kd3 10. Ne3 Bd5 $1 $19) 5... Bb3 6. Nxb2 $1 (6. Nxc3 Bxc2 7. Nb1 Bxb1) 6... cxb2 ( 6... Bxc2 7. Nd1 Bxd1 $11) 7. Bf5 Ba2 (7... Be6 8. Bc2 Bd7 9. Bd3) 8. Be4 Bb1 9. Bc2 $1 $11 1/2-1/2  

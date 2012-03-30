@@ -1,0 +1,10 @@
+[Event "tv49 {m}"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3k4/3P1R2/1pK1P3/2p5/6nN/1N1pP1r1/q4n2 w - - 0 1"]
+
+ 1. e6+ Ke8 (1... Kc8 2. Kb6 $1) 2. d7+ Ke7 3. Rf7+ Kxe6 4. d8=N+ $1 Ke5 5. Nc6+ Ke4 (5... Ke6 6. Ng5#) 6. Rf4+ Ke3 7. Rf3+ Kxe2 (7... Ke4 8. Ng5#) 8. Nd4+ Ke1 9. Nc2+ Ke2 10. Rf2+ Rxf2 11. Ng1# 1-0  

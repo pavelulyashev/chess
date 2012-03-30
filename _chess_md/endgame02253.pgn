@@ -1,0 +1,10 @@
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Zakharov S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/3N4/P3P3/6p1/1k6/1P6/1P6/r4b2 w - - 0 1"]
+
+ 1. e7 Re1 2. a7 Bg2 3. Nf6 Rxe7 (3... Bc6 4. e8=Q Rxe8+ 5. Nxe8 g4 6. Nd6 g3 7. Nf5 g2 8. Nd4) (3... Ba8 4. e8=Q Rxe8+ 5. Nxe8 g4 6. Nc7) (3... Kb5 4. Ne4 $1 { Nowotny} Rxe4 (4... Bxe4 5. e8=Q+) 5. a8=Q) 4. a8=Q Bxa8 5. Nd5+ Ka5 (5... Bxd5 {stalemate}) 6. b4+ Ka6 7. b5+ Ka5 (7... Ka7 8. Nxe7 Be4 9. Nc8+ Kb8 10. Nd6 Bd3 11. Nf7) 8. b4+ Kxb5 9. Nxe7 Be4 10. Ng8 $1 g4 11. Nf6 g3 12. Nxe4 g2 13. Nc3+ Kxb4 14. Ne2 1/2-1/2  

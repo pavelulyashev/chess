@@ -1,0 +1,10 @@
+[Event "tr19 {m}"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Grunfeld M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b5/1Bp5/3p1p2/5P1p/2p4P/2P1BKp1/3P3p/7k w - - 0 1"]
+
+ 1. Be4 g2 (1... d5 2. Bxd5 Bb7 3. Bxb7 c6 4. Bxc6 g2 5. Be4 g1=Q 6. Bf4 Qe1 7. Bd5 Kg1 8. Be3+) (1... Bxf5 2. Ba8 Bd7 3. Kxg3+ c6 4. Bb7 f5 5. Kf2 Be8 6. Bc8 Bg6 7. Bd7) 2. Kg3 Bb7 3. Bxb7 c6 4. Kh3 g1=N+ 5. Kg3 Ne2+ 6. Kf2 Nd4 7. Ba8 Nf3 8. Kxf3 1-0  

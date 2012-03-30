@@ -1,0 +1,10 @@
+[Event "bs02#027 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N2n1/8/2P5/1P6/r7/8/2k4K/8 w - - 0 1"]
+
+ 1. b6 (1. c7 $2 Rc4 2. b6 (2. Nc6 Rxc6 $1 3. b6 Rxc7 4. bxc7 Ne7) 2... Rxc7 $1) 1... Rb4 2. c7 (2. b7 $2 Ne7 3. c7 Rxb7) 2... Ne7 3. Nc6 $1 Nxc6 4. c8=Q Rxb6 5. Qc7 Ra6 6. Qb7 1-0  

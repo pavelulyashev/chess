@@ -1,0 +1,10 @@
+[Event "tm05#514 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7N/8/3p2p1/ppp1P1kP/3P4/6P1/6PK/3r4 w - - 0 1"]
+
+ 1. Nf7+ Kxh5 2. g4+ $1 Kh4 3. e6 $1 cxd4 (3... Rxd4 {main} 4. g3+ (4. Ne5 $2 Re4) 4... Kxg4 5. Ne5+ dxe5 6. e7) (3... Re1 4. Ne5 dxe5 5. dxc5) 4. g3+ (4. Ne5 $2 Rc1) 4... Kxg4 5. Ne5+ dxe5 6. e7 Rd2+ 7. Kg1 Kxg3 8. Kf1 1/2-1/2  

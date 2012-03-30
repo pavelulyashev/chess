@@ -1,0 +1,10 @@
+[Event "Sevcik60 [4th Pr] {m}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Hlinka M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k2/2R5/8/1rP5/6K1/1p6/b3P2N/8 w - - 0 1"]
+
+ {Seems OK} 1. Nf1 $1 (1. Nf3 $2 Rb4+ $1 2. Kg3 (2. Kf5 b2 3. Nd2 Rd4 4. Nb1 Bxb1+ 5. Kf6 Rf4+ 6. Kg5 Rb4) 2... b2 3. Nd2 Rd4 4. Nb1 Bxb1 5. Rb7 Rd2 6. c6 Rxe2 (6... Bf5 7. e4 Bxe4 8. Rb8+ Ke7 9. c7 Bf5 10. Kf4 Kd6 11. Rb7 Bc8 12. Rb5 Kxc7)) 1... b2 2. Nd2 Rb4+ 3. Kf3 $1 Rd4 4. Nb1 (4. Rc8+) 4... Bxb1 (4... Rd1 5. Na3 Ra1 6. Rc8+ Ke7 7. Rb8 Bb3 $5 8. Rxb3 $1 Rxa3 9. Rxa3 b1=Q 10. Kf2 $1 Qf5+ (10... Kd7 11. Rd3+ Kc6 12. Rd6+ Kxc5 13. Rd8) 11. Rf3 Qxc5+ {CD draw}) 5. Rc8+ (5. Rb7 $2 Be4+) 5... Ke7 6. Rb8 Rd2 7. c6 $3 (7. Ke3 $2 Rc2 8. Kd3 Kd7 9. c6+ (9. Rb3 Kc6 10. Rb6+ (10. Rb8 Kxc5 11. Rc8+ Kb4 12. Rb8+ Ka5 13. Ra8+ Kb6 14. Rb8+ Ka7 15. Rb3 Ka6 16. Ra3+ Kb5 17. Rb3+ Ka4) 10... Kxc5 11. Rb3 (11. Rb8 Rc4+ 12. Kd2 Rb4) 11... Kd5) 9... Kd6 $1 10. Rb3 (10. c7 Kxc7 11. Rb3 Kd6 12. Rb4 Kc5 13. Rb3 Kd5) 10... Kc7 $1 (10... Kxc6 11. Rc3+) (10... Rxc6+ 11. Kd2 Rc2+ 12. Kd1) 11. Rc3 Rxe2+ 12. Kxe2 Ba2) 7... Kd6 $1 8. Ke3 $1 (8. Rd8+ $2 Kxc6 9. Rxd2 Be4+ 10. Kxe4 b1=Q+) 8... Rc2 9. Kd3 $1 (9. c7 Kxc7 10. Rb5 Ba2 11. Kd3 b1=Q) 9... Kc7 10. Rb3 Rxc6+ (10... Kxc6 11. Rc3+ Rxc3+ 12. Kxc3) ( 10... Kd8 11. Rb8+ Kc7 12. Rb3) 11. Kd2 Rc2+ 12. Kd1 $1 {for example} Kc6 13. Rb8 Kd5 14. Rd8+ Ke4 15. Re8+ Kd4 16. Rd8+ 1/2-1/2  

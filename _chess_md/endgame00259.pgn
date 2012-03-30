@@ -1,0 +1,10 @@
+[Event "Pravda {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R6R/1p1Bp2P/p3Ppp1/2pP1P1p/8/P6K/1P2p1P1/4k3 w - - 0 1"]
+
+ 1. Bb5 $1 axb5 2. Ra4 $1 bxa4 3. Ra8 $3 {Bristol} Kf2 ({but} 3... Kd1 $1 4. h8=Q e1=Q $11) (3... Kd2) 4. h8=Q e1=Q 5. Qb8 1-0  

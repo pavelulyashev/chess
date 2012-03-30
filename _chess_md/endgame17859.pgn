@@ -1,0 +1,10 @@
+[Event "ts23#39 {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Joitsa P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/3p1p2/kB3Pp1/8/4p2q/8/7p/2Q5 w - - 0 1"]
+
+ 1. Qb2 $1 Qxf6 $1 (1... h1=Q 2. Bd8 $1 Qc1+ 3. Qxc1 Kb5 4. Kxd7) (1... Qh5 2. Kc7 $1 h1=Q 3. Qa3+ Kb5 4. Qb3+ Ka6 5. Qa4+) 2. Qxf6 h1=Q 3. Bg1+ $1 Ka5 $1 ( 3... d6 4. Qf1+ $1 Ka5 5. Bb6+) 4. Qa1+ $1 Kb5 5. Qf1+ $1 Ka4 6. Qd1+ $1 Kb5 7. Qb3+ Kc6 8. Qc4+ $1 (8. Qb7+ $2 Kd6 9. Bh2+ $1 Kc5 $1 10. Bg1+ $1 Kd6 $1 11. Qxd7+ Ke5 12. Bh2+ $1 Kf6 $1 13. Qd4+ Kf5) 8... Kd6 9. Bh2+ $1 Ke7 (9... Qxh2 10. Qc7+) 10. Qc5+ Ke8 11. Qe5+ Kf8 12. Qh8+ $1 Ke7 13. Bd6+ $1 1-0  

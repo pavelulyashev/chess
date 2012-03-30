@@ -1,0 +1,10 @@
+[Event "4 Prize Merani Zarja Vostoka @3 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3r4/1P6/pK6/8/8/5P2/5k2/6N1 w - - 0 1"]
+
+ 1. f4 (1. Kc7 $2 Rf8 2. b8=Q Rxb8 3. Kxb8 Kxg1) 1... Kg3 (1... Ke3 2. Nh3 Kf3 ( 2... Ke4 $1 {cook RB} 3. Kxa6 Rh8 4. Ka7 Rxh3 5. b8=Q Ra3+ 6. Kb7 Rb3+) 3. Kc7 Rf8 4. f5 Rf7+ $1 {cook RB} 5. Kb6 Rxf5 6. b8=Q Rb5+) (1... Kxg1 2. f5 a5 3. Kxa5) (1... a5 $1 {cook RB} 2. Kxa5 Ke3 3. Nh3 Ke4 4. Kb6 Rh8 $1 5. Kc7 (5. Ka7 Rxh3 6. b8=Q Ra3+ 7. Kb6 Rb3+) 5... Rh7+ 6. Kc6 (6. Kc8 Rxh3) (6. Kb6 Rxh3) 6... Rh6+ 7. Kc5 Rh8) 2. Ne2+ (2. f5 $2 Kf4 3. f6 Kf5 4. Kc7 Rf8 5. b8=Q Rxb8 6. Kxb8 Kxf6) 2... Kf3 (2... Kg4 $1 {cook WV} 3. Kxa6 (3. Kc7 Re8 4. b8=Q Rxb8 5. Kxb8 a5) 3... Re8 4. Ka7 Rxe2) 3. f5 Ke4 4. Ng3+ Kf4 5. f6 Kg5 6. Ne4+ Kf5 7. f7 Ke6 8. Ng5+ Kf6 9. f8=Q+ Rxf8 10. Nh7+ 1-0  

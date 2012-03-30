@@ -1,0 +1,10 @@
+[Event "tl04#081 {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5n2/8/3p1PP1/pp6/1k1Pp3/4P3/3K3R w - - 0 1"]
+
+ 1. g6 (1. Rh6 $2 a3 $1 2. Ra6 Nxg5 3. Kc1 a2) (1. Kc1 $2 Nxg5) 1... a3 2. Rh8 Nxh8 (2... Kb2 3. Ra8) 3. g7 a2 (3... Nf7 4. g8=Q a2 5. Qg7 Ne5 6. Qxe5 d4 7. Qd5+) 4. gxh8=B $1 (4. gxh8=Q $2 d4 5. Qa8 (5. Qxd4 a1=Q+ 6. Qxa1) (5. Qg8+ Kb2 6. Qxa2+ Kxa2 7. f6 b3) 5... a1=Q+ 6. Qxa1) 4... Ka3 5. Kc1 b3 {eg} 6. Bc3 1-0  

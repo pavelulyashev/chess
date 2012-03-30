@@ -1,0 +1,10 @@
+[Event "tw04#01 @3 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1p1kpp2/1P6/4P1N1/b2p4/p7/P1q1B3/K5Q1 w - - 0 1"]
+
+ 1. Qxd4+ Ke8 (1... Kc8 2. Qc4+) 2. Qxa4+ Qxa4 3. Ne6 fxe6 (3... f6 4. Bh5+ Kd7 5. Nc5+) (3... Qd7 $1 4. Bb5 fxe6 5. Bxd7+ Kxd7) 4. Bb5+ Qxb5 1/2-1/2  

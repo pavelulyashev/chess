@@ -1,0 +1,10 @@
+[Event "[HM] Zoltan-65 JT  {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "*"]
+[Result "*"]
+[FEN "8/5k2/1P1Pp3/3PP3/8/PPp1p3/1r2P3/K7 w - - 0 1"]
+
+ 1. d7 $1 (1. b7 $2 Rxb3 $19) (1. b4 $2 Rb3 2. b7 (2. Ka2 c2 $19) (2. d7 Rxa3+ 3. Kb1 Ra8 $19) 2... Rxa3+ 3. Kb1 Rb3+ 4. Kc2 Rxb4 5. Kxc3 Rxb7 6. dxe6+ Kxe6 $19) 1... Ke7 2. b4 Rb3 3. Ka2 Rb2+ 4. Ka1 Rb3 5. Ka2 c2 $1 6. b7 (6. d6+ $2 Kxd7 7. b7 c1=Q 8. Kxb3 Qd1+ 9. Kc3 Qd2+ 10. Kb3 Qd5+ $19) 6... c1=N+ $1 7. Ka1 Rxa3+ 8. Kb2 {8.Kb1 is a minor dual} Rb3+ 9. Ka1 Rxb4 10. d6+ Kxd7 11. b8=N+ $3 (11. b8=Q $2 Nb3+ $1 12. Ka2 Rxb8 $19) 11... Kc8 (11... Rxb8 {Stalemate!}) ( 11... Ke8 12. d7+ Ke7 13. Nc6+ Kxd7 14. Nxb4 $11) 12. d7+ Kd8 13. Nc6+ {draws.} *  

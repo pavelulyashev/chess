@@ -1,0 +1,10 @@
+[Event "tt23#080 {m}"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Weenink H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/8/2P2p2/3BbKp1/8/5P1P/8/8 w - - 0 1"]
+
+ 1. f4 $1 gxf4 (1... Bc3 2. fxg5 fxg5 3. Kxg5 Ke7 4. h4 Bf6+ 5. Kg4 Be5 6. Kf5 ( 6. h5 $2 Kf6) 6... Bg3 7. h5 Kf8 8. h6 Bc7 9. Kg6) (1... Bc7 2. fxg5 fxg5 3. Kxg5 Ke7 4. h4 Be5 5. h5) (1... Bxf4 2. h4 Be5 (2... Bc7 3. h5 Ke7 4. h6 Kf8 5. Kxf6) (2... Bd2 3. h5 g4 4. Kxf6) 3. h5 Ke7 4. h6 Kf8 5. Kg6 f5 6. Kxf5 Bc7 7. Kg6) 2. h4 Ke7 3. Kg6 (3. h5 $2 f3 4. Bxf3 Kf7) 3... Kf8 4. Kh7 $1 (4. h5 $2 f3 5. h6 f2 6. h7 f1=Q 7. h8=Q+ Ke7) 4... f3 $1 5. Bxf3 f5 6. h5 f4 7. h6 Kf7 8. Bd5+ Kf8 9. Kg6 f3 10. h7 f2 (10... Ke7 11. Bxf3) 11. h8=Q+ (11. Bg2 $2 Ke7) 11... Bxh8 12. c7 f1=Q 13. c8=Q+ Ke7 14. Qc7+ Ke8 15. Bc6+ Kf8 {eg} 16. Qd8# 1-0  

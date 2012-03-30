@@ -1,0 +1,10 @@
+[Event "sp Prize t001 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/6N1/1K6/p1p5/R5rk w - - 0 1"]
+
+ 1. Nf2+ $1 (1. Rxa2 $2 1... c1=N+ (1... c1=Q $2 2. Rh2#) 2. Kb2 Nxa2 3. Nf2+ 3... Kh2 $1 (3... Kg2 $2 4. Nd3 $1 4... Rd1 5. Kc2) 4. Kxa2 Rg2) 1... Kh2 $1 2. Ng4+ $1 2... Kh1 $1 (2... Kg2 3. Ne3+) 3. Nf2+ Kg2 4. Rxa2 $1 4... c1=N+ $1 ( 4... c1=Q 5. Nd3+) 5. Kb2 $1 5... Nxa2 6. Nd3 $1 6... Rd1 7. Kc2 $1 7... Ra1 8. Kb2 Rd1 9. Kc2 Rf1 10. Kb2 Rd1 (10... Rf3 11. Ne1+) 11. Kc2 Rh1 12. Kb2 Rh3 ( 12... Rd1 13. Kc2) 13. Nf4+ 1/2-1/2  

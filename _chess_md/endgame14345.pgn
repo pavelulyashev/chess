@@ -1,0 +1,10 @@
+[Event "tc36#234 @2 @1 {m}"]
+[Site "?"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Kosek V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/p3Q3/rp2N3/bP6/rp4q1/pP6/Kp6/1N6 w - - 0 1"]
+
+ 1. Qf6 (1. bxa6 $1 {cook MF/KT}) 1... Qg2 (1... Qg3 {main} 2. Qf5 (2. Qf8+ $1 { cook MF} Kh7 3. Qf5+ Kh6 (3... Kg8 4. Ng5 Qc7 5. Qd5+) 4. Nf4 $1 Qg8 (4... Qg1 5. Qf6+ Kh7 6. Ne6) (4... Qg5 5. Qh3+) (4... Kg7 5. Nh5+) 5. Qh5+ Kg7 6. Qg6+ Kf8 7. Ne6+) 2... Qg2 3. bxa6) 2. Qf5 Qb7 (2... Qg3 3. Ng5) 3. Qg6+ Kh8 4. Qe8+ Kh7 5. bxa6 Qg2 6. Qh5+ Kg8 7. Qf5 $1 Qg3 (7... Qg1 8. Ng5 Kg7 9. Qf7+ Kh6 10. Qh7+ Kxg5 11. Qg7+) 8. Ng5 Qc7 (8... Kg7 9. Qh7+ Kf6 10. Ne4+) 9. Qd5+ Kh8 10. Qa8+ Kg7 11. Ne6+ (11. Qb7 $1 {cook JU}) 1-0  

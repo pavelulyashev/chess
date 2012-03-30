@@ -1,0 +1,10 @@
+[Event "ts70#1973 @2 {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6r1/2k3N1/3N4/4pB2/3b1n2/6KR/1P6/8 w - - 0 1"]
+
+ 1. Nde8+ Kd8 $1 (1... Kc6 2. Rh2 Bxb2 3. Rc2+ $1) 2. Rh2 Bxb2 3. Rxb2 Nh5+ 4. Kg4 Nxg7 5. Nf6 $1 Rf8 6. Rb8+ Ke7 7. Ng8+ (7. Nd5+ $1 {cook JR/FS} Kf7 8. Bg6+ Kg8 9. Ne7+ Kh8 10. Rxf8#) 7... Kf7 8. Nh6+ Ke7 9. Rb7+ Kf6 10. Rf7+ Rxf7 11. Ng8# 1-0  

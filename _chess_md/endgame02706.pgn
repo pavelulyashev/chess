@@ -1,0 +1,10 @@
+[Event "MT Schneider  {m}"]
+[Site "?"]
+[Date "2006.05.22"]
+[Round "?"]
+[White "Gonzales L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k5/K7/2q2p2/3R3b/2N5/1p3P2/2p5/5R2 w - - 0 1"]
+
+ 1. Nb6+ $1 (1. Nd6+ $2 Kd7 2. Ne4+ Qxd5 3. Nxf6+ Kd6 4. Nxd5 b2 {wins}) 1... Kc7 2. Na8+ Kc8 3. Nb6+ Kc7 4. Na8+ Qxa8+ 5. Kxa8 Bxf3 6. Rxf3 c1=R $1 (6... c1=Q 7. Rc3+ Qxc3 8. Rc5+ Qxc5 {stalemate}) (6... Kc6 7. Rdd3 b2 8. Rxf6+ Kc5 9. Rc3+ {draw}) 7. Ra5 b2 (7... Kb6 8. Rxb3+ Kxa5 9. Rf3 Rc6 10. Kb7 {draw}) 8. Rxf6 $1 (8. Ra7+ $2 Kd8 $1 9. Rb7 (9. Rb3 b1=Q 10. Rxb1 Rxb1 11. Rf7 Rb6 12. Ka7 Ke8 13. Rc7 Rb1 {wins}) 9... Ra1+ 10. Kb8 b1=Q 11. Rxf6 (11. Rh3 Qxb7+ 12. Kxb7 Kd7 13. Kb6 Rc1 {wins}) 11... Ra8+ 12. Kxa8 Qa1+ {wins}) 8... Ra1 $1 9. Rf7+ Kd6 10. Rf6+ $1 (10. Rb7 $2 Rxa5+ 11. Kb8 Ra2 12. Rb5 Kc6 {wins}) 10... Kc7 11. Rf7+ Kc8 12. Rf8+ Kd7 13. Rf7+ Ke6 14. Rb7 Rxa5+ 15. Kb8 Ra2 16. Rb5 $1 Kd6 17. Kb7 1/2-1/2  

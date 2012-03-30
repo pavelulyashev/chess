@@ -1,0 +1,10 @@
+[Event "jv03 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Kaljagin V, Olimpiev B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3n4/8/1K6/5r2/1k6/8/1N2R3/B7 w - - 0 1"]
+
+ 1.Nd3+ Kc4 $1 (1...Ka4 2.Nc5+ Kb4 (2...Ka3 3.Bb2+ Kb4 4.Re4#) 3.Re4+ Ka3 4.Ra4#) 2.Nc5 $1 Nf7 $1 (2...Nc6 3.Rc2+ Kd5 4.Rd2+ Kc4 5.Ne4 Ne5 6.Nd6+ Kb3 7.Rb2+ Ka3 8.Re2 Nd7+ 9.Kc7) 3.Rc2+ (3.Re4+ $2 Kd5 4.Rd4+ Ke5) (3.Re1 $2 Rf3 4.Re4+ Kd5) 3...Kb4 (3...Kd5 4.Rd2+ Kc4 5.Rd4#) 4.Bc3+ (4.Ra2 $2 Kc4 5.Rc2+ Kb4) 4...Ka3 (4...Kc4 {main} 5.Bg7+ $1 Kb4 6.Ra2 $1 Kc4 7.Ra4+ Kd5 8.Rd4#) 5.Bb2+ (5.Rc1 $2 Rf2 6.Bb4+ Ka2 7.Bc3 Ka3 8.Ra1+ Ra2 9.Bb4+ Kb2 $1 10.Bc3+ Ka3 $1) 5...Ka2 (5...Kb4 {main} 6.Nd3+ Ka4 7.Rc4+ Kb3 8.Rc3+ Ka2 9.Ba3 $1 Rf1 10.Nb4+ Ka1 11.Rc2 Nd6 (11...Rd1 12.Ra2+ Kb1 13.Rb2+ Kc1 14.Na2#) 12.Ra2+ Kb1 13.Rb2+ Ka1 14.Nc2#) 6.Bd4+ $1 (6.Bg7+ $2 Ka3 7.Rc4 Ka2 8.Rc1 Ne5 $1) 6...Ka3 (6...Kb1 7.Rb2+ Kc1 8.Nd3+ Kd1 9.Bc3) 7.Rc4 Ka2 8.Rc1 Ka3 9.Ra1+ Kb4 10.Ra4#   1-0    

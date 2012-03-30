@@ -1,0 +1,10 @@
+[Event "t001#343 @2 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Birnov Z"]
+[Black "Draw"]
+[Result "*"]
+[FEN "rb6/3P3P/6p1/p5p1/6kp/8/4P1PP/4KB2 w - - 0 1"]
+
+ 1. h3+ Kf5 $1 2. e4+ (2. g4+ $1 {cook NG} Ke6 3. d8=N+ Ke7 4. h8=Q Bg3+ 5. Kd2 Rxd8+ 6. Qxd8+) 2... Kxe4 $1 3. h8=Q Bg3+ 4. Ke2 Rxh8 5. d8=Q Rxd8 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "ts04#11 {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p2R2/8/3k4/3n4/8/p7/2bK1B2 w - - 0 1"]
+
+ 1. Bc4+ Kxc4 2. Rxc7+ Kb3 $1 (2... Kb4 $2 3. Rxc1 $1 Nb3 $1 4. Kc2 $1 Nxc1 5. Kb2) 3. Rxc1 (3. Rb7+ $2 Ka3 4. Ra7+ Kb2 5. Rb7+ Nb3) 3... Kb2 4. Ra1 $1 Kxa1 5. Kc1 1/2-1/2  

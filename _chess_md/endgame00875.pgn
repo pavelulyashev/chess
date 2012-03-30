@@ -1,0 +1,10 @@
+[Event "Hlinka JT_50_5thHm {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/2B5/1Q1p4/4b1K1/8/8/b2p4/8 w - - 0 1"]
+
+ 1. Bxd6 $1 (1. Qg1 $2 Bb3 2. Bxd6 d1=Q 3. Bxe5+ Kg8 $11) 1... Bf6+ $1 (1... d1=Q 2. Bxe5+ Kg8 3. Qg6+ Kf8 4. Bd6+) 2. Kxf6 (2. Kg6 $2 d1=Q 3. Qb8+ Bg8 4. Be5 Qg1+ (4... Qb1+ $1 {unfortunately also} 5. Qxb1 Bh7+ $11) 5. Kxf6 Qg4 $1 { MZ}) 2... d1=Q 3. Qd8+ $3 (3. Qb8+ $6 Bg8 4. Be5 Qg4 $1 $11 {MZ}) 3... Bg8 4. Be5 $1 Qg4 $1 (4... Qxd8+ $2 5. Kg6+) (4... Qh5 5. Qf8 $1 Qf7+ 6. Kg5+ Kh7 7. Qh6#) 5. Qb8 $1 {MZ} (5. Qc8 $2 Qe6+ $1) (5. Qe8 $2 Kh7 $1) (5. Bd4 $2 Qe6+ 6. Kg5+ Kh7 7. Qc7+ Bf7 $1 8. Qh2+ Bh5 $1) 5... Kh7 6. Qb1+ (6. Qb7+ $2 Bf7 $1) 6... Kh6 7. Qh1+ Qh5 8. Bf4+ $18 1-0  

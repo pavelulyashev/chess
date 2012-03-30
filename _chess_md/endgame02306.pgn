@@ -1,0 +1,10 @@
+[Event "Chess&Draughts in Belorussia {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Dvizov E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/8/P2PpP2/1K6/6B1/1P1p4/3P1p1p/8 w - - 0 1"]
+
+ 1. f7 f1=Q (1... f1=R 2. a7 h1=B 3. Bf3 {Nowotny} Bxf3 (3... Rxf3 4. a8=Q+) 4. f8=Q+) 2. a7 h1=Q 3. Bf3 $1 {Plachutta} Qhxf3 (3... Qfxf3 4. a8=Q+ Qxa8 5. f8=Q+ Kd7 6. Qe7+ Kc8 7. Qc7#) 4. f8=Q+ Qxf8 5. a8=Q+ Kd7 6. Qc6+ Kd8 7. Qc7+ Ke8 8. d7+ Ke7 9. d8=Q# 1-0  

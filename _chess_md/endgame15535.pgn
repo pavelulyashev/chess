@@ -1,0 +1,10 @@
+[Event "te03 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Grudzinski H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k2/8/4PPPp/7P/6n1/8/8/K7 w - - 0 1"]
+
+ 1. f7 (1. e7+ $2 Ke8 2. f7+ Kxe7 3. Kb2 Nf6 4. Kc3 Nxh5 5. Kd4 Nf4 6. Ke5 Nxg6+ 7. Kf5 Kxf7) (1. Kb2 $2 Nxf6 2. Kc3 Nxh5 3. Kd4 Ke7 4. Ke5 Ng7) 1... Nf6 (1... Ne5 2. Kb2 Nxg6 3. hxg6 h5 4. Kc3 h4 5. Kd4 h3 6. Ke5 h2 7. Kf6 h1=Q 8. g7#) 2. Kb2 Nxh5 3. Kc3 Nf4 4. Kd4 Nxg6 (4... Nxe6+ 5. Ke5 Ke7 6. Kf5) 5. Ke4 Ke7 6. Kf5 Nf8 7. Kg4 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "ts23#13 @1 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/k7/2PN4/2N5/5r2/1p1K3p/8/8 w - - 0 1"]
+
+ 1. c7 (1. Nd7 $1 {cook JN} b2 2. Nb5+ Ka8 3. Bb7#) 1... b2 (1... Kb6 2. Na6 b2 (2... h2 3. Bb7 Rf8 4. Be4) 3. Kc2 Rf8 4. Bxh3) (1... Rf3+ 2. Kc4 h2 3. Nd7 $1 Rf4+ 4. Kc3 Rf3+ 5. Kb2 Rf2+ 6. Ka3) 2. Kc2 Rb4 3. Kb1 h2 4. Bb7 $1 Rxb7 5. Nc8+ Ka8 6. Nb6+ Ka7 7. c8=N+ Kb8 8. Na6# 1-0  

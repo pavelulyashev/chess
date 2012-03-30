@@ -1,0 +1,10 @@
+[Event "tc40 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Ulrichsen J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3b3K/8/8/p1P1P1P1/6k1/8/5n2/3n4 w - - 0 1"]
+
+ 1. g6 Bc7 2. e6 Be5+ 3. g7 Ne3 4. e7 Bxg7+ 5. Kxg7 (5. Kg8 $2 Nd5) 5... Nf5+ 6. Kf8 $1 (6. Kf7 $2 Ne4 $1 7. e8=Q Ned6+ 8. cxd6 Nxd6+ 9. Ke6 Nxe8 10. Kd5 Nd6 $1 ) 6... Nxe7 7. Kxe7 Nd3 8. c6 (8. Kd6 $2 Nb4 9. Ke5 Nc6+ 10. Kd5 Na7) 8... Nb4 9. c7 Nd5+ 10. Kd6 Nxc7 11. Kc5 Kf4 12. Kc4 Ke4 13. Kb3 Kd5 14. Ka4 Kc6 15. Kxa5 1/2-1/2  

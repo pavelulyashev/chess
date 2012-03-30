@@ -1,0 +1,10 @@
+[Event "te03 @1 @2 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1P2p3/pp4n1/kp1P4/p4P1p/2P1pP2/bP2B1p1/R3K3 w Q - 0 1"]
+
+ 1. b4+ (1. O-O-O Bb3 (1... Nxf4 2. b4+ axb3 3. b8=Q Nxe2+ 4. Kb2 g1=Q 5. Rxg1 Nxg1 6. Qf4) 2. Rg1 (2. b8=N $1 {cook MZ} Ne5 3. fxe5 Bxd5 4. b4+ axb3 5. Kb2) 2... h3 3. b8=Q h2) 1... axb3 2. O-O-O h3 3. Kb2 (3. b8=N $2 Nxf4 4. Nc6+ Ka4 5. Kb2 Nxe2) (3. d6 $1 {cook MC} Nxf4 (3... h2 4. d7 Nxf4 5. d8=Q Nxe2+ 6. Kb2 Nxc3 7. b8=N Na4+ 8. Ka1 Kb4 9. Qxe7+) (3... exd6 4. b8=Q) 4. d7 Nxe2+ 5. Kb2 Nxc3 (5... h2 6. d8=Q Nxc3 7. b8=N Na4+ 8. Ka1 Kb4 9. Qxe7+) 6. d8=Q Na4+ (6... h2 7. b8=N Na4+ 8. Ka1 Kb4 9. Qxe7+) (6... e2 7. Re1 Na4+ (7... h2 8. Qd4 h1=Q 9. Qxc3+) 8. Ka1 h2 9. Qd2+ b4 10. Qg5+) 7. Ka1 h2 (7... e2 8. Qd2+ b4 9. b8=Q) 8. b8=N Kb4 9. Qxe7+) 3... h2 (3... Nxf4 4. b8=Q) 4. b8=N (4. Ka3 $1 {cook ZW} h1=Q (4... b2 5. b8=N b1=N+ 6. Kxa2 Nxc3+ (6... Nd2 7. Rxd2 b4 8. Nc6+ Ka4 9. Rb2 a5 10. Nd4) (6... b4 7. Nc6+ Ka4 8. Rxb1 a5 9. Nd4) 7. Kb3) (4... e5 5. d6 h1=Q 6. b8=N Ne7 7. dxe7 Qh6 8. e8=Q) 5. b8=N $1 Ne5 6. fxe5 Qh6 7. d6) 4... b4 5. Nc6+ Ka4 6. Rd4 a5 7. cxb4 1-0  

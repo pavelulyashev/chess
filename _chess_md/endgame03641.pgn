@@ -1,0 +1,10 @@
+[Event "ts22#520 @3 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6B1/3p4/1P3k1K/2b5/3PP3/2Br4/8/8 w - - 0 1"]
+
+ 1. e5+ Ke7 2. Bb4 Bxb4 3. b7 Bd6 (3... Rh3+ $1 4. Kg7 Rg3+ 5. Kh8 Rh3+ 6. Bh7 Rf3 7. b8=Q Rf8+ 8. Qxf8+ Kxf8) 4. exd6+ Kf6 5. Kh5 Rh3+ 6. Kg4 Rh8 7. b8=R (7. b8=Q $2 7... Rxg8+ 8. Qxg8) 1-0  

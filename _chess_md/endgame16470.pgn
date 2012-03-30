@@ -1,0 +1,10 @@
+[Event "3 Prize t001#84 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/b4b2/p2p4/N2k4/3N2B1/2K5/8/8 w - - 0 1"]
+
+ 1. Bf3+ Kc5 2. Nb7+ Kb6 3. Nxd6 Bd5 $1 4. Bxd5 (4. Nc8+ $2 Kc7 5. Nxa7 Bxf3 6. Nxf3 Kb7) 4... Kc5 5. Nc8 Bb8 (5... Kxd5 6. Nxa7 a5 (6... Kc5 7. Nc2) 7. Nab5 a4 8. Na3) 6. Nc6 $1 Kxd5 7. Nxb8 a5 $1 8. Nb6+ Kc5 9. Nc4 $1 (9. Na4+ $2 Kb5 10. Kb3 (10. Nb2 a4 $1)) 9... a4 10. Na3 1-0  

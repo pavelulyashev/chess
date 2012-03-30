@@ -1,0 +1,10 @@
+[Event "64#640 {v} {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Herbstmann A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r7/8/8/8/8/2R5/n7/Nn1K1k2 w - - 0 1"]
+
+ 1. Rf3+ $1 (1. Rc2 $143 Rd8+ 2. Rd2 Rxd2#) 1... Kg2 2. Rb3 Nac3+ 3. Kc1 $1 Rxa1 4. Rb2+ Kg1 5. Ra2 $1 Nxa2+ (5... Rxa2 $143 $11) 6. Kb2 $11 1/2-1/2  

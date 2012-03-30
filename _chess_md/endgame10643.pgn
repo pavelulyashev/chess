@@ -1,0 +1,10 @@
+[Event "tb25#12 {c} {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3B4/5K2/1P6/2P5/1k6/1n6/4r3 w - - 0 1"]
+
+ 1. b6 Nxc4 2. b7 Rf1+ 3. Ke7 Rf7+ $1 4. Ke6 Rf8 5. Bc8 Re8+ 6. Kf6 $1 (6. Kd7 $2 Rxc8) 6... Rf8+ 7. Kg5 $1 Rg8+ 8. Kh6 Rg6+ (8... Rh8+ 9. Kg7) 9. Kxg6 Ne5+ 10. Kf6 Nc6 11. Bd7 Nb8 12. Ke6 Kb4 13. Kd6 Ka5 14. Kc7 Na6+ 15. Kc8 Kb6 16. Bh3 Ka7 17. Bf1 Nb8 18. Bb5 1-0  

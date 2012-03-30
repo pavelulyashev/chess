@@ -1,0 +1,10 @@
+[Event "tv35 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k1K/7P/6Pn/8/4b3/5r2/6P1/8 w - - 0 1"]
+
+ 1. g7+ (1. gxf3 $2 1... Bxg6 2. f4 Nf7#) 1... Ke7 2. gxf3 $1 (2. g8=Q $2 2... Nf7+ 3. Kg7 Rg3#) (2. g8=N+ $2 2... Kf8 3. gxf3 Nf7#) 2... Nf7+ 3. Kg8 Bd5 4. h8=N $1 (4. h8=Q $2 4... Ng5#) (4. f4 $2 4... Ne5+ 5. Kh8 Ng6#) 4... Ng5+ $1 5. Nf7 Kf6 6. Kh8 $1 (6. Kf8 $2 6... Ne6+ $1 7. Kg8 Nxg7) (6. f4 $2 6... Nxf7 7. Kh7 Be4+ 8. f5 Bxf5+ 9. Kg8 Nh6+ 10. Kh8 Be6 11. g8=Q Nxg8) 6... Nxf7+ 7. Kh7 Bxf3 8. g8=N+ $1 (8. g8=Q $2 8... Be4+ 9. Qg6+ Bxg6+) 1/2-1/2  

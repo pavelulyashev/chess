@@ -1,0 +1,10 @@
+[Event "ts21#20 @3 {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1N2r3/2B5/P1rPk3/8/K7/7p/8/8 w - - 0 1"]
+
+ 1. a7 Ra6+ $1 (1... h2 2. d7 $1 Rxb8 3. axb8=Q h1=Q 4. Qe8+ Kf5 5. Qe5+ Kg6 6. d8=Q Ra6+ 7. Ba5) (1... Rc1 $1 {cook VK} 2. d7 Ra1+ 3. Kb5 Rg8) 2. Nxa6 h2 ( 2... Ra8 3. Nc5+ Kf7 4. d7 Rxa7+ 5. Kb5) 3. d7 $1 Kxd7 4. Bxh2 Ra8 $1 (4... Kc6 5. Nc7) 5. Bb8 Kc6 $1 6. Ka5 $1 Kb7 7. Nc5+ Kc8 (7... Kc6 8. Ne4 Kb7 9. Nd6+) 8. Ka6 Rxb8 9. Nd7 $1 Ra8 10. Nb6+ 1-0  

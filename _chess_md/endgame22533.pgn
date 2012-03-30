@@ -1,0 +1,10 @@
+[Event "ts02#5667 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3n2NK/7P/5P2/5k2/P2n4/1b6/8/8 w - - 0 1"]
+
+ 1. f7 (1. Kg7 $2 N4e6+ 2. Kh6 Nf7+ 3. Kh5 Nf4+ 4. Kh4 Bxa4) (1. Ne7+ $2 Kxf6) ( 1. Nh6+ $2 Kxf6) (1. a5 $2 Kg6) 1... Nxf7+ (1... Bxf7 2. Kg7 N4e6+ 3. Kh6) 2. Kg7 Kg5 3. Ne7 (3. Nh6 $2 Nxh6 4. h8=Q Ne6+ 5. Kh7 Bc2#) (3. h8=Q $2 Nf5+ 4. Kh7 Nxh8 5. Kxh8 Bxa4) 3... Nh6 (3... Ba2 4. a5) (3... Bc4 4. a5) 4. Kf8 (4. a5 $2 Ne6+ 5. Kh8 Kf6 6. Ng8+ Kg6 7. Ne7+ Kf7) (4. h8=Q $2 Ne6+ 5. Kh7 Bc2+ 6. Ng6 Bxg6#) 4... Nf7 5. Kg7 (5. Kg8 $2 Kf6 6. a5 Ne5+ 7. Kf8 Ne6+) (5. a5 $2 Kf6 6. a6 Ne6+ 7. Kg8 Nh6+) 5... Nh6 6. Kf8 Ne6+ 7. Ke8 Ng7+ 8. Kf8 (8. Kd7 $2 Bxa4+ 9. Nc6 Nf7) 8... Ne6+ 9. Ke8 Bxa4+ 10. Nc6 Bxc6+ 11. Ke7 Nf4 12. h8=Q (12. Kd6 $2 Be4 13. h8=Q Nf7+) 12... Ng6+ 13. Kd6 Nxh8 14. Kxc6 1/2-1/2  

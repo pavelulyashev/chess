@@ -1,0 +1,10 @@
+[Event "tr11 {tw} {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r2R2r/2p1K1p1/1P5P/8/8/8/8/7k w - - 0 1"]
+
+ 1. Rxb8 $1 Rxb8 2. bxc7 Rc8 3. h7 Rxc7+ 4. Kd8 Ra7 5. h8=Q+ 1-0  

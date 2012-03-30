@@ -1,0 +1,10 @@
+[Event "6 Prize ts22#454 {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3N1b2/1p6/Rp6/4B3/1p6/8/2Knk3 w - - 0 1"]
+
+ 1. Ra7 $1 (1. Ra3 $2 b4 $1 2. Ra7 b2+ 3. Kc2 Nc3) 1... b2+ 2. Kc2 b1=Q+ 3. Kxb1 Nc3+ 4. Kc1 $1 Nxe4 5. Nf6 $1 Ng5 6. Re7+ (6. Nh7 $2 Nxh7 7. Re7+ Be6 $3 8. Rxe6+ Kf2 9. Rg6 Ke3 $1) 6... Be6 $1 (6... Kf2 7. Nh7 $1 Nxh7 8. Rxf7+) 7. Ne4 $1 Nxe4 8. Rxe6 1-0  

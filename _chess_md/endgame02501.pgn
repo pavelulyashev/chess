@@ -1,0 +1,10 @@
+[Event "64#039 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6N1/8/4P2p/3n3K/p4P2/8/7k/8 w - - 0 1"]
+
+ 1. f5 (1. e7 $143 Nxe7 2. Nxe7 a3 3. f5 a2 4. f6 a1=Q 5. Kg6 (5. Ng8 $144 Qg1 6. Nxh6 Kh3 7. Nf7 Qg4+ 8. Kh6 Kh4 $19) 5... Qe5 $19) 1... a3 2. e7 (2. f6 $143 Nf4+ 3. Kxh6 Nxe6 $19) 2... Nxe7 $1 (2... Nc7 $144 3. f6 a2 4. f7 Ne6 5. e8=Q Ng7+ 6. Kxh6 Nxe8 7. fxe8=Q a1=Q $11) 3. f6 (3. Nxe7 $143 a2 $19) 3... Nxg8 $1 (3... Nf5 $144 4. f7 Ng7+ 5. Kxh6 Ne6 6. Kg6 a2 7. Kf6 Nf8 8. Ke7 $11) (3... Nd5 $144 4. f7 Nf4+ 5. Kxh6 Ne6 6. Kg6 $11) 4. Kh4 $1 (4. f7 $143 Nf6+ 5. Kxh6 Nd7 $19) 4... a2 $144 (4... Nxf6 $144 $11) 5. f7 Ne7 6. Kh5 a1=Q 7. f8=Q Qe5+ 8. Kxh6 $11 1/2-1/2  

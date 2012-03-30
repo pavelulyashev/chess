@@ -1,0 +1,10 @@
+[Event "EG (version 2007) {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/2N1p2p/1P2p3/k4p2/4PPP1/3p2KP/8 w - - 0 1"]
+
+ 1. b6 d1=Q 2. b7 Qe2+ (2... Qc2+ 3. Kh3 Qxc6 4. b8=Q Qxf3 5. exf4 e4 6. Qb7 $11 ) (2... fxe3 3. b8=Q Qd2+ 4. Kh3 e2 5. Nxe5 $11) 3. Kh3 Qf1+ $1 4. Kh4 $1 ({ Thematic try} 4. Kg4 $2 Qb5 5. b8=Q Qxb8 6. Nxb8 fxe3 7. Nd7 e2 8. Nc5+ Kb4 9. Nd3+ Kc3 10. Ne1 Kd2 11. Ng2 e1=Q 12. Nxe1 Kxe1 13. Kh3 Kf1 $1 14. g4 Kf2 {zz.} ) 4... Qb5 5. b8=Q Qxb8 6. Nxb8 fxe3 7. Nd7 e2 8. Nc5+ Kb4 9. Nd3+ Kc3 10. Ne1 Kd2 11. Ng2 e1=Q 12. Nxe1 Kxe1 13. g4 $1 Kf2 14. Kh3 $1 {zz} (14. g5 $2 hxg5+ 15. Kxg5 Kxf3 16. h4 e4 17. h5 e3 18. h6 e2 19. h7 e1=Q 20. h8=Q Qg1+ {win.}) 14... Kxf3 15. g5 $1 hxg5 {stalemate.} 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "6 Honorable Mention jr01 te03 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Letzelter J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/1n6/1p1pp3/1p1kn3/6B1/3PP3/N4p1K/8 w - - 0 1"]
+
+ {(Correction 2006 de JMR, un pion a йtй ajoutй en e6 pour йviter une seconde solution commenзant par 1.Nb4+)} 1. Bxe6+ (1. Nb4+ $143 Kc5 2. Na6+ Kc6 3. Be2 Ng4+ 4. Kg2 Nxe3+ 5. Kxf2 Nc2 6. Nxe6 Nc5 $11) 1... Kc6 (1... Kc5 $144 2. d4+ Kc6 3. Kg2 $18) 2. Nb4+ Kc5 (2... Kc7 $144 3. Kg2 $18) 3. Na6+ Kc6 4. d4 f1=N+ (4... Nc5 $144 5. Nb4+ Kc7 6. Kg2 $18) 5. Kg1 (5. Kh3 $143 Nxe3 $11) 5... Nxe3 6. d5+ Nxd5 7. Bd7+ Nxd7 8. Ne6 $18 1-0  

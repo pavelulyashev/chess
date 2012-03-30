@@ -1,0 +1,10 @@
+[Event "Hm chessstar Commendation,om  {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6K1/8/8/5P2/8/8/2kn4/2r3bR w - - 0 1"]
+
+ 1. f6 Ne4 2. f7 Nf6+ 3. Kh8 Nd7 (3... Bc5 4. Rxc1+ Kxc1 5. f8=Q {~} 5... Bxf8 { stalemate}) 4. f8=Q $1 Nxf8 5. Rxg1 Rxg1 {stalemate} 1/2-1/2  

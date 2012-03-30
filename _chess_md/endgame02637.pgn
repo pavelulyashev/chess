@@ -1,0 +1,10 @@
+[Event "3 Prize ts70#1727 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Rusinek J, Ruszczynski P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4b2R/1N1r4/8/8/k3B3/2K5/2p5/8 w - - 0 1"]
+
+ 1. Kb2 $1 (1. Kxc2 $143 Rc7+ 2. Kb2 Bc6 $11) 1... c1=Q+ (1... Re7 $144 2. Rxe8 Rxe8 3. Bc6+ $18) 2. Kxc1 Rc7+ 3. Bc2+ Kb4 (3... Ka3 $144 4. Rxe8 Rxb7 5. Re3+ Ka2 6. Rc3 $1 Rb8 7. Bd3 Ra8 8. Bc4+ Ka1 9. Rb3 Rb8 10. Ra3#) 4. Rh4+ Kc3 (4... Ka3 $144 5. Nd6 Bd7 (5... Bc6 $144 6. Rc4 $18) 6. Kb1 Ra7 7. Rd4 Bc6 8. Nc4+ Kb4 9. Ne5+ Kc5 10. Rc4+ Kd5 11. Nxc6 Rb7+ 12. Rb4 Kxc6 13. Be4+ $18) 5. Nd6 Bd7 6. Rf4 Bc6 (6... Rc6 $144 7. Nb5#) (6... Rc5 $144 7. Ne4+ $18) (6... Rc6 $144 7. Nb5#) (6... Be6 $144 7. Nb5#) 7. Rc4# 1-0  

@@ -1,0 +1,10 @@
+[Event "tk24 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3K2k1/6p1/1B3R2/6p1/8 w - - 0 1"]
+
+1. Rg3 Kh4 2. Rxg2 Kh3 3. Rf2 g3 4. Rf3 Kh2 5. Bc4 g2 6. Bf1 g1=Q 7. Rh3# 1-0

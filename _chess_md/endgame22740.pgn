@@ -1,0 +1,10 @@
+[Event "2/3 Prize, wa08 {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7p/2p5/p4PK1/p2k2N1/8/8/6n1 w - - 0 1"]
+
+ 1. f6 Nf3+ 2. Kh6 $1 (2. Kh5 $2 Ne5 $1 3. Nxe5 a3 4. Nxc6+ Kd5 5. Nxa5 a2 6. Nb3 Ke6 7. Kg5 Kf7) 2... Nh4 $1 3. Kxh7 Nf3 4. Kh6 $1 (4. Kg6 $2 a3 5. f7 Ne5+ $1 6. Nxe5 a2) 4... Ne5 $1 5. Nxe5 a3 6. Nf3+ $1 (6. Nxc6+ $2 Kd3 7. Nd4 a2 8. Nb3 Kc3 9. Na1 Kb2) 6... Kd3 7. Nd4 $1 a2 (7... Kxd4 {main} 8. f7 a2 9. f8=Q a1=Q 10. Qf6+) (7... Kc3 $1 {main} 8. Ne2+ $1 (8. Nb5+ $2 cxb5 9. f7 a2 10. f8=Q Kb2) 8... Kc2 9. Nc3 $1 Kxc3 10. f7 a2 11. f8=Q a1=Q (11... Kb2 12. Qf2+ Kb1 13. Qb6+ $1 Kc2 14. Qxa5) 12. Qf6+) (7... a4 {main} 8. Nxc6 Kc4 9. Nb4 $1 Kxb4 10. f7 a2 11. f8=Q+) 8. Nb3 Kc3 9. Na1 Kb2 10. f7 Kxa1 11. f8=Q c5 $1 12. Qb8 $1 c4 13. Kg5 $1 c3 (13... a4 14. Kf4) 14. Qb3 $1 a4 15. Qc2 a3 16. Qc1# 1-0  

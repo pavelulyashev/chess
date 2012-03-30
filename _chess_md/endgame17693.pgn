@@ -1,0 +1,10 @@
+[Event "2 Prize, t001#469 {c} @2 {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p2p4/8/8/8/k4P2/5P1P/7K w - - 0 1"]
+
+ 1. f4 Kb4 2. h4 (2. Kg2 $2 a5) (2. f5 $2 Kc5 3. h4 Kd5 4. h5 Ke5 5. h6 Kf6) 2... d5 3. f5 Kc5 4. h5 (4. Kg2 $2 Kd6 5. h5 Ke5 6. h6 Kf6 7. Kf3 a5 8. Kf4 a4 9. h7 Kg7 10. Ke5 Kxh7) 4... d4 5. f6 (5. Kg2 Kc4 6. f6 (6. h6 $1 {cook}) 6... d3 7. f7 d2 8. f8=Q d1=Q) 5... Kd6 6. h6 d3 7. f7 Ke7 8. h7 d2 9. f8=Q+ Kxf8 10. h8=Q+ 1-0  

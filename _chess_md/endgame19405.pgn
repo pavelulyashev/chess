@@ -1,0 +1,10 @@
+[Event "tc12#39 {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "q7/4P3/8/8/3Qp2k/4b3/4K3/2r5 w - - 0 1"]
+
+ 1. e8=Q $1 (1. e8=R $2 Qa2+ 2. Kxe3 Re1+ 3. Kf4 Qf7+) 1... Rc2+ (1... Qxe8 2. Qxe4+ Qxe4) (1... Qa6+ 2. Kxe3 Re1+ 3. Kd2 Qe2+ 4. Kc3) 2. Kxe3 Qxe8 (2... Qa3+ 3. Kxe4 Re2+ 4. Kf5+) 3. Qf6+ Kh5 (3... Kh3 4. Qf5+) 4. Qe5+ Qxe5 1/2-1/2  

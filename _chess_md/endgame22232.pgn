@@ -1,0 +1,10 @@
+[Event "tz16#1476 {c} {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Sochniev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2R5/3p1K1N/2p5/4k3 w - - 0 1"]
+
+ 1. Nf2 $1 (1. Ke3 $2 d2 2. Rg4 d1=N+ 3. Kd3 c1=N+ 4. Kc2 Ne3+) 1... Kd2 2. Ne4+ Kd1 $1 (2... Kc1 3. Ke3 Kb2 4. Kd2) 3. Nc3+ Ke1 (3... Kd2 4. Na2) (3... Kc1 4. Ke3 d2 5. Rb4) 4. Re4+ Kf1 5. Rh4 Kg1 6. Rc4 $1 c1=Q (6... Kf1 7. Ne4) 7. Ne2+ 1-0  

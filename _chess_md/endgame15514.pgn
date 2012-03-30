@@ -1,0 +1,10 @@
+[Event "tp31#064 @3 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Umnov G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1P3k2/2P4K/8/5r2/8/8 w - - 0 1"]
+
+ 1. c6 $1 (1. b7 $2 Rb3 2. c6 Kf5 3. Kh4 Kf4 4. Kh5 Kf5) 1... Kf5 (1... Rc3 2. b7 Kf5 3. Kh4) (1... Rb3 2. c7) 2. Kh4 Kf4 3. c7 $1 (3. b7 $2 Rb3) 3... Rc3 4. b7 Rxc7 (4... Rc6 $1 {cook JD/FJ} 5. Kh5 (5. Kh3 Kf3 6. Kh2 Rc2+) 5... Rc5+ 6. Kg6 Rc6+) 5. b8=Q 1-0  

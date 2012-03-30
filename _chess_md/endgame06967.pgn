@@ -1,0 +1,10 @@
+[Event "oprava {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Polacek L"]
+[Black "*"]
+[Result "*"]
+[FEN "8/1K3b2/P7/8/2P5/6P1/2kP1Pr1/8 w - - 0 1"]
+
+ 1. a7 Bxc4 2. Kc6 Bd3 3. Kd5 Be2 4. Ke4 Rxf2 5. a8=Q Bf3+ 6. Ke3 Bxa8 7. Kxf2 *  

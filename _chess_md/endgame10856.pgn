@@ -1,0 +1,10 @@
+[Event "ts10#09577 @1 @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Evreinov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5kr1/6p1/2P5/2R3K1/2N5/8/4pp2/5n2 w - - 0 1"]
+
+ 1. c7 $1 (1. Rf5+ $1 {cook} Ke7 2. Re5+ Kd8 3. c7+ Kxc7 (3... Kd7 4. Rxe2) ( 3... Kc8 4. Re7 Kb7 5. c8=Q+ Kxc8 6. Nd6+ Kd8 7. Rxe2 Rf8 8. Nf5) 4. Rxe2 Ng3 5. Rc2 f1=Q 6. Ne3+) 1... Kf7 2. Rf5+ Ke6 3. Re5+ Kd7 4. Rxe2 Ng3 $1 (4... Rf8 5. Rc2 Ng3 6. Nb6+ Kd6 7. c8=Q) 5. Rxf2 $1 (5. c8=Q+ $1 {cook} Rxc8 6. Rxf2 (6. Nb6+ Kc6 7. Rxf2 Ne4+ 8. Kg6) 6... Ne4+ 7. Kg6 Rc6+ 8. Kxg7 Nxf2 9. Ne5+) 5... Ne4+ 6. Kg6 Nxf2 7. Kh7 Rf8 $1 (7... Re8 8. c8=Q+) 8. Kxg7 Rf4 9. Nb6+ Kxc7 10. Nd5+ 1/2-1/2  

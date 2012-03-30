@@ -1,0 +1,10 @@
+[Event "1 Prize tt21#3037 {c} @2 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "R7/3k4/8/1K5P/8/8/b4r2/1n6 w - - 0 1"]
+
+ 1. h6 Nc3+ (1... Rh2 2. h7 Rxh7 3. Ra7+ (3. Rxa2 $2 Nc3+)) (1... Bg8 2. h7) 2. Kb4 (2. Ka5 $2 Rf5+ 3. Kb6 Rf6+ 4. Kc5 Rc6+ 5. Kd4 Nb5+ 6. Ke3 Bb1) (2. Kc5 $1 {cook JR} Rf5+ 3. Kd4 Nb5+ 4. Ke3 Bc4 5. h7) 2... Nd5+ 3. Kc5 Rc2+ 4. Kd4 Rd2+ 5. Ke5 Re2+ 6. Kd4 Bb1 7. Ra1 (7. Kxd5 $2 Be4+) 7... Rd2+ 8. Ke5 Bg6 (8... Nc3 9. Rxb1 Nxb1 10. Kf6 Nc3 11. h7 Ne4+ (11... Nd5+ 12. Kg7 Rg2+ 13. Kf8) 12. Kg7 Ke7 (12... Rg2+ 13. Kf8) 13. h8=Q Rg2+ 14. Kh6 (14. Kh7 $2 Nf6+ (14... Kf7 $2 15. Qb8 Nf6+ 16. Kh8) 15. Kh6 Ng8+ 16. Kh7 Kf7 17. Qe5 Nf6+ 18. Kh6 Rg6#)) 9. h7 Bxh7 10. Rd1 Rxd1 1/2-1/2  

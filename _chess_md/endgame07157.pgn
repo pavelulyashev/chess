@@ -1,0 +1,10 @@
+[Event "bt01#33 {1766} {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Cozio C"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3b4/8/6pk/p7/R5K1/8 w - - 0 1"]
+
+ 1. Ra1 (1. Rd2 $2 Be5 2. Ra2 Bb2 3. Kg1 Kg3 $146) 1... Bc5 2. Ra2 Bd6 3. Ra1 Kg5 4. Ra2 Kf5 5. Ra1 Ke4 6. Ra2 Kd3 7. Rxa3+ $1 Bxa3 8. Kg3 1/2-1/2  

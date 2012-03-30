@@ -1,0 +1,10 @@
+[Event "td23#1127 {m}"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Graap C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/8/3N4/4KN2/5p2/8/8/8 w - - 0 1"]
+
+ 1. Ne4 f3 (1... Kh7 2. Kf6 f3 3. Kf7) (1... Kg8 2. Kf6 Kf8 3. Ng7 f3 4. Nf2) 2. Nf2 Kh7 3. Kf6 Kg8 (3... Kh8 4. Kf7 Kh7 5. Ne4 f2 6. Nf6+ Kh8 7. Ne7 f1=Q 8. Ng6#) 4. Ke7 Kh7 (4... Kh8 5. Kf7) 5. Kf7 Kh8 6. Kg6 Kg8 7. Ng7 Kf8 (7... Kh8 8. Ne6 Kg8 9. Ng4) 8. Kf6 Kg8 9. Ne6 Kh7 (9... Kh8 10. Kg6) 10. Kg5 Kg8 11. Kg6 Kh8 12. Kf7 Kh7 13. Ng4 f2 14. Nf8+ Kh8 15. Nf6 f1=Q 16. Ng6# 1-0  

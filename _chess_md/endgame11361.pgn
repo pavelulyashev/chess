@@ -1,0 +1,10 @@
+[Event "2 Prize tu04 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/8/p7/8/1K6/1p3N2/p7/2k5 w - - 0 1"]
+
+ 1. Nd4 b2 (1... a5+ $144 2. Kxb3 a1=Q 3. Rf1+ $18) 2. Kc3 $1 (2. Nb3+ $143 Kd1 $11) (2. Rf1+ $143 Kd2 3. Rf2+ Kd3 4. Rxb2 a5+ 5. Kc5 a1=Q $11) 2... b1=N+ 3. Kd3 (3. Kc4 $143 Nd2+ 4. Kd3 a1=Q 5. Rf1+ Nxf1 6. Nb3+ $11) (3. Kb4 $143 a5+ 4. Kb5 Nd2 5. Rc8+ Kb2 6. Nc2 Nb3 $11) 3... a1=Q (3... Nd2 $144 4. Rc8+ Kb2 5. Rb8+ Kc1 6. Ne2+ Kd1 7. Nc3+ $18) (3... a1=N $144 4. Rf2 Na3 5. Ra2 $18) 4. Rf1+ (4. Nb3+ $143 Kb2 5. Nxa1 Kxa1 6. Kc2 Ka2 7. Rf2 (7. Ra8 $144 Na3+ 8. Kc3 Nb5+ $11) 7... a5 $1 8. Rh2 (8. Kc1+ $144 Ka1 9. Rb2 Nc3 $11) 8... a4 $1 9. Rg2 Na3+ $1 10. Kc3+ Kb1 11. Rg5 Ka2 $11) 4... Kb2 5. Rf2+ Nd2 (5... Ka3 $144 6. Nc2+ Kb2 7. Nxa1+ Kxa1 8. Kc4 $1 a5 9. Kb3 $18) 6. Rxd2+ Kb1 7. Ne2 $1 (7. Rd1+ $143 Kb2 $11) 7... Qa5 (7... Qa3+ $144 8. Nc3+ $18) 8. Nc3+ Ka1 9. Rf2 $1 (9. Rd1+ $143 Kb2 10. Rb1+ Ka3 11. Ra1+ Kb4 $11) 9... Qa3 10. Rf1+ Kb2 11. Rb1# 1-0  

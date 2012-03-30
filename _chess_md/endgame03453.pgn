@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky sach_052006_Nr32 {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Nosek S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/7K/3pP1n1/2P5/N2N4/8/6n1/8 w - - 0 1"]
+
+1. Kxg6 $1 (1. cxd6 $2 Nf8+ 2. Kg8 Nxe6 3. Nxe6+ Kd7) (1. c6 $2 N2f4 2. Kg7 (2.Nb5 Nf8+ 3. Kg8 N8xe6) 2... Kc7 3. Nc3 Ne7 4. Ncb5+ Kb6 5. c7 Nxe6+ 6. Nxe6Kxb5 7. Kf7 Nc8) (1. Nc6+ $1 Kc7 2. Kxg6 Nf4+ 3. Kf7 (3. Kf6 $2 dxc5 (3... Nxe64. Kxe6 (4. cxd6+ Kxd6) 4... dxc5) 4. e7 Nd5+ 5. Ke6 Nxe7 6. Nxe7)) (1. Nb6 $1{To ma byt pointa} N2f4 (1... dxc5 2. Kxg6 Ke8 3. Nd5 cxd4 4. Kf6 Kd8 5. e7+Kd7 6. Nc7) 2. cxd6 Nf8+ 3. Kg8 N4xe6 4. Nc6+ Ke8 5. d7+ Nxd7 6. Nd5) 1... Nf4+(1... dxc5 2. Kf7) (1... Ke7 2. cxd6+ Kxd6 3. Kf7) 2. Kf7 (2. Kf6 dxc5 $1 (2...Nxe6 3. Kxe6 (3. Nxe6+ Kd7) 3... dxc5 4. Nb5) 3. Kf7 (3. e7+ Ke8 4. Nf5 (4.Nxc5 Nd5+ 5. Ke6 Nxe7) 4... Nd5+ 5. Ke6 Nxe7 6. Nd6+ Kf8 7. Nxc5) 3... Nd5 4.Nxc5) 2... Nxe6 3. Kxe6 (3. Nxe6+ Kd7 4. c6+ (4. Nf8+ Kc6 5. Ke6 dxc5 6. Nc3))3... dxc5 4. Nb5 c4 5. Nac3 1-0

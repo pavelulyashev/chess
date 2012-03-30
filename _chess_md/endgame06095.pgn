@@ -1,0 +1,10 @@
+[Event "tb19 {c} @3 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/2p5/2p1P3/p1P4p/k5B1/3r4/1P4K1/5R2 w - - 0 1"]
+
+ 1. Rf4+ (1. e7 $2 1... Re3 2. Rf4+ 2... Kb5 $1) 1... Kb3 2. e7 Re3 (2... Bd5+ 3. Kf2) 3. Rf3 Bd5 (3... Rxf3 $1 4. e8=Q hxg4 5. Qxg8+ Kxb2 6. Qxg4 Rc3 7. Qa4 (7. Qg7 a4 8. Qxc7 a3 9. Qxc6 a2) 7... Rxc5) 4. Be6 Kxb2 5. e8=Q Rxe6 6. Qxh5 1-0  

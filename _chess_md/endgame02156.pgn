@@ -1,0 +1,10 @@
+[Event "El Ajedrez Americano {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Palau L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/2P2P2/Kp2R2P/3p4/1k5r/6b1/8 w - - 0 1"]
+
+ 1. f7 Rf3 2. c7 Bh3 3. Rf5 $1 {Nowotny} Rxf5 (3... Bxf5 4. f8=Q) 4. c8=Q Rxh5 5. Qg8 1-0  

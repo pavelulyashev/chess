@@ -1,0 +1,10 @@
+[Event "tt22#008 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Brodd G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/3P4/3p2pp/3P4/k4K1P/7P/8 w - - 0 1"]
+
+ 1. h4 gxh4 2. h3 $3 (2. Kf4 $2 h3 $1) 2... Kb4 3. Kf4 Kb5 (3... Kc4 4. Ke5 Kb5 5. Kxd5 Kb6 6. Ke5 Kb5 7. Ke4 Kb6 (7... Kc6 8. Ke5) 8. Kf5) (3... Kc3 4. Ke5 Kc4 5. Kf6 Kxd4 6. Ke7 Kc3 7. Kxd7 d4 8. Ke6 d3 9. d7 d2 10. d8=Q Kc2 11. Qc7+ Kb1 12. Qb6+ Kc2 13. Qc5+ Kb1 14. Qxh5) 4. Kf5 Kb6 5. Kf6 Kb7 6. Kf7 Kb8 7. Ke7 Kc8 8. Ke8 1-0  

@@ -1,0 +1,10 @@
+[Event "64#154 {c} {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2N5/7N/p7/8/1K4p1/2P5/4k3 w - - 0 1"]
+
+ 1. Nf5 (1. Ne6 $143 g2 2. Nd4 Kd1 3. Nf3 a4+ 4. Kc3 a3 $11) (1. Ng4 $143 g2 2. Ne5 Ke2 $19) 1... g2 2. Nh4 (2. Nd4 $143 Kf2 $19) 2... g1=Q (2... g1=N $144 3. c4 Ne2 4. Ne6 $18) 3. Nf3+ Kd1 4. Nxg1 a4+ 5. Kc3 (5. Kb2 $143 a3+ $11) 5... a3 6. Nd5 a2 7. Ne3+ Kc1 8. Ne2+ Kb1 9. Kd2 $1 a1=Q (9... Kb2 $144 10. Nc4+ Kb1 11. Nc3+ Ka1 12. Nxa2 $18) 10. Nc3+ Kb2 11. Nc4# 1-0  

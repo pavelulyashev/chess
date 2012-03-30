@@ -1,0 +1,10 @@
+[Event "Internet (Endgame Tablebases Forum) {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/Q2K3k/8/8/8/5q2/1P6/8 w - - 0 1"]
+
+ 1. Kc7 $3 (1. Ke7 $2 Qg3 $1 2. Qd7 (2. Kf6+ Kh6 $11) 2... Qe5+ 3. Kf7 Qf4+ 4. Ke6+ Kh8 $1 (4... Kg8 $2 5. Qd5 $1 $18) 5. Qe8+ Kg7 6. Qd7+ Kh8 $11) (1. Kd6+ $2 Kh6 $1 $11 (1... Kg6 $2 2. Qg1+ Kh7 3. Qh2+ Kg8 4. Qe5 Qf8+ 5. Kc7 Qf7+ 6. Kb6 Qb3+ 7. Kc5 $18 Qc2+ 8. Kd6 Qf2 9. Qd5+ Kh8 10. b3 $18)) 1... Qg3+ (1... Kg8 2. Qb8+ Kg7 3. Qb7 $1 $18) 2. Kb7 $3 (2. Kc6+ $2 Kg6 $1 (2... Kh6 $2 3. Qd4 Qg2+ 4. Kc5 Qc2+ 5. Kb4 $18) 3. Qd4 Qg2+ 4. Kc5 Qc2+ 5. Kd5 Qb3+ 6. Kc5 Qc2+ $11) 2... Qb3+ 3. Ka6+ Kg6 4. Qb6+ 1-0  

@@ -1,0 +1,10 @@
+[Event "onbekend {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6pp/6P1/p5P1/k1p5/5p2/1PK1P3/5B1b w - - 0 1"]
+
+ 1. gxh7 fxe2 $1 2. Bxe2 Be4+ 3. Kc3 Bxh7 4. Bh5 $1 Kb5 (4... g6 5. Bg4 Kb5 6. Be6) 5. Be8+ Kc5 (5... Kb6 $1 6. g6 Bxg6 7. Bxg6 Kc5 $11) 6. g6 Bg8 (6... Bxg6 7. Bxg6 a4 8. Bh5 g5 9. Be2 $18) 7. Bf7 1-0  

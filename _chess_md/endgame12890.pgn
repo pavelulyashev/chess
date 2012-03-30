@@ -1,0 +1,10 @@
+[Event "oy01 @1 {m}"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P7/2K5/8/5N2/8/2k2p2/8 w - - 0 1"]
+
+ 1. Ng2 (1. a8=Q $1 {cook}) 1... Kd2 2. a8=Q f1=Q 3. Qa2+ Kc3 4. Qa3+ Kd4 5. Qc5+ Ke4 6. Qd5# 1-0  

@@ -1,0 +1,10 @@
+[Event "5 Prize tc06#10 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k3r/8/1PP5/8/8/R2P2R1/1p3K2/3r4 w - - 0 1"]
+
+ 1. Rg7 $1 Rf8+ $1 (1... Rf1+ 2. Ke3 Rh3+ 3. Kd4 Rh4+ 4. Kc3 b1=N+ 5. Kb3) 2. Ke3 (2. Ke2 $4 Re8+ 3. Kf2 Rf1+ $1) 2... Re8+ 3. Kd4 Rxd3+ $1 4. Rxd3 (4. Kxd3 $2 b1=Q+) 4... b1=Q 5. Kc4+ $1 Kc8 6. b7+ Kb8 7. Rd8+ $1 Rxd8 8. c7+ Ka7 9. b8=Q+ $1 (9. cxd8=Q $2 Qc2+ 10. Kb5 Qb3+ 11. Kc6 Qc3+ $1) 9... Rxb8 10. c8=N+ $1 Ka6 (10... Ka8 {main} 11. Ra7#) 11. Ra7# 1-0  

@@ -1,0 +1,10 @@
+[Event "4 Prize, NONA 2010 {m}"]
+[Site "?"]
+[Date "2010.07.22"]
+[Round "?"]
+[White "Eilazyan E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2N2bPk/7P/4R1P1/8/4Bq2/8/K7 w - - 0 0"]
+
+ 1. Ne6 $1 (1. g6+ $2 Bxg6 2. Kb2 Qg2+ 3. Ka3 Qg3 4. Re6 Bf7 5. Rc6 Qxe3+ $19) ( 1. Re6 $2 Bxe6 2. Nxe6 Qd1+ 3. Kb2 Qe2+ 4. Kb1 Qb5+ 5. Kc2 Qc4+ 6. Kd2 Qxe6 $19 ) 1... Qh1+ (1... Qa8+ 2. Kb2 Qb7+ 3. Kc3 Bxe6 4. g6+ Kxg6 (4... Kg8 $2 5. h7+ Kxg7 6. Bd4 $14) 5. Rxe6+ $11) 2. Kb2 Qh2+ 3. Kc1 $1 ({Thematic try} 3. Ka3 $2 Qxe5 4. Nf8+ Kg8 5. h7+ Kxg7 6. Bd4 Qxd4 7. Ne6+ Bxe6 8. h8=Q+ Kxh8 { and not a stalemate, because the pawn g5 is not blocked.}) 3... Qxe5 4. Nf8+ $1 Kg8 5. h7+ Kxg7 6. h8=Q+ Kxh8 7. Ng6+ Bxg6 8. Bd4 Qxd4 {stalemate} 1/2-1/2  

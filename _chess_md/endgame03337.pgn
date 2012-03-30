@@ -1,0 +1,10 @@
+[Event "Spec. HM as equal {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "1n1q2k1/4R3/8/2B2N2/2K5/8/8/8 w - - 0 1"]
+
+1. Nh6+ ({Thematic try} 1. Rg7+ $5 Kh8 2. Bd4 Nc6 $1 3. Rd7+ Kg8 4. Nh6+ Kf8 5.Bc5+ Ke8 $11) 1... Kf8 2. Rh7+ ({Thematic try} 2. Ra7+ $5 Ke8 3. Nf5 Qd7 $3 $11) 2... Ke8 3. Nf5 $1 Qa5 {main} (3... Qf6 {main} 4. Nd6+ Kd8 5. Bb6#) (3... Qd1{main} 4. Nd6+ Kf8 (4... Kd8 5. Bb6#) 5. Ne4+ Ke8 (5... Kg8 6. Nf6#) 6. Nf6+Kd8 7. Bb6+ Kc8 8. Rc7+ Kd8 9. Rd7+ Kc8 10. Rxd1 $18) 4. Nd6+ Kf8 (4... Kd8 5.Nb7+ Kc8 6. Nxa5 $18) 5. Ne4+ Ke8 (5... Kg8 6. Nf6#) 6. Nf6+ Kd8 7. Bb6+ $1Qxb6 8. Rh8+ Kc7 9. Nd5+ Kb7 10. Nxb6 Kxb6 11. Rxb8+ $18 {. We do not so oftensee a miniature - "the aristocrat". This work leaves a pleasant impression!} *

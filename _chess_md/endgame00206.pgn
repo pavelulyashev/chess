@@ -1,0 +1,10 @@
+[Event "4 Prize Bent JT EG @3 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Lavaud M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4NB1r/8/7P/5p2/3pb3/8/R3P3/2k1Kn2 w - - 0 1"]
+
+ 1. Ba3+ (1. Bg7 $2 Rxe8 2. Bxd4 Ng3 $1 (2... Nh2 $2 3. h7 f4 4. h8=Q Rxh8 5. Bxh8 f3 6. Ra4 $1 (6. e3 Ng4) (6. Be5 f2+ 7. Kxf2 Ng4+))) 1... Kb1 2. Rb2+ Ka1 (2... Kc1 3. Nc7 Rh7 4. Ne6 Rxh6 5. Nxd4 Ra6 6. Nb3#) 3. Bc5 (3. Nc7 $2 Ne3) 3... Rxh6 (3... Kxb2 4. Bxd4+ Kb3 5. Bxh8 Nh2 6. Nf6 Ng4 7. Nxe4) 4. Bxd4 Rh1 5. Kf2 (5. Nd6 $2 f4 6. Rb8+ (6. Nxe4 Ne3+ 7. Kd2 Rd1+ 8. Kc3 Rxd4 9. Nd2 Nd1+ 10. Kxd4 Kxb2) 6... Ka2 7. Nxe4 Ng3+ 8. Kf2 Nxe4+ 9. Kf3 Ng3) 5... f4 (5... Nh2 6. Nf6 Ng4+ 7. Nxg4 fxg4 8. Kg3 Rc1 9. Kxg4 Rf1 10. e3 Rc1 11. Kf4 Bh1 12. e4 Bxe4 13. Kxe4) 6. Rd2+ Kb1 7. Rd1+ Kc2 8. Rxf1 Rh2+ 9. Ke1 f3 10. exf3 (10. Rf2 $2 Rh1+) (10. Bf2 $2 fxe2 11. Rg1 Rh1) (10. Rxf3 $2 Bxf3 11. exf3 Kd3 12. Bf2 Rh1+) 10... Kd3 (10... Bc6 $1 {cook GB} 11. Ng7 (11. Nd6 Kd3 12. Bg7 Re2+ $1 ( 12... Ba4 $2 13. Rg1 $1 Ke3 14. Nc4+ $3 Kxf3 15. Nd2+ $3 (15. Ne5+ $2 Ke4 16. Rg4+ Ke3 $1) 15... Kf4 16. Be5+ Kxe5 17. Nf3+) 13. Kd1 Rd2+ 14. Kc1 Rc2+ 15. Kb1 Rg2 16. Be5 Ke2) 11... Kd3 12. Bf6 Re2+ 13. Kd1 Ba4+ 14. Kc1 Rc2+ 15. Kb1 Ke2 16. Rh1 Kxf3) 11. fxe4 (11. Bf2 $2 Bxf3 12. Nf6 Bg2 13. Rg1 Rh1) (11. Be5 $2 Re2+ 12. Kd1 Bg6) (11. Bg1 $2 Re2+ (11... Rb2 $2 12. fxe4) 12. Kd1 Ra2) (11. Bf6 $2 Re2+ 12. Kd1 Bg6 13. Ng7 Rd2+ 14. Kc1 Rc2+ 15. Kb1 Rc6) 11... Re2+ 12. Kd1 Rxe4 13. Nd6 Rf4 (13... Rxd4 14. Rf3#) 14. Rf2 (14. Rxf4 $2) (14. Bf2 $2 Ra4 (14... Rb4 $2 15. Kc1 Ke2 16. Bc5) 15. Bd4 Rb4 (15... Kxd4 $2 16. Rf4+)) 1-0  

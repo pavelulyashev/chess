@@ -1,0 +1,10 @@
+[Event "JT Pavlovsky & Pospishil - 70, 2nd HM {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4b2n/2B5/2k5/4K2n/N7/8/2P5/8 w - - 0 1"]
+
+ 1. Bd8 $1 (1. Ba5 $2 Kb5) (1. Bb8 $2 Kb7) 1... Nf7+ 2. Ke6 Nxd8+ (2... Nf4+ 3. Kf5 $1 $11 (3. Ke7 $2 Ng6+ 4. Kxe8 Nd6#)) 3. Ke7 Bg6 4. Kxd8 Bxc2 5. Nc3 Nf4 ( 5... Ng3 6. Ke7 Kc5 7. Ke6 Kc4 8. Nd5 $11) 6. Ke7 Kc5 7. Kf6 Kc4 8. Ne4 $1 Bxe4 9. Ke5 {draw.} 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "ts23#32 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4n3/8/8/8/4pNp1/8/1p2K1pk/B2Q3b w - - 0 1"]
+
+ 1. Nh3 $1 (1. Nxg2 $2 Bxg2 2. Ke3 bxa1=Q 3. Qxa1 g3 $1 4. Qh8+ (4. Qe5 Bh3 5. Kxe4 Nf6+ $1) 4... Bh3 5. Qxe8 g2) 1... gxh3 (1... bxa1=Q 2. Qxa1 Kxh3 3. Qh8+ Kg3 4. Qe5+ $1 Kh4 5. Kf2) 2. Qg1+ $1 Kxg1 3. Bxb2 Kh2 (3... Nd6 4. Bd4+ Kh2 5. Be5+ Kg1 6. Bxd6 e3 7. Bf4 h2 8. Bxe3#) 4. Be5+ Kg1 5. Ke1 e3 6. Ke2 Nf6 $1 7. Bxf6 h2 8. Ke1 $1 e2 9. Bd4# 1-0  

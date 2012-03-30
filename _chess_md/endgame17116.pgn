@@ -1,0 +1,10 @@
+[Event "wm03 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Somov-Nasimovitch E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6B1/3b4/5R2/r3r3/8/1P6/3P4/1K1kbN2 w - - 0 1"]
+
+ 1. Ne3+ Ke2 $1 2. Nc4 Rf5 $1 3. Rd6 Ra7 $1 4. Rxd7 $1 Rxd7 5. Be6 Rdd5 (5... Rdf7 6. Nd6) (5... Rfd5 6. Nb6) (5... Rff7 6. Ne5) 6. Ne3 $1 1/2-1/2  

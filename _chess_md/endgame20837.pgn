@@ -1,0 +1,10 @@
+[Event "tp23#586 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6R1/2K3Rr/8/8/k7/8/8/6q1 w - - 0 1"]
+
+ 1. Ra8+ Kb5 2. Rb8+ (2. Rxh7 $2 Qb6+ 3. Kc8 Qe6+ 4. Kc7 Qc4+) 2... Ka6 3. Ra8+ Kb5 4. Rb8+ Kc5 5. Rxh7 Qg3+ 6. Kb7 Qg2+ 7. Kc7 $1 (7. Ka7 $2 Qa2+ 8. Kb7 Qb1+) 7... Qc6+ 8. Kd8 Qd6+ 9. Kc8 Kc6 10. Rb6+ $1 Kxb6 11. Rb7+ $1 Kc6 (11... Ka6 { main} 12. Ra7+ Kxa7) 12. Rb6+ $1 Kxb6 1/2-1/2  

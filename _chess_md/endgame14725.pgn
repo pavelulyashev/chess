@@ -1,0 +1,10 @@
+[Event "tt06#0323 {v} @2 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Daniel A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n2K4/3P1p1N/ppq1r3/5k2/3P1p2/1Q1p3P/B1N4P/8 w - - 0 1"]
+
+ 1. Qxd3+ Re4 (1... Qe4 2. Qxe4+ Kxe4 3. Bb1) 2. Qxe4+ $1 (2. Qc4 $1 {cook}) 2... Qxe4 (2... Kxe4 3. Bd5+ Kxd5 4. Nb4+ Kd6 5. Nxc6 b5 6. Na7 Nb6 (6... f3 7. Nc8+ Kc6 8. Ke7 f2 9. d8=Q f1=Q 10. Qd7#) (6... Nc7 7. Nc8+ Kc6 8. d5+ Nxd5 9. Ne7+ Nxe7 10. Kxe7) 7. Nc8+ Kc6 8. Nxb6 f3 9. Kc8 f2 10. d8=Q f1=Q 11. Qc7#) 3. Bb1 Qb7 (3... Qe2 4. Ne3+ Ke6 5. Ng5+ Kf6 6. Kc8 fxe3 (6... Qxe3 7. d8=Q+ Kg7 8. Ne4 $1 Qc1+ 9. Kd7 Qxb1 10. Qg5+ Kf8 11. Qh6+ Kg8 12. Nf6#) 7. d8=Q+ Kg7 8. Ne6+ $1 fxe6 9. Qg5+ Kf8 10. Qh6+ Kf7 11. Bg6+ Ke7 12. Qg7+ Kd6 13. Qd7#) (3... Qh1 4. Ne3+ Ke6 5. Ba2+ Kd6 6. Nf5+ Kc6 7. Kc8 Qe4 (7... Qc1 8. d8=Q) 8. Bd5+) (3... Qd3 4. Ne3+) 4. Ne3+ Ke6 5. Bf5+ Kd6 6. Nc4+ Kd5 7. Be4+ Kxe4 8. Nd6+ Kd3 9. Nxb7 f3 10. Kc8 f2 11. d8=Q f1=Q 12. d5 Qf5+ 13. Kb8 Qxh7 14. d6 1-0  

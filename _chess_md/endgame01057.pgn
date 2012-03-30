@@ -1,0 +1,10 @@
+[Event "Josten65_3rdcomm {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Afek Y, Van der Heijden H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P5/8/pk6/3rP3/1K6/R7 w - - 0 1"]
+
+ {A nice miniature with two related lines. But the Q-promotion one is trivial.} 1. Rxa4+ $3 (1. Rc1 Rd8 2. c7 (2. e4 Rc8 3. e5 Kb5 4. e6 Rxc6 5. Re1 Rc8 6. e7 Re8) 2... Rc8 3. e4 Kb5 4. e5 Kb6 5. e6 Rxc7) (1. c7 $2 Rb3+) 1... Kxa4 { The rest is Nalimov} 2. c7 {with two sublines} Rd2+ (2... Rb3+ 3. Kc2 Rb5 4. c8=R $3 (4. c8=Q Rc5+ 5. Qxc5) 4... Rd5 5. Rb8 $1) 3. Kc1 (3. Kc3 Rd5 (3... Rd1 $2 4. Kb2 $18) 4. c8=R Kb5 5. e4 Rc5+ 6. Rxc5+ Kxc5) 3... Rd5 4. c8=Q $1 (4. c8=R $2 Rd3 (4... Kb5) (4... Kb4)) 1-0  

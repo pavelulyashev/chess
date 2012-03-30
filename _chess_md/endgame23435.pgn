@@ -1,0 +1,10 @@
+[Event "tp16 {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b7/7k/4B3/7p/7K/b7/8/4R3 w - - 0 1"]
+
+ 1. Ra1 Be7+ 2. Kh3 $1 Be4 3. Ra7 Kg6 4. Rxe7 Kf6 5. Re8 Bc6 $1 6. Rc8 Bb5 $1 7. Bf5 $1 Kxf5 (7... Bf1+ 8. Kh4 Kxf5 9. Rf8+) 8. Rc5+ 1-0  

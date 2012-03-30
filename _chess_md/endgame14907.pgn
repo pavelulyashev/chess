@@ -1,0 +1,10 @@
+[Event "tr19 @3 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4K2B/1P6/1k6/8/r7/3N4 w - - 0 1"]
+
+ 1. Bf4 Ra1 $1 (1... Rg2 $1 {cook WK}) (1... Ra5 $1 {cook} 2. b6 Rb5) 2. b6 $1 Rxd1 3. b7 Rd8 4. Bc7 Rh8 5. Be5 Rd8 6. Ke7 Rg8 $1 7. Kf7 Rd8 8. Bc7 Rh8 9. Bd6+ Ka5 10. Bf8 Rh7+ 11. Bg7 1-0  

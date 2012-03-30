@@ -1,0 +1,10 @@
+[Event "ts04#3000 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K6/8/k2N4/B7/8/PPPb4/4p3/8 w - - 0 1"]
+
+ 1. c4 Kxa5 2. Ka7 (2. Kb7 $2 Be4+ 3. Nxe4 e1=Q) 2... Be4 (2... Bxc4 3. Nxc4+ Kb5 4. Ne5 e1=Q 5. a4+ Kb4 6. Nd3+) 3. Nxe4 e1=Q 4. Nc5 Qe7+ 5. Nb7+ Qxb7+ 6. Kxb7 1/2-1/2  

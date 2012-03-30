@@ -1,0 +1,10 @@
+[Event "bc13 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/8/8/k1K3p1/6N1/8/8/8 w - - 0 1"]
+
+ 1. Nb7+ $1 1... Ka4 $1 2. Kc4 Ka3 3. Nc5 Kb2 4. Kd3 Kc1 5. Ne3 Kb2 (5... g4 6. Kc3 g3 7. Nd3+ Kb1 8. Ng2 $1 8... Ka1 9. Kb4 Ka2 10. Ka4 Ka1 11. Ka3 Kb1 12. Kb3 Ka1 13. Ne3 g2 14. Nc2+ Kb1 15. Na3+ Ka1 16. Nb4 g1=Q 17. Nbc2#) (5... Kb1 6. Kc3 Ka2 7. Nc4 Kb1 8. Nd3 g4 9. Kb3 g3 10. Na3+ Ka1 11. Nb4 g2 12. Nbc2#) 6. Kd2 g4 7. Nc4+ Kb1 8. Ne4 g3 9. Nc3+ Ka1 10. Kc2 g2 11. Nd2 g1=Q 12. Nb3# 1-0  

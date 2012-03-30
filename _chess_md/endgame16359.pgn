@@ -1,0 +1,10 @@
+[Event "tp21#087 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5P1R/rpb5/k7/2K5/8/1P3p2/2N5 w - - 0 1"]
+
+ 1. Nb3+ Ka4 2. Nc5+ $1 (2. Nd2 $2 Ra8 3. Rg7 (3. f8=Q Bd5+ $1 4. Kxd5 Rxf8 5. Rh1 f1=Q 6. Nxf1 Kb3) 3... Rf8 4. Rg3 Bb5+) 2... bxc5 (2... Ka5 3. b4#) 3. b3+ Ka5 $1 4. f8=Q f1=Q+ (4... Bb5+ 5. Kxc5 f1=Q (5... Rc6+ 6. Kd5 f1=Q 7. Qa3+ Kb6 8. Qa7#) 6. Qd8+) 5. Qxf1 Bb5+ 6. Kxc5 Bxf1 7. Rh4 $3 (7. Rh2 $2 Rc6+ 8. Kxc6 Kb4 9. Rb2 Bd3) 7... Bb5 8. Ra4+ $1 Bxa4 9. b4# 1-0  

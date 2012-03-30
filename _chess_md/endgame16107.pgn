@@ -1,0 +1,10 @@
+[Event "1 Prize Vecherny Krasnoturinsky 10 JT {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Visokosov A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K2N4/3Pp2k/1P2p2P/7P/7P/5r1p/1n6/8 w - - 0 1"]
+
+ {A rook down, White 's surviving chances lie in promoting one of his advanced pawns. But which one?} 1. b7 (1. Nxe6 $143 Rd3 2. Nf4 (2. Ng5+ $144 Kxh6 3. Nxh3 Na4 $19) (2. Nf8+ $144 Kxh6 3. b7 h2 4. b8=Q Ra3+ 5. Kb7 h1=Q+ 6. Kc8 Qc6+ 7. Kd8 Ra8 $19) 2... h2 3. Nxd3 h1=Q+ 4. b7 Qd5 5. Nc5 Na4 6. Nxa4 Qxd7 7. Nb6 Qc6 8. Ka7 Qc7 9. Na8 Qa5+ 10. Kb8 Qc5 11. Nc7 e5 $19) 1... Nc4 (1... Ra3+ $144 2. Kb8 h2 3. Nc6 Rd3 4. Kc7 h1=Q 5. b8=Q Qh2+ 6. Kc8 Qxb8+ 7. Nxb8 e5 8. d8=Q Rxd8+ 9. Kxd8 e4 10. Nc6 e3 11. Nd4 e5 12. Ne2 $11) {Here we come to the thematic crossroad. There are two knight's moves to create a double threat: promoting the d-pawn as well as a fork on g5. The thematic try shows the essence of the entire idea:} 2. Nf7 (2. b8=Q $143 Ra3+ 3. Kb7 Rb3+ 4. Kc7 Rxb8 5. Kxb8 Ne5 6. Nxe6 Nxd7+ 7. Kc7 h2 $19) (2. Nxe6 $143 Nb6+ 3. Ka7 Nxd7 4. Ng5+ Kxh6 5. Nxf3 Kxh5 6. Ka8 e6 7. Ne5 h2 8. Nxd7 h1=Q 9. Ka7 Qc6 10. b8=Q Qxd7+ 11. Kb6 Qd4+ 12. Kc6 Qd5+ {The point! The earlier move 6...e6 eventually enabled this last winn ing move as following 13.Kb6 Qb3+ wrns, or 13.Kc7 Qe5+. Black trades queen s and his last pawn decides. Therefore white will strive to prevent the move 6...e6 simply by not capturing  the pawn standing there as early as In move two!} 13. Kb6 (13. Kc7 $144 Qe5+ $19) 13... Qb3+ $19) 2... Nb6+ 3. Ka7 Nxd7 4. Ng5+ Kxh6 5. Nxf3 Kxh5 6. Ka8 $1 {Here it is! Avoiding the capture in the second move leaves now Black in zugzwang however deprived of the waiting move 6...e6.} e5 (6... Kh6 $144 7. Ne5 Kh5 $11) (6... Kg4 $144 7. Ne5+ $11) 7. Nxe5 h2 8. Nxd7 h1=Q 9. Ka7 Qa1+ (9... Qd5 $144 10. b8=Q Qxd7+ 11. Kb6 $1 Qd4+ 12. Kc6 $1 Kxh4 13. Qh2+ $11) 10. Kb6 Qd4+ 11. Kc7 Qd6+ 12. Kd8 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/pn6/5p2/2P1p1N1/1BP5/P3P1K1/1r6/8 w - - 0 1"]
+
+ 1. c6 Rxb4 2. c5 (2. axb4 $143 Nd6 3. c5 Nf5+ 4. Kg4 Nxe3+ 5. Kf3 Nd5 6. Ne6 Kf7 7. c7 Ne7 8. Nd8+ Ke8 9. Nc6 Nc8 $11) 2... Rb5 (2... Nxc5 $144 3. axb4 Na4 4. Ne4 Nb6 5. Nd6 Nd5 6. Nb5 a6 7. c7 Nb6 8. Nd6 f5 9. c8=Q+ Nxc8 10. Nxc8 $18) 3. a4 fxg5 4. Kh3 g4+ 5. Kh4 (5. Kxg4 $143 Rxc5 6. cxb7 Rc4+ 7. Kf5 Rb4 $19) ( 5. Kg3 $143 Nxc5 6. axb5 Ne4+ 7. Kxg4 Nd6 $19) 5... g3 6. axb5 g2 7. cxb7 g1=Q 8. b8=Q+ $18 1-0  

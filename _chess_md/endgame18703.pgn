@@ -1,0 +1,10 @@
+[Event "3 Prize, ts22#292 @2 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/n3n3/Np1p4/1Pp3R1/6p1/N1K3k1 w - - 0 1"]
+
+ 1. Nc2 Nd3+ (1... Nxb3+ {main} 2. Kd1 $1 (2. Kb1 $1 {cook HB} Nd2+ 3. Ka1 $1 b3 (3... Nc6 4. Nxb4 Nxb4 5. Nxc3 dxc3 6. Rxg2+ Kxg2) 4. Nxd4 c2 5. Nxc2) 2... Nd3 3. Nxd4 Nxd4 4. Nxc3 $1 bxc3 (4... Nf2+ {main} 5. Ke1 $1 bxc3 (5... Nc2+ {main} 6. Ke2 bxc3 7. Rxg2+ Kxg2) 6. Rxg2+ Kxg2) 5. Rxg2+ Kxg2) 2. Kb1 Nxb3 3. Nxb4 Nxb4 4. Nxc3 $1 dxc3 (4... Nd2+ 5. Ka1 dxc3 (5... Nc2+ 6. Ka2 dxc3 7. Rxg2+ Kxg2) 6. Rxg2+ Kxg2) 5. Rxg2+ Kxg2 1/2-1/2  

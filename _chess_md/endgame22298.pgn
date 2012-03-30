@@ -1,0 +1,10 @@
+[Event "2 Prize, ts10#11169 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Sochniev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/2N3kp/3P2b1/8/7K/8/8/3B4 w - - 0 1"]
+
+ 1. Ne6+ $1 Kh6 $1 (1... Kf7 2. d7 Be5 (2... Bc7 3. Nxc7 Ke7 4. Bg4) 3. d8=Q Bf6+ 4. Ng5+) 2. d7 Be5 $1 3. d8=B $1 (3. d8=Q $2 Bf6+) 3... Bb1 (3... Be8 4. Bc2) (3... Bf7 4. Bg5+ Kg6 5. Bc2#) (3... Bf5 {main} 4. Bg5+ Kg6 5. Bh5#) 4. Bh5 $1 Bg3+ 5. Kg4 Bf5+ 6. Kxf5 Kxh5 7. Bg5 (7. Be7 $2 Bh2 8. Bg5) (7. Bf6 $2 Bh2 8. Bg5) 7... Bd6 8. Ng7# 1-0  

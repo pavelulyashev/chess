@@ -1,0 +1,10 @@
+[Event "tz22 @3 {m}"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r7/8/4R3/8/8/8/4pK1p/1k6 w - - 0 1"]
+
+ 1. Kg2 (1. Rh6 $2 Ra2 2. Ke1 Rc2 3. Rxh2 Rc1+ 4. Kxe2 Rc2+) 1... Ra2 (1... h1=Q+ $1 {cook JN} 2. Kxh1 Ra2 3. Kg1 Kc1 4. Kf2 Kd1) 2. Kh1 Kc1 3. Rxe2 Rxe2 1/2-1/2  

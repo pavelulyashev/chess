@@ -1,0 +1,10 @@
+[Event "ts69 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1PP2krP/B3Np2/3P4/8/3q4/3pp1PK/8 w - - 0 1"]
+
+ 1. h8=N+ $1 Ke7 2. c8=N+ $1 Kd7 $1 (2... Ke8 3. Nxg7+ Kf8 4. Ne6+ Kg8 5. Ne7+ Kh7 6. Bxd3+) 3. b8=N+ $1 Ke8 4. Bb5+ $1 Qxb5 5. Nd6+ Ke7 6. Nf5+ Ke8 7. Nfxg7+ Ke7 8. Nf5+ Ke8 9. Nd6+ Ke7 10. Nxb5 e1=Q 11. Nc6+ Kd7 12. Ng6 d1=Q 13. Ngf8+ Kc8 14. Nd6# 1-0  

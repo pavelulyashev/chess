@@ -1,0 +1,10 @@
+[Event "tn11 @2 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/3K4/N4b1B/8/8/8/8 w - - 0 1"]
+
+ 1. Bf3+ Ka7 2. Kc7 Bh3 (2... Ka6 3. Nc6) 3. Nc6+ $1 (3. Bb7 $1 3... Bd7 4. Nc4 $1 (4. Kxd7 $2 4... Kb6) 4... Bb5 5. Nd6 Bd7 6. Kxd7) 3... Ka8 4. Nd8+ $1 (4. Ne5+ $2 4... Ka7 5. Bb7 Bd7 6. Nxd7) 4... Ka7 5. Bb7 Be6 6. Nc6# 1-0  

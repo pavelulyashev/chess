@@ -1,0 +1,10 @@
+[Event "2nd section -(1 Prize, Kekely JT  ) {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6q1/B1P2p1p/bN2n3/5P2/3k4/p2p1P2/P2N2PP/2K5 w - - 0 1"]
+
+ 1. c8=Q $1 (1. Nd7+ $2 Kc3 2. Nf6 Qa8 $1) (1. fxe6 $2 Qxg2) 1... Bxc8 2. Nd7+ ( 2. Nxc8+ $2 Nc5 3. Ne4 Qxg2 4. Bxc5+ Kc4 5. Ncd6+ Kd5 6. Bf2 Qf1+ 7. Kd2 Qe2+ 8. Kc3 Qc2+ 9. Kb4 d2) 2... Kc3 3. Nf6 Qd8 (3... Qxg2 4. Nd5#) 4. Bb6 $1 Nc7 $1 5. Bxc7 Qf8 (5... Qd4 6. Ba5+) 6. Bd6 $1 Qh6 $1 (6... Qd8 7. Be7 Qa5 8. Nfe4+ Kd4 9. Nb3+) (6... Qg7 7. Be5+ Kb4 8. Nd5+) 7. Bf4 Qh4 8. Bg3 Qd4 $1 (8... Qa4 9. Be5+ Kb4 10. Nd5+ Kc5 11. Ne4+ Kxd5 (11... Kc6 12. Ne7+ Kb6 13. Nxc8+ Ka5 14. Bc7+ Kb4 15. Bd6+ Ka5 16. Bc7+) 12. Nc3+ Kxe5 13. Nxa4 Bxf5 14. Kd2 Be6 15. Nc3) 9. Bf2 $1 (9. Be1 $2 Qg1) 9... Qe5 $1 (9... Qd8 10. Bb6 $1) 10. f4 Qxf5 ( 10... Qb5 11. Nde4+ Kb4 12. Be1+) 11. Nde4+ (11. g4 $2 Qe6) 11... Kb4 12. Be1+ Ka4 (12... d2+ 13. Bxd2+ Ka4 14. Nd5 $1) 13. Nd5 $1 Qg6 $1 (13... Qh5 14. Nc7 $1 Be6 15. f5 Qxf5 (15... Bxa2 16. Nc5#) 16. Nc3+ Kb4 17. Ne4+ Ka4 18. Nc3+) 14. Nd6 $1 Qxd6 (14... Qxg2 15. Nb6#) 15. Nc3+ Ka5 16. Ne4+ Qb4 {<eg>} 17. Bxb4+ Kxb4 18. Kd2 Be6 19. Nc3 1/2-1/2  

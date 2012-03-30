@@ -1,0 +1,10 @@
+[Event "ts04#6012 @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kolesnikov E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/P5P1/1PP5/K3b2q/R7/1b6/8/8 w - - 0 1"]
+
+ 1. g8=Q+ Bb8+ $1 (1... Bxg8 2. b7+ Kxa7 3. Kb5+ Kb8 4. Ra8+) 2. Qg5 $1 Qxg5+ 3. Ka6 Qb5+ (3... Bxa7 4. c7 Qb5+ 5. Kxb5 Bxa4+ 6. Ka6) 4. Kxb5 Bxa4+ 5. Kxa4 Bxa7 6. c7 (6. bxa7 $1 {cook JP} Kxa7 7. Kb5 Ka8 8. Ka6 Kb8 9. Kb6) 6... Bb8 7. c8=R (7. c8=Q $2) 7... Kb7 8. Rd8 $1 Ka6 9. Kb4 (9. Rxb8 $2) 9... Bg3 10. Kc5 Bf2+ 11. Kc6 Bxb6 12. Ra8+ Ba7 13. Kc7 1-0  

@@ -1,0 +1,10 @@
+[Event "te03 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4Nk2/7R/5K1P/5p2/N1b1P3/8/pr1b4/8 w - - 0 1"]
+
+ 1. Rh8+ Bg8 2. h7 Rb6+ $1 (2... Bc3+ 3. Nxc3 Rb6+ 4. Kxf5) 3. Nxb6 a1=Q+ (3... Bc3+ 4. Kg6 Bxh8 5. Nd7+ Ke7 6. hxg8=Q a1=Q 7. Qf7+ Kd8 8. Nf8 Qg1+ 9. Kh7 Qh2+ 10. Kg8) 4. e5 Qxe5+ (4... Bg5+ 5. Kg6) 5. Kxe5 Bc3+ 6. Kf4 $1 (6. Kd6 $2 Bxh8 7. Nd7+ Kf7) (6. Kxf5 $2 Bxh8 7. Nd7+ Kf7 8. Nd6+ Kg7) 6... Bxh8 7. Nd7+ Kf7 8. Nd6+ Kg7 9. Nxf5+ Kxh7 10. Nf8# 1-0  

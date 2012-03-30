@@ -1,0 +1,10 @@
+[Event "ts22#597 @3 @2 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Petrov D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P7/5n2/5pr1/8/3B2Bk/5K2 w - - 0 1"]
+
+ 1. a7 Rxg2 2. Bxf4+ Ng3+ 3. Bxg3+ Kh1 4. a8=R $1 (4. a8=Q $2) 4... Rg1+ 5. Kf2 Rf1+ 6. Ke2 Kg2 7. Rg8 Rf5 $1 (7... Rb1 8. Bf2+ Kh3 9. Kf3 Rb3+ 10. Be3 Rb4 11. Ra8 Rc4 12. Bd2 Kh2 13. Bf4+) 8. Bf4+ Kh3 9. Kf3 Rh5 (9... Kh4 $1 {cook}) 10. Rg1 (10. Rg2 $1 {cook JU}) 1-0  

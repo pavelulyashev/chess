@@ -1,0 +1,10 @@
+[Event "Internet Chess Clinic Ty(2000-01) {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3p4/3p2p1/8/3PpNP1/1p2P3/1p2B2p/bK3nkN w - - 0 1"]
+
+ 1. Nh3+ $1 (1. Bxf1 $2 Kxf1 2. g5 Kg1 (2... d5 $2 3. Nxd5 Kg2 4. Nf6 Kxh1 5. Ng4 Kg2 6. Nxh2 $11) 3. Ng3 d5 {zugzwang} 4. Nxd5 Kg2 5. Nf6 Kxg3 $19) 1... Kg2 $3 (1... Kxh1 2. Bxf1 d5 (2... g5 3. d5 {stalemate}) 3. g5 $1 {mutual zugzwang} (3. Nf4 $2 Kg1 $1 (3... g5 $2 4. Ne2 $1 d6 5. Bh3 {stalemate}) 4. Bg2 g5 $19) 3... d6 {virtual stalemate} 4. Nf4 Kg1 5. Bg2 {mutual zugzwang} Kf2 6. Bh1 Kg1 7. Bg2 {positional draw}) 2. Bxf1+ (2. Nf4+ $2 Kxh1 3. Bxf1 Kg1 4. Bg2 d5 $1 5. g5 d6 $19 {mutual zugzwang}) 2... Kxh1 $1 (2... Kxf1 3. N3f2 Kg2 4. g5 Kf3 5. d5 {mutual zugzwang} Kxe3 6. Ng4+ Kf4 7. Nxh2 e3 8. Ng3 $1 Kxg3 9. Nf1+ Kf4 10. Nxe3 $11) 3. d5 $1 (3. g5 $2 d5 {mutual zugwang} 4. Nf4 Kg1 5. Bg2 d6 $19 { mutual zugzwang}) 3... g5 {virtual stalemate} 4. Nf2+ $1 (4. Ng1 $2 hxg1=N $1 { Phoenix Theme} 5. Bg2+ Kh2 $1 $19) 4... Kg1 5. Bh3 $1 Kxf2 6. Bg2 { and draw because the presence of the d7P!} (6. Bf1 $2 h1=N $1 {Phoenix Theme} ( 6... Kg3 $2 7. Bg2 Kxg4 8. Bh1 $1 (8. Bxe4 $2 Kh3 9. Bh1 g4 10. e4 g3 11. e5 g2 12. Bxg2+ Kxg2 $19) 8... Kg3 9. Bg2 Kf2 10. Bh1 g4 11. Bg2 g3 12. Bh1 Ke2 13. Bg2 Kd3 14. Bh1 Kc4 15. Bxe4 $1 Kc3 16. Bh1 Kd2 17. e4 Ke2 18. e5 Kf2 19. exd6 g2 20. Bxg2 Kxg2 {stalemate}) 7. Bg2 Ng3 $1 $19) 1/2-1/2  

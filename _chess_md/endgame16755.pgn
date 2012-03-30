@@ -1,0 +1,10 @@
+[Event "tv03#0524 {m}"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/6R1/6P1/8/7p/7p/5K2/4r3 w - - 0 1"]
+
+ 1. Rg8+ (1. Rh7 $2 h2 $1 2. Rxh4 Rg1) 1... Kd7 2. g7 h2 3. Rd8+ $1 Kc7 (3... Ke7 4. Re8+) 4. Rc8+ $1 Kb7 (4... Kd7 5. g8=Q $1 Rf1+ 6. Ke2 Re1+ 7. Kd2 Rd1+ 8. Kc2 Rc1+ 9. Kb2 Rb1+ 10. Kxb1 $1) 5. Rb8+ $1 (5. g8=Q $2 h1=Q $1 6. Rb8+ Ka7 $1) 5... Ka7 6. Ra8+ $1 Kb7 7. g8=Q Rf1+ $1 8. Ke2 (8. Kxf1 $2 h1=Q+ 9. Kf2 Qh2+ 10. Kf3 Qh3+ 11. Ke4 Qh1+) 8... Re1+ $1 9. Kd2 Rd1+ $1 10. Kc2 Rc1+ $1 11. Kxc1 h1=Q+ 12. Kb2 Qh2+ 13. Kb3 Qh3+ 14. Kb4 1-0  

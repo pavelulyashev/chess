@@ -1,0 +1,10 @@
+[Event "6 Prize wa08 {tt} {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1nB5/k1K4b/3P4/8/1P5N/1p1Pp3/8/8 w - - 0 1"]
+
+ 1. b5 Na6+ 2. Bxa6 b2 3. d7 b1=Q 4. d8=N (4. d8=Q $2 Qc2+ 5. Kd7 Qxd3+) 4... Qc2+ 5. Nc6+ Qxc6+ 6. Kxc6 Bxd3 7. Kc7 e2 8. Nf3 Be4 9. Bc8 (9. Ne1 $2 Bb7 10. Bxb7) 9... Bxf3 10. b6+ Ka8 11. Bg4 Be4 12. Bxe2 Bd5 13. Bb5 Bf3 14. Bc6+ 1-0  

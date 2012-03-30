@@ -1,0 +1,10 @@
+[Event "4 Prize jg02 tv10 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/N6p/5N1P/BR5K/2k4P/pp1ppp2/r1b1q3 w - - 0 1"]
+
+ 1. Rb3+ $1 Kc2 (1... Kc4 2. Ne3+ Kd4 3. Nc2+ Kd5 (3... Ke4 4. Rb4+ Kd3 5. Nc5+ Kc3 6. Ne4+ Kd3 7. Rd4#) 4. Rb5+ Kd6 5. Rb6+ Ke7 6. Rb7+ Kd8 7. Rb8+) 2. Rg3+ Kb1 3. Bc2+ $1 (3. Nb4 $2 d1=Q) (3. Nd4 $2 d1=Q) 3... Kxc2 4. Nb4+ (4. Nd4+ $2 Kd1 5. Nf5 f1=N) 4... Kb1 5. Nc2 $1 Kxc2 6. Nd4+ Kb1 7. Nb5 $1 Kc2 8. Nd4+ Kd1 9. Nf5 $1 f1=N (9... Qh1 10. Ne3+ Ke1 11. Nc2+ Kf1 12. Ne3+) 10. Ne3+ $1 Nxe3 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "Tidskrift fцr Schack {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Grzeban G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2r2k1K/p3pP1P/4P2P/1p6/NP6/8/1p6/b3B3 w - - 0 1"]
+
+ 1. Bc3 Rxc3 2. Nxc3 a5 (2... a6 3. Nb1 a5 4. bxa5 b4 5. a6 b3 6. a7 {stalemate} ) 3. Nb1 axb4 4. Nc3 $1 b3 (4... bxc3 {stalemate}) 5. Nb1 b4 {virtual stalemate } 6. Nc3 $1 b1=Q {stalemate with pinned N} 1/2-1/2  

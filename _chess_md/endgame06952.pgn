@@ -1,0 +1,10 @@
+[Event "Pongracz-Vychod [1st Pl] {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3N3k/1p6/2R5/6KP/8/8/3p4/1r6 w - - 0 1"]
+
+ {cooked by Lerch} 1. Rc8 (1. Rd6 $2 d1=Q 2. Rxd1 Rxd1 3. Nxb7 (3. Nf7+ Kg7 4. Ne5 b5 5. h6+ Kh7) (3. Ne6 b5) 3... Rd7 4. Nc5 Rd5+ 5. Kg6 Rxc5 $19) (1. Rh6+ Kg7 2. Rg6+ Kf8 3. Rd6 d1=Q 4. Ne6+ Kf7 5. Rxd1 Rxd1 6. Nf4 b5) (1. Re6 $5 Re1 $1 (1... d1=Q 2. Re8+ Kh7 3. Re7+ Kg8 4. Re8+ Kg7 5. h6+ Kh7 6. Re7+)) (1. Rc7 d1=Q 2. Nf7+ Kg8 3. Nh6+ Kf8 4. Rc8+ Ke7 5. Nf5+ Kd7) (1. Rg6 Rg1+ 2. Kf5 Rxg6 3. hxg6 d1=Q) (1. Nxb7 Rg1+ 2. Kh6 d1=Q 3. Rc8+ Rg8) 1... Kh7 (1... Rc1 2. Nc6+ Kh7 3. Rc7+ Kg8 4. Rc8+ Kf7 5. Rc7+ Ke6 6. Nd4+ Kd6 7. Nb5+ Ke6 8. Nd4+ Ke5 ( 8... Kd5 9. Rd7+ Ke4 10. Nb5) 9. Nf3+ Kd6 10. Nxd2 Rxc7 11. h6 $11) (1... d1=Q $5 2. Nxb7+ Kh7 3. Rc7+ Kg8 4. Rc8+ Kf7 5. Rc7+ (5. Nd8+ Ke7 6. Nc6+ Ke6 7. Re8+ Kf7) 5... Ke8 6. Rc8+ Ke7 7. Rc7+ Ke6 8. Nc5+) 2. Rc7+ Kg8 3. Rc8 d1=Q ( 3... b6 $1 {Lerch, cook - saving a pawn} 4. Nc6+ (4. Kf6 Rf1+ 5. Kg6 Rg1+ 6. Kf6 Kh7 $19) (4. Nb7+ Kf7 5. Rc7+ Ke6) 4... Kf7 5. Ne5+ Ke7 6. Nc6+ Ke6 (6... Kd7 $6 7. Rd8+ Kxc6 8. Rxd2) 7. Re8+ (7. Rd8 Rg1+ 8. Kh6 d1=Q 9. Rxd1 Rxd1 10. Kg7 Kf5 11. Kf7 Kg5 12. Ke6 Kxh5 13. Nb4 b5) 7... Kf7 8. Re7+ Kf8 9. Rd7 (9. Kg6 Rg1+ 10. Kf6 Rf1+ $19) 9... d1=Q 10. Rxd1 Rxd1 $19) 4. Nxb7+ Kf7 5. Rc7+ Ke8 6. Rc8+ Ke7 (6... Kd7 7. Rd8+ Kc7 8. Rxd1) 7. Rc7+ Ke6 8. Nc5+ Ke5 9. Re7+ Kd6 10. Rd7+ Kxc5 11. Rxd1 Rxd1 12. h6 $11 1/2-1/2  

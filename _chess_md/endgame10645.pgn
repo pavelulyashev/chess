@@ -1,0 +1,10 @@
+[Event "jo01 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3P4/8/3N4/8/N7/kp1K4/q7 w - - 0 1"]
+
+ 1. Nb1 $3 Kb3 2. d8=Q Qxb1 3. Qb6+ Kc4 4. Ne3# 1-0  

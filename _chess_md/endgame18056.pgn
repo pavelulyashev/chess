@@ -1,0 +1,10 @@
+[Event "t001#609 @3 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2P5/4P3/3p4/8/5k2/B2p3K/5r2 w - - 0 1"]
+
+ 1. Bb3 (1. Bxd5+ $2 Kf4 $1 2. Bb3 Rf2+ 3. Kg1 (3. Kh3 Rf3+ 4. Kg2 Rxb3) 3... Kg3 4. c8=Q Rg2+) 1... Rf2+ 2. Kh3 Rf1 3. Kh4 Kf4 4. Kh5 Rc1 (4... Kf5 5. Bc2+) (4... Rh1+ $1 {cook SH} 5. Kg6 Rg1+ $1 6. Kf6 (6. Kh6 Rg8) 6... Rc1 $1 7. e7 Rc6+ 8. Kf7 Rxc7) 5. e7 Kf5 6. Bd1 $1 (6. Kh6 $2 Kf6 7. e8=N+ Ke7) 6... Rxc7 7. Bg4+ Kf6 8. e8=N+ $1 (8. e8=Q $2 Rh7#) 1-0  

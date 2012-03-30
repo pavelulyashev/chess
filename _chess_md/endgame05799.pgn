@@ -1,0 +1,10 @@
+[Event "td20#0992 @3 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/6B1/8/5Pp1/1k1p4/2b5/8/8 w - - 0 1"]
+
+ 1. Bh6 d3 (1... g4 2. f6 Kc4 3. f7 Bb4 4. Bg5 Bf8 (4... d3 5. Be7 d2 6. f8=Q d1=Q+ 7. Ke8) (4... g3 $1 5. Be7 Bxe7+ 6. Kxe7 g2 7. f8=Q g1=Q) 5. Be7 Bh6 6. Ke8 g3 7. Bg5 Bg7 8. Bf6) 2. Bxg5 Bf6+ 3. Bxf6 d2 4. Bc3+ Kxc3 5. f6 d1=Q+ 6. Kc7 1/2-1/2  

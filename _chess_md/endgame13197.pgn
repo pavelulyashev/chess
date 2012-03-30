@@ -1,0 +1,10 @@
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Soldatenkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2q2k2/4nnN1/6Pp/1R1p3N/Q2bp3/P7/K4p2/8 w - - 0 1"]
+
+ 1. Rc5 $1 Bxc5 (1... Qb8 2. Ne6+ Kg8 3. Qxd4 Qe5 4. Nf6+) (1... Nd6 2. Rxc8+ Nexc8 3. Qd7 Bxg7 4. Qxg7+ Ke8 5. Nf6+) (1... Bxg7 2. Rxc8+ Nxc8 3. gxf7 Kxf7 4. Qd7+ Ne7 5. Qh3) 2. Qe8+ Qxe8 3. Ne6+ Kg8 4. Nf6+ Kh8 5. g7# 1-0  

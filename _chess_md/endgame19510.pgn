@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2k4p/K6P/P7/8 w - - 0 1"]
+
+ 1. Ka4 $1 (1. Kb2 $2 Kb4 2. a3+ Ka4 3. Ka2 Ka5 4. Kb3 Kb5 5. a4+ Ka5 6. Ka3 Ka6 7. Kb4 Kb6 8. Kc4 Ka5 9. Kd4 Kxa4 10. Ke4 Kb4) 1... Kc5 (1... Kc3 2. Kb5 Kb2 3. a4) 2. Kb3 Kb5 3. Kc3 $1 (3. a3 $2 Ka5) 3... Ka4 4. Kd3 Ka3 5. Ke3 Kxa2 6. Kf4 1-0  

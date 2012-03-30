@@ -1,0 +1,10 @@
+[Event "tb10#325 @2 {m}"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Crum J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/6N1/3pp3/8/2K1N3/k7 w - - 0 1"]
+
+ 1. Nxd4 Ka2 2. Nb5 Ka1 (2... e3 3. Ne4 Ka1 (3... e2 4. Nec3+) 4. Nec3) 3. Nc3 ( 3. Ne6 $1 {cook JU}) 3... e3 4. Nf3 (4. Ne6 $1 {cook JU}) 4... e2 5. Nd4 e1=N+ 6. Kb3 Nd3 7. Nc2# 1-0  

@@ -1,0 +1,10 @@
+[Event "o000 @3 {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7r/8/1p5P/p7/PPPK4/8/7k/8 w - - 0 1"]
+
+ 1. c5 (1. bxa5 $2 bxa5 2. c5 Rxh6) 1... Rxh6 2. cxb6 axb4 (2... Rh4+ $1 { cook AC} 3. Kc5 Rxb4 4. Kc6 Rxa4 5. Kb5 Ra1 6. b7 Rb1+) 3. a5 Rh4+ 4. Kd3 1/2-1/2  

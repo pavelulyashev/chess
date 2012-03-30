@@ -1,0 +1,10 @@
+[Event "Schach Echo {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hufendiek E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2B3K1/p4p2/8/2p2P2/p1P5/2B5/k7 w - - 0 1"]
+
+ 1. Bd6 a2 2. Ba3 a5 3. Bh7 $1 {Indian} f5 4. Kf6 $1 a4 5. Kxf5 ({dual} 5. Ke5 $1 Kb1 6. Bxf5+ Ka1 7. Ke4 Kb1 8. Ke3+ Ka1 9. Bc1 a3 10. Be6 Kb1 11. Bxc4 (11. Kd2) 11... a1=Q 12. Kd2 $18) 5... Kb1 6. Ke5+ Ka1 7. f5 $1 {Indian} Kb1 8. f6+ Ka1 9. Ke4 Kb1 10. Ke3+ Ka1 11. Bd3 $1 cxd3 12. f7 Kb1 13. f8=Q a1=Q 14. Qf1+ 1-0  

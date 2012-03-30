@@ -1,0 +1,10 @@
+[Event "3 Prize, wm05 tb25 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3B2p1/2p1KP1p/7k/6p1/5bP1/8 w - - 0 1"]
+
+ 1. Kf4 (1. fxg6 $2 Kg5 2. g7 Bd4+) 1... g5+ 2. Kf3 c4 3. f6 c3 4. f7 c2 5. Bf4 $1 g4+ (5... gxf4 6. f8=Q c1=Q 7. Qf6#) (5... Be3 6. Bxg3#) 6. Ke4 Be3 $1 7. f8=N $1 (7. Bxe3 $2 c1=Q 8. Bxc1) (7. f8=Q $2 Bxf4) 7... Bxf4 8. Kf5 c1=Q 9. Ng6# 1-0  

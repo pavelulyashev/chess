@@ -1,0 +1,10 @@
+[Event "1 Prize Molot {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2P3RP/2B2p2/3p1nB1/1b3P2/kP1P1R2/p5N1/K7 w - - 0 1"]
+
+ 1. d4 Nxd4 2. Ne1 Bxe1 3. b4+ Nxf3 4. Bxf6 d4 5. Bxd4 Nxd4 6. Rg3+ $1 Bxg3 7. Ba4 Be1 (7... Bf2 8. h8=B $1 (8. h8=Q $2 Nc2+ 9. Bxc2 Bd4+ 10. Qxd4 {pat}) 8... Kxa4 9. c8=Q Kxb4 10. Bxd4 Bxd4+ 11. Kxa2 $18) 8. c8=R $1 (8. c8=Q $2 Nb3+ 9. Bxb3 Bc3+ 10. Qxc3 {pat}) 8... Kxa4 9. h8=Q Bf2 10. Kxa2 {M6} 1-0  

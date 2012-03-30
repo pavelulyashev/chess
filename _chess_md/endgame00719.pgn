@@ -1,0 +1,10 @@
+[Event "5 Prize Gusev JT {m}"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/8/2N5/p7/6B1/k7/5R2/1K6 w - - 0 1"]
+
+ 1. Ra2+ Kb3 2. Bd1+ $1 Kc3 (2... Kc4 3. Be2+ Kb3 4. Rb2+ Ka3 5. Bd1 Qg8 6. Nd4) 3. Be2 $1 Qb7+ 4. Kc1 Qb3 5. Bc4 $3 Qa4 $1 (5... Kxc4 6. Nxa5+) (5... Qxc4 6. Rc2+ Kb3 (6... Kd3 7. Ne5+) 7. Nxa5+) 6. Ne5 $1 (6. Rxa4 $2) 6... Qe8 $1 (6... Qb4 7. Rc2+ Kd4 8. Nc6+) 7. Rc2+ Kd4 (7... Kb4 8. Nd3+ Ka3 9. Ra2#) 8. Nf3+ Kc5 9. Bf7+ 1-0  

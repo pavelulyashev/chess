@@ -1,0 +1,10 @@
+[Event "ts21#52 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Ryabinin N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/8/5R2/8/3r2P1/1K1b4/3p2R1/b7 w - - 0 1"]
+
+ 1. Rg1 $1 d1=Q+ $1 2. Rxd1 Bc4+ 3. Kc2 Rxd1 4. Rc6 $1 Rd4 (4... Be2 {main} 5. Rh6+ Kg7 6. Rh2 Bf3 $1 7. Rf2 $1 Bxg4 8. Rg2 Rd4 9. Rg1 Ra4 10. Kb3) 5. Rh6+ Kg7 6. Rh1 Bd3+ 7. Kb3 Bc4+ 8. Kc2 1/2-1/2  

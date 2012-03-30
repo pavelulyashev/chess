@@ -1,0 +1,10 @@
+[Event "Eeskoslovesnky sach {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Koblizek L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/ppK5/8/P1P2p2/b7/1p1B4/8/8 w - - 0 1"]
+
+ 1. a6 $1 {podtrhuje matovou blokбdu иernйho krбle.} (1. Bxf5 a6) 1... Bc6 $1 ( 1... bxa6 2. Bxf5 Bc6 3. Kxc6 Kb8 4. Kd6) 2. Bb5 $1 {Efektnн tah s prozaickym cнlem-poipravit postup c6.} b2 (2... Be4 3. axb7+ Bxb7 4. c6) 3. axb7+ Bxb7 4. c6 Bc8 5. Bd3 b1=Q (5... Be6 6. Ba6) 6. Bxb1 Ba6 7. Kd8 (7. Bxf5 Bb5 8. Be4 a5) 7... Bb7 $1 8. c7 a5 9. Bxf5 Ka7 10. Bc8 Be4 11. Ba6 Bf5 12. Bb5 $18 {7 (8+6)} 1-0  

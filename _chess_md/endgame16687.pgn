@@ -1,0 +1,10 @@
+[Event "be39-10 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N3Nk2/7R/7P/3KPp2/8/1r6/p7/2bb4 w - - 0 1"]
+
+ 1. Ke6 Rb6+ $1 2. Nxb6 Bb3+ 3. Kf6 a1=Q 4. Rh8+ Bg8 5. h7 $1 (5. Ng7 $2 Bg5+ 6. Kg6 (6. Kxg5 Qg1+) 6... Qg1) 5... Qxe5+ $1 (5... Bg5+ 6. Kg6 $1) 6. Kxe5 Bb2+ 7. Kf4 $1 (7. Kxf5 $2 Bxh8 8. Nd7+ Kf7 9. Nd6+ Kg7) (7. Kd6 $2 Bxh8 8. Nd7+ Kf7 ) 7... Bxh8 8. Nd7+ Kf7 9. Nd6+ Kg7 10. Nxf5+ Kxh7 11. Nf8# 1-0  

@@ -1,0 +1,10 @@
+[Event "tc19 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/2P1b1PP/8/1k3n2/8/1P6/p3p3/K7 w - - 0 1"]
+
+ 1. Ba6+ Kb4 2. Bxe2 Ka3 3. g8=N Nd4 4. Bd1 Bd6 5. h8=B (5. h8=Q $2 5... Bc5 6. c8=Q Nc2+ 7. Bxc2 Bd4+ 8. Qc3 Bxc3+ 9. Qxc3) 5... Bb4 6. c8=R 1-0  

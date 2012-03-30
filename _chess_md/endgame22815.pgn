@@ -1,0 +1,10 @@
+[Event "tv35 {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Tkachenko SN"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N2b4/3N4/2p1PP2/3kp2K/3nn3/4B3/8/8 w - - 0 1"]
+
+ 1. e7 Bxe7 2. fxe7 Nf5 (2... Ne6 3. e8=N $1) 3. Nab6+ $1 (3. e8=Q $2 Ng7+ 4. Kg6 Nxe8 5. Kf7 N8d6+) (3. e8=N $2 Nxe3) 3... Kd6 4. e8=Q $1 Ng7+ 5. Kg6 Nxe8 6. Kf7 $1 Nc7 7. Bc5+ $1 Nxc5 8. Nf6 $3 e4 (8... Na4 9. Ne4#) (8... Na8 9. Ne8# ) 9. Nc4# 1-0  

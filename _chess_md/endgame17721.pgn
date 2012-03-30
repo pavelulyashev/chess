@@ -1,0 +1,10 @@
+[Event "ts20#321 @3 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5K2/pp6/3k4/1P6/2P1P3/8/8 w - - 0 1"]
+
+ 1. Ke7 $1 (1. Kf6 $2 a5 2. bxa5 bxa5 3. Kf5 a4 4. e4+ Kc6 $1 5. e5 a3 6. e6 a2 7. e7 Kd7 8. Kf6 a1=Q 9. Kf7 Qf1+) (1. Kg6 $2 a5 2. bxa5 bxa5 3. c4+ Kxc4 4. e4 a4 5. e5 Kd5 $1 6. Kf6 a3 7. e6 a2 8. e7 a1=Q+) 1... a5 2. bxa5 bxa5 3. e4+ Kxe4 4. Kd6 $1 a4 (4... Kd3 5. Kc5 Kxc3 6. Kb5) 5. c4 a3 6. c5 a2 7. c6 a1=Q 8. c7 Qa8 (8... Qd4+ $1 {cook} 9. Ke6 (9. Kc6 Qd5+ 10. Kb6 Qa8) (9. Ke7 Qa7 10. Kd8 Kd5 $1 11. c8=Q Kd6) 9... Qg7 $1 10. c8=Q Qg4+) 9. Kd7 1/2-1/2  

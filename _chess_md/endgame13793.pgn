@@ -1,0 +1,10 @@
+[Event "be13 {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/P7/b7/4r2p/2n2k1P/7B/3r1pPR/2Q2K2 w - - 0 1"]
+
+ 1. g3+ Kxg3 2. Rg2+ Kxh3 3. Rxf2 Rf5 $3 4. Rxf5 (4. a8=Q $2 Rfxf2+ 5. Kg1 Rg2+ 6. Qxg2+ Rxg2+ 7. Kh1 Bb7 8. Qf1 Nd6 9. Qf3+ Rg3 10. Qxb7 Rg1+ 11. Kxg1 Nxb7) 4... Ne3+ 5. Kg1 Rg2+ 6. Kh1 Bb7 7. a8=Q Bxa8 8. Qa3 $3 (8. Rf3+ $2 Bxf3 9. Qf1 Bd5 $1 10. Qf3+ Rg3 11. Qxd5 Rg1+ $1 12. Kxg1 Nxd5) 8... Bb7 9. Qb3 Bc6 10. Qc3 Bd5 11. Qd3 1/2-1/2  

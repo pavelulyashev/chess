@@ -1,0 +1,10 @@
+[Event "comm, 4th Arves Jenever TT {m}"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6Pk/1P3p1P/1P3P1K/b7/8/pp1p4/1rbB4 w - - 0 1"]
+
+ 1. g8=Q+ Kxg8 2. Kg6 Bxb5 3. h7+ Kh8 4. b7 Be8+ 5. Kh6 a1=B $1 (5... a1=Q 6. b8=Q Qa4 7. Qg3 $1 $18) 6. b8=B $1 (6. b8=Q $2 {stalemate}) 6... Bd7 7. Bd6 $1 Bxf5 8. Bf8 (8. Be7 $2 Bxh7 9. Bxf6+ Kg8 10. Bb3+ Kf8 11. Kxh7 d1=Q $19) 8... Bxh7 9. Bg7+ Kg8 10. Bb3# 1-0   

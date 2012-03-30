@@ -1,0 +1,10 @@
+[Event "ts02#0804 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Tsurtsumia S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/8/1B2P3/6P1/3K3b/r7/8/4k2r w - - 0 1"]
+
+ 1. e7 Re3 $1 (1... Bf2+ 2. Kd5) 2. Kxe3 (2. e8=Q $2 Rxe8 3. Rxe8+ Kd1 $1 4. g6 Bf2+) 2... Bxg5+ 3. Kf3 Bxe7 4. Ba5+ (4. Bf2+ $2 Kd2 $1) 4... Bb4 $1 {Nowotny} (4... Kd1 5. Rb1+) 5. Rxb4 $1 (5. Bxb4+ $2 Kd1) 5... Rh3+ (5... Rf1+ 6. Ke3) 6. Kg2 $1 Rd3 (6... Re3 {main} 7. Rd4+ Ke2 8. Rd2+ Ke1 9. Kg1 $1 Rg3+ 10. Rg2+) 7. Rb1+ Ke2 8. Re1# 1-0  

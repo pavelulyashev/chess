@@ -1,0 +1,10 @@
+[Event "1 Commendation, Pobeda 65 {m}"]
+[Site "?"]
+[Date "2010.11.17"]
+[Round "?"]
+[White "Zhukov A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/P1P4P/3k4/K2p4/7B/5p2/p4P2/1b5q w - - 0 1"]
+
+ 1. h8=Q (1. c8=N+ $2 Kc7 $1 (1... Kc5 $2 2. h8=Q Qe1+ 3. Ka6 $11) 2. a8=N+ Kc6 3. Ne7+ Kb7 $19) (1. Bg3+ $2 Ke7 $1 $19) 1... a1=Q+ 2. Qxa1 Qe1+ 3. Ka6 $1 (3. Ka4 $2 Bc2+ 4. Kb5 Bd3+ 5. Kb6 Qb4#) 3... Bd3+ 4. Kb7 Qb4+ (4... Qxa1 5. Bg3+ $11) 5. Ka8 $1 (5. Kc8 $2 Bf5+ 6. Kd8 Qxh4+ $19) 5... d4 $1 6. Qa6+ $1 (6. c8=N+ $2 Ke6 $1 (6... Kd7 $2 7. Qa4+ $1 Qxa4 8. Nb6+ Kc7 9. Bd8+ $1 Kxd8 10. Nxa4 Kc7 11. Nc3 $1 Kc8 (11... Bc4 12. Nb5+ Bxb5 $11) 12. Nd5 Be4 $11) 7. Qa2+ (7. Nd6 Kxd6 8. Be7+ Kxe7 9. Qb1 Qc5 10. Qb7+ Ke6 11. Qb6+ Kd5 12. Kb7 Be4 $19) 7... Bc4 8. Qxc4+ Qxc4 9. Kb7 Qd5+ 10. Kb8 d3 $19) 6... Bxa6 7. c8=Q $1 (7. Be7+ $2 Kxc7 8. Bd6+ Kc8 $19) 7... Bxc8 8. Be7+ Kc7 9. Bd6+ $1 Kb6 $1 (9... Kxd6 $11) 10. Bxb4 Bf5 11. Kb8 $1 (11. Bd6 $2 Be4+ 12. Kb8 d3 13. Bb4 Kb5 14. Be1 Kc4 15. Kc7 Kb3 16. Kd6 Kc2 $19) 11... Be4 12. Bd2 (12. Be1) 12... Kc5 13. Kc7 $1 Ba8 $1 14. Kb8 $1 (14. Ba5 $2 Kb5 $1 15. Be1 Kc4 16. Kd6 Kd3 17. Ke5 Ke2 18. Ba5 d3 $19) 14... Be4 15. Kc7 $11 1/2-1/2  

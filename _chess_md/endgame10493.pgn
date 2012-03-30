@@ -1,0 +1,10 @@
+[Event "ts23#02 @3 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1B5k/8/8/7n/4P3/4pp2/2K5/8 w - - 0 1"]
+
+ 1. Kd3 f2 (1... e2 2. Be5+ Kh7 3. Bc3) 2. Ke2 Kg7 3. Bh2 $1 Kf6 4. e5+ Ke6 ( 4... Kf5 $1 {cook} 5. Kf1 (5. e6 Kxe6 6. Kf1 Kf5 $1) 5... Ke4 $1 6. Ke2 Nf4+ $1 7. Bxf4 Kxf4 8. e6 Kg3 9. e7 Kg2 10. e8=Q f1=Q+ 11. Kxe3 Qe1+) 5. Kf1 Kf5 6. e6 $1 (6. Kg2 $2 Ke4 7. e6 Kd3 8. e7 e2 9. e8=Q f1=Q#) 6... Kxe6 7. Bf4 $1 Nxf4 1/2-1/2  

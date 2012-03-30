@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention ts10 {c} @3 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/Pk6/2n4P/1K2R3/7p/5p2/8/7r w - - 0 1"]
+
+ 1. a8=Q+ (1. h7 $2 Nxa7+ 2. Kc5 (2. Ka5 Ra1+ 3. Kb4 Nc6+) 2... Rc1+ 3. Kd5 f2) 1... Kxa8 2. h7 (2. Re8+ $2 Kb7 3. h7 f2) (2. Kxc6 $2 Rc1+) 2... Na7+ (2... Rb1+ 3. Kxc6 Rb8 4. Ra5#) (2... f2 $1 {cook HW} 3. h8=Q+ Nb8) 3. Ka6 $1 (3. Kb4 $2 Rb1+ 4. Kc3 Rb8) (3. Kc4 $2 Rc1+) 3... Ra1+ 4. Ra5 Rc1 $1 5. h8=Q+ Rc8 6. Rh5 $1 f2 7. Qa1 1-0  

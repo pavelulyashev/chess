@@ -1,0 +1,10 @@
+[Event "ts23#39 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2B5/8/bP6/5K2/7k/1n6/4N3/r7 w - - 0 1"]
+
+ 1. b7 Ra5+ 2. Kf4 $1 (2. Kf6 $2 Rb5 3. b8=Q Rxb8 4. Bxa6 Rb6+) (2. Ke4 $2 Rb5 3. b8=Q Rxb8 4. Bxa6 Nc5+) 2... Rb5 3. b8=Q Rxb8 4. Bxa6 Nc5 5. Bc4 Rb4 6. Ke5 $1 Rxc4 7. Kd5 Rc2 8. Nd4 Rc3 9. Ne2 Re3 10. Nd4 $1 Rc3 11. Ne2 Rc2 12. Nd4 Rc1 13. Ne2 Re1 14. Nd4 $1 1/2-1/2  

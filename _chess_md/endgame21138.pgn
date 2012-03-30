@@ -1,0 +1,10 @@
+[Event "4.Com, Problem Forum 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Minski M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1KR5/8/1nP2B2/k7/8/8/5b2/1r6 w - - 0 1"]
+
+ 1. Bd8 $1 Ka6 2. Bxb6 {Main A} Bg3+ ({Main B} 2... Kxb6 3. Rg8 $1 Kxc6+ 4. Kc8 Bc5 5. Rg7 $1 Bd6 6. Rc7+ Bxc7 {stalemate}) 3. Ka8 $1 Kxb6 4. Rb8+ Bxb8 5. c7 Ra1+ (5... Kxc7) (5... Bxc7 {stalemate}) 6. Kxb8 $11 1/2-1/2  

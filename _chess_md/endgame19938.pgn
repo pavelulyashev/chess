@@ -1,0 +1,10 @@
+[Event "tt23#223 {m}"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4K3/7r/1P6/1P5P/8/8/6k1/8 w - - 0 1"]
+
+ 1. h6 (1. Kd8 $2 Rb7 2. h6 Rxb6 3. h7 Rxb5 4. h8=Q Rb8+) (1. b7 $2 Rxb7 2. h6 Kf3 3. Kf8 Rh7) 1... Rxh6 (1... Rb7 2. Kf8) 2. b7 Rh7 (2... Rb6 3. Kd7 Rxb7+ 4. Kc6) 3. b8=Q Rh8+ 4. Kd7 Rxb8 5. Kc6 1/2-1/2  

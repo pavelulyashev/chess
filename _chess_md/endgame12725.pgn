@@ -1,0 +1,10 @@
+[Event "tl20#0007 {c} @3 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Leonhardt P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/5p2/8/p2P4/8/5R2/2K4P/r7 w - - 0 1"]
+
+ 1. d6 Kf8 (1... Ra2+ 2. Kc3 Ra3+ 3. Kc4 Rxf3 4. d7 Rf4+ (4... Rf6 5. d8=Q+ Kg7 6. Qd4 $1) 5. Kd5 Rg4 6. d8=Q+ Kg7 7. Kc6 Rg6+ 8. Kd7 Re6 9. Qxa5 Rh6 10. Qf5 Re6 11. h4 Rh6 12. h5 Re6 13. Qg5+ Kh7 14. Kd8 Rh6 15. Ke7) 2. d7 Ke7 (2... Ra2+ $1 {cook} 3. Kc3 Ke7 4. Rxf7+ Kd8 5. h4 a4 6. h5 (6. Kb4 a3 7. Rh7 Rd2 8. Kxa3 Rxd7) 6... Rh2 7. Rh7 a3) 3. Rxf7+ Kd8 4. h4 a4 5. h5 Rh1 6. Rh7 Kc7 7. Kb2 Kd8 8. h6 Kc7 9. Rh8 Kxd7 10. h7 1-0  

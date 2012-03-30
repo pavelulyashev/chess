@@ -1,0 +1,10 @@
+[Event "t001#83 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/K4n2/2p2N2/p2Rrn2/k7/3P4/PPr3B1/6R1 w - - 0 1"]
+
+ 1. Rd7 N7d6 (1... Ne7 2. Rd4+ Kb5 3. Ne4 $1 3... c5 4. Nc3+) 2. Bxc6+ $1 2... Rxc6 3. Rg4+ Kb5 4. a4+ Kc5 5. b4+ $3 5... axb4 6. Rc4+ $3 6... Nxc4 7. d4+ $1 7... Nxd4 8. Rd5+ Rxd5 9. Ne4# 1-0  

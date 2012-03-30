@@ -1,0 +1,10 @@
+[Event "EG, 2006/10. {m}"]
+[Site "?"]
+[Date "2006.10.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "k1B3N1/n7/8/8/3R3P/p6r/Kp6/2N5 w - - 0 1"]
+
+ {Gewinn} 1. Nb3 (1. Nd3 $2 Nxc8 2. Ra4+ Kb8 3. Rxa3 Rxh4 $11) (1. Rd1 $2 Nxc8 2. Nb3 Rxh4 $11) (1. Bxh3 $2 bxc1=Q $11) (1. Ne2 $2 Rh1 2. Bf5 Ra1+ 3. Kb3 b1=Q+ 4. Bxb1 Rxb1+ 5. Kxa3 (5. Ka2 Rb2+ $11) 5... Nb5+ 6. Ka2 Nxd4 7. Kxb1 Nxe2 8. h5 Nf4 $1 9. h6 Ng6 $1 10. h7 Kb7 {Siehe Hauptvariante nach dem 10. Zug } 11. Nh6 (11. Ne7 Nh8 $11) 11... Kc6 12. Nf7 Kd5 13. Kc2 Ke6 $11) 1... b1=Q+ $1 (1... Nxc8 2. Nd2 Kb7 3. Nf6 Nb6 4. h5 Kc6 5. Nb1 Kc5 6. Rd8 Nc4 7. Ne4+ Kb6 (7... Kb4 8. Rd5 Nb6 9. Rf5 Nc4 10. Nf2 Rh4 11. Nd3+ Ka4 12. Nc3#) 8. Rh8 Rh4 9. Ned2 Nxd2 10. Nxd2 Rh3 11. h6 Kc7 12. h7 Kd7 (12... Kb7 13. Nb1 $18) 13. Ra8 Rxh7 14. Ra7+ $18) (1... Rxb3 2. Bf5 $1 $18) 2. Kxb1 Rxb3+ 3. Ka2 Rb2+ $1 (3... Rb8 4. Be6 $18 (4. Ne7 Nxc8 5. Ra4+ Kb7 6. Rb4+ Ka8 7. Rxb8+ Kxb8 8. Nxc8 Kxc8 9. h5 $18)) 4. Kxa3 (4. Ka1 $2 Nxc8 $11) 4... Rb8 5. Bb7+ $3 (5. Rd8 $2 Nxc8 $1 6. h5 (6. Nf6 Ne7 7. Rxb8+ Kxb8 8. Kb4 Nf5 9. h5 Kc7 10. Kc5 Kd8 11. Kd5 Ke7 12. Ke5 Nh6 $11) 6... Nd6 $1 7. Rxd6 Rxg8 8. h6 Kb7 9. Kb4 Kc7 10. Kc5 Rg5+ $3 11. Rd5 Rg6 12. Rh5 Rg8 13. Kd5 Kd7 14. Ke5 Ke7 15. Kf5 Kf7 16. Rg5 Re8 17. Rg7+ Kf8 18. Kf6 Re1 19. Ra7 Kg8 $11) (5. Be6 $2 Nb5+ $11) (5. Ne7 $2 Nb5+ $1 $11) 5... Rxb7 (5... Kxb7 6. Rb4+ Kc7 7. Rxb8 Kxb8 8. h5 $18) 6. Rd8+ Rb8 7. Rxb8+ Kxb8 8. h5 Nc6 $1 (8... Nb5+ 9. Kb4 Nd6 10. h6 Nf7 11. h7 Kc7 12. Kc5 Kd7 13. Kd5 Ke8 14. Nh6 $1 Nh8 15. Ke6 Kf8 16. Kf6 $18) 9. h6 Ne5 10. h7 Ng6 11. Nh6 $3 (11. Kb4 $2 Kc7 12. Kc5 Kd7 13. Kd5 Ke8 14. Ke6 Nf8+ $1 15. Kf6 Nxh7+ $11) 11... Nh8 $3 (11... Kc7 12. Nf7 $1 Kb6 (12... Kd7 13. Ne5+ $18) (12... Kc6 13. Ne5+ $18) 13. Kb4 $18) 12. Kb4 Kc7 13. Kc5 Kd7 14. Kd5 Ke7 15. Ke5 Ng6+ $1 (15... Kf8 16. Kf6 $18) 16. Kf5 Nh8 17. Kg5 Ke6 18. Nf5 Ke5 19. Ne7 Ke6 20. Nc8 Ke5 21. Kh6 Kf6 22. Nd6 Ng6 23. Ne4+ Kf7 24. Nc5 ({oder} 24. Nf2 Nh8 25. Ng4 Ng6 26. Ne5+ $18) 24... Nh8 25. Nd7 (25. Nd3 $2 Kf6 26. Ne5 (26. Nf4 Nf7+ $11) 26... Kxe5 27. Kg7 Ke6 28. Kxh8 Kf7 $11) 25... Ng6 26. Ne5+ Nxe5 27. h8=Q $18 *  

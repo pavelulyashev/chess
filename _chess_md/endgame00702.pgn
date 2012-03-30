@@ -1,0 +1,10 @@
+[Event "1/2 Prize Tavariani JT {m} @2 {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2R5/3p4/8/5b1R/2r5/k7/2r1p3/1K4NQ w - - 0 1"]
+
+ 1. Ra8+ (1. Qa8+ $143 Ra4 2. Qxa4+ Kxa4 $11) 1... Kb3 (1... Kb4 $144 2. Qb7+ Kc3 3. Ra3+ Kd4 4. Nf3+ Kc5 5. Rxf5+ Kd6 6. Rd3+ Rd4 7. Rxd4+ Ke7 8. Qxd7#) ( 1... Ra4 $144 2. Rxa4+ Kxa4 3. Rxf5 e1=Q+ 4. Kxc2 $18) 2. Rb8+ (2. Qb7+ $143 Rb4 $11) 2... Ka3 (2... Rb4 $144 3. Rxb4+ Kxb4 4. Nxe2 $18) (2... Kc3 $144 3. Nxe2+ Rxe2+ 4. Rxf5 $18) 3. Qa8+ Ra4 4. Nxe2 Rc8+ (4... Rxe2+ $144 5. Rxf5 $18) (4... Rb2+ $144 5. Kc1 $18) 5. Rxf5 Rxa8 6. Rf3+ (6. Rb2 $143 Rcb8 7. Rf3+ Ka4 8. Nc3+ Ka5 $11) 6... Ka4 7. Nc3+ Ka5 (7... Ka3 $144 8. Na2+ Ka4 9. Rb4+ Ka5 10. Ra3#) 8. Rf5+ (8. Rb2 $143 Rf8 9. Rd3 Rab8 10. Rd5+ Ka6 11. Nb5 Rb6 $11) 8... Ka6 9. Rf6+ d6 10. Rxd6+ Ka7 (10... Ka5 $144 11. Rb5#) 11. Nb5+ (11. Rb2 $144 $1 {cook RM} Rcb8 12. Nb5+ Kb7 13. Rf6 $1 Rh8 14. Nd4+ Kc7 15. Rc6+ Kd8 16. Rb7 $1 Rh1+ 17. Kb2 Rh2+ 18. Kb3 Rh3+ 19. Kb4 Rh1 20. Rg7 Rha1 21. Rh6 R8a4+ 22. Kc3 R1a3+ 23. Nb3 Re4 24. Kb2 Raa4 25. Nc5 Reb4+ 26. Kc3 Rc4+ 27. Kd3 Rd4+ 28. Ke3 Rh4 29. Rd6+ Ke8 30. Nxa4 $18) 11... Kxb8 12. Rb6# 1-0  

@@ -1,0 +1,10 @@
+[Event "1 Prize, ts23 {tt} {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p1K5/1p5p/k7/8/7P/PP6/8 w - - 0 1"]
+
+ 1. Kb7 a6 2. Kc6 (2. b3 $2 b5 3. a3 b4 4. a4 h5 5. Kc6 h4 6. Kd6 Kb6 7. Kd5 Ka5 8. Kc4 Kb6 9. Kxb4 a5+) 2... b5 3. Kc5 Ka4 (3... h5 4. b3 h4 (4... b4 5. Kd5 Kb5 6. h4 a5 7. Ke4 Kc5 8. Ke5) 5. a3 (5. a4 $2 b4) 5... b4 6. axb4#) 4. Kb6 a5 5. Kc5 b4 6. Kc4 h5 7. h4 b3 8. axb3# 1-0  

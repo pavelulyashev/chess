@@ -1,0 +1,10 @@
+[Event "2 Prize ww12 {tt} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Koranyi A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5r2/8/8/8/8/3pk1pK/4N2p/2RB2N1 w - - 0 1"]
+
+ 1. Kg2 Rf2+ (1... dxe2 2. Bxe2) (1... Rf1 2. Bc2 hxg1=Q+ 3. Nxg1 Rxc1 4. Bxd3 Kxd3 5. Nh3) 2. Kh1 Rf1 (2... hxg1=Q+ 3. Kxg1 dxe2 4. Bxe2 Rxe2 5. Rf1) (2... dxe2 3. Bxe2 hxg1=Q+ 4. Kxg1 Kxe2 5. Rc3) 3. Kg2 (3. Rc3 $2 Kf2) (3. Ba4 $2 dxe2) (3. Rc8 $2 dxe2) 3... dxe2 (3... Re1 4. Bc2 hxg1=Q+ 5. Nxg1 Rxc1 6. Bxd3 Kxd3 7. Nh3) (3... Kd2 4. Kxf1 dxe2+ 5. Bxe2 h1=Q 6. Rc4) 4. Rc3+ Kd2 (4... Ke4 5. Bc2+ Kd5 6. Rd3+ Kc4 7. Rc3+ Kb4 8. Rb3+ Kc4 9. Rc3+ Kd5 10. Rd3+ Ke5 11. Re3+ Kf4 12. Nxe2+ Kxe3 13. Nxg3 Rf2+ 14. Kh3 Rxc2 15. Nf1+) 5. Rc2+ (5. Rd3+ $2 Ke1 6. Nf3+ Rxf3 7. Bxe2 Kxe2 8. Rxf3 h1=Q+ 9. Kxh1 Kxf3 10. Kg1 g2) 5... Kxd1 (5... Ke1 6. Rxe2+ Kxd1 7. Kxf1 h1=Q 8. Rd2+ Kc1 9. Rg2 Qh4 10. Rxg3 Qxg3 11. Ne2+) 6. Rc1+ Kd2 (6... Kxc1 7. Nxe2+) 7. Rxf1 h1=Q+ (7... exf1=Q+ {main} 8. Kxf1 h1=Q) 8. Kxh1 exf1=Q (8... exf1=R 9. Kg2 Rc1 10. Nf3+ Ke2 11. Nh4 Rc3 12. Nf5) 1/2-1/2  

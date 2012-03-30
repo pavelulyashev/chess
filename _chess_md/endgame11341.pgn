@@ -1,0 +1,10 @@
+[Event "td19 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Keres P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2N5/8/P4n2/3p2k1/p3p1P1/7K/4B3 w - - 0 1"]
+
+ 1. a6 a2 2. a7 a1=Q 3. a8=Q Qxa8 (3... Qxe1 $144 4. Qe4+ Kg5 5. Qf4+ Kg6 6. Qg4+ Kf6 7. Ne8+ Ke7 8. Qxf5 Kxe8 $11) 4. Nxa8 d3 5. Nb6 d2 6. Bxd2 exd2 7. Nc4 $1 (7. Nd5 $143 Kf3 8. Nc3 Nxg3 $19) 7... d1=Q 8. Ne3+ Nxe3 $11 1/2-1/2  

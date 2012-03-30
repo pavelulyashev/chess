@@ -1,0 +1,10 @@
+[Event "2 Prize wc12 {tt} {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Zhuk O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/p7/5PP1/8/P1k4B/p7/Pb6/2r5 w - - 0 1"]
+
+ 1. f7 $1 (1. g7 $2 Rg1 2. f7 Bxg7) 1... Rf1 2. Bf6 $1 {Nowotny} (2. Be7 $2 Bg7 $1) 2... Rxf6 (2... Bxf6 3. f8=Q) 3. g7 Rg6 4. g8=Q (4. f8=Q $2 Rxg7) 4... Rxg8+ 5. fxg8=Q+ Kc3 6. Kxa7 1-0  

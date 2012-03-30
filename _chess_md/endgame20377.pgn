@@ -1,0 +1,10 @@
+[Event "tz22 {m}"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/4p3/1P1kP3/8/8/3P4/2K5 w - - 0 1"]
+
+ 1. d4 d6 2. b6 $1 (2. exd6 $2 Kxd6 3. Kc2 e5 4. dxe5+ Kxe5 5. Kb3 Kd6 6. Ka4 Kc7) 2... Kc6 3. d5+ $1 Kxb6 (3... exd5 4. e6) 4. dxe6 Kc7 5. e7 Kd7 6. exd6 1-0  

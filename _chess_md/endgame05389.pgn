@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/pP1pK3/1qk5/8/8/8/R7/8 w - - 0 1"]
+
+ 1. Ra6 $1 1... Qxa6 (1... Kc7 2. Rxb6 axb6 3. Kf6 b5 4. Ke5 b4 5. Ke4 $3 (5. Kd4 $2 5... d5 $1 6. Kd3 Kb8 7. Kc2 d4 8. Kb3 (8. Kd3 b3) 8... d3) 5... d6 $1 6. Kd3 $1 6... d5 7. Kd4 $1 7... Kb8 8. Kxd5 $1 8... b3 9. Kc6 b2 10. Bf5) 2. b8=N+ Kc7 3. Bxa6 Kxb8 4. Kd6 Ka8 5. Kc7 d5 6. Bb7# 1-0  

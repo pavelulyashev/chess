@@ -1,0 +1,10 @@
+[Event "td20#1490 @2 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k3r3/2pp3p/2p1p3/4NP2/1P6/4K3/4B3/8 w - - 0 1"]
+
+ 1. f6 Rf8 2. Nxd7 Rf7 3. Bh5 (3. Bf3 $1 {cook GK} Kb7 4. b5 Kc8 5. bxc6 Rxd7 6. cxd7+ Kxd7 7. Bc6+) 3... Rxd7 4. Be8 Rd1 5. f7 Re1+ 6. Kf2 Re5 7. Bxc6+ Ka7 8. Be4 1-0  

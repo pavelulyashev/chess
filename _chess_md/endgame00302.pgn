@@ -1,0 +1,10 @@
+[Event "AllUnion TeamChamp USSR {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Morozov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/P2N3r/7n/8/2K5/1p2k2p/8/8 w - - 0 1"]
+
+ 1. Bh1 $1 {Bristol} b2 2. a8=Q b1=Q 3. Qf3+ Kd2 4. Qf2+ Kc1 5. Be4 $1 Qxe4+ 6. Kc3 Rxd7 7. Qg1+ Rd1 8. Qg5+ Kb1 9. Qb5+ Kc1 10. Qb2# 1-0  

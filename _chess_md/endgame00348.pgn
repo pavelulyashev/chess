@@ -1,0 +1,10 @@
+[Event "64 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/1p2p3/3Pk2P/8/P1rP4/8/8/3K4 w - - 0 1"]
+
+ 1. d5+ Kf7 2. d7 Rd4+ 3. Ke2 $1 (3. Kc2 $143 Rxd5 4. h7 Kg7 5. Nxe7 Rxd7 6. Ng6 Rc7+ $11) (3. Ke1 $143 Rxd5 4. h7 Kg7 5. Nxe7 Rxd7 6. Ng6 Rd8 7. h8=Q+ Rxh8 8. Nxh8 Kxh8 $11) 3... Rxd5 4. h7 $1 (4. Nb6 $143 Rd6 5. Nc4 Rd5 6. Kf3 Kg8 7. Ne5 Kh7 8. Ke4 Rd6 $1 9. a5 Kg8 $1 $11) 4... Kg7 5. Nxe7 Rxd7 6. Ng6 $1 Kxh7 (6... Rd8 $144 7. h8=Q+ Rxh8 8. Nxh8 Kxh8 $18) 7. Nf8+ $18 1-0  

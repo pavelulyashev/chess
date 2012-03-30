@@ -1,0 +1,10 @@
+[Event "2 Prize, tt21#4585 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Sochniev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P7/8/3p4/4bN2/5p1K/1B4p1/7k w - - 0 1"]
+
+ 1. Bd4 f2 $1 2. Bxf2 d4 3. Ne2 (3. Bxd4 $2 g1=Q) 3... g1=Q $1 4. Bxg1 Bg2+ ( 4... d3 5. Ng3+ Kxg1 6. Nxe4) 5. Kg3 d3 6. Nf4 $1 d2 7. Nxg2 d1=Q 8. a8=Q Qa1 $1 (8... Kxg1 9. Qa7+ Kh1 10. Qh7+ Kg1 11. Qh2+ Kf1 12. Ne3+) (8... Qd6+ 9. Nf4+) 9. Qc6 $3 (9. Qxa1 $2) (9. Qb7 $2 Qa7 $3) 9... Qc1 (9... Qg7+ 10. Kh3 Kxg1 11. Qc1+) 10. Qe4 $3 Kxg1 11. Qd4+ Kh1 12. Qh4+ Kg1 13. Qh2+ 1-0  

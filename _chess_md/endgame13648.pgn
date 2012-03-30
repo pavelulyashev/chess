@@ -1,0 +1,10 @@
+[Event "tz16#07 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Birnov Z"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/p7/4ppkp/7p/2PP1P1p/7P/P2P4/4n3 w - - 0 1"]
+
+ 1. d5 exd5 2. c5 Nc2 (2... Kf5 3. Kf7 Nc2 4. c6 Nd4 5. c7 Nb5 6. c8=Q+) 3. c6 Nd4 4. c7 Nf5 5. c8=N a6 6. a3 a5 7. a4 d4 8. d3 Ne3 9. Ne7# 1-0   

@@ -1,0 +1,10 @@
+[Event "64 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "n2q2b1/7k/1B6/2K5/5P1r/8/R6P/1N6 w - - 0 1"]
+
+ 1. Ra7+ (1. Bxd8 Rh5+ 2. Kc6 Bxa2 3. Nc3 Bc4 (3... Be6 4. Kb7 Rc5 5. Ne4 Rc8 6. Ng5+) 4. Kb7 Rf5 5. Kxa8 Rf8) 1... Nc7 $1 {Nowotny} 2. Rxc7+ Kh8 3. Rh7+ Bxh7 4. Bxd8 Rh5+ 5. f5 $1 {Nowotny} Rxf5+ 6. Kd6 Rf3 7. Nc3 Rd3+ (7... Rxc3 8. Bf6+ ) 8. Ke7 (8. Nd5 Bg8) (8. Kc7 Rxc3+) 8... Rxc3 9. Kf7 Bg8+ (9... Rf3+ 10. Bf6+ Rxf6+ 11. Kxf6) 10. Kg6 Bh7+ (10... Rc6+ 11. Bf6+ Rxf6+ 12. Kxf6) 11. Kf7 { positional draw} 1/2-1/2  

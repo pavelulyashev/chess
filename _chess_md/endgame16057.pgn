@@ -1,0 +1,10 @@
+[Event "A.Skrynnik - 50 TT, 1st HM {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k2/2Pp4/q3P3/5K2/2nR2B1/7N/1p6/8 w - - 0 1"]
+
+ 1. Kf6 (1. exd7 $2 b1=Q+ {Black mates.}) 1... b1=Q 2. c8=Q+ Qxc8 3. e7+ Kg8 4. Be6+ $1 dxe6 (4... Kh8 5. Rh4+ Qh7 6. Rxh7+ Kxh7 7. Ng5+ Kh6 8. Nf7+ Kh5 9. Bxc4 {- draw.}) 5. Rg4+ Kh8 6. Rh4+ Qh7 7. Ng5 $1 Qxh4 (7... Kg8 8. Rxh7 Nd6 9. Rg7+ {draw.}) 8. e8=Q+ Qxe8 {model stalemate.} 1/2-1/2  

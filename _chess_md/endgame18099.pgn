@@ -1,0 +1,10 @@
+[Event "ts22#142 @3 {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/ppp1n2N/8/B2P3P/2p4k/8/P1P5/2b2K2 w - - 0 1"]
+
+ 1. d6 cxd6 2. Bd8 Kxh5 3. Bxe7 Kg6 4. Nf8+ (4. Nf6 $2 Kf7 5. Bd8 Bg5) 4... Kf7 5. Bxd6 Bh6 6. Nd7 Ke6 7. Bf8 Be3 (7... Bf4 $1 {cook SH} 8. Nc5+ Kf7) 8. Nc5+ ( 8. Bc5 $2 Bh6 9. Nb8 a6 10. Kg2 Bf4 11. Ba7 Ke7) 8... Kd5 9. Nxb7 (9. Na4 $2 Bd4 10. c3 b5 11. cxd4 bxa4) 9... Kc6 10. Nd8+ (10. Na5+ $2 Kb5 11. Nb7 Kc6) 10... Kd7 11. Nf7 Ke8 12. Bh6 1-0  

@@ -1,0 +1,10 @@
+[Event "2 Prize tb25 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5P2/8/1pK5/4k3/2b4b/6pP/6BR w - - 0 1"]
+
+ 1. f8=Q 1... Bb4+ $1 2. Kxb4 gxh1=Q 3. Qa8+ 3... Kd3 $1 4. Qa3+ (4. Qxh1 $2 4... Bg2 5. Qxg2) 4... Ke4 (4... Ke2 5. Qe3+ Kf1 (5... Kd1 6. Qd3+ Kc1 7. Be3+ Kb2 8. Qb3+ Ka1 9. Bd4#) 6. Qf2#) 5. Qe3+ Kd5 (5... Kf5 6. Qxh3+) 6. Qd3+ Kc6 ( 6... Ke5 7. Bd4+) (6... Ke6 7. Qxh3+) 7. Qxb5+ Kc7 (7... Kd6 8. Bc5+ Ke5 9. Qb8+ Kf6 10. Qh8+) 8. Bb6+ 8... Kb8 $1 9. Qe5+ 9... Ka8 $1 10. Qa5+ Kb7 11. Qa7+ Kc8 12. Qc7# 1-0  

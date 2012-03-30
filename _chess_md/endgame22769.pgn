@@ -1,0 +1,10 @@
+[Event "ts23#43 @3 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/b3N1p1/4P3/3pk2P/8/8/2n3K1/8 w - - 0 1"]
+
+ 1. Nc6+ Kf6 2. e7 Kf7 3. Ne6 Ne3+ $1 4. Kh1 $3 (4. Kf3 $2 Nf5 5. e8=Q+ Kxe8 6. Nxg7+ Nxg7 7. h6 Ne6 8. h7 Ng5+) 4... Nf5 $1 5. e8=Q+ $1 Kxe8 6. Nxg7+ Kd7 ( 6... Kf7 $1 {cook} 7. Nxf5 Bc5 $1 8. Ne5+ Kf6 9. h6 Bf8) 7. Nxf5 Kxc6 8. h6 Bb8 9. Nd4+ $1 Kc5 10. Nf3 1-0   

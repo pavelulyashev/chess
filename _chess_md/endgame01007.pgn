@@ -1,0 +1,10 @@
+[Event "Spartak {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4P3/8/P7/2p4p/pppp1BP1/1rrk1K2 w - - 0 1"]
+
+ 1. e7 a1=B $1 2. e8=B $1 (2. e8=Q $143 hxg2+ 3. Kxg2 $11) 2... hxg2+ 3. Kxg2 Ke2 4. Bb5+ Kd1 5. Bd4 $1 Ke1 6. Bxc3 Rd1 7. Bf6 Rdc1 8. Bh4+ Kd1 9. Kg3 Ke1 10. Kf3+ Kd1 11. Be2# 1-0  

@@ -1,0 +1,10 @@
+[Event "bs15 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/8/8/3P1n2/1BR5/8/1b6/6K1 b - - 0 1"]
+
+ 1... Ne3 2. Rc6 (2. Ba5+ $2 Kd7 3. Rb4 Ba3) 2... Be5 (2... Bd4 3. Kh1) 3. Bc3 ( 3. d6 $2 Nd5 4. Ba3 (4. Bc5 Kd7 5. Ra6 Ke6 6. Ra7 Nf6 7. Re7+ Kd5 8. d7 Nxd7) 4... Kd7 5. Ra6 Ke6) (3. Re6 $2 Bf4 4. Re4 (4. d6 Nd5 5. Ba3 Kd7 6. Rg6 Nb6 7. Bc5 Nc4 8. Rg7+ Kc6 9. d7 Bc7 10. Bd4 Bd8 11. Kg2 Kd6 12. Kf3 Ke6) 4... Nxd5) 3... Bc7 (3... Bf4 4. Rc5 Kd7 5. Rb5 Kd6 6. Bb4+ Ke5 7. Bd2 Kd6 8. Rb4) 4. Rc5 (4. d6 $2 Bb8 5. Rb6 Ba7 6. Rb7 Nd5+) 4... Bb6 5. Ba5 Nxd5 (5... Bxa5 6. Rxa5 Kc7 7. Kf2) (5... Nc4 6. Bxb6+ Nxb6 7. Kf2) 6. Kh1 $1 1-0  

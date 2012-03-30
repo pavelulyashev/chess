@@ -1,0 +1,10 @@
+[Event "1/2 Honorable Mention, Lenin 140 MT {m}"]
+[Site "?"]
+[Date "2010.12.09"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K1n3N/4B2B/8/6p1/1n1p1p2/8/1N6/2k5 w - - 0 1"]
+
+ 1. Kc7 $1 ({try} 1. Nd3+ $5 Nxd3 2. Bxd8 Kd2 $1 3. Bxg5 Ke2 4. Nf7 f3 5. Nh6 Nc5 $1 (5... f2 $2 6. Nf5 Ke1 7. Ng3 Ne5 8. Bf4 Ng4 9. Kb7 $18) (5... Ne5 $2 6. Nf5 d3 7. Ng3+ Ke1 8. Ne4 Nc4 9. Bh4+ $18) 6. Nf5 d3 7. Nd4+ Kf2 8. Kc8 Kg2 $11 ) (1. Bxd8 $2 Kxb2 2. Bxg5 d3 {(f3)=}) 1... Ndc6 $1 (1... Ne6+ 2. Kd7 Kxb2 3. Kxe6 $18) (1... Kxb2 2. Bxb4 f3 3. Kxd8 f2 4. Bd3 $18) 2. Nd3+ $1 (2. Bxb4 $2 Nxb4 3. Nd3+ Nxd3 4. Bxd3 Kd2 $11) 2... Nxd3 3. Kxc6 Nb2 (3... Nf2 4. Bxg5 d3 5. Ng6 d2 6. Nxf4 d1=Q 7. Nd3+ Kb1 8. Nxf2+ $18) 4. Bxg5 d3 5. Ng6 $1 ({try} 5. Bxf4+ $5 d2 {(Kd1)} 6. Nf7 Kd1 {(d2)} 7. Ng5 $1 Ke2 $1 (7... Ke1 $2 8. Nf3+ $18 ) 8. Ne4 $1 d1=N $1 $11 (8... d1=Q $2 9. Nc3+ $18)) 5... d2 6. Nxf4 d1=Q 7. Ne2# 1-0  

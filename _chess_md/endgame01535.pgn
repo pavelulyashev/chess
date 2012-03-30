@@ -1,0 +1,10 @@
+[Event "2 Prize Tschigorin MT {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/1p1Np1r1/6p1/8/8/8/6K1/3R4 w - - 0 1"]
+
+ 1. Nf8+ $1 Ke8 (1... Kc8 2. Rc1+ Kb8 (2... Kd8 3. Ne6+) 3. Nd7+ Ka7 4. Ra1#) 2. Ne6 Rg8 (2... Rf7 3. Rd8#) (2... Rh7 3. Rd8+ Kf7 4. Ng5+) (2... Kf7 3. Nxg7 Kxg7 $18) 3. Nc7+ Kf7 4. Rf1+ Kg7 5. Ne6+ Kh6 6. Rh1# 1-0  

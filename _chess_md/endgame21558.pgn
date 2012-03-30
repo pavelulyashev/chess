@@ -1,0 +1,10 @@
+[Event "t001#24 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3nb1K1/8/1nP3k1/5N2/8/8/8/8 w - - 0 1"]
+
+ 1. c7 $1 Nc6 (1... Bf7+ $1 {main} 2. Kh8 Nb7 3. Nd6 $1 Nxd6 4. c8=Q Nbxc8) 2. c8=Q $1 Nxc8 3. Ne7+ $1 N6xe7+ 4. Kf8 Nd6 (4... Ba4) 5. Kxe7 1/2-1/2  

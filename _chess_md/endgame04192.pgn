@@ -1,0 +1,10 @@
+[Event "tv24 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1B6/r7/4K3/8/2B4p/7k w - - 0 1"]
+
+ 1. Kf4 $1 1... Ra2 2. Be4+ Rg2 3. Kf3 Re2 (3... Rg4 4. Kxg4#) (3... Rg8 4. Kf2+ Rg2+ 5. Bxg2#) 4. Kxe2# 1-0  

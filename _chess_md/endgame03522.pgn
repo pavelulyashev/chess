@@ -1,0 +1,10 @@
+[Event "bv01#07 @2 {m}"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "?"]
+[White "Blathy O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/8/1P1P4/8/7p/p1p1p2P/P1P1P2P/b1K5 w - - 0 1"]
+
+ 1. Kd1 (1. Kb1 Bb2) 1... Bb2 2. Ke1 Bc1 3. Kf1 Bd2 4. Kg1 (4. Kg2 $1 4... Be1 5. Kf3 $1 5... Bf2 6. Ke4 $1) 4... Be1 5. Kg2 Bd2 (5... Bf2 6. Kf1) 6. Kf1 Bc1 7. Ke1 Bb2 8. Kd1 Ba1 9. Kc1 Bb2+ 10. Kb1 Ba1 11. Kxa1 Kd7 12. b7 Kxd6 13. b8=Q+ 1-0  

@@ -1,0 +1,10 @@
+[Event "ts67#635 @2 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Brodd G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3b4/3P4/3p4/1P1k1P2/8/3P4/8/3K4 w - - 0 1"]
+
+ 1. d4 $1 Kxd4 2. f6 (2. b6 $1 {cook JU}) 2... Bxf6 3. b6 Bd8 4. b7 Bc7 5. b8=Q (5. d8=Q $1 {cook JU} Bxd8 6. b8=Q) 5... Bxb8 6. d8=Q 1-0  

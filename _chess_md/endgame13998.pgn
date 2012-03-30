@@ -1,0 +1,10 @@
+[Event "ts23#121 @3 {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/Bp6/1P6/1P6/3KPp2/5P2/8/2b5 w - - 0 1"]
+
+ 1. e5 $1 (1. Kd5 $2 Bb2 2. e5 Bxe5 3. Bb8 Bxb8 4. Ke6 Ba7 $1 5. bxa7 Kxa7) 1... Bb2+ 2. Ke4 Bxe5 3. Bb8 $1 Bxb8 (3... Bd6 $1 {cook} 4. Bc7 Bc5 $1 (4... Be5 5. Bd8 Bd6 6. Bg5 Bb4 7. Bxf4 Be1) 5. Kxf4 Bf2) 4. Kd5 $1 Ba7 5. bxa7 Kxa7 6. Kc5 $1 Kb8 7. b6 Kc8 8. Kd6 $1 Kd8 9. Ke5 Kd7 10. Kxf4 Kc6 11. Kg5 $1 1-0  

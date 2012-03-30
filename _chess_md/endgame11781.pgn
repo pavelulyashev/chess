@@ -1,0 +1,10 @@
+[Event "4 Prize ww12 {tt} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pachman V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/2b5/5knN/3R4/4P2p/5K1n w - - 0 1"]
+
+ 1. Rf3+ (1. Rh3 $2 Ne3+ 2. Rxe3 Ng3+) (1. Kg2 $2 Nhf2 2. Rf3+ Kg5 3. Rxf2 h1=Q+ 4. Kxh1 Nxf2+) 1... Kg5 (1... Ke4 2. Nf5 Nhf2 (2... Ne3+ 3. Rxe3+ Bxe3 4. Kg2 Nf2 5. Ng3+ Kf4 6. Kxh2) 3. Ng3+ Ke5 4. Kg2) 2. Rh3 (2. Nf5 $2 Nhf2 3. Ng3 Bd6 4. Rxf2 Ne3+) (2. Kg2 $2 Nhf2 3. Rxf2 h1=Q+) 2... Ne3+ (2... Nhf2 3. Nf3+) ( 2... Ng3+ 3. Kg2 h1=Q+ 4. Rxh1 Nxh1 5. Nf3+ Kf4 6. Kxh1 Kg3 7. Ne1 Nf2+ 8. Kg1 Ne4+ 9. e3 (9. Kh1 $2 Kh3) 9... Bxe3+ 10. Kf1) (2... Bg1 3. Kg2) 3. Rxe3 Kxh4 4. Kg2 (4. Re4+ $2 Kh3) 4... Nf2 5. Kxf2 h1=Q (5... h1=B 6. Kg1 Bb7 (6... Be4 7. Kh2 Bd6+ 8. Kg1 Bc5 9. Kh2) 7. Kh2 Bxe3) 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tn24 {v} {m}"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6n1/7k/3P2p1/4N3/8/6pK/p5P1/8 w - - 0 1"]
+
+ 1. d7 (1. Nf3 $2 1... Nf6 2. Ng5+ Kg8 3. Ne4 a1=Q) 1... a1=Q 2. Nf3 $1 (2. d8=Q $2 2... Qxe5 3. Qd7+ (3. Qh4+ Qh5) 3... Ne7) (2. Nf7 $2 2... Qh1+ 3. Kxg3 (3. Kg4 Qd1+) 3... Qe1+ 4. Kh2 Qh4+ 5. Kg1 Qd4+) 2... Qd1 (2... Qf6 3. d8=Q Qxd8 4. Ng5+ Kg7 5. Ne6+) (2... Qh1+ 3. Kxg3 Qd1 4. Ng5+ (4. d8=Q Qxd8) 4... Kh6 5. d8=Q Qe1+ 6. Kh2 Qh4+ 7. Kg1 Qxg5 8. Qxg8) 3. d8=Q (3. Ng5+ $2 3... Kh6 $1 4. Nf7+ (4. d8=Q Qh5+ 5. Kxg3 Qxg5+) 4... Kh5 5. d8=Q Qg4#) 3... Qxd8 4. Ng5+ $1 4... Kg7 (4... Qxg5) (4... Kh8 5. Nf7+) (4... Kh6 5. Nf7+) 5. Ne6+ 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tn21 {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/pB2p3/P3P3/5p2/5Pb1/k5P1/5K2 w - - 0 1"]
+
+ 1. Bf2 Bh2 (1... Bxf2 2. Kxf2 Kb3 3. g3 fxg3+ 4. Kxg3 Kb4 5. f4 Kxa5 6. f5) 2. Bg1 (2. Bh4 $2 Kb3 3. g4 fxg3 4. Kg2 Kc4 5. f4 Kd5) 2... Bg3 (2... Bxg1 3. Kxg1 Kb3 4. g4 fxg3 5. f4) 3. Bh2 $3 Bxh2 4. g4 fxg3 5. Kg2 Kb3 6. f4 Kc4 7. f5 Kd5 8. f6 1-0  

@@ -1,0 +1,10 @@
+[Event "te13 @3 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Kosek V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3b4/5K2/8/2P5/8/4kP2/3N4/8 w - - 0 1"]
+
+ 1. f4 $1 (1. Ke8 $2 Bc7 2. Kd7 Bb8) 1... Kxf4 (1... Kxd2 2. Ke8) (1... Kd4 2. Nb3+ Kc4 3. f5) 2. Ke8 Bc7 (2... Ba5 3. Nc4) 3. Kd7 Bb8 (3... Be5 $1 {cook HC} 4. Nc4 Bb8 5. Kc8 Ke4 $1) 4. Kc8 Ba7 (4... Be5 5. Nc4) 5. c6 Bb6 6. Nc4 1-0  

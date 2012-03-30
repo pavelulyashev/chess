@@ -1,0 +1,10 @@
+[Event "tr17 {m}"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/5P2/1b6/3P1k2/7p/1N1r3P/7K w - - 0 1"]
+
+ 1. f7 Bc6+ (1... Ke3 $143 2. f8=Q Bc6+ 3. d5 $1 Bxd5+ (3... Rxd5 $144 4. Qh6+ $18) 4. Kg1 Rg2+ 5. Kf1 Rxb2 6. Qh6+ Ke4 7. Qh7+ Kf4 8. Qh4+ Kf5 9. Qxh3+ $18) 2. Kg1 Rg2+ 3. Kf1 Bb5+ (3... Ke3 $143 4. Nc4+ $18) 4. Ke1 Ke3 5. Nd1+ Kxd4 6. Nf2 Kc3 7. Nd3 $1 (7. Nd1+ $143 Kb3 8. Nf2 Kc2 $19) (7. Ne4+ $143 Kc2 8. Ng3 Rxg3 $1 9. f8=Q Rg1+ 10. Kf2 Rf1+ $19) 7... Bxd3 8. f8=Q Rg1+ 9. Kf2 Rf1+ 10. Ke3 Rxf8 $11 1/2-1/2  

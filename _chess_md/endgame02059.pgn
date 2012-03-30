@@ -1,0 +1,10 @@
+[Event "Trud {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Kosjuro"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/8/pP1Ppp2/5PPK/P7/8/4r3/4b3 w - - 0 1"]
+
+ 1. d7 Rd2 2. b7 Bg3 3. fxe6 Kg7 4. e7 f5 5. e8=N+ $1 Kh7 6. g6+ Kg8 7. Nd6 $1 { Nowotny} ({dual} 7. g7 $1 Rxd7 (7... Bb8 8. Kg6 $18) 8. Nf6+ $18) 7... Rxd6 ( 7... Bxd6 8. d8=Q+ $18) 8. b8=Q+ 1-0  

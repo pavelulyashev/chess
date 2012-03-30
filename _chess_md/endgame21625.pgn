@@ -1,0 +1,10 @@
+[Event "ts23#20 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3K4/3P4/b7/3k4/8/4P3/5b2 w - - 0 1"]
+
+ 1. Ke8 (1. Kc8 $2 Bh3+) 1... Bg2 (1... Bxe2 2. d7 Bb5 3. Ke7 Bb4+ (3... Be1 4. d8=Q+) 4. Ke6 Bc4+ 5. Kf6) 2. e4 $1 Bxe4 3. d7 Bc6 4. Ke7 Bb4+ 5. Ke6 Bd5+ 6. Kf6 Be1 7. Ke7 Bh4+ 8. Kd6 Bd8 (8... Kc4 9. Kc7 Bg3+ 10. Kb6) 1/2-1/2  

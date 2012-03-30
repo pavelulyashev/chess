@@ -1,0 +1,10 @@
+[Event "2 Prize, ms01 {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Aliev I"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/2P5/b1pPk3/8/5P2/8/8/8 w - - 0 1"]
+
+ 1. Ka7 Bc8 2. Kb8 Bd7 (2... Kd7 3. f5 Ba6 4. Ka7 Bc8 5. Kb8) 3. c8=Q Bxc8 4. Kc7 (4. Kxc8 $2 Kxd6 5. f5 c5) 4... Kd5 (4... Bd7 5. f5+) (4... c5 5. f5+ Kd5 6. f6) 5. d7 Bxd7 6. Kxd7 c5 7. Ke7 Ke4 8. Ke6 c4 (8... Kxf4 9. Kd5) 9. f5 1/2-1/2  

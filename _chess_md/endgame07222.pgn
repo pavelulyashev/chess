@@ -1,0 +1,10 @@
+[Event "ts70#2039 @1 @2 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Pospisil J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3Q4/5q2/K7/8/4p3/k7 w - - 0 1"]
+
+ 1. Qd2 (1. Qd4+ $8 Kb1 2. Qb4+ Kc2 3. Qc5+ Qxc5) 1... Qe5 2. Kb3 Qe6+ 3. Ka3 Qa6+ 4. Kb3 Qb5+ 5. Kc3 (5. Ka3 Kb1 6. Qa2+ Kc1 7. Qc4+ Qxc4) 5... Qe5+ (5... Qa5+ 6. Kc2 e1=Q 7. Qd4+) 6. Kb3 (6. Kd3 $8 e1=R (6... e1=Q 7. Qc1+ Ka2 8. Qc2+ Ka3 9. Qb3+ Kxb3)) 1/2-1/2  

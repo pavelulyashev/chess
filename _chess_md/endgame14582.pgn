@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Tattersall C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/pppp4/5P1P/8/8/5p1p/PPPP4/6K1 w - - 0 1"]
+
+ 1. b4 $1 (1. a4 $2 a5 2. d4 (2. c3 c6) 2... d5) (1. a3 $2 b5 2. b4 (2. d4 d5) 2... d6) 1... d5 (1... b5 2. d3 d6 3. c4 bxc4 (3... a6 4. c5) 4. dxc4 c6 5. a4 d5 6. b5) (1... c6 2. c4) 2. b5 d4 3. a4 c5 (3... a5 4. bxa6 bxa6 5. a5 c5 6. d3) 4. bxc6 bxc6 5. a5 c5 6. c4 dxc3 7. dxc3 c4 8. a6 1-0  

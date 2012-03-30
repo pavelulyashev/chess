@@ -1,0 +1,10 @@
+[Event "td30 @2 {m}"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3P4/7p/2N4P/1K6/1pP5/pkp5/b2B4 w - - 0 1"]
+
+ 1. Bg4 (1. Bf3 $2 c1=Q 2. Na4+ Kb1 $1 3. Be4+ Qc2 4. Bg6 Bxc3+ 5. Nxc3+ Kb2 $1 6. Na4+ Kc1 7. Bxc2 a1=Q) (1. d8=Q $2 cxd1=Q 2. Qxd1) (1. d8=R $2 Kb1 $1 2. Nxb3 Bxc3+ 3. Kxc3 c1=Q+ 4. Nxc1 a1=Q+) (1. Bxc2 $2 bxc2 2. d8=Q c1=Q 3. Nd3+ Kc2 4. Nxc1 Bxc3+ 5. Kc4 a1=Q 6. Qd3+ Kxc1 7. Qxc3+ Qxc3+ 8. Kxc3 Kb1 $1) 1... c1=Q (1... Kb1 2. Bf5 $1 Bxc3+ 3. Kxb3 $1 Bf6 4. Bxc2+ Kc1 5. Nd3+ (5. Kxa2 $2 Kxc2) 5... Kd2 6. Kxa2 Kxc2 7. Ne5 $1 Kd2 8. Ng4 Bg5 9. Nxh6 Ke3 10. Nf7) 2. Na4+ Kc2 (2... Kb1 3. Bf5+ Qc2 4. d8=Q Bb2 (4... Kc1 5. Bxc2 Kxc2 (5... Bxc3+ 6. Nxc3) 6. Kc4) (4... Bxc3+ 5. Nxc3+ Kb2 (5... Kc1 6. Bxc2 Kxc2 7. Qd1+) 6. Bxc2 a1=Q (6... bxc2 7. Nxa2 Kxa2 8. Qd2 Kb1 9. Kb3) 7. Bg6 Qa3+ 8. Kc4 Qa6+ 9. Nb5 Qc6+ 10. Kb4) 5. Qd1+ Bc1 6. Qd5 $1 Ba3+ (6... a1=Q 7. Qxb3+) 7. Kxa3 a1=Q+ 8. Kb4 Kc1 (8... b2 9. Qd1+) 9. Bxc2 Kxc2 10. Qxb3+) 3. Bf5+ Kd1 (3... Kd2 4. d8=Q+ Ke3 5. Qd3+ Kf4 6. Kxb3 $1 Bxc3 (6... Qb1+ 7. Qxb1 axb1=Q+ 8. Bxb1) 7. Nxc3 a1=Q 8. Qe4+ Kg5 (8... Kg3 9. Qg4+) 9. Qg4+ Kf6 10. Qg6+ Ke5 11. Qe6+ Kf4 12. Ne2+ Kf3 13. Bg4+ Kf2 14. Qf5+ Ke1 15. Nxc1 Qxc1 16. Qe4+ Kf2 17. Qf3+ Kg1 18. Qd1+ Qxd1+ 19. Bxd1) 4. d8=Q+ Ke1 (4... Qd2 5. Qxd2+ Kxd2 6. Kxb3 Bxc3 7. Kxa2) 5. Qh4+ Ke2 6. Bg4+ Ke3 7. Qg3+ Ke4 8. Qf3+ Ke5 9. Qf5+ Kd6 10. Qe6+ (10. Qc5# $1 {cook JU}) (10. Qd7+ $1 {cook JU}) 10... Kc7 11. Qb6# 1-0  

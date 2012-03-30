@@ -1,0 +1,10 @@
+[Event "The Chess Player {m}"]
+[Site "?"]
+[Date "1852.??.??"]
+[Round "?"]
+[White "Kling J, Horwitz B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4k3/4p1p1/3pKpP1/5P2/3P4/8 w - - 0 1"]
+
+ 1. d3 $1 {mutual zugzwang - virtual stalemate} Kd6 (1... Kf6 2. Kd5 e4 3. Kxe4 Ke6 4. Kxd4 $18) 2. Kf5 Kd5 3. Kxg5 Ke6 (3... e4 4. fxe4+ Ke5 5. Kh4 $18) 4. Kh4 $1 (4. Kh5 $2 e4 $1 $19) 4... Kf6 5. Kh3 $1 1-0  

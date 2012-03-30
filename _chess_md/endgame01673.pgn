@@ -1,0 +1,10 @@
+[Event "Trud {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6bk/8/5P2/p3PP2/8/8/3K4/8 w - - 0 1"]
+
+ 1. e6 a4 (1... Bh7 $144 2. e7 $18) (1... Kh7 $144 2. Kc3 Kh6 3. Kb2 Kh7 4. Ka3 $18) 2. Kd1 (2. Kc3 $143 a3 3. Kb3 Bh7 4. e7 Bg8+ 5. Kxa3 Bf7 6. Kb4 Kh7 7. Kc5 Kh6 8. Kd6 Kg5 9. Ke5 Kg4 $11) (2. Kc2 $143 Bh7 $11) (2. Kd3 $143 Bh7 3. Ke4 Kg8 4. Ke5 Kf8 5. f7 Ke7 6. f6+ Kf8 $11) (2. f7 $143 Bxf7 $11) 2... a3 (2... Bh7 $144 3. e7 $18) (2... Kh7 $144 3. Kc2 a3 (3... Kh6 $144 4. Kb2 Kg5 5. f7 $18) 4. Kb3 $18) 3. Kc1 (3. Kc2 $143 Bh7 $11) 3... Kh7 (3... Bh7 $144 4. e7 $18 ) (3... a2 $144 4. Kb2 Kh7 5. Kxa2 $18) 4. Kb1 Kh6 5. Ka1 (5. Ka2 $143 Bh7 6. e7 Bg8+ $11) (5. Kc2 $143 Bh7 $11) 5... Kh7 (5... a2 $144 6. Kb2 a1=Q+ (6... Kg5 $144 7. f7 $18) (6... Bh7 $144 7. e7 $18) 7. Kxa1 $18) 6. Ka2 Kh6 7. Kxa3 $18 1-0  

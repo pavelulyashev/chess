@@ -1,0 +1,10 @@
+[Event "Problem Paradise, iv-vi 2007 {m}"]
+[Site "?"]
+[Date "2007.04.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "8/1PPPPp1P/Ppp1p1P1/3p2p1/3b4/1bk3P1/p7/K7 w - - 0 1"]
+
+ {Gewinn} 1. h8=Q $1 (1. h8=B $2 f6 $19) 1... Bxh8 (1... f6 2. Qh2 $1 $19) 2. b8=Q Bd4 (2... Bg7 3. e8=N $3 (3. Qf8 $2 Be5 4. Qh8 Bxh8 5. e8=N (5. c8=Q Bd4 $19) 5... Bd4 $19) 3... Bd4 4. Qxb6 $1 Bxb6 5. d8=N $3 (5. d8=Q $1 Bd4 6. Qf6 e5 7. Qf2 Bxf2 8. c8=Q Bd4 9. Qg4 e4 10. Qe2 fxg6 11. Qb2+ Kc4 12. Qxd4+ Kxd4 13. a7 e3 14. a8=Q e2 15. Qa5 $18) 5... Bd4 6. Nxc6 $18) 3. Qxb6 Bxb6 4. d8=N $3 Bd4 5. Nxc6 Bg7 6. e8=N $1 $18 *  

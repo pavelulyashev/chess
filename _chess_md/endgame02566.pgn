@@ -1,0 +1,10 @@
+[Event "Polasek&Vlasak50JT_1stSpecHMRomantic {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Jasik A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4BknB/3p4/3P1P2/1p4r1/8/7K/8/8 w - - 0 1"]
+
+ 1. Kh4 $1 (1. Bxd7 Rh5+ 2. Kg4 Rxh8) (1. f7 Rh5+ 2. Kg3 Rxh8 3. fxg8=Q+ Rxg8+) 1... Rg7 $3 {the best move of this tournament} (1... Rg1 2. Bxd7 Rh1+ 3. Bh3 b4 4. d7 Rd1 5. Be6) (1... Kxe8 2. Kxg5 Kf7 (2... Nh6 3. Bg7 Nf7+ 4. Kf5 b4 5. Ke4 Nxd6+ 6. Kd5 Kf7 7. Bh6 b3 8. Bc1 $11) 3. Kf5 b4 4. Ke4 Nxf6+ 5. Kd4 Ke6 6. Kc4 Nd5 7. Kc5 $11) 2. fxg7+ $3 {hard to find.} (2. Bxg7+ $2 Kxe8 3. Kg5 Kf7 4. Kf4 (4. Kf5 b4 5. Ke4 Nxf6+) 4... Nxf6 { the idea of 1..Rg7 - black wins a critical tempo} 5. Bh8 Ke6 6. Ke3 Nd5+ 7. Kd4 Kxd6 {EGTB tested}) 2... Kxe8 3. Kg5 b4 4. Kg6 b3 5. Kh7 b2 $1 (5... Kf7 { stalemate}) 6. Kxg8 b1=R $1 (6... b1=Q {stalemate}) 7. Kh7 Rh1+ 8. Kg6 (8. Kg8 $2 Rg1 9. Kh7 Kf7) 8... Rg1+ 9. Kf6 $1 (9. Kf5 $2 Kf7 10. Ke4 (10. g8=Q+ Rxg8 $19 {EGTB}) 10... Rd1 11. Ke5 Kg8 12. Kf4 Rxd6 {EGTB}) 9... Rg2 10. g8=Q+ $1 Rxg8 11. Bg7 {WTM even wins after Kg6} Rf8+ $1 {Black has to force draw here} ( 11... Kd8 12. Kf7 Re8 13. Bf6+) 12. Bxf8 Kxf8 $11 1/2-1/2  

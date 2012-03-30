@@ -1,0 +1,10 @@
+[Event "sp Commendation, ts23 @3 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/5K2/4P2P/8/1n6/8/8/2bb4 w - - 0 1"]
+
+ 1. e7+ Kc7 2. e8=N+ $1 Kd8 3. h7 Bb3+ 4. Kf8 $1 (4. Kg7 $2 Ke7) (4. Kg6 $2 Nc2 5. Kg7 Bb2+) 4... Bh6+ (4... Bb2 5. Nf6 Bxf6 6. h8=Q Bxh8) 5. Ng7 Nc6 6. h8=B Ne5 (6... Kc8 $1 {cook AH} 7. Ke8 Bc2 8. Ne6 (8. Kf7 Ne5+ 9. Kg8 Ng6 10. Kh7 Bg5) 8... Bg6#) 1/2-1/2  

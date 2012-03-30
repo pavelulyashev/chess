@@ -1,0 +1,10 @@
+[Event "bt35#05 {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1K6/1P6/8/8/3p4/1nk5/8 w - - 0 1"]
+
+ 1. Ka8 $3 (1. Kc8 $2 Nc4 2. b7 Nd6+) (1. Kc7 $2 Na4 2. b7 Nc5 3. b8=Q Na6+) (1. Kc6 $2 Nc4 2. b7 Na5+) (1. Ka7 $2 Nc4 2. b7 Na5 3. b8=Q Nc6+) (1. Ka6 $2 Na4 2. b7 Nc5+) 1... Nc4 2. b7 Nb6+ 3. Kb8 Nd7+ 4. Kc8 $1 (4. Kc7 $2 Nc5 $1) 4... d2 5. Kxd7 d1=Q+ 6. Kc7 $1 1/2-1/2  

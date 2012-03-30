@@ -1,0 +1,10 @@
+[Event "tt22#1774 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5K2/3k1PrP/4pbP1/8/8/7P/8/8 w - - 0 1"]
+
+ 1. h8=N $1 (1. h8=Q $2 1... Rxg6 2. Qh4 $1 2... Kd8 $3 3. Qb4 $1 3... Bg7+ 4. Kg8 Bc3+ 5. Kh7 Bxb4 6. Kxg6 6... Bf8 $1 7. h4 Ke7 8. h5 e5 9. Kf5 Kd6 10. Kg6 Ke6 11. h6 Bxh6 12. Kxh6 Kxf7 13. Kg5 Ke6 14. Kg4 Kd5 15. Kf3 Kd4 16. Ke2 Ke4) 1... e5 $1 2. h4 e4 3. h5 e3 4. h6 e2 5. hxg7 e1=Q 6. Kg8 $1 (6. g8=N $2 6... Qb4+ 7. Ne7 7... Qb8+ $1) 6... Qe6 7. Kh7 Qh3+ 8. Kg8 Qb3 9. Kh7 1/2-1/2  

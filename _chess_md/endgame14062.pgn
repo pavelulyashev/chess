@@ -1,0 +1,10 @@
+[Event "2 Prize tt20#472 @3 {m}"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2n5/3r4/6B1/4R3/K5P1/5kN1 w - - 0 1"]
+
+ 1. Bf3 $1 Ra5+ (1... Rd2+ 2. Kb3 Nd4+ 3. Kc3 Nxf3 4. gxf3 Rh2 5. Kd4 Kxg1 6. f4 ) 2. Kb2 $1 (2. Ra3 $2 Nb4+ 3. Kb3 Rxa3+ 4. Kxa3 (4. Kxb4 Ra2 $1 5. Ne2 Rxe2) 4... Nc2+ 5. Kb2 Ne3 $1 6. Nh3 Nxg2) (2. Kb1 $2 Rb5+ 3. Ka1 (3. Kc1 Rc5+) 3... Nd4) (2. Kb3 $2 Nd4+ 3. Kb4 (3. Kc4 Nf5) 3... Nc2+ 4. Kxa5 Nxe3) 2... Rb5+ ( 2... Ne5 $1 {cook JB} 3. Rxe5 Rxe5 4. Nh3 Rc5) 3. Rb3 $1 Rxb3+ 4. Kxb3 Nd4+ 5. Kc3 $1 Nf5 6. Nh3 Nh4 7. Kd2 Nxg2 8. Be2# 1-0  

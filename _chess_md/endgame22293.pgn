@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention, tt20#426 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Sochniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1r6/1P6/b1P2N1p/7P/8/6PK/6p1/5k2 w - - 0 1"]
+
+ 1. c7 g1=N+ (1... g1=Q 2. cxb8=Q) (1... Rxb7 2. c8=Q g1=N+) 2. Kh4 (2. Kg4 $2 Rxb7 3. c8=Q Rb4+) (2. Kh2 $2 Rxb7 3. c8=Q Rb2+) 2... Nf3+ 3. Kh3 Ng5+ 4. Kh4 Rxb7 5. c8=Q Rb4+ 6. Ng4 (6. Qg4 $2 Bc8 7. Qxb4 Nf3#) 6... Nf3+ 7. Kh3 Ng1+ ( 7... Bxc8) 8. Kh4 Bxc8 1/2-1/2  

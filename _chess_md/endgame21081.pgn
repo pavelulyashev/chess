@@ -1,0 +1,10 @@
+[Event "1 Prize, Olympic Ty {m}"]
+[Site "?"]
+[Date "2010.03.17"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1P5k/5ppn/3K4/1p4b1/2p1PN2/1p5B/R7 w - - 0 0"]
+
+ 1. Ng5+ $1 ({try} 1. Ra7 $2 Bxf3+ 2. e4 Bxe4+ 3. Kxe4 b1=Q+ 4. Kd4 Nf5+ {etc}) 1... fxg5 2. Ra7 $1 (2. Rf1 Bf3+ 3. Rxf3 b1=Q 4. b8=Q Qd1+ $11) 2... Bf3+ 3. e4 $1 ({Thematic try} 3. Ke6 $5 Bxb7 4. Rxb7+ Nf7 5. Rxf7+ Kh6 6. Rf1 c2 $19) 3... Bxe4+ 4. Ke6 $1 (4. Kxe4 $2 b1=Q+ 5. Kd4 Nf5+ $11) 4... Bxb7 5. Rxb7+ Nf7 6. Rxf7+ Kh6 ({main} 6... Kg8 7. Ke7 b1=Q 8. Rf8+ Kh7 9. Be5 Kh6 10. Rh8#) 7. Rf1 c2 8. Rh1 c1=Q 9. Bg1+ Kg7 10. Bd4+ Kf8 11. Rh8# 1-0  

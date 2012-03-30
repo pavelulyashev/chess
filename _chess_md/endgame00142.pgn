@@ -1,0 +1,10 @@
+[Event "ts17#312 {m}"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Lazard F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K4br/N3P3/5p2/3P4/2k5/1p6/3P4/b2B4 w - - 0 1"]
+
+ 1. Be2+ (1. e8=Q $143 Be5+ 2. Kc8 Be6+ 3. dxe6 Rxe8+ 4. Kd7 $11) 1... Kc5 2. e8=Q Be5+ 3. d6 $1 Bxd6+ 4. Kb7 Bd5+ 5. Nc6 Rxe8 6. d4# 1-0  

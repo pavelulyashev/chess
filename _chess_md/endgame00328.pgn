@@ -1,0 +1,10 @@
+[Event "Selivanov-30 JT {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Kralin N, Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5b2/4p3/1p4KP/8/8/8/3k2B1 w - - 0 1"]
+
+ 1. h6 Bg8 2. Kg6 e5 3. Kg7 Bh7 $1 4. Kxh7 b4 5. Bc5 $1 (5. Bh2 $2 e4 6. Kg8 b3 7. Be5 e3 8. h7 e2 9. Bc3 b2 $1 (9... e1=Q $2 10. Bxe1 b2 11. h8=Q b1=Q 12. Qd4+ $1 Ke2 (12... Kxe1 13. Qg1+) 13. Qf2+ Kd3 14. Qf5+) 10. h8=Q b1=Q 11. Qd4+ Kc2 $1) 5... b3 6. Ba3 e4 7. Kg8 $1 e3 8. h7 e2 9. Bb4 e1=Q (9... b2 {main} 10. h8=Q b1=Q 11. Qd4+ $1 Kc2 12. Qc3+ Kd1 13. Qd2#) 10. Bxe1 b2 11. h8=Q b1=Q 12. Qd4+ $1 Ke2 (12... Kxe1 13. Qg1+) 13. Qf2+ (13. Qg4+ $1 {cook MC}) 13... Kd3 14. Qf5+ 1-0  

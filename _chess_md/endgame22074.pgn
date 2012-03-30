@@ -1,0 +1,10 @@
+[Event "tr11#0488 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/7K/8/1P1p4/p1pk4/6P1/b7/8 w - - 0 1"]
+
+ 1. Ba7+ $1 Kc3 $1 (1... Kd3 2. b6 c3 3. b7 c2 4. Be3 $1 Kxe3 5. b8=Q c1=Q 6. Qf4+) 2. b6 a3 3. b7 Bb1+ 4. Kh6 $1 a2 5. Bd4+ $1 Kxd4 6. b8=Q a1=Q 7. Qh8+ 1-0  

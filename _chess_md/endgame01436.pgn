@@ -1,0 +1,10 @@
+[Event "1/2 Prize Shakhmatny Listok {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Kubbel A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N5p/2P4k/6pP/3P1r2/7P/8/3bK3 w - - 0 1"]
+
+ 1. c7 Re4+ 2. Kd2 (2. Kxd1 $2 Rxd4+ 3. Ke2 Rc4 $19) 2... Rxd4+ 3. Kc3 Bg4 $1 4. hxg4 Rd7 $1 5. Nd6 (5. c8=Q Rc7+ 6. Qxc7 {pat}) (5. Kb4 Rxc7 6. Nd6 $18) 5... Rxc7+ 6. Kb4 (6. Kd4 $2 Rd7 7. Ke5 Kg7 8. Nf5+ Kf7 9. Nh6+ Kf8 10. Ke6 $11) 6... Kg7 7. Ne8+ 1-0  

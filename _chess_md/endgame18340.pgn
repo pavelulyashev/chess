@@ -1,0 +1,10 @@
+[Event "1 Prize, jt08 tm58 @3 {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6k1/3P2p1/1P3PP1/6PK/6PP/6p1/8 w - - 0 1"]
+
+ 1. f6+ (1. fxg6 $2 Kxg6 2. d7 g1=N 3. d8=Q Nf3#) (1. d7 $2 g1=N 2. f6+ Kh7 3. d8=Q Nf3#) 1... Kf7 (1... Kh7 $1 {cook HH} 2. f7 g1=Q 3. f8=Q (3. d7 Qd4 4. f8=Q Qxg4+ 5. hxg4) (3. f8=R $2 Qd4 4. b6 Qg7 5. Re8 Qh6+ 6. gxh6 g5+ 7. Kh5) 3... Qxg3+ 4. Kxg3) 2. d7 g1=N 3. d8=N+ Ke8 4. f7+ Kf8 (4... Kd7 5. f8=Q) (4... Ke7 5. Nc6+ Kf8 6. Ne5) 5. Ne6+ Kxf7 6. Nd4 Ke7 7. b6 Kd7 8. b7 Kc7 9. b8=Q+ Kxb8 10. Nc6+ Kc7 11. Ne5 Kd6 12. Nxg6 1-0  

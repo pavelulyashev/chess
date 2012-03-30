@@ -1,0 +1,10 @@
+[Event "sp Prize, Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2009.04.21"]
+[Round "?"]
+[White "Zinar M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/1p2p3/1P2p1pp/1P2P1P1/6PP/3pp1p1/3P2P1/3K4 b - - 0 1"]
+
+ 1... e2+ 2. Ke1 hxg5 (2... h5 {<main>} 3. gxh5 gxh5 4. g6 Kd8 5. g7 Kd7 6. g8=B $1 (6. g8=Q $2) (6. g8=R $2) (6. g8=N $2 Ke8 7. Nh6 Kf8)) 3. h5 Kd8 (3... gxh5 {<main>} 4. gxh5 g4 5. h6 Kd8 6. h7 Kd7 7. h8=N $1 (7. h8=Q $2) (7. h8=R $2) ( 7. h8=B $2 Ke8 8. Bg7 Kf7 9. Bh6 Kg6 10. Bf4 Kf5 11. Bxg3 Ke4 12. Kf2 Kd4 13. Kg1 (13. Bh4 Kxe5 14. Bxe7 g3+) 13... Ke4 14. Kh2 Kf5 15. Be1 Kxe5 16. Kg3 Kf5 17. Kh4 Kf4 18. Bf2 e5 19. Be1 e4 20. Bf2 e5 21. Be1 (21. Kh5 e3 22. Bxe3+ Kg3) 21... e3 22. Kh5 e4)) 4. h6 Ke8 5. h7 Kd7 (5... Kf7 {<main>} 6. h8=R $1 $18 (6. h8=Q $2)) 6. h8=B $1 (6. h8=Q $2) (6. h8=R $2) (6. h8=N $2 Ke8 7. Nxg6 Kf7) 6... Ke8 7. Bg7 Kf7 8. Bh6 $18 1-0  

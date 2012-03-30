@@ -1,0 +1,10 @@
+[Event "t001#71 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6p1/6p1/4R2p/4P1p1/6pP/K3R1pr/2k4b w - - 0 1"]
+
+ 1. Re1+ Kd2 2. Rg1 Ke3 3. Rc5 $1 Kxe4 4. Kb2 $1 Ke3 5. Rc2 $1 Kf4 6. h4 $1 Rxh4 7. Kc3 $1 Rh2 8. Kd4 Kg5 9. Ke5 Kh4 10. Rc8 g5 11. Rh8 g6 12. Kf6 Kh3 13. Kxg5 h4 14. Rxh4# 1-0  

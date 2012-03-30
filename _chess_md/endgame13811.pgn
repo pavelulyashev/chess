@@ -1,0 +1,10 @@
+[Event "bs15-139 {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3r2b1/5pK1/5R2/2b5/1k5B/8 w - - 0 1"]
+
+ 1. Rf2+ Bd2+ 2. Bf4 (2. Rxd2+ $2 Rxd2 3. Be5+ Kc2 $1 4. Kxg6 Rf2 5. Kg5 Kd3) 2... Kc3 (2... Kc2 3. Rh2 Rd4 4. Kxg6 Rxf4 5. Rh5) 3. Rf3+ (3. Rg2 $2 Rd4 4. Kxg6 Rxf4 5. Rg5 Rg4) 3... Kc2 (3... Rd3 4. Rxd3+ Kxd3 5. Kxg6 $1) 4. Rf2 Bh7 5. Rh2 Bg6 (5... Rd7 6. Bxd2 Rxd2 7. Rxh7) 6. Rf2 Kd1 7. Rxd2+ $1 Rxd2 8. Kxg6 Rd5 9. Kf6 1/2-1/2  

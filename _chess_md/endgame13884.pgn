@@ -1,0 +1,10 @@
+[Event "ts70#0864 @3 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2r5/8/8/2PP4/7N/4P2p/3k3K/8 w - - 0 1"]
+
+ 1. c6 Kxe3 2. Nf5+ Ke4 (2... Kf4 $1 {cook CF} 3. Ne7 Ra8 4. d6 Kg4 $1 5. c7 Ra2+ 6. Kh1 Ra1+ 7. Kh2 Ra2+ 8. Kg1 $2 h2+ 9. Kh1 Kg3 10. Nf5+ Kh3) 3. Ne7 Ra8 (3... Rf8 4. c7 $1 Re8 5. d6) (3... Re8 4. d6) (3... Ke5 4. Nxc8 Kxd5 5. Na7 Kd6 6. Kxh3) 4. d6 Ke5 5. Nc8 $1 1-0  

@@ -1,0 +1,10 @@
+[Event "td20#1478 {v} @3 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5q2/3P1k2/5p2/5K2/R2N4/8/8/8 w - - 0 1"]
+
+ 1. Ra7 (1. Nc6 $2 1... Qh6 2. d8=Q (2. Ra7 Qh7+ 3. Kf4 Qh2+ 4. Ke4 Qg2+) (2. Rg4 Qh7+ 3. Kf4 Qh6+ 4. Kg3 Qe3+) 2... Qh5+) (1. Ne6 $2 1... Qb8 2. d8=Q (2. Ra5 Qb1+) 2... Qb5+) 1... Qb8 $1 (1... Qe7 2. d8=N+ Ke8 3. Rxe7+) (1... Qd8 2. Nc6) (1... Qc5+ $1) 2. Rb7 $1 (2. d8=Q+ $2 2... Qxa7) (2. d8=N+ Ke8 3. N8c6 Qc8+) 2... Qa8 $1 (2... Qd8 3. Nc6 Qa8 4. Rc7) 3. Nc6 (3. Ne6 $2 3... Qa5+) 3... Qxb7 (3... Kg7 4. Ra7) 4. d8=N+ 1-0  

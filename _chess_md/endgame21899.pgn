@@ -1,0 +1,10 @@
+[Event "tc62 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7P/8/8/2pPp3/3kP3/8/5K2 b - - 0 1"]
+
+ 1... c3 2. h8=R (2. h8=Q $2 c2 3. Qc8 c1=Q+ 4. Qxc1) 2... c2 3. Rc8 1-0  

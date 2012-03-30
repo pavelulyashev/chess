@@ -1,0 +1,10 @@
+[Event "ts23#02 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/4p3/Np6/8/2k3P1/8/8/8 w - - 0 1"]
+
+ 1. Nb4 $1 (1. Kd7 $2 Kd5 2. Nb4+ Ke5 3. Nd3+ Kf6 4. Kc6 Kg5 5. Ne5 Kf4 6. Kd5 b5) 1... Kd4 $1 2. Nd3 $1 e5 (2... Ke4 3. Kd7 e5 4. Ke6 Kxd3 5. Kxe5 b5 6. g5 b4 7. g6 b3 8. g7 b2 9. g8=Q b1=Q 10. Qg6+) 3. g5 e4 4. g6 exd3 5. g7 d2 6. g8=Q d1=Q 7. Qd8+ 1-0  

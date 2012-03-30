@@ -1,0 +1,10 @@
+[Event "tm04#1321 @2 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7P/5r2/K7/p1kp4/R7/3P2p1/8 w - - 0 1"]
+
+ 1. h8=Q Rf5+ 2. Kxa4 $1 g1=Q 3. Qc8+ Rc5 4. Qe6+ $1 Rd5 5. Qc6+ Rc5 6. Rc3+ $1 (6. d3# $1 {cook}) 6... dxc3 7. Qe4+ Qd4 8. d3# 1-0  

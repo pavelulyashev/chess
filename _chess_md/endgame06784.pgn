@@ -1,0 +1,10 @@
+[Event "Cs.sach _6+6] {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Husak K"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/1N2p3/8/8/3b4/Ppkr4/1R1p4/1K4N1 w - - 0 1"]
+
+ 1. Ne2+ Kc4 2. Na5+ $1 (2. Rxd2 $2 Rxd2 3. Na5+ Kd3 4. Nxd4 Rd1+ 5. Kb2 Kxd4 6. Nxb3+ Kc4 7. Kc2 Rd6 $11) 2... Kb5 3. Rxd2 Rxd2 4. Nxb3 Rb2+ (4... Bc3 5. Nxd2 Bxd2 6. Kc2 Bc1 7. Kb3) 5. Kc1 $1 (5. Ka1 $6 Ka4 $1 (5... Rxb3+ $2 6. Nxd4+ Ka4 7. Bc6+ Kxa3 8. Nc2#) 6. Nexd4 (6. Nbxd4 Kxa3 7. Nc3 Rf2 $11) 6... Kxa3 7. Bd5 Rf2 $11) 5... Rxb3 (5... Ka4 6. Nbxd4 Rb8 7. Nc3+ Kxa3 8. Bd5 Kb4 9. Nc6+ Kxc3 10. Nxb8) 6. Nxd4+ Ka4 (6... Kc4 7. Bd5+) 7. Bc6+ Kxa3 8. Nc2+ Ka2 9. Bd5 e6 $143 10. Bc4 e5 11. Bd5 e4 12. Nd4 1-0  

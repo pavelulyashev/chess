@@ -1,0 +1,10 @@
+[Event "EG {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Van Reek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1P3P2/8/4R3/r7/b7/p1p3r1/2Nk3K w - - 0 1"]
+
+ 1. Nxa2 (1. b8=Q a1=Q 2. Kxg2 Qd4) 1... c1=Q (1... Rg3 2. Rd5+ Ke2 3. Re5+) ( 1... Rg7 2. Rd5+ Ke2 3. Re5+ Kd3 4. Rd5+ Kc4 5. Rh5) 2. Nxc1 (2. Rd5+ Rd2 3. Nxc1 Rh4+ 4. Kg1 Rg4+ 5. Kf1 Rxd5 6. b8=Q Rf5+) 2... Rb2 (2... Rg3 3. Rh5) 3. Re1+ (3. Re3 Rh4+ 4. Kg1 Bc5) 3... Kxe1 4. Nd3+ Kf1 5. Nb4 $1 { Nowotny+Plachutta} Rbxb4 (5... Rf2 $5 6. b8=Q Rxb4 7. Qg3 Rbb2 8. Qd3+ Ke1 9. Qe3+ Kd1 10. Kg1 Rfe2 11. Qf3) (5... Bxb4 6. b8=Q $11) (5... Raxb4 6. f8=Q+ $11 ) 6. f8=Q+ Rf4 7. Qxf4+ Rxf4 8. b8=Q Rh4+ 9. Qh2 1/2-1/2  

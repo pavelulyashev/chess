@@ -1,0 +1,10 @@
+[Event "3 Prize, tn34#1788 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/2K4p/2p4P/3p4/4P2P/1p3B2/8/8 w - - 0 1"]
+
+ 1. e5 (1. exd5 $2 cxd5) (1. Bd1 $2 dxe4) 1... b2 2. Be4 $1 dxe4 3. e6 b1=Q ( 3... Kg8 {main} 4. e7 Kf7 5. Kd7 b1=Q 6. e8=Q+ Kf6 7. Qe6#) 4. e7 Qa2 5. e8=Q+ Qg8 6. Qe5+ Qg7+ 7. Qxg7# 1-0  

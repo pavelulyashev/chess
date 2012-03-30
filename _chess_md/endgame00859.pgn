@@ -1,0 +1,10 @@
+[Event "2nd comm-Alexander Hildebrand MT {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Mihajloski Z, Miloseski B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K1kp3/p2pNPp1/P1p5/3pp1q1/p2N4/P7/5B2 w - - 0 1"]
+
+ 1. Ne5+ (1. f7 $2 exd3 2. Nf8+ Kd8 3. Ne6+ Kd7 4. f8=Q Qe4+ 5. Kb8 Kxe6 6. Bh3+ Kd5 7. Qf7+ Ke5 8. Qxe7+ Kf4 9. Qh4+ Ke3 10. Qe1+ Kf4 {=}) (1. Ndf4 $2 exf6 2. Bxa6 g5 3. Bb5+ Ke7 4. a6 gxf4 5. Nc7 Qg8 {=}) (1. Nexc5+ $2 Ke8 2. Nf2 Qg1 3. Bxa6 e3 4. Bb5+ Kf7 5. Bc4+ e6 6. Nfd3 dxc5 {-+}) 1... dxe5 2. f7 Qxe6 (2... Kd6 3. f8=Q Qxe6 4. Qd8+ Qd7+ 5. Qxd7+ Kxd7 6. Bxa6 e3 7. Bb5+ {+-}) (2... Kxe6 3. f8=Q d3 (3... Kd5 4. Qd8+ Ke6 5. Qc8+ {+-}) 4. Qc8+ {+-}) 3. f8=N+ (3. f8=Q $2 Qc6+ 4. Ka7 Qc7+ 5. Kxa6 Qc6+ 6. Ka7 Qc7+ {=}) 3... Kd6 4. Nxe6 Kxe6 (4... d3 5. Ng5 c4 6. Kxa6 e3 7. Kb6 e4 8. Nxe4+ Ke5 9. Nc3 Kd4 10. a6 Kxc3 11. a7 e2 12. Bxe2 dxe2 13. a8=Q e1=Q 14. Qa5+ {+-}) 5. Bxa6 (5. Kxa6 $2 e3 6. Bc4+ Kf5 7. Kb6 e4 8. a6 d3 9. a7 e2 10. a8=Q e1=Q {=}) 5... Kd5 6. Bf1 (6. Bb5 $2 e3 7. a6 c4 8. a7 e2 9. a8=Q e1=Q 10. Kb6+ Ke6 11. Bxc4+ Kf5 12. Qf3+ Kg5 13. Qxa3 {= }) 6... c4 (6... e3 7. a6 d3 8. Bxd3 c4 9. a7 cxd3 10. a8=Q e2 11. Kc7+ Kd4 12. Qa7+ Kc3 13. Qa5+ Kd4 14. Qd2 Ke4 15. Kc6 Kf3 16. Kd5 e4 17. Qe1 Ke3 18. Kc4 d2 19. Qg3#) 7. a6 c3 8. a7 c2 9. a8=Q c1=Q 10. Bc4+ Qxc4 (10... Kxc4 11. Qc8+ {+- }) 11. Kb6+ Kd6 12. Qd8+ Ke6 13. Qg8+ {+-} 1-0  

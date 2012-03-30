@@ -1,0 +1,10 @@
+[Event "sp Prize jd01 te03 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Ham J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/2p1P3/R7/1q3P2/1pp1p3/1P2P3/K3P3/8 w - - 0 1"]
+
+ 1. Ra8+ Kf7 2. f6 cxb3+ 3. Kb1 (3. Kb2 $2 Qxe2+) (3. Kxb3 $2 Qd5+) 3... Qe8 4. Rd8 $1 (4. Rxe8 $2 Kxe8 5. Kb2 c6 $1 (5... c5 $2 6. Kxb3 Kd7 7. Kc4 Ke8 8. Kd5 Kd7 9. Kxe4) 6. Kxb3 c5 7. Kc4 Kd7) 4... c5 5. Kc1 b2+ 6. Kb1 c4 7. Kxb2 c3+ 8. Kb3 c2 9. Rxe8 c1=Q 10. Rf8+ 1-0  

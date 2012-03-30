@@ -1,0 +1,10 @@
+[Event "bg03#48 @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Van der Ende J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/4P1k1/6Pp/2prr1N1/8/4N2P/4R2K w - - 0 1"]
+
+ 1. Nf4+ (1. e7 $2 Rxe7) (1. Nf6 $2 Rxe6) (1. Nf2 $2 Rxe6) (1. exd7 $2 hxg4) 1... Kxg5 (1... Kg7 2. Rxe4 Rxe4 3. exd7 Re1+ 4. Kg2 Rd1 5. Ne5 $1) (1... Rxf4 2. Ne5+) (1... Kf5 2. Rxe4 Rxe4 3. exd7 Rd4 4. Nd5) 2. Rxe4 Rxe4 3. exd7 Re1+ 4. Kg2 Rd1 5. d8=Q+ Rxd8 6. Ne6+ Kxg4 7. Nxd8 c3 8. Ne6 $1 (8. Nc6 $2 c2 9. Ne5+ Kf4 10. Nd3+ Ke3 11. Nc1 Kd2 12. Na2 c1=Q 13. Nxc1 Kxc1) (8. h3+ $1 {cook} Kh4 9. Ne6 (9. Nc6 {or})) 8... c2 (8... Kf5 9. Nd4+) 9. h3+ $1 Kh4 10. Nd4 c1=Q 11. Nf3# 1-0  

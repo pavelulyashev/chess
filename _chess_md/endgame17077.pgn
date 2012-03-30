@@ -1,0 +1,10 @@
+[Event "tm04#1078 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/8/p6N/7p/8/p3K3/2k5/8 w - - 0 1"]
+
+ 1. Bf6 Kb1 2. Kd3 $1 (2. Kd2 $2 a2 3. Ba1 h4 4. Ng4 h3 5. Nh2 a5 6. Kd1 a4 7. Kd2 a3 8. Nf1 h2 $1 9. Nxh2 Kxa1) 2... a2 3. Ba1 h4 4. Ng4 h3 5. Nh2 Kc1 (5... Kxa1 6. Kc2 a5 7. Kc1 a4 8. Kc2 a3 9. Nf1 h2 10. Nd2 h1=Q 11. Nb3#) 6. Ke2 Kb1 7. Kd1 $1 a5 8. Kd2 a4 9. Kd1 a3 10. Nf1 h2 11. Nd2+ $1 Kxa1 12. Kc2 h1=Q 13. Nb3# 1-0  

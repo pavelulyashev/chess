@@ -1,0 +1,10 @@
+[Event "86 Fakty {m}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Bandzuch I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5kPP/2p4p/7K/8/8/8 w - - 0 1"]
+
+ {Correct, but not very original and surprising.} 1. h7 (1. g7 Kf7 2. Kxh5 c4) 1... Kg7 2. Kg5 c4 (2... h4 3. Kf5 h3 {the same as main}) 3. Kf5 c3 4. Ke6 c2 5. h8=Q+ Kxh8 6. Kf7 c1=Q 7. g7+ Kh7 8. g8=Q+ Kh6 9. Qg6# 1-0  

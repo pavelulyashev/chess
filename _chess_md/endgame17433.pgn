@@ -1,0 +1,10 @@
+[Event "1 Prize, ws05 {c} {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K3/BP6/6k1/q7/P5n1/8/2R5/7N w - - 0 1"]
+
+ 1. Rc6+ (1. b8=Q $2 Qxa4+) 1... Nf6+ (1... Kg5 2. b8=Q) 2. Rxf6+ (2. Ke7 $2 Qxa7) 2... Kxf6 3. b8=Q Qxa4+ (3... Qh5+ 4. Kd8 Qd5+ (4... Qh8+ 5. Kc7 Qh2+ 6. Kb6) 5. Kc7 Qc4+ 6. Kd6 Qd3+ 7. Kc5) 4. Kf8 (4. Kd8 $2 Qd1+) 4... Qa3+ 5. Kg8 Qa2+ 6. Kh8 Qa1 $1 7. Qb7 $1 (7. Qf4+ $2 Kg6+ 8. Bd4 Qxh1+) 7... Kg6+ 8. Kg8 Qa2+ 9. Kf8 Qa3+ 10. Ke8 $1 (10. Qe7 $2 Qf3+ 11. Ke8 Qa8+) 1-0  

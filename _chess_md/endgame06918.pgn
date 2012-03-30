@@ -1,0 +1,10 @@
+[Event "Sachove umeni_4/71#2754 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Sindelar M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/8/1P6/4p1R1/4p1RK/8/4q2k w - - 0 1"]
+
+ {4/71} 1. Rh4 Qe2 {Else Rh7.} (1... Qd1 2. Rh7 {speeds up the solution} b6 3. Kh4 Kh2 4. Rh3+ Kg2 5. Rg7+ Kf2 6. Rh2+ Kf3 7. Rf7#) 2. b6 $1 (2. Rh7 $2 Qh2+) 2... Qd1 3. Rh7 $1 {guarding d7} (3. Rxe3 Kg1 (3... Qg1 4. Re2 e3 5. Rh7) 4. Rhxe4 (4. Rg3+ Kf2 5. Rf4+ Ke2 6. Rxe4+ Kf2 7. Rf4+ Ke2) 4... Kf2) (3. Rh8 Qd7+ 4. Kh4 Kh2) 3... Qe2 4. Kh4 Qh2+ (4... Kh2 5. Rh3+ Kg2 6. Rg7+ Kf1 7. Rh1+ Kf2 8. Rh2+ Ke1 9. Rxe2+ Kxe2 10. Kg3 Kf1 11. Rf7+ Kg1 12. Re7 e2 13. Rxe4 Kf1 14. Kf3 e1=Q 15. Rxe1+ Kxe1 16. Ke4) 5. Rh3 Qxh3+ (5... e2 6. Kg4 Qxh3+ 7. Rxh3+ Kg2 8. Re3 Kf2 9. Kf4 e1=Q 10. Rxe1 Kxe1 11. Kxe4) 6. Kxh3 e2 (6... Kg1 7. Kg3 Kf1 8. Rh2 Ke1 9. Kf4 e2 10. Ke3) 7. Kg3+ Kg1 8. Rh1+ Kxh1 9. Kf2 1-0  

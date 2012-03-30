@@ -1,0 +1,10 @@
+[Event "1 Prize tn20 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R6N/4r3/P3k3/p4n1p/8/n7/6pN/6K1 w - - 0 1"]
+
+ 1. Ng6 Rc7 2. a7 Ne7 3. Nf4+ Ke5 4. Nd3+ (4. Nf3+ $143 Kxf4 5. Rf8+ Kg3 $1 6. a8=Q Rc1+ $19) 4... Ke4 (4... Ke6 $144 5. Nc5+ Ke5 6. Nf3+ $18) 5. Nf2+ Ke3 ( 5... Ke5 $144 6. Nf3+ Ke6 7. Ng5+ Ke5 8. Nd3+ $18) 6. Nd1+ Ke2 (6... Ke4 $144 7. Nc3+ Ke5 8. Nf3+ Ke6 9. Nd4+ Ke5 10. Re8 $1 Rxa7 11. Nc6+ $18) 7. Nc3+ Ke1 ( 7... Ke3 $144 8. Nd5+ Nxd5 9. Re8+ $18) 8. Nf3# 1-0  

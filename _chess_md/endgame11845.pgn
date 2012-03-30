@@ -1,0 +1,10 @@
+[Event "bm14-73 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Missiaen R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/2n5/8/5p2/8/K2kB2B/b7/8 w - - 0 1"]
+
+ 1. Bf4 $1 (1. Bb6 $2 Na8) 1... Nd5 (1... Ne6 $2 2. Bxf5+) 2. Bh6 $1 Bc4 (2... Bb1 3. Bxf5+) (2... Nc3 3. Bxf5+ Kd4 4. Bg7+ Kc4 5. Be6+) 3. Bf1+ Kd4 (3... Kc3 4. Bg7+) 4. Ne6+ (4. Bg7+ $2 Kc5 5. Ne6+ (5. Nd7+ Kb5) 5... Kb5) 4... Ke5 (4... Kc3 5. Bg7+) 5. Bxc4 Kxe6 6. Bf4 1-0  

@@ -1,0 +1,10 @@
+[Event "2 c, Springaren 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3P3R/8/8/8/3r2pp/3k3p/K5B1 w - - 0 1"]
+
+1. Bxh2 Kc2 $1 2. Ka2 gxh2 (2... Rxd7 3. Rxd7 gxh2 4. Rc7+ Kd2 5. Rd7+ Ke2 6.Re7+ Kf2 7. Rf7+ Kg3 8. Rg7+ Kh4 9. Rh7+ Kg4 10. Rg7+ Kh5 11. Rh7+ Kg4 12. Rg7+ $11) 3. Rxh3 Rxh3 4. d8=Q h1=Q 5. Qc8+ $1 (5. Qc7+ $5 Rc3 $19) 5... Rc3 6. Qf5+ Rd3 7. Qc5+ Kd2 8. Qf2+ Kd1 9. Qc2+ Kxc2 {stalemate} 1/2-1/2

@@ -1,0 +1,10 @@
+[Event "b008#478 @3 {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1Nk5/4P3/bP1p1p2/8/6K1/1p4B1/8 w - - 0 1"]
+
+ 1. b6+ Bxb6 2. e7 Kd7 3. Bh3 Bc7+ (3... b1=Q $1 4. Bxf5+ Qxf5 5. e8=Q+ 5... Kc7 $3 6. Qe7+ (6. Qa8 Qg6+ 7. Kf4 Qf6+ 8. Kg3 Qc6) (6. Nd8 Qg5+) 6... Qd7 7. Qxd7+ Kxd7 8. Kf4 Kc7 9. Ke5 Kc6 10. Nd6 Bc7) 4. Kh4 b1=Q 5. Bxf5+ Qxf5 6. e8=Q+ Kxe8 7. Nd6+ Bxd6 1/2-1/2  

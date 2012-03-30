@@ -1,0 +1,10 @@
+[Event "tj06 {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1pp3k1/1p6/1P1P2K1/P1P5/8/8 w - - 0 1"]
+
+ 1. Kf3 $3 (1. Kf4 $2 Kf6 2. c4 bxc4 3. a4 Ke6 4. a5 bxa5 5. bxa5 Kd6 6. Ke3 c5 7. a6 cxd4+) 1... Kf5 (1... Kf6 2. c4 bxc4 3. a4) 2. c4 $1 bxc4 3. a4 Ke6 4. a5 bxa5 (4... Kd7 5. a6 Kc7 6. b5 cxb5 7. d5 b4 8. d6+) 5. bxa5 Kd6 6. Ke2 $1 (6. Ke3 $2 c5 $1 7. a6 cxd4+) 6... Kc7 (6... c5 7. a6 Kc7 8. d5) 7. Kd2 Kb7 8. Kc3 Ka6 9. Kxc4 Kxa5 10. Kc5 1-0  

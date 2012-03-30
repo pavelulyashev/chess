@@ -1,0 +1,10 @@
+[Event "4 Commendation, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Didukh S, Skripnik A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5r2/1P4r1/8/8/5N1p/3B2pR/1P4K1/k7 w - - 0 1"]
+
+ 1. Rh1+ (1. Be4 $2 Rxb7) 1... Ka2 (1... Kxb2 2. Rb1+) 2. Rc1 $1 h3+ $1 (2... Rxb7 3. Bc4+ Rb3 4. Nd3) 3. Kxh3 Rh8+ 4. Kg2 Rh2+ 5. Kg1 $1 (5. Kf3 $2 Rf2+ $1 6. Ke4 (6. Ke3 Re7+ $1 7. Be4 Rxb2 $11) 6... Rxf4+ $1 7. Kxf4 Rxb7 $11) 5... Rxb7 6. Bc4+ Rb3 $1 {selfpin} (6... Kxb2 7. Nd3+ Ka3 8. Ra1+) 7. Nd3 (7. Bxb3+ $2 Kxb2) 7... Rh1+ $1 8. Kg2 $1 (8. Kxh1 $2 g2+ 9. Kxg2 {stalemate.}) 8... Rh2+ (8... Rxc1 9. Nxc1+ Kxb2 10. Nxb3) 9. Kf3 $1 {selfpin} (9. Kxg3 $2 Rh3+) 9... Rhxb2 10. Kxg3 Ka3 {selfunpin} 11. Bxb3 {selfunpin} Rxb3 {Pin} 12. Ra1# { .  .  Study with nice stalemate/mate points, with a couple of thematic pins/ unpins.  HvH} 1-0  

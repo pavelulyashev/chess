@@ -1,0 +1,10 @@
+[Event "tl80 @2 {m}"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k1rb3/8/1K2R2p/3N2p1/8/5p2/8/5B2 w - - 0 1"]
+
+ 1. Nb4 (1. Nc7 $2 g4) 1... Kc8 2. Rxe8 (2. Bh3 $1 {cook JU} Bd7 3. Rc6+ Kb8 4. Na6+ Ka8 5. Bxd7) 2... Rxe8 3. Bh3+ Kb8 4. Bd7 Rc8 5. Na6+ Ka8 6. Bxc8 f2 7. Bb7# 1-0  

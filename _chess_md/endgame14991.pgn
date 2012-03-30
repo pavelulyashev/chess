@@ -1,0 +1,10 @@
+[Event "wl01 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Apschenek F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1q6/2p3Q1/8/5p2/p1B1pP2/k3K3 w - - 0 1"]
+
+ 1. Qc1+ Qb1 2. Bd1 $3 exd1=Q+ (2... Qxc1) (2... c4 3. Qc3+ Qb2 4. Qc1+ $1 Qxc1) 3. Kxd1 c4 4. Kd2 c3+ 5. Kd1 c2+ 6. Kd2 Qxc1+ 7. Kxc1 1/2-1/2  

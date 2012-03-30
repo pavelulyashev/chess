@@ -1,0 +1,10 @@
+[Event "t001#517 {m} {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4P3/k1r5/6K1/8/1N2N3/8 w - - 0 1"]
+
+ 1. e7 Rc8 2. Nc4+ $1 Kb4 (2... Rxc4+ 3. Nd4 $1 Rc8 4. Nc6+ Kb6 5. Nd8) (2... Ka6 3. Nd6 Rg8+ $1 4. Kf5 Kb6 5. Ke6 Rh8 6. Nf4 Kc6 7. Nd5 Ra8 8. Nf6 Kc7 9. Ke5 $3 Rb8 10. Kd5 Ra8 11. Kc5 Rh8 12. Nb5+ Kb7 13. Kd6 Rb8 14. Nc7 Ka7 15. Ne6 Rb6+ 16. Kd5 Rb5+ 17. Kc4 Rb8 18. Nd8) (2... Kb5 3. Nd6+ Kc6 4. Nxc8) (2... Ka4 3. Nb6+) 3. Nd6 Rh8 4. Kf5 Kc5 5. Ke6 Rh6+ 6. Ke5 Rh5+ 7. Nf5 Rh8 8. Ng7 Kc6 9. Ke6 Rh6+ 10. Kf7 Rh8 11. Nd4+ Kd7 12. Nde6 Rc8 (12... Rb8 13. Ne8 Ra8 14. N8c7 Rc8 15. Na6 Ra8 16. Nac5+ Kd6 17. Nd8 Ra7 18. Ncb7+) (12... Ra8 13. Ne8 Kc6 14. Nd8+ Kb6 15. Nc7) 13. Ne8 Kc6 14. Nd8+ Kb6 15. Nf6 Rc7 16. Nd5+ 1-0  

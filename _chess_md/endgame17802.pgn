@@ -1,0 +1,10 @@
+[Event "ts13#292 @1 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Grzeban G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K2k/p5p1/6P1/2r5/5P2/2pp4/3p4/1R6 w - - 0 1"]
+
+ 1. Rb8 (1. Kd7 $1 {cook JN} Rc8 2. Kxc8 c2 3. Rb8) 1... Rc7 2. Kd8 Rf7 $1 (2... Rb7 3. Rxb7 d1=Q 4. Rb8) 3. gxf7 Kh7 4. f8=Q d1=Q (4... Kg6 5. Rb5) 5. Qf5+ Kh6 (5... g6 6. Rb7+) 6. Qg5+ Kh7 7. Rb7 1-0  

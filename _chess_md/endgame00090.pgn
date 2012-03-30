@@ -1,0 +1,10 @@
+[Event "Problem Online Ty {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3Q4/7B/8/8/6rp/3Pp1p1/4k1K1 w - - 0 1"]
+
+ 1. Be3 h2+ $1 (1... Rxe3 2. dxe3 h2+ 3. Kxg2 $1 h1=Q+ 4. Kxh1 $18) (1... Kd1 2. Qa4+ $18) 2. Kxh2 Rxe3 $1 3. Kxg2 $1 (3. dxe3 $2 g1=Q+ (3... g1=R $2 4. e4 $1 Rg2+ $1 5. Kh3 $1 $18) 4. Kxg1 {stalemate}) 3... Rc3 $1 (3... Re4 4. Qd3 Rf4 5. Qg3+ Kd1 6. Qxf4 e1=Q 7. d4 $18) (3... Ra3 4. Qb5 $1 Kd1 5. Qb1+ Kxd2 6. Qb2+ Kd1 7. Qd4+ Ke1 8. Qb4+ Kd1 9. Qd6+ Kc2 10. Kf2 $18) 4. Qd5 $1 {mutual zugzwang } (4. dxc3 $2 {stalemate}) ({Thematic try:} 4. Qd4 $2 Rc8 $1 (4... Ra3 $2 5. Qb2 Kd1 6. Qb1+ Kxd2 7. Qb2+ Kd1 8. Qd4+ $18) 5. Kf3 Rf8+ 6. Ke3 Kf1 $1 7. Qc4 Re8+ 8. Kf3 Rf8+ 9. Ke3 Re8+ {perpetual check}) 4... Ra3 (4... Rc8 5. Kf3 Rf8+ 6. Ke3 Kf1 (6... Re8+ 7. Kd3 $18) 7. Qh1#) 5. Qb5 $1 Ra8 6. Kf3 Ra3+ (6... Rf8+ 7. Ke3 $18) 7. d3 $1 {Albino} Kf1 8. Qf5 $1 e1=Q 9. Qh3+ 1-0  

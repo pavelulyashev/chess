@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention ts23#081 {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "RB6/8/5P2/8/6P1/1k6/5r2/K7 w - - 0 1"]
+
+ 1. Ra3+ $1 Kxa3 2. Kb1 Rb2+ 3. Kc1 Rxb8 4. g5 $1 (4. f7 $2 Rf8 5. Kd2 Kb4) (4. Kd2 $2 Kb4 5. g5 Kc5 6. g6 Kd6 7. f7 (7. g7 Ke6) 7... Ke7) 4... Rf8 $1 (4... Kb4 5. g6 Kc3 $1 6. f7 Ra8 $1 7. Kd1 Kd3) (4... Rg8 $2 5. f7) 5. Kd2 Kb4 6. Ke3 $1 (6. Kd3 $2 Kc5 7. Ke4 Kd6 8. Kf5 Ra8 9. Kg6 (9. g6 Ra5+ 10. Kf4 Ke6) (9. f7 Ke7 10. Kg6 Rf8) 9... Ke6 10. Kg7 Ra7+ 11. Kg8 Rb7 12. Kf8 Kf5 13. Kg8 Kg6 14. Kf8 Kxg5) 6... Kc5 7. Kf4 $1 (7. g6 $2 Rxf6) 7... Kd6 8. g6 $1 (8. Kf5 $2 Ra8) 8... Ke6 (8... Rxf6+ 9. Kg5 Ke5 (9... Ke7 10. g7 Rf1 11. g8=N+ $3 Kf7 12. Nh6+) (9... Rf1 10. g7 Ke5 (10... Ke6 $2 11. g8=Q+) 11. Kg6 $1) 10. g7 Rf1 11. Kg6) ( 8... Ra8 9. Kg5 $1 Ke6 10. f7 Ke7 11. Kh6) 9. Kg5 $1 (9. g7 $2 Ra8 10. Kg5 Kf7 11. Kh6 (11. Kf5 Ra6 12. Kg5 Rb6 13. Kh6 Rxf6+) 11... Ra1 12. Kg5 Ra6) 9... Ra8 (9... Rxf6 10. g7 Kf7 11. g8=Q+ Kxg8 12. Kxf6) 10. f7 $1 (10. g7 $2 Kf7) 10... Ke7 11. Kh6 $1 (11. Kf5 $2 Ra5+ 12. Kf4 Kf8 13. Kg4 Kg7 14. Kh4 Ra6 15. Kh5 Rb6 16. Kg5 Rxg6+) (11. Kh5 $2 Kf8 12. Kh6 Ra1 13. Kg5 Kg7) 11... Kf6 (11... Kf8 12. Kh7 Rb8 13. Kh8 $1 (13. Kh6 $2 Rb1 14. g7+ Kxf7)) (11... Ra1 12. Kg7 Rf1 13. Kg8 Rf6 14. g7 Rxf7 15. Kh8) 12. Kh7 $1 (12. f8=Q+ $2 Rxf8 13. Kh7 Ra8) 12... Rb8 (12... Rf8 13. g7 Rxf7 14. Kh8 Rxg7) 13. f8=Q+ $1 Rxf8 14. g7 Rf7 ( 14... Ra8 15. g8=Q) 15. Kh8 Rxg7 1/2-1/2  

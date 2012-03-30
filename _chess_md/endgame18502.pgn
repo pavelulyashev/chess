@@ -1,0 +1,10 @@
+[Event "mn01 ts31#2048 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/1PP1K3/1p6/8/7p/3p4/8 w - - 0 1"]
+
+ 1. Kd7 d1=Q+ 2. Kc7 Qd4 (2... Qd6+ 3. Kxd6 Kb8 4. Kd7 h2 5. c7+) (2... h2 3. b7+ Ka7 4. b8=Q+ Ka6 5. Qb6#) 3. b7+ Ka7 4. b8=Q+ Ka6 5. Qa8+ Qa7+ 6. Qb7+ Qxb7+ 7. cxb7 h2 8. b8=Q h1=Q 9. Qb6# 1-0  

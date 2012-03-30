@@ -1,0 +1,10 @@
+[Event "Olimpiya Dunyasi {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/p3R1p1/4p3/4P3/P4bP1/K7/bPp5/R7 w - - 0 1"]
+
+ 1. Rf7 $1 (1. Rxg7 $2 Bb1 2. Rg8+ Kc7 3. Rg7+ Kc6 4. Rg8 Bxe5 5. Rc8+ Bc7 { wins.}) 1... Bb1 2. Rf8+ Kd7 3. Rf7+ Kc6 4. Rf8 Kb7 (4... Bxe5 $2 5. Rf1) 5. Rf7+ Kb6 6. a5+ Kb5 7. Rc7 Bxe5 8. Rc8 Bd4 $1 (8... Bd6+ $2 9. b4 Bxb4+ 10. Kb2 $11) 9. g5 $1 (9. a6 $2 e5 $1 10. Kb3 (10. g5 e4) 10... Bc5 11. Ra5+ Kxa5 12. Rxc5+ Kb6 $1 13. Rc3 e4 14. Kc4 e3 15. Kd3 c1=Q+ {check!}) 9... g6 (9... e5 10. b4 $1 (10. a6 $2 e4 11. Kb3 Bc5 12. Ra5+ Kxa5 13. Rxc5+ Kxa6 $1) 10... Bxa1 ( 10... e4 11. Ra2 $11) 11. Rc5+ Ka6 12. Rc7 $1 Kb5 13. Rc5+ Ka6 14. Rc7 $11 { perpertual alternation of check and threat of mate.}) 10. a6 $1 (10. Rc7 $2 Bc5+ 11. Rxc5+ Kxc5 12. b4+ Kc4 13. Kb2 Kxb4 {zz} 14. a6 e5 15. Ra3 c1=Q+ { wins.}) 10... Bc5+ (10... e5 11. Kb3 Bc5 12. Ra5+ Kxa5 13. Rxc5+ Kb6 14. Rxc2 { draw.}) 11. Rxc5+ Kxc5 12. b4+ Kc4 13. Kb2 Kxb4 14. Kc1 {zz} e5 15. Kd2 {(b2)} e4 16. Kc1 e3 17. Ra3 $1 Kxa3 {stalemate.} 1/2-1/2  

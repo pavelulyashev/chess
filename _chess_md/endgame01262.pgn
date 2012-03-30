@@ -1,0 +1,10 @@
+[Event "Kos70, twin [2nd Pr] {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Arestov P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/N6B/1p1r4/pN6/1k6/3p4/p1PP4/2K5 w - - 0 1"]
+
+ 1. c3+ (1. Kb2 dxc2 2. Bxc2 Rxd2) 1... Kb3 2. Bg8+ (2. Nd4+ $5 {unclear EV} Rxd4 3. Bg8+ Ka4 (3... Ka3 4. Nb5+ $1 {EV} (4. Bxa2 $2 Rg4 $1 { and Black even wins EV}) 4... Ka4 5. Bxa2 Rf4 6. Nd4 Ka3 7. Bb3 Rg4 8. Bd1 Rg5 9. Ne6 Rf5 10. Nd4 Rg5 11. Nf3 Rd5 12. Ne1 b5 13. Bf3 Rd6 14. Bg2 b4 15. cxb4 axb4 16. Bf1 Rc6+ 17. Kd1 b3 18. Bxd3 b2) 4. Bxa2 Rd7 { draw according the author, but not so clear} 5. Nc6 Rg7 (5... Ka3 6. Bc4 Rc7 7. Bb5 a4 8. Nd4 Rg7 9. Bxd3) 6. Bc4 (6. Nd4 Ka3 7. Bb3 b5 8. Bd1 b4 9. cxb4 axb4) 6... Rg1+ 7. Kb2 Rg2 8. Nd4 Rxd2+ 9. Kc1 Rf2 10. Bxd3 Ka3 11. Bc4 Rh2 12. Nc2+ Ka4 13. Kb2 Rd2 (13... b5 14. Bb3#) 14. Ba6 Rh2 (14... b5 15. Bb7 Rd6 16. Nd4 b4 17. c4 b3 18. Kc3 b2 19. Be4 Rh6 20. c5 Ka3 21. Bb1 Rh1 22. Nc2+ Ka4 23. c6 Kb5 24. c7 Rh8 25. Nd4+ Kb6 26. Ne6 Rc8) 15. c4 Rh5) 2... Re6 (2... Ka4 3. Kb2) (2... Rd5 $5 {not analysed by author, but very interesant EV} 3. Nd4+ $1 (3. Bxd5+ Ka4 4. Na3 a1=Q+ 5. Nb1 b5 6. Nc6 b4 7. Nd4 bxc3 8. Bc6+ Kb4 9. dxc3+ Kc4 ) 3... Ka3 4. Nab5+ Ka4 5. Kb2 {and there is not stalemate defence}) 3. Bxe6+ ( 3. Nd4+ Ka3 4. Nab5+ Ka4 5. Kb2 (5. Nb3 $5 Re8 6. N5d4 {unclear EV} (6. Bf7 Re7 7. Bc4 a1=Q+ 8. Nxa1 Re1+ 9. Kb2 Rb1+) 6... Rxg8 7. Kb2 a1=Q+ 8. Nxa1 Rg2 9. Nab3 Rg5 {for b5} 10. Ka2 (10. Nf3 Rb5 11. Nfd4 Rg5 12. Nc1 Rg2 13. Ndb3 Rg3 14. Na2 Kb5) 10... Rh5 11. Nc1 Rh3 $1 (11... Rh2 $2 12. Nxd3 Rxd2+ 13. Nb2+) 12. Nc6 Rh2 13. Nb3 Re2 14. c4 (14. Ncd4 Rf2) 14... Re4 15. Nbd4 (15. c5 Rc4) 15... Re2 16. Nf3 Re4 (16... Re6 17. Nfe5 Rf6 18. Kb2 b5 19. c5 Rf2 20. Kc3 b4+ 21. Kxd3 Kb5 22. Ke3 Rxd2 23. Kxd2 Kxc5 24. Nxa5 b3) 17. Nfe5 b5 18. Nxd3 bxc4 19. Nc5+ Kb5 20. Nxe4) 5... a1=Q+ 6. Kxa1 Re1+ 7. Kb2 Rb1+) 3... Ka4 4. Na3 (4. Kb2 a1=Q+ 5. Kxa1) (4. Bb3+ Kxb3 5. Nd4+ Ka3 6. Nab5+ Ka4 7. Kb2 a1=Q+ 8. Kxa1) 4... a1=Q+ (4... Kxa3 5. Nb5+ Ka4 6. Kb2) 5. Nb1 b5 6. Nc6 b4 7. Nd4 bxc3 (7... b3 8. Bxb3#) 8. Bd7+ (8. Bb3+ Kb4 9. dxc3+ Kc5) 8... Kb4 9. dxc3+ Kc4 10. Be6+ Kc5 11. Nb3+ 1-0  

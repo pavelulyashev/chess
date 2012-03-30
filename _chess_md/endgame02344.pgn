@@ -1,0 +1,10 @@
+[Event "Magyar Sakkelet {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Marnowskis A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5Q1K/4N1p1/5Pp1/6p1/4p1k1/8/br1ppbP1/r7 w - - 0 1"]
+
+ 1. Qc8+ Kh5 2. Qh3+ Bh4 3. g4+ Kh6 4. Qb3 $1 {Nowotny} (4. f7 Bxf7 5. Ng8+ Bxg8 6. Qc3 Rb7 7. Qxg7+ Rxg7) 4... Bxb3 5. Ng8+ Bxg8 6. f7 Rb8 7. f8=B $1 (7. f8=Q $2 Bd5 8. Qxb8 Ra8) 7... Rb7 (7... Rxf8 {stalemate}) (7... Bd5 {stalemate}) 8. Bxg7+ Rxg7 {stalemate} 1/2-1/2  

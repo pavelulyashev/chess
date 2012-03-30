@@ -1,0 +1,10 @@
+[Event "Comm. NONA 2008 JT {m}"]
+[Site "?"]
+[Date "2008.07.19"]
+[Round "?"]
+[White "Campioli M, Rossi P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/5P2/p1p1p3/k1P2pn1/p1P2P1p/K2n3N w - - 0 1"]
+
+ 1. f6 (1. Nxg3 Ne3 2. fxe3 f2 $19) 1... Ne3 2. fxe3 f2 3. Nxf2 Nf5 4. f7 Ne7 5. f8=R $1 (5. f8=Q $5 h1=Q+ 6. Nxh1 {stalemate}) 5... Nf5 $1 6. Rb8 $1 (6. Rxf5 $5 h1=Q+ 7. Nxh1 {stalemate}) (6. Nh1 Nxe3 7. Rf2 Nf1 8. Rxf1 $11) 6... Nxe3 ( 6... h1=Q+ 7. Nxh1 Nxe3 (7... Ng3 8. Rb2 $18) 8. Rb2 $18) 7. Rb2 h1=Q+ 8. Nxh1 Nd1 9. Rxa2# 1-0  

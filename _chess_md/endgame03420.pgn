@@ -1,0 +1,10 @@
+[Event "3rd comm., Istvбn Bilek 75 JT,  {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Josten G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6B1/p2pn3/8/3Pk2P/P3P3/B2p3n/7K/8 w - - 0 1"]
+
+1. Bb2+ ({Thematic} 1. Bxe7 $2 d2 $19) ({Thematic} 1. Kxh3 $2 d2 $19) 1... Kxe4(1... Kd6 2. e5+ (2. Kxh3 $2 d2 $19) 2... Kc5 3. Bh7 (3. Kxh3 $2 d2 $19) 3...d2 4. Bc2 (4. Kxh3 $2 d1=Q $19) 4... Nf2 5. Kg3 Nd3 6. Ba3+ $18 ({Thematic} 6.Bxd3 $2 d1=Q $19)) (1... Kf4 2. Bc1+ (2. Kxh3 $2 d2 $19) 2... Kg4 3. h6 Ng5 4.e5 $18) 2. Bh7+ (2. Kxh3 $2 d2 $19) 2... Nf5 3. Bc1 (3. Kxh3 $2 d2 $19) 3...Nf4 (3... d2 4. Bxd2 Nf2 5. h6 Ng4+ 6. Kh3 Nf6 7. Bg6 $18) 4. h6 Ke5 (4... d65. Bd2 Ke5 6. Bc3+ Ke4 7. Bxf5+ Kxf5 8. h7 Ng6 9. Kg3 $18) (4... a6 5. Bd2 Ke56. Bc3+ Ke4 7. Bxf5+ Kxf5 8. h7 Ng6 9. Kg3 $18) 5. Bb2+ Ke4 6. Bc3 Nxd5 (6...a6 7. Bxf5+ Kxf5 8. h7 Ng6 9. Kg3 $18) (6... d6 7. Bxf5+ Kxf5 8. h7 Ng6 9. Kg3$18) 7. Bxf5+ Kxf5 8. h7 Nxc3 9. h8=Q d2 (9... Ne4 10. Qh3+ $18) 10. Qh7+ Ke5 (10... Kf4 11. Qh6+ $18) 11. Qe7+ Kd4 (11... Kf4 12. Qb4+ $18) 12. Qxd7+ Ke3 (12... Nd5 13. Qxa7+ $18) 13. Qxa7+ Ke2 (13... Kd3 14. Qh7+) 14. Qa6+ Kd1 15.Qd3 {wins.} 1-0

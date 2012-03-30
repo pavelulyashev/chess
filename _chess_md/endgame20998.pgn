@@ -1,0 +1,10 @@
+[Event "3 Prize, Lenin 140 MT {m}"]
+[Site "?"]
+[Date "2010.04.20"]
+[Round "?"]
+[White "Afek Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/8/4P3/5r2/3K2N1/1p6/8/3b1k2 w - - 0 1"]
+
+ 1. e7 Rd5+ 2. Kxd5 Bf3+ 3. Kd4 $1 b2 4. Ne3+ (4. e8=Q $2 b1=Q 5. Ne3+ (5. Nh2+ Kg2 $1 $11) 5... Kf2 6. Nc4 Qd1+ 7. Kc5 Qd5+ $11) 4... Kf2 5. Nd1+ $1 Bxd1 6. e8=Q b1=Q 7. Qe3+ Kf1 8. Qh3+ Ke1 9. Bg3+ Kd2 10. Bf4+ $1 Ke1 11. Bd2+ $1 Kxd2 12. Qe3+ Kc2 13. Qc3# { --------------------------------------------see the study of O.Zhuk above} 1-0  

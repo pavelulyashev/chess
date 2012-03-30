@@ -1,0 +1,10 @@
+[Event "13 Prize ww12 {tt} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Halski M, Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3K2k1/3p2P1/5pPB/1r1P3p/4n3/5R2 w - - 0 1"]
+
+ 1. Rf2 (1. Kxd5 $2 Rxd3+ 2. Ke4 Re3+ 3. Kd5 Ng3) 1... Ng1 (1... Ng3 2. Ke5 (2. Kxd5 $2 Rxd3+ 3. Ke5 Ne2 4. Rxe2 Re3+) 2... Rxd3 3. Kxf4 Ne4 4. Ra2) 2. Kxd5 Rxd3+ 3. Ke4 (3. Ke5 $2 Ne2) 3... Re3+ 4. Kxf4 Rf3+ 5. Rxf3 h2 6. Rh3 Nxh3+ 7. Kg3 h1=Q (7... h1=R 8. Kg2) 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tc06#091 @2 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/k4N1p/7p/2P2Kbp/8/4P2Q/3p4/2r5 w - - 0 1"]
+
+ 1. e4 Rxc5+ 2. Ne5 d1=Q (2... Rxe5+ 3. Kxe5 d1=Q 4. Qd7+ (4. Qa3+ $2 Kb6 5. Qb4+ Ka6 6. Qc4+ Ka5 7. Qd5+ Qxd5+ 8. exd5 h4 9. Ke4 h3 10. Kf3 Bh4) 4... Qxd7) 3. Qa3+ Kb6 4. Qb3+ (4. Qb4+ $1 {cook MF} Rb5 5. Qd6+ Qxd6) 4... Qxb3 1/2-1/2  

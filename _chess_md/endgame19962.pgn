@@ -1,0 +1,10 @@
+[Event "tp16 {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5Q1p/4p3/8/8/1p2K3/q6b/3B3k w - - 0 1"]
+
+ 1. Bf3+ Kg1 2. Qg7+ $1 Kf1 3. Bg2+ Kg1 (3... Qxg2 4. Qa1#) (3... Ke1 4. Qc3+) 4. Bd5+ Kf1 5. Bc4+ Ke1 6. Qc3+ Kd1 7. Bxb3+ 1-0  

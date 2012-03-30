@@ -1,0 +1,10 @@
+[Event "KSFAH-Argentina {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Hlinka M, Tazberik J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/2R5/6k1/bn6/3r4/2P4P/7K w - - 0 1"]
+
+ {Seems OK, but duals in side lines.} 1. h4+ $3 (1. Rc5+ $2 {sorry, this the play in this try is not unique.} Rd5 2. Rc4 (2. h4+ Kxh4 $1 3. Rc4+ Kg3) 2... Rd1+ $1 (2... Bc6 $2 3. h4+ $1 $11) 3. Kg2 Bc6+ 4. Kf2 (4. Kg3 Rg1+ 5. Kf2 Rg4 6. Rc5+ Kh4 7. c3 Nd3+) 4... Rf1+ $1 (4... Rb1 {dual} 5. c3 (5. Ke3 Kf5) 5... Nd3+ 6. Ke3 Ne5 7. Rc5 Kf6) 5. Ke3 Rf3+ (5... Nd5+ 6. Kd2 Ne7) 6. Kd2 Rf4 7. Rc5+ Rf5 8. Rc4 Rd5+ (8... Rb5 9. c3 Rd5+ 10. Kc1 (10. Ke3 Nc2+) 10... Nd3+) 9. Kc3 $1 Na2+ $1 10. Kb2 Rb5+ $1 11. Kxa2 Bd5 $19) (1. Rc4 Rd1+ {see the line 1. Vc5}) 1... Kh5 $1 (1... Kxh4 2. Rc4+ Kg3 3. cxd3) (1... Kf5) 2. Rc5+ (2. Rc4 $2 Rh3+ 3. Kg2 Rxh4) 2... Rd5 3. Rc4 Bc6 $1 4. Kh2 $1 (4. Kg1 $2 Rd1+ 5. Kh2 (5. Kf2 Rb1 (5... Rf1+ $5 {the another dual in side line} 6. Ke3 (6. Kg3 Rg1+ 7. Kf2 (7. Kh3 Bd7+ 8. Kh2 Rg4) 7... Rg2+ 8. Ke3 Nxc2+) 6... Nd5+ 7. Kd2 Rf6) 6. c3 Nd3+ 7. Ke3 Bb5 8. Rd4 Ne1 9. Kf2 Nc2) 5... Rh1+ 6. Kg3 Rg1+ 7. Kh3 Bd7+ 8. Kh2 Rg4) 4... Rd2+ 5. Kg3 Rg2+ 6. Kh3 Nd5 $1 (6... Rg4 $1 7. Rc5+ $1 (7. Rxg4 Bd7) 7... Bd5 8. c3 $11) 7. Rc5 $1 (7. Rxc6 $2 Nf4#) (7. Kxg2 $2 Ne3+) 7... Rg6 8. c4 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tc40 {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/1p6/6Pk/5p2/4BP2/8/1rP4p/8 w - - 0 1"]
+
+ 1. g7 Ra2 $1 (1... h1=Q $144 2. g8=Q Qxe4 3. Qg5+ Kh7 4. Qg7#) (1... Rxc2 $144 2. Bxc2 h1=Q 3. g8=Q Qc6 4. Qg5+ Kh7 5. Qg7#) 2. Bxb7 (2. Kf7 $143 Ra8 3. Bxb7 h1=Q 4. Bxh1 Ra7+ 5. Kf6 Rxg7 6. Bd5 Ra7 7. c4 Ra1 8. Kxf5 $11) 2... h1=Q 3. Bxh1 (3. g8=Q $143 Ra8+ 4. Bxa8 Qxa8+ 5. Kf7 $11) 3... Rxc2 4. Bb7 (4. g8=Q $143 Rc8+ 5. Kf7 Rxg8 6. Kxg8 Kh5 7. Bf3+ Kh4 $11) 4... Rd2 5. Bd5 $3 Rxd5 ( 5... Rb2 $144 6. g8=Q Rb8+ 7. Ke7 Rxg8 8. Bxg8 Kh5 9. Kf6 Kg4 10. Ke5 $18) 6. g8=N+ $1 Kg6 (6... Kh7 $144 7. Nf6+ $18) (6... Kh5 $144 7. Nf6+ $18) 7. Ne7+ $18 1-0  

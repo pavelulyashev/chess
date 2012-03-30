@@ -1,0 +1,10 @@
+[Event "4 Honorable Mention, ts23#635 @3 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2n5/1k6/4pP2/4P3/2K5/7p/6P1/8 w - - 0 1"]
+
+ 1. f7 (1. gxh3 $2 Kc6 2. Kd4 Nb6 3. h4 Kb5 4. h5 Nd7 5. h6 Nf8) 1... Nb6+ 2. Kc5 $1 hxg2 (2... Kc7 $1 {cook VC} 3. gxh3 Nd7+) 3. Kd6 g1=B $1 (3... g1=Q 4. f8=Q Qc5+ 5. Kxe6 Qxf8) 4. f8=N $1 (4. f8=Q $2 Bc5+ 5. Kxc5 Nd7+ 6. Kd6 Nxf8 7. Ke7 Kc6) 1/2-1/2  

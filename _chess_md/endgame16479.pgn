@@ -1,0 +1,10 @@
+[Event "ts15#135 @2 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k1r4/pPpP2p1/1rP3P1/1P3N2/8/Qp6/1P5p/K7 w - - 0 1"]
+
+ 1. Ng3 Ra6 $1 2. bxa6 (2. Qxa6 $1 {cook SH} h1=Q+ 3. Nxh1 Rh8 4. Qa2 $1 Rxh1+ ( 4... bxa2 5. Kxa2) 5. Qb1) 2... h1=Q+ 3. Nxh1 Rh8 4. Qf8+ Rxf8 5. Nf2 Rh8 6. Nh3 Rf8 7. Nf4 Rh8 8. Nh5 Rf8 9. Nf6 Rh8 10. d8=Q+ Rxd8 11. Nd7+ Rxd7 12. cxd7 c5 13. d8=Q# 1-0  

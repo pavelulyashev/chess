@@ -1,0 +1,10 @@
+[Event "Le Temps {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/2p2p2/2PP3P/2p5/Kp6/4r1b1/6N1/n4nB1 w - - 0 1"]
+
+ 1. d7 Rd3 2. Ne1 $1 Bxe1 (2... Ra3+ 3. Kb5 Bh4 4. h7 $18) (2... Rd5 3. Nf3 $18) 3. h7 Bc3 4. Bd4 $1 {Nowotny} Rxd4 (4... Bxd4 5. d8=Q+ $18) 5. h8=Q+ 1-0  

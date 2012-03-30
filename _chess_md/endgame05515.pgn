@@ -1,0 +1,10 @@
+[Event "jt05 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sidorov B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "krb5/1p1p2p1/1n2PQ2/K7/8/1p6/p7/2N5 w - - 0 1"]
+
+ 1. Qa1 b2 2. Qxa2 bxc1=N 3. Qa1 Nb3+ 4. Kxb6+ Nxa1 5. e7 Nc2 6. e8=N Nb4 7. Nc7# 1-0  

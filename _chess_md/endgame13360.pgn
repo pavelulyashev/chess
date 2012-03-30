@@ -1,0 +1,10 @@
+[Event "ts57#4123 @2 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r7/p2PPP2/kpPn3p/prPP4/p7/5p1K/5pp1/8 w - - 0 1"]
+
+ 1. e8=N Nxe8 2. fxe8=N (2. dxe8=N $2 Rc8) 2... Rxe8 3. dxe8=N g1=N+ 4. Kh2 f1=N+ 5. Kxg1 f2+ 6. Kg2 Ne3+ 7. Kh2 f1=N+ 8. Kh3 $1 (8. Kg1 $1 {cook}) 8... Rb2 9. Nc7# 1-0  

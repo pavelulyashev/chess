@@ -1,0 +1,10 @@
+[Event "3 Prize, t001 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/7p/Pk6/b7/8/6P1/8/8 w - - 0 1"]
+
+ 1. Kb8 $1 (1. a7 $2 Kc7 (1... Be1 $2 2. Kb8 Bxg3+ 3. Ka8 Bf2 4. Kb8) 2. g4 Bb6 3. g5 Kd6 4. Kb7 Bxa7 5. Kxa7 Ke5 6. Kb6 Kf5 7. Kc5 Kxg5 8. Kd4 Kf4) 1... Kxa6 2. Kc8 Kb5 3. Kd7 Kc4 4. Ke6 Kd3 5. Kf5 (5. g4 $2 h6 $1) 5... Ke2 (5... Ke3 6. Kg5 $1) 6. g4 $1 (6. Kg5 $2 Bd2+ 7. Kh4 Kf2 $1 8. g4 h6 9. Kh3 Bf4) 6... Kf3 $1 7. Kg5 (7. g5 $2 Bc3 $1 8. g6 h6) 7... Bd2+ 8. Kh4 h6 9. Kh3 Bf4 10. g5 $1 hxg5 (10... Bxg5 11. Kh2) 1/2-1/2  

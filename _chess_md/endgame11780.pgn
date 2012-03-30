@@ -1,0 +1,10 @@
+[Event "4 Prize tu04 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kos V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1N5/N7/7K/r7/8/p7/1Pp3p1/1R1R4 w - - 0 1"]
+
+ 1. bxa3 Ra6+ (1... Rxa3 2. Nb6+ Kxa7 3. Rd7+) (1... cxb1=Q 2. Rxb1 Rxa3 3. Rg1 Rh3+ 4. Kg5 Rg3+ 5. Kf4 Rg8 6. Ke5 Kb7 7. Ne7) 2. Kh5 (2. Kg5 $2 Rg6+ 3. Kxg6 g1=Q+ 4. Rxg1 cxb1=Q+ 5. Rxb1) (2. Kh7 $2 cxb1=Q+ 3. Rxb1 Rxa3 4. Rg1 Rh3+ 5. Kg6 Rg3+ 6. Kf5 Kb7) 2... Ra5+ 3. Kh4 Ra4+ 4. Kh3 Rxa3+ 5. Kh2 (5. Kxg2 $2 Rg3+ 6. Kf2 Rg2+ 7. Ke3 Re2+ 8. Kd3 Rd2+) 5... g1=Q+ 6. Rxg1 cxb1=Q 7. Rxb1 Rh3+ 8. Kg2 Rg3+ 9. Kf2 Rf3+ 10. Ke2 Re3+ 11. Kd2 Rd3+ 12. Kc2 Rc3+ 13. Kb2 Rc2+ 14. Kb3 Rc3+ 15. Kb4 Rc4+ 16. Kb5 Rc5+ 17. Ka6 Ra5+ (17... Rxc8 18. Re1 Rc6+ 19. Kb5 Rh6 20. Nc6 Rh2 21. Re7 Rb2+ 22. Kc5 Rc2+ 23. Kd6 Rd2+ 24. Kc7 Re2 25. Rd7 Rd2 26. Nd4 Rh2 27. Kb6) 18. Kb6 Ra6+ 19. Kc7 Rc6+ 20. Kd8 1-0  

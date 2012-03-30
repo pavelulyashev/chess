@@ -1,0 +1,10 @@
+[Event "sp Honorable Mention t001#407 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k2Kn/2p5/1p3R1p/B4P2/8/8/4Pp2/8 w - - 0 1"]
+
+ 1. Rd6+ $1 (1. Kxh8 $2 1... bxa5 2. Rf8+ Ke7) (1. Rf8+ $2 1... Kd7 2. Bc3 f1=Q 3. Bxh8 h5 4. f6 h4 5. f7 h3 6. Re8 h2 7. f8=Q Qxf8+ 8. Rxf8 h1=Q) 1... cxd6 2. Bxb6+ Ke7 (2... Ke8 3. Bxf2 Nf7 4. e4 h5 5. f6 Ne5 6. Bg3 Nf7 7. Kg7 Ng5 8. Bxd6) 3. Bxf2 3... Kf6 $1 4. e4 (4. Kxh8 $2 4... Kxf5 5. Kg7 h5 6. Kh6 Kg4 7. Kg6 (7. Bb6 h4 8. Bc7 h3 9. Bxd6 Kf5 10. Bh2 Ke4 11. Bg1 h2 12. Bxh2 Ke3) 7... h4 8. Kf6 h3 9. Bg1 Kg3) 4... Nf7 (4... d5 5. Bh4+ Ke5 6. Kxh8 dxe4 7. f6 Ke6 8. Kg7) (4... Ke5 5. Kxh8 Kxe4 6. f6) 5. Kf8 (5. Bh4+ $2 5... Ng5 6. Kf8 Ke5 7. Bxg5 hxg5 8. Ke7 g4) (5. Bd4+ $2 5... Ne5 6. Kh7 h5) 5... h5 (5... Ng5 6. Bd4#) (5... Ne5 6. Bh4#) (5... Nd8 6. Bh4+) (5... Nh8 6. Bd4+) (5... d5 6. Bd4+ Ne5 7. Bxe5+ Kxe5 8. exd5 h5 9. d6 Kxd6 10. f6 h4 11. f7 h3 12. Kg7 h2 13. f8=Q+) 6. Bh4+ Ng5 7. Bxg5+ Kxg5 8. Kg7 h4 9. f6 h3 10. f7 h2 11. f8=Q h1=Q 12. Qf5+ Kh4 13. Qh7+ 1-0  

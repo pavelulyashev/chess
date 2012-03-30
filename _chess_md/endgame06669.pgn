@@ -1,0 +1,10 @@
+[Event "t001 @3 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3Bb3/4P3/PP4P1/8/5p1p/Rp2k2P/pP4KP/n7 w - - 0 1"]
+
+ 1. b7 (1. Ra5 $2 1... f3+ 2. Kh1 f2 3. Kg2 Nc2 4. Re5+) 1... f3+ 2. Kh1 $1 2... f2 $1 (2... Bc6 3. Bb6+) 3. Bb6+ Ke2 4. Bxf2 Kxf2 5. b8=N Nc2 (5... Bxg6 $1 6. e8=Q Bxe8 7. a7 Bh5 8. a8=Q Bf3+ 9. Qxf3+ Kxf3) 6. Ra5 6... Na3 $1 (6... Bxg6 7. e8=Q Bxe8 8. a7 Na3 (8... Bh5 $1 9. Rf5+ Bf3+ 10. Rxf3+ Kxf3 11. a8=Q+ Ke3 12. Qa7+ Kd2 13. Qa6 Kc1)) 7. Rxa3 Bxg6 (7... Bb5 8. a7 (8. g7 $2 8... Be2 $1)) 8. e8=R $1 (8. e8=Q $2 8... Be4+ 9. Qxe4 a1=Q+ 10. Rxa1) 8... Bxe8 9. a7 9... Bg6 $1 (9... Bf7 10. a8=Q) 10. a8=B $1 (10. a8=Q $2 10... Be4+ 11. Qxe4 a1=Q+ 12. Rxa1) 1-0  

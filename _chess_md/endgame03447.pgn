@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky sach_122005_Nr94 {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Polasek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5R2/8/6r1/4k3/6r1/3K4/2B5 b - - 0 1"]
+
+1... Rc5 $1 (1... Rg2+ 2. Ke1 Rg1+ 3. Rf1) 2. Re7+ Kf5 (2... Kd5 3. Re2 Rgc3 4.Re5+ Kxe5 5. Bb2 Kd4 6. Ba1) 3. Re2 (3. Re1 {also}) 3... Rgc3 4. Re5+ Kxe5 5.Bb2 Kd4 6. Ba1 {Positional draw} 1/2-1/2

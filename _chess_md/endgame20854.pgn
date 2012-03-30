@@ -1,0 +1,10 @@
+[Event "ts02#5666 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Aliev I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K4kP/2Qq4/1R4p1/3r4/5P2/8/8 w - - 0 1"]
+
+ 1. h8=Q+ $1 (1. Rxg5+ $2 Kxh7 2. Qc2+ Kh6) 1... Kxh8 2. Qe8+ Kh7 (2... Kg7 3. Rxg5+) 3. Qf7+ $1 (3. Qh5+ $2 Qh6) 3... Kh6 (3... Kh8 4. Qh5+ Kg7 5. Rxg5+ Kf8 6. Qh8+ Kf7 7. Qh7+) 4. Rb6 Rb4 5. Qf8+ $1 Kh7 6. Qxd6 1-0  

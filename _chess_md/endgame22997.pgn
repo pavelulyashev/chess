@@ -1,0 +1,10 @@
+[Event "2nd  Prize, 2World Cup {m}"]
+[Site "?"]
+[Date "2011.05.12"]
+[Round "?"]
+[White "Eilazyan E"]
+[Black "*"]
+[Result "*"]
+[FEN "1N6/n2pr3/3K3R/1PP3b1/7p/2N1P3/5k2/8 w - - 0 0"]
+
+ 1. Rh5 (1. Rh8 $2 Rxe3 2. Nd1+ Kg3 3. Nxe3 Nxb5+ 4. Kxd7 Bxe3 5. c6 h3 $11) (1. Rg6 $2 Rxe3 2. Nd1+ Kf3 3. Nxe3 Nxb5+ 4. Kd5 Bxe3 $11) 1... Rxe3 2. Nd1+ Kg3 $1 (2... Kf3 3. Nxe3 Bxe3 4. b6 Nb5+ 5. Kxd7 $18) 3. Rxg5+ (3. Nxe3 $2 Nxb5+ 4. Kxd7 Bxe3 5. c6 Na7 6. c7 Bf4 7. Na6 h3 8. Nb4 h2 9. Nd3 Bxc7 10. Kxc7 Nb5+ $11 ) 3... Kf4 4. Rf5+ $1 ({Thematic try} 4. Rg4+ $2 Kxg4 5. Nxe3+ Kf3 $1 (5... Kf4 $2 6. b6 {main line}) 6. b6 Nc8+ 7. Ke5 d6+ $1 (7... Nxb6 $2 8. cxb6 h3 9. Nf1 Kg2 10. Kf4 $18) 8. Ke6 Nxb6 9. cxb6 h3 10. Nf1 Kg2 11. Nc6 Kxf1 12. b7 h2 13. b8=Q h1=Q $11) (4. Nxe3 $2 Nxb5+ 5. Kxd7 Kxg5 6. Nc6 h3 7. Nf1 Kf4 $11) 4... Kxf5 5. Nxe3+ Kf4 6. b6 $1 (6. Nd5+ $2 Kg5 7. b6 (7. Kxd7 Nxb5 8. Ne3 Kf4 $11) 7... Nc8+ 8. Kc7 Nxb6) 6... Nc8+ 7. Kc7 $1 ({Thematic try} 7. Kxd7 $2 Nxb6+ 8. cxb6 Kxe3 9. Nc6 h3 10. Ne5 Kf4 11. Nf3 Kxf3 12. b7 h2 {(Kg2)} 13. b8=Q Kg2 $11 ) ({Thematic try} 7. Kd5 $2 Nxb6+ 8. cxb6 Kxe3 9. Nxd7 h3 10. Nf6 Kf3 11. b7 h2 12. b8=Q h1=Q $11) 7... Nxb6 8. cxb6 Kxe3 (8... h3 9. Nf1 Kf3 10. Nxd7 Kg2 11. b7 Kxf1 12. b8=Q $18) 9. Nc6 $1 (9. Nxd7 $2 h3 10. Nf6 Kf4 $1 11. Ne4 h2 $1 12. Nf2 Kg3 {(Kf3)} 13. Nh1+ Kg2 14. b7 Kxh1 $11) 9... h3 10. Ne5 Kf4 11. Nf3 $1 Kxf3 $1 12. b7 h2 13. b8=Q $18 *  

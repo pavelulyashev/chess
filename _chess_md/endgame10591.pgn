@@ -1,0 +1,10 @@
+[Event "wr10 @3 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/5PPr/1k6/5P2/6K1/8 w - - 0 1"]
+
+ 1. f4 Kc5 (1... Rh4 2. Kg3 Rh1 3. f6) 2. g6 Rh8 3. f6 Kd6 4. f5 Kd7 (4... Ke5 $1 {cook BT} 5. f7 (5. g7 Rg8 6. f7 Rxg7+) 5... Kf6) 5. f7 Ke7 6. g7 Rh2+ 7. Kxh2 Kxf7 8. f6 1-0  

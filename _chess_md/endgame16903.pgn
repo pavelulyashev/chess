@@ -1,0 +1,10 @@
+[Event "tm41 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3B4/7b/2K5/6p1/1Nk3N1 w - - 0 1"]
+
+ 1. Na3 (1. Nd2 $2 Be1) 1... Bf2 2. Ne2+ Kd1 3. Bf3 Ke1 4. Nc2+ Kf1 5. Nf4 $1 g1=Q (5... g1=N 6. Bg2#) (5... Bd4+ 6. Nxd4 g1=Q 7. Be2+ Ke1 8. Nd3#) 6. Be2# 1-0  

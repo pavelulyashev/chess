@@ -1,0 +1,10 @@
+[Event "ts98#1287 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3R4/8/8/8/5p2/3pk2K/5p2/8 w - - 0 1"]
+
+ 1. Kg2 (1. Re8+ $2 Kf3) 1... Ke2 (1... d2 2. Kf1) (1... f3+ 2. Kf1 d2 3. Rd7) 2. Re8+ Kd1 3. Kxf2 (3. Kf1 $2 d2 (3... Kc2 $2 4. Rc8+) 4. Rd8 f3) 3... d2 ( 3... Kc2 4. Rc8+ (4. Rd8 $2 d2 5. Ke2 f3+)) 4. Rc8 (4. Kf1 $2 Kc2 (4... Kc1 $2 5. Rc8+ Kd1 6. Kf2) 5. Rc8+ Kd3 6. Rd8+ Kc2 (6... Ke3 $2 7. Rd7)) (4. Rd8 $2 Kc2 (4... Kc1 $2 5. Rc8+ Kd1 6. Kf1) 5. Ke2 f3+) 4... f3 5. Kf1 (5. Kxf3 $2 Ke1 6. Re8+ Kf1 (6... Kd1 $2 7. Ke3)) 5... f2 6. Ra8 (6. Kxf2 $2) 6... Kc2 (6... Kc1 7. Ra1+ Kb2 8. Rd1) 7. Ra2+ (7. Rc8+ $2 Kd3) 7... Kc3 8. Ra1 Kb2 (8... Kc2 9. Ke2) 9. Rd1 Kc2 10. Ke2 1-0  

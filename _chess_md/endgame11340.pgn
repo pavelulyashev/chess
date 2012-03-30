@@ -1,0 +1,10 @@
+[Event "tn17 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Keres P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/5B2/3n4/1bbp4/p1PP4/2K5/kB6 w - - 0 1"]
+
+ 1. Bxd4 (1. cxb4 $143 Nxf6 2. Kc1 a2 3. Bxa2 Bxa2 $19) (1. dxc4 $143 Nxf6 2. cxb4 (2. cxd4 $144 a2 3. Bxa2 Kxa2 $19) 2... d3+ 3. Kc1 d2+ 4. Kc2 d1=Q+ $19) 1... Bxd3+ (1... Bxc3 $144 2. dxc4 $11) 2. Kxd3 Bxc3 3. Bxc3+ Nxc3 4. Kc2 $1 Nxb1 5. Kb3 a2 6. Kc2 $11 1/2-1/2  

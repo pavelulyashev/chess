@@ -1,0 +1,10 @@
+[Event "tr49 @1 {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Varain E, Dunst N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1nk5/b1ppR3/1p1p4/P1p1pQPr/1P4n1/1K1BPp1q/3P4/2B5 w - - 0 1"]
+
+ 1.Qxd7+ (1.Qf8+ $1 {cook} Kb7 2.a6+ Nxa6 (2...Ka8 3.Qc8 c4+ 4.Bxc4) (2...Kc6 3.b5+ Kd5 4.Qf7#) 3.Be4+ d5 (3...c6 4.Rxd7+ Nc7 5.Qa8+ Kxa8 (5...Ka6 6.Qc8+ Kb5 7.Bd3+ c4+ 8.Bxc4#) 6.Bxc6+ Kb8 7.Rd8#) 4.Bxd5+ c6 5.Rxd7+ Nc7 6.Qa8+ Ka6 (6...Kxa8 7.Bxc6+ Kb8 8.Rd8#) 7.Qc8+ Kb5 8.Bc4#) 1...Nxd7 2.Re8+ Kb7 3.a6+ Kc6 4.b5+ Kd5 5.Bc4+ Ke4 6.d3+ Kf5 7.e4+ Kg6 8.Rg8+ Kh7 9.g6#   1-0  

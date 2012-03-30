@@ -1,0 +1,10 @@
+[Event "mm08 ts70#2309 @1 {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7k/4P3/3r4/7B/4K3/b7/7R w - - 0 1"]
+
+ 1. Bd8+ $1 (1. e7 $1 {cook WP} Re5+ 2. Kf4 Re2 3. Bg5+ Kg7 4. Rh2) 1... Kg7 2. Rg1+ $1 (2. e7 $2 Re5+ 3. Kd4 Re6 4. Rg1+ Kf7 $1 5. Rf1+ Ke8 $1) 2... Kh7 3. e7 Re5+ 4. Kd4 (4. Kf4 $2 Re6 5. Kf5 Re3) 4... Re6 (4... Rd5+ 5. Ke4 Rd2 6. Ke3) 5. Rf1 Bb3 6. Rf7+ Kg6 7. Rf6+ $1 1-0  

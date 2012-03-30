@@ -1,0 +1,10 @@
+[Event "Shakhmatnaya kompozitsia, 2 prize {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/3K1p2/3P1Pp1/pp1p4/3P4/7P/4P1p1/8 w - - 0 1"]
+
+ 1. Kc8 $1 (1. Kc6 $2 g1=Q 2. d7 Qe3 $1 3. d8=Q+ Qe8+ 4. Qxe8+ Kxe8 5. Kc7 (5. Kxb5 Kd7 $11) 5... Kf8 $1) 1... g1=Q 2. d7 Qc1+ (2... Qe3 $2 3. d8=Q+ Qe8 4. Qxe8+ Kxe8 5. e4 {win.}) 3. Kb7 Qe3 4. h4 $3 (4. d8=Q+ $2 Qe8 5. Qd6+ $1 Kg8 6. Qe7 Qf8 7. e4 b4 8. exd5 b3 9. d6 b2 10. Qxf8+ Kxf8 11. d7 b1=Q+ 12. Ka7 Qb5 13. d8=Q+ Qe8 14. Qd6+ Kg8 15. d5 a4 16. Qe7 Qb5 17. d6 a3 18. d7 Qa5+ { perpetual check.}) 4... Qe8 (4... b4 5. h5 $1 b3 6. h6 $1 b2 7. d8=Q+ Qe8 8. h7 $1 b1=Q+ 9. Ka7 Qh1 10. Qd6+ {mates.}) 5. dxe8=Q+ Kxe8 6. h5 $1 gxh5 (6... Kf8 7. e4 $1 b4 (7... dxe4 8. d5 e3 9. d6 e2 10. d7 e1=Q 11. d8=Q+ Qe8 12. Qxe8+ Kxe8 13. h6 {h-pawn queens.}) 8. exd5 b3 9. d6 b2 10. d7 b1=Q+ 11. Ka7 $1 { excelcior.}) 7. Kc7 $1 (7. Kc8 $2 {makes move 13 impossible.}) 7... Kf8 $1 8. e4 dxe4 9. d5 e3 10. d6 e2 11. d7 e1=Q 12. d8=Q+ Qe8 13. Qd6+ Kg8 14. Qg3+ Kh7 15. Qg7# 1-0  

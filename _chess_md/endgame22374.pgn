@@ -1,0 +1,10 @@
+[Event "2 Prize, wu16 {tt} {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/KP4pp/1p6/kp5P/8/1P6/n3P3/8 b - - 0 1"]
+
+ 1... Nb4 2. b8=N $1 g5 $1 (2... g6 3. e4 gxh5 4. e5 h4 5. e6 h3 6. e7 h2 7. e8=Q h1=Q 8. Qe3 $1 Nc6+ 9. Nxc6+ Qxc6 10. Qe1+ b4 11. Qe5+ Qc5 12. Qa1+ Kb5 13. Qa4#) 3. hxg6 hxg6 4. e4 g5 5. e5 g4 6. e6 g3 7. e7 g2 8. e8=N $1 g1=Q 9. Nd6 Qg7+ 10. Nb7+ Qxb7+ 11. Kxb7 Nd5 12. Nc6# 1-0  

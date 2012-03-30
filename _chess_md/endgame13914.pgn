@@ -1,0 +1,10 @@
+[Event "ts20 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/4p3/8/1P1P3P/8/8/1r2k3/8 w - - 0 1"]
+
+ 1. h6 Kd3 2. d6 $1 (2. h7 $2 Rh2 3. b6 Rxh7 4. b7 Rh8+ 5. b8=Q Rxb8+ 6. Kxb8 Kc4) 2... exd6 3. b6 $1 Ra2+ 4. Kb7 Rh2 (4... Kc4 5. Kc6 d5 6. b7) 5. Kc6 $1 Rxh6 6. b7 d5+ 7. Kc5 $1 Rh8 8. Kxd5 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tl10#094 @3 {m}"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Dolci A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B3/1p5b/p7/P1Pp1p2/8/5K2/8/7k w - - 0 1"]
+
+ 1. Bb5 axb5 (1... f4 2. Kxf4 Be4 3. c6 bxc6 4. Bxa6) (1... Kg1 $1 {cook MC} 2. Bd7 d4 3. Bc8 Bg8 4. Bxf5 (4. Bxb7 Bc4 5. c6 Bd5+ 6. Kf4 d3 7. Bxa6 d2) 4... Bc4 5. Ke4 d3 6. Ke3 Kf1 7. Bxd3+ (7. Kd2 Bd5 8. Kxd3 Kf2 9. Be4 Bxe4+ 10. Kxe4 Ke2 11. Kd5 Kd3 12. c6 bxc6+ 13. Kxc6 Kc4 14. Kb6 Kd5) 7... Bxd3 8. Kxd3 Ke1 9. c6 bxc6 10. Kc4 Kd2 11. Kc5 Kc3 12. Kxc6 Kc4 13. Kb6 Kd5 14. Kxa6 Kc6) 2. c6 bxc6 3. a6 d4 4. a7 d3 5. a8=Q d2 6. Qxc6 d1=Q+ 7. Kg3+ (7. Kf2+ $1 {minor dual }) 7... Kg1 8. Qg2# 1-0  

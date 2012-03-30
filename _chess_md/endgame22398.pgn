@@ -1,0 +1,10 @@
+[Event "1 Prize, tc13 {m}"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5pk1/4P3/8/3N1K2/5pp1/8/8 w - - 0 1"]
+
+ 1. e7 (1. Nf5+ $2 Kh7 2. exf7 g2 3. f8=Q g1=Q) 1... f2 2. Nf5+ Kf6 3. e8=N+ Ke6 4. Neg7+ (4. Nxg3 $2 f5 5. Nc7+ Kd6 6. Nb5+ Kc5 7. Nc3 Kd4 8. Nd1 Kd3 9. Nxf2+ Kd2 10. Nh3 Ke1) 4... Kd5 (4... Kd7 5. Nxg3 f5 6. Nf1 (6. N7h5 $2 Kd6 7. Nf1 Kd5 8. Nhg3 Kd4 9. Nh1 Kd3 10. Nfg3 Kc2 11. Nxf2 Kd2) 6... Kd6 7. Ne3 Kc5 8. Ne6+ Kb4 9. Ng5 Kc3 10. Nh3 Kd2 11. Nxf2 Ke2 12. Nh3) 5. Ne3+ (5. Kxg3 $2 f1=N+ ) (5. Nxg3 $2 f5 6. Nf1 Kd4 7. Nh5 Kc3 8. Nhg3 Kd3) 5... Kc6 (5... Kc5 6. Kxg3 f5 7. Ne6+) (5... Kd4 6. Ngf5+ Kd3 7. Kxg3) 6. Kxg3 f5 7. Kf4 Kc5 8. Ne6+ Kb4 9. Ng5 Kc3 10. Nh3 Kd2 11. Nxf2 Ke2 12. Nh3 (12. Nh1 $2 Ke1) (12. Nfd1 $2 Ke1) 12... Ke1 13. Ng1 Kf2 14. Nf3 Ke2 15. Ng2 Kf1 (15... Kf2 16. Ngh4) 16. Kg3 f4+ 17. Kh3 Ke2 18. Ngh4 Kf2 19. Kh2 Kf1 20. Ng6 Kf2 21. Nge5 Kf1 22. Ng4 1-0  

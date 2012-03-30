@@ -1,0 +1,10 @@
+[Event "ts12#129 {v} {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/PP3K2/8/5k2/1B5r/4b3/8 w - - 0 1"]
+
+ 1. Bc4 (1. b7 $2 Rxb3 2. a7 Rb6+ 3. Ke7 Rxb7+) (1. a7 $2 Bf3 2. Kg7 Rh2 3. Bc4 Rb2) (1. Bd5 $2 Bxa6 2. b7 Rh6+ $1 (2... Rh8 $2 3. Ke6 Rb8 4. Kd6 Bxb7 5. Kc7) 3. Ke7 Bxb7) (1. Be6 $2 Rh6+ 2. Kg7 Rxe6 3. b7 Rb6) 1... Bxc4 (1... Bf3 2. b7 Rh8 (2... Rh6+ 3. Ke7 Rb6 4. Kd7 Rb4 5. Kd6) 3. Be6) 2. b7 Rb3 (2... Rh6+ 3. Kg7 Rb6 4. a7 Rxb7+ 5. Kh8 Rxa7) 3. a7 Rb6+ 4. Kg7 Rxb7+ 5. Kh8 Rxa7 1/2-1/2  

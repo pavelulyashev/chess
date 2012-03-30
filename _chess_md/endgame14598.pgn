@@ -1,0 +1,10 @@
+[Event "td23#1476 @2 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Karstedt M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P5/p7/K2p4/3k2N1/B1p5/8 w - - 0 1"]
+
+ 1. Bc4+ Kxc4 (1... Kd2 2. Ne2) 2. Ne2 (2. c7 Kd3 $1 (2... c1=Q $2 3. c8=R+ $1 Kd3 4. Rxc1) 3. c8=Q (3. c8=R $1 {cook ZC} Kd2 4. Ne4+ Kd1 5. Nf2+ Kd2 6. Nd3 $1 Kxd3 7. Kb3 a4+ 8. Kb2 a3+ 9. Kxa3 (9. Kc1 $1 {cook ZC} a2 10. Ra8 Ke2 11. Kxc2 d3+ 12. Kc3) 9... Kd2 10. Kb2 d3 11. Rc3 Ke2) 3... c1=Q 4. Qxc1) 2... d3 ( 2... Kd3 3. Nc1+ Kd2 4. Nb3+) 3. c7 dxe2 4. c8=Q+ Kd3 5. Qd8+ Kc3 (5... Ke3 6. Qg5+ Kf2 7. Qf4+ Kg2 8. Qc1) 6. Qxa5+ Kb2 7. Qb4+ Ka2 8. Qe1 Kb2 9. Qxe2 Kc3 10. Qe1+ Kb2 11. Qd2 Kb1 12. Kb3 1-0  

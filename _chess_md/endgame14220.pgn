@@ -1,0 +1,10 @@
+[Event "2 Prize tl10 {m}"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Queckenstadt W"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p2b2/Pp1p4/4pp2/k7/2P5/1P2BPK1/8 w - - 0 1"]
+
+ 1. b3+ $3 Kxb3 (1... Ka5 2. b4+ Ka4 3. c4 Be8 4. b5) (1... Bxb3 2. c4) 2. c4 Be8 3. Bf3 $1 e4 4. Bh5 $1 Bc6 5. Bf7 Ba8 (5... Kb4 6. Bd5 Ka5 $1 7. a7 Ka6 8. Bxc6 Kxa7 9. Kg3) (5... e3+ 6. Kf1 Kb4 7. Bd5 Ka5 8. a7 Ka6 9. Bxc6 Kxa7 10. f4 ) 6. Bd5 c6 7. c5+ cxd5 8. cxb6 1-0  

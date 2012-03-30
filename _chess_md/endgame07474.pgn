@@ -1,0 +1,10 @@
+[Event "1 Prize wa13 tm16 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1N2R1n1/4n2K/8/8/1pk5/8 w - - 0 1"]
+
+ 1. Rc6+ $1 Kd2 (1... Nxc6 2. Nc4 Nf4+ 3. Kg4 b1=N 4. Kxf4) 2. Rd6+ Ke1 (2... Ke2 3. Nd5 $1) 3. Rd1+ $1 Kxd1 4. Na4 b1=N 5. Nb2+ Ke2 6. Nc4 $1 Nf4+ 7. Kg5 Ned3 8. Ne5 $1 (8. Nb2 $2 Nh3+ 9. Kg4 Ndf4) 8... Ne6+ (8... Nh3+ 9. Kh4) 9. Kf6 Ndc5 (9... Ndf4 10. Ng6) 10. Nd7 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "2 Prize tb28 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b5/5N2/P2p3p/4p2k/7P/7P/3p1BPK/8 w - - 0 1"]
+
+ 1. a7 (1. Nh8 $2 d1=Q 2. a7 Qd5) 1... Bb7 (1... d1=Q 2. a8=Q) 2. Nh8 Bxg2 3. Kxg2 d1=Q 4. a8=B (4. a8=Q $2 Qd5+ 5. Qxd5) 4... e4 (4... d5 5. Bc6) 5. Bxe4 ( 5. Bc6 $2 Qf3+ 6. Kg1 Qf8 7. Bd5 Qg7+ 8. Kf1 Qa1+ 9. Be1 Qf6+) 5... Qd5 6. Bf3+ (6. Bxd5 $2) (6. Kf3 $2 Qd1+ 7. Kg2 Qd5) 6... Qxf3+ 7. Kxf3 1-0  

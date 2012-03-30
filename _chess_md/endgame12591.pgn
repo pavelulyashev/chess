@@ -1,0 +1,10 @@
+[Event "b004#050 (@2) {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/p4P2/2p1k1Kp/6p1/2p5/1PPP4/8 w - - 0 1"]
+
+ 1. f7 cxb2 (1... cxd2 2. f8=Q d1=Q 3. Qe7+ Kd5 4. Qd7+) 2. f8=Q b1=Q 3. Qe7+ Kd5 4. Qd7+ Ke5 (4... Ke4 5. Qf5+ Kd4 6. c3+) 5. c4 $1 Qh1 (5... Ke4 6. Qf5+) ( 5... a5 6. Qd5#) (5... Qe4 6. d4+ Qxd4 7. Qe7#) 6. d4+ $1 Ke4 (6... cxd4 7. Qe7#) 7. Qd5+ (7. Qc6+ $1 {minor dual JU}) (7. Qb7+ $1 {minor dual JU}) 1-0  

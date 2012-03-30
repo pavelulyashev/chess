@@ -1,0 +1,10 @@
+[Event "ts23 @3 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/P6B/8/4k3/1K6/1p2p3/4b3 w - - 0 1"]
+
+ 1. Kc2 (1. Kxb2 $2 Bc3+) (1. Ka2 $2 Kd3 2. a7 Kc2) 1... Ba5 $1 2. Bd2 $1 (2. a7 $2 b1=Q+ 3. Kxb1 e1=Q+ 4. Bc1 Qb4+) 2... Bxd2 3. a7 b1=Q+ (3... Kd4 $1 {cook VI }) 4. Kxb1 e1=Q+ 5. Ka2 Qc1 (5... Kd4 $1 {cook VI} 6. a8=Q Qe6+) 6. a8=Q+ 1/2-1/2  

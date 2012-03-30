@@ -1,0 +1,10 @@
+[Event "00347 4+3 Mate en 3 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Moll K"]
+[Black "*"]
+[Result "*"]
+[FEN "8/5p2/4kB2/1N3pQ1/8/8/5K2/8 w - - 0 1"]
+
+ 1. Na7 $1 f4 (1... Kd7 2. Qc1 Kd6 (2... Ke6 3. Qc6#) 3. Qc6#) (1... Kd6 2. Qc1 Kd7 3. Qc6#) (1... Kd5 2. Qc1 Ke4 (2... Ke6 3. Qc6#) (2... Kd6 3. Qc6#) 3. Qc4# ) 2. Qe5+ Kd7 3. Qe7# *  

@@ -1,0 +1,10 @@
+[Event "us57 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Berger J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4B3/8/3N1K1k/8/1p4q1/1P6/8/8 w - - 0 1"]
+
+ 1. Nf7+ $1 Kh7 $1 (1... Kh5 2. Ne5+) 2. Ng5+ Kg8 (2... Kh8 3. Nf7+ Kg8 4. Nh6+) 3. Bf7+ Kh8 4. Bc4 $1 (4. Be6 $2 Qh5) (4. Bd5 $2 Qd4+) 4... Qd4+ 5. Kg6 Qg7+ 6. Kf5 Qf8+ 7. Kg6 Qe7 8. Be6 $1 Qf8 (8... Qd6 9. Kh6) (8... Qe8+ 9. Kh6) 9. Bc4 $1 (9. Bf7 $2 Qg7+ 10. Kf5 Qh6 $1 11. Bc4 Qc6 $1) 9... Qg7+ 10. Kf5 1/2-1/2  

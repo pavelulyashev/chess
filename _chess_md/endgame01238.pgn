@@ -1,0 +1,10 @@
+[Event "1/2 Prize ts23 {c} {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2r5/Q5p1/P5p1/4p2P/1p6/2b5/2P4p/k1K2B2 w - - 0 1"]
+
+ 1. Qb7 (1. Bg2 $143 Rd8 $19) (1. Qd7 $143 Bb2+ 2. Kd2 h1=Q 3. Qxc8 Qxf1 4. a7 Bc1#) 1... e4 $1 (1... Rd8 $144 2. Bd3 e4 3. Qxe4 Re8 4. a7 $18) (1... Rf8 $144 2. Bd3 Rf7 3. a7 h1=Q+ 4. Qxh1 Rxa7 5. hxg6 $18) 2. Qxe4 (2. Qxc8 $143 h1=Q 3. Qh3 Qxh3 4. Bxh3 $11) 2... Re8 $1 (2... Rd8 $144 3. Bd3 Re8 4. a7 h1=Q+ 5. Qxh1 $18) 3. a7 $1 (3. Qxe8 $144 Bb2+ 4. Kd1 (4. Kd2 $144 Bc3+ 5. Ke2 h1=Q 6. hxg6 Qh2+ 7. Kd3 Qd6+ 8. Ke4 Qd4+ 9. Kf3 Qf6+ 10. Kg2 Qg5+ 11. Kh1 Qh4+ 12. Kg2 Qg4+ $11) 4... h1=Q 5. Qe2 Qd5+ 6. Qd3 Qxh5+ 7. Be2 Qh1+ $11) 3... h1=Q $1 (3... Bb2+ $144 4. Kd2 Rxe4 5. a8=Q+ $18) 4. a8=Q+ $1 Rxa8 5. Qxh1 Re8 $1 6. Be2 $1 Rd8 (6... Rxe2 $144 7. Qa8#) (6... b3 $144 7. cxb3 Rxe2 8. Qf3 Bb2+ 9. Kd1 $18) 7. Bd3 Re8 8. Be4 (8. Kd1 $143 Re1+ 9. Qxe1 Bxe1 10. Kxe1 gxh5 $11) 8... Rd8 9. Bd5 Re8 10. Be6 $1 Rd8 11. Bd7 $1 $18 1-0  

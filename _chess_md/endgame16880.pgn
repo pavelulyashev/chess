@@ -1,0 +1,10 @@
+[Event "1 Commendation jl02 tp23 @3 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R5R1/K7/8/1p6/8/8/k4p2/3r4 w - - 0 1"]
+
+ 1. Rg2 (1. Kb6+ $2 Kb1) 1... Rd2 (1... Kb3 $1 {cook RL} 2. Rxf2 Ra1+) 2. Kb6+ ( 2. Rf8 $2 f1=N 3. Rgf2 Rxf2 4. Rxf2+ Ka3 5. Rxf1 b4) 2... Kb2 3. Rf8 f1=N (3... b4 $1 {cook RL} 4. Rh2 b3 5. Rh1 Kc2 6. Rc8+ Kd3) 4. Rgf2 (4. Rxd2+ $2 Nxd2) ( 4. Rff2 $2 Kc2 5. Kxb5 Rxf2 6. Rxf2+ Nd2) 4... Rxf2 5. Rxf2+ Nd2 (5... Kc3 6. Rxf1 b4 7. Kb5 b3 8. Ka4 b2 9. Ka3 Kc2 10. Rf2+) 6. Rxd2+ Kc3 7. Rd5 b4 8. Rc5+ Kd2 9. Rb5 Kc3 10. Ka5 b3 11. Ka4 b2 12. Ka3 1-0  

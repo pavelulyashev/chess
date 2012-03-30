@@ -1,0 +1,10 @@
+[Event "3 Honorable Mention ts61 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/P7/3B4/b7/1R1K4/7r/p2n2P1/4k3 w - - 0 1"]
+
+ 1. Ra4 Rh4+ 2. g4 Rxg4+ 3. Kd3 Rxa4 4. a8=Q Rd4+ (4... a1=Q $143 5. Bg3+ Kd1 6. Qh1+ $18) 5. Kc2 (5. Kxd4 $143 a1=Q+ 6. Kd5 Qa2+ 7. Kc6 Qa4+ 8. Kb7 Qd7+ 9. Ka6 Qxd6+ 10. Kxa5 Qa3+ $19) 5... Rc4+ (5... a1=Q $144 6. Qh1+ Nf1 7. Bg3+ Ke2 8. Qg2+ Ke3 9. Qf2+ Ke4 10. Qf4+ Kd5 11. Qd6+ Kc4 12. Qc6+ Kb4 13. Qb7+ $11) 6. Kb2 (6. Kd3 $143 Rc3+ 7. Kd4 a1=Q $19) 6... a1=Q+ 7. Kxa1 Ra4+ 8. Ba3 Bc3+ ( 8... Rxa3+ $144 9. Kb2 Nc4+ 10. Kc2 $11) 9. Ka2 Rxa8 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "jr01 te03 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3b3R/3p4/3K4/7N/8/2kp4/8/8 w - - 0 1"]
+
+ 1. Ng3 d2 (1... Kc2 $144 2. Ne4 Ba5 3. Rh1 d2 4. Nf2 Bb6 5. Nd1 Bd4 6. Kxd7 $18 ) 2. Ne4+ Kd3 3. Nxd2 (3. Kd5 $143 Bb6 4. Rh1 Kc2 $11) 3... Bf6 4. Rh2 (4. Rh6 $143 Bg5 $11) (4. Rf8 $143 Bc3 5. Nb3 Bb4+ 6. Nc5+ Kc4 7. Rc8 (7. Rf5 $144 Kb5 8. Rg5 $11) 7... Ba3 $11) 4... Bg5 5. Nf3 Bf4+ 6. Ne5+ Kd4 7. Rh5 Bg3 8. Rg5 ( 8. Rf5 $143 Bh2 9. Rh5 (9. Rg5 $144 Ke4 10. Rh5 Bg3 $11) 9... Bf4 10. Rh4 Ke4 11. Rg4 Kf5 $11) 8... Bf4 9. Rg4 Ke4 10. Rh4 Kf5 11. Kd5 Bxe5 12. Rh5+ $18 1-0  

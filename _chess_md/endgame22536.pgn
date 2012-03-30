@@ -1,0 +1,10 @@
+[Event "3 Commendation, tm04#2282 @2 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p1pk/7N/2P4P/5p2/4p3/3b2PK/4B3 w - - 0 1"]
+
+ 1. c6 (1. Kh3 $2 Bxe1 2. Nf7 (2. c6 Ba5) 2... e2 3. Ng5+ Kh6 4. Nf3 Ba5) (1. Nf7 $2 Bxe1 2. c6 e2 3. c7 (3. Ng5+ Kh6 4. c7 Bg3+ 5. Kh3 e1=Q 6. c8=Q Qh1+ 7. Kg4 Qh4+ 8. Kf5 Qxg5+) 3... Bg3+ 4. Kh3 e1=Q 5. c8=Q Qh1+ 6. Kg4 Qh4+ 7. Kf5 Qf6+ 8. Ke4 Qxf7) (1. Bh4 $2 Kxh6 2. c6 Ba5 3. Bxe7 e2 4. Bh4 Kxh5) 1... Bxe1 ( 1... Kxh6 2. c7 Bxe1 3. c8=Q Bg3+ 4. Kh3 e2 5. Qf5 e1=Q 6. Qg6#) (1... gxh6 2. c7 Bxe1 3. c8=Q Bg3+ 4. Kh3 e2 5. Qc2+) 2. c7 Bg3+ (2... e2 3. c8=Q) (2... Kxh6 3. c8=Q) 3. Kh3 (3. Kg1 $2 e2 4. c8=Q e1=Q#) 3... e2 (3... Kxh6 4. c8=Q) 4. c8=Q (4. Nf7 $2 e1=Q) 4... e1=Q (4... Kxh6 5. Qf5 e1=Q 6. Qg6#) (4... gxh6 5. Qc2+) 5. Qc2+ (5. Qf5+ $2 Kh8 6. Qc8+ Kh7 7. Qc2+) 5... Kh8 6. Nf7+ (6. Qc8+ $2 Kh7 7. Qc2+ Kh8) 6... Kg8 7. Ng5 (7. Kg4 $2 Qe6+) 7... Qh1+ 8. Kg4 Qh4+ (8... f3 9. Qc8#) 9. Kf5 (9. Kf3 $2 Qxh5+ 10. Ke4 Qg6+) 9... e6+ (9... g6+ 10. hxg6 e6+ 11. Nxe6 Qh5+ 12. Ng5 (12. Kf6 $2 Bh4+ 13. Ng5 Qxg5+)) 10. Kg6 (10. Nxe6 $2 Qf6+ 11. Ke4 Qxe6+) (10. Kxe6 $2 Qxg5) 10... Kf8 11. Qc7 (11. Qc8+ $2 Ke7 12. Qc7+ Ke8 13. Qf7+) (11. Qc5+ $2 Ke8 12. Qc8+ Ke7 13. Qc7+) 11... Ke8 12. Qf7+ ( 12. Qxg7 $1 {cook HH} f3 13. Qf7+ Kd8 14. Nxe6+ Kc8 15. gxf3) 12... Kd8 13. Nxe6+ Kc8 14. Qc7# 1-0  

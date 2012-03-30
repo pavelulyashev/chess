@@ -1,0 +1,10 @@
+[Event "tu18#1586 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Kaljagin V, Olimpiev B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4K3/2n4k/3b4/8/2B5/4R3/8 w - - 0 1"]
+
+ 1.Kf6 (1.Kd6 $2 Bf3) 1...Kh5 (1...Kh7 2.Re8) 2.Kf5 Kh4 3.Re3 Bg2 4.Be1+ Kh5 5.Rg3 Nd4+ (5...Bf1 6.Rg5+ Kh6 7.Rg6+ Kh7 8.Rxc6) (5...Ne7+ 6.Kf6 Nd5+ 7.Ke5 Bh1 8.Rh3+ Kg4 9.Rxh1) 6.Kf6 $1 (6.Ke5 $2 Nf3+) 6...Bc6 (6...Be4 {main} 7.Rg5+ $1 (7.Rh3+ $2 Kg4 8.Rh4+ Kf3) (7.Ke5 $2 Nf5 $1) 7...Kh6 8.Rg4 (8.Bd2 Nf3 $1 9.Rg6+ Kh5 10.Rh6+ Kg4) 8...Nf3 9.Rxe4) 7.Rh3+ $1 (7.Rg5+ $2 Kh6 8.Bd2 (8.Rg4 Nf3) 8...Nf3) 7...Kg4 8.Rh4+ Kf3 9.Rxd4   1-0  

@@ -1,0 +1,10 @@
+[Event "mr05 {c} {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "nK6/8/8/r1PP4/2k5/8/b4B2/8 w - - 0 1"]
+
+ 1. d6 Rb5+ 2. Ka7 $1 (2. Kxa8 $2 2... Kb4 3. d7 Bd5+) (2. Kc8 $2 2... Kd5 $1 3. d7 Kc6 4. d8=Q Be6+) 2... Kb4 (2... Kc3 3. d7 (3. Be1+ $2 3... Kb2 4. d7 Bd5 5. d8=Q Rb7+ 6. Ka6 Nc7+ 7. Ka5 Rb5+ 8. Ka4 Bb3#) 3... Bd5 4. c6 Bxc6 5. d8=Q Rb7+ 6. Kxa8 Rd7+ 7. Kb8 Rxd8+ 8. Kc7 Rd2 9. Be1) (2... Bb1 3. d7 Be4 4. d8=Q Rb7+ 5. Ka6 Nc7+ 6. Ka5 Rb5+ (6... Nd5 7. Qd6 Rb5+ 8. Ka6 Nb4+ 9. Ka7 Rb7+ (9... Nc6+ 10. Ka6) 10. Ka8) 7. Ka4 Bc2+ 8. Ka3 Rb3+ 9. Ka2 Bb1+ 10. Ka1) 3. d7 Bd5 4. c6 $1 4... Bxc6 5. d8=Q Rb7+ 6. Kxa8 Rd7+ 7. Kb8 Rxd8+ 8. Kc7 Rf8 (8... Rd2 9. Be1) 9. Bc5+ Kxc5 1/2-1/2  

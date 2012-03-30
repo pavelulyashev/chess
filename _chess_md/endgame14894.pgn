@@ -1,0 +1,10 @@
+[Event "tl20#407 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Verschueren E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p1p3/1p3n1p/pP1P1P1k/P1P1NK1p/6P1/4b2P/8 w - - 0 1"]
+
+ 1. Nxf6+ exf6 2. g4+ Bxg4 3. c5 bxc5 4. b6 (4. d6 $1 {cook}) 4... cxb6 (4... Be2 {main} 5. d6 (5. b7 $1 {cook})) 5. d6 1-0  

@@ -1,0 +1,10 @@
+[Event "ts12#119 {c} {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6rr/Pp3k2/1p6/1p6/6RR/p7/K1P5/8 w - - 0 1"]
+
+ 1. Rh7+ (1. Rxg8 $2 Rxg8 2. Rh7+ Ke6 3. Rxb7 Ra8 4. Kxa3 (4. Rxb6+ Kd7 5. Ra6 Kc7) 4... Kd5 5. Kb4 Kc6 6. Rh7 Rg8 7. Rh6+ Kb7 8. Kxb5 Rg5+) (1. Rh6 $2 Ra8) ( 1. Rg3 $2 b4 2. Rxg8 Rxg8 3. Rxb4 Ra8 4. Ra4 b5 5. Rxa3 Ke6 6. Kb3 Kd6 7. Kb4 Kc6) (1. Kb3 $2 a2 2. Kxa2 Rxg4) (1. c3 $2 Ra8 2. Rxh8 Rxh8 3. Rh4 Ra8 4. Rh7+ Ke6 5. Rxb7 Kd5) 1... Ke6 (1... Kf6 2. Rxg8 Rxg8 3. Rxb7 Ra8 4. Kxa3) 2. Rg6+ ( 2. Kxa3 $2 Rxg4) (2. Kb3 $2 a2 3. Kxa2 Rxg4) (2. Rh3 $2 b4 3. Rxh8 Rxh8 4. Rxb4 Kd6 5. Rxb6+ (5. Ra4 Ra8 6. Kxa3 b5) 5... Kc7) (2. Rxg8 $2 Rxg8 3. Rxb7 Ra8 4. Kxa3 (4. Rxb6+ Kd7) 4... Kd6 5. Kb4 Kc6) 2... Kd5 (2... Ke5 3. Rh5+ Kf4 (3... Ke4 4. Rg4+ Kf3 5. Rxg8 Rxg8 6. Rh3+) 4. Kxa3 Ra8 5. Rxh8 Rxh8 6. Rxb6) 3. Rh5+ (3. Rxh8 $2 Rxh8 4. Rxb6 Kc5 5. Rxb7 Ra8 6. Kxa3 Kc6 7. Rh7 Rg8 8. Kb4 Rg4+ 9. Kb3 Ra4 10. c4 Ra1) (3. Rxg8 $2 Rxg8 4. Rxb7 Ra8 5. Kxa3 Kc6) (3. Kxa3 $2 Ra8 4. Rxh8 Rxh8 5. Rxb6 Kc5) 3... Kc4 (3... Ke4 4. Rg4+) (3... Kd4 4. Rg4+ Ke3 5. Rh3+) 4. Rg4+ Kc3 5. Rh3+ Kxc2 6. a8=Q (6. Rg2+ $2 Rxg2 $1 7. Rxh8 Kc3+ 8. Kb1 Rg1+) 6... Rxa8 7. Rg2+ Kd1 8. Rb3 1-0  

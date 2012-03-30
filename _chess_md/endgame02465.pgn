@@ -1,0 +1,10 @@
+[Event "- scheme - {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2N1b3/1rp4R/8/1PK5/8/3k3P/8/8 w - - 0 1"]
+
+ 1. Na7 $1 (1. Kb4 $2 c5+ $19) (1. Kd5 $2 c6+ $19) (1. Nd6 $2 cxd6+ $19) (1. Nb6 $2 cxb6+ $19 {Pickaninny}) 1... Rxa7 2. Rh8 Ra8 3. Rh7 (3. b6 $2 Ra5+ $19) 3... Ra7 4. Rh8 {positional draw} 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "5 Prize jk02 ts61 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Hurme H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/N7/4K3/8/8/R6p/2b5/4b3 w - - 0 1"]
+
+ 1. Re3 (1. Rxh3 $2 Kd8) (1. Nb5 $2 Kf8) (1. Nc6 $2 Kf8) 1... Ba5 (1... h2 2. Kd5+ $1 (2. Rxe1 $2 Be4)) (1... Bf2 2. Rxh3 Bd4 (2... Kd8 3. Nb5 (3. Rh8+ $2 Kc7 4. Rc8+ Kb7 5. Rxc2 Bxa7) 3... Kc8 4. Rc3+) (2... Kf8 3. Rf3+) (2... Bf5+ 3. Kxf5 Bxa7 4. Rh8+) 3. Nb5 Bb2 4. Rf3 Bd1 5. Nd6+ Kd8 6. Rf8+ Kc7 7. Rc8+ Kb6 8. Rb8+) (1... Bd2 2. Rxh3 Kf8 (2... Kd8 3. Rh8+ Kc7 4. Rc8+ Kb7 5. Rxc2) 3. Kf6 Ke8 4. Nc6 Bb1 (4... Bf4 5. Ke6 Kf8 6. Rf3) (4... Kd7 5. Ne5+) 5. Ne5 Kd8 6. Rh1 Bc2 7. Rh2) (1... Bb4 2. Rxh3 Ba4 (2... Kd8 3. Nc6+) (2... Kf8 3. Nc6 Bd2 4. Kf6 Ke8 5. Ne5 Kd8 6. Rh2) 3. Rh8+ Bf8 4. Kf6 Bd7 5. Rg8 Ba4 6. Nc8 Bb3 7. Rh8 Bc2 8. Ne7 (8. Nb6 $2 Bb3) (8. Na7 $2 Ba4)) 2. Rxh3 (2. Nc6 $2 h2 3. Rh3 Bc3) 2... Kf8 3. Nc6 Bb6 (3... Bc7 4. Rf3+ Ke8 (4... Kg8 5. Ne7+) 5. Ra3) 4. Kf6 Ke8 5. Ne5 Kd8 6. Ke6 (6. Rc3 $2 Bh7) 6... Bb1 7. Rc3 Ba2+ (7... Bc7 8. Nc6+ Kc8 9. Ne7+ Kd8 10. Nd5 Ba2 11. Rxc7 Bxd5+ 12. Kd6) 8. Kd6 Bg8 (8... Bb1 9. Nc6+ Kc8 10. Na5+ Kb8 11. Rb3 Ka7 12. Nc6+) 9. Kc6 Bc7 (9... Bg1 10. Rg3) ( 9... Bf2 10. Rf3) (9... Bd4 10. Rd3) (9... Ba7 10. Ra3) 10. Rd3+ Kc8 11. Rf3 Bd8 12. Rf8 1-0  

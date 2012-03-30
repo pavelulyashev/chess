@@ -1,0 +1,10 @@
+[Event "te15#1495 {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/3p4/1b3P2/1Pp1PK2/6p1/2pp4/8/6B1 w - - 0 1"]
+
+ 1. Kg6 (1. e6 $2 dxe6+ 2. Kxe6 d2 3. Be3 d1=Q 4. Bh6+ Kg8 5. f7+ Kh7) 1... d2 2. Be3 (2. e6 $2 d1=Q 3. e7+ Ke8) 2... d1=Q 3. Bh6+ Ke8 4. f7+ Kd8 (4... Ke7 5. f8=Q+ Ke6 6. Qe8+ Kd5 7. Qxd7+) 5. f8=Q+ (5. Bf4 $2 Qd3+ 6. Kf6 Kc8 7. f8=Q+ Bd8+) (5. Bg5+ $2 Kc8 6. f8=Q+ Kb7 7. Bf4 (7. e6 dxe6 8. Qe7+ Bc7 9. Bf4 Qd8) 7... Qd5) 5... Kc7 6. Bf4 (6. Qf4 $2 c2 7. e6+ Qd6) (6. Bg5 $2 Kb7 7. e6 dxe6 8. Bf4 (8. Qe7+ Bc7 9. Bf4 Qd8) 8... Bd8 9. Qxc5 Qd5) 6... Kb7 (6... Qd3+ 7. Kg7 Kb7 (7... Qd4 8. Kg8 Kb7 9. e6) 8. e6 Qd4+ (8... Bc7 9. e7) 9. Kg8) 7. e6 Qd3+ (7... Bc7 8. e7 Qd3+ 9. Qf5) 8. Kg7 (8. Kf6 $2 Bc7 9. e7 Qd4+ 10. Kg6 Qe4+ 11. Kg7 Be5+ 12. Bxe5 Qxe5+ 13. Qf6 (13. Kf7 c2) 13... Qxf6+ 14. Kxf6 c2) (8. Kh6 $2 Bc7 9. Bxc7 Kxc7 10. Qxc5+ Kb7 11. e7 (11. b6 c2 12. Qc7+ Ka6 13. exd7 c1=Q+) 11... Qe4 12. b6 c2 13. Qc7+ Ka6 14. b7 c1=Q+) 8... Qd4+ (8... Bc7 9. e7 Qd4+ 10. Qf6) 9. Kg8 (9. Kh7 $2 Qe4+ 10. Kg7 Bc7 11. e7 (11. Bxc7 Qd4+ 12. Kg6 Qe4+) 11... Be5+ 12. Bxe5 Qxe5+ 13. Qf6 (13. Kf7 c2) 13... Qxf6+ 14. Kxf6 c2) 9... Bd8 (9... Bc7 10. e7 Qd5+ 11. Qf7) 10. e7 (10. Qxd8 $2 Qxf4 11. exd7 (11. Qxd7+ Qc7 12. Kf8 c2 13. Qd2 Qe5 14. e7 Qf6+ 15. Ke8 Qg6+) (11. e7 Qg5+ 12. Kf7 Qf5+) 11... Qc4+ 12. Kg7 Qd4+ 13. Kf7 Qd5+) 10... Qd5+ 11. Kg7 Qd4+ 12. Kh6 1-0  

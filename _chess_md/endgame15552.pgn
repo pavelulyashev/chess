@@ -1,0 +1,10 @@
+[Event "tt20#902 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/8/1q1p4/3P2K1/Q7/7n/8/8 w - - 0 1"]
+
+ 1. Kh5 $1 (1. Kh4 $2 Qe3 2. Qd7 Qh6+ 3. Kg4 Qg7+) (1. Kf5 $2 Qb1+ 2. Ke6 Qg6+ 3. Kd7 Ng5) 1... Qe3 (1... Qg1 {main} 2. Qe8+ $1 (2. Qh4 $2 Qg2 3. Qd8+ Qg8 4. Qf6+ Qg7 5. Qf5 Qh7+) 2... Qg8 3. Kh6 $1 Nf4 (3... Qxe8 {main}) (3... Nf2 {main } 4. Qd7 $1 Qf8+ 5. Kg6 Qg8+ 6. Kh6 Ng4+ 7. Qxg4 Qxg4) 4. Qd8 $1 Nxd5 (4... Qxd8 {main}) 5. Qf6+ $1 (5. Qxd6 $2 Qg7+ 6. Kh5 Nf6+ 7. Kh4 Qg4#) 5... Nxf6) ( 1... Qc7 2. Qe8+ Kg7 3. Qg6+ Kf8 4. Kh4) 2. Qh4 $1 (2. Qa1+ $2 Kg8 3. Qf6 Qe2+ 4. Kh6 (4. Kh4 Qf2+) 4... Qe5 $1 5. Qg6+ Kf8 6. Qf5+ $1 Ke7 $1 7. Qxh3 Qh8+) 2... Kh7 (2... Kg7 {main} 3. Qg3+ $1 (3. Qg4+ $2 Kf6) (3. Qd4+ $2 Qe5+ $1 (3... Qxd4 $2)) 3... Qxg3) (2... Kg8 3. Qd8+ Kf7 4. Qd7+ Qe7 5. Qf5+ Qf6 6. Qd7+) ( 2... Qf3+ 3. Kg6+ Kg8 4. Qh7+ Kf8 5. Qh8+ Ke7 6. Qh4+ Kd7 7. Qa4+) 3. Qe4+ $1 ( 3. Kg4+ $2 Kg7 4. Qxh3 Qxh3+) 3... Qxe4 1/2-1/2  

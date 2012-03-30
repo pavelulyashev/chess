@@ -1,0 +1,10 @@
+[Event "ts23#40 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K5b/1pP5/k7/Pp6/8/8/1Pr4B/8 w - - 0 1"]
+
+ 1. b4 $1 Rxh2 (1... Bd4 2. Bd6 $1 Rc6 3. Bf4 $1 b6 (3... Bf2 4. Bd6 $1 Ba7+ 5. Kc8 Rxd6) 4. c8=Q+ Rxc8+ 5. Kxc8 bxa5 6. Bd2 $1 a4 7. Bc1 Kb6 8. Kd7 Bc5 9. Ba3 Bf8 10. Ke6 $1 (10. Ke8 $2 Bxb4 $1) 10... Kc6 11. Ke5 Bg7+ 12. Ke4 (12. Ke6 $2 Bc3 $1) 12... Kd6 13. Bc1 Bc3 14. Ba3 Be1 15. Kd4 Kc6 16. Ke4 Bc3 17. Kd3) 2. c8=B $1 Be5+ (2... Rh7 3. Ka8 Bc3 4. Bxb7+ Rxb7) 3. Ka8 Rh8 1/2-1/2  

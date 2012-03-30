@@ -1,0 +1,10 @@
+[Event "3 Prize, Kasparyan 100 MT {m}"]
+[Site "?"]
+[Date "2010.06.28"]
+[Round "?"]
+[White "Campioli M"]
+[Black "*"]
+[Result "*"]
+[FEN "8/2K4p/R3P3/Pp6/kr1p3P/2p5/8/8 w - - 0 0"]
+
+ 1. Rc6 $1 (1. e7 $2 Rc4+ 2. Rc6 Rxc6+ 3. Kxc6 c2 4. e8=Q c1=Q+ $11) 1... d3 $1 2. Rxc3 Re4 $1 (2... Rxh4 3. a6 $18) 3. a6 Rxe6 4. a7 Re7+ (4... Re8 5. Rxd3 $18) 5. Kb8 $1 Rxa7 6. Kxa7 b4 7. Rxd3 {(EGTB)} b3 8. Rd7 $1 b2 9. Rb7 Ka3 10. Ka8 $3 h6 11. Rb6 h5 12. Rb5 Ka2 13. Rxh5 b1=Q 14. Ra5+ $18 *  

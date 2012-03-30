@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/pNpn4/p7/2P5/7b/1K6/P5B1/8 w - - 0 1"]
+
+ 1. c6 $1 Ne5 $1 (1... Nf6 2. Bh3+ Kb8 3. Nc5 Bg3 4. Nxa6+ Ka8 5. Bc8) (1... Nb6 2. Bh3+ Kb8 3. Nc5 Bg3 4. Nxa6+ Ka8 5. a4 Bf4 6. a5 Bg3 7. axb6) 2. Bh3+ Kb8 3. Nc5 $1 Nxc6 4. Nd7+ Kb7 5. Bg2 Bg3 6. Kc4 a5 $1 7. Nc5+ Kb6 8. Na4+ Kb7 9. Kd3 $1 Bf2 (9... a6 10. Ke2) 10. Ke2 $3 (10. Bd5 $2 a6 11. Ke4 Ba7 $3 12. Kf5 Bb8 13. Ke6 Ka7 14. Bxc6) 10... Bg1 11. Bd5 $1 a6 12. Kf3 Bd4 13. Kf4 $3 (13. Ke4 $2 Ba7) 13... Ba7 14. Ke4 $3 Bb8 15. Nc5+ Kb6 (15... Ka7 16. Bxc6 Kb6 17. Kd5) 16. Nd7+ Kb5 17. a4+ Kxa4 18. Bxc6+ Kb3 19. Nxb8 1-0  

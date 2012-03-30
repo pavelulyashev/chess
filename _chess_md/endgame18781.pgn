@@ -1,0 +1,10 @@
+[Event "td20#560 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p3p2K/7p/2Pp1P1k/3P4/3PB1P1/p1pP3N/5N2 w - - 0 1"]
+
+ 1. f6 (1. Bf2 $2 a1=Q 2. Ne3 Qh1) (1. Bxh6 $2 c1=Q 2. Ne3 Qh1 3. Nhg4 Qf3) (1. g4+ $2 Kh4 2. Bxh6 c1=Q 3. g5 Qd1 4. g6 Qh5) 1... exf6 (1... a1=Q 2. f7 Qa6 3. g4+ Kh4 4. f8=Q Qf6 5. Nf3+ Kxg4 (5... Kh3 6. Qxf6 exf6 7. Ng1+ Kg2 8. Ne2) 6. N1h2+ Kf5 (6... Kg3 7. Qxf6 exf6 8. Ng1) (6... Kh3 7. Qxf6 exf6 8. Ng1+ Kxh2 9. Ne2) (6... Kh5 7. Qe8+) 7. Nh4+ Ke6 8. Qc8+) 2. Bg5 $1 hxg5 (2... Kxg5 3. Ne3 a1=Q 4. Nf3+ Kh5 5. g4#) (2... c1=Q 3. Bxf6 Qd1 4. Ne3 Qe2 5. g4+ Qxg4 6. Nhxg4 a1=Q 7. Ne5 Qa6 8. c6 Qc8 9. Nxd5 Qf5+ 10. Kg7) (2... a1=Q 3. Bxf6 Qd1 4. Ne3 Qe2 5. g4+ Qxg4 6. Nhxg4 c1=Q 7. Ne5) 3. Ng4 (3. Ne3 $2 a1=Q 4. Nhg4 (4. Nf3 g4 $1) 4... Qa6) 3... Kxg4 4. Ne3+ Kxg3 5. Nxc2 Kh2 6. c6 g4 7. c7 g3 8. c8=Q g2 9. Qc7+ Kh1 10. Qc6 g1=Q 11. Qxd5+ Kh2 12. Qh5+ Kg2 13. Qg4+ Kh1 14. Qxg1+ Kxg1 15. d5 1-0  

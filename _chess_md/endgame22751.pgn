@@ -1,0 +1,10 @@
+[Event "4 Prize, js03 tb25 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "Draw"]
+[Result "*"]
+[FEN "N6k/B2n3N/3K2pb/8/4p2P/8/3n4/8 w - - 0 1"]
+
+ 1. Ng5 (1. Kxd7 $2 Kxh7) 1... Bxg5 $1 2. hxg5 Nb6 $1 3. Nxb6 (3. Bxb6 $2 Nc4+) 3... e3 4. Nd5 $1 (4. Nd7 $2 Ne4+ 5. Ke7 e2 6. Kf7 Nd6+ $1 7. Kxg6 e1=Q 8. Bd4+ Kg8 9. Nf6+ Kf8) 4... Ne4+ 5. Ke7 e2 6. Bf2 $1 Nxf2 7. Nf4 $1 e1=Q+ 8. Kf7 $1 Kh7 9. Nxg6 1/2-1/2  

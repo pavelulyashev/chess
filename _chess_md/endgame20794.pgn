@@ -1,0 +1,10 @@
+[Event "t001#129 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K1B4/2p5/4p3/4P3/2p5/2P5/6p1/6k1 w - - 0 1"]
+
+ 1. Be7 $1 Kf1 (1... Kf2 2. Bc5+ Ke2 3. Kxc7) (1... c5 2. Bxc5+ Kf1 3. Kc7) ( 1... c6 2. Bc5+ Kf1 3. Kc7 Ke2 4. Kd6 Kd3 5. Bd4 c5 6. Kxc5) 2. Bc5 g1=Q 3. Bxg1 Kxg1 4. Kc8 $1 Kf2 5. Kd7 Ke2 6. Kxe6 Kd3 7. Kf5 $1 Kxc3 8. e6 Kd2 9. e7 c3 10. e8=Q c2 11. Qd7+ Ke1 12. Qe6+ Kd1 13. Qd5+ Ke1 14. Qe4+ Kd1 15. Qd3+ Kc1 16. Ke4 c5 17. Ke3 c4 18. Qxc4 Kb1 19. Kd2 1-0  

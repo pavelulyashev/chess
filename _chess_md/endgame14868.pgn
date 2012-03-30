@@ -1,0 +1,10 @@
+[Event "td20#1455 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Kotov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/3K3p/3p4/r1P3R1/7R/7p/p5p1/8 w - - 0 1"]
+
+ 1. c6 a1=Q (1... Ra7+ 2. Kxd6 $1 Ra6 3. Rxh7) (1... Ra6 2. c7 Ra7 3. Rg8+) ( 1... Rxg5 2. Ra4+ Kb8 3. c7+) (1... g1=Q 2. Rxa5+ Qa7+ 3. Rxa7+ Kxa7 4. Ra4+) 2. Rg8+ Ka7 3. Rb4 $1 Rb5 (3... Qg7+ 4. Rxg7 h2 5. Rb7+ Ka6 6. Rg8) 4. Rxb5 Qa6 (4... Ka6 5. Rb7) (4... Qg7+ 5. Rxg7 h2 6. Rxg2) 5. Rbb8 h2 $1 6. Ra8+ Kb6 7. Rxa6+ Kxa6 8. c7 g1=Q 9. c8=Q+ Ka7 (9... Kb5 10. Qc6+) (9... Ka5 10. Qc3+) 10. Qc7+ 1-0  

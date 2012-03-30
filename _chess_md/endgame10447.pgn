@@ -1,0 +1,10 @@
+[Event "1 Prize tn11 {c} @3 {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1kN5/1P6/P1qp4/1p6/4p3/K7/7r/2B1Q3 w - - 0 1"]
+
+ 1. a7+ $1 (1. Bd2 $2 Qxa6+ 2. Ba5 b4+ 3. Qxb4 Rh5 $1) 1... Kxb7 2. Qxe4 $1 d5 ( 2... Qxe4 3. Nxd6+) 3. a8=Q+ Kxa8 4. Qxd5 $1 b4+ (4... Qxd5 5. Nb6+) 5. Kxb4 Rh4+ 6. Bf4 $1 Rxf4+ 7. Ka3 Ra4+ 8. Kb2 Rb4+ 9. Ka1 $1 Qxd5 (9... Qb7 10. Qxb7+ Kxb7 11. Nd6+ Kc6 12. Nf5 Re4 (12... Kc5 $1 {cook JN}) 13. Kb2) 10. Nb6+ Rxb6 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "1 Prize ts22 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3N4/p3ppk1/K2P3p/Pp2P1rP/8/p7/8/8 w - - 0 1"]
+
+ 1. Ne6+ $1 1... fxe6 2. d7 a2 3. d8=Q a1=Q 4. Qxe7+ Kh8 5. Qf8+ 5... Kh7 $1 ( 5... Rg8 $2 6. Qxh6#) 6. Qf7+ Rg7 7. Qf1 $3 7... Qxf1 (7... Qa2 8. Qb1+ Qxb1) ( 7... Qa3 8. Qd3+ Qxd3) (7... Qxe5 8. Qf5+ exf5) (7... Qa4 8. Qd3+ Kh8 9. Qh7+ Rxh7) 1/2-1/2  

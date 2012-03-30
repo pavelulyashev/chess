@@ -1,0 +1,10 @@
+[Event "1 Prize tt21#1747 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Nadareishvili G, Neidze V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4p3/Q2pP3/1qkP4/8/1P1p4/1p1P4/bK6 w - - 0 1"]
+
+ 1. b4+ $1 Qxb4 (1... Kxb4 $144 2. Qa3+ $1 Kc4 3. Qa6 $1 Kc5 4. Qa5 $1 Kc4 5. Qa6 $1 $11) (1... Kc4 $144 2. Qc6+ Kxb4 3. Qc3+ Ka4 4. Qa3+ Kxa3 $11) 2. Qa3 $1 (2. Qc6+ $143 Kd4 3. Qa4 Qc4 $1 $19) (2. Qa5+ $143 Qb5 $19 (2... Kc4 $143 3. Qa4 $11)) 2... Kb5 3. Qb3 $1 Ka5 4. Qa3+ Qa4 5. Qc3+ Qb4 (5... Ka6 $144 6. Qa5+ $11) 6. Qa3+ Kb5 7. Qb3 Kc5 8. Qa3 Kc4 9. Qa4 $1 $11 1/2-1/2  

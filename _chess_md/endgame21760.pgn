@@ -1,0 +1,10 @@
+[Event "tv23 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kalinin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/8/Pk6/8/3p4/2R1p3/8/8 w - - 0 1"]
+
+ 1. a7 Kxa7 2. Rc6 e2 (2... d3 3. Kc7 d2 4. Rd6 e2 5. Rxd2 e1=Q 6. Ra2+ Qa5+ 7. Rxa5#) 3. Re6 d3 4. Kc7 d2 5. Rxe2 d1=Q 6. Ra2+ Qa4 7. Rxa4# 1-0  

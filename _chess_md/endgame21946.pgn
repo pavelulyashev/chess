@@ -1,0 +1,10 @@
+[Event "ts17 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1NK5/1p3b2/2pP4/2k1p3/8/8/4P3/8 w - - 0 1"]
+
+ 1. Kd7 Bh5 (1... Bg6 2. Ke6 Bh5 3. Nd7+ Kb4 4. Nf6) 2. Ke7 Bg4 3. Nd7+ Kd4 ( 3... Kb5 4. Nxe5 Bh3 5. e4 Kc5 6. Nf3 b5 7. Ng5 Bg4 8. e5 b4 9. e6 b3 10. d7 b2 11. Ne4+) 4. Nf8 Bc8 5. Nd7 c5 (5... b5 6. Kd8 b4 7. Kxc8 b3 8. e3+ Kd5 9. Kc7 b2 10. Nb6+ Ke6 11. d7 b1=Q 12. d8=Q) 6. Kd8 c4 7. Kxc8 c3 8. Nc5 Kxc5 9. d7 c2 10. d8=Q c1=Q 11. Qc7+ 1-0  

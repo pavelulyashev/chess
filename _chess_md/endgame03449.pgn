@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky sach_112006_Nr88 {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Nosek S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k3N2K/r7/r1pP1n2/1P6/2N3R1/8/5n2/8 w - - 0 1"]
+
+{oprava z 5/2006} 1. Nc7+ $1 (1. Rh4 cxb5 2. Nxf6 (2. Nc7+ Rxc7 3. dxc7 Kb7)2... bxc4 3. d7 Rxd7) (1. Nxf6 Nxg4 2. d7 Rxd7 3. Nxd7 cxb5) 1... Kb8 $1 (1...Kb7 2. bxa6+ Rxa6 (2... Kc8 3. Nb6+ Kb8 (3... Kd8 4. Rg7) 4. Rb4 N2g4 5. Rf4 c56. Nbd5 Nxd5 7. Rf8#) (2... Kb8 3. Rg7 N2e4 4. Na5 Kc8 5. Nxc6 Rxa6 6. Nxa6) 3.Rg7 Ra4 4. Nd5+ Ka6 5. Nxf6 Rxc4 6. d7 Rd4 7. Rg8) 2. Nxa6+ (2. Rg6 Ra4 3. Rxf6Rxc4 4. d7 Rd4 5. bxc6 (5. Na6+ Rxa6 6. bxa6 Rxd7) 5... Kxc7) 2... Kc8 $1 (2...Rxa6 3. Rg8+ $1 Nxg8 (3... Kb7 4. Rg7+ Kc8 5. bxa6) 4. d7 Kc7 5. bxa6 $18) 3.Rg7 $1 (3. Nb6+ Kb7 (3... Kd8 4. Rg8+ Nxg8 5. bxc6 Ne7 6. c7+ Rxc7 7. dxc7+ Ke8) 4. Rg7+ Kxb6 5. Rxa7 Kxa7 6. bxc6 Nd3 7. d7 Nxd7 8. cxd7 Ne5) 3... Rxg7 4.Kxg7 N2e4 $1 (4... cxb5 5. Kxf6 Ne4+ (5... bxc4 6. Ke7) (5... Kd8 6. Nc5 bxc47. Ke6) 6. Ke7 Nxd6 7. Nxd6#) (4... Nh5+ 5. Kf7 cxb5 6. Nb6+ Kd8 7. Nc5) (4...Ne8+ 5. Kf8 Nxd6 6. Nxd6+ Kd7 7. b6) 5. bxc6 $1 (5. Nb6+ Kb7) 5... Ne8+ (5...Nd7 6. Nb8 {the clearly best, but not only move} Nxb8 (6... Kxb8 7. cxd7) (6...Nef6 7. cxd7+ Nxd7 8. Nxd7) 7. Nb6+ Kd8 8. c7+) 6. Kf8 $1 N4xd6 7. Nb6+ Kd8 8.c7+ Nxc7 9. Nc5 1-0

@@ -1,0 +1,10 @@
+[Event "Tschigorin MT {m}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7P/P1Pr2Pb/B7/5p2/p6k/7p/N6K w - - 0 1"]
+
+ 1. Nc2 Bg7 (1... Rxg6 $143 2. Bb6 Rd6 3. Bd4 Bg7 4. c7 $18) 2. c7 Rc6 3. a7 Rxc2 (3... a2 $143 4. Bc3 Bxc3 (4... Rxc3 $144 5. a8=Q a1=Q+ 6. Qxa1 $18) 5. a8=Q a1=Q+ 6. Nxa1 $18) 4. Bd2 a2 5. a8=Q a1=Q+ 6. Qxa1 Bxa1 7. c8=Q+ (7. Bxf4 $143 Be5 $19) 7... Rxc8 8. Bc3 {Novotny} Rb8 (8... Bxc3 $144 9. g7 $1 Bxg7 10. h8=Q+ Bxh8 $11) 9. Bb2 Re8 10. Be5 Rd8 11. Bd4 $11 1/2-1/2  

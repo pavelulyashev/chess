@@ -1,0 +1,10 @@
+[Event "tu19#0535 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/1P4B1/8/2nr1N2/8/2p3p1/3k4/3B4 w - - 0 1"]
+
+ 1. Kc8 $1 (1. Kc7 $2 Rxf5 2. b8=Q Na6+) (1. Ke7 $2 Rd7+ 2. Kf8 Rxb7 3. Nxg3 Kxd1 4. Bxc3 Rb3 5. Bd4 (5. Be5 Nd7+) 5... Ne6+) (1. Ke8 $2 Nxb7 2. Nxg3 Kxd1 3. Bxc3 Rd3 4. Ne4 (4. Be5 Re3) 4... Re3) 1... Nxb7 2. Nxg3 (2. Bxc3+ $2 Kxc3 3. Nxg3 Nd6+) 2... Nd6+ (2... Kxd1 3. Bxc3) 3. Kc7 $1 (3. Kd7 $2 Kxd1 4. Bxc3 Ne4+) (3. Kd8 $2 Kxd1 4. Bxc3 Ne4+) (3. Kb8 $2 Kxd1 4. Bxc3 Rg5 5. Nf1 Rg8+ 6. Ka7 Nb5+) 3... Kxd1 (3... Ne8+ 4. Kc6 Rd6+ 5. Kc5 Nxg7 6. Ne4+ $1 Kxd1 7. Nxc3+ ) 4. Bxc3 Nb5+ (4... Rd3 5. Be5 Nf7 6. Bf4 Rf3 7. Nh5) 5. Kc6 Nxc3 6. Ne4 $1 Rd3 (6... Kc2 7. Nxc3) 7. Nf2+ 1/2-1/2  

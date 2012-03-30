@@ -1,0 +1,10 @@
+[Event "tc06#17 @3 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Krutina M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/pkb4K/8/7P/3P4/P7/8 w - - 0 1"]
+
+ 1. Kg5 (1. d4 $2 Kb5 2. a4+ Kxa4 3. Kg5 Kb3 4. h5 Kc4) (1. h5 $2 Kc5 2. Kg5 Bb5 ) 1... Kc5 2. Kf4 Kd4 3. h5 Bb5 (3... Be8 4. Kg5 Bb5 5. a4 $1 Bxd3 6. a5) (3... Bd5 $1 {cook JP} 4. h6 Bg8 5. Kf5 Bh7+ $1) 4. a4 $1 Bxd3 5. a5 Bh7 {eg} 6. Kf3 Kc3 7. Ke2 Kb4 8. Kd2 Kxa5 9. Kc3 Ka4 10. Kb2 1/2-1/2  

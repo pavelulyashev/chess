@@ -1,0 +1,10 @@
+[Event " Prize mr02 ta18 @3 @2 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4P3/2N3q1/1Bp2b2/8/K7/2P5/k7 w - - 0 1"]
+
+ 1. Na5 $1 (1. Nd4 $2 Bd7 $1 (1... Bxc2 $2 2. Nb3+ Bxb3 3. e8=Q Qg3 4. Bd3 Qxd3 5. Qe5+ Qd4 6. Qe1+ Bd1 7. Qxd1+ Qxd1) (1... cxd4 2. e8=Q Qg3+ $1 (2... Qd6+ $2 3. Kb3)) (1... Qg3+ $2 2. Nb3+ Kb1 3. Bd3 (3. e8=Q $2 Qc3) 3... Bd7 4. e8=Q Bxe8 5. c4+ Qxd3) 2. Bxd7 Qa6+ $1) 1... Qg3+ (1... Bxc2 2. Nb3+ $1 Kb1 (2... Bxb3 3. e8=Q) 3. e8=Q) (1... Bd7 2. Nb3+ Kb1 3. Bd3 $1 Qd6 4. c4+ $1 Qxd3 5. e8=Q Bxe8 (5... Qxb3+ $1 {cook HH} 6. Kxb3 Bxe8)) (1... Qf6 $1 {cook HH} 2. Nb3+ Kb1 3. Nxc5 (3. e8=Q Qb2+ 4. Ka4 Qa2#) 3... Qc3+ 4. Nb3 Kxc2) 2. Nb3+ Kb1 3. e8=Q Bxc2 (3... Qc3 $1 {cook TW}) 4. Bd3 $1 (4. Qf7 $1 {cook HH}) (4. Bc4 $1 {cook HH} Qc3 5. Qb8 $1) 4... Qxd3 (4... Bxd3 5. Qh8) 5. Qe1+ Bd1 6. Qe4 $1 Qxe4 7. Nd2+ 1/2-1/2  

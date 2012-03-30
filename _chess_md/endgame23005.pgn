@@ -1,0 +1,10 @@
+[Event "3rd Hm.  2World Cup {m}"]
+[Site "?"]
+[Date "2011.05.12"]
+[Round "?"]
+[White "Arestov P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N5r1/2KP2r1/R6B/1k6/8/4p3/6p1/4Rn2 w - - 0 0"]
+
+ 1. Rc6 $1 (1. Rb6+ $2 Kc4 2. Bxg7 g1=Q $11 3. Rc6+ Kd3 4. Rd6+ Ke4 5. Re6+ Kd3) 1... Rxd7+ $1 (1... g1=Q 2. Rb1+ Ka5 3. Rc5+ Ka4 4. Nb6+ Ka3 5. Ra5#) 2. Kxd7 Rd8+ $1 3. Kc7 $1 ({Thematic try} 3. Kxd8 $2 Kxc6 4. Bxe3 Nxe3 5. Nc7 Kd6 $1 { zz} 6. Kc8 (6. Nb5+ Ke5 $1 7. Rxe3+ Kf4 8. Re1 Kf3 $11) 6... Nf5 $1 7. Ne8+ Kc6 $1 8. Nf6 Nh4 9. Rg1 Kc5 10. Nh5 Kd4 11. Nf4 Ke3 12. Nxg2+ Kf2 $11) 3... Rc8+ 4. Kxc8 Kxc6 5. Bxe3 Nxe3 6. Nc7 $1 Kd6 (6... Kc5 7. Ne6+ Kd5 8. Nf4+ Ke4 9. Nxg2 $18) 7. Kd8 $1 {zz} (7. Nb5+ $2 Ke5 $1 ({not} 7... Kd5 $2 8. Nc3+ Kd4 9. Ne2+ Ke4 10. Ng1 $18) 8. Rxe3+ Kf4 9. Re1 Kf3 {(Kg3)=}) 7... Ke5 (7... Kc5 8. Ne6+ Kd5 9. Nf4+ $18) 8. Rxe3+ Kf4 9. Nd5+ $18 1-0  

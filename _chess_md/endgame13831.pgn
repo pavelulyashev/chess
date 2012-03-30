@@ -1,0 +1,10 @@
+[Event "bs15-171 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k1br2/1p3p2/5p2/p1P1pP1P/P1P1P2P/7K/8/6R1 w - - 0 1"]
+
+ 1. h6 Rh8 2. h7 (2. Rg7 $2 Kd8 3. h7 Ke7) 2... Rxh7 3. Rg8 Kd8 4. c6 $1 bxc6 5. c5 Ke7 6. Kg4 (6. Kg3 $2 Bd7 7. Kh3 Rh6 8. Kg3 Be6 $1) 6... Rg7+ $1 (6... Bd7 7. h5) 7. Rxg7 Kf8 8. Rh7 (8. Rg5 $2 fxg5 (8... Bd7 9. h5 $1) 9. Kxg5 Kg7 10. f6+ Kh7 11. Kf5 Bd7+ 12. Kxe5 Be6 13. Kd6 Bb3 14. Kxc6 (14. e5 Kg6 15. Kxc6 Bxa4+ 16. Kb6 Bc2 17. Kxa5 Kf5) 14... Bxa4+ 15. Kb6 Bc2 $1) 8... Kg8 9. Rh6 $1 Kg7 10. Kh5 Bd7 11. Rh8 $1 Kxh8 12. Kh6 Kg8 13. h5 Kf8 14. Kh7 Bxf5+ 15. exf5 e4 16. h6 e3 17. Kh8 e2 18. h7 Ke7 19. Kg8 (19. Kg7 $2 e1=Q 20. h8=Q Qg3+ 21. Kh7 Qh3+ 22. Kg7 Qg4+ 23. Kh6 Qg5+ 24. Kh7 Qxf5+) 19... e1=Q 20. h8=Q Qg3+ 21. Qg7 Qg5 (21... Qb8+ 22. Kh7) 22. Kh8 Qxf5 23. Qf8+ $1 Kxf8 1/2-1/2  

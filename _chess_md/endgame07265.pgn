@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention t001#008 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/2p5/8/7K/1PP2k2/8 w - - 0 1"]
+
+ 1. Kg4 (1. c3 $143 Kf3 2. Kh4 Kf4 3. Kh5 Kf5 4. Kh6 Kf6 $11) 1... Ke3 2. c3 $1 (2. Kf5 $143 Kd2 3. c4 Kd3 $11) 2... Ke4 (2... Kd3 $144 3. Kf4 Kc2 (3... c4 $144 4. Ke5 $18) 4. b4 $18) 3. Kg5 $1 Ke5 4. Kg6 $1 Ke6 5. Kg7 $1 (5. c4 $143 Ke5 6. Kf7 Kd4 7. Ke6 $11) (5. b3 $143 Ke5 6. Kg5 (6. Kf7 c4 7. bxc4 Kd6) 6... Ke4 7. Kg4 Kd3 $11) 5... Ke7 (5... c4 $144 6. Kg6 $1 Ke5 7. Kg5 $1 Ke4 8. Kf6 $1 Kf4 9. Ke6 $1 $18) (5... Kf5 $144 6. Kf8 Kf6 7. c4 Ke6 8. Ke8 Kd6 9. Kd8 $18 ) (5... Ke5 $144 6. Kf7 Kd5 7. Kf6 c4 8. Kf5 $18) 6. c4 $1 (6. b3 $143 Ke6 7. Kg6 Ke5 8. Kg5 Ke4 9. Kg4 Kd3 $11) 6... Ke6 7. Kf8 $1 (7. Kg6 $143 Ke5 $11) (7. b3 $143 Ke7 $11) 7... Ke5 8. Ke7 $1 Kd4 9. b3 $1 Kc3 10. Kd6 $1 Kxb3 11. Kxc5 $18 1-0  

@@ -1,0 +1,10 @@
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/3NR3/6K1/p7/6k1 b - - 0 1"]
+
+ 1... a1=Q 2. Re2 Qc3+ 3. Nf3+ Kf1 4. Rf2# {#} 1-0  

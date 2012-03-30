@@ -1,0 +1,10 @@
+[Event "2 Prize Tyovaen Shakki {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Herbstmann A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5rk1/3qPb2/8/7P/8/3B4/8/1K1R4 w - - 0 1"]
+
+ 1. Bh7+ Kh8 (1... Kg7 $144 2. exf8=B+ (2. h6+ $143 Kf6 3. Rxd7 Re8 4. Bd3 Bg8 $11) (2. exf8=Q+ $143 Kxh7 3. Rxd7 $11) 2... Kxf8 3. Rxd7 $18) (1... Kxh7 $144 2. exf8=N+ Kg8 $1 3. Nxd7 (3. Rxd7 $143 Kxf8 4. h6 Kg8 5. h7+ Kh8 6. Rxf7 $11)) 2. exf8=R+ (2. exf8=Q+ $143 Kxh7 3. Rxd7 $11) 2... Bg8 3. Rxg8+ $18 1-0  

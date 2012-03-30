@@ -1,0 +1,10 @@
+[Event "tl06 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Lazard F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5kB1/3p1P2/7K/2Pp1P1P/p6p/4P3/7P/8 w - - 0 1"]
+
+ 1. Kg6 a3 2. h6 a2 3. h7 a1=Q 4. h8=Q Qxh8 5. f6 h3 (5... d4 $144 6. c6 dxc6 7. exd4 h3 8. Kg5 c5 9. d5 $18) 6. Kg5 d4 7. c6 $1 dxc6 8. exd4 c5 9. d5 $1 $18 1-0  

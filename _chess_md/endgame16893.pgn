@@ -1,0 +1,10 @@
+[Event "3 Prize tm71 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/1K6/6P1/6p1/4P3/5B2/4p1p1/8 w - - 0 1"]
+
+ 1. g7 g1=Q (1... e1=Q 2. g8=Q+ Ke7 3. Qg7+ Kd6 4. Qc7+ Ke6 5. Bg4+ Kf6 6. Qd6+ Kg7 7. Qe7+ Kh6 8. Qf8+) 2. g8=Q+ Ke7 3. Qg7+ Ke6 4. Bxe2 (4. Qg6+ $2 Ke7 5. Bxe2 Qb1+ 6. Kc7 Qc2+ 7. Qc6 Qxe2) 4... Qb1+ 5. Kc8 (5. Kc7 $2 Qxe4 6. Bg4+ Kd5 ) 5... Qc2+ 6. Kd8 Qxe4 7. Bg4+ (7. Bc4+ $2 Kf5 8. Bd3 Qxd3+) 7... Kd6 8. Qc7+ Kd5 9. Bf3 Qxf3 10. Qb7+ 1-0  

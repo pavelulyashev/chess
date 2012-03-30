@@ -1,0 +1,10 @@
+[Event "500 Endspielstudien {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1N3k2/8/p1P5/pP6/8/8/P4r2/3K1b2 w - - 0 1"]
+
+ 1. c7 Bh3 (1... Be2+ 2. Kc1 $1 2... Bg4 3. bxa6) 2. bxa6 Bg4+ 3. Kc1 $1 3... Rf7 (3... Rf4 4. a7 Rc4+ 5. Kb2 Bf3 6. Nc6) 4. Nd7+ Bxd7 5. a7 Rf1+ (5... Bc8 6. a8=Q Rxc7+ 7. Kd2 Rc5 8. Qf3+ Kg7 9. Qg3+ Kh8 (9... Kh7 10. Qd6 Rc4 11. Qd3+ ) 10. Qd6 10... Rc4 $1 11. Qd5) 6. Kd2 Rf2+ 7. Ke3 1-0  

@@ -1,0 +1,10 @@
+[Event "1 Prize us21 {v} {m}"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Platov V, Platov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/p2N4/q5p1/6p1/P1k1Pp2/7K/1PP2P2/8 w - - 0 1"]
+
+ 1.Nf7 Qe6+ (1...Kd4 2.c3+ Kc4 3.Nfe5+) (1...Kb4 2.c3+ Ka5 3.b4+) 2.Kh2 $1 g4 3.Kg1 $1 g5 4.Kf1 $1 Qa6 $1 (4...f3 5.Kg1 $3 (5.Nfe5+ $2 Kd4 6.c3+ Kxe4 7.Nc5+ Kxe5 8.Nxe6 Kxe6 9.Kg1 g3 $1 10.fxg3 g4)) 5.Kg2 $1 Qe6 6.Kg1 a5 7.Kf1 Qa6 8.Kg2 Qe6 9.Kg1 g3 10.Nfe5+ Kd4 11.Nf3+ $1 Kc4 12.Nd2+ Kd4 13.c3+ Kd3 14.Nc5+ 1-0  

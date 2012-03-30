@@ -1,0 +1,10 @@
+[Event "to01 {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P5/b1R5/k2p4/1p1PpK2/8/8 w - - 0 1"]
+
+ 1. Rxa5+ Kxa5 2. c7 e2 3. Kxe2 b2 4. c8=R $3 (4. c8=Q $2 b1=Q 5. Qa8+ Kb4 6. Qb8+ Kc3 7. Qxb1) 1-0  

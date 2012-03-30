@@ -1,0 +1,10 @@
+[Event "2/3 prize, Neidze 70 JT -MAIN {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/8/2B5/4P3/1P2b1kP/7r/R3K3 w Q - 0 1"]
+
+1. Bd6+ Bf4 2. Bxf4+ (2. Rd1 $2 Rh1+ 3. Ke2 Rh2+ 4. Kd3 Bxd6 $11) 2... Kxf4 3.O-O-O $1 Kxe4 (3... Rxh3 4. Kb2 $1 (4. Kc2 $2 Kxe4 $11) 4... Kxe4 5. Ka3 Rh8 6.b4 Ra8+ 7. Kb3 Rb8 8. Rd7 Ke5 9. Kc4 Rc8+ 10. Kb5 Rb8+ 11. Ka5 Ra8+ 12. Kb6Rb8+ 13. Rb7 $18) 4. Rd6 $3 {zz} ({Thematic try} 4. Rd8 $5 Rxh3 5. Kb2 Rh7 $16. Ka3 Ra7+ 7. Kb4 Rb7+ 8. Ka4 Ra7+ 9. Kb5 Rb7+ {positional draw(impossible Rb6+-)}) (4. Rd7 $2 Rxh3 5. Kb2 Rh8 $11) 4... Rxh3 {main B} ({main A} 4... Ke5 5. Rd3 $1 {zz} Ke4 6. Rc3 $1 Ke5 7. Rc5+ Kd6 8. Rh5$18) 5. Kb2 $1 Rh8 {main B1} (5... Ke5 {main B2} 6. Rg6 $3 ({Thematic try} 6.Ra6 $2 Kd5 7. Ka3 Kc5 8. Ka4 Rh4+ 9. Ka5 Rb4 {and draws, because impossible Rg5+}) 6... Kd5 7. Ka3 Kc5 (7... Rh4 8. b4 $1 Rh19. Ka4 Ra1+ 10. Kb5 Ra8 11. Ra6 $18) 8. Ka4 Rh4+ (8... Rh8 9. b4+ Kc4 10. b5Ra8+ 11. Ra6 $18) 9. Ka5 Rb4 10. Rg5+ $18) 6. Ka3 Ra8+ 7. Kb4 Rb8+ 8. Kc4 Rc8+9. Kb5 Rb8+ 10. Rb6 {wins owning the move 4.Rd6!!. After the attractive move0-0-0!, an interesting choice of rank for the rook arises from play wit artelements.} *

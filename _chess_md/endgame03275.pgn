@@ -1,0 +1,10 @@
+[Event "1st/2nd prize c Shakhmatnaya poezia {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Visokosov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/3Bp3/6P1/p1k5/p6B/4bp2/p1p5/K1R5 w - - 0 1"]
+
+ 1. Bf2 (1. Bxe7+ $143 Kb6 2. Rxc2 Bd4+ 3. Rb2+ $11) (1. Rxc2+ $143 Kd6 2. Bf2 Bg5 $11) 1... Bxf2 (1... Kd4 $144 2. Bxe3+ Kxe3 3. Rxc2 f2 4. Bb5 $18) 2. Rxc2+ Kd6 3. Rd2+ (3. Rxf2 $143 Kxd7 4. Rxf3 Ke8 5. g7 Bf7 6. Rf5 a3 7. Rxa5 Bg8 8. Rg5 Bf7 9. Rg3 e5 10. Rxa3 Bg8 11. Ra7 e4 12. Kb2 e3 13. Kc3 e2 14. Kd2 Bc4 $11 ) 3... Kc7 4. Be6 Bxe6 (4... Be3 $144 5. Rc2+ Kd6 6. Bxg8 e6 7. Rh2 $18 { technical win not so hard}) (4... Bd4+ $144 5. Rxd4 Bxe6 6. Rf4 $18) 5. Rxf2 Kd7 6. Rxf3 Ke8 {Now we have the same position as in the try except that bB for the moment blocks any move of bPe7. White has at his disposal a series of R-movcs to take advantage of this circumstance.} 7. Rf4 a3 8. Rf3 Bg8 (8... a4 $144 9. Rf4 Bg8 10. g7 Bf7 11. Rxa4 Bg8 12. Rf4 Bf7 13. Rf5 $18) 9. g7 Bf7 10. Rxa3 Bg8 (10... e5 $144 11. Rxa5 Bg8 12. Rxe5+ Kf7 13. Rg5 Kf6 14. Rg2 {zz} Kf5 15. Rxa2 $18) 11. Rf3 Bf7 12. Rf5 { Otherwise 12...e5 will follow with the Ke8-e7-f6 min i-march, drawing.} a4 13. Kb2 (13. Rf4 $143 e5 $11) 13... e6 14. Ra5 (14. Rg5 $143 Bg8 15. Kxa2 e5+ 16. Ka3 Kf7 17. Kxa4 e4 18. Kb4 (18. Kb3 $143 Kf6+ $143 $17) 18... e3 19. Kc3 Bh7 20. Rg1 Kg8 $11 {positional draw}) 14... Bg8 15. Rxa4 Kf7 (15... e5 $144 16. Ra7 e4 17. Kc2 e3 18. Kd3 $18 { and Black loses because his eP occupies a dark square, not a light one.}) 16. Rg4 e5 17. Kxa2 $18 e4 (17... Kf6+ $144 18. Kb2 $18) 18. Kb2 e3 19. Kc2 Bh7+ 20. Kd1 Bg8 21. Ke2 $18 1-0  

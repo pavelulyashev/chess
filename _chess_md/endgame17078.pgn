@@ -1,0 +1,10 @@
+[Event "ts04#3952 @3 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k6r/5B2/2n3P1/8/8/2p5/4K3/8 w - - 0 1"]
+
+ 1. g7 (1. Bd5 $2 Re8+ 2. Kd3 Rd8) 1... Rh2+ 2. Kd3 Ne7 (2... Rh3+ $1 {cook LK} 3. Kc2 Nb4+ 4. Kb3 c2+ 5. Kb2 Ka7 $1 6. g8=Q Rh1 7. Kc3 c1=Q+ 8. Kxb4 Rh6) 3. Kxc3 Rh3+ (3... Rg2 4. g8=Q+ Nxg8 5. Bd5+) 4. Kd4 $1 Nf5+ (4... Rg3 5. Ke5 Rxg7 6. Kf6 Nf5 7. Bd5+) 5. Ke5 Nxg7 6. Kf6 Nh5+ (6... Rg3 7. Bg6 Ne6 8. Be4+) 7. Kg5 Ng7 (7... Ng3 8. Kg4 Rh7 9. Bd5+) 8. Kf6 Nh5+ 9. Kg5 1/2-1/2  

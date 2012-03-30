@@ -1,0 +1,10 @@
+[Event "ts23#742 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/2pB4/8/k1K1p3/8/1P6/8/8 w - - 0 1"]
+
+ 1. b4+ Ka6 2. Kc6 e4 (2... Ka7 3. Bf5) 3. Be6 $1 e3 4. Bc4+ Ka7 5. b5 Ka8 6. Bd5 Ka7 (6... e2 7. b6) 7. Bf3 Ka8 8. b6 cxb6 9. Kxb6# 1-0  

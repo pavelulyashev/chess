@@ -1,0 +1,10 @@
+[Event "bz07#06 {m}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kalinin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6r1/8/1P1K1k2/1b6/8/8/4N3/8 w - - 0 1"]
+
+ 1. b7 Ba6 $1 (1... Bxe2 2. Kc7 Rg7+ 3. Kb6 Rg8 4. Kc7) 2. Kc6 $1 Rb8 $1 (2... Re8 3. Nc3 Rb8 4. Nd5+ Ke5 5. Nb4 Bxb7+ 6. Kc7) 3. Nf4 $1 (3. Kb6 $2 Bxb7 4. Kc7 Re8 $1) (3. Nc3 $2 Bxb7+ 4. Kc7 Rc8+) 3... Rxb7 (3... Ke5 4. Nd3+ Kd4 5. Nc5) (3... Ke7 4. Kb6 Bxb7 5. Kc7 Rf8 6. Ng6+) 4. Nd5+ Ke5 5. Nc7 Ra7 6. Kb6 Rb7+ 7. Kc6 Ra7 8. Kb6 1/2-1/2  

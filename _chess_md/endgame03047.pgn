@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Gurvitch A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2nkr1N1/8/P3P3/8/6K1/1N3n2/8/8 w - - 0 1"]
+
+ 1. e7+ Nxe7 (1... Kc7 2. Nf6 $18) 2. Nxe7 Nh2+ (2... Ne5+ 3. Kf5 Rxe7 4. a7 $11 ) 3. Kg3 $1 (3. Kh3 $2 Rh8+ 4. Kg2 (4. Kg3 Kxe7 5. a7 Nf1+ 6. Kf2 Rf8+ $19) 4... Kxe7 5. a7 Ra8 6. Na5 Ng4 $19) 3... Nf1+ 4. Kg2 $1 (4. Kf2 $2 Rf8+ $19) 4... Ne3+ 5. Kf3 $1 (5. Kf2 $2 Rxe7 6. a7 Nd1+ $19) 5... Rxe7 6. a7 Rxa7 7. Nd4 $1 Ra3 8. Nb5 Rb3 (8... Ra5 9. Nd4 $11) (8... Rd3 9. Ke4 $11) 9. Nd4 Rc3 10. Nb5 Rc5 11. Nd4 $11 1/2-1/2  

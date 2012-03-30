@@ -1,0 +1,10 @@
+[Event "tb27 {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Kalinin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/1R6/4K3/8/p7/7r/rp3B2/8 w - - 0 1"]
+
+ 1. Bd4+ Kg8 2. Rg7+ Kf8 3. Rg6 $1 Rh5 (3... b1=Q $4 4. Bc5+ Ke8 5. Rg8#) 4. Bg7+ Kg8 5. Bxb2+ Kf8 6. Bg7+ Kg8 (6... Ke8 7. Bb2 Kd8 8. Kd6 Kc8 9. Kc6 Kb8 $4 10. Rg8+ Ka7 11. Bd4+ Ka6 12. Ra8#) 7. Bb2+ Kh7 8. Rg7+ Kh6 9. Rg2 $3 Kh7 10. Rg7+ Kh6 11. Rg2 1/2-1/2  

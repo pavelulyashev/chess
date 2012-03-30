@@ -1,0 +1,10 @@
+[Event "ts21#44 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6p1/P3rk2/p5p1/6P1/8/8/2R4K w - - 0 1"]
+
+ 1. a7 Re8 2. Rf1+ $1 (2. Ra1 $2 Ra8 3. Rxa5 Kg6 4. Kg2 Kh6 5. Kf3 g6 6. Ke4 Rxa7 7. Rxa7) 2... Kg6 3. Rb1 $1 Ra8 4. Rb6+ Kh7 5. Ra6 g6 6. Kg2 a4 7. Kf3 a3 8. Ke4 a2 9. Ke5 Kh6 10. Kf6 a1=Q+ 11. Rxa1 Rxa7 12. Rh1# 1-0  

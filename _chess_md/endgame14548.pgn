@@ -1,0 +1,10 @@
+[Event "tl20 {tw} @2 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Lamare M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/8/7p/4N2k/4K3 w - - 0 1"]
+
+ 1. Kf1 $1 (1. Kf2 $2 Kh1) 1... Kh1 2. Ng3+ (2. Kf2 $1 {cook JU} Kh2 3. Nd4 Kh1 4. Nf5) 2... Kh2 3. Ne4 Kh1 4. Kf2 Kh2 5. Nd2 Kh1 6. Nf1 h2 7. Ng3# 1-0  

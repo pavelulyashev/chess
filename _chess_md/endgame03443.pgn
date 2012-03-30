@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky sach_112005_Nr85_comm {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Koblizek L, Polasek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4B3/7p/8/3p4/p2P1b1p/8/6KN/4k1Bn b - - 0 1"]
+
+1... h3+ (1... Bxh2 2. Bxa4 Bxg1 3. Kxh1) (1... a3 2. Nf3+ Ke2 3. Bb5+ Kd1 4.Ba4+ Kc1 5. Bb3 Ng3 6. Bxd5 Ne2 7. Bf2 Bg3 8. Kf1 Bxf2 9. Kxf2) 2. Kxh1 (2.Kxh3 a3 3. Nf3+ Ke2 4. Kg4 (4. Kg2 a2 5. Bb5+ Kd1 6. Kxh1 a1=Q) 4... a2 5. Bb5+Kd1 6. Ba4+ Kc1 7. Kxf4 a1=Q 8. Be3+ Kb2) 2... a3 (2... Bxh2 3. Bxh2 a3 4. Bd6a2 5. Bb4+ Kd1 6. Bc3 Kc2 7. Ba1 Kb1 8. Bc6) 3. Nf3+ Ke2 {Very interesting position. White has to force pawn promotion.} 4. Bb5+ Kxf3 5.Ba4 $1 a2 (5... h2 $5 6. Bd1+ (6. Bxh2 $2 a2 7. Bd1+ Kf2 8. Bg1+ Kg3 9. Bh2+Kh3 10. Bxf4 a1=Q 11. Bc1 Qxc1) (6. Bb3 hxg1=Q+ 7. Kxg1 Ke4 $19) 6... Kg3 7.Bxh2+ (7. Bb3 hxg1=Q+ 8. Kxg1 Kf3 9. Bxd5+ Ke3 10. Kg2 Kxd4 11. Bg8) 7... Kh38. Bb3 Bxh2 9. Bxd5) 6. Bb3 $1 a1=Q {And now two stalemates with pin.} 7. Bd1+Kg3 (7... Qxd1) 8. Bf2+ Kxf2 1/2-1/2

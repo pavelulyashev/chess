@@ -1,0 +1,10 @@
+[Event "4 Commendation, MatPlus 2009 {m}"]
+[Site "?"]
+[Date "2009.11.11"]
+[Round "?"]
+[White "Ilincic B"]
+[Black "*"]
+[Result "*"]
+[FEN "3N4/5Qpk/7p/1q3P2/8/1pp5/5P1K/8 w - - 0 0"]
+
+ 1. Ne6 (1. Qg6+ $2 Kg8 2. Ne6 Qd7 3. f6 c2) 1... Qe5+ ({main} 1... Qb8+ 2. f4 Qg8 3. Qg6+ Kh8 4. f6 gxf6 5. Qxf6+ Kh7 6. Nf8+ ({dul-->>} 6. Qf5+ Kh8 7. Qe5+ Kh7 8. Qe4+ Kh8 9. Qd4+ Kh7 10. Qd3+ Kh8 11. Qxc3+ Kh7 12. Qxb3 $18) 6... Qxf8 7. Qxf8 $18) 2. Kh3 Qf6 (2... c2 3. Nf8+ Kh8 4. Ng6+ Kh7 5. Qf8 Qc3+ 6. Kg2 Qc6+ 7. f3 $18) 3. Nf8+ Kh8 4. Ng6+ Kh7 5. Qd7 c2 (5... Qg5 6. Qc8 Qh5+ 7. Kg3 $18) 6. Qc8 Qxf5+ 7. Qxf5 c1=Q 8. Ne7+ $18 *  

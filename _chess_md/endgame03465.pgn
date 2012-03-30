@@ -1,0 +1,10 @@
+[Event "3 Prize Magyar Sakkvilбg , general {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Minski M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5r2/8/8/2p4Q/2p1N3/5p2/1N1Kp1p1/1kB3b1 w - - 0 1"]
+
+1. Nc3+ Ka1 2. Qe5 $1 Be3+ $1 (2... Bd4 3. Nxc4 Bxe5 4. Bb2#) 3. Qxe3 g1=Q $1 (3... f2 4. Nxc4 e1=Q+ 5. Kc2 Rb8 6. Qh6 $18) 4. Qxg1 f2 5. Nd3 $1 (5. Nbd1 $2Rd8+ 6. Kxe2 fxg1=N+ $11) 5... e1=Q+ (5... cxd3 6. Bb2+ Kxb2 7. Qb1+ Ka3 8.Qa2+ Kb4 9. Qa4#) (5... fxg1=Q 6. Bb2#) 6. Nxe1 $1 (6. Qxe1 $2 fxe1=Q+ 7. Nxe1Rd8+ 8. Ke3 Re8+ 9. Ne4 c3 10. Nd3 Kb1 11. Ba3 c4 12. Nf4 Ra8 $11) 6... Rd8+ 7.Kc2 $1 Rd2+ $1 (7... fxe1=N+ 8. Qxe1 Rd2+ 9. Bxd2#) 8. Kxd2 fxe1=Q+ 9. Kc2 $1 (9. Qxe1 $2 {patt.}) (9. Kxe1 $2 {patt.}) 9... Qf2+ $1 10. Ne2 $1 (10. Qxf2 $2 {patt.}) 10... Qxe2+ (10... Qf5+ 11. Kd2 Qd3+ 12. Ke1 Qc3+ 13. Bd2 $18) 11. Bd2+Ka2 12. Qb1+ Ka3 13. Qa1# 1-0

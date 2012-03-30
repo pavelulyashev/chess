@@ -1,0 +1,10 @@
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N6/bn2B3/8/N7/8/8/k1K5 w - - 0 1"]
+
+ 1. Nbc5 Bc4 2. Bxc4 Nxa4 (2... Nxc4 3. Nc3 Nd2 4. Kc2 Nc4 5. Nb3#) 3. Nb3+ Ka2 4. Nd4+ Ka3 (4... Ka1 5. Nc2#) 5. Nc2# 1-0  

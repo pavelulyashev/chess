@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/kp3P2/p1B3Pb/K2P4/b7/8/8/8 w - - 0 1"]
+
+ 1. Bxb7 ({Разумеется не} 1. Bxa4 $2 Bd2#) ({или} 1. Kxa4 bxc6 2. dxc6 ({ (Но ведь} 2. d6 Kb6 3. Kb4 c5+ 4. Kc4 Kc6 5. d7 Kxd7 6. Kxc5 Kc7 7. Kd5 Kd7 { приводит к ни~~ьей -я.)}) 2... Kb6) 1... Bb5 2. Bxa6 $1 { Необходимо во избежание 2. ... Сd2Х} (2. d6 Bd2#) 2... Bxa6 3. g7 $1 Bxg7 4. d6 Bc8 5. f8=Q ({Не проходила перестановка ходов:} 5. d7 $2 Bc3+ $1 6. Kb5 Bxd7+ 7. Kc5 Bb2 $1 8. Kd6 Bg4 9. Ke7 Ba3+ 10. Ke8 Bh5 {с выигрышем.}) 5... Bxf8 6. d7 Bxd7 1/2-1/2  

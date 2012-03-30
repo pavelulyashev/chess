@@ -1,0 +1,10 @@
+[Event "1 HM {m}"]
+[Site "?"]
+[Date "2005.03.09"]
+[Round "?"]
+[White "Gogberashvili G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/7P/5bPP/n7/8/pkpp4/2N5/2K5 w - - 0 1"]
+
+{Diagram #} 1. Na1+ Ka2 2. h8=Q Bxh8 3. g7 Bxg7 4. hxg7 Kxa1 5. g8=Q a2 6. Ba7({Thematic try} 6. Qd5 $5 Nb3+ 7. Qxb3 d2+ $11) 6... Nb3+ 7. Qxb3 d2+ 8. Kc2d1=Q+ 9. Kxd1 c2+ 10. Ke2 (10. Kd2 $5 c1=Q+ 11. Kxc1) 10... c1=N+ 11. Kd2 (11.Kd1) 11... Nxb3+ 12. Kc2 Nc5 13. Bb6 $1 {wins. "The finale holds interest, diminished by the introduction."} 1-0

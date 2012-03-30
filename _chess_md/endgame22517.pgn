@@ -1,0 +1,10 @@
+[Event "ts98#1446 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3N4/8/3kpp2/8/2P2P2/p7/8/6K1 w - - 0 1"]
+
+ 1. Nb7+ Kc6 2. Na5+ Kc5 3. Nb3+ (3. Kf2 $2 a2 4. Nb3+ Kxc4 5. Na1 Kc3 6. Ke2 Kb2 7. Kd2 Kxa1 8. Kc2 e5) (3. f5 $2 a2 4. Nb3+ Kxc4 5. Na1 exf5 6. Kf2 Kc3) 3... Kxc4 4. Nc1 (4. Nd2+ $2 Kb4) 4... Kc3 5. Kf2 Kc2 (5... Kd2 6. Na2 e5 7. fxe5 fxe5 8. Kf3) 6. Na2 (6. f5 $2 e5 (6... exf5 $2 7. Na2) 7. Na2 Kb2 8. Nb4 a2 9. Nxa2 Kxa2 10. Ke3 Kb3 11. Ke4 Kc4) 6... Kb2 7. Nb4 (7. f5 $2 e5 (7... exf5 $2 8. Nb4)) 7... Kb3 8. Nd3 Kc3 (8... a2 9. Nc1+ Kb2 10. Nxa2 Kxa2 11. Ke3 ) 9. Nc1 Kc2 10. Na2 Kb1 11. Nb4 (11. Nc3+ $2 Kb2 12. Nd1+ (12. Na4+ Kc2 13. f5 a2) 12... Kb3 13. f5 a2) (11. f5 $2 e5 12. Nc3+ Kb2) 11... a2 12. Nxa2 Kxa2 13. Ke3 (13. Ke2 $2 Kb3) (13. f5 $2 e5 14. Ke3 Kb3) 13... Kb3 14. Kd4 (14. Ke4 $2 Kc4) (14. f5 $2 e5 15. Ke4 Kc4) 14... Kb4 (14... Kc2 15. f5) 15. f5 e5+ (15... exf5 {main} 16. Ke3 (16. Kd5 $2 Kc3) 16... Kc4 17. Kf4 Kd5 18. Kxf5) 16. Kd5 ( 16. Kd3 $2 Kc5) 16... Kc3 17. Ke6 e4 18. Kxf6 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tv21 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "Rr4Q1/8/8/8/8/8/B7/K1kq4 w - - 0 1"]
+
+ 1. Qd5 Qg1 (1... Rb1+ 2. Bxb1 Qxd5 3. Rc8+ Kd2 (3... Kd1 4. Rc2 Qb3 5. Ba2 Qxc2 6. Bb3 Qxb3) 4. Rc2+ Kd1 5. Kb2) 2. Qh1 $1 2... Qxh1 3. Rxb8 Kd2+ 4. Bb1 $1 4... Qd5 $1 5. Rb2+ Kc1 (5... Kd1 6. Rc2 $1 6... Qb3 $1 7. Ba2 $1 7... Qxc2 8. Bb3 Qxb3) 6. Rc2+ Kd1 7. Kb2 $1 7... Qb5+ 8. Ka1 Qb3 9. Ba2 $1 9... Qxc2 (9... Qa3 10. Rc4) 10. Bb3 Qxb3 1/2-1/2  

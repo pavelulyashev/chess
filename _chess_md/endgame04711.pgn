@@ -1,0 +1,10 @@
+[Event "te03 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r3k3/1n1R1p2/8/1n6/8/5K2/5p1Q/1b1B4 w q - 0 1"]
+
+ 1. Be2 Be4+ (1... Kxd7 2. Bxb5+ Ke6 3. Qxf2 Ra3+ 4. Kf4) 2. Kxe4 (2. Kxf2 $2 2... Kxd7 3. Bxb5+ Bc6) 2... Nc3+ (2... N7d6+ 3. Rxd6 Nxd6+) (2... Nc5+ 3. Kd5 Nxd7 4. Bxb5) 3. Kd3 Nxe2 4. Rxb7 (4. Rc7 $2 4... Rd8+ 5. Kxe2 (5. Kc2 Rd2+ 6. Kb3 Rd3+ 7. Kb4 Rd4+ 8. Kb5 Nc3+ 9. Kb6 Nd5+ 10. Kxb7 Nxc7) 5... Rd2+ 6. Kf1 Rd1+) 4... O-O-O+ 5. Kxe2 (5. Kc4 $2 5... Kxb7 6. Qxf2 Nd4) 5... Rd2+ 6. Kxd2 ( 6. Kf1 $2 6... Rd1+ 7. Kxf2 Rd2+ 8. Kg3 Rxh2) (6. Ke3 $2 6... f1=N+) 6... f1=N+ 7. Kd3 (7. Ke2 $2 7... Nxh2 8. Rb4 f5 9. Rf4 Ng4 10. Rxf5 Nh6 11. Rf6 Ng4) 7... Nxh2 8. Rxf7 Ng4 9. Ke4 Kd8 (9... Nh6 10. Rg7) 10. Rf4 Nh6 11. Rf6 Ng4 12. Rg6 Nf2+ 13. Kf3 Nd3 14. Rd6+ 1-0  

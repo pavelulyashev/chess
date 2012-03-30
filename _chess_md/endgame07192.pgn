@@ -1,0 +1,10 @@
+[Event "bo01 {1763} {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Lolli G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3Q4/kr6/2K5/8/8/8/8/8 w - - 0 1"]
+
+ 1. Qd4+ Ka8 2. Qh8+ Ka7 3. Qd8 Ka6 (3... Rb4 4. Qa5+) (3... Rb3 4. Qd4+ Kb8 5. Qf4+ Ka8 6. Qa4+) (3... Rb1 4. Qd4+ Ka8 5. Qh8+ Ka7 6. Qh7+) (3... Rf7 4. Qd4+ Ka8 5. Qa1+ Kb8 6. Qb2+ Ka8 7. Qa2+ Ra7 8. Qg8# {#}) (3... Rh7 4. Qd4+ Kb8 ( 4... Ka8 5. Qa1+ Kb8 6. Qb1+) 5. Qb4+ Ka7 6. Qa4+ Kb8 7. Qb3+ Ka7 8. Qa2+ Kb8 9. Qb1+) 4. Qa8+ Ra7 5. Qb8 1-0  

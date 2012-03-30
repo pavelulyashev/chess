@@ -1,0 +1,10 @@
+[Event "2/5 Prize Kralin-55 JT {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Mansarliisky N, Tkachenko S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1PP1P1k1/3NK3/2b5/b7/8/8/5q2 w - - 0 1"]
+
+ 1. e8=N+ $1 (1. e8=Q $2 Qf6+ 2. Kd5 Qxd6+) 1... Bxe8 2. Nxe8+ Kg6 $1 3. Kd5 $1 (3. Kd7 $2 Qb5+ $1 (3... Qf7+ $2 4. Kc6 Qf3+ 5. Kb5 $1) 4. Kd8 Qxb7 5. c8=Q Qe7#) (3. c8=Q $2 Qf5#) 3... Qf3+ 4. Kc4 $1 (4. Kxc5 $2 Qxb7 5. Kd6 Kf7 6. Kd7 Qb5+) 4... Qe4+ $1 5. Kb5 $1 Qb4+ 6. Kc6 Qb6+ 7. Kd5 Qb3+ 8. Kc6 $1 Qf3+ 9. Kb5 Qxb7+ 10. Kxc5 Kg5 (10... Kf7 11. Nd6+) (10... Qc8 11. Kb6 Qxe8 12. Kb7) 11. Kd6 $1 Kg6 12. Kd7 1/2-1/2  

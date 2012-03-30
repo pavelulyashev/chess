@@ -1,0 +1,10 @@
+[Event "tc06#46 {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2n1k2b/7p/1PKP3P/4r2n/8/8/4P3/6B1 w - - 0 1"]
+
+ 1. d7+ $1 (1. b7 $2 Ne7+ 2. Kb6 (2. dxe7 Re6+ 3. Kd5 Nf4+ 4. Kc4 Be5) (2. Kc7 Nd5+ 3. Kc8 Kf7 4. b8=Q (4. d7 Ne7+ 5. Kc7 Rb5 $1 (5... Rd5 $2 6. Bh2 Bc3 7. d8=N+) 6. Bh2 Bc3 7. d8=N+ Ke8 8. Nc6 Nd5+ 9. Kc8 Nb6+ 10. Kc7 Nd7 11. b8=Q+ Nxb8 12. Nxb8 Rb2) 4... Re8+ 5. Kb7 Rxb8+ 6. Kxb8 Ke6) 2... Nd5+ 3. Ka7 (3. Kc6 Nb4+ 4. Kb6 Bf6 $1 5. b8=Q+ Bd8+) 3... Re7 4. dxe7 Be5 5. b8=Q+ Bxb8+ 6. Kxb8 Kxe7) 1... Kd8 2. dxc8=Q+ (2. b7 $2 Ne7+ 3. Kb6 (3. Kd6 Rd5+ 4. Ke6 Nf4+) 3... Re6+) 2... Kxc8 3. b7+ Kb8 4. Bh2 Ka7 5. Bg1+ Kb8 (5... Re3 6. Bxe3+ Kb8 7. Kb6 Be5 8. Ka6 Kc7 9. Ka7 Kd7 10. b8=Q Bxb8+ 11. Kxb8) 6. Bh2 Bf6 7. e4 $1 (7. e3 $2 Ka7 8. Bxe5 Bxe5 9. Kd5 Bc3 10. e4 Kxb7 11. Ke6 Nf6 12. e5 Ng4 13. Kf7 Bxe5) (7. Kb6 $2 Bd8+ 8. Kc6 Bc7) 7... Bh8 8. Kb6 Bf6 9. Kc6 Ng7 10. hxg7 Bxg7 11. Bxe5+ Bxe5 12. Kd5 Bc3 13. e5 Kxb7 14. e6 Bf6 15. e7 Bxe7 16. Ke4 1/2-1/2  

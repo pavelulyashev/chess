@@ -1,0 +1,10 @@
+[Event "4 Prize ts70#1351 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/P2k4/1P6/b7/2n5/n7/8/8 w - - 0 1"]
+
+ 1. b7 Nb6+ 2. Kb8 Nb5 (2... Bd2 {main} 3. a8=N $1 (3. a8=B $2 Nd5 4. Ka7 Be3+ 5. Ka6 Nc7+ 6. Ka5 Ba7) 3... Nd5 4. Nb6+ (4. Ka7 $2 Be3+ 5. Ka6 Bf4 6. Ka7 Nb5+ 7. Ka6 Nd4 8. Ka7 Nc6+) 4... Nxb6 5. Ka7 Nc8+ 6. Ka8 Nb6+ 7. Ka7) 3. a8=B $1 ( 3. a8=Q $2 Bd2) 3... Nd4 4. Ka7 Nc6+ 5. Ka6 Nc4 6. b8=Q Nxb8+ 7. Kb5 1/2-1/2  

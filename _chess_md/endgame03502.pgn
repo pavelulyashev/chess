@@ -1,0 +1,10 @@
+[Event "4th HM, Nona 2007, main {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Mikitovics J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/Pn6/8/8/7K/1p6/p4p1p/RB6 w - - 0 1"]
+
+1. Bxa2 $1 bxa2 2. Kg3 $1 Nc5 3. Kxf2 Nb3 4. Re1 $1 (4. Rh1 $2 {/Rd1} Nd2 5.Ra1 h1=Q 6. Rxh1 Nb1 $19) 4... Nd2 5. Kg2 $1 Nb1 ({main} 5... h1=Q+ 6. Kxh1 $1Nb1 7. Re8+ Kxa7 8. Re7+ Kb6 9. Re6+ Kb5 10. Re5+ Kb4 11. Re4+ Kb3 12. Re3+ Kc213. Re2+ Nd2 14. Re1 $11) 6. Re8+ Kxa7 7. Re7+ Kb6 8. Re6+ Kb5 9. Re5+ Kb4 10.Re4+ Kb3 11. Re3+ Kc2 12. Re2+ Nd2 13. Re1 Kb2 14. Kh1 $1 Nb1 15. Re2+ Kc1 16.Rxa2 {draws.} 1/2-1/2

@@ -1,0 +1,10 @@
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3p2P1/1P6/7r/2bP4/4k3/2K5/8 w - - 0 1"]
+
+ 1. d5 $1 {Nowotny} Rxd5 ({but} 1... Bd3+ $1 2. Kb3 Rg5 3. b7 Rg1 4. Ka2 Bb1+ 5. Kb3 Be4 $19) (1... Bxd5 2. b7) 2. g8=Q Rd2+ 3. Kc1 Bxg8 4. b7 Rd3 5. b8=Q Rc3+ 6. Kb2 Rb3+ 7. Ka1 Rxb8 {stalemate} 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "wf07 ts23 @2 {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6N1/8/8/pN6/p5p1/1p4p1/p7/kb2B2K w - - 0 1"]
+
+ 1. Bc3+ b2 2. Na3 Be4+ 3. Kg1 Bh1 4. Nf6 g2 5. Ne4 g3 6. Nc4 a3 (6... Kb1 7. Ned2+ Kc2 8. Bxb2) 7. Ncd2 (7. Bg7 $1 {cook} a4 (7... Kb1 8. Nxa3+ Kc1 9. Bh6+ Kd1 10. Nc3+ Ke1 11. Nc2#) 8. Bf6 Kb1 9. Nxa3+ Ka1 10. Nc3 b1=Q+ 11. Nd1+ Qb2 12. Bxb2#) 7... a4 8. Nf2 gxf2+ 9. Kxf2 g1=Q+ 10. Kxg1 Ba8 11. Kf2 Bh1 12. Ke3 Ba8 13. Kd4 Bh1 14. Kc4 Ba8 15. Kb4 Bc6 16. Kxa3 1-0  

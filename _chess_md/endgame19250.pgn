@@ -1,0 +1,10 @@
+[Event "ts64 {m}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3R4/3R4/8/1K6/3p4/2k5/2p4r/8 w - - 0 1"]
+
+ 1. Rc7+ $1 (1. Rc8+ $2 Kb2 2. Rxd4 Rh3 $1 3. Rdc4 Rb3+ $1 4. Ka6 Ra3+ 5. Kb7 Rb3+) 1... Kb2 (1... Kd3 2. Kb4 Ke3 3. Re7+ Kd3 (3... Kf2 4. Rf8+ Kg1 5. Re1+) 4. Rc8) 2. Rxd4 $1 Rh3 $1 (2... Rg2 3. Rb4+ Kc1 $1 4. Ka4 Kd1 5. Rbc4) 3. Rdc4 $1 Rb3+ 4. Ka6 Ra3+ 5. Kb7 Rb3+ 6. Kc8 $1 1-0  

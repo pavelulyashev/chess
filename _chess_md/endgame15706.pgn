@@ -1,0 +1,10 @@
+[Event "us46#2019 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Heiskanen R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/1P3p1p/3PkN1P/B4p1P/n2K1P2/8/4r3 w - - 0 1"]
+
+ 1. d6 Kxf5 2. d7 Re3+ 3. Kd4 (3. Kd2 $2 Nc4+) 3... Re2 (3... Re6 {main} 4. d8=Q Rd6+ 5. Qxd6 Nb5+ 6. Kd5 (6. Bxb5 $2) 6... Nxd6 7. Bd7#) 4. Bc2+ $1 Rxc2 (4... Nxc2+ 5. Kc3 Re3+ 6. Kxc2) 5. Kd3 Rc1 6. Ke2 (6. Kd2 $2 Rc6 7. d8=Q Rd6+ 8. Qxd6 Nc4+) 6... Rc2+ 7. Kd1 1-0  

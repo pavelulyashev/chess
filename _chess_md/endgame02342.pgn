@@ -1,0 +1,10 @@
+[Event "EBUR {ARVES} {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Van de Gevel E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3B2kN/3P1rb1/5P2/1p6/8/2R3p1/P1Pp4/K7 w - - 0 1"]
+
+ 1. Rd3 g2 (1... Rxf6 2. Bxf6 Bxf6+ 3. Kb1 g2 4. d8=Q+ Bxd8 5. Rxd8+ Kg7 6. Rxd2 g1=Q+ 7. Kb2) 2. Bb6 Bxf6+ 3. Kb1 (3. c3 Rxd7 4. Rxd7 Bd4 $1 {Nowotny} 5. Rd8+ Kh7 6. Rd7+ Kh6 7. Rd6+ Kg5 8. Rd5+ Kf6 9. Bxd4+ Ke6 10. Bg1 Kxd5 11. c4+ bxc4) 3... Rxd7 4. Rxd7 Bd4 $1 {Nowotny} 5. Rd8+ Kh7 6. Rd7+ Kh6 7. Rd6+ Kg5 8. Rd5+ Kf6 9. Bxd4+ Ke6 10. Bg1 (10. Re5+ $1) 10... Kxd5 11. c4+ bxc4 12. Kc2 1/2-1/2  

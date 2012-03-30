@@ -1,0 +1,10 @@
+[Event "1 Prize tt27 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/pR6/2pP1k2/8/6Kb/4p1P1/5p2/8 w - - 0 1"]
+
+ 1. d7 Ke7 (1... f1=Q $144 2. d8=Q+ $18) 2. Rb8 $1 Bxg3 (2... f1=Q $144 3. d8=Q+ Kxd8 4. Ba6+ Kc7 5. Bxf1 Kxb8 6. gxh4 $18) 3. Ra8 $1 (3. Kxg3 $143 f1=Q 4. d8=Q+ Kxd8 5. Ba6+ Kc7 6. Rb7+ Kc8 7. Rb6+ Kc7 8. Rb7+ Kc8 9. Rxa7+ Kb8 10. Rb7+ Ka8 11. Bxf1 Kxb7 $11) 3... f1=Q 4. d8=Q+ Kxd8 5. Ba6+ Bb8 $3 6. Bxf1 Kc7 7. Ba6 e2 $1 8. Bxe2 Kb7 9. Bf3 Kxa8 10. Bxc6# 1-0  

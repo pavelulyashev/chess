@@ -1,0 +1,10 @@
+[Event "Unknown {m}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/1p5p/1p6/8/8/1B6/1p6/b1k3B1 w - - 0 1"]
+
+ 1. Be3+ Kb1 2. Bh6 $1 {Indian} b5 3. Ke7 b4 4. Kf6 b5 5. Kg5 $1 Kc1 6. Kf5+ Kb1 7. Kf4 Kc1 8. Ke4+ Kb1 9. Ke3 Kc1 10. Ke2+ Kb1 11. Bd2 h5 12. Kd1 h4 13. Bxb4 h3 14. Bd5 h2 15. Kd2 h1=Q 16. Bxh1 Ka2 17. Bd5+ Kb1 18. Ba3 ({dual} 18. Kd3 $1 Kc1 19. Bd2+ Kb1 20. Bb3 b4 21. Bxb4 Kc1 22. Ba3 Kb1 23. Bf8 Kc1 24. Bh6+ Kb1 25. Ke3 Kc1 26. Ke4+ Kb1 27. Bc4 Kc2 28. Bd3+ Kd1 29. Bb1 $18) 18... b4 19. Bb3 $1 (19. Bxb4 $2 {stalemate}) 19... bxa3 20. Bg8 {zugzwang} a2 21. Bh7# 1-0  

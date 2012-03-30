@@ -1,0 +1,10 @@
+[Event "tl04#143 {v} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1K3p2/7P/1p6/8/PPP5/3kb3 w - - 0 1"]
+
+ 1. h6 Bf2+ 2. Kc6 $1 2... Bd4 (2... f5 3. Kd5 Bh4 4. Ke5 Bg3+ 5. Kxf5 Bf2 6. Ke4 Bh4 7. c4 bxc3 8. bxc3) 3. Kd5 Bxb2 (3... Be5 4. h7) 4. h7 f5 5. c4 bxc3 ( 5... Ke2 6. c5 f4 7. c6 f3 8. c7 f2 9. c8=Q f1=Q 10. Qc4+) 6. h8=Q c2 7. Qxb2 c1=Q 8. Qxc1+ 1-0  

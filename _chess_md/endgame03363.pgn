@@ -1,0 +1,10 @@
+[Event "Comm. (Main section) {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Minski M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4R3/N7/1k4N1/8/K3b3/4p2B/4p3/8 w - - 0 1"]
+
+1. Nc8+ $1 (1. Rxe4 $2 e1=Q 2. Nc8+ Kc5 $1 3. Re5+ Kd4 4. Nce7 e2 5. Nf5+ Kc36. Re3+ Kd2 7. Ne5 Qd1+ 8. Ka3 e1=Q 9. Nf3+ Qxf3 10. Rxf3 Qe5 $11) 1... Kc5 $1(1... Kc7 2. Rxe4 e1=Q 3. Re7+ Kb8 4. Ne5 {win, e.g.} Qa1+ 5. Kb5 Qb2+ 6. Kc5Qa3+ 7. Kd5 Qa5+ 8. Kd6 Qd2+ 9. Ke6 Qc2 10. Na7 Qa2+ 11. Kf6 Qf2+ 12. Kg7 e213. Nac6+ Ka8 14. Bc8) (1... Kc6 2. Re6+ Kc7 3. Rxe4) 2. Re5+ $1 Kd4 3. Rxe4+$1 Kxe4 4. Bg2+ $1 (4. Nd6+ $2 Kf3 $1 5. Ne5+ Kg3 $11) 4... Kd3 (4... Kd4 5.Nh4 e1=N (5... e1=Q 6. Nf3+) 6. Bf1 $1 $18 (6. Nf5+ $2 Ke5 7. Bh3 Kf4 $11)) (4... Kf5 5. Nh4+ Kg4 6. Nf3 $18) 5. Ne5+ (5. Nf4+ $2 Kd2 6. Nxe2 Kxe2 $11) 5...Kd2 6. Nf3+ (6. Nd6 e1=Q 7. Nf3+ Ke2 $1 8. Nxe1 Kxe1 9. Ne4 Ke2 $1 $11) 6...Kd1 7. Nd6 e1=Q (7... e1=N 8. Bh1 $1 e2 9. Ne4 Nd3 10. Nc3+ Kc2 11. Nxe2 $18)8. Ne4 $3 (8. Nxe1 $2 Kxe1 9. Ne4 Ke2 10. Kb4 Kd3 11. Nc5+ Kd2 12. Nb3+ Kd3 13.Nc1+ Kd2 14. Bf3 Kxc1 $11) 8... Qd2 ({main} 8... Qe2 9. Nc3+ $18) ({main} 8...Qf2 9. Nxf2+ $18) ({main} 8... e2 9. Nxe1 $18) 9. Nfxd2 exd2 10. Bf3+ Ke1 ({main} 10... Kc2 11. Nf2 $18) 11. Nc3 $18 1-0

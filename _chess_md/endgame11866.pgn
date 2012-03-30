@@ -1,0 +1,10 @@
+[Event "jg04 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Paoli E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/1p6/2P5/3P2pk/7p/pp2p3/6P1/8 w - - 0 1"]
+
+ 1. c7 $1 (1. g4+ $2 hxg3 2. c7 g2 3. c8=Q g1=Q) 1... a2 (1... b2 {main} 2. c8=Q b1=Q 3. g4+ hxg3 4. Qh3+ Kg6 5. Qh7+) (1... e2 {main} 2. c8=Q e1=Q 3. g4+ hxg3 (3... Kg6 4. Qd7) 4. Qh3+ Kg6 5. Qh7+ Kf6 6. Qf7+ Ke5 7. Qe6+ Kd4 8. Qxe1 Kxd5 9. Qa5+ $1 Kc4 10. Qxa3) 2. c8=Q a1=Q 3. g4+ hxg3 (3... Kg6 4. Qe8+ $1) 4. Qh3+ Kg6 5. Qh7+ Kf6 6. Qg7+ 1-0  

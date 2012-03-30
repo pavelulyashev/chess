@@ -1,0 +1,10 @@
+[Event "ts23#01 @3 {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2r2p2/2N5/2k5/8/3p4/1N1p4/3K4 w - - 0 1"]
+
+ 1. Ne5 Kd4 $1 2. Nf3+ $1 (2. Nexd3 $2 Ke3) 2... Kc3 $1 (2... Ke3 3. Nxd2) 3. Na4+ Kb4 4. Nb6 $1 Kc5 5. Na4+ Kb5 6. Nb2 $1 Rc1+ 7. Kxd2 Rc2+ 8. Kxd3 Rxb2 9. Ng5 $1 Rf2 (9... f6 10. Ne4 $1) (9... f5 10. Ne6 $1) 10. Ne4 $1 Rf3+ 11. Ke2 Rf4 12. Ke3 Rf1 13. Ke2 $1 Rf4 (13... Rg1 $1 {cook} 14. Nd6+ Kc5 15. Nxf7 Rg6 16. Kd3 Kd5 17. Ke3 Re6+ 18. Kd3 Rf6 19. Ng5 Rf5 20. Nh7 Kd6 21. Kd4 Ke7 $1 22. Ke4 Ke6 23. Kd4 Kf7 24. Ke4 Kg6) 14. Ke3 1/2-1/2  

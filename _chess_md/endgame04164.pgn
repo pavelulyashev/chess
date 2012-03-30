@@ -1,0 +1,10 @@
+[Event "ts69#323 @2 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2r5/8/3P4/1K2B3/8/k7/b6R w - - 0 1"]
+
+ 1. Bb1+ (1. d6 $2 1... Bc3+ 2. Kb5 Rg7) 1... Kb2 2. d6 2... Rc1 $3 (2... Rb7+ 3. Kc5 Kb3 4. Be4 $1 4... Ra7 $1 5. Rxa1 Rxa1 6. d7) 3. d7 $1 3... Rxh1 $1 ( 3... Rd1 4. Bf5 $1 (4. Rxd1 $2)) 4. d8=Q 4... Rd1 $1 (4... Rxb1 5. Qd2#) (4... Kxb1 5. Qd3+) 5. Qh4 $1 (5. Qxd1 $2) (5. Bd3 $1) (5. Qg5 $2 5... Rd4+) (5. Qf6+ $2 5... Kxb1 6. Qf5+ Kb2 7. Qe5+ Kc2 8. Qe2+ Rd2 9. Qe4+ Kb2 10. Qe5+ Ka2 11. Qe6+ Kb2) 5... Rxb1 (5... Kxb1 6. Qe4+ Kc1 7. Kb3 Kd2 8. Qg2+) 6. Qc4 $1 6... Rd1 (6... Rc1 7. Qb3#) 7. Qe2+ Kc1 8. Kb3 Rd2 9. Qc4+ Kd1 10. Qf1# 1-0  

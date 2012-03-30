@@ -1,0 +1,10 @@
+[Event "t001 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1p6/8/8/7K/5k2/1P6/8 w - - 0 1"]
+
+ 1. Kg5 Ke4 2. Kf6 Kd5 3. Ke7 Kc6 (3... b5 4. Kd7 b4 5. Kc7 Kc5 6. Kb7 b3 7. Ka6 Kb4 8. Kb6 Kc4 9. Ka5) 4. Ke6 $1 (4. Kd8 $2 b5 5. Kc8 b4) 4... b6 5. Ke5 Kc5 6. Ke4 Kc4 7. Ke3 b5 8. Kd2 Kb3 9. Kc1 Ka2 10. b4 $1 1/2-1/2  

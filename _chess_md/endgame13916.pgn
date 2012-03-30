@@ -1,0 +1,10 @@
+[Event "wb15 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/1p6/1p6/pb6/PP5P/8/3k2P1/8 w - - 0 1"]
+
+ 1. bxa5 (1. axb5 $2 a4) (1. h5 $2 Bxa4) (1. Kc7 $2 axb4) 1... bxa5 (1... Bxa4 2. axb6) 2. Kc7 (2. h5 $2 Bxa4) 2... Bxa4 (2... Bc6 3. Kb6 Bxg2 4. Kxa5) (2... Kc3 3. axb5 Kd4 (3... a4 4. h5) 4. h5 Ke5 5. Kxb7) 3. Kb6 Bc6 (3... Bc2 4. Kxa5 Be4 5. Kb6) 4. Kxa5 Kc3 (4... Ke3 5. g4 (5. h5 $2 Kd4) (5. Kb6 $2 Kf4 6. g3+ Kg4 7. Kc5 Bf3 8. Kb6 Be4 9. Kc5 Kxg3 10. h5 (10. Kd4 Bf3) 10... Kg4 11. h6 Kg5 ) 5... Kf4 6. g5 Be4 (6... Kf5 7. Kb6 Kg6 8. Kc5 Kh5 9. Kd4 (9. Kb6 $2 Be4) 9... Be8 10. Kc5 Bg6 (10... Kxh4 11. Kb6 Bc6 12. g6) (10... b5 11. Kb4) 11. Kb5 $1 (11. Kb6 $2 Be4) 11... Bc2 12. Kc5 (12. Ka5 $2 Bd3 13. Kb6 Be4) 12... Bd3 13. Kd4 Bc2 14. Kc5) 7. Kb6 (7. Kb5 $2 Kg4 8. Kb6 Kh5) 7... Kf5 8. Kc5 (8. Kb5 $2 Kg4) 8... Kg4 9. Kd4 Bb1 10. Kc5 Kh5 11. Kb5 $1 (11. Kb6 $2 Be4) 11... Bc2 12. Kc5 (12. Ka5 $2 Bd3 13. Kb6 Be4) (12. Kb6 $2 Be4) 12... Bd3 13. Kd4 Bb1 14. Kc5) (4... Bxg2 5. Kb6) 5. Kb6 (5. g4 $2 b5) (5. h5 $2 Kd4 $1 6. Kb6 (6. h6 $2 Kc5 7. h7 Bb5 8. h8=Q b6#) 6... Ke5 7. h6 (7. g4 Kf6 8. Kc5 (8. h6 Kg6) 8... Kg5 9. Kb6 Bf3) (7. Kc5 Bxg2) 7... Kf6 8. g4 Kg6 9. g5 Be4 $1 10. Kc5 Kxg5) 5... Kd4 6. g4 Ke5 7. g5 Kf5 8. Kc5 Bf3 9. Kb6 Be4 10. Kc5 Kg4 11. Kd4 $1 (11. Kb6 $2 Kh5) 11... Bb1 12. Kc5 1/2-1/2  

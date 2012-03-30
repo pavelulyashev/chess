@@ -1,0 +1,10 @@
+[Event "tc13 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6N1/8/5Kp1/7N/4pQp1/3r3k w - - 0 1"]
+
+ 1. Qg1+ $1 1... Rxg1 2. Nf2+ Kh2 3. Nxg4+ Kh3 4. Nf2+ Kh2 5. Ne5 $1 5... Rf1 ( 5... e1=N 6. Neg4#) 6. Nf3# 1-0  

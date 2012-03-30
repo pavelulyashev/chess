@@ -1,0 +1,10 @@
+[Event "tl34 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/4pN1q/K1k5/8/8/8/5Q2 w - - 0 1"]
+
+ 1. Qf2+ Kc4 (1... Kc6 2. Qb6#) (1... Kd6 2. Qb6+ Ke7 (2... Ke5 3. Ng4+) 3. Ng8+ ) 2. Qc2+ Kd4 3. Kb4 $1 Qf8+ (3... Qh3 4. Qc5+ Kd3 5. Qc3+) (3... Qe3 4. Qc4+ Ke5 5. Ng4+) 4. Kb3 $1 Ke3 (4... Qc5 5. Qe4#) (4... Ke5 5. Nd7+) 5. Ng4+ Kd4 ( 5... Kf3 6. Qf2+) 6. Qc4# 1-0  

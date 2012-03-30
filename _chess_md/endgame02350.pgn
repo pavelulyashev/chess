@@ -1,0 +1,10 @@
+[Event "Szachista Polski {m}"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Jasik A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/n2PP3/2N5/2K3b1/7k/B4r1P/8 w - - 0 1"]
+
+ 1. e7 Nc7 (1... Re2 2. Nxa6 Bd7 3. Nc5 Be8 4. Bb3 Rd2 5. Ne4 Re2 6. Nf6 Bc6 7. Kc5) (1... Rc2+ 2. Kd4 Rd2+ 3. Nd3 Bd7 4. Be6+) 2. dxc7 Re2 3. Ne6 $1 {Nowotny} Rxe6 (3... Bxe6+ 4. Kd3 ({dual} 4. Kc5) 4... Bg4 5. Be6 $1 {Nowotny} Bxe6 (5... Rxe6 6. c8=Q $18) 6. Kxe2 $18 (6. e8=Q $2 Bc4+ $1 $11)) 4. c8=Q Re4+ 5. Kd5 (5. Kd3) 5... Bxc8 6. Kxe4 Bd7 7. Be6+ $1 1-0  

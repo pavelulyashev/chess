@@ -1,0 +1,10 @@
+[Event "Pravda {m}"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6n1/8/4K2P/k7/8/3N4/3P3p/8 w - - 0 1"]
+
+ {Seems to beOK} 1. h7 h1=Q (1... Nh6 2. Nf2 Ng4 3. Nh1) 2. hxg8=Q Qh6+ (2... Qh3+ 3. Kd6 Qxd3+ (3... Qh6+ 4. Kc5 Qb6+ 5. Kc4 Qa6+ 6. Kd4 Qf6+ 7. Ke4 Qh4+ 8. Nf4 Qe1+ 9. Kd3 Qf1+ 10. Ke3 Qe1+ 11. Ne2) 4. Qd5+) 3. Kd7 (3. Ke5 Qxd2 $11) ( 3. Kd5 Qxd2 $11) 3... Qxd2 4. Qb3 {reciprocal zugzwang, autor gives a lot of lines CD OK.} Qg2 5. Qb4+ Ka6 6. Nc5+ Ka7 7. Qa5+ (7. Qd4 Kb6 8. Qb4+ Ka7 { only loses time}) 7... Kb8 8. Qc7+ {other moves only lose time} Ka8 9. Qe5 { zugzwang, other moves lose time} Qf3 10. Ke7 $3 Qc6 (10... Qh1 11. Kd8 Qc6 12. Qa1+ Kb8 13. Nd7+ Kb7 14. Qb2+ Ka7 15. Qb4 Qh6 16. Qa5+ Qa6 17. Qc5+ Ka8 18. Qd5+ Qb7 19. Qa2+ Qa7 20. Qc4 Qb7 21. Ke7 Ka7 22. Qa4+ Qa6 23. Qd4+ Ka8 24. Qh8+) 11. Qa1+ Kb8 12. Nd7+ Kc8 13. Qh8+ Kb7 14. Qb2+ Ka7 (14... Kc8 15. Qb8#) 15. Qa3+ {other moves lose time only} Kb7 16. Qb4+ (16. Qb3+) (16. Qb2+) 16... Ka7 17. Kd8 {zugzwang} Qg6 18. Qa5+ (18. Qd4+) 18... Qa6 19. Qc5+ $18 1-0  

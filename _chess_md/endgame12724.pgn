@@ -1,0 +1,10 @@
+[Event "tl20#0007 @3 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Leonhardt P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/5p2/8/3P4/p7/5R2/2K4P/r7 w - - 0 1"]
+
+ 1. d6 Kf8 2. d7 Ke7 (2... Ra2+ $1 {cook} 3. Kc3 Ke7 4. Rxf7+ Kd8 5. h4 a3 6. Kb3 Rd2) 3. Rxf7+ Kd8 4. h4 a3 5. h5 Rh1 6. Rh7 Kc7 (6... a2 $1 {cook JU}) 7. Kb3 Kd8 8. h6 Kc7 9. Rh8 Kxd7 10. h7 1-0  

@@ -1,0 +1,10 @@
+[Event "tl20#0540 @2 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4Pp2/5BR1/8/6K1/8/2br1k2 w - - 0 1"]
+
+ 1. e7 Re1 2. Bd3+ Kg1 3. Be2 (3. Be4 $2 Rxe4 4. Kf3+ Bxg5 5. Kxe4 f5+) (3. Rg7 $1 {cook JU} Ba3 (3... Re3+ 4. Kh4+ Kh2 5. Bb5 f5 6. Kh5) 4. Kf3+ Kh2 5. Be4 Bxe7 6. Kf2) 3... Rxe2 4. Kf3+ Kf1 5. Rg1+ Kxg1 6. Kxe2 1-0  

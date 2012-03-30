@@ -1,0 +1,10 @@
+[Event "td23#1667 {m}"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Sackmann F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6q1/6p1/p2k4/2N5/1Q6/8/2K5 w - - 0 1"]
+
+ 1. Ne5+ Kd6 (1... Kxe5 2. Qc3+) 2. Qb6+ Kd5 (2... Kxe5 3. Qb2+) 3. Qc6+ Kd4 ( 3... Kxe5 4. Qc3+) 4. Qc4+ Ke3 (4... Kxe5 5. Qc3+) 5. Qc3+ Ke4 6. Qf3+ Kd4 ( 6... Kxe5 7. Qc3+) 7. Qd3+ Kc5 (7... Kxe5 8. Qc3+) 8. Qc3+ $1 (8. Qc4+ $2 Kb6 $1) 8... Kd5 (8... Kb5 9. Qc6+ Kb4 10. Nd3+ Kb3 11. Qb5+ Ka3 12. Qxa5+ Kb3 13. Qb4+ Ka2 14. Qa4#) 9. Qc4+ Kd6 (9... Kxe5 10. Qc3+) 10. Qc6+ Ke7 (10... Kxe5 11. Qc3+) 11. Qc7+ (11. Qd7+ {or}) 11... Kf6 12. Ng4+ 1-0  

@@ -1,0 +1,10 @@
+[Event "tm05#155 @2 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Somov-Nasimovitch E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/3P3r/7p/4P2p/6kP/8/7P/8 w - - 0 1"]
+
+ 1. e6 Kf5 2. e7 (2. Kg8 $1 {cook}) 2... Kf6 3. e8=N+ $1 Kg6 4. d8=R $1 (4. d8=Q $2 Rf7+ 5. Kg8 Rg7+ 6. Nxg7) 1-0  

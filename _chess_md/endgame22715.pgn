@@ -1,0 +1,10 @@
+[Event "1 Prize, tp58#016 {m}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/pr2P1k1/q2P2p1/P2pP3/8/K1p4P/P1pQ4/2r5 w - - 0 1"]
+
+ 1. Rf7+ $1 (1. Rg8+ $2 Kxg8 2. e8=Q+ Kh7 $1 3. Qxd5 Qxa5+ $1 4. Qxa5 Rf1 $1 ( 4... Rg1 $2 5. Qxc3 Rg3 6. Qxg6+ $1 Kxg6 7. Qxg3+) (4... Rd1 $2 5. Qxc3 Rd3 6. Qxg6+ $1 Kxg6 7. Qxd3+) 5. Qxc3 Rf3) (1. Qxd5 $2 Qxa5+ $1 2. Qxa5 Rd1 3. Qxc3 Rd3 $1 4. Ka4 Rxc3 5. e8=Q Ra3+ $1 6. Kxa3 c1=Q+) 1... Kxf7 2. Qxd5+ Kg7 3. e8=Q Qxa5+ $1 (3... Rb3+ 4. Kxb3 Rb1+ 5. Ka4 $1) 4. Qxa5 Rh1 (4... Rg1 {main} 5. Qxc3 Rg3 6. Qxg6+ $1 Kxg6 7. Qxg3+) (4... Rf1 {main} 5. Qxc3 Rf3 6. Qf8+ $1 Kxf8 7. Qxf3+) 5. Qxc3 Rxh3 $1 6. Qh8+ $1 Kxh8 7. Qxh3+ 1-0  

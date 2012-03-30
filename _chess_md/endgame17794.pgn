@@ -1,0 +1,10 @@
+[Event "2/3 Prize, ts69#379 {c} {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Grzeban G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "N7/p3b3/P3b3/1P6/K1P5/3k4/8/8 w - - 0 1"]
+
+ 1. b6 (1. Nc7 $2 Bxc4) (1. Kb3 $2 Bxc4+) 1... Kxc4 (1... axb6 2. Nxb6) (1... Bd7+ 2. Kb3 $1 Bc6 3. Nc7 Bd8 4. c5 $1 Ke4 5. Kc4) 2. bxa7 Bd7+ 3. Ka5 Bd8+ 4. Nb6+ Kc5 5. a8=N $1 (5. a8=Q $2 Bxb6#) 5... Bc6 6. a7 Bb5 $1 (6... Bxa8 7. Ka6 Bxb6) 7. Nc7 Bxc7 8. a8=N $1 (8. a8=Q $2 Bxb6#) 8... Bd8 9. Nc7 Bxc7 1/2-1/2  

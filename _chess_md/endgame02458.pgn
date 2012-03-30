@@ -1,0 +1,10 @@
+[Event "1 Prize Birnov MT {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Kralin N, Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4BBp1/3P3b/5P2/3k1r2/7K/8 w - - 0 1"]
+
+ 1. d6 Rf2+ $1 (1... Ke3 $144 2. d7 Rf2+ 3. Kg3 Rf3+ 4. Kh4 Rxf4+ 5. Kg5 $18) 2. Kg3 $1 (2. Kh3 $143 Rd2 3. d7 Ke4 4. Kg3 Rd3+ $11) 2... Rf3+ 3. Kg2 (3. Kh4 $143 Rxf4+ 4. Kg5 Ra4 $11) 3... Ke4 $1 (3... Ke3 $144 4. Bd4+ Kxf4 5. d7 Rd3 6. d8=Q Rd2+ 7. Kh3 $18) 4. Bd5+ $1 (4. d7 $143 Rd3 $11) 4... Kxf4 5. d7 (5. Bxf3 $143 Bxf3+ 6. Kf2 Bc6 $11) 5... Rd3 $1 6. Bg5+ $1 (6. d8=Q $143 Rd2+ $11) 6... Kg4 $1 (6... Kxg5 $144 7. d8=Q+ $18) 7. d8=Q Rxd5 $1 8. Qa8 (8. Qe7 $143 Re5 $1 $11) 8... Rxg5 (8... Ra5 $144 9. Qc8+ (9. Qxa5 $143 $11) 9... Kxg5 10. Qd8+ $18 ) 9. Qe4# 1-0  

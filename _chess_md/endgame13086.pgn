@@ -1,0 +1,10 @@
+[Event "tl20#338 @3 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Herschel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6nR/2pk1PK1/1pp5/1P1b1Pp1/1P3P2/8/p7/8 w - - 0 1"]
+
+ 1. fxg8=N a1=Q+ (1... Bxg8 2. Rh1 Bb3 3. fxg5 c5 4. f6 Bc2 5. Ra1 Bb1 6. f7) ( 1... cxb5 2. Nf6+ Kc6 3. Ra8 Kb7 4. Ra3 Bb3 5. fxg5 c5 6. Ne4 cxb4 7. Rxa2 Bxa2 8. f6) (1... Kc8 $1 {cook}) 2. Nf6+ Qxf6+ 3. Kxf6 g4 (3... gxf4 4. Rh4 f3 5. Rf4 Ke8 6. Kg7 c5 7. f6 c4 8. Rxf3) 4. Rh7+ Kd6 5. Rg7 Bf3 6. bxc6 Kxc6 7. b5+ Kxb5 8. Rxc7 g3 9. Rc1 g2 10. Kg7 Bd5 11. Rg1 Kc4 12. f6 b5 13. Rxg2 1-0  

@@ -1,0 +1,10 @@
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Bania R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/B2P2PK/8/b6p/8/2r1P1k1/8 w - - 0 1"]
+
+ 1. g7 Bb3 2. Bb7+ Kh2 3. d7 Rd2 4. Bd5 $1 {Nowotny} Rxd5 (4... Bxd5 5. d8=Q) 5. g8=Q Rd6+ 6. Qg6 $1 1-0  

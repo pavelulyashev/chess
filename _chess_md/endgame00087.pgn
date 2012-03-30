@@ -1,0 +1,10 @@
+[Event "Rigasche Rundschau {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p1p2p1/1pkp4/5P2/2K5/8/2QPP2q/3n4 w - - 0 1"]
+
+ 1. Kb4+ Kd5 (1... Nc3 2. Qxc3+ Kd5 3. d3 $1 Qxe2 4. Qc4+ Ke5 5. d4+ $18) 2. e4+ Kd4 (2... Ke5 3. d4+ $18) 3. Qa2 $1 Kxe4 (3... Ke5 4. d4+ $18) (3... Nc3 4. dxc3+ $18) (3... Ne3 4. dxe3+ $18) 4. d3+ {Albino} 1-0  

@@ -1,0 +1,10 @@
+[Event "tr11#0140 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k1pp4/B7/pK3pp1/8/1p4P1/p6p/Q7 w - - 0 1"]
+
+ 1. Qd4+ (1. Bb7 $2 c6+ 2. Bxc6 dxc6+ 3. Kxc6 b2) (1. Qc1 $2 c6+ 2. Kxa5 h1=Q 3. Qxh1 b2) 1... Kb8 2. Qh8+ Ka7 3. Bb7 $1 Kxb7 (3... c6+ 4. Bxc6 dxc6+ 5. Kxc6) 4. Ka4 (4. Kc4 $2 a4) 1-0  

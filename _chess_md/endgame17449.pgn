@@ -1,0 +1,10 @@
+[Event "1 Prize, ji01 tr11 {c} {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k1B2/1p1p2K1/8/2pP4/3p4/P1R5/4p3/8 w - - 0 1"]
+
+ 1. Rc1 (1. Bxc5 $2 dxc3) 1... d3 2. Kf7 (2. Re1 $2 d2) (2. Bxc5 $2 d2) (2. Kf6 $2 d2 3. Be7+ Ke8 4. Rh1 (4. Rxc5 d6 $1) 4... d6 $1) 2... d2 3. Be7+ (3. Rxc5 $2 e1=Q) 3... Kc7 4. Rxc5+ Kb6 5. Ra5 $1 Kc7 (5... Kxa5 6. Bb4+ Ka4 7. Bxd2 Kxa3 8. Ke7 b5 9. Kxd7) (5... d1=Q 6. Bd8#) 6. Rc5+ Kb8 7. Bd6+ Ka7 8. Ra5+ Kb6 9. Be7 $1 (9. Bc5+ $2 Kc7) 9... Kc7 10. Rc5+ 1/2-1/2  

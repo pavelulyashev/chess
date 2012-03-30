@@ -1,0 +1,10 @@
+[Event "tt22#111 (@2) {m}"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1q2r3/p7/3p4/4P2k/8/5NP1/4R1K1/3R4 w - - 0 1"]
+
+ 1. Rxd6 Qxd6 (1... Qb4 2. Re1 Kg4 (2... Qb2+ 3. Kh3 Rg8 (3... Qb4 4. Rh1) 4. Re4)) (1... Rd8 2. Rf6 Rf8 3. g4+) 2. exd6 Rxe2+ 3. Kh3 Re8 4. d7 Rf8 (4... Rh8 5. Ne5 Kg5+ 6. Kg2 Kf6 7. Nc6) 5. Ne5 a5 6. g4+ Kg5 7. Nf7+ (7. d8=Q+ $1 { minor dual JU}) 7... Kf6 8. d8=Q+ Rxd8 9. Nxd8 a4 10. Nc6 a3 11. Nb4 1-0  

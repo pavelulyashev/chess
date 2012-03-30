@@ -1,0 +1,10 @@
+[Event "64-Shakmatnoe Obozrenie {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Monastirskii I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/pp5P/k2BP3/5P1P/1KPb4/2p4r/2P5/8 w - - 0 1"]
+
+ 1. e7 {with duals} Re3 2. Be5 $1 {Nowotny} ({dual} 2. Bc5 $1 $18) 2... Bxe5 3. e8=N $1 Rh3 4. f6 Rxh5 5. f7 Rf5 6. Nf6 $1 {Nowotny} Rxf6 (6... Bxf6 7. f8=Q $18) 7. h8=Q Rb6+ 8. Ka4 Bxh8 9. f8=Q ({but} 9. f8=Q Rc6 $5 10. Qxh8 Rxc4+) 1-0  

@@ -1,0 +1,10 @@
+[Event "td20 {ph} {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1R2K1b1/1np2Bpk/3p4/nP4P1/8/1r6/8/8 w - - 0 1"]
+
+ 1. Bxg8+ (1. g6+ $2 Kh6 $1 (1... Kh8 $2 2. Bxg8 Re3+ 3. Be6)) (1. Bxb3 $2 Bxb3) 1... Kxg8 2. g6 Nc6 3. bxc6 (3. Rxb7 $2 Ne5 4. Kd8 Rc3 5. Rxc7 Rxc7 6. Kxc7 Nc4 7. Kc6 Na3 8. b6 Nc4) 3... Nc5 (3... Na5 4. Rc8) 4. Ke7+ (4. Rc8 $2 Re3+ 5. Kd8 Kf8) 4... Rxb8 1/2-1/2   

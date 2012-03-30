@@ -1,0 +1,10 @@
+[Event "ts15 @2 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2P5/5N2/1K6/1P1r4/1k6/8/8 w - - 0 1"]
+
+ 1. Nd5 $1 (1. c8=Q $2 Rxb4+ 2. Ka6 Ra4+) 1... Rxd5+ 2. Kc6 Rd1 3. b5 Rc1+ 4. Kd7 (4. Kb7 $2 Kb4 5. b6 Ka5) (4. Kd6 $1 {cook JU} Rd1+ 5. Ke5 Re1+ 6. Kd4 Rd1+ 7. Ke3 Rc1 8. b6) 1-0  

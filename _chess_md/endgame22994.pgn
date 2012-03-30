@@ -1,0 +1,10 @@
+[Event "comm. EG 2008-2009 {m}"]
+[Site "?"]
+[Date "2009.08.31"]
+[Round "?"]
+[White "Akobia I, Gurgenidze D, Gogberashvili M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1P1r4/KB6/1p6/p1b5/4RR2/k3n3 w - - 0 1"]
+
+ 1. b7 (1. Ra2+ $5 Kb1 2. b7 b3+ 3. Ka4 bxa2 4. b8=Q Rd4+ 5. Bc4+ Kc1 6. Rxa2 Rxc4+ $11) 1... b3+ 2. Ka4 b2 3. b8=Q Rd4+ 4. Bc4 $1 Rxc4+ 5. Kxa3 Bb4+ 6. Qxb4 $3 (6. Kb3 $5 b1=Q+ 7. Kxc4 Qc1+ 8. Kxb4 Nd3+ 9. Kb3 Nc5+ 10. Kb4 Na6+ 11. Kb3 Nc5+ {positional draw} (11... Nxb8 $5 12. Ra2+ $18)) 6... Rxb4 ({main} 6... Nc2+ 7. Rxc2 Rxb4 8. Kxb4 b1=Q+ 9. Kc4 $1 $18 (9. Ka3 $5 Qb2+ 10. Rxb2 { stalemate}) (9. Kc5 $5 Qg1 10. Ra2+ Kb1 $11) (9. Ka4 $5 Qd1 $11) (9. Ka5 $5 Qe1+ $11)) 7. Rxe1+ (7. Rxb2 $2 Rxb2 8. Rxb2 Nd3 $11) 7... b1=N+ $1 (7... b1=Q 8. Ra2#) 8. Rxb1+ (8. Kxb4 $2 {stalemate}) 8... Rxb1 9. Ra2# 1-0  

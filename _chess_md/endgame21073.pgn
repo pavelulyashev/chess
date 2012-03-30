@@ -1,0 +1,10 @@
+[Event "comm. NONA 2010 {m}"]
+[Site "?"]
+[Date "2010.07.23"]
+[Round "?"]
+[White "Gonzales L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2r1n3/4K1RP/7N/4p3/8/3kP3/8 w - - 0 1"]
+
+ 1. Rg2 $1 (1. Rg7 $2 Rc6+ 2. Kxe7 Rxh6 3. Ng3 e3 4. Nf5 Rh2 5. Nd4 Rxe2 6. Nxe2 Kxe2 $11) (1. Rg4 $2 Rc6+ 2. Kxe7 Rxh6 3. Ng3 e3 4. Ra4 Ke1 5. Ra2 Rh3 6. Nf5 Rh2 7. Nd4 Rh6 8. Nf3+ Kd1 $11 { positional draw as White King is cut in the 6th rank}) 1... Rc6+ $1 (1... Nc6 2. Nf6 Nd8+ 3. Kf5 Nf7 4. h7 $18) 2. Kxe7 Rxh6 3. Ng3 (3. Ng7 $2 e3 4. Nf5 Rb6 5. Ng3 Ke1 6. Rh2 Ra6 $11 {positional draw}) 3... e3 (3... Ke1 4. e3 Ra6 5. Nf5 $18) 4. Nf1+ $1 (4. Nf5 $2 Rb6 5. Nd6 Ke1 6. Nc4 Ra6 7. Ne5 Ra2 8. Nd3+ Kf1 9. Nf4 Ra4 10. Rg4 Rxf4 11. Rxf4+ Kxe2 $11) 4... Ke1 5. Nxe3 (5. Nh2 $2 Rb6 6. Nf3+ Kf1 7. Rh2 Re6+ 8. Kxe6 {stalemate}) 5... Rh4 $1 6. Ng4 Kf1 7. Rf2+ Ke1 8. e3 $1 Rxg4 9. Rf4 $1 (9. Rf6 $2 Ke2 10. Re6 Kf3 11. Kd6 Re4 $11) 9... Rg3 10. e4 $18 1-0  

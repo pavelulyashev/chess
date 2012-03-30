@@ -1,0 +1,10 @@
+[Event "EBUR {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Akobia Y, Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2RN4/5r2/k1p5/2p5/1P5R/8/2pPb3/1nK5 b - - 0 1"]
+
+ 1... Rf1+ 2. Kxc2 Na3+ $1 (2... c4 3. Ne6 Bd3+ 4. Kb2 Nxd2 5. Nc5+ Kb6 6. Rh6 Rb1+ 7. Ka2 Rxb4 8. Rhxc6+ Ka5 9. Ra6+) 3. Kb3 $1 (3. Kc3 $2 Rf3+ $1 4. d3 (4. Kb2 Nc4+ (4... cxb4 $2 5. Rxb4 Nc4+ 6. Kc1 Nb6 7. Rb8 Bb5 8. Nxc6) 5. Rxc4 Bxc4 6. bxc5 Bd5 $1 (6... Kb5 $2 7. Nxc6) 7. Nxc6 Bxc6 8. Rxc6+ Kb5 9. Rc8 Rd3 10. Kc2 Rd5 11. c6 Kb6 12. Kc3 Rd6 13. d3 Kc5 14. c7 Rc6) 4... Rxd3+ 5. Kb2 cxb4 6. Nxc6 (6. Rxb4 Nc4+ 7. Rxc4 Rxd8 8. R8xc6+ Kb5) 6... Kb7 7. Ne7 Rd2+ 8. Kb3 Nc2 9. Rch8 Bd1) (3. Kb2 $2 Nc4+ 4. Ka2 (4. Rxc4 Bxc4) 4... Rf6 5. Ra8+ (5. bxc5 Kb5 6. Rb8+ Kxc5 7. Nb7+ Kb6 8. d4 Ka7 9. Re8 Rf2 10. Re7 Kb6 11. Nc5 Nd6 12. Rh8 Ka5 13. Kb3 Bc4+ 14. Kc3 Rf3+) 5... Kb5 6. Rb8+ Nb6 7. bxc5 Kxc5 8. d4+ Kb5 9. Rh1 Bd3 10. Rd1 Bc4+ 11. Ka1 Ka6 12. Rc1 Bb5 13. Ka2 Ka7 14. Rb7+ Ka6 15. Rc7 Nc4 16. Re1 Ka5 17. Rf7 Rxf7 18. Nxf7 c5 19. dxc5 Kb4) 3... Rf3+ 4. d3 $1 { Nowotny} (4. Ka2 $2 Bc4+ $1 5. Rxc4 Nxc4 6. bxc5 Rd3) (4. Kb2 $2 Nc4+ 5. Rxc4 Bxc4 6. bxc5 Bd5 7. Nxc6 Bxc6 8. Rxc6+ Kb5 9. Rc8 Kc4) 4... Rxd3+ (4... Bxd3 5. Ra8+ Kb5 6. Rb8+ Ka6 7. Kxa3) 5. Ka2 $1 (5. Kb2 $2 cxb4 6. Rxb4 (6. Nxc6 Kb7 7. Ne7 Rd2+ 8. Kb3 Nc2 9. Rch8 Bd1 10. R4h7 Rd7) 6... Nc4+ 7. Rxc4 Rxd8 8. Rxd8 Bxc4) 5... Nc4 (5... c4 6. Ra8+ Kb5 (6... Kb6 7. Rb8+ Kc7 8. Rb7+ Kc8 9. Rhh7 Nb5 10. Nxc6 Rd2+ 11. Ka1 Rd1+ 12. Kb2 Rd2+ 13. Kc1 Rd1+ 14. Kc2) 7. Rh6 Rxd8 ( 7... Bf3 8. Rxa3 c3 9. Ra8 Bd5+ 10. Ka3 c2+ 11. Kb2) 8. Rxd8 Kxb4 9. Rb8+ Nb5 10. Rxc6 Bd3 11. Kb2 Be4 12. Rcb6 c3+ 13. Kc1 Bd3 14. Rf6 Kb3 15. Rf4 Bc4 16. Ra8 Nd6 17. Ra1 c2 18. Ra8) 6. Rxc6+ Kb5 7. Rxc5+ Ka4 8. Rhxc4 Ra3+ 9. Kb2 Rb3+ 10. Kc2 Bd3+ 11. Kd2 Bxc4 12. Ra5+ Kxb4 13. Nc6# 1-0  

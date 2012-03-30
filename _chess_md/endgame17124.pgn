@@ -1,0 +1,10 @@
+[Event "t001#183 {m} {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Somov-Nasimovitch E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7b/3b1Pq1/6B1/2R1P3/8/8/1PP5/K4k2 w - - 0 1"]
+
+ 1. Rc7 (1. Rd5 $2 Be6 2. Rd8 (2. Rd6 Bxf7 3. Rf6+ Qxf6 4. exf6 Bxg6) 2... Bxf7 3. Bxf7 Qxe5 $1 4. Bc4+ Ke1 5. c3 Qa5+) 1... Be6 $1 (1... Qf8 2. Rxd7 Bxe5 3. Rd1+ Ke2 (3... Kf2 4. c3 Qg7 5. Bd3) 4. Bh5+ Ke3 5. c3 Qh6 6. Bg6 Ke2 7. Bc2) ( 1... Qh6 2. Rxd7 Bg7 3. Bd3+ Ke1 (3... Kg1 4. c3 Bxe5 5. Bc4 Qc1+ 6. Ka2 Bxc3 7. bxc3 Qc2+ 8. Ka3 Qxc3+ 9. Bb3) 4. c3 Kd2 5. Bb5+ Ke1 6. Bc4) 2. Re7 (2. c3 $2 Qh6 3. Bb1 Bxe5 4. Re7 Bg7) 2... Qxe5 $1 (2... Bd5 3. Re8 Bxf7 4. Bxf7 Qxf7 5. Rxh8) 3. f8=Q+ Kg1 4. c3 Qe1+ 5. Bb1 Qxc3 $1 6. Rg7+ Bxg7 7. Qf1+ $1 Kxf1 8. Bd3+ $1 Ke1 (8... Qxd3) 9. bxc3 Kd2 $1 10. Bc2 $1 Kc1 (10... Kxc2) 11. Bb3 $1 Bxb3 1/2-1/2  

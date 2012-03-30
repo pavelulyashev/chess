@@ -1,0 +1,10 @@
+[Event "Magyar Sakkelet {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Balazs J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7p/8/8/4Np2/1p2pP2/1p3Rp1/bK1k2rb w - - 0 1"]
+
+ 1. Nc3+ Ke1 2. Re2+ Kf1 3. Nd1 $1 h5 (3... h6 4. Nc3 h5 5. Nd1 h4 6. Nc3 h3 7. Nd1 h2 8. Nc3 {stalemate}) 4. Nc3 h4 5. Nd1 h3 6. Nc3 h2 {virtual stalemate} 7. Nd1 $1 Kxe2 {stalemate with pinned N} 1/2-1/2  

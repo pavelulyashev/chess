@@ -1,0 +1,10 @@
+[Event "tt06#1574 {tw} @3 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k1q1/1p6/3Q1p2/8/5P2/4K3/8/8 w - - 0 1"]
+
+ 1. Qb8+ Kf7 2. Qxb7+ Ke6 (2... Kg6 3. Qg2+ Kf5 4. Qc2+) (2... Kf8 $1 {cook JU} 3. Qc8+ Kf7 4. Qxg8+ Kxg8 5. Kd4 f5) 3. Qb3+ Kf5 4. Qc2+ $1 (4. Qxg8 $2) 4... Ke6 5. Qc4+ Kf5 6. Qe4+ Kg4 7. f5+ $1 (7. Qg2+ $2 Kf5 8. Qh3+ Qg4 9. Qh7+ Ke6 $1) 7... Kg3 8. Qf3+ Kh2 9. Qh5+ Kg3 10. Qg6+ 1-0  

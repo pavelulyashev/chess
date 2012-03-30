@@ -1,0 +1,10 @@
+[Event "tb19#69 @1 {m}"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Reichhelm G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n4k1K/b1p4P/PpP5/1P4N1/8/8/8/8 w - - 0 1"]
+
+ 1. Ne6+ (1. Nf3 $1 {cook JU} Kf7 2. Ne5+ Kf8 3. Ng6+) 1... Kf7 2. Ng7 Kf8 3. Nf5 Kf7 4. Ne7 Kf8 5. Nc8 Bb8 6. a7 Bxa7 7. Nxa7 Kf7 8. Nc8 Kf8 9. Ne7 Kf7 10. Ng6 1-0  

@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Petrov D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P3P1/8/2r5/p6k/P1P5/6KN w - - 0 1"]
+
+ 1. Nf2+ $1 Kh4 $1 2. g7 Rxc6 3. g8=R $1 (3. g8=Q $2 Rg6+ 4. Qxg6) 3... Rxc2 4. Rg2 Rxa2 5. Rh2+ Kg5 (5... Kg3 6. Ne4+) 6. Ne4+ 1-0  

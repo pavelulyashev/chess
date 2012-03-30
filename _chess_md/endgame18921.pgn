@@ -1,0 +1,10 @@
+[Event "td20#295 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3b4/kp6/r1p5/2Pp3p/p1RPp1P1/P3Pp1B/2PK1P1P/8 w - - 0 1"]
+
+ 1. Rb4 $1 (1. Rc3 $2 hxg4 2. Bxg4 Ba5) 1... Ba5 2. c3 (2. g5 $2 Bxb4+ 3. axb4 a3) 2... Bxb4 3. cxb4 hxg4 4. Bf1 $1 b5 $1 5. Bh3 $1 (5. Ke1 $2 Kb7 6. Bh3 g3 $1 7. fxg3 (7. hxg3 Ra8) 7... Ra8 8. Bf1 (8. Be6 Re8 9. Bf5 Rf8 10. Be6 Rf6 11. Bg4 (11. Bd7 Kc7) 11... Rh6 12. h3 Rg6 13. Kf2 Rxg4 $1 14. hxg4 Kc7) 8... Rh8 9. h3 f2+ $1 10. Kxf2 Rf8+ 11. Ke2 Rf3) 5... gxh3 (5... Kb7 6. Bxg4 Kc7 7. h3) (5... g3 6. hxg3 Kb7 7. Bg4 Ra8 8. Bh5 Rh8 9. g4) 6. Ke1 Kb7 7. Kf1 Ra8 8. Kg1 Rg8+ 9. Kh1 Rg7 1/2-1/2  

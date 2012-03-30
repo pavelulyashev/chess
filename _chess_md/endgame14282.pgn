@@ -1,0 +1,10 @@
+[Event "tk01#36 {tw} @1 @2 {m}"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Kosek V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7k/5KpP/4N1P1/4b3/8/8/8 w - - 0 1"]
+
+ 1. Nf7 (1. Nd7 $1 {cook JU}) 1... Bd3 2. Nd8 Bc2 3. Ne6 Be4 4. Nf4 (4. Nf8+ $1 {cook JU}) 4... Bc2 5. Kf7 Bb3+ 6. Ne6 Bd5 (6... Bc2 7. Nf8+) 7. Kf6 Be4 8. Nf8+ Kh8 9. Nxg6+ Kh7 10. Nf8+ Kh8 11. g6 Bxg6 12. Kxg6 1-0  

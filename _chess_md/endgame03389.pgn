@@ -1,0 +1,10 @@
+[Event "1/2 HM, Neidze 70 JT -MAIN {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Gonzales L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K2n2/4Nppk/2p1P3/5P1n/8/8/2B5/8 w - - 0 1"]
+
+1. Nxc6 $1 (1. exf7 $2 g6 2. fxg6+ Kg7 3. Kd8 Ne6+ 4. Kd7 Nf8+ 5. Ke8 Nf6+ 6.Kd8 Ne6+ 7. Kc8 c5 8. Bb3 Nf8 9. Kd8 Ne4 10. Bd5 Nd6 $11) (1. Kd8 $2 fxe6 2.fxe6+ Kh8 3. Ng6+ Nxg6 4. Bxg6 Nf6 5. e7 c5 6. Bf7 g5 $11) 1... fxe6 2. fxe6+Kg8 3. Ne7+ $1 (3. e7 $2 Kf7 4. Bf5 (4. Kd8 Ne6+ 5. Kd7 Nf6+ 6. Kd6 Ne8+ 7. Ke5Nc5 $11) 4... Ke8 5. Kc7 Nf6 6. Kd6 Ng8 $11) 3... Kh8 4. Ng6+ Nxg6 5. Bxg6 Nf66. Kd8 $1 {zz} (6. e7 $2 Ng8 7. e8=Q {stalemate}) (6. Kc7 $2 Kg8 {(Ng4)=}) 6...Kg8 $1 (6... Nd5 7. Kd7 Kg8 8. Kd6 {as the main line}) 7. Ke7 $1 {zz} (7. e7 $2Kh8 8. Bf7 g5 $11) 7... Nd5+ 8. Kd6 (8. Kd7 $2 Kh8 {(Kf8)=}) 8... Nb6 (8... Nf69. e7 Kh8 10. Bf7 Kh7 (10... g5 11. Bh5 Kg7 12. Ke6 $18) 11. Ke6 Kh6 12. Kf5Kh7 13. Kg5 Ne4+ 14. Kf4 Nf6 15. Kf5 Kh6 16. Bg6 $18) 9. Be4 $1 (9. Kc7 $2 Nd5+10. Kd6 Nb6 {loss of time}) (9. Kc6 $2 Nc8 10. Kd7 Nb6+ 11. Kc7 Nd5+ 12. Kd6Nb6 {loss of time}) 9... g6 $1 (9... Nc8+ 10. Kd7 Nb6+ 11. Kd8 $18) (9... Nc4+10. Kc7 Kf8 11. Kd8 Nd6 12. e7+ Kf7 13. Kd7 Ne8 14. Bd5+ $18) 10. Kc7 $1 (10.Kc6 $2 Nc8 11. Kd7 Kf8 12. Kxc8 Ke7 13. Bd5 g5 14. Kc7 g4 $11) (10. Bxg6 $2 Kg711. Bd3 Nc8+ $11) 10... Kf8 11. Kxb6 (11. Kd8 $2 Nc8 12. Kxc8 Ke7 13. Bd5 g5$11) 11... Ke7 12. Bd5 Kd6 13. Kb5 g5 14. Kc4 $18 {. Interesting duel around a white pawn enriched by themes zz and stalemate.}1-0

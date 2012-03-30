@@ -1,0 +1,10 @@
+[Event "ts03 @2 {m}"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Duras O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K6/1P1k4/1P5B/8/8/8/4r1pR/8 w - - 0 1"]
+
+ 1. Be3 Rxe3 2. Rxg2 Ra3 3. Rd2+ (3. Rg7+ $1 {cook JN} Kd8 4. Rg6 Kd7 (4... Rc3 5. Rc6) 5. Rd6+) 3... Ke7 4. Rd6 $1 Rc3 (4... Kxd6 5. Kc8 Rc3+ 6. Kd8) 5. Rc6 $1 Rxc6 6. Ka7 1-0  

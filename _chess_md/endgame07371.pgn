@@ -1,0 +1,10 @@
+[Event "oj02 {c} {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p4p/1p3K2/8/P7/1P2k3/2P5/8 w - - 0 1"]
+
+ 1. b4 Kd4 2. Ke6 $1 h6 (2... c5 $144 3. a5 $18) (2... h5 $144 3. c3+ (3. Kf5 $143 c5 4. b5 Kd5 5. Kg5 c4 6. c3 Ke5 7. Kxh5 Kd5 8. Kg5 Ke5 9. Kg4 Ke6 10. Kf4 Kd6 11. Ke4 Kc5 12. Ke5 $11) 3... Kc4 4. Kf5 h4 5. Kg4 c5 6. b5 Kd5 7. Kxh4 c4 8. Kh5 $1 Ke6 9. Kg6 $18) 3. c3+ $1 Kc4 4. Ke5 $1 h5 (4... c5 $144 5. b5 h5 6. Kf5 Kd5 7. Kg5 c4 8. Kxh5 $18) (4... c6 $144 5. Ke4 $18 (5. Kf5 $143 c5 6. b5 Kd5 7. Kg6 c4 8. Kxh6 Kd6 $11)) 5. Kf5 $1 Kd5 6. Kg5 c6 7. Kh4 $1 (7. Kxh5 $143 c5 8. b5 c4 $11) 7... c5 8. b5 c4 9. Kxh5 Kd6 10. Kh6 $1 $18 1-0  

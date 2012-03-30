@@ -1,0 +1,10 @@
+[Event "tl03#42 @2 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r3k3/5p2/1P3R1p/8/8/8/3p4/5K2 w q - 0 1"]
+
+ 1. Ke2 $1 1... O-O-O $1 2. Kd1 2... h5 $1 3. Rxf7 $1 (3. Rf5 $2 3... Kb7 4. Rxh5 Kxb6 5. Rh2 Kc5 6. Rf2 Rd7 7. Rxd2 Rxd2+ 8. Kxd2 Kd4) 3... Rd5 4. Rc7+ $1 (4. Rh7 $2 4... Kb8) (4. Rf4 $1 4... Kb7 5. Rh4 Kxb6 6. Rh2 Kc5 7. Rxd2) 4... Kb8 5. Rh7 Ka8 6. Ra7+ Kb8 7. Rh7 Kc8 8. Rc7+ Kb8 9. Rh7 1/2-1/2  

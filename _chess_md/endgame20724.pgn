@@ -1,0 +1,10 @@
+[Event "tc10 {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/pp5R/k6p/2K5/1P4p1/8 w - - 0 1"]
+
+ 1. Rg5 h3 (1... b4+ 2. Kc4 h3 3. Rg3) 2. Rg4+ b4+ 3. Kc4 h2 4. Rg3 g1=Q (4... b3 5. Rxb3 g1=Q 6. Ra3#) 5. Ra3+ bxa3 6. b3# 1-0  

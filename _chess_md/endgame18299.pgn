@@ -1,0 +1,10 @@
+[Event "te03 @3 {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r1k1BR1/8/1b1P4/4P3/4P3/3B3K/8/4q3 w - - 0 1"]
+
+ 1. e6 (1. Bg7+ $2 Kd7 2. Bb5+ Ke6 3. Rxb8 Qe3+ 4. Kg4 Qxe4+) (1. Be7+ $2 Kd7 2. Bb5+ Ke6 3. Rxb8 Qh1+ 4. Kg3 Qg1+ 5. Kh4 Qh2+ 6. Kg5 Qxe5+) (1. Bb5 $2 Qh1+ 2. Kg4 Qg2+ 3. Kf5 Qxg8) 1... Qh1+ (1... Kc8 2. Ba6+ Rb7 3. Be7+) (1... Qe3+ 2. Kg4 Qxd3 3. Be7#) 2. Kg4 Qg2+ 3. Kf5 Qxg8 (3... Qf3+ 4. Kg6 Qg4+ 5. Kh7 Qh5+ 6. Bh6+ Qe8 7. Bg5+ Kc8 8. Ba6+) (3... Qh3+ $1 {cook} 4. Ke5 (4. Kg6 Qxe6+ 5. Kh7 Bc5) (4. Kg5 Be3+ 5. Kf6 Bd4+ 6. e5 Qh4+ 7. Kf7 Qf4+ 8. Kg6 Qg3+ 9. Kf7 Qf3+) ( 4. Kf4 Be3+ 5. Ke5 Qh5+) (4. Rg4 Qxd3) 4... Qh5+ 5. Kf4 Qh4+) 4. e7+ Kc8 (4... Ke8 5. Bb5+ Kf7 6. Bc4+ Ke8 7. Bxg8 Bd8 (7... Kd7 8. Be6+) 8. Ke6 Bxe7 9. Bxe7 Rb7 10. Bf7#) 5. Ba6+ (5. e8=Q+ $2 Kb7 6. Qd7+ Ka8 7. Qa4+ Ba7 8. Qc6+ Rb7) 5... Kd7 6. Bb5+ Kxd6 (6... Kc8 7. e8=Q+ Kb7 8. Qd7+ Ka8 9. Bc6+) 7. e8=N# (7. e8=Q+ $2 Qxf8+) 1-0  

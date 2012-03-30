@@ -1,0 +1,10 @@
+[Event "Hm.Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.25"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "n7/8/3p4/6P1/N2K4/5p2/k1pB4/1b6 w - - 0 1"]
+
+ 1. g6 c1=Q (1... Ka3 2. Nc3 $1 f2 3. Bc1+ Kb4 4. Nd5+ Kb5 5. Ne3 Nc7 6. Nf1 Ne6+ (6... Ba2) 7. Ke3 Nc5 8. Bd2 Ba2 9. Kxf2 c1=Q 10. Bxc1 Nd3+ 11. Ke3 Nxc1 12. Ng3 Be6 13. g7 d5 14. Nf5 Kc5 15. Ne7 $11) (1... f2 2. g7 f1=Q 3. g8=Q+ Ka3 4. Qxa8 Qf2+ 5. Kc3 Qf6+ 6. Kc4 $11) 2. Bxc1 f2 3. Nc3+ $1 ({try} 3. g7 $5 Bh7 4. Nc3+ Ka1 $1 (4... Kb3 5. Ne4 $11) 5. Bb2+ $1 Kxb2 6. Nd1+ Kb3 $1 { bK must control the square c3} (6... Kc1 $2 7. Nxf2 Nc7 8. Ng4 Ne8 9. Kd5 Bg8+ 10. Kc6 d5 11. Kc5 $11) 7. Nxf2 Nc7 8. Ng4 Ne8 9. Kd5 Bg8+ 10. Kc6 d5 11. Kc5 Kc3 {result of the move 6...Kb3!)} 12. Nh6 Be6 $19) 3... Ka1 4. Bb2+ $1 Kxb2 5. Nd1+ Ka1 $1 6. Nxf2 Nc7 7. Ne4 $1 (7. Nd3 $2 Ka2 8. Nf4 Kb3 9. g7 Bh7 10. Nh5 Ne8 11. Kd5 Bg8+ 12. Kc6 d5 13. Kc5 Kc3 $19) 7... Ne8 8. Kd5 Ba2+ 9. Kc6 d5 10. Nf2 $1 Ng7 11. Kd6 ({try} 11. Kc5 $5 Nf5 $1 12. Nd3 d4 13. Nb4 Bb3 $1 $19) 11... Kb2 12. Nd1+ Kb3 13. Kc5 $1 (13. Ke5 $2 Kb4 $1 14. Kd4 Nf5+ 15. Ke5 Ne7 16. g7 Bb3 17. Ne3 Kc5 18. Nf5 Nc6+ 19. Kf4 d4 $19) 13... Ne6+ 14. Kd6 Ng7 15. Kc5 Ne6+ 16. Kd6 {positional draw} *  

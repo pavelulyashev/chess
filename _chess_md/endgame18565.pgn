@@ -1,0 +1,10 @@
+[Event "2 Prize, ts13#100 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/7n/3bn3/K2k4/3p1p2/7B/2qP3Q/2N5 w - - 0 1"]
+
+ 1. Qh1+ Kc5 (1... Ke5 2. Qe1+) 2. Nd3+ $1 Qxd3 3. Qc1+ Kd5 4. Nb6+ Ke5 5. Nd7+ Kd5 6. Qc4+ $1 Qxc4 (6... Kxc4 {main} 7. Bxe6#) (6... Ke4 {main} 7. Qc6#) 7. Bg2+ f3 8. Bxf3# 1-0  

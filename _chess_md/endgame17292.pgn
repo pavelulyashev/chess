@@ -1,0 +1,10 @@
+[Event "te01 {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5p1p/8/5k2/3P3K/3PB3/pP6/1b2R3 w - - 0 1"]
+
+ 1. d5 (1. Rf1+ $2 Kg6 $1 2. d5 (2. Rg1+ Kf6) 2... a1=Q 3. Bd4 f5) 1... a1=Q ( 1... f6 2. Bd4 a1=Q 3. Rf1+ Kg6 4. Rxf6+) (1... Ke5 2. Bf4+ Kf5 3. Re5+ Kf6 4. d6 a1=Q 5. d7) 2. Bd4 h5 (2... Qa4 3. Rf1+ Kg6 4. Rf6+ Kg7 5. Rf4+ Kg8 6. Rg4+) 3. Rf1+ Kg6 4. Rf6+ (4. Rg1+ $2 Kh6) 4... Kh7 5. Rxf7+ Kg8 6. Ra7 Ba2 7. Rg7+ Kf8 8. Rg1 Bb1 9. Rf1+ Ke8 (9... Ke7 10. Bc5+ Ke8 11. Rf8+ Kd7 12. Rf7+ Kc8 13. Rf8+ Kb7 14. Rf7+) (9... Kg8 10. Rg1+ Kh7 (10... Kf7 11. Rf1+ Kg6 12. Rf6+) 11. Kxh5 Qa4 12. Rg7+) 10. Bc5 Qa4+ 11. Kxh5 (11. b4 $2 Qc2 $1) 11... Qc2 12. Rf8+ Kd7 13. Rf7+ Kc8 14. Rf8+ Kb7 15. Rf7+ Ka6 16. Ra7+ Kb5 17. Rb7+ Ka4 18. b3+ $1 Ka5 19. Ra7+ Kb5 20. Rb7+ 1/2-1/2  

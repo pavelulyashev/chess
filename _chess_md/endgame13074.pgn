@@ -1,0 +1,10 @@
+[Event "us21#107 @3 {m}"]
+[Site "?"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Galitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6p1/2p3P1/1p2p1Pp/p1p4K/6PP/3k2P1/5B2 w - - 0 1"]
+
+ 1. Be2 Kxe2 2. Kxh5 c3 3. g4 c2 4. g3 c1=Q 5. h4 Qxg5+ 6. Kxg5 a3 (6... Kf3 $1 {cook AK} 7. Kh5 (7. h5 a3 8. h6 gxh6+ 9. Kxh6 a2 10. g7 a1=Q 11. g8=Q Qh1+ 12. Kg5 Kxg3) 7... Kxg3 8. g5 Kf2) 7. Kh5 a2 8. g5 a1=Q 9. g4 b4 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tr19 {m}"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3bb3/8/3K4/3NN1p1/1P5P/1P6/4k3/8 w - - 0 1"]
+
+ 1. h5 Bxh5 (1... g4 2. Nxg4 Bh4 (2... Bxh5 3. Nf4+) 3. h6 Bg3+ 4. Ne5 Bg6 5. b5 ) 2. Kd7 Ke1 (2... g4 3. Nf4+ Ke3 4. Nxh5 Kd4 5. Kxd8 Kxe5 6. Kc7) (2... Bf3 3. Nxf3 Kxf3 4. Kxd8 g4 5. Ne7 $1 Ke4 6. Ng6 g3 7. Nh4) 3. Kxd8 Be2 4. Nc3 Ba6 5. Nf3+ 1-0  

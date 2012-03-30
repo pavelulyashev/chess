@@ -1,0 +1,10 @@
+[Event "ts10#09595 @1 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Scheffler G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7K/2P1PkP1/5P2/8/8/2r5/8 w - - 0 1"]
+
+ 1. Kh8 $1 (1. g7 $1 {cook JC} Rh2+ 2. Kg8 Rg2 (2... Ra2 3. Kh8) (2... Kxf5 3. Kf7) (2... Ke7 3. c7) 3. Kf8 Rxg7 4. Ke8 Rc7 (4... Kxf5 5. c7 Rxc7 6. Kd8 Rh7 7. e7) 5. Kd8 Rxc6 6. e7 Rd6+ 7. Ke8 Rd1 (7... Ra6 8. Kf8) (7... Kg7 8. f6+ Kxf6 9. Kf8) (7... Kxf5 8. Kf7 (8. Kf8)) 8. Kf8 Rh1 9. e8=N+) 1... Rh2+ 2. Kg8 Ra2 3. c7 $1 Ra8+ 4. Kh7 Rc8 5. g7 $1 (5. e7 $2 Re8 6. g7 Kf7 7. f6 Ra8 8. Kh6 Kxf6 9. Kh7 Kf7 10. Kh6 Kxe7 11. Kg6 Rc8 12. Kh6 Kf6 13. Kh7 Kf7 14. Kh6 Kg8) 5... Rxc7 6. e7 $1 Rxe7 7. Kh8 Rxg7 1/2-1/2  

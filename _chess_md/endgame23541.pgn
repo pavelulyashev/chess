@@ -1,0 +1,10 @@
+[Event "tc07 {cr} {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1R6/8/8/7b/2k1p3/6Kp/8 b - - 0 1"]
+
+ 1... h1=Q+ 2. Kxh1 e2 3. Rb1 Kc2 4. Rg1 $1 Bf2 5. Ra1 $1 Kb2 6. Kg2 $1 Kxa1 7. Kxf2 1/2-1/2  

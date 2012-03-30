@@ -1,0 +1,10 @@
+[Event "tt23#517 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/8/3pK3/3PP3/8/1n6/8/8 w - - 0 1"]
+
+ 1. exd6 (1. Kxd6 $2 Kf7) 1... Kf8 $1 (1... Nd4+ 2. Kf6) (1... Nc5+ 2. Ke7) 2. d7 $1 (2. Kd7 $2 Nc5+ 3. Kc6 Ke8 4. Kxc5 Kd7) 2... Nc5+ 3. Kd6 Nb7+ 4. Kc6 $3 ( 4. Kc7 $2 Ke7 5. d6+ Ke6) 4... Ke7 5. Kc7 $1 Nd8 6. d6+ 1-0  

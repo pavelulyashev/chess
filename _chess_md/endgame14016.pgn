@@ -1,0 +1,10 @@
+[Event "tr11#0127 @3 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p1B5/1P3p2/1k3P2/6P1/1p6/p7/K1b5 w - - 0 1"]
+
+ 1. b7 Ka6 2. b8=B $1 (2. b8=Q $2 Bb2+ $1 3. Kxb2 a1=Q+ 4. Kxa1 (4. Kxb3 Qc3+ 5. Kxc3) 4... b2+ 5. Kb1) (2. b8=N+ $2 Kb7 3. Bd6 Be3 4. Ba3 Kxb8) 2... Be3 3. Be5 Bg5 (3... fxe5 4. Bxe5 Kb5 $1 {cook JU} 5. f6 Kc4 6. f7 Bc5 7. g5 Kd5) 4. Bf4 Bh4 5. Bg3 Bg5 6. Bbf4 1-0  

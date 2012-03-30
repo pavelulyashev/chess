@@ -1,0 +1,10 @@
+[Event "tr11#0813 @3 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P4p/7P/p1p5/1k6/1P6/1K2n3 w - - 0 1"]
+
+ 1. c7 c3 $1 2. c8=R (2. c8=Q $2 c2+ 3. Ka1 c1=Q+ 4. Qxc1 Nc2+ 5. Kb1 Na3+ 6. bxa3) 2... c2+ 3. Ka1 c1=Q+ (3... a3 $1 {cook} 4. Rc3+ Kb4 5. Ka2 axb2 6. Kxb2 c1=Q+ 7. Rxc1 Nd3+) 4. Rxc1 Nc2+ 5. Kb1 Na3+ 6. bxa3 1-0  

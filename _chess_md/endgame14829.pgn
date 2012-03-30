@@ -1,0 +1,10 @@
+[Event "us43 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Allen R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Q4B1b/3nNPnp/7k/3p1P2/1R3Kpp/5PP1/1RP1r1P1/5q2 w - - 0 1"]
+
+ 1.Qa1 $1 Qf2 $1 (1...Qxa1 2.Ng8+ Kh5 3.fxg4#) 2.Rb6+ Kh5 3.Rh6+ Kxh6 4.Rb6+ Kh5 5.Rh6+ Kxh6 6.Qf6+ $1 Nxf6 7.Ng8+ Nxg8 8.fxg8=N+ Kh5 9.Nf6+ Kh6 10.Nxg4+ Kh5 11.Nf6+ Kh6 12.Ng8+ Kh5 13.g4#   1-0  

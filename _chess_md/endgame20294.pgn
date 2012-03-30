@@ -1,0 +1,10 @@
+[Event "1 Prize, mk01 ts01#63 {m}"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5qk1/2pR4/1p4K1/8/8/8/8/6R1 w - - 0 1"]
+
+ 1. Rg5 $1 (1. Rg2 $2 c5 2. Re2 Qb8 $1) (1. Rg3 $2 c5 2. Re3 Qa8 $1) (1. Rg4 $2 c5 2. Re4 Qb8 $1) (1. Re1 $2 Qa8) (1. Rgd1 $2 Qe8+ 2. Kf6 Qf8+ 3. Kg5 Qb4) 1... Qe8+ (1... Kh8 {main} 2. Rh5+ Kg8 3. Re5 Kh8 4. Rh7+ Kg8 5. Ree7) (1... b5 { main} 2. Re5 Qc8 $1 3. Ree7 (3. Rg7+ $2 Kf8 4. Rf5+ Qxf5+ $1) 3... Qa6+ 4. Kg5 $1 Kf8 5. Rh7 Kg8 6. Rdg7+ Kf8 7. Rxc7 Kg8 8. Rcg7+ Kf8 9. Ra7) (1... c5 {main} 2. Rgd5 $1 (2. Re5 $2 Qc8) 2... Qe8+ 3. Kf6 $1 Qf8+ 4. Kg5) 2. Kh6+ Kf8 3. Rf5+ Kg8 4. Rg7+ Kh8 5. Rh7+ Kg8 6. Rg5+ Kf8 7. Rh8+ 1-0  

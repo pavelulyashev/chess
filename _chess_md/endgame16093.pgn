@@ -1,0 +1,10 @@
+[Event "3 Commendation Skrynnik-JT50 {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Keith D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4q3/3n4/1P1p4/QN6/4pp2/N2rk1bP/2P5/1R3K2 b - - 0 1"]
+
+ {#} 1... Qh8+ $1 2. Re1 $1 (2. Nc4 $2 Kf3+ 3. Nd4+ Rxd4+ 4. Qc3+ e3+ 5. Nd2+ Rxd2+ 6. Qc6+ d5+ $1 $11) 2... Kf3+ 3. Nd4+ Rxd4+ 4. Re3+ $3 Kxe3+ $1 (4... fxe3+ 5. Qf5+ Bf4 6. Qg4#) 5. Qc3+ Rd3+ 6. Nc4+ $1 {(thиme)} (6. Qxh8 $2 Rd1+ ( 6... Rd4+ 7. Qh5 $1) 7. Kg2 Nxb6 (7... Rd2+ 8. Kf1 Rd1+) 8. Qc3+ Ke2 9. Qc6 Nd5 10. Qc4+ Ke1 11. Qxe4+ Ne3+ 12. Kf3 d5 $1 $11) 6... Kf3+ 7. Nd2+ $1 {(thиme)} ( 7. Qxh8 $2 Rd1#) 7... Ke3+ 8. Qxh8 Rd4+ (8... Rxd2+ 9. Qc3+ Rd3+ 10. cxd3) ( 8... Kxd2+ $5 9. cxd3 $1 (9. b7 $2 e3+ $1 10. Qh5 Kxc2+ 11. Qf5 d5+ $1 $11) 9... e3+ $1 10. Qb2+ (10. Qh5 $2) 10... Kd1+ $1 11. Qe2+ Kc1+ 12. b7 $1 (12. Qg2 $2 Nxb6+ $1 13. h4 Na4+)) (8... Nxb6+ 9. cxd3 Kxd2+ 10. Qb2+ $1 Kxd3+ 11. Qb3+ $1) (8... Rd5+ $2 9. Qc3+ Rd3+ 10. Nc4+) 9. b7 $1 Rb4+ (9... d5+ 10. Qg7 $1 Nb8+ 11. h4 $1 Nc6+ 12. h5) (9... Nb8+ 10. Nxe4) 10. Qc3# {#} 1-0  

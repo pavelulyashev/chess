@@ -1,0 +1,10 @@
+[Event "2 Prize, Kasparyan 100 MT {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Eilasyan E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/8/2P4K/1p3k2/P2bb3/8/B7/8 w - - 0 1"]
+
+ 1. Bb1 $1 (1. c7 $2 Bb7 2. Bd5 Bc8 3. axb5 Ke5 4. Bc6 Kd6 5. Kg6 Bc3 6. Kf7 Ba5 $11) 1... Be3+ ({main line 2} 1... Be5 2. Bxe4+ Kxe4 {key position: wK on h6!} 3. axb5 $1 ({Thematic try} 3. a5 $2 b4 4. c7 Bxc7 5. Nxc7 b3 6. a6 b2 7. Nb5 Kd5 8. a7 b1=Q 9. a8=Q+ Ke5 $1 (9... Ke6 $1)) 3... Bf4+ (3... Kd5 4. Nb6+ Kc5 5. Nd7+) 4. Kg6 $1 {wK on g6!} Kd5 5. Kf5 Bg3 6. c7 Bxc7 7. Nxc7+ Kc5 8. Ke6 Kb6 9. Kd6 {win.}) 2. Kg7 Bf4 3. Bxe4+ Kxe4 {key position wK on g7!} 4. a5 $1 ( {Thematic try} 4. axb5 $2 {wK on g7!} Kd5 5. c7 Bxc7 6. Nxc7+ Kc5 7. Kf6 Kb6 $11) 4... b4 $1 (4... Be5+ 5. Kf7 Kd5 6. c7 Bxc7 7. Nxc7+ Kc6 8. Na6) 5. c7 Bxc7 6. Nxc7 b3 7. a6 b2 8. Nb5 $1 Kd5 9. a7 b1=Q 10. a8=Q+ Kc5 (10... Ke5 11. Qb8+) 11. Qf8+ Kb6 12. Qd8+ Ka6 13. Qa8+ Kb6 14. Qa7+ 1-0  

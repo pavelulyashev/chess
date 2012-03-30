@@ -1,0 +1,10 @@
+[Event "ts12 {m}"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "N7/4b3/3P3p/rk5b/1PR4p/7p/8/6K1 w - - 0 1"]
+
+ 1. Rc5+ (1. bxa5 $2 h2+ 2. Kg2 Bf3+ 3. Kxh2 Bxd6+) 1... Kxb4 2. Rxh5 Bg5 (2... Rxh5 3. dxe7 Re5 4. Nc7 Re1+ 5. Kh2) (2... Ra1+ 3. Kh2 Bxd6+ 4. Kxh3 Rxa8 5. Rxh4+) 3. Nc7 Be3+ 4. Kh1 Rxh5 5. d7 Bg5 6. Nd5+ Kc5 7. Nf4 1/2-1/2  

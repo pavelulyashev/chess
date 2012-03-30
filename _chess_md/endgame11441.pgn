@@ -1,0 +1,10 @@
+[Event "1562.Der neue Tag {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Staudte R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B3/1p5p/8/8/p5P1/2k4P/3p4/5K2 w - - 0 1"]
+
+ 1. Bxa4 $1 b5 (1... Kb2 2. g5 b5 3. Bd1 b4 4. Ke2 Kc3 5. h4 b3 6. Bxb3 Kxb3 7. Kxd2 Kc4 8. h5 Kd5 9. g6 (9. h6) 9... hxg6 10. h6 $18) 2. Bd1 b4 (2... Kd3 3. Kf2 Ke4 4. Bc2+ Kf4 5. Ke2 h6 (5... h5 6. Bf5 (6. gxh5 $2 $11) 6... hxg4 7. hxg4) 6. Kxd2 Kg3 7. Bg6 Kxh3 8. Bh5 $18) 3. Ke2 b3 4. Bxb3 Kxb3 5. Kxd2 Kc4 6. Ke3 Kd5 7. Kf4 Ke6 8. Kg5 Kf7 9. Kh6 Kg8 10. g5 (10. h4 Kh8 11. g5 (11. h5)) 10... Kh8 11. h4 Kg8 12. h5 Kh8 13. g6 hxg6 14. hxg6 Kg8 15. g7 Kf7 16. Kh7 1-0  

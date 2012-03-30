@@ -1,0 +1,10 @@
+[Event "us15 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/p4p2/1p3P1p/2p2K2/8/8/6PP/8 w - - 0 1"]
+
+ 1. g4 (1. h4 $143 c4 2. Ke4 h5 $19) 1... Kb7 2. h4 a5 3. Ke4 Kc7 (3... a4 $144 4. Kd3 Kc7 5. h5 Kd7 6. g5 Ke6 7. gxh6 Kxf6 8. Kc2 $18 {main line}) 4. h5 $1 Kd7 5. g5 Ke6 (5... a4 $144 6. Kd3 $1 Ke6 7. gxh6 Kxf6 8. Kc2 $18 {main line}) 6. gxh6 Kxf6 7. Kd3 a4 8. Kc2 $1 c4 9. Kb1 $1 b5 10. Kb2 b4 11. Kb1 $18 1-0  

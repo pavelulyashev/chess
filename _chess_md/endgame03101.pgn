@@ -1,0 +1,10 @@
+[Event "1. Preis {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p4p/8/1P2P1P1/6Pp/2Kp4/6P1/1k2n3 w - - 0 1"]
+
+ 1. b6 (1. g6 Kc1 (1... h3 2. gxh3 Nf3 3. g7 d2 4. g8=Q d1=Q 5. Qxh7+ Ka2 $11) 2. gxh7 d2 3. h8=Q d1=Q 4. Qh6+ Kb1 5. Qg6+ (5. Qd2 Qxd2+ 6. Kxd2 Nxg2 (6... Nc2 $2 7. e6 Na3 8. e7 Nc4+ 9. Kc3 Nd6 10. Kd4 $18) 7. e6 h3 8. e7 h2 9. e8=Q h1=Q 10. Qe4+ Kb2 $11) 5... Nc2 6. Qe4 Qc1 7. g5 (7. e6 $6 Qa3+ 8. Kc4 Qb4+ 9. Kd3 Qxb5+ (9... Qd6+ 10. Kc3 Qc5+ 11. Kb3 Qxb5+ 12. Kc3 Qc5+ 13. Kd2 Kb2 14. Qb7+ Nb4 15. Qe4 Nc6 16. Ke2 Ne7 17. Kf3) 10. Kd2 Qg5+ 11. Kd1 Qxg4+) 7... Qa3+ 8. Kc4 Qa4+ 9. Kd3 Qxb5+ 10. Kd2 Qb2 11. g6 Qc1+) 1... cxb6 2. g6 (2. e6 $2 Kc1 3. e7 d2 4. e8=Q Nc2 5. Qb5 d1=N+ 6. Kd3 Nf2+ $11) 2... hxg6 (2... Nf3 $2 3. gxf3 hxg6 4. e6 d2 5. Kxd2 h3 6. e7 h2 7. e8=Q h1=Q 8. Qxg6+ Ka1 9. Qxb6 $18) ( 2... h3 $1 3. g7 (3. gxh3 Nf3 4. gxh7 (4. g7 d2 5. g8=Q d1=Q 6. Qxh7+ Kc1 $11 { cf. infra}) 4... d2 5. h8=Q d1=Q 6. Qh7+ Kc1 7. Qh6+ Nd2 8. Qxb6 $11) 3... d2 4. Kxd2 hxg2 5. g8=Q g1=Q 6. Qb3+ Ka1 $11) 3. e6 Kc1 4. e7 d2 5. e8=Q Nc2 (5... b5 $5 6. Qxb5 d1=N+ 7. Kb3 Ne3 8. g5 N1c2 9. Qd3 $18) 6. Qxg6 d1=Q {M5} (6... d1=N+ 7. Kb3 Nd4+ 8. Kc4 Nc2 9. Qg5+ Nde3+ 10. Kb5 $18) 7. Qh6+ Kb1 8. Qxb6+ 1-0  

@@ -1,0 +1,10 @@
+[Event "ts39 {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "N5qr/Pk6/7R/4p3/1K6/2r4Q/8/2n5 w - - 0 1"]
+
+ 1. Qd7+ (1. Rb6+ $2 Kxa8 $1 2. Rb8+ Kxa7 $1) (1. Qh1+ $2 Kxa7) 1... Kxa8 2. Rxh8 Rb3+ $1 (2... Qxh8 3. Kxc3 Na2+ (3... Ne2+ 4. Kd3 Nf4+ 5. Ke4) (3... Qf6 4. Kb2 Ne2 5. Qc8+ Kxa7 6. Qc7+ Ka6 7. Qc4+) (3... Qg8 4. Qc6+ Kxa7 5. Qc5+ Ka6 6. Qxe5) 4. Kb3 Qg8+ 5. Ka3 Qc4 6. Qe8+ Kxa7 7. Qxe5) (2... Na2+ 3. Ka4 $1 Qxh8 (3... Rc4+ $1 4. Ka3 $1 Qxh8 5. Qd5+ Kxa7 6. Qxc4) 4. Qd5+ Kxa7 5. Qa5+ Kb7 6. Qb6+ $1 Kc8 (6... Kxb6) 7. Qe6+ Kc7 8. Qxe5+ Qxe5) 3. Ka4 $1 Qxh8 4. Qd8+ Qxd8 1/2-1/2  

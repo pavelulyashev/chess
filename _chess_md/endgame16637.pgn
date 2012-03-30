@@ -1,0 +1,10 @@
+[Event "3/4 Prize t001#326 @2 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/RP6/8/pp6/1k6/8/2p1n1R1/K7 w - - 0 1"]
+
+ 1. Rg1 $1 Nxg1 2. Kb2 Ne2 $1 3. Kxc2 Nd4+ 4. Kb2 $1 (4. Kd3 $2 Nc6 $1 5. Ra6 Nb8 6. Ra8 Nf7 7. Rxb8 Nd6 8. Kd4 (8. Kc2 a4 9. Kb2 Nc4+ 10. Ka2 Na5) 8... a4 9. Kd5 Nxb7) 4... Nc6 5. Ra6 Nb8 6. Ra8 (6. Rf6 $1 {cook AC} Nd7 7. Rd6 Nb8 8. Rd8 Nf7 9. Rxb8) 6... Nf7 $1 7. Rxb8 Nd6 $1 8. Rd8 $1 Nxb7 9. Rd7 $1 Nc5 10. Rd4# 1-0  

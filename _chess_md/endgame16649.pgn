@@ -1,0 +1,10 @@
+[Event "t001#331 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/7p/B7/1K6/8/1n3b2/8/5R2 w - - 0 1"]
+
+ 1. Kb4 $1 Nd4 (1... Bd5 2. Rd1 Bg8 3. Bc4 Bxc4 4. Kxc4 Na5+ 5. Kb5 Nb7 $1 6. Rd7) (1... Nd2 2. Rf2) 2. Kc3 $1 Be2 $1 3. Bxe2 Nxe2+ 4. Kd3 $1 Ng3 $1 5. Rf3 Nh5 (5... Nh1 6. Ke2 h5 7. Rh3) 6. Rf5 Ng7 (6... Ng3 7. Rg5 Nf1 8. Rg2) 7. Rf8# 1-0  

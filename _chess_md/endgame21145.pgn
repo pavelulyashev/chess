@@ -1,0 +1,10 @@
+[Event "hm, Problem Online 2004-2006 (C) {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3R4/1pp5/8/P2P2K1/8/1r6/2b3k1/7N w - - 0 1"]
+
+ 1. Kf4 (1. Rc8 $2 Be4 2. Rxc7 Bxd5 {-+}) (1. Kf6 $2 Be4 2. Ke5 Bf3 {-+}) 1... Rf3+ (1... Rb4+ 2. Ke3 Kxh1 3. d6 cxd6 4. Rxd6 Bb3 5. a6 {(Kf2) =}) 2. Ke5 Re3+ (2... Rf5+ 3. Kd4 Kxh1 4. Rb8 Bd1 5. Ke4 Bc2+ 6. Kd4 {=}) 3. Kd4 Rd3+ 4. Kc5 ( 4. Kc4 $2 Rd1 5. Rd7 Be4 {-+}) (4. Ke5 Bb3 5. Rd7 Rc3 6. Kd4 (6. d6 cxd6+ 7. Rxd6 Bc4 {-+}) 6... Rc4+ 7. Kd3 Ra4 8. Kc3 Bc4 9. a6 Bxa6 10. Rxc7 Rh4 {-+}) 4... Bd1 (4... Bb3 5. Rd7 {(Rc8) =}) (4... Ra3 5. Rc8 Rxa5+ 6. Kb4 Ra4+ 7. Kb5 Ra1 8. Rxc7 Rb1+ (8... Bd3+ 9. Kb6 Rb1+ 10. Ka7 b5 11. d6 {=}) 9. Kc5 Ba4 10. d6 {=}) 5. a6 (5. Rd7 $2 Bf3 6. Rxc7 Rxd5+ 7. Kb6 Rd6+ {-+}) 5... bxa6 6. d6 cxd6+ 7. Rxd6 Rc3+ 8. Kb4 Rb3+ 9. Kc4 Rb1 10. Kc3 a5 11. Rd2+ Kxh1 12. Ra2 a4 13. Ra1 Rxa1 14. Kb2 {=. Intro is longer and more thematic.} 1/2-1/2  

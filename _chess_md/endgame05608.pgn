@@ -1,0 +1,10 @@
+[Event "tn24 {m}"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2n5/6R1/8/1P6/2K1P3/8/k5p1/6r1 w - - 0 1"]
+
+ 1. b6 Nxb6+ (1... Rc1+ 2. Kd3 g1=Q 3. Rxg1 Rxg1 4. b7) 2. Kd3 Nc4 (2... Rd1+ 3. Kc2) 3. Kxc4 Rc1+ 4. Kd5 g1=Q 5. Rxg1 Rxg1 6. e5 1/2-1/2  

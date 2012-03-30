@@ -1,0 +1,10 @@
+[Event "ts64 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/5P2/p7/8/6P1/8/7p/7k w - - 0 1"]
+
+ 1. Kg7 Kg1 (1... Kg2 2. f8=Q h1=Q 3. Qa8+ Kg1 4. Qxh1+ Kxh1 5. Kf6) 2. f8=Q h1=Q 3. Qc5+ Kh2 4. Qh5+ Kg1 5. Qxh1+ Kxh1 6. Kf6 1-0  

@@ -1,0 +1,10 @@
+[Event "td20#1385 @1 (@2) {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Morsch G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k2r4/p7/P2pK2N/8/8/8/8/6R1 w - - 0 1"]
+
+ 1. Rg8 (1. Nf7 $1 {cook JU}) 1... Rxg8 (1... Rb8 2. Kd7 d5 3. Kc7 Rxg8 4. Nxg8) 2. Nxg8 Kb8 3. Kd7 d5 4. Ne7 d4 5. Nc6+ Ka8 6. Kc8 d3 7. Ne7 (7. Nb4 $1 { minor dual JU}) (7. Nd4 $1 {minor dual JU}) (7. Nd8 $1 {minor dual JU}) 7... d2 8. Nd5 d1=Q 9. Nc7# 1-0  

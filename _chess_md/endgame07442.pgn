@@ -1,0 +1,10 @@
+[Event "jr01 @3 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/n5P1/2k5/3n2b1/5N2/3p1p2/4p1P1/4KB2 w - - 0 1"]
+
+ 1. g8=Q Bh4+ (1... d2+ $1 {cook} 2. Kxd2 Bxf4+ 3. Ke1 Bd2+ $1 4. Kxd2 exf1=Q 5. gxf3 Qxf3) 2. g3 Bxg3+ 3. Qxg3 d2+ 4. Kxd2 exf1=N+ $1 5. Ke1 Nxg3 6. Kf2 Ne4+ 7. Kxf3 Ndc3 (7... Ndf6 {main} 8. Nh5 $1 Ng5+ 9. Kf4 Nfh7 10. Nf6 $1 Ne6+ 11. Ke5 Nhf8 12. Nh7 $1) 8. Ne2 $1 Nd2+ 9. Ke3 Ncb1 10. Nc3 $1 Nc4+ 11. Kd3 $1 (11. Kd4 $2 Nba3 12. Nb1 N7b5+ $1 13. Kd3 Nb2+ 14. Kd2 Nac4+ $1 15. Kc2 Na4) 11... Nba3 12. Nb1 $1 Nb2+ 13. Kc3 Nac4 14. Na3 1/2-1/2  

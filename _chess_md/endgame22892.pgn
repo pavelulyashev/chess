@@ -1,0 +1,10 @@
+[Event "3rd Prize,4th Arves Jenever TT {m}"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "Jasik A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/8/P1b5/8/1P3N2/1p1R1p1p/3rN2P/4k2K w - - 0 1"]
+
+ 1. Nd4 $1 f2+ 2. Nf3+ Bxf3+ 3. Rxf3 b2 4. Nd3+ $1 Rxd3 5. Re8+ $1 Kf1 6. a7 Ra3 7. Rxa3 (7. Ref8 $2 Rxf3 8. a8=Q Rxf8 9. Qa2 Re8 10. Qxb2 Ke1) 7... b1=B $1 ( 7... b1=Q 8. Ra1 Qxa1 9. a8=Q $18) 8. a8=B $1 (8. a8=Q $2 Be4+ 9. Qxe4 (9. Rxe4 {stalemate})) 8... Be4+ 9. Bxe4 (9. Rxe4 $2 {stalemate}) 1-0  

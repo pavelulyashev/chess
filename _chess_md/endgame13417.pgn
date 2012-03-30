@@ -1,0 +1,10 @@
+[Event "tt22 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1bPB4/8/3k4/8/8/5p1p/5Kb1 w - - 0 1"]
+
+ 1. c8=Q $1 (1. c8=B $2 Ba8 $1) 1... Bxc8 2. Bxc8 Kc6 3. Bg4 $1 (3. Bf5 $2 h1=B $1 (3... h1=Q $2 4. Be4+ Qxe4)) 3... h1=Q (3... h1=B 4. Bf3+ Bxf3) 4. Bf3+ Qxf3 1/2-1/2  

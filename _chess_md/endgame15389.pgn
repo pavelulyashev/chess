@@ -1,0 +1,10 @@
+[Event "tb28#358 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Kukin G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2R5/1p6/1P5r/K1Pk4/8/8/8/8 w - - 0 1"]
+
+ 1. c6 $1 (1. Kb5 $2 Rh1 $1 2. Rd8+ Ke4 3. c6 Rb1+ 4. Ka5 Ra1+) (1. Rc7 $2 Rh1 $1 2. Rxb7 Ra1+ 3. Kb5 Rb1+ 4. Ka6 Ra1+) 1... Rxc6 (1... bxc6 2. b7) 2. Rc7 $1 Rc5+ (2... Kd6 {main} 3. Rxb7 Rc1 4. Rh7) 3. Kb4 Rc6 4. Kb5 Rd6 5. Rxb7 1-0  

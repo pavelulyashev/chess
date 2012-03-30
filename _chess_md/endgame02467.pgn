@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3n1N1k/8/4P3/P7/7r/3b1p2/5P2/3K4 w - - 0 1"]
+
+ 1. e7 Rd4 2. Kc1 Bb5 3. Nd7 {Novotny} Rxd7 $18 (3... Rc4+ $144 4. Kb2 Rb4+ 5. Ka3 Ra4+ 6. Kb3 Rb4+ 7. Kxb4 Nc6+ 8. Kxb5 Nxe7 $18) (3... Bxd7 $144 4. exd8=Q+ $18) 4. e8=Q+ Kg7 (4... Kh7 $144 5. Qh5+ $18) 5. Qe5+ $18 1-0  

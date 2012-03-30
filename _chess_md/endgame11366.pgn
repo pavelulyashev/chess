@@ -1,0 +1,10 @@
+[Event "2 Prize wp01 tp23 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Bazlov Y, Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1n1NpR2/2r1k3/8/7N/3P4/8/3K4 w - - 0 1"]
+
+ 1. Ne5 (1. Nb8 $143 Rc8 2. Rf2 Rxb8 3. Rb2 Rh8 $11) 1... Rd6 (1... Kxe5 $144 2. Rxe7+ Kd4 3. Nf3+ $1 Kc3 4. Rxb7 Rf6 5. Ne1 $18) (1... Nd6 $144 2. Rxe7+ $1 Kxe7 3. Nxc6+ $18 {EGTB}) 2. Kd2 $1 (2. Nhf3 $143 Rxd3+ $11) (2. Nhg6 $143 Rxd3+ 3. Kc2 Rd7 $1 4. Nf8+ Kxe5 5. Nxd7+ Ke6 6. Ne5 Nd6 $11) (2. Ke2 $143 Nd8 3. Rf5 Rd5 $11) 2... Nd8 (2... Nc5 $144 3. Rf3 Kxe5 (3... Rd5 $144 4. Neg6 $18 Rxd3+ 5. Rxd3 Nxd3 6. Kxd3 $18) 4. Rf5+ Ke6 5. Rxc5 $18) 3. Rf5 Rd5 4. Rf8 $1 Kxe5 5. Ng6+ Kd4 (5... Ke6 $144 6. Nf4+ Ke5 7. Nxd5 Ne6 8. Rf7 Kxd5 9. Rxe7 $18 ) 6. Nxe7 $1 (6. Nf4 $143 e5 $1 (6... Rd6 $143 7. Rxd8 $18) (6... Nc6 $143 7. Nxd5 Kxd5 8. Ke3 e5 9. Ra8 Ne7 10. Ra5+ Ke6 11. Ke4 Nc6 12. Ra6 $18) 7. Nxd5 Ne6 8. Ra8 Kxd5 9. Ke3 Nc5 $11) 6... Ne6 (6... Rd7 $144 7. Rxd8 Rxd8 8. Nc6+ $18) 7. Rf6 Rd6 (7... Rb5 $144 8. Nc6+ $1 (8. Rxe6 $143 Rb2+ 9. Kc1 Rh2 10. Rd6+ Kc3 $11) 8... Kd5 9. Rxe6 Rb6 10. Re5+ $1 (10. Rh6 $143 Rxc6 $11) 10... Kd6 (10... Kxc6 $144 11. Re6+ Kc5 12. Rxb6 Kxb6 13. Ke3 $18) 11. Na5 $1 Kxe5 12. Nc4+ $18) 8. Rf5 $1 Nc5 (8... Rd7 $144 9. Nc6#) (8... Nc7 $144 9. Ra5 Rf6 10. Nf5+ Rxf5 11. Rxf5 $18) 9. Rd5+ Rxd5 10. Nc6# 1-0  

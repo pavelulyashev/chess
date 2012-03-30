@@ -1,0 +1,10 @@
+[Event "ba14#12 {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/1rp5/p2N4/1r6/PP1q1B2/R7/N7/2K2R2 w - - 0 1"]
+
+ 1. Be5 $1 Qxe5 (1... Rxe5 2. Rf8+ Ka7 3. Nc8+ Ka8 4. Ne7+ Ka7 5. Nc6+) 2. Rf8+ Ka7 3. Nc8+ (3. Nxb5+ $2 Rxb5 4. axb5 Qe1+) 3... Ka8 4. Nb6+ $1 (4. Ne7+ $2 Rb8 ) 4... Ka7 5. Ra8+ Kxb6 6. Rxa6+ $1 Kxa6 7. axb5+ Kb6 8. Ra6+ Kxb5 9. Ra5+ Kc4 10. Rxe5 Rb5 11. Re3 $1 c5 (11... Kd4 12. Kd2 Rh5 13. Nc3 Rh2+ 14. Ne2+ Kc4 15. Re4+ Kb3 16. Rg4 Rf2 17. Ke3) 12. Nc3 $1 Rxb4 13. Kc2 1-0  

@@ -1,0 +1,10 @@
+[Event "La Stratйgie {tt} {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4pk2/8/8/2p5/2P5/1K6 w - - 0 1"]
+
+ 1. Kc1 Ke5 2. Kd1 Kd4 3. Ke2 Ke4 4. Kf2 Kf4 5. Ke2 Kg3 (5... Ke4 6. Kf2 { positional draw}) 6. Kd3 $1 (6. Ke3 $2 e5 $1 {mutual zugzwang} 7. Ke2 Kg2 $1 8. Ke1 Kf3 9. Kf1 Ke3 ({or} 9... e4 10. Ke1 Ke3) 10. Ke1 e4 {mutual zugzwang}) 6... e5 $1 (6... Kf3 7. Kxc3 e5 8. Kd2 Kf2 9. Kd3 Kf3 10. Kd2 {positional draw} ) 7. Ke3 $1 {mutual zugzwang} (7. Kxc3 $2 e4 8. Kd2 Kf2 $19) 7... Kg2 8. Ke2 e4 (8... Kg1 9. Ke1 Kg2 10. Ke2 Kg3 11. Ke3 {positional draw}) 9. Ke1 $1 Kf3 10. Kf1 Ke3 11. Ke1 Kf3 12. Kf1 e3 (12... Ke3 13. Ke1 {positional draw - fortress}) 13. Ke1 e2 {stalemate} 1/2-1/2  

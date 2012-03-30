@@ -1,0 +1,10 @@
+[Event "2 Prize ts61 @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Joitsa P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5b2/8/7K/8/6p1/2R1p2p/8/2N3k1 w - - 0 1"]
+
+ 1. Kg5 (1. Kg6 $2 h2 2. Rxe3 Bb4 3. Rd3 Be1 4. Rd1 Kf2 5. Nd3+ Ke2 6. Rxe1+ Kxd3 7. Kg5 g3) 1... h2 2. Nd3 (2. Rxe3 $2 Bh6+ 3. Kxg4 Bxe3 4. Ne2+ Kg2 5. Ng3 Bf2) (2. Ne2+ $2 Kf2 3. Rc1 g3 4. Nxg3 Kxg3) 2... Bh6+ (2... g3 $1 {cook JN}) 3. Kxg4 e2 4. Rb3 (4. Ra3 $2 Bg7 5. Rb3 e1=Q 6. Nxe1 h1=Q 7. Nf3+ Kf2) (4. Rc2 $2 Kf1 5. Rb2 Bc1 6. Rb1 e1=Q 7. Nxe1 h1=Q 8. Rxc1 Ke2 9. Rc2+ Kd1) 4... e1=Q ( 4... Bc1 5. Rb1 e1=Q 6. Nxe1 h1=Q 7. Rxc1 Qe4+ 8. Kg3 Qe5+ 9. Kf3 Qh5+ 10. Ke4 Qe2+ 11. Kd4 Qb2+ 12. Rc3 Qf2+ 13. Re3) 5. Nxe1 h1=Q 6. Ng2 Qh2 (6... Kxg2 7. Rb2+) (6... Qxg2+ 7. Rg3) (6... Bc1 7. Rh3) 7. Rb1+ Kf2 8. Rb2+ 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "wv04 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Kajev L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/P6n/8/5bp1/5k2/2B2P1p/5K2 w - - 0 1"]
+
+ 1. Bd1+ Ke4 2. Kg2 h1=Q+ (2... Bb8 3. f3+ gxf3+ 4. Bxf3+ Ke3 5. Bd1) 3. Kxh1 Bb8 4. a7 (4. Bxg4 $2 Nxg4 5. a7 Nxf2+ 6. Kg2 Bxa7) 4... Bxa7 5. Bxg4 Nxg4 6. f3+ Kxf3 1/2-1/2  

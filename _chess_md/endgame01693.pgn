@@ -1,0 +1,10 @@
+[Event "1/2 Prize Merani Zarja Vostoka @3 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/3pkP2/5p1P/4pKPP/2n5/4P1p1/5pP1/8 w - - 0 1"]
+
+ 1. Kg6 Nd6 (1... f1=Q 2. Kg7 fxg5 3. Bf3) 2. f8=Q+ $1 Kxf8 3. h7 Nf7 4. Bd5 Nh8+ 5. Kh6 f1=N $1 (5... fxg5 $1 {cook WV}) (5... f1=Q 6. g6 Qf5 (6... Nxg6 7. Kxg6 Qb1+ 8. e4) 7. g7+ Ke7 8. g8=Q) 6. g6 Nxe3 7. g7+ Ke7 8. g8=N+ $1 (8. g8=Q $2 Nf5#) (8. gxh8=Q $2 Nf5+ 9. Kg6 Nh4+ 10. Kg7 Nf5+ 11. Kg8 Nh6+ 12. Kg7 Nf5+) 8... Kf8 9. Nxf6 Nxd5 10. Nxd5 Kf7 11. Kg5 Kg7 (11... Ke6 12. Nc3 d5 13. Kh6 d4 14. Ne4 Kd5 15. Nxg3) (11... e4 12. h6 Ke6 13. Nf4+ Kf7 14. Ne2) 12. h6+ Kxh7 13. Nf6# 1-0  

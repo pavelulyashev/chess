@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Kalinin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/2p5/8/2R5/3p1K2/7b/2B2kp1/8 w - - 0 1"]
+
+ 1. Be4 $1 (1. Rg5 $2 g1=Q 2. Rxg1 Kxg1 3. Kg3 Bg2) 1... g1=Q 2. Rc2+ Ke1 3. Rc1+ Kf2 4. Rxg1 Kxg1 5. Kg3 $1 c5 (5... Bc8 6. Bg2) (5... Kf1 6. Kxh3 Ke2 7. Kg2 d3 8. Bf3+ Ke1 9. Bxc7 d2 10. Bg3#) (5... d3 6. Ba7+ Kf1 7. Bxd3+ Ke1 8. Kxh3) (5... Bf1 6. Ba7 $1 (6. Bxc7 $2 Ba6 7. Bg2 Bf1 $1 8. Be4 Ba6) 6... Ba6 7. Bg2 c5 8. Bxc5) 6. Kxh3 Kf2 7. Ba7 Ke3 8. Bd5 d3 9. Bxc5+ Ke2 10. Kg2 d2 11. Bf3+ Ke1 12. Bf2# 1-0  

@@ -1,0 +1,10 @@
+[Event "Tidskrift fцr Schack {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Bergkvist D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2q1NQNR/3k1PP1/3Prr2/4bR1p/8/3p4/8/4K3 w - - 0 1"]
+
+ 1. Qe7+ Rxe7 (1... Kc6 2. Nexf6 $18 (2. Rxe5 $18)) 2. f8=N+ (2. Nexf6+ $2 Bxf6+ 3. dxe7 Qc1+ 4. Kf2 Bd4+ $11 5. Kf3 Qe3+ 6. Kg2 Qg1+ 7. Kh3) (2. Ngxf6+ $2 Bxf6+ 3. dxe7 Qc1+ 4. Kf2 Bd4+ $11) 2... Rxf8 (2... Kxe8 3. d7+ $18 (3. Nxf6+ Bxf6+ 4. Ne6+ Kd7 5. Rxc8 Rxe6+ 6. Kd2 $18 (6. Kd1 Bxg7 (6... Kxc8 7. g8=Q+ $18 {Van Beers}) 7. Rc7+ Kxd6 8. Rxg7 $18 {Van den Heuvel/Van de Gevel}) 6... Bxg7 7. Rc7+ Kxd6 8. Rxg7 $18) 3... Rxd7 (3... Kd8 4. dxc8=Q+ Kxc8 5. Nxe7+) (3... Qxd7 4. Nxf6+ Bxf6+ 5. Ne6+ Kf7 6. g8=Q#) 4. Nxf6+ Bxf6 5. Ne6+) 3. gxf8=N+ (3. Nef6+ $2 Bxf6+ $19 4. Nxe7 Qc1+) (3. Ngf6+ $2 Bxf6+ $19) 3... Kxe8 (3... Kd8 4. dxe7+ Kxe8 5. Nf6+ Kxe7 (5... Bxf6 6. Ng6+ $18) 6. Ng6+ $18) (3... Kc6 4. Nxe7+ $18) 4. d7+ (4. Nxe7 $2 Qc1+ $19 5. Kf2 Qd2+ 6. Kf1 Qe2+) (4. Nf6+ $2 Bxf6+ $19 5. Ne6+ (5. dxe7 Bc3+ 6. Kf2 Qxf5+) 5... Bxh8 (5... Kd7) 6. Rf8+ Kd7 7. Rxc8 Rxe6+) 4... Qxd7 (4... Rxd7 5. Rxe5+ $18 Kxf8 (5... Re7 6. Rxe7+ Kxf8 7. Nh6+ Kxe7 8. Rxc8) (5... Kf7 6. Nh6+ Kf6 (6... Kg7 7. Rg8+ Kxh6 8. Rg6#) 7. Rf5+ Ke7 8. Ng6+) 6. Ne7+) 5. Nf6+ (5. Nxd7 $2 {+- Van Beers} 5... Bc3+ $1 (5... Bxh8+ $2 6. Nxe7 $18) 6. Kf1 (6. Kd1 $4 Re1#) 6... Re1+ 7. Kf2 Re2+ 8. Kf3 Bxh8 $11) 5... Bxf6+ (5... Kd8 6. Ne6#) (5... Kf7 6. N6xd7+ $18) 6. Ne6+ Kf7 (6... Bxh8 7. Rf8#) 7. Rf8+ Kxe6 (7... Kg6 8. R8xf6+ Kh7 9. Rxh5+ Kg8 10. Rf8#) 8. R8xf6# 1-0  

@@ -1,0 +1,10 @@
+[Event "1 Prize ws27 tp25 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Salai L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B3k/p1p3R1/1b6/8/Pp3p1P/1P5P/P1p2P2/6K1 w - - 0 1"]
+
+ 1. Bf6 c1=Q+ 2. Kh2 Qa3 $1 (2... Qc6 3. Ba1 Qa8 (3... Bd4 4. Bxd4 Qe4 5. Ba1) 4. h5 $1 Bxf2 $1 (4... Qf8 5. h6) 5. Rxc7+ $1 (5. h6 $2 Be1 $1) 5... Kg8 6. h6 Qe4 7. h7+) 3. Rxc7+ (3. h5 $2 Qxa2 4. h6 Qxf2+ 5. Rg2+ Kh7 6. Rxf2 Bxf2 7. Kg2 Be3 8. Bg7 c5) (3. f3 $2 Bf2 $1 4. Rxc7+ (4. h5 $2 Bg3+) 4... Kg8 5. Rc2 Kf7) 3... Kg8 4. Rc2 Bxf2 5. Be5 $1 (5. Kg2 $2 Be1 $1 6. Be5 Bc3 7. Bxf4 Bb2) 5... Be3 6. Kg2 Bd2 $1 (6... Kf7 7. Kf3 Kg6 8. Bxf4) 7. Kf3 Bc3 8. Kxf4 Kh7 (8... Kf7 9. Kf5 $1) 9. Kf5 $1 (9. h5 $2 Kh6 $1 10. Kf5 Bxe5 11. Kxe5 Kxh5) 9... Bxe5 $1 (9... a6 10. h5 Bxe5 11. Kxe5 Kh6 12. Kf4 Kxh5 13. h4 $1) 10. Kxe5 Kg6 11. Kf4 (11. Kd6 $2 Kh5 12. Kc6 Kxh4 13. Kb7 a5 $1 14. Kb6 Kxh3 15. Kxa5 Kg3) 11... Kh5 12. Kg3 a6 $1 13. Rc5+ $1 Kg6 $1 (13... Kh6 14. Rc6+ $1 Kh5 15. Rc2) 14. h5+ $1 (14. Rc6+ $2 Kf5 $1 15. Rc2 Ke4) 14... Kh6 (14... Kf6 15. Rc2 Ke5 16. h6 ) 15. Rc2 Kxh5 16. h4 Kg6 17. Kg4 Kf6 (17... a5 18. h5+ Kf6 19. Kf4 Ke6 20. Kg5 $1 Ke5 21. h6 Ke4 22. h7 Kd3 23. Rc8 $1 Qb2 24. h8=Q) 18. h5 $1 Ke5 19. h6 $1 Kf6 20. Kh5 a5 $1 21. h7 $1 Kg7 22. h8=Q+ $1 (22. Rc7+ $2 Kh8 23. Kg6 Qc1 $1 24. Rxc1) 22... Kxh8 23. Kg6 1-0  

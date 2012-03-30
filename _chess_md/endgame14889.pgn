@@ -1,0 +1,10 @@
+[Event "tl20#397 @3 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Daniel A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5n2/7p/3pN2q/1K1pk2P/1B1N2P1/8/8 w - - 0 1"]
+
+ 1. Bxd5+ Kxd5 (1... Ke3 2. Nc4+ Kxd3 3. Bxf7 Qxf7 4. Ne5+ Ke2 5. Nxf7 d3 6. Nd6 ) 2. Nf4+ Ke4 (2... Kxe5 3. Nxh5 Nd6 4. g4) 3. Nxh5 Nxe5 4. Ng7 Nf3 (4... Nc6+ $1 {cook JN} 5. Kb3 d3 6. Nh5 (6. g4 Nd4+) 6... Nd4+ 7. Kc3 Ke3 8. Nf6 Nb5+ 9. Kb2 d2 10. Nd5+ Kf2 11. Kc2 Ke1 12. Ne3 Ke2 13. Nd1 Nd4+) 5. h5 Ke3 6. Ne6 d3 7. Kc3 d2 8. Kc2 Kf2 (8... Ne1+ $1 {cook} 9. Kd1 Nd3 $1) 9. Kd1 Kxg3 10. Ng7 Kg4 11. Ke2 Kg5 12. Kd1 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "td30 {m}"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/p7/8/5N2/BRpK1p2/1b3P2/1r1k4 w - - 0 1"]
+
+ 1. Nd5 $1 (1. Bxb2 $2 c2 $1) 1... Ra1 (1... c2 2. Ne3+) (1... Rc1 2. Bxb2 cxb2 3. Nc3+ Ke1 4. Rxb2 Kf1 5. Ne4 Re1 $1 6. Ra2 Kg2 7. Rxa6 Re2 8. Rg6+ Kf1 9. Ng3+ Kxf2 10. Nxe2 fxe2 11. Rf6+) 2. Rxb2 $1 cxb2 3. Bxb2 Ra2 (3... Ra4 4. Nc3+ Ke1 5. Nxa4 Kxf2 6. Nc3) 4. Nc3+ Ke1 5. Nxa2 Kxf2 6. Nc3 Kg2 7. Nd1 f2 8. Ne3+ Kf3 9. Nf1 1-0  

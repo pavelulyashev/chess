@@ -1,0 +1,10 @@
+[Event "Polasek&Vlasak50JT_2-4thPrize {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4r3/3RBP2/8/8/8/2kr4/2P5/1K6 b - - 0 1"]
+
+ 1... Rb8+ 2. Bb4+ (2. Rb7 $2 Rxb7+ 3. Kc1 Rxe7 4. f8=Q Re1#) 2... Rxb4+ 3. Kc1 Rf3 (3... Rxd7 4. f8=Q Rd5 {is the same as main}) 4. Rd3+ $1 Rxd3 5. f8=Q Rd5 $1 {The only good defence. It is not easy to find attacking White moves.} (5... Rdd4 6. Qf3+ {not only move} Kc4 7. Qc6# (7. c3)) 6. Qf6+ $1 {hard to find} (6. Qc8+ $2 Rc4 7. Qb7 Rcc5) (6. Qf3+ $2 Kc4) 6... Kc4 (6... Rbd4 7. Qc6+ Kb4 8. c3+ {first fork}) 7. c3 $1 {the point of 6.Qf6} Rbb5 8. Kc2 $1 { another quiet move} Kc5 (8... Re5 9. Qf4+ Kd5 10. c4+ {second fork}) (8... Ra5 9. Qc6+ Rdc5 10. Qe4+ Kb5 11. Qb7+ Kc4 (11... Ka4 {not only} 12. Qb3# (12. Qb4# ) (12. Qb2)) 12. Qb3#) 9. c4 Kxc4 (9... Rb6 10. Qf2+ Rd4 11. Kc3 Rbd6 12. Qf5+ Kc6 13. Qc8+ Kb6 14. c5+ {third fork}) 10. Qc3# 1-0  

@@ -1,0 +1,10 @@
+[Event "tm16 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3PK3/8/8/3N1p2/3p4/7k w - - 0 1"]
+
+ 1. d7 Kg1 2. d8=Q d1=Q 3. Qd4+ f2 (3... Kh2 4. Qd6+ Kg1 5. Qg3+) 4. Qxf2+ Kh1 5. Qh4+ Kg2 (5... Kg1 6. Qg3+ Kh1 7. Nf2#) 6. Nf4+ Kg1 7. Qg3+ Kf1 8. Qg2+ Ke1 9. Ke7 $1 9... Qd4 10. Qe2# 1-0  

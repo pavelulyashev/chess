@@ -1,0 +1,10 @@
+[Event "tc06#3382 @1 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kn6/8/5N2/5n1K/B7/8/5B2/8 w - - 0 1"]
+
+ 1. Bc2 (1. Nd7 $1 {cook JN}) 1... Nd6 (1... Ne7 2. Be4+ Nec6 (2... Nbc6 3. Ng8 $1 Kb8 (3... Nxg8 4. Bxc6+ Kb8 5. Bh4 Kc8 6. Bd5) 4. Bh4 Nxg8 5. Bxc6 Kc7 6. Bd5) 3. Nd7 $1 Nxd7 (3... Kb7 4. Nxb8) 4. Bxc6+) 2. Ne8 $1 Nxe8 (2... Nb7 3. Nc7#) 3. Be4+ Nc6 4. Bxc6+ Kb8 5. Bxe8 1-0  

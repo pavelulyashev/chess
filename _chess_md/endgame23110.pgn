@@ -1,0 +1,10 @@
+[Event "mp07 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7r/n7/B3R3/4N3/5r1b/1k6/4K3/8 w - - 0 1"]
+
+ 1. Ng6 (1. Rb6+ $2 Kc3 2. Ng6 Re8+) (1. Bc4+ $2 Rxc4 2. Nxc4 Kxc4) 1... Rf2+ ( 1... Rh6 2. Nxf4) (1... Nc6 2. Nxf4 Nd4+ 3. Kd3 Nxe6 4. Nxe6 Rh6 5. Bc4+) 2. Ke3 (2. Ke1 $2 Rf6+ 3. Nxh4 Rxe6+) (2. Kd3 $2 Rd8+ 3. Ke3 Rf6) 2... Rh6 (2... Rf6 3. Rxf6 Bxf6 4. Nxh8) 3. Bc4+ (3. Nxh4 $2 Rxe6+ 4. Kxf2 Rxa6) (3. Rb6+ $2 Kc3 4. Nxh4 Rxb6) 3... Kxc4 4. Ne5+ Kd5 5. Rxh6 Rh2 (5... Bg5+ 6. Kxf2) 6. Kf3 (6. Nf3 $2 Bg5+) (6. Kf4 $2 Bg3+) (6. Rh5 $2 Bf2+) (6. Ra6 $2 Kxe5 7. Rxa7 (7. Ra5+ Kd6 8. Ra6+ Nc6) 7... Bf2+) 6... Kxe5 7. Rh7 (7. Rh8 $2 Kf5) (7. Kg4 $2 Bg3 8. Ra6 Bf2) (7. Rh5+ $2 Ke6 8. Kg4 (8. Rh7 Nc6 9. Kg4 Ne5+) 8... Bg3 9. Ra5 Bb8) 7... Rf2+ (7... Nb5 8. Rh5+) (7... Nc6 8. Kg4 Bg3 9. Rc7 Kd6 10. Kxg3) 8. Ke3 $1 (8. Kg4 $2 Rf4+ 9. Kh3 Bf2) 8... Rh2 (8... Rf4 9. Rh5+ Rf5 10. Rxh4) 9. Kf3 Rf2+ 10. Ke3 1/2-1/2  

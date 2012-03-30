@@ -1,0 +1,10 @@
+[Event "tt22#3168 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/4pp2/3k1pN1/2p1Rn2/3p4/2RK4 w - - 0 1"]
+
+ 1. Rcxc3 (1. Rexc3 $2 dxc1=Q+ 2. Rxc1 fxg4) (1. Rxf3 $2 dxc1=Q+ 2. Kxc1 fxg4) 1... fxe3 2. Rxe3 fxg4 3. Re2 e4 4. Rg2 e3 5. Rxg4+ Kd3 6. Rg2 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "bs15-140 @3 {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5b2/5b2/1B2p3/8/3K1P2/1k6/8/8 w - - 0 1"]
+
+ 1. f5 $1 (1. Ke5 $2 Bg7+ 2. Kd6 Bf6) 1... exf5 (1... Bg7+ 2. Ke4) 2. Ke5 Bg6 3. Kf6 Bh7 4. Be3 Kc4 5. Bf4 $1 (5. Kf7 $2 Bc5 6. Bf4 Bd4) (5. Bc1 $2 Kd3 6. Kf7 Bc5 7. Kg7 Be3 8. Bb2 f4) (5. Bg5 $2 Kd3 $1 6. Kf7 Bb4 $1 7. Kg7 Bd2 8. Bh4 f4 9. Kxh7 Ke2 10. Kg6 Be1) 5... Kd5 6. Bd2 Ke4 7. Kf7 Bc5 8. Kg7 Be3 9. Be1 f4 10. Kxh7 Kd3 (10... Kf5 $1 {cook JN} 11. Kh6 (11. Kg7 f3 12. Kf7 Bg1 13. Ke7 Kg4 14. Ke6 Bh2) 11... Kg4 $1 12. Kg7 f3 13. Kg6 (13. Kf6 Bg5+) 13... Bg1 14. Kh6 Bh2 15. Bf2 Kh3 $1 16. Kg5 Kg2 $1) 11. Kg6 Ke2 12. Bh4 f3 13. Kf5 Bf2 14. Be7 Be1 15. Bc5 Bd2 16. Ke4 1/2-1/2  

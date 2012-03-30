@@ -1,0 +1,10 @@
+[Event "tn04 {v} {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k5/8/8/1R3N2/8/5K2/2p3n1/6b1 w - - 0 1"]
+
+ 1. Rb4 Ne1+ (1... Ne3 2. Nxe3) (1... Nh4+ 2. Rxh4) 2. Kg3 $1 (2. Ke2 $2 c1=Q 3. Rc4+ Qxc4+) (2. Kg4 $2 c1=Q 3. Rc4+ Qxc4+) (2. Ke4 $2 c1=Q 3. Rc4+ Qxc4+) 2... Bh2+ 3. Kh3 $1 (3. Kxh2 $2 Nf3+) 3... c1=Q 4. Rc4+ Qxc4 5. Nd6+ Bxd6 1/2-1/2  

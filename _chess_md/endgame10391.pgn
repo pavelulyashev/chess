@@ -1,0 +1,10 @@
+[Event "3 Prize mh09 tz16 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3pp3/6N1/K6p/2P2P2/1b2k1N1 w - - 0 1"]
+
+ 1. Kb2 (1. Nxh3 $2 Bxc2 2. Nxe5 Bf5) 1... h2 $1 2. Nf3+ Ke2 $1 (2... Kd1 3. Ne3+ Ke2 4. Nxh2 Bxc2 5. Kxc2 Kxf2 6. Nxd5 e4 7. Ng4+) 3. Nfxh2 Bxc2 4. Kxc2 d4 $1 5. Nf1 $1 (5. Nxe5 $2 d3+ 6. Nxd3) (5. f3 $2 d3+ 6. Kc3 d2 7. Nf2 Kxf2 8. Kxd2 Kg2 9. Ke3 Kxh2 10. Ke4 Kg3) 5... Kxf1 6. Kd3 Kg2 7. Ke4 d3 $1 8. Ke3 $1 ( 8. Kxd3 $2 Kf3) 8... d2 9. Kxd2 Kf3 10. Kd3 Kxg4 11. Ke4 Kg5 12. Kxe5 1-0  

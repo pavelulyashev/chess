@@ -1,0 +1,10 @@
+[Event "tt06#0340 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Carpenter G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/N7/3K4/8/8/8/pppppppp/rnbqkbnr w - - 0 1"]
+
+ 1. Nc6 Na3 $1 (1... Nc3 2. Ne5 $1) (1... Nf3 2. Nb4 $1) 2. Nb4 $1 (2. Ne5 $2 Nc4+ 3. Nxc4 b1=Q) (2. Nd4 $2 Nb5+) 2... Nc4+ 3. Ke6 Ne5 4. Kxe5 Nf3+ 5. Kd5 Ne5 6. Kxe5 b1=Q 7. Nd3# 1-0  

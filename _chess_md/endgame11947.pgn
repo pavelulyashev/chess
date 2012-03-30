@@ -1,0 +1,10 @@
+[Event "tm04#1448 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kitsigin V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2K5/3p4/2k5/1pP1p3/1P2p2p/2P1p1P1/B4p2/6N1 w - - 0 1"]
+
+ 1. Nf3 exf3 (1... d6 2. Nxe5+ dxe5 3. Bb1 Kd5 4. Ba2+ Kc6 5. Bb1) 2. Bb1 $1 Kd5 $1 (2... f1=Q $2 3. Be4+ d5 4. Bf5 Qh3 5. g4 $1 Qxg4 6. Bxg4 d4 7. Bxf3+ e4 8. Bxe4#) 3. Ba2+ Ke4 4. Bb1+ Kd5 5. Ba2+ Kc6 6. Bb1 $1 1/2-1/2  

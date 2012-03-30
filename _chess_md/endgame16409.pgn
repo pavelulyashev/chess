@@ -1,0 +1,10 @@
+[Event "tt22 @2 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k2q2/2P5/1P2P3/2r1P3/8/8/1Q2K3/8 w - - 0 1"]
+
+ 1. e7 $1 (1. b7+ $2 Kxc7 2. e7 Qb8 $1) 1... Qxe7 2. b7+ Kd7 $1 3. c8=Q+ $1 (3. b8=Q $2 Rxe5+) (3. Qb5+ $1 {cook JN}) 3... Rxc8 4. Qd4+ $1 (4. Qb5+ $2 Kd8 5. Qb6+ Qc7 $1) 4... Kc7 5. Qb6+ $1 Kb8 6. Qa7+ $1 Kxa7 7. bxc8=N+ 1-0  

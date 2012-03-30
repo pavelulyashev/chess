@@ -1,0 +1,10 @@
+[Event "1 Prize mr06 tv10 {c} {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k7/P2b2P1/KP1Pn2P/8/8/2n1p1Qp/8 w - - 0 1"]
+
+ 1. b6+ $1 Ka8 2. Qe4 $1 (2. Qh1 $2 Nc4+ $3 3. Kb5 Nxb6 4. Kxb6 e1=Q 5. Qxe1 Nxe1 6. g7 h1=Q 7. g8=Q+ Bb8 8. a7 Qg1+ $3 9. Qxg1 Bxa7+ 10. Kc6 Bxg1) 2... e1=Q+ 3. Qxe1 Nxe1 4. g7 h1=Q 5. g8=Q+ Bb8 6. a7 Nc6+ $1 7. dxc6 Qxh5+ 8. Qg5 $1 Qxg5+ 9. Ka6 Bxa7 10. c7 1-0  

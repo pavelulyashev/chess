@@ -1,0 +1,10 @@
+[Event "tc06#255 @2 {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6R1/8/8/6p1/8/5KB1/8/1bb2k2 w - - 0 1"]
+
+ 1. Rh8 g4+ $1 2. Kxg4 Be4 (2... Kg1 3. Kf3) (2... Kg2 3. Rh2+ Kg1 4. Re2) (2... Ke2 3. Rh1 Kd2 4. Bf4+) 3. Re8 Bh1 $1 4. Re1+ Kg2 5. Re2+ (5. Be5 $1 {cook RM}) 5... Kf1 6. Rf2+ Kg1 7. Ra2 Kf1 8. Kh3 1-0  

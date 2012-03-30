@@ -1,0 +1,10 @@
+[Event "5 Prize, wm03 {c} {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n5/q4Pp1/6k1/6P1/7P/4N1pK/1pp3P1/5R2 w - - 0 1"]
+
+ 1. f8=N+ $1 (1. f8=Q $2 Qd7+ 2. Kxg3 (2. Ng4 c1=Q) 2... c1=Q 3. h5+ Kxh5 4. Qf3+ Kxg5 5. Qf4+ Kh5 6. Qh4+ Kg6 7. Qe4+ Kg5) 1... Kh5 2. Nf5 Qc7 3. Rf4 Qc3 4. Rd4 Qc7 5. Rd6 Qc3 6. Rf6 Qc7 7. Rf7 Qe5 8. Nxg7+ Qxg7 9. Rxg7 c1=Q 10. Rh7# 1-0  

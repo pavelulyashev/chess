@@ -1,0 +1,10 @@
+[Event "wi04 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Garcia M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2K5/B1p5/1p3N2/N4n2/1k6/4p3/1P1pP3/8 w - - 0 1"]
+
+ 1. Nd5+ Kxa5 2. Nc3 Nd6+ 3. Kb8 (3. Kd7 $2 Nb5 4. Nd1 Nxa7 5. Kxc7 Nb5+ 6. Kc6 Kb4 7. Kd5 Nc7+ 8. Kc6 Ne6 9. Kd5 Nc5 10. Kd4 Kb3 11. Kxe3 Kc2 12. Nf2 Ne6) 3... Nb5 4. Nd1 Ka6 5. Nxe3 Nxa7 6. Kxc7 Kb5 7. Kd6 Kb4 (7... Nc6 8. Nd1) 8. Kd5 (8. Nd1 $2 Nb5+ 9. Kd5 Kb3 10. e4 Kc2 11. Nf2 Nc7+) 8... Kb3 9. Kd4 (9. Nd1 $2 Nc8 10. Ke6 (10. e4 Kc2 11. Ne3+ Kxb2 12. e5 Kc1) (10. Kd4 Kc2 11. Nf2 Nd6) 10... b5 11. Kd7 Nb6+) 9... Kxb2 10. Nc4+ Kc1 11. Nxd2 Kxd2 12. e4 1/2-1/2  

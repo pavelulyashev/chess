@@ -1,0 +1,10 @@
+[Event "ts69#307 @3 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5r1k/5pR1/b4PP1/5P2/K7/P7/4P2p/4b3 w - - 0 1"]
+
+ 1. Rh7+ Kg8 2. g7 Bb5+ 3. Kb3 Bc4+ (3... Ba4+ $1 {cook HH} 4. Ka2 Bb3+ $1 5. Kb1 Bc2+ 6. Ka2 Bb1+ $1 7. Ka1 Bc3+) 4. Kc2 Bd3+ 5. Kd1 Bxe2+ 6. Kxe1 Kxh7 $1 { cook HH} 7. gxf8=Q h1=Q+ 8. Kxe2 Qe4+ 1-0  

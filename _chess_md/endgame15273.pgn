@@ -1,0 +1,10 @@
+[Event "2/3 Commendation js10 ts98 @3 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Sidorov B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6P1/1b6/8/6pk/Q7/8/3rn2K w - - 0 1"]
+
+ 1. Qe7+ $1 (1. Qb3 $2 Nc2+) 1... Kh3 $1 (1... Kg3 $1 {cook GH/GJ} 2. Qe2 Nd3+ 3. Qxd1 Nf2+ 4. Kg1 Nxd1+ 5. Kf1 Kf3 6. g8=Q Ne3+ 7. Kg1 Nf5+) 2. Qe2 Nd3+ 3. Qxd1 Nf2+ 4. Kg1 Ne4+ $1 (4... Nxd1+ 5. Kf1 Ne3+ 6. Ke2 g3 7. g8=Q g2 8. Kf3 Kh2 9. Qh7+ Kg1 10. Qb1+ Kh2 11. Qxb6 g1=Q 12. Qh6#) 5. Kf1 Ng3+ 6. Ke1 Ba5+ 7. Qd2 $1 (7. Kf2 $2 Bb6+ 8. Ke1 Ba5+) 7... Bxd2+ 8. Kd1 $1 (8. Kxd2 $2 Ne4+) 8... Nf1 $1 {cook MR} 9. g8=Q g3 10. Qh8+ Kg2 11. Ke2 Kg1 1-0  

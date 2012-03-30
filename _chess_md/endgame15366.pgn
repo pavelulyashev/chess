@@ -1,0 +1,10 @@
+[Event "jh01 ts53#09918 {c} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Zakharov S, Sochnev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p1K1pp1/8/2P1pp2/P4P2/p1k5/P7/8 w - - 0 1"]
+
+ 1.a5 (1.c6 $2 bxc6 2.a5 exf4) (1.Kc7 $2 exf4) 1...e4 (1...exf4 2.a6 f3 3.axb7 f2 4.b8=Q f1=Q 5.Qb3+) 2.c6 (2.a6 $2 bxa6 3.c6 e3 4.c7 e2 5.c8=Q+ Kd2) 2...bxc6 3.a6 e3 4.a7 e2 5.a8=Q Kd2 6.Qa5+ Kd1 7.Qa4+ Ke1 (7...Kd2 8.Qd4+ Ke1 9.Qe3 Kd1 10.Qd3+ Ke1 11.Qxa3) 8.Qxa3 Kf2 9.Qc5+ Kf1 10.Qc4 Kf2 11.Qd4+ (11.Qc2 $2 g5 $1 (11...Kf1 $2 12.Qd3)) 11...Kf1 12.Qd3 Kf2 13.Qd2 Kf1 14.a4 e1=Q 15.Qxe1+ Kxe1 16.a5 g5 17.a6 g4 18.a7 g3 19.a8=Q g2 20.Qa1+ Kf2 21.Qa2+ Kf1 22.Qxf7 g1=Q 23.Qc4+ Kg2 24.Qg8+ Kf1 25.Qxg1+ Kxg1 26.Ke6 Kf2 27.Kxf5 Ke3 28.Kg4 (28.Ke5 $2 c5 29.f5 c4 30.f6 c3 31.f7 c2 32.f8=Q Kd2) 28...c5 29.f5 c4 30.f6 c3 31.f7 c2 32.f8=Q c1=Q 33.Qf4+   1-0    

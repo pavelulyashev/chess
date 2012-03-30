@@ -1,0 +1,10 @@
+[Event "td05 @1 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6q1/8/8/5k1N/3K4/8/4Q3/8 w - - 0 1"]
+
+ 1. Qe4+ (1. Qc2+ $1 {cook JU}) 1... Kg5 2. Qg2+ Kf5 3. Ng3+ (3. Qxg8 $2) 3... Kg6 (3... Kf6 4. Ne4+ Kf7 5. Nd6+ Kf8 6. Qf3+ Kg7 (6... Ke7 7. Nf5+ Kd7 8. Qb7+ ) 7. Nf5+ Kh8 8. Qh5+ Qh7 9. Qe8+ Qg8 10. Qe5+ Kh7 11. Qh2+ Kg6 12. Ne7+) 4. Nf5+ (4. Ne4+ $1 {cook} Kf7 5. Nd6+ Kf8 6. Qf3+ Ke7 (6... Kg7 7. Nf5+ Kh8 8. Qh5+ Qh7 9. Qe8+ Qg8 10. Qe5+ Kh7 11. Qh2+ Kg6 12. Ne7+) 7. Nf5+ Kd7 8. Qb7+) 4... Kh5 5. Qh3+ (5. Qxg8 $2) 5... Kg5 6. Qg3+ Kh5 7. Qh4+ Kg6 8. Ne7+ 1-0  

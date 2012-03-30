@@ -1,0 +1,10 @@
+[Event "tr11#0446 {c} {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k3B3/8/2K5/8/1p2r3/8/1N6/B7 w - - 0 1"]
+
+ 1. Bh5 Re6+ (1... Re1 2. Bd1 (2. Nd1 $2 Rh1 3. Bg4 Rg1 4. Bf3 Rf1 5. Be2 Re1)) 2. Kc7 Ra6 (2... Re7+ 3. Kc8 Re1 4. Bf3+ Ka7 5. Nd1) 3. Bf3+ Ka7 4. Na4 $1 Rxa4 (4... Rh6 5. Bd4+ Ka6 6. Nc5+ Ka5 7. Bc6 Rxc6+ 8. Kxc6) 5. Bd4+ Ka6 6. Be2+ (6. Bb7+ $2 Kb5 7. Bc6+ Kc4) 6... Ka5 7. Bb6# 1-0  

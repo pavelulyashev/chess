@@ -1,0 +1,10 @@
+[Event "1 Prize ts25#118 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3r4/8/3pR3/K7/7p/p2N4/4P3/3k4 w - - 0 1"]
+
+ 1. Nb4 Ra8+ 2. Kb5 Rb8+ 3. Ka4 Rxb4+ $1 4. Kxb4 $1 (4. Kxa3 $143 Rd4 $19) 4... a2 5. Rg6 $1 (5. Rxd6+ $143 Kc2 6. Ra6 Kb1 7. e4 h3 8. e5 h2 9. e6 h1=Q $19) 5... Kc2 6. Rg1 Kb2 7. Rg2 $1 h3 (7... a1=Q $144 8. e3+ $1 (8. e4+ $143 Kb1 9. Kb3 Qd4 $19) 8... Kc1 (8... Kb1 $143 9. Kb3 $19) 9. Rg1+ Kb2 10. Rg2+ $11) 8. Rh2 a1=Q 9. e4+ $1 (9. e3+ $143 Kb1 10. Kb3 Qa8 $19) 9... Kc1 (9... Kb1 $143 10. Kb3 $19) 10. Rh1+ Kb2 11. Rh2+ $11 1/2-1/2  

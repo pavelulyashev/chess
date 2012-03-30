@@ -1,0 +1,10 @@
+[Event "Internet {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Aliev I"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5K2/8/1P2P1N1/7k/1r6/8/8/4b3 w - - 0 1"]
+
+ 1. e7 Re4 2. b7 Bg3 3. Ne5 $1 {Nowotny} Rxe5 4. b8=Q Rf5+ 5. Kg8 $1 Rg5+ 6. Kh7 $1 Bxb8 7. e8=Q+ 1/2-1/2  

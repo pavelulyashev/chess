@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3N4/8/7k/3n4/4p1K1/8 w - - 0 1"]
+
+ 1. Nf5+ 1... Kg4 $1 (1... Kg5 2. Nd4 e1=Q 3. Nf3+) 2. Ne3+ Kf4 3. Nc2 Ke4 (3... Nc1 4. Kf2 Ke4 5. Nb4 Kd4 6. Na2) 4. Ne1 $1 (4. Kg3 $2 4... Nc1 $1 5. Kf2 Kd3) 4... Ke3 $1 (4... Nxe1+ 5. Kf2 Kd3 6. Kxe1 Ke3) 5. Nc2+ 5... Ke4 $1 (5... Kd2 6. Nd4 e1=Q 7. Nf3+) 6. Ne1 $1 1/2-1/2  

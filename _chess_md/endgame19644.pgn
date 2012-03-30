@@ -1,0 +1,10 @@
+[Event "tc06#122 {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2R5/5rq1/2R5/4pP2/4P2P/5K2/8/k7 w - - 0 1"]
+
+ 1. Ra6+ Kb2 2. Rb8+ Rb7 (2... Kc3 3. Rc6+ Kd2 4. Rd8+ Rd7 5. Rc7 Qh6 6. Rcxd7+) 3. Ra7 Qf6 4. Raxb7+ Kc3 5. Rc8+ Kd2 6. Rd7+ Ke1 7. Rc1# 1-0  

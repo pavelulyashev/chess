@@ -1,0 +1,10 @@
+[Event "tb25 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/kp3p2/1p2PP2/1P6/6p1/3K1bp1/8/8 w - - 0 1"]
+
+ 1. Ke3 Bd5 2. e7 Bh1 3. Ke2 (3. e8=Q g2 4. Kf2 g3+ 5. Kg1) 3... g2 4. Kf2 g3+ 5. Kg1 Kb8 6. e8=Q+ 1-0  

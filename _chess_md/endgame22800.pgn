@@ -1,0 +1,10 @@
+[Event "1 Prize, ts21#53 {c} {m}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Tkachenko SN"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K2R2/6k1/8/3p1p2/8/N5N1/3r4/8 w - - 0 1"]
+
+ 1. Re8 $1 (1. Rxf5 $2 Rd3 2. Nh5+ Kg6 3. Nf4+ Kxf5 4. Nxd3 Ke4 5. Nc5+ Kd4 6. Na6 Kd3) (1. Rd8 $2 Rd3 2. Nxf5+ Kg6 3. Ne7+ Kf7) 1... Rd3 (1... Kf7 2. Re3 f4 3. Rf3) 2. Nxf5+ $1 (2. Nh5+ $2 Kh6 3. Rh8+ Kg5 4. Nb5 Rh3) 2... Kg6 $1 (2... Kf6 3. Rf8+ Kg5 4. Nb5 Rf3 5. Nbd4) 3. Ne7+ Kf7 4. Nb5 $1 Kxe8 5. Ng6 $1 Rc3+ $1 (5... Kf7 6. Ne5+) (5... Rd1 6. Nd6#) 6. Nxc3 d4 7. Ne4 $1 (7. Nb5 $2 Kf7 8. Ne5+ Ke6 9. Nd3 Kd5) 7... Kf7 8. Ne5+ Ke6 9. Nd3 Kd5 10. Nef2 1-0  

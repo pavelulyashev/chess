@@ -1,0 +1,10 @@
+[Event "c Uralski Problemist ty Haldiki {tt} {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Sobeck G, Staudte R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2n5/pp2pN2/1P2P3/P7/7p/5K1k/8 w - - 0 1"]
+
+ 1. Ne8 $1 Nxb5 $1 (1... Nxe8 2. a5 $1 Nc7 3. axb6 Nxb5 4. b7) 2. axb5 a5 3. Nd6 $1 a4 4. Nc4 Kh1 $1 5. Na3 Kh2 (5... h2 6. Nc4 a3 7. Ne3 a2 8. Nf1 a1=Q 9. Ng3# ) 6. Nc2 Kh1 7. Kg3 Kg1 8. Kxh3 Kf2 9. Kg4 Ke2 10. Kg5 Kd3 11. Na1 $1 Kc3 12. Kf6 a3 13. Kxe6 Kb2 14. Kd7 Kxa1 15. e6 a2 16. e7 1-0  

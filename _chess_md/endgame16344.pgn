@@ -1,0 +1,10 @@
+[Event "1 Prize mz01 {c} @3 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4Nr2/8/2r1P1P1/B7/8/8/2P5/k6K w - - 0 1"]
+
+ 1. Nf6 Rxf6 2. e7 Rfe6 3. g7 Rh6+ 4. Kg2 Rhg6+ 5. Kf3 Rce6 6. Bc3+ Ka2 7. Bf6 Rexf6+ (7... Rgxf6+ 8. Kg4 Rg6+ 9. Kf5) 8. Ke4 Re6+ (8... Rg4+ $1 {cook TG} 9. Ke5 Rf2 10. e8=Q Re2+ 11. Kf5 Rxe8 12. Kxg4 Rg8) 9. Kf5 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "ts10#09052 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "B4r1n/P7/8/1k1K4/1q6/8/Q7/n6r w - - 0 1"]
+
+ 1. Bc6+ $1 Kb6 2. a8=N+ $1 (2. a8=Q $2 Rd1+ 3. Ke6 Re1+) 2... Rxa8 3. Qf2+ Kc7 (3... Ka6 4. Qe2+ Ka5 5. Qa2+ Kb6 6. Qf2+ Ka6 7. Qe2+ Ka7 8. Qa2+ Kb8 9. Qxa8+ Kc7 10. Qa7+ Kc8 11. Qd7+ Kb8 12. Qd8+ Ka7 13. Qa8+ Kb6 14. Qb7+ Ka5 15. Qa7#) 4. Qg3+ Kd8 (4... Kc8 5. Qg8+ Kc7 6. Qg3+) 5. Qg5+ $1 (5. Qg8+ $2 Ke7 6. Qg5+ Kf8 $1) 5... Qe7 6. Qg8+ Kc7 7. Qg3+ Kb6 (7... Kc8 8. Qg4+ Kd8 9. Qg8+ Kc7 10. Qg3+ Kc8 11. Qg4+ Kb8 12. Qg8+ Ka7 13. Qxa8+ Kb6 14. Qb8+ Ka6 15. Qb5+ Ka7 16. Qa5+ Kb8 17. Qa8+ Kc7 18. Qb7+ Kd8 19. Qb8#) 8. Qf2+ Ka5 9. Qd2+ $1 (9. Qa2+ $2 Kb4 10. Qd2+ Ka3 $1) 9... Qb4 10. Qa2+ Kb6 11. Qf2+ 1/2-1/2  

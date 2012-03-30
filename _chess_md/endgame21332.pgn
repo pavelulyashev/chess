@@ -1,0 +1,10 @@
+[Event "tp21 {tw} {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/q4k2/7K/3N4/8/8/4Q3/8 w - - 0 1"]
+
+ 1. Qg4 $1 (1. Qe5 $2 Qa6+ 2. Kh5 Qg6+) 1... Qa6+ 2. Kh7 Qd3+ (2... Qc8 3. Qg6+ Kf8 4. Qg8#) 3. Kh8 $1 1-0  

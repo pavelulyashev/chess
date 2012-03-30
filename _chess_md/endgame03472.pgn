@@ -1,0 +1,10 @@
+[Event "Problemaz, Abdelwahed El Fassi Fihri MT {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Dowd S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/5PbP/1p6/8/p1k5/8/K7 w - - 0 1"]
+
+1. h7 (1. f7 $2 Bxf7 2. h7 c6 3. h8=Q+ Kb3 4. Qh2 Bd5 5. Qa2+ (5. Kb1 Ka4 (5...Be4+ $2 6. Kc1 Bd5 7. Qc2+ Kb4 8. Qd3 Ka4 9. Kc2 a2 10. Kb2 Ka5 11. Qc3+ Kb612. Qd4+ Kb7 13. Qc5 Ka6 14. Qd4 Kb7 15. Ka3 Kc7 16. Qe5+ Kd7 17. Kb4 $18) 6.Qc2+ Ka5 7. Qc5 Ka4 8. Kc2 b4 9. Qb6 Be4+ 10. Kc1 Bd5 11. Qa6+ Kb3 12. Qe2 Kc3)5... Ka4 6. Qc2+ Ka5 7. Qc5 Ka4 (7... a2 $2 8. Qa7+ Kb4 9. Kb2) 8. Qa7+ Kb3 9.Qe3+ Ka4 10. Qd3 b4 11. Qd4 Ka5 $11) 1... Bxh7 2. f7 Bd3 (2... c5 3. f8=Q Kb44. Qf4+ c4 5. Ka2) (2... c6 $4) 3. f8=Q {winning, as the Nalimov win position is reached quickly through} b4 4. Qg7+ Kb35. Qxc7 {Nalimov win position, further play might include, for example} Bc4 6.Kb1 Bd3+ 7. Kc1 a2 8. Qa7 Bb1 9. Qd4 Ka3 10. Qe3+ b3 11. Qc5+ Ka4 12. Kb2 Bc213. Qb6 {with a clear win. Dull analytic play. Hardly a study.} 1-0

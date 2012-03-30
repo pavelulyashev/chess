@@ -1,0 +1,10 @@
+[Event "3 Prize ts25#279 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/K6N/p3P3/PP6/7b/1k2p3/8/8 w - - 0 1"]
+
+ 1. Nf6 $1 (1. b6 $143 e2 2. b7 Bg3 3. e7 e1=Q $19) 1... Bxf6 (1... e2 $144 2. e7 e1=Q 3. e8=Q $11) 2. b6 e2 3. b7 Be5 4. e7 Bb8+ $1 (4... e1=Q $144 5. e8=Q Bd4+ 6. Kxa6 $1 (6. Ka8 $143 Qxe8+ 7. b8=Q+ Qxb8+ 8. Kxb8 Kb4 $19) 6... Qxe8 7. b8=Q+ Qxb8 $11) 5. Ka8 $1 (5. Kxb8 $143 e1=Q 6. Kc8 (6. Ka8 $144 Qe4 $19) 6... Qe6+ 7. Kd8 Qd6+ 8. Kc8 Qc6+ 9. Kd8 (9. Kb8 $144 Qe8+ 10. Ka7 Qxe7 11. Ka8 Qd8+ 12. b8=Q+ Qxb8+ 13. Kxb8 $19) 9... Qxb7 10. e8=Q Qb8+ 11. Kd7 Qxe8+ 12. Kxe8 Kb4 $19) 5... e1=Q 6. e8=Q Qxe8 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "bd24#180 {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5ppb/7k/7q/8/B3NpR1/5P1P/6K1 w - - 0 1"]
+
+ 1. Bc1 $1 (1. Ng4+ $2 Kg5 2. Ne3+ Kf6 3. Bb2+ Ke6 4. Bxg7 (4. Rxg7 Bg6 5. Rg8 Qb5 6. Bc3 Qb1+ 7. Nf1 Kd7 8. h3 Bd3) 4... f5 $1 5. Nc4 f4) 1... Bg6 (1... Qc5 2. Nf5+ Kh5 3. Rg5#) (1... Be4 2. Nf5+ Kh7 3. Rxg7+ Kh8 4. Bb2 f6 $1 5. Bxf6 Qxf5 6. Ba1 Qh7 7. Rxh7+ Kxh7) 2. Nd5+ Kh7 3. Bg5 $1 Kg8 4. Nf4 Qh8 5. Rh3 Bh7 6. Ng6 $3 (6. Rxf3 $2 Bf5 7. Ra3 Kh7 8. Ra7 Qb8 9. Rxf7 Qb1+ 10. Kg2 Be4+ 11. f3 Qa2+) 6... fxg6 7. Rxf3 (7. Kf1 $2 Kf7 8. Rxf3+ Ke6 9. Re3+ Kf5 10. f4 Kg4 11. h3+ Kh5) 1/2-1/2  

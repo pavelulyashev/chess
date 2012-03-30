@@ -1,0 +1,10 @@
+[Event "HM as equal (Spec section) {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Roxlau M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3R3K/P7/8/4ppk1/8/8 w - - 0 1"]
+
+1. Rg6+ $1 (1. a6 $5 e2 2. a7 e1=Q 3. Rg6+ Kf4 $11) 1... Kf2 (1... Kf4 2. Rf6+Kg3 3. a6 e2 4. a7 e1=Q 5. a8=Q $18) 2. a6 e2 3. a7 e1=Q 4. a8=Q Qe3+ 5. Kh5 (5. Rg5 $5 Qe6+ 6. Rg6 {Tempo}) 5... Qe5+ 6. Rg5 Qh2+ 7. Kg4 Qg3+ 8. Kf5 Qh3+ 9.Ke5 $1 (9. Kf6 $5 Qh6+ $11) 9... Qh4 $1 10. Rg7 $3 (10. Qa7+ Ke2 $11) 10... Ke311. Qa7+ (11. Qa3+ $5 {Minor-Dual} Ke2 12. Qb2+ Ke3 13. Qc3+ Ke2 14. Qc2+ Ke315. Qc5+ $11) 11... Ke2 12. Qa6+ {(Qa2)} Ke3 13. Qb6+ {(Qa3)} Ke2 14. Qb5+ {(Qe6)} Ke3 15. Qc5+ Ke2 16. Re7 $1 f2 17. Kf5+ Kf1 18. Qb5+ Kg2 19. Rg7+ Kh220. Qe5+ Kh3 21. Qe2 $1 {wins} 1-0

@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention  Magyar Sakkvilбg, database  {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Rossi P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/7q/4r1k1/3B4/1R2p1Kb/Q7 w - - 0 1"]
+
+1. Bxe2+ (1. Bxe4 $2 Qh3+ 2. Kf2 e1=Q+ 3. Qxe1 Bg3+ 4. Ke2 Bxe1 5. Kxe1 $19)1... Rxe2+ 2. Kf1 $1 Kh3 3. Rb3+ Bg3 4. Rxg3+ (4. Qg7 $4 Re1#) 4... Kxg3 5.Qg7+ Kh3 6. Qc3+ (6. Qd7+ $2 Kh2 7. Qd6+ Re5 $19) 6... Kh2 7. Qf6 $3 (7. Qc7+$2 Re5 8. Qc2+ Kh3 $19 (8... Kg3)) 7... Kg3 (7... Kh1 8. Qc6+ $11) (7... Qg4 8.Qh6+ Kg3 9. Qd6+ $11 Kf3 (9... Kh4 10. Qh6+ Kg3 11. Qd6+ $11) 10. Qf6+ Ke3 11.Qg5+ Qxg5) 8. Qg7+ Kh3 9. Qc3+ Kh2 10. Qf6 Re5 11. Qh4+ $1 Qxh4 {patt.} 1/2-1/2

@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention, wa03 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7B/5p2/8/6Pp/3p1ppk/6p1/6P1/b6K w - - 0 1"]
+
+ 1. g6 (1. Bf6 $2 d3 $1 2. Bxa1 d2) 1... fxg6 (1... d3 2. Bxa1 fxg6 3. Bf6+ g5 4. Bc3 f3 5. Kg1 f2+ 6. Kf1 d2 7. Bxd2) 2. Bf6+ g5 3. Bxd4 $1 f3 4. Bxa1 f2 5. Bd4 f1=Q+ 6. Bg1 Qf2 7. Bxf2 (7. Bh2 $2 Qxg2+ $1 8. Kxg2 gxh2 9. Kxh2 g3+) 7... gxf2 8. g3+ Kh3 1/2-1/2  

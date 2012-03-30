@@ -1,0 +1,10 @@
+[Event "1 Prize Meleghegyi MT (MSV-2005) {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "*"]
+[Result "*"]
+[FEN "8/5p1B/5P2/4K2P/2k3b1/8/7P/2b5 w - - 0 1"]
+
+ 1. h6 (1. Bg8 $2 Bxh5 2. Kd6 Ba3+ 3. Kd7 Kd5 4. Ke8 Ke6 $19) 1... Bxh6 (1... Bb2+ 2. Kf4 Be6 3. Kg5 $11) (1... Be6 2. Kd6 Ba3+ 3. Kc7 Bb2 4. Kd8 Bxf6+ 5. Ke8 Bg5 6. Bg8 $11) 2. Bg8 (2. Bb1 $2 Kc5 3. Ba2 Bh5 $19) 2... Be6 (2... Bh5 3. Kd6 Bf8+ 4. Kd7 Kd5 5. Ke8 $11) 3. Kd6 Bf8+ 4. Kc7 Kd5 5. Kd8 Kd6 6. Ke8 Bh6 7. h3 $1 {zz} Bf5 (7... Bg5 8. Bxf7 Bxh3 $11 {www.k4it.de/}) 8. Kxf7 Kd7 9. h4 {zz } Kd8 10. h5 {zz} Kd7 11. Bh7 Bxh7 {stalemate.} *  

@@ -1,0 +1,10 @@
+[Event "wb23 ts23 @3 {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k5B/1P1pbpP1/Kn6/3p3R/1N6/3PrP2/1P6/6r1 w - - 0 1"]
+
+ 1. Re5 Nc4 2. Nc6+ dxc6 3. dxc4 Kc7 (3... Rb3 $1 {cook VK} 4. Re1 Rxb7 5. Rxg1 Bd8) 4. b8=Q+ Kxb8 5. Rxe3 Bc5 6. Re1 1-0  

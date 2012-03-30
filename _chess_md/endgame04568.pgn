@@ -1,0 +1,10 @@
+[Event "tb32 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1rq4/8/Kp2Q3/8/4R3/8/8/8 w - - 0 1"]
+
+ 1. Rd4 Qc7 2. Rd7 Qc5 3. Qe4+ Rc6 (3... Qc6 4. Qxc6+ Rxc6 5. Rd8+ Rc8 6. Rxc8#) 4. Rd8# 1-0  

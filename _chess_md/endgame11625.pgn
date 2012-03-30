@@ -1,0 +1,10 @@
+[Event "1/2 Prize ts27 @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Sarychev A, Israelov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K6/8/k1P5/B3N3/pP1n4/8/2p5/8 w - - 0 1"]
+
+ 1. c7 (1. Nd3 $2 Nxc6+ 2. Kc7 Nxa5 3. bxa5 Kxa5 4. Kc6 a3 5. Nc1 Kb4 6. Kd5 Kc3 7. Kc5 Kb2 8. Nd3+ Kb1) 1... c1=Q 2. c8=Q+ (2. Nd3 $1 {cook JN}) 2... Qxc8+ 3. Kxc8 a3 4. b5+ Nxb5 5. Kb8 (5. Nc6 $2 Na7+ 6. Kd7 Nxc6 7. Bc3 Kb5 8. Bg7 Nb4 9. Ke6 Kc4 10. Kf5 Kd3 11. Kf4 Kc2 12. Kf3 Nd3 13. Ba1 Kb1) 5... a2 6. Nd3 Kxa5 ( 6... a1=Q 7. Nc5+ Kxa5 8. Nb3+) 7. Nc1 a1=Q 8. Nb3+ 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "Josten65 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Csengeri J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5K2/R2p4/8/8/7p/8/5pP1/2k5 w - - 0 1"]
+
+ 1. Kg8 $3 (1. Ra1+ $2 Kd2 $1 $19) (1. Rc7+ $2 Kb2 $1 2. Rb7+ Kc2 3. Rc7+ Kd2 4. Rxd7+ Ke2 5. Re7+ Kf1 6. Kg8 Kg1 $1 $19 (6... Kxg2 7. Rg7+ $11)) 1... Kb2 (1... d5 $2 2. Rf7 $18) 2. Rb7+ Kc2 3. Rc7+ Kd2 4. Rxd7+ Ke2 (4... Ke3 5. Re7+ Kf4 6. Rg7 $11 (6. Rf7+ $2 Kg3 {zz} 7. Rg7+ Kh2 8. Rf7 Kg1 $1 $19)) 5. Re7+ Kf1 6. Rh7 $1 (6. Rg7 $2 Kg1 $1 $19) (6. Re4 $2 Kxg2 $19 (6... Kg1 $2 7. Rxh4 $1 f1=Q 8. Rg4 $3 $11)) 6... Kxg2 (6... Kg1 7. Rxh4 $1 (7. Rf7 $2 f1=Q $19) 7... f1=Q 8. Rg4 $3 $11 {But according to tablebase Black wins.} (8. Rh7 $2 Qc4+ $19)) 7. Rg7+ Kh2 8. Rf7 Kg2 9. Rg7+ Kf3 10. Rf7+ $1 (10. Rh7 $2 f1=Q $19) 10... Ke2 11. Re7+ Kf1 12. Rh7 $1 h3 13. Rxh3 Kg2 14. Rh7 $1 f1=Q 15. Rg7+ Kh3 16. Rh7+ 1/2-1/2  

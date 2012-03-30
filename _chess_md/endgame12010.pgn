@@ -1,0 +1,10 @@
+[Event "ts04#6084 @1 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kos V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/8/k7/3K2p1/8/2b5/2r2PB1/6N1 w - - 0 1"]
+
+ 1. Bf3 (1. Rf8 $1 {cook} Bb4 2. Rf5 Bc5 3. Ne2 Kb6 4. Nd4 Rd2 5. Rf6+ $1) (1. Bf1+ $1 {cook} Ka7 2. Rf8 Rc1 3. Ne2 Rd1+ 4. Ke4 Be1 5. Bh3 $1) 1... Ka7 2. Rc8 Rd2+ 3. Kc4 Rxf2 4. Kc5 Bd4+ 5. Kxd4 Rf1 6. Ke3 g4 7. Ke2 Rxg1 8. Kf2 Rb1 9. Ra8+ Kb6 10. Rb8+ 1-0  

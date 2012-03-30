@@ -1,0 +1,10 @@
+[Event "ts65 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/8/8/p7/pP6/1N6/4k3/8 w - - 0 1"]
+
+ 1. Nd4+ (1. Nc1+ $2 Kd1 2. b5 Kxc1 3. b6 a3) (1. Nxa5 $2 a3 2. b5 Kd3 3. b6 a2 4. Nb3 Kc3 5. Na1 (5. b7 Kxb3 6. b8=Q+ Kc2 $1) 5... Kb2 6. b7 Kxa1 7. Ka7 Kb2 8. b8=Q+ Kc2) 1... Kd3 $1 2. b5 $1 a3 $1 3. b6 $1 (3. Nb3 $2 Kc4) 3... a2 (3... a4 4. Nc6 Kc4 5. Nb4 $1 Kxb4 6. b7 a2 7. b8=Q+) 4. Nb3 Kc3 5. Na1 $1 (5. b7 $2 Kxb3 6. b8=Q+ Kc2) 5... Kb2 6. b7 Kxa1 7. b8=Q (7. Ka7 $2 Kb2 $1 8. b8=Q+ Kc2) 7... a4 8. Ka7 $1 a3 9. Kb6 $1 1-0  

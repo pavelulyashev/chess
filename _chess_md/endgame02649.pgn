@@ -1,0 +1,10 @@
+[Event "4 Prize ww01 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3bN3/3n4/8/3b3K/8/5Pk1/R7 w - - 0 1"]
+
+ 1. Ra5 Bf6+ 2. Rg5+ Kf3 (2... Kxf2 $144 3. Nd5 Bd8 4. Kh5 Be8+ 5. Kg4 $11) 3. Ng8 (3. Nd5 $143 Bd8 4. Kh5 Be8+ 5. Rg6 Ke4 $19) 3... Bd8 (3... Nf5+ $144 4. Kh5 Be8+ 5. Rg6 $11) 4. Kh5 Be8+ 5. Rg6 (5. Kh6 $143 Nf7+ $19) 5... Nf5 (5... Kf4 $144 6. Kh6 $11) 6. Nf6 Bf7 (6... Bxf6 $144 $11) 7. Kg5 Ne7 (7... Nd6 $144 8. Kh6 $11) 8. Rg7 (8. Rh6 $143 Ng8 $19) 8... Be6 (8... Bb3 $144 9. Ne8 $11) 9. Kh5 Nf5 (9... Kf4 $144 10. Ne8 $11) (9... Kxf2 $144 10. Ne4+ Ke3 11. Ng5 $11) 10. Rg6 Bf7 (10... Kf4 $144 11. Rg4+ Ke5 12. Kg6 Bxf6 13. f4+ $11) 11. Kg5 Ne7 12. Rg7 Be6 13. Kh5 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "1 Prize Achalgazdra Kommunisti {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Herbstmann A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3R1P2/1ppP1p2/3r4/8/K7/p4k2/8 w - - 0 1"]
+
+ 1. Kb2 $3 (1. Kxa2 $143 f5 $1 2. f8=Q (2. Ra7 $144 Re5 3. f8=Q Re2+ 4. Ka3 Re3+ 5. Ka4 Re4+ 6. Kb3 Re3+ 7. Kc4 Re4+ $11) 2... Ra5+ 3. Kb2 Rb5+ 4. Kc3 Rc5+ 5. Kd4 Rd5+ 6. Kc3 Rc5+ $11) 1... a1=Q+ (1... Rb5+ $144 2. Ka1 $1 $18 (2. Kxa2 $143 f5 $11)) (1... Rd2+ $144 2. Ka1 Rd1+ 3. Kxa2 $18) (1... f5 $144 2. Ra7 (2. f8=Q $143 a1=Q+ 3. Kxa1 Ra5+ $11) 2... Re5 3. Rxa2 $18) 2. Kxa1 Ra5+ (2... f5 $144 3. Ra7 Re5 4. Ra2+ $18) 3. Kb2 Rb5+ (3... f5 $144 4. Ra7 $1 Rxa7 5. f8=Q Ra5 6. d7 Rb5+ 7. Kc3 Rc5+ 8. Qxc5+ $18) (3... Ra8 $144 4. Re7 Rf8 5. d7 $18) 4. Kc3 Rc5+ 5. Kd4 f5 6. Ra7 $1 Rd5+ 7. Kc3 Rc5+ 8. Kb2 Rb5+ 9. Ka1 Re5 10. Ra2+ $18 1-0  

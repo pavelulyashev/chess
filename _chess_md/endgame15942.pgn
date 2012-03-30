@@ -1,0 +1,10 @@
+[Event "1 Prize jk25 tz16 {tw}@2 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Razumenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n7/2p5/BpP5/kP6/1pP4K/1P4R1/5p1P/4r2R w - - 0 1"]
+
+ 1. Rf1 Re4+ (1... Rxf1 2. Rg8 Re1 (2... Rh1 3. Rxa8 Rxh2+ 4. Kg4 Rg2+ 5. Kh3 Rg8 6. Bc8#) 3. Bb7 Re4+ 4. Kh5 Re5+ 5. Kh6 Re6+ 6. Kh7 Re7+ 7. Kh8) (1... Rd1 2. Rd3 Re1 3. Re3 Rd1 4. Kh3 Rxf1 5. Re2 Ra1 6. Rxf2) 2. Kh3 Rh4+ 3. Kg2 Rxh2+ 4. Kf3 Rh1 5. Bb7 (5. Rxf2 $1 {cook MC} Rf1 6. c5) 5... Rg1 6. Kf4 Rh1 7. Rg4 ( 7. Rc3 $2 Rxf1 8. Rc2 Ra1 9. Rxf2 Rf1 10. Rxf1) 7... Rg1 8. Kf5 Rh1 9. Rg5 Rg1 10. Kf6 Rh1 11. Rg6 Rg1 12. Kf7 Rh1 13. Rd6 (13. Rg7 $2 Rg1 14. Kf8 Rxf1 15. Rg2 Ra1 16. Rxf2 Rf1 17. Rxf1) 13... Rxf1 14. Rd8 Rh1 15. Rxa8# 1-0  

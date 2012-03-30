@@ -1,0 +1,10 @@
+[Event "ts67 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Havasi A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/b7/1p1p3p/1P2P2P/P1kPp3/4P2n/1P6/8 w - - 0 1"]
+
+ 1. e6 Ng5 2. b3+ $1 Kd5 (2... Kd3 3. d5 Nh7 4. Ke7 Kxe3 5. Kf7 Kf2 6. e7 e3 7. e8=Q e2 8. Kg7 Ng5 9. Qxe2+ Kxe2 10. Kxh6) 3. e7 Ne6+ 4. Kc8 $1 Ng7 5. Kd7 Nxh5 6. e8=N (6. e8=Q $2 Nf6+) 6... Ng3 7. Nf6# 1-0  

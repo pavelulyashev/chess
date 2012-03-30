@@ -1,0 +1,10 @@
+[Event "ts04#2753 {c} @3 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K1b3/1N4n1/2k2B2/8/1P6/8/4r3/1N6 w - - 0 1"]
+
+ 1. Nc3 (1. Bxg7 $2 Bd7+ 2. Kb8 Re4) 1... Bd7+ 2. Kb8 Re8+ 3. Ka7 Nf5 (3... Kc7 $1 {cook JF} 4. Bxg7 Bc6) 4. b5+ Kc7 5. Nd5+ Kc8 6. Nb6+ Kc7 7. Bd8+ $1 Rxd8 8. Nd5+ Kc8 9. Nd6+ $1 Nxd6 10. Ne7+ Kc7 11. b6# 1-0  

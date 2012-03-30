@@ -1,0 +1,10 @@
+[Event "1 Prize tz16#1316 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Ryabinin N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1nN3k1/8/2P2Prr/3P4/8/K5n1/6P1/8 w - - 0 1"]
+
+ 1. c7 (1. Ne7+ $2 Kf7 2. c7 Rh8) 1... Nc6 $1 (1... Na6 2. Ne7+ Kf7 3. c8=Q Rxf6 4. Nc6) (1... Nf5 2. Ne7+ $1 (2. cxb8=Q $2 Rg3+) 2... Nxe7 3. cxb8=Q+ Kf7 4. Qb3 $1) 2. dxc6 (2. Nb6 $2 Na7 3. d6 Nb5+) (2. d6 $2 Nf5 3. Ne7+ (3. d7 Rg3+) 3... Nfxe7 4. fxe7 Rg3+ 5. Kb2 Nxe7 6. d7 Rxg2+ 7. Kc3 Rg3+ 8. Kc4 Rg4+ 9. Kc5 Rg5+ 10. Kc4 Rh4+) (2. Ne7+ $2 Nxe7 3. d6 Ngf5 4. fxe7 Rg3+ 5. Kb4 (5. Kb2 Nxe7 ) 5... Rh4+ 6. Ka5 Ra3+ 7. Kb6 Nxd6 8. e8=Q+ Nxe8 9. c8=Q Rb4+) 2... Nf5 (2... Rh8 3. Nd6 Kh7 4. c8=Q Rxc8 5. Nxc8 Rxf6 6. Ne7 Nf5 7. Nxf5 Rxf5 8. Kb4) 3. Ne7+ (3. Na7 $2 Nd6) 3... Nxe7 4. fxe7 Rg3+ 5. Kb2 $1 (5. Ka2 {or}) (5. Kb4 $2 Rh4+ 6. Kc5 Rg5+ 7. Kb6 Rb4+ 8. Ka6 Ra4+ 9. Kb6 Ra8 10. Kb7 Re8 11. c8=Q (11. c8=N Rxg2) 11... Rb5+ $1 12. Kc7 Rxc8+ 13. Kxc8 Kf7 14. c7 Kxe7) 5... Rxg2+ 6. Kb3 (6. Ka3 {or}) 6... Rh3+ 7. Kb4 Rg4+ 8. Kb5 $1 (8. Ka5 $2 Ra3+ $1 9. Kb6 Ra8 (9... Rb4+ $2 10. Kc5 Ra8 11. Kxb4) 10. Kb7 Re8 11. c8=Q Rxc8 12. Kxc8 Kf7 13. c7 Kxe7 14. Kb7 Rb4+ 15. Kc6 Rc4+ 16. Kb7 Kd7) 8... Rh5+ 9. Ka6 Ra4+ 10. Kb6 Ra8 11. Kb7 Re8 12. c8=Q (12. c8=R $2 Rb5+ 13. Kc7 Kf7) (12. c8=N $2 Rb5+ 13. Kc7 (13. Nb6 Rxe7+ 14. c7 Rb1) 13... Rd5 14. Kb7 (14. Na7 Rd1) 14... Kf7 15. c7 Rb5+ 16. Nb6 Kxe7) 12... Rb5+ (12... Rxc8 13. Kxc8 Kf7 14. c7 Kxe7 15. Kb7 Rb5+ 16. Kc6) 13. Kc7 Rxc8+ 14. Kxc8 Kf7 15. c7 Kxe7 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "3/4 s. HM {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Horning G, Josten G"]
+[Black "*"]
+[Result "*"]
+[FEN "7B/5p2/5N1r/p3k1b1/6P1/6Kp/8/7B w - - 0 1"]
+
+ 1. Nh7+ (1. Ne4+ $2 Rxh8 2. Nxg5 a4 3. Nxf7+ Kd4 $19) 1... f6 (1... Bf6 2. Bxf6+ Rxf6 3. Nxf6 Kxf6 4. Kxh3 $11) 2. Nxg5 Rxh8 3. Nf7+ Kd4 4. Nxh8 a4 5. g5 $1 fxg5 (5... a3 6. Bd5 Kxd5 7. g6 a2 8. g7 a1=Q 9. g8=Q+ $11) 6. Nf7 a3 7. Nxg5 a2 8. Kxh3 a1=Q 9. Kh2 Ke3 ({main} 9... Qf1 10. Ne4 $11) 10. Ne4 Qe1 { (Qg7)} 11. Bg2 $11 { . Not so difficult play leads to a known theoretical draw position.} *  

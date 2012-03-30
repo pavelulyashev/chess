@@ -1,0 +1,10 @@
+[Event "2 Prize Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5kN1/8/4P3/8/pr6/7B/K7/8 w - - 0 1"]
+
+ 1. e7+ (1. Nf6 $143 Rh4 2. Bf5 Rh2+ 3. Ka1 Rf2 4. Nd7+ Ke7 5. Bg4 Rf4 $11) 1... Kf7 (1... Ke8 $144 2. Nf6+ Kxe7 3. Nd5+ $18) 2. Be6+ Ke8 3. Bf5 $1 (3. Bd5 $143 Rb8 4. Bc6+ Kf7 5. Bd5+ Kg7 $11) 3... Rb6 $1 (3... Rb8 $144 4. Bg6+ Kd7 5. e8=Q+ Rxe8 6. Nf6+ $18) 4. Bd3 $1 (4. Bc2 $143 Re6 5. Bxa4+ Kf7 6. Bb3 Ke8 7. Bxe6 $11) (4. Bg4 $143 Rb5 5. Bd1 Re5 $11) 4... a3 $1 (4... Kf7 $144 5. Bc4+ Ke8 6. Be2 Rb8 7. Bh5+ $18) (4... Kd7 $144 5. Bc2 Ra6 6. Ka3 Ra8 7. Bxa4+ $18) 5. Ka1 $1 (5. Kxa3 $143 Re6 6. Bb5+ Kf7 7. Bc4 Ke8 8. Bxe6 $11) 5... Kd7 $1 ( 5... a2 $144 6. Be2 Rb8 7. Bh5+ $18) 6. Bc2 $1 (6. Be2 $143 Rb8 7. Bg4+ Kd6 $11 ) (6. Bf5+ $143 Ke8 7. Bc2 Kf7 8. Ba4 Rb8 $11) 6... Ra6 7. Bf5+ Ke8 8. Bd3 Rb6 9. Be2 Rb8 10. Bh5+ Kd7 11. e8=Q+ Rxe8 12. Nf6+ $18 1-0  

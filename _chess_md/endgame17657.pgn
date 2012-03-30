@@ -1,0 +1,10 @@
+[Event "t001#605 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2K5/4p3/1p6/8/4k2N/8/8/8 w - - 0 1"]
+
+ 1. Ng6 $1 b5 (1... e5 2. Kc7 b5 3. Kd6) (1... e6 2. Kd7 Kf5 3. Nh4+) 2. Nxe7 b4 3. Nc6 b3 4. Na5 b2 5. Nc4 b1=Q 6. Nd2+ 1/2-1/2  

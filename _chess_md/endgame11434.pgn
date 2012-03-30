@@ -1,0 +1,10 @@
+[Event "12001.Schach Jun {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Staudte R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B3/8/1pN3K1/8/1P2k3/4p3/8/8 w - - 0 1"]
+
+ 1. b5 $1 e2 2. Nb4 e1=Q (2... e1=N 3. Kf6 Kd4 4. Ke6 Kc4 5. Nd5 Kc5 6. Nc7 Nc2 7. Kd7 Nd4 8. Kc8 Kb4 9. Kb7 Ka5 10. Bd7 Nb3 11. Bf5 Nd4 12. Bd3) 3. Bc6+ Kd4 ( 3... Ke3 4. Nc2+) (3... Ke5 4. Nd3+) (3... Kf4 4. Nd3+) 4. Nc2+ 1-0  

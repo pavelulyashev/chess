@@ -1,0 +1,10 @@
+[Event "ts67 @3 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5p2/2p4P/k7/3P4/4N3/b2K4 w - - 0 1"]
+
+ 1. h6 f5 2. d4 cxd4 3. Nc3+ $1 Bxc3 (3... Kb3 $1 {cook} 4. h7 dxc3 5. h8=Q c2+) 4. Kc2 Kb4 5. Kd3 1-0  

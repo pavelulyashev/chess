@@ -1,0 +1,10 @@
+[Event "tr19 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5b2/8/3P4/2K5/k7/3r1p2/8/6R1 w - - 0 1"]
+
+ 1. Rg8 $1 Bxd6+ 2. Kc4 Rc3+ 3. Kxc3 f2 4. Rg4+ $1 (4. Ra8+ $143 Kb5 5. Ra1 Be5+ $19) 4... Ka3 5. Rg5 $1 (5. Rg7 $143 Be5+ $19) 5... Bb4+ 6. Kc2 f1=Q 7. Ra5+ $1 Bxa5 $11 1/2-1/2  

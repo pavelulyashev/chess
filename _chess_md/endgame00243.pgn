@@ -1,0 +1,10 @@
+[Event "Best problems 2004-06, 3.Prize {m}"]
+[Site "?"]
+[Date "2006.01.20"]
+[Round "?"]
+[White "Akobia Y, Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1R6/7b/8/8/7p/7r/4PK2/7k w - - 0 1"]
+
+ 1. Rb4 Rh2+ (1... Bf5 2. Rd4 Be6 3. Rd1+ Kh2 4. Rd4 $11) 2. Kf3 Bg6 (2... h3 3. Rb5 Rg2 4. Rh5 $11) 3. Kg4 Bf7 (3... Bc2 4. Kg5 h3 5. Kh4 Kg2 6. Rb2 Be4 7. Rb3 $11) 4. Kg5 $1 (4. Rb1+ $5 Kg2 5. e4 Be6+ 6. Kf4 Rh1 7. Rb6 Bc4 8. Rb2+ Kh3 $19 ) (4. Rd4 $5 Be6+ 5. Kf3 Bb3 6. Kg4 Kg2 7. e4 Kf1 8. Rd6 Bc4 9. e5 Be2+ 10. Kg5 h3 $19) (4. e4 $5 Be6+ 5. Kg5 h3 6. Rb1+ Kg2 7. Kf4 Bc4 8. e5 Kf2 9. Rc1 (9. Rb4 Be2 $19) 9... Be2 10. e6 Rg2 $19) 4... h3 5. Kh4 Be6 6. Rb1+ $1 (6. Re4 $5 Rf2 7. Rxe6 h2 $19) 6... Kg2 7. Rb6 Bc4 8. Rg6+ Kf2 9. Rf6+ Kg1 10. Kg3 Bxe2 11. Rf4 $1 {zz BTM} ({Thematic try} 11. Rf7 $5 Bb5 $1 {zz WTM} (11... Bc4 $5 12. Rf6 {zz BTM=}) 12. Rf3 Bd7 $19) ({Thematic try} 11. Rf8 $5 Ba6 $1 {zz WTM} (11... Bb5 12. Rf7 {zz BTM=}) 12. Rf3 Bc8 $19) 11... Bd3 12. Rf3 Bc4 13. Rf6 $1 {zz BTM} Bb5 14. Rf7 $1 {zz BTM} Ba6 15. Rf8 $1 {zz BTM} Bb5 16. Rf7 Bc4 17. Rf6 Bd3 18. Rf3 Be2 19. Rf4 {positional draw.} 1/2-1/2  

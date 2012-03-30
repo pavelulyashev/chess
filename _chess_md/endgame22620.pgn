@@ -1,0 +1,10 @@
+[Event "tp31#113 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4Kn2/2B5/3PP2q/6kB/8/8/8/8 w - - 0 1"]
+
+ 1. e7 Qxh5+ (1... Ne6 2. Kd7 Ng7 3. e8=Q Nxe8 4. Bxe8) 2. Kxf8 Kf6 3. e8=N+ Kg6 4. d7 (4. Ke7 $2 Qh4+ 5. Kd7 Qa4+ 6. Kd8 Kf7) 4... Qh7 (4... Qf5+ 5. Ke7) 5. d8=N (5. d8=Q $2 Qf7#) 5... Qd7 {eg} 6. Bb6 Qf5+ 7. Ke7 Qg5+ 8. Kd6 Qb5 9. Nc7 Qxb6+ 10. Nc6 1/2-1/2  

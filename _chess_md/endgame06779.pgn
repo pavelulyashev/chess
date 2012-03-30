@@ -1,0 +1,10 @@
+[Event "Matous JT-50 _7+7] {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Vlasak E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/1p6/rr6/2K5/8/p7/1P6/2R1B3 w - - 0 1"]
+
+ 1. Ba5 (1. bxa3 Rc6+) (1. Rd1+ Kc7 2. bxa3 (2. Bg3+ Kc8 3. bxa3 Rc6+ 4. Kb4 Rab6+ 5. Ka4 Rb2) 2... Rxa3) 1... axb2 (1... Rxa5+ 2. Kxb6 axb2 3. Rd1+) (1... Kc7 2. Bxb6+ Rxb6 3. Kd4+ Rc6 4. Rxc6+ Kxc6 5. bxa3) 2. Bxb6+ (2. Rd1+ Ke8 3. Bxb6 Ra1) 2... Rxb6 (2... Kd7 3. Rb1) 3. Rd1+ $1 Kc7 4. Rb1 {mutual zugzwang} Rb3 5. Kc4 Rb6 6. Kc5 Rc6+ 7. Kd4 $1 (7. Kd5 Rc2 8. Kd4 Kc6 9. Kd3 Rh2 10. Kc3 Kb5 11. Rg1 (11. Kb3 Rh4) 11... Ka4) (7. Kb5 Rc2 8. Kb4 Kc6 9. Ka4 Rc4+ 10. Ka3 Rc5 11. Ka2 Ra5+ 12. Kxb2 Rb5+) (7. Kb4 Kd7 $1 (7... Kb8 8. Rxb2 Rb6+ 9. Kc3 Rxb2 10. Kxb2 Kc7 11. Kc3) 8. Kb5 (8. Rd1+ Rd6 9. Rb1 Rb6+ 10. Kc5 Kc7) 8... Rc2 9. Kb6 Kd6 10. Kb5 Kc7 11. Kb4 Kc6 12. Kb3 Rc5) 7... Rc2 (7... Rd6+ 8. Kc4 Rb6 9. Kc5) 8. Kd3 Rh2 $143 9. Kc3 (9. Rg1 Rh5 10. Kc2 Rb5 11. Kb1) 9... Kc6 10. Rg1 (10. Kb3 Rh5) 10... Kb5 11. Kb3 1/2-1/2  

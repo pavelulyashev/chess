@@ -1,0 +1,10 @@
+[Event "o000 {te} @2 {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r6/8/8/8/5k2/1P6/1K6/4R3 w - - 0 1"]
+
+ 1. Kc3 Rc8+ 2. Kd4 Rb8 3. Rb1 (3. Rf1+ $1 {cook JU}) 3... Kf5 4. Kd5 1-0   

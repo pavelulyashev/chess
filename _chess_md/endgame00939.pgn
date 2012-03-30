@@ -1,0 +1,10 @@
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M, Platov v"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R4N2/8/8/7p/4p3/6p1/3K4/7k w - - 0 1"]
+
+ 1. Ra5 ({dual} 1. Ra3 $1 e3+ (1... Kh2 2. Ng6 (2. Ne6) 2... g2 3. Nf4 g1=Q 4. Rh3#) 2. Rxe3 g2 3. Rh3+ Kg1 4. Ng6 Kf2 5. Nh4 g1=Q 6. Rf3#) 1... h4 2. Rh5 g2 3. Rxh4+ Kg1 4. Ke1 (4. Ke2 $2 e3 5. Rh8 {stalemate}) 4... e3 5. Rh8 $1 {Indian } e2 6. Nh7 $1 1-0  

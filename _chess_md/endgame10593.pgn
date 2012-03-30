@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention wr10 {tt} @3 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/2K5/3ppP2/1p4P1/2p5/2p5/1P2r3/8 w - - 0 1"]
+
+ 1. g6 $1 (1. f7 $2 Rf2 2. g6 c2 $1) 1... c2 (1... cxb2 2. f7 $1 Rf2 3. Kb6 b1=Q 4. g7 $1) (1... Ka7 $1 {cook SH} 2. g7 Rg2 3. bxc3 (3. Kc6 cxb2) 3... b4 $1 4. Kc6 b3 $1 5. f7 b2 6. g8=Q b1=Q 7. Qxg2 Qb7+ 8. Kxd6 Qxg2) 2. g7 $1 Rg2 3. Kc6 c1=Q 4. f7 Ka7 5. f8=Q Rxb2 (5... Qxb2 6. Qe7+ Ka6 7. Qc7 Qd4 8. Qb7+ Ka5 9. Qxb5#) (5... Qg5 6. Qf7+ Ka6 7. Qb7+ Ka5 8. Qa7+ Kb4 9. Qa3#) 6. Qc8 Qh1+ 7. Kc7 Qa8 8. g8=Q 1-0  

@@ -1,0 +1,10 @@
+[Event "Polasek&Vlasak50JT_3rdSpecCommRomantic {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Gonzales L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p3p1R/1p2b2P/8/3K1b2/2Bp2p1/1Rp4p/k7 w - - 0 1"]
+
+ 1. Rh8 $1 Be3+ 2. Ke5 (2. Kxd3 Bf5+ 3. Ke2 Bg4+ {draw}) 2... Bf4+ 3. Kf6 Bg5+ 4. Kg7 Bxh6+ 5. Kf6 Bg5+ 6. Ke5 Bf4+ 7. Kd4 $1 (7. Ke4 Bb8 $1 (7... h1=Q+ $2 8. Rxh1+ c1=Q 9. Rd2+ Kb1 10. Rxc1+ Kxc1 11. Kxf4)) 7... Be3+ 8. Ke4 (8. Kxd3 Bf5+ 9. Kc4 Be6+ 10. Kb5 Bd7+ 11. Kb4 Bc5+ 12. Kb3 Ba4+ 13. Kxa4 c1=Q) 8... h1=Q+ ( 8... Bc8 9. Rxc2+ Kb1 10. Rb2+ Kc1 11. Kxe3) 9. Rxh1+ c1=Q 10. Rd2+ $1 (10. Rc2+ Kb1 11. Rcxc1+ Bxc1 12. Bd2 Kc2 13. Bxc1 d2) 10... Kb1 11. Rxc1+ Kxc1 12. Kxe3 {wins} 1-0  

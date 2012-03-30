@@ -1,0 +1,10 @@
+[Event "tr11 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3b4/8/kP6/4B3/8/8/4K1n1/7n w - - 0 1"]
+
+ 1. Kf1 Ne3+ (1... Nh4 2. Bc7 $1 Bg5 3. Kg1) 2. Kg1 Nf2 3. Bc7 $1 (3. Kxf2 $2 Ng4+) 3... Bh4 $1 4. b7 $1 Kxb7 5. Bg3 Bxg3 (5... Nh3+ 6. Kh2 Nf1+ 7. Kxh3 Bxg3 8. Kg2) 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tb25 {tw} {ph} {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7r/P2k4/8/8/8/8/p6p/R3K3 w Q - 0 1"]
+
+ 1. O-O-O+ $1 (1. Kf2 $2 Ra8 2. Kg2 h1=Q+ $1 3. Kxh1 Rxa7 4. Kg2 Kc6 5. Kf3 Kc5 6. Ke3 Kc4 7. Kd2 Kb3 8. Kc1 Rh7) 1... Ke6 2. Kb2 Ra8 3. Ka1 $1 (3. Kxa2 $2 Rxa7+ 4. Kb2 Rh7 5. Rh1 Kf5) 3... Rxa7 4. Rh1 Rh7 5. Rxh2 Rxh2 1/2-1/2  

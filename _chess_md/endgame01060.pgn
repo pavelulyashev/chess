@@ -1,0 +1,10 @@
+[Event "Josten65 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k6/2rP4/5R2/2K5/8/8/r1R1p3/8 w - - 0 1"]
+
+ {A nice move Ka5! found in a database position. But the second line with perpetual seems to be randomly pasted without connection between lines. WK in check.} 1. Kb5 $1 {with two sublines} (1. Kd6 $2 Ra6+ 2. Ke7 e1=Q+) (1. Kd5 $2 Rxd7+) (1. Kb6 $2 Rb7+ 2. Kc5 Rxc2+) 1... Rxd7 (1... Ra5+ $5 2. Kb6 $1 (2. Kxa5 e1=Q+) 2... Rb7+ 3. Kc6 Ra6+ (3... e1=Q 4. d8=Q+ Ka7 5. Qd4+ Ka6 6. Qd3+) 4. Kc5 Rc7+ 5. Kb5 Ra5+ (5... Rxd7 $2 6. Rf8+ Kb7 7. Rxe2) 6. Kb6 {with cykl}) 2. Rb6+ $1 (2. Rf8+ Kb7 3. Rc1 Rb2+ 4. Ka5 Rd1) (2. Rxa2 e1=Q 3. Rb6+ Rb7) 2... Rb7 (2... Ka8 $2 3. Rxa2+) 3. Rxb7+ (3. Rxa2 $2 Rxb6+ 4. Kxb6 e1=Q) (3. Rxe2 $2 Rxb6+) 3... Kxb7 4. Rc1 {Nalimov} Rb2+ $5 (4... Rd2 5. Re1 Rb2+ 6. Kc4) 5. Ka5 $3 (5. Ka4 $6 Kb6 6. Ka3 (6. Re1 Kc5 7. Ka3 Rd2 8. Kb3 Kd4) 6... Rd2 7. Re1 Kc5 8. Kb3 Kd4) 5... Rd2 (5... Rc2 6. Re1 Kc6 7. Kb4 Kd5 8. Kb3) 6. Re1 Kc6 7. Kb4 Kd5 8. Kc3 Ra2 9. Kd3 (9. Kb3 {a small dual}) 1/2-1/2  

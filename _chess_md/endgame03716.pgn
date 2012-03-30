@@ -1,0 +1,10 @@
+[Event "3 Prize tt27 {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6R1/2p1pk2/P1p4p/2PpPKpP/6P1/6P1/3Pr3/8 w - - 0 1"]
+
+ 1. Rf8+ Kxf8 2. a7 Kf7 3. e6+ Rxe6 4. a8=Q Re1 5. Qc8 $1 5... e6+ 6. Qxe6+ Rxe6 7. d4 $1 7... Rf6+ (7... Re1) (7... Rd6 8. cxd6 cxd6) (7... Rg6 8. hxg6+ Kg7 9. Ke6 Kxg6 10. Kd7 h5 11. gxh5+ Kxh5 12. Kxc7 Kg4 13. Kxc6 Kxg3 14. Kxd5 Kf4 15. c6 g4 16. c7 g3 17. c8=Q) 8. Ke5 Re6+ (8... Rf1) 9. Kf5 1/2-1/2  

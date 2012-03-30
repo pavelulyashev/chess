@@ -1,0 +1,10 @@
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3N1R2/8/8/8/p5K1/8/6k1 b - - 0 1"]
+
+ 1... a2 2. Ne5 a1=Q 3. Nf3+ Kf1 4. Nd4+ Kg1 5. Ne2+ Kh1 6. Rh7# {#} 1-0  

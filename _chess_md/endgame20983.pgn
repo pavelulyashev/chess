@@ -1,0 +1,10 @@
+[Event "1-3 Prize, L.Topko-70 JT (tw) {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Razumenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6p1/8/1pb1PP1P/7k/8/7B/K7 w - - 0 1"]
+
+ 1. f6 $1 (1. e6 $2 Kxh5 2. Be5 Kg5 $11) (1. h6 $2 gxh6 2. f6 Kg5 $11) 1... gxf6 2. h6 Bd4+ 3. Kb1 $1 (3. Ka2 $2 fxe5 4. Bg1 Bc3 5. Kb3 Ba1 6. Kb4 e4 7. Kc5 Kh5 8. h7 Kg6 $11) 3... fxe5 4. Bg1 Bc3 5. Kc2 b4 6. Bd4 $3 Bxd4 (6... exd4 7. Kd3) 7. Kd3 Bc3 8. Ke4 $18 1-0  

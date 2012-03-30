@@ -1,0 +1,10 @@
+[Event "ts02#1161 @3 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3r4/1P6/2P1K3/8/3k4/3n4/rP6/5R2 w - - 0 1"]
+
+ 1. c7 Nc5+ (1... Raa8 $1 {cook HH}) 2. Ke7 Rd7+ 3. Ke8 (3. Kf8 $2 Nxb7 4. Rd1+ Ke5 5. c8=Q Rxd1 6. Qe8+ Kd6 7. Qg6+ Kc7 8. Qc2+ Kb6 9. Qb3+ Kc7 10. Qc2+ Kb6 11. Qxd1 Ra8+ 12. Ke7 Rd8) 3... Rxb2 4. Rd1+ (4. c8=Q $2 Re2+ 5. Kf8 Ne6+ 6. Kg8 Rg7+ 7. Kh8 Rh2#) 4... Kc4 (4... Ke5 5. c8=Q) 5. Rc1+ (5. Rxd7 $2 Rxb7 6. c8=Q Rxd7) 5... Kd5 6. Rxc5+ Kd6 7. Rc6+ (7. c8=Q $2 Re2+) 7... Kxc6 8. c8=Q+ Rc7 9. b8=N+ $1 (9. b8=Q $2 Re2+) 1-0  

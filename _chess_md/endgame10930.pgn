@@ -1,0 +1,10 @@
+[Event "ts25 @1 {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Evreinov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6K1/3P1B2/3B4/8/3n2n1/7p/4k3 w - - 0 1"]
+
+ 1. Bh4 (1. d7 $1 {cook JN} h1=Q 2. Bxh1 Nc5 3. Bh4 Nxd7 4. Bxg3+) 1... Kf2 2. d7 h1=Q 3. Bxh1 Nc5 4. d8=Q Ne6+ 5. Kf6 Nxd8 6. Ba8 1-0  

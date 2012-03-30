@@ -1,0 +1,10 @@
+[Event "ts02#6438 @2 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p4k1/1p5N/8/3K4/5pn1/2PPPp2/5R2 w - - 0 1"]
+
+ 1. Nf5+ Nxf5+ 2. Kd3 fxe2 (2... Ng3 3. Rxf2 fxe2 4. Rxe2 Nxe2 5. Kxe2) 3. Kxe2 Ng3+ 4. Kxf2 Nxf1 5. Kxf1 Kf6 6. Ke2 Ke5 7. Kd3 (7. c3 $2 Kd5 8. Kd3 (8. d3 b5) 8... b5 9. Kc2 b4) 7... Kd5 8. Kc3 Kc5 9. Kb3 (9. d4+ $2 Kd5 10. Kd3 b5 11. c3 b6) (9. Kb2 $2 b5) 9... b5 (9... Kb5 10. d4 Kc6 11. Kc4 b5+ 12. Kb4 Kd5 13. c3 Kc6 14. Ka5) 10. c3 b6 (10... Kd5 11. Kb4 Kc6 12. d3) 11. d3 (11. d4+ Kd5 12. Kb4 Kc6 13. Ka3 $1 {cook JP} Kd6 14. Kb2 Kc6 15. Kc2 Kd6 16. Kd2 Ke6 17. Ke3 Kd5 18. Kd3 Kd6 19. Ke4 Ke6 20. d5+ Kd6 21. Kd4) 11... Kd6 12. Kb4 Kc6 13. d4 1-0  

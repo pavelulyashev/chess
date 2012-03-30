@@ -1,0 +1,10 @@
+[Event "bv02#248 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4R3/2K5/8/1p6/1b6/8/5r2/2k5 w - - 0 1"]
+
+ 1. Kc6 (1. Re5 $2 Ba5+ 2. Kc6 b4 3. Rxa5 (3. Kb5 b3) 3... b3) (1. Rb8 $2 Ba5+ 2. Kc6 b4 3. Rb5 (3. Kb5 b3) 3... Ra2) 1... Rf5 2. Rb8 Rc5+ 3. Kb6 (3. Kb7 $2 Bc3) 3... Ba3 (3... Kc2 4. Ka6) 4. Ra8 (4. Ka5 $2 b4+ 5. Ka4 Kc2) 4... Bb4 ( 4... b4 5. Kxc5 b3+ 6. Kc4 b2 7. Rb8) (4... Kb2 5. Ra5 b4 6. Rxc5) 5. Rb8 Ba3 6. Ra8 1/2-1/2  

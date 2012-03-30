@@ -1,0 +1,10 @@
+[Event "3 Prize, wm03 us37 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5qk1/2pp4/5PPP/2PP4/5K2/8/8/8 w - - 0 1"]
+
+ 1. f7+ (1. h7+ $2 Kh8 2. g7+ Qxg7 3. fxg7+ Kxh7 4. Kf5 Kxg7 5. c6 dxc6 6. dxc6 Kf7) 1... Kh8 2. Kg5 (2. g7+ $2 Qxg7 3. hxg7+ Kxg7 4. Kf5 Kxf7) 2... Qe7+ 3. Kf5 Qf8 4. g7+ Qxg7 5. hxg7+ Kxg7 6. c6 (6. f8=Q+ $2 Kxf8 7. Kf6 Ke8 8. d6 cxd6 9. cxd6 Kf8) 6... Kxf7 (6... d6 7. Ke6 Kf8 8. Kd7) 7. d6 cxd6 8. c7 1-0  

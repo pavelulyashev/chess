@@ -1,0 +1,10 @@
+[Event "tr10 @2 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Meyer W"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3p4/3P4/2PR4/2Kpk3/4b3 b - - 0 1"]
+
+ 1... Kf2 (1... d1=Q+ 2. Rxd1 Bxc3 3. Kxc3 Kxd1 4. Kb4 Kd2 5. Kc5) 2. Rxd2+ (2. Kd1 $1 {cook JU}) 2... Bxd2 3. Kxd2 Kf3 4. Kd3 Kf4 5. c4 dxc4+ 6. Kxc4 1-0  

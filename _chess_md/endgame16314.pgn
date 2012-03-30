@@ -1,0 +1,10 @@
+[Event "1 Prize tv07 @2 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2Nk4/p1n3N1/1P6/8/8/2K5/8/8 w - - 0 1"]
+
+ 1. b7 Na6 2. Kc4 $1 (2. Ne6+ $2 Kd7 3. Nc5+ Kc7 4. Nxa6+ Kxb7) 2... Kc7 3. Kb5 $1 Kxb7 (3... Nb8 4. Ne6+) 4. Nd6+ Kc7 5. Nde8+ Kb7 6. Ne6 $1 Nb8 7. Nd6+ Ka8 8. Nc7# (8. Nc5 $1 {cook VK} a5 9. Kb6 a4 10. Nb5 Nc6 11. Kxc6) 1-0  

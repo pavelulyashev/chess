@@ -1,0 +1,10 @@
+[Event "tf01#643 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7R/8/7p/4n3/7P/8/7K/k3r3 w - - 0 1"]
+
+ 1. Kg2 (1. Kg3 $2 Rg1+ 2. Kf2 Rg6) (1. Kh3 $2 Rh1+ 2. Kg2 Rxh4) (1. Ra8+ $2 Kb2 2. Ra6 h5 3. Kg3 Rg1+ 4. Kf4 Ng6+ 5. Kf5 Nxh4+ 6. Kf4 Ng6+ 7. Kf5 h4) 1... Nf7 (1... Ng4 2. Rg8 Ne5 (2... h5 3. Rg5 Nf6 (3... Re5 4. Kg3) 4. Rf5 Re6 5. Kf3 Kb2 6. Kf4 Kc3 7. Kg5 Ne4+ 8. Kf4) 3. Rh8) 2. Rh7 (2. Rf8 $2 Re7 3. Kg3 Ne5 4. Rf6 Rh7 5. Kf4 Nf7 6. Kf5 Nh8) 2... Re7 3. Kg3 Kb2 4. Kg4 (4. Kf4 $2 Kc3 5. Kf5 Nd6+ 6. Kg6 Re6+ 7. Kh5 Nf5 8. Rf7 (8. Kg4 Rf6) 8... Ng3+ 9. Kg4 Rg6+ 10. Kf3 h5) 4... Ne5+ (4... Kc3 5. Kh5) 5. Kh5 Rxh7 1/2-1/2  

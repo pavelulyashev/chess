@@ -1,0 +1,10 @@
+[Event "ts20#333 @2 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "q2b4/8/8/1r6/6k1/1Q6/4p1P1/4K3 w - - 0 1"]
+
+ 1. Qc4+ (1. Qxb5 $2 Ba5+ 2. Kxe2 Qxg2+ 3. Ke3 Bb6+ 4. Kd3 Qf1+ 5. Ke4 Qf3+ $1 6. Ke5 Qf5+) 1... Kg3 2. Qxb5 (2. Qd3+ $1 {cook} Kf4 3. g3+ Kg4 4. Qxe2+) 2... Ba5+ 3. Kxe2 Qxg2+ 4. Ke3 $1 Bb6+ 5. Kd3 $1 Qf1+ 6. Ke4 Qxb5 (6... Qf3+ 7. Ke5 Qh5+ 8. Ke4 Qxb5) 1/2-1/2  

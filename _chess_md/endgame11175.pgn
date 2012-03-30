@@ -1,0 +1,10 @@
+[Event "td20#1043 {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Platov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/k1N1Pp2/p7/5r2/P2P4/K7/8 w - - 0 1"]
+
+ 1. Nd4 (1. e7 $2 Rf2+ 2. Kb3 Re2 3. d4 (3. Kc4 Kb6 4. Kd5 Kc7) 3... Re6 4. Kc4 (4. d5 Re3+ 5. Kc4 Kb6) 4... Rxc6+ 5. Kd5 Rc8 6. Ke6 Rc1) (1. d4 $2 Rg4 2. e7 Rg8 3. d5 Kb6 4. Nd4 Kc7 5. Nf5 Kd7 6. d6 Rg5) (1. Ne5 $2 Rh4 2. Ng6 Rh2+ 3. Kb3 Re2) (1. Kb3 $2 Rg4 2. e7 Rg8 3. Nd4 Kb6 4. Nf5 Kc6 5. Ng7 Kd7) 1... Rf1 ( 1... Rh4 2. e7 Rh8 3. Nf5 Re8 4. d4 Kb6 5. Nd6 Rxe7 6. Nc8+) (1... Rf2+ 2. Kb3 a4+ 3. Kc3) 2. e7 Re1 3. Nf5 Kb6 (3... Kb5 4. e8=Q+ Rxe8 5. Nd6+) (3... a4 4. d4) 4. Nd6 Rxe7 5. Nc8+ 1-0  

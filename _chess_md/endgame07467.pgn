@@ -1,0 +1,10 @@
+[Event "us11 (@2) {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k2K4/1R6/8/8/8/1p6/1r6/8 w - - 0 1"]
+
+ 1. Kc7 $1 (1. Rb4 $2 Ka7 2. Kc7 Ka6 3. Kc6 Ka5 4. Rb8 Rc2+ 5. Kd5 Ka4 6. Kd4 Ka3 7. Kd3 Kb2) 1... Rc2+ 2. Kb6 b2 (2... Rc4 3. Ra7+ Kb8 4. Ra1) 3. Ra7+ $1 Kb8 4. Rb7+ Kc8 5. Ka6 (5. Ka7 $1 {minor dual HH}) 5... Rc6+ 6. Ka7 $1 Rc7 $1 7. Ka8 $1 Rc1 (7... Rxb7) 8. Rb8+ $1 (8. Rxb2 $2 Ra1+) 8... Kc7 9. Rb7+ $1 Kc6 10. Rxb2 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "b007#023 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2q5/8/3p4/8/3Q2pK/5k2/B4p2/8 w - - 0 1"]
+
+ 1. Bd5+ Ke2 2. Bc4+ 2... Kf3 $1 (2... Ke1 3. Qc3+ Kd1 4. Bb3+) 3. Qc3+ 3... Kf4 $1 4. Qc1+ 4... Ke4 $1 (4... Ke5 5. Qe3+ 5... Kf5 $1 6. Bd3+ Kf6 7. Qg5+ 7... Kf7 $1 8. Bg6+ Ke6 9. Bf5+ Kf7 10. Qg6+ Ke7 11. Qg7+ Ke8 12. Qg8+ Ke7 13. Qxc8 f1=Q 14. Qe6+ Kf8 15. Qf6+) 5. Bd3+ Kxd3 6. Qxc8 Ke2 7. Qc4+ 1-0  

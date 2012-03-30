@@ -1,0 +1,10 @@
+[Event "ts21 {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "Draw"]
+[Result "*"]
+[FEN "rb6/1k1P4/1P4R1/P7/8/1r4p1/7P/6K1 w - - 0 1"]
+
+ 1. d8=N+ $1 Kc8 2. b7+ Rxb7 3. Nxb7 gxh2+ 4. Kg2 $1 Kxb7 5. a6+ Ka7 $1 (5... Kc8 6. Rg8+ Kd7 7. a7) 6. Kh1 $1 Bc7 7. Rg8 $1 Bb8 (7... Rxg8) 8. Rg6 $1 (8. Rg2 $2 Kb6 $1 9. Rb2+ Kc5 10. a7 Be5 $1 11. Ra2 Rd8) 8... Bc7 9. Rg8 Rxg8 1/2-1/2  

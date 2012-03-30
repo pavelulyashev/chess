@@ -1,0 +1,10 @@
+[Event "tt23#072 @3 {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p5/5pb1/1P2k3/8/1p6/1P6/K2B4 w - - 0 1"]
+
+ 1. b6 cxb6 2. Bg4 (2. Be2 $2 Ke4 $1 3. Bf3+ $1 Ke3 $1 4. Bg4 Kf4 $1 5. Be6 (5. Bf3 f5 6. Be2 Ke3 7. Bd1 f4) (5. Be2 Be4 6. Bd3 f5) 5... Kg5 $1 6. Bd7 Bh5 7. Kb1 Bg4 8. Bc6 f5 9. Kc1 f4 10. Kd2 Kh4 11. Ke1 Kg3) 2... Bf7 (2... Kf4 3. Be6 Kg5 $1 {cook JS} 4. Bd7 Bh5 5. Kb1 Bg4 6. Bc6 f5 7. Kc1 f4 8. Kd2 Kh4 9. Ke1 Kg3) 3. Kb1 Be6 4. Be2 Kf4 (4... f5 5. Kc1 Kd4 (5... Kf4 6. Bd3) 6. Kd2 f4 7. Bh5 Bh3 8. Ke2 Bg2 9. Bg4) 5. Kc1 Ke3 6. Bf1 Bg4 7. Bb5 1/2-1/2  

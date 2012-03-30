@@ -1,0 +1,10 @@
+[Event "2 Honorable Mention, wt06 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Grzeban G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5N2/8/2K2b2/8/Bpk1p3/8/p1pP4/1bB5 w - - 0 1"]
+
+ 1. Bb5+ (1. Ne6 $2 b3 (1... Kd3 $4 2. Bb5#) (1... Ba1 $2 2. Bb5+ Kb3 3. Nc5#)) 1... Kb3 2. Ne6 a1=N (2... a1=Q 3. Nc5+ Ka2 4. Bc4+ b3 5. Bxb3#) 3. Nc5+ Ka2 4. Bc4+ b3 5. Nxe4 Bb2 6. Nc3+ Bxc3 7. dxc3 1/2-1/2  

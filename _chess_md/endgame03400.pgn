@@ -1,0 +1,10 @@
+[Event "Spec. prize, Neidze 70  JT -MAIN {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2B5/8/5Nb1/2Kp2N1/2p5/7p/8/3r3k w - - 0 1"]
+
+1. Bg4 (1. Nxh3 $2 c3 {-+}) (1. Nxd5 $2 Rxd5+ 2. Kxd5 c3 {-+}) 1... Re1 (1...Rd2 2. Nxd5 (2. Bf3+ $2 Kh2 3. Nxd5 Kg3 {-+}) 2... Rxd5+ 3. Kxd5 c3 4. Bf3+ (4.Bd1 $2 h2 {-+}) 4... Kh2 5. Bd1 {=}) (1... Rd3 2. Nxh3 (2. Nxd5 $2 h2 {(c3) -+}) 2... Rxh3 3. Bxh3 c3 4. Nh5 Bxh5 (4... c2 5. Ng3+ Kh2 6. Ne2 Kxh3 7. Kxd5 {=}) 5. Bf5 Bf3 6. Bc2 {=}) 2. Nf3 (2. Bf3+ $2 Kh2 3. Bxd5 Kg3 4. Nxh3 c3 {-+}) (2. Nxd5 $2 Re5 (2... h2 $2 3. Nf3 Re4 4. Nxh2 Kxh2 5. Bd7 Bf7 6. Nc3 {=}) 3.Nf3 (3. Nxh3 c3 4. Kd4 c2 {-+}) 3... c3 4. Nxe5 c2 5. Nxg6 c1=Q+ 6. Kd4 Qg1+ 7.Ne3 Qa1+ 8. Kd5 Kg1 9. Ne5 Kf2 {-+}) 2... Re4 (2... Rf1 3. Nxd5 {=}) 3. Kxd5 (3. Bxh3 $2 Rf4 {-+}) (3. Nxe4 $2 dxe4 4. Nd4 {(Ne1)} h2 {-+}) 3... c3 {Main A)}({Main B)} 3... Rf4 4. Ke5 c3 5. Kxf4 c2 6. Kg3 {(Bxh3)} c1=Q 7. Bxh3 {(Kg3)}Qc7+ 8. Kf2 Qb6+ 9. Kg3 Qc7+ 10. Kf2 Qc2+ 11. Kg3 Bd3 12. Ng4 {=}) ({Main C)}3... Rxg4 4. Nxg4 c3 (4... Kg2 5. Ng5 c3 6. Nxh3 {=}) 5. Ne3 (5. Ne1 $2 Kg1 {-+}) (5. Nd4 $2 Kg2 {-+}) 5... Bh5 6. Ng5 h2 7. Nh3 Bg4 8. Nxg4 c2 9. Ne3 c1=Q10. Nf2+ Kg1 11. Nh3+ Kh1 12. Nf2+ {known positional draw (F.Prokop, 1944)}) 4.Nxe4 Bxe4+ (4... c2 5. Ng3+ Kg2 6. Ne2 {=}) 5. Kd4 $1 (5. Kxe4 $2 c2 {zz} 6.Bxh3 (6. Bf5 h2 {-+}) 6... c1=Q {zz -+}) 5... c2 6. Kxe4 {zz} c1=Q (6... h2 7.Nd4 Kg1 8. Bf3 {=}) 7. Bxh3 {zz} Qh6 8. Bf1 Qc1 9. Bh3 {and known positionaldraw (D.Panichkin, 1990). Interesting synthesis of three different study ideas.Successful development of a creative heritage of different composers.} 1/2-1/2

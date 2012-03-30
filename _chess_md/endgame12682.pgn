@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Bernstein A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7R/pR6/1prp4/2k1p1Np/8/K3P3/5P2/5Bnq w - - 0 1"]
+
+ 1. Rxh5 Qd5 (1... Qxh5 2. Ne4+ Kd5 3. Nf6+) (1... Nh3 2. Ne6+ Kd5 3. Nf4+ Ke4 4. Bg2+) 2. e4 Qg8 (2... Qd4 3. Ne6#) 3. Rg7 $1 Qc8 (3... Qxg7 4. Ne6#) 4. Rh8 $1 Qg4 5. Rh4 Qc8 6. Rh8 1/2-1/2  

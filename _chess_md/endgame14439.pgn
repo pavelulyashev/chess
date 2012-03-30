@@ -1,0 +1,10 @@
+[Event "td20#1649 {v} {m}"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Havasi A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/8/7k/3N4/4N2P/5nP1/8/4n3 w - - 0 1"]
+
+ 1. Nf4 $1 Nxh4 $1 2. g4 (2. gxh4 $2) 2... Nef3 3. g5+ $1 Nxg5 4. Nd6 $1 Ne4 ( 4... Nhf3 5. Nf5#) 5. Nf7# 1-0  

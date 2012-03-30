@@ -1,0 +1,10 @@
+[Event "tt22#043 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Wigforss F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/Pk1Pp1p1/1p6/1Pp5/4r1P1/1N4PK/B1b4P/3r4 w - - 0 1"]
+
+ 1. Nd2 (1. Nd4 $2 Rexd4) (1. Nxb6 $2 Kxa7 2. Nd2 Rxd2 3. Nd5 (3. Bd5 Ree2) 3... Re6) 1... Rxd2 2. Bd5+ (2. Nxb6 $2 Kxa7 3. Nd5 (3. Bd5 Re6 $1) 3... Re6 $1) 2... Rxd5 3. Nxb6 (3. Nc7 $2 Rxd7 4. a8=Q+ Kxc7) 3... Kxb6 (3... Rxd7 4. a8=Q+ Kxb6 5. Qc6+) (3... Kxa7 4. Nxd5) 4. a8=Q Red4 5. Qa6+ Kc7 6. Qc6+ 1-0  

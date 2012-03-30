@@ -1,0 +1,10 @@
+[Event "5 Honorable Mention ml01 t001 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3K4/8/1k2p1P1/2n5/8/8 w - - 0 1"]
+
+ 1. g5 Nb5+ $1 2. Kd5 $1 e3 3. g6 Nc7+ $1 4. Kd4 $1 e2 5. g7 Ne6+ $1 6. Kd3 $1 e1=Q 7. g8=Q Nc5+ 8. Kc2 $1 Qe2+ 9. Kb1 Qd1+ 10. Ka2 Qc2+ 11. Ka1 Nb3+ 12. Qxb3+ $1 Qxb3 (12... Kxb3) 1/2-1/2  

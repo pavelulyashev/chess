@@ -1,0 +1,10 @@
+[Event "SS1990-91  [3 comm cooked] {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Dragoun M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/P7/K1p1p3/2p1p1P1/2p1p3/2P1P3/5b2/8 w - - 0 1"]
+
+ 1. g6 Bh4 2. g7 Bd8 3. g8=B (3. g8=N Bh4 $5 (3... Bb6 $2 4. Nf6 Bxa7 5. Nd7) ( 3... Bc7 4. Ne7 Bb6 5. Nxc6 Bc7 6. Ne7 Bb6 7. Ng8 (7. Nc8 Bc7 8. Kb5 Kb7 9. Kxc5 Bd8 10. Kxc4 Bg5 11. Kb5 Bxe3) 7... Bd8 8. Nh6) 4. Nh6 Bd8 (4... Be1 $2 5. Nf7 Bxc3 6. Nd6 Ba5 7. Kxa5 Kxa7 8. Nxc4) 5. Ng4 Bc7 $1 (5... Bb6 6. Nf6) 6. Nf6 Bb6 {mutual zugzwang} 7. Ne8 $5 (7. Nxe4 Bxa7 8. Nd2 e4 9. Nxe4 (9. Nxc4 e5 10. Nxe5 Bb8 11. Nc4 Bg3 12. Kb6 Be1 13. Kxc5 Bxc3 14. Kxc6) 9... Bb8 10. Kb6 ( 10. Nd2 Be5 11. Nb1 Bc7 12. e4 Kb8) 10... Bh2 11. Nxc5 Be5 12. Na4 $1 (12. Ne4 Bg7 13. Kxc6 Bh6) 12... Bg7 13. Kxc6 Ka7 14. e4 (14. Kc5 Kb7 15. Kxc4 Kc6) 14... Ka6 15. Nc5+ Ka7 16. Nxe6 Bxc3 17. Kc5 Kb7 18. Kxc4 Bf6 19. Kd5 Kc8) (7. Nd7 $6 Bxa7 8. Nb6+ Bxb6 9. Kxb6 Kb8 10. Kxc6 Kc8 11. Kxc5 Kc7 12. Kxc4 Kc6 13. Kb4 Kb6 14. c4 Kc6 15. c5 Kd5 16. Kb5) 7... Bxa7 8. Nc7+ Kb8 9. Nxe6 Ka8 10. Ng7 Bb8 (10... Kb8 11. Nf5 Ka8 12. Ne7 Bb8 13. Kb6 Bd6 14. Nf5 Bb8 15. Ng3 Bd6 16. Nxe4 Bf8 17. Ng3 e4 18. Nf5 Kb8 19. Kxc6 Kc8 20. Kd5 Kd7 21. Kxe4 Ke6 22. Kf4 Kd5 23. e4+ Ke6) 11. Ne8 (11. Nf5 $5 Bc7 12. Ne7 Bd8 13. Nxc6 Bg5) 11... Ba7 12. Nd6 (12. Nf6 Bb8 13. Kb6 Bd6 14. Nxe4 Bf8 15. Nd2 e4 16. Kxc6 Bg7 17. Nxe4 Bh6 18. Kxc5 Bxe3+ 19. Kxc4 Kb7) 12... Bb8 13. Nxe4 Bc7 14. Nxc5 Kb8 ( 14... e4 $5) 15. e4 Kc8 16. Ne6 Kd7 17. Nxc7 Kxc7 18. Ka7 Kd6 19. Kb6 Kd7 20. Kb7 Kd6 21. Kc8 Kc5 22. Kd7 Kb5 23. Kd6 Ka4 24. Kxe5 Kb3 25. Kd4 c5+ 26. Kd5 Kxc3 27. e5 Kb4 28. e6 c3 29. e7 c2 30. e8=Q c1=Q) 3... Bb6 4. Bxe6 Bxa7 5. Bd7 $1 (5. Bc8 {dual Husak} Kb8 6. Bf5 $1 (6. Bd7 Kc7 7. Kxa7 Kxd7 8. Kb7 Kd6 9. Kb6 Kd7 10. Kxc5 Kc7 11. Kb4 Kd7 12. Kxc4 Kd6) 6... Ka8 7. Bxe4 Kb8 8. Bf3 { see dual in 6th move}) 5... Kb8 6. Be8 (6. Bf5 $5 {dual Husak} Ka8 7. Bxe4 Kb8 8. Bf3 $1 (8. Bxc6 Kc7 $1) 8... Ka8 9. Bxc6+ Kb8 10. Be4) 6... Ka8 7. Bxc6+ Kb8 8. Bxe4 1-0  

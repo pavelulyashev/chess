@@ -1,0 +1,10 @@
+[Event "ts22#566 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Kajev L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1N2B3/PP3N1n/3b4/2p5/1p3P2/4kpP1/P7/3b1K2 w - - 0 1"]
+
+ 1. Bb5 c4 $1 2. Bxc4 Be2+ 3. Bxe2 fxe2+ 4. Ke1 Ng5 $1 5. Nxg5 b3 $1 6. Nc6 b2 ( 6... bxa2 7. a8=R $1 (7. a8=Q $2 a1=Q+ 8. Qxa1 Bb4+ 9. Nxb4)) 7. b8=R $1 Bxb8 8. axb8=R $1 1-0  

@@ -1,0 +1,10 @@
+[Event "tt20#723 @2 {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k4b1/1P5N/4pK2/b7/1pB5/8/8/N7 w - - 0 1"]
+
+ 1. Nf8 b3 2. Ba6 (2. Nxb3 $2 Bc3+ 3. Kg6 Kxb7 4. Nc5+ Kc7 5. Ncd7 Kd8 6. Nf6 Ke7) 2... Bc7 (2... Bc3+ 3. Kg6 Be5 4. Nd7+ Ka7 5. Nxe5 b2 6. Nc6+) 3. Nxb3 e5 (3... Ka7 4. Bc4 Bd6 5. Nd7 Bh7 6. Nbc5 Bf5 7. Bb5) 4. Ne6 (4. Nc5 $2 Bd6 5. Nfd7+ Ka7 6. Nxe5 Bd5) 4... Bd6 (4... Bxe6 5. Kxe6 Ka7 6. Kd7) 5. Na5 Ka7 6. Bb5 (6. Bd3 $2 Bxe6 7. Kxe6 Bc7 8. Kd7 Kb8 9. Nc4 Kxb7 10. Be4+ Kb8) (6. Bc4 $1 {cook JB} Bxe6 (6... Bh7 7. Bd5) 7. Kxe6 Bc7 8. Kd7 Kb8 9. Nb3 Kxb7 10. Nc5+ Kb6 11. Na6) (6. Bf1 $1 {cook JB}) 6... Bxe6 7. Kxe6 Bc7 (7... Bb8 8. Kd7 Kb6 9. Kc8 Ba7 10. Nc6) 8. Kd7 Kb8 9. Nc4 Kxb7 10. Bc6+ Kb8 11. Be4 1-0  

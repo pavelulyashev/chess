@@ -1,0 +1,10 @@
+[Event "Romanian champ {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/7k/2NN4/5P1r/3P1p1b/7K w - - 0 1"]
+
+ 1. Kg2 (1. Ne3 $143 Be5+ 2. Kg2 Rh2+ 3. Kf1 Bxd4 $19) 1... f1=Q+ (1... Rh4 $144 2. Ne3 Rxd4 3. Kxh2 Rxd2 4. Kg3 Kg5 5. f4+ Kg6 6. f5+ Kg5 7. f6 $11) 2. Kxf1 Rh4 3. f4 $1 {Nowotny} Rxf4+ (3... Bxf4 $144 $11) 4. Nf3 $3 Rxf3+ (4... Bg3 $144 $11) (4... Rf8 $144 $11) 5. Kg2 Rf4 6. Ne3 Rh4 7. Nf5 Rf4 8. Ne3 Rh4 9. Nf5 $11 {positional draw - perpetual attack} 1/2-1/2  

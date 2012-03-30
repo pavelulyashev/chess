@@ -1,0 +1,10 @@
+[Event "Tourney for beginners, 2 prize {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B2K1/8/8/6Q1/7R/2P5/pk6/4qb2 w - - 0 1"]
+
+ 1. Bf6 $1 (1. Rb4+ $2 Kc2 2. Qg6+ Bd3 3. Qg2+ Qe2 $11) (1. Rh2+ $2 Kb3 2. Qg6 Bc4+ $1 3. Kf8 Qf1+ 4. Kg7 Bd3 5. Qb6+ Bb5 $11) (1. c4 $2 Bxc4+ 2. Kf8 a1=Q 3. Bf6+ Kb3 4. Bxa1 Qxa1 $11) 1... Bc4+ $1 (1... Qe6+ 2. Kg7 Bc4 3. Qg2+ Ka3 4. Qa8+) (1... a1=Q 2. c4+ Kb3 3. Qb5+ Kc2 4. Rh2+ {win.}) 2. Rxc4 Qe6+ (2... a1=Q 3. Rb4+) 3. Kh7 $3 ({Thematic tries} 3. Kg7 $2 {(Kf8? Kh8?) see move 11.}) 3... Qxc4 4. Qb5+ $1 Qxb5 5. c4+ Qe5 $1 6. Bxe5+ Kb3 7. c5 Kc4 8. c6 Kd5 9. c7 Kxe5 10. c8=Q a1=Q 11. Qh8+ $1 {win.} 1-0  

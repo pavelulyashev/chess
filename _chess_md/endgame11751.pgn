@@ -1,0 +1,10 @@
+[Event "3 Prize ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kralin N, Kuznetsov AG, Neistad"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k7/2r5/3N1p1p/KB6/8/P3pPP1/8 w - - 0 1"]
+
+ 1.Nf4 (1.Nc3 $2 Re6 (1...e1=Q 2.Nb5+)) 1...e1=Q 2.Bxe1 Rc4+ 3.Kb5 Rxf4 4.f3 Ka8 (4...Rd4 5.Bf2) (4...h4 5.Bd2 Rd4 6.Be3) 5.Bf2 Kb7 6.a3 $3 Kc8 7.a4 Kb7 8.a5 Ka8 9.a6 h4 10.Be3 Rg4 11.fxg4 fxg4 12.Bg1 h3 13.g3   1-0  

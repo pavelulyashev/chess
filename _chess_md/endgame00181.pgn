@@ -1,0 +1,10 @@
+[Event " Commendation  {m}"]
+[Site "?"]
+[Date "2004.03.23"]
+[Round "?"]
+[White "Bunka V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2kp4/2P1p3/2PP4/2p5/2K5/8/8 w - - 0 1"]
+
+ 1. cxd7 (1. Kxc4 $2 exd5+ 2. Kxd5 Kc8 $3 (2... dxc6+ 3. Ke6 $18) (2... Kd8 $4 3. Kd6 $18) 3. Kd6 Kd8 4. c7+ Kc8 5. c6 dxc6 6. Kxc6 {stalemate.}) 1... exd5 2. c6 Kd8 3. Kd4 Ke7 $1 (3... Kc7 $2 4. Kxd5 c3 5. Ke6 c2 6. Ke7 c1=Q 7. d8=Q+ Kxc6 8. Qc8+ $18) 4. Kc5 $1 c3 5. Kb6 c2 6. Kc7 c1=Q 7. d8=Q+ Ke6 8. Qd6+ ({ also possible:} 8. Qe8+) 8... Kf7 9. Qxd5+ ({also possible:} 9. Kd7) 9... Ke7 10. Qe4+ ({also possible:} 10. Qd6+) ({also possible:} 10. Qe5+) 10... Kf7 11. Kc8 Qa3 12. c7 Qa6+ 13. Kb8 Qb5+ 14. Qb7 Qe5 15. Qb4 $1 Kg7 16. Kb7 Qd5+ 17. Ka7 Qa2+ 18. Kb8 Qh2 19. Qd4+ Kh7 20. Qf6 Qg3 21. Kc8 Qa3 22. Qe5 Qd3 23. Qe6 Qa3 24. Qe4+ Kh6 25. Kd7 Qa7 26. Qb4 Kh5 27. Kd8 $1 {wins.} 1-0  

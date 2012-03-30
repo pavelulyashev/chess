@@ -1,0 +1,10 @@
+[Event "1 Prize, Tolush 100 MT {m}"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "Katsnelson L, Sochnev A"]
+[Black "*"]
+[Result "*"]
+[FEN "8/B4P2/8/8/1b2P2p/8/P1PP1Pp1/1K1k4 w - - 0 1"]
+
+ 1. f3 $1 ({Thematic try} 1. f4 Ke2 2. Bg1 (2. c4 h3 3. Bg1 Kf1 4. c5 Kxg1 5. f8=Q Kf2 $19) 2... Kf1 3. Bh2 h3 4. a4 g1=Q 5. Bxg1 Kxg1 6. c3 Bc5 7. a5 h2 8. a6 h1=Q 9. f8=Q Qxe4+ $19) 1... Ke2 2. Bg1 $1 Kf1 3. Bh2 h3 4. a4 $1 (4. c3 $2 Ba3 $19) 4... g1=Q 5. Bxg1 Kxg1 6. c3 $1 ({Thematic try} 6. a5 $2 h2 7. a6 h1=Q 8. f8=Q Bxf8 9. a7 Kf2+ 10. Ka2 Qc1 11. a8=Q Qxc2+ 12. Ka1 Bg7+ $19) 6... Bc5 7. a5 $1 (7. d4 $2 Be7 8. a5 h2 9. a6 h1=Q 10. f8=Q Bxf8 11. a7 Kf2+ 12. Ka2 Qc1 13. a8=Q Qc2+ 14. Ka1 Qxc3+ 15. Ka2 Qc2+ 16. Ka1 Bb4 $19) 7... h2 8. a6 h1=Q 9. f8=Q Bxf8 10. a7 Kf2+ 11. Ka2 $1 Qc1 12. a8=Q $11 *  

@@ -1,0 +1,10 @@
+[Event "mm01 tp22 @2 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Joitsa P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6N1/6r1/6B1/8/3r2kB/8/6K1/8 w - - 0 1"]
+
+ 1. Nh6+ (1. Ne7 $2 Rd2+ 2. Kg1 Kxh4 3. Nf5+ Kg5 4. Nxg7 Kxg6 5. Ne6 Kf5 6. Nc5 Rd5 7. Nb3 Rd3 8. Nc5 Rc3 9. Na4 Rc2) 1... Kf4 2. Bg3+ Kg5 3. Nf5 Rd2+ 4. Kh3 ( 4. Kf3 $1 {cook}) 4... Rxg6 5. Nh4 Rf6 (5... Rh6 6. Bf4+ Kxf4) 6. Nf3+ Rxf3 1/2-1/2  

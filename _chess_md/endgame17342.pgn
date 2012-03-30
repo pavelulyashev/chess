@@ -1,0 +1,10 @@
+[Event "ts69#37 @3 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P5P1/8/1K1kN2P/8/3n4/r7 w - - 0 1"]
+
+ 1. g7 (1. Nxd2 $2 Rxa6 2. h5 Ke5 3. g7 Ra8 4. h6 Kf6) (1. Nf6 $2 Rxa6 2. h5 (2. g7 Ra8 3. h5 Ke5) 2... Rb6+ 3. Ka3 (3. Ka4 Ra6+ 4. Kb5 Rxf6 5. g7 Rf5+) 3... Nc4+ 4. Ka2 Rxf6 5. g7 Rf2+ 6. Kb1 Rg2 7. h6 Ne5) (1. Nd6 $2 Rxa6 2. h5 Ke5 3. h6 Kf6) (1. Kb5 $2 Nxe4 2. h5 Nd6+ 3. Kb6 Nf5) (1. h5 $2 Nxe4 2. g7 (2. h6 Rxa6 ) 2... Rb1+) 1... Rb1+ 2. Ka3 (2. Ka5 $2 Nc4+ 3. Ka4 Nb6+ 4. Ka3 Rg1) (2. Ka4 $2 Nxe4 3. g8=Q Nc3+ 4. Ka3 Nb5+ 5. Ka4 Nc3+) 2... Nc4+ 3. Ka2 Rb2+ 4. Ka1 Rg2 5. a7 (5. Ng5 $2 Kc3 6. Ne4+ Kb3 7. Nc5+ Ka3) 5... Rg1+ 6. Ka2 Rg2+ 7. Kb1 Rg1+ 8. Kc2 Rg2+ 9. Kd1 (9. Nd2 $2 Nb6) 9... Ne3+ 10. Kc1 (10. Ke1 $2 Nc2+ 11. Kf1 Ne3+) 10... Rg1+ 11. Kb2 (11. Kd2 $2 Rg2+ 12. Nf2 Nc4+) 11... Nc4+ 12. Kb3 Rg2 $1 13. Nf2 $1 (13. a8=Q $2 Rb2+ 14. Ka4 Ra2+) (13. Ng5 $2 Rb2+ 14. Ka4 Nb6+ 15. Ka5 Nc4+) (13. Nd2 $2 Nxd2+ 14. Kb4 Nc4 15. Kb5 Na3+ $1 16. Kb6 Rg6+ 17. Ka5 Nc4+) 13... Rxf2 (13... Nb6 $1 {cook HH}) 14. g8=Q Rb2+ 15. Ka4 Nb6+ 16. Ka3 ( 16. Ka5 $2 Nc4+ 17. Qxc4+ Kxc4 18. h5 Kc5) 16... Nc4+ 17. Qxc4+ Kxc4 18. Kxb2 1-0  

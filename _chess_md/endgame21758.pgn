@@ -1,0 +1,10 @@
+[Event "tc13 {pl} @1 @2 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kalinin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6R1/8/8/6K1/1p6/2p4k/8/8 w - - 0 1"]
+
+ 1. Kf4 (1. Rc8 $2 Kg3 2. Rc4 Kf3 3. Rxb4 Ke3 4. Rc4 Kd2) (1. Rb8 $1 {cook}) 1... c2 $1 2. Rh8+ $1 (2. Rc8 $1 {cook} b3 3. Rc7 Kg2 4. Rc3) 2... Kg2 3. Rc8 b3 4. Ke3 $1 Kf1 5. Kd2 1-0  

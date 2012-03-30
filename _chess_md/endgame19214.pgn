@@ -1,0 +1,10 @@
+[Event "tf01#004 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/Bp6/1R6/P7/8/p7/r1b5/2K4R w - - 0 1"]
+
+ 1. a6 Be4 $1 (1... bxa6 2. Rhh6 Kxa7 3. Rbf6) 2. axb7+ Bxb7 3. Rh7 Ra1+ 4. Kd2 (4. Kc2 $2 Be4+) 4... a2 5. Rbxb7 Rd1+ 6. Ke3 Rd8 $1 7. Bd4 a1=Q 8. Bxa1 Rd3+ 9. Kf4 Rf3+ 10. Ke5 Re3+ 11. Kd6 Rd3+ 12. Kc7 Rc3+ (12... Rd7+) 13. Kd7 $1 (13. Kd8 $2 Rc8+) 13... Rd3+ 14. Ke8 Rd8+ 15. Ke7 $1 Re8+ 16. Kf6 Re6+ 17. Kf7 Rf6+ 18. Bxf6 1-0  

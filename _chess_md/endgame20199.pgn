@@ -1,0 +1,10 @@
+[Event "ts64 {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/3p4/8/1kp5/4K3/5B2 w - - 0 1"]
+
+ 1. Kd1 c2+ (1... Kb2 2. Bd3) 2. Kc1 Kc3 3. Bb5 (3. Be2 $2 d4 4. Bd1 cxd1=Q+ 5. Kxd1 Kd3) 3... d4 4. Ba4 d3 5. Bxc2 dxc2 1/2-1/2  

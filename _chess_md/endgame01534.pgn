@@ -1,0 +1,10 @@
+[Event "64 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/7p/1p1p1p2/1Pp4p/P6r/2KP3P/1P5R/8 w - - 0 1"]
+
+ 1. a5 bxa5 (1... Rb4 2. a6 Rxb5 3. b4 cxb4+ 4. Kb3 Ra5 5. Ra2) 2. b4 a4 3. bxc5 dxc5 4. Ra2 $1 (4. b6 $2 a3) 4... Rb4 5. Rb2 Rd4 6. b6 Rd8 7. Kc4 a3 8. Ra2 Kf7 9. Rxa3 Ke6 10. Kxc5 Rc8+ 11. Kb5 $18 1-0  

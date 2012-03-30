@@ -1,0 +1,10 @@
+[Event "ts18 {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Avni A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/5p1P/8/5p1K/4b1p1/3N4/3bRP2/8 b - - 0 1"]
+
+ 1... g3 2. Rxd2 (2. Ne1 $2 g2 3. Nxg2 Bf3+) 2... g2 (2... Bf3+ 3. Kh6) 3. Rd1 Bf3+ (3... Bxd3 4. Kh6) 4. Kh6 Bxd1 5. Ne5 Bh5 (5... Bb3 6. Nf3 Bd5 7. Ng1) 6. f4 f6 (6... g1=Q 7. Nxf7+ Bxf7) (6... g1=N 7. Kxh5) (6... Bg6 7. Nf3) 7. Nf7+ Bxf7 1/2-1/2  

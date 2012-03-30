@@ -1,0 +1,10 @@
+[Event "td20#1986 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K1k2r2/1RPp1p2/2pqpPp1/2p1p3/1pP1P3/1P2P3/P5Q1/8 w - - 0 1"]
+
+ 1. Ka7 Qxc7 $1 2. Rxc7+ Kxc7 3. Qd2 g5 (3... Rb8 4. Qd6+ Kxd6 5. Kxb8 g5 6. Kb7 g4 7. Kb6 g3 8. a3 g2 (8... bxa3 9. b4) 9. axb4 g1=Q 10. bxc5#) 4. a4 Rb8 (4... bxa3 5. Qa5+ Kc8 (5... Kd6 6. Kb7) 6. Kb6 d5 7. Qa8+ Kd7 8. Qxc6+ Kd8 9. Qc7+ Ke8 10. Qe7#) (4... g4 5. a5 g3 6. a6 Rg8 7. Qa2 g2 8. Qa5+ Kc8 (8... Kd6 9. Kb7) 9. Qb6) 5. Qxd7+ Kxd7 6. Kxb8 g4 7. a5 g3 8. a6 g2 9. a7 g1=Q 10. a8=Q Qg8+ 11. Kb7 Qxa8+ 12. Kxa8 Kc8 13. Ka7 Kc7 14. Ka6 Kd7 15. Kb7 Kd6 16. Kb6 Kd7 17. Kxc5 Kc7 18. Kxb4 Kb6 19. Ka4 (19. c5+ $2 Kb7 20. Ka5 Ka7 21. b4 Kb7 22. b5 cxb5 23. Kxb5 Kc7 24. c6 Kd6 $3 25. Kb6) 19... c5 20. b4 cxb4 21. Kxb4 Kc6 22. c5 Kc7 23. Kb5 Kb7 24. c6+ Kc8 $1 25. Kc4 (25. Kb4 {or}) 25... Kd8 (25... Kc7 26. Kc5 Kc8 27. Kd6 Kd8 28. c7+) 26. Kb4 (26. Kc5 $2 Kc7 27. Kb5 Kd6 28. Kb6 ( 28. c7 Kxc7 29. Kc5 Kd7)) 26... Kc8 27. Kb5 Kb8 28. Kb6 Kc8 29. c7 Kd7 {eg} 30. Kb7 Kd6 31. Kb8 1-0  

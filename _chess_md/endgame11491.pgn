@@ -1,0 +1,10 @@
+[Event "ARVES Solving 2002 {m}"]
+[Site "?"]
+[Date "2002.11.17"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "83b4P71r2P32R2K281b67k w - - 0 1"]
+
+ 1. a7 Ra5 {Not} (1... Bxe5 2. Ke4) 2. e6! {After both} (2. Rc7? Bxe5+) {and} (2. Re4? Ba3 3. e6 Be8) {Black wins} 2... Bxe6 3. Re4 Bc1+ 4. Kg3 Ra3+ 5. Kf2 Ra2+ {After} (5... Rf3+ 6. Ke2! Bd5 7. Rd4 Re3+ 8. Kf2) {White draws} 6. Kg3 Rg2+ 7. Kf3 {Not} (7. Kh4? Bg5+ 8. Kh5 Bf7#) 7... Bd5 8. a8=Q Bxa8 {stalemate} 1/2-1/2  

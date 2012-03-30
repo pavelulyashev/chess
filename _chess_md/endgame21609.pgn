@@ -1,0 +1,10 @@
+[Event "5 Prize, ts23#28 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N2n/1p5N/8/8/7p/8/pP6/k1K5 w - - 0 1"]
+
+ 1. Ng5 (1. Nhf6 $2 h3 2. Ng4 h2 3. Nxh2 Ng6 4. Nf3 Nf4 5. Kc2 Nd3 6. Nd2 Nb4+ 7. Kc3 Nc6 $1 8. Nd6 Nd4 9. N6c4 b5 10. Kxd4 bxc4 11. Kc3) 1... Ng6 $1 (1... h3 2. Nxh3 Ng6 3. Nc7 Ne5 4. Nf4 b5 5. Nce6 $1 Nc6 6. Nd3 b4 7. Ndc5 Na5 8. Nd4) 2. Ne6 $1 Nf4 (2... Ne5 3. Nc5) 3. Nxf4 h3 4. Nxh3 b5 5. Nf2 $1 (5. Nd6 $2 b4 6. Nf2 b3 7. Kd2 Kxb2) 5... b4 6. Nd1 $1 b3 7. Kd2 Kb1 8. Nd6 a1=Q 9. Nc3+ Kxb2 10. Nc4# 1-0  

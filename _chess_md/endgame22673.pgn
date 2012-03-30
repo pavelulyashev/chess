@@ -1,0 +1,10 @@
+[Event "2 Prize, tm54 {m}"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Osintsev S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3q4/4b2n/4B3/4p3/6K1/8/2QP3k/8 w - - 0 1"]
+
+ 1. d3+ (1. Qxh7+ $2 Kg1 2. Kg3 Bh4+ 3. Qxh4 Qd3+) (1. d4+ $2 Kg1 2. Kh3 Ng5+ 3. Kg3 Ne4+ 4. Qxe4 Bh4+ 5. Kh3 Qg5 6. Bg4 Qd2 7. Qxe5 Qf2 8. d5 Bf6) 1... Kg1 ( 1... Kh1 2. Qd1+ Kg2 3. Qe2+ Kg1 4. Kh3) 2. Kh3 (2. Qd1+ $2 Kf2 3. Qd2+ Kf1 4. Kg3 Bh4+ 5. Kh2 Bg3+ 6. Kxg3 Qg5+) 2... Qa8 (2... Ng5+ 3. Kg3 Ne4+ 4. dxe4 Bh4+ 5. Kh3 Qg5 6. Qh2+ Kf1 7. Bc4+) 3. Qh2+ (3. Qd1+ $2 Kf2 4. Qd2+ Kf1 5. Kg3 Bh4+ 6. Kxh4 Qd8+ 7. Kh3 Ng5+) 3... Kf1 4. Bg4 Ng5+ (4... Bh4 5. Qe2+ Kg1 6. Qe3+ Kf1 7. Be2+) 5. Kg3 Ne4+ 6. dxe4 Bh4+ (6... Qa3+ 7. Bf3 Qe3 (7... Bh4+ 8. Qxh4) 8. Qh1+ Qg1+ 9. Bg2+) 7. Qxh4 Qxe4 8. Be2+ $1 (8. Bh3+ $2 Kg1 9. Qxe4) 8... Kg1 (8... Qxe2 9. Qh1#) 9. Qh2# (9. Qxe4 $2) 1-0  

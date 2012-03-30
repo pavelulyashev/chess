@@ -1,0 +1,10 @@
+[Event "te01 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Van der Marel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1k3p2/pp3P2/8/1p6/1p6/1P5P/1K6 w - - 0 1"]
+
+ 1. h4 a5 2. h5 Ka6 3. h6 Kb5 4. h7 Ka4 5. h8=N b5 (5... Kb5 6. Nxf7 Kc6 7. Ne5+ Kd6 8. Kc1 Ke6 9. f7 Ke7 10. Nd7 Kxf7 11. Nxb6 Ke7 12. Kd2 Kd8 13. Kd3 Kc7 14. Na4 Kd7 15. Nc5+ Kc6 16. Kc4 Kb6 17. Nxb3 a4 18. Nc1 Ka5 19. Kc5) 6. Ng6 fxg6 7. f7 g5 8. f8=N (8. f8=Q $2 g4 9. Qg7 g3 10. Kc1 g2 11. Kd2 g1=Q 12. Qxg1) 8... g4 9. Ne6 g3 10. Nc5# 1-0  

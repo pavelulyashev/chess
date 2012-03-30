@@ -1,0 +1,10 @@
+[Event "s. comm {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Brieger R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k2K4/1p5P/1P4n1/pPP5/b7/8/4P3/8 w - - 0 1"]
+
+ 1. c6 Bc2 (1... bxc6 2. Kc7 $18) (1... Bxb5 2. c7 $18) (1... Bb3 2. e4 Be6 3. Kc7 $18) 2. c7 (2. Kc7 $2 Be4 $19) (2. Kc8 $2 Be4 3. c7 Bf5+ {-+}) 2... Bf5 3. e4 (3. c8=Q+ $2 Bxc8 4. Kxc8 a4 $19) 3... Be6 {(Bg4, Bh3)} 4. c8=Q+ (4. e5 a4 5. c8=Q+ {Transposes}) 4... Bxc8 5. Kxc8 a4 6. e5 a3 7. e6 a2 8. h8=Q Nxh8 9. e7 a1=Q 10. e8=N $1 {Wins} (10. e8=Q $2 Qg7 $11 { . (See - Zinar, 2.hm Magyar Sakkvilag, 1987)}) 1-0  

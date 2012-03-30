@@ -1,0 +1,10 @@
+[Event "Sakkйlet {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Benko P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k1rr/1R1R3p/8/8/8/2K5/7P/8 w k - 0 1"]
+
+ 1. Rd2 $1 Rf8 2. Kc2 $1 (2. Kb2 $2 Rhg8 3. h3 h6 4. h4 h5 5. Ka2 Rf6) (2. Ra2 $2 Rf3+ 3. Kd4 O-O $1) 2... Rhg8 3. Kb2 h6 4. h3 $1 (4. h4 $2 h5 5. Ka2 Rf6 6. Rc2 (6. Rb8+ Kf7 7. Rd7+ Ke6) 6... Ra6+ 7. Kb2 Ra8) 4... h5 5. h4 Rh8 (5... Rf6 6. Rc2 Rd6 7. Rc8+ Rd8 8. Rxd8+ Kxd8 9. Rb8+) 6. Ka2 Rhg8 7. Ra7 Rh8 8. Rb2 { pseudo-Bristol} 1-0  

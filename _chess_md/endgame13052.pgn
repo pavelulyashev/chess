@@ -1,0 +1,10 @@
+[Event "ts52 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Duclos P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p5/kp6/3P4/PK6/8/8/8 w - - 0 1"]
+
+ 1. Kb3 $1 (1. Ka3 $2 Ka5 2. Kb3 b5 3. axb5 Kxb5 4. d6 cxd6 5. Kc3 Kc5 6. Kd3 Kd5) 1... Ka5 (1... b5 2. Kb4) 2. Ka3 b5 3. axb5 Kxb5 4. d6 $1 (4. Kb3 $2 Kc5 5. d6 (5. Kc3 Kxd5 6. Kd3 Kc5 7. Kc3 c6) 5... Kxd6 $1 6. Kc4 Kc6) 4... cxd6 5. Kb3 1/2-1/2  

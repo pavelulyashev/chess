@@ -1,0 +1,10 @@
+[Event "UV CSTV {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/p1p4p/P1P2P2/3p1kr1/1P1P4/K7/P2b4/6B1 w - - 0 1"]
+
+ 1. f7 Rg3+ 2. Be3 $1 {Nowotny} Rxe3+ 3. Ka4 Ra3+ $1 4. Kb5 $1 (4. Kxa3 $2 Bh6) 4... Ra5+ $1 (4... Bh6 5. f8=Q+ Bxf8 {stalemate}) 5. bxa5 $1 Bh6 6. a4 $1 Ke6 7. f8=Q Bxf8 {stalemate} 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "Scacchi & Dintorni, 1 prize {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r1q4k/3Npnp1/1P6/4P2p/7K/1p6/1B4Q1/8 w - - 0 1"]
+
+ 1. b7 Qc4+ 2. Kxh5 Rg8 $1 (2... g6+ 3. Qxg6 Qe2+ 4. Qg4 Qh2+ 5. Qh4 Qe2+ 6. Kg6+) (2... Rd8 3. e6 Qb5+ 4. Kg6 Nh6 5. Bxg7+) 3. e6 $1 Qxe6 (3... Qb5+ 4. Kg6 Nh6 5. Qh3 $1 Qxb7 6. Qxh6#) 4. Qxg7+ $1 (4. Bxg7+ $2 Kh7 (4... Rxg7 $11) 5. Nf6+ Qxf6 6. Bxf6 Rxg2 7. b8=Q exf6 $11) 4... Rxg7 5. b8=R+ $1 (5. b8=Q+ $2 Nd8 6. Qxd8+ Qg8 7. Nf8 e5 8. Bxe5 b2 9. Bxb2 Qd5+ $1 10. Qxd5 {stalemate.}) 5... Nd8 (5... Kh7 $2 6. Nf8+) 6. Rxd8+ Qg8 7. Nf8 $1 e5 8. Bxe5 b2 9. Bxb2 Qf7+ 10. Ng6+ Kh7 11. Rh8# 1-0  

@@ -1,0 +1,10 @@
+[Event "tl10 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/1p6/pP2P3/Kp6/8/1P5p/7P/b7 w - - 0 1"]
+
+ 1. e7 Bc3+ $1 2. b4 Be5 $1 3. e8=R+ $3 Bb8 4. Re2 Bd6 5. Rc2 Be5 6. Rc8+ Bb8 7. Rc7 $1 Bxc7 8. bxc7 Ka7 9. c8=N+ $1 1-0  

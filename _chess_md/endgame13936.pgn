@@ -1,0 +1,10 @@
+[Event "ts61 {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1Pk5/B1Pr4/1p1P4/8/7p/P2P3P/K7 w - - 0 1"]
+
+ 1. a4 $1 (1. Bxb5 $2 Rxd5 2. Bf1 (2. a4 Rxd2 3. a5 Rxh2 4. a6 Kb8) 2... Rxd2 3. Bxh3 Rxh2 4. Be6 Re2 5. Bb3 Rh2 6. Kb1 Rf2 7. a4 (7. Bc2 Rf6 8. Ba4 (8. Be4 Re6 ) 8... Rf4) 7... Rf6 8. Bd5 Rf4 9. a5 Ra4) 1... Rxd5 $1 (1... bxa4 2. Bc4 Rg6 3. Kb2 Rh6 (3... Rg2 4. d6+ Kb8 5. c7+ Kxb7 6. Ba6+) 4. Ka3 Rg6 5. Kxa4 Rh6 6. Kb5 Rg6 (6... Rh5 7. Ka6 Kb8 8. d6) (6... Kb8 7. Kb6) 7. Ka6 (7. Kc5 Rg5) 7... Kb8 8. Kb6 Rh6 (8... Rd6 9. Kc5 Rh6 10. d6) (8... Rg7 9. d6 Rxb7+ 10. Kc5 Rh7 11. c7+) 9. Bd3 Rf6 10. Bf5 Rh6 11. Bxh3 Rf6 12. Bf5 Rh6 13. h4 Rf6 14. h5 Rg6 15. Ka6) 2. axb5 (2. Bxb5 $2 Rxd2 3. a5 Rxh2 4. a6 Kb8) 2... Kb8 3. d3 $3 Rd4 ( 3... Rxd3 4. c7+ Kxc7 5. b6+ Kb8 6. Bxd3 Kxb7 7. Kb2 Kxb6 8. Kc3 Kc5 9. Bc4 Kd6 10. Kd4 Ke7 11. Ke5 Kf8 12. Kf6 Ke8 13. Kg7 Ke7 14. Bf1 Ke6 15. Bxh3+ Ke5 16. Bc8 Kf4 17. h4) (3... Rg5 4. Kb2 Rg2+ 5. Kc3 Rxh2 (5... Ra2 6. d4) 6. b6) 4. Kb2 Rd5 5. Kc3 Rc5+ 6. Kd4 Rf5 7. Kc4 (7. Ke4 $2 Rh5 $1) 7... Rg5 $1 (7... Rh5 8. d4) 8. d4 Rh5 $1 (8... Rg2 9. d5 Rxh2 (9... Rc2+ 10. Kd3 Rc1 11. Ke2 $1) ( 9... Rd2 10. Kc5 Rc2+ 11. Kb6 Rc1 12. d6) 10. d6 Rc2+ 11. Kb3 Rc1 (11... h2 12. Kxc2) 12. b6 Rb1+ 13. Kc2) 9. d5 Rh4+ (9... Rh6 10. Kb4) 10. Kc3 $1 (10. Kc5 $2 Rh5 11. Kb6 Rh6 12. Ka5 Rh5 13. Kb6 Rh6 14. Kc5 Rh5 15. Kc4 Rh4+ 16. Kc3) 10... Rh6 11. Kb4 Rh4+ (11... Rg6 12. Kc5 Rg5 13. Kd4) 12. Ka5 Rh6 (12... Rd4 13. Kb6 Rc4 14. d6) 13. Kb6 Rg6 (13... Rh7 14. d6 Rxb7+ 15. Kc5) 14. Kc5 Rg5 15. Kd4 Rg6 16. Ke5 Rg5+ 17. Ke6 Rg6+ 18. Ke7 (18. Kf7 $2 Rd6) 18... Rg7+ 19. Kf6 Rh7 20. d6 1-0  

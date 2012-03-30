@@ -1,0 +1,10 @@
+[Event "tl68 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/p7/2p1p3/2PpP3/p2K4/8/pp1PQ3/1k6 b - - 0 1"]
+
+ 1... Ka1 (1... a1=Q $2 2. Qd1+ Ka2 3. Qxa4+ Kb1 4. Qd1+) 2. d3 $1 (2. Qd1+ $2 b1=R $1) 2... b1=Q 3. Qe1 Qxe1 1/2-1/2  

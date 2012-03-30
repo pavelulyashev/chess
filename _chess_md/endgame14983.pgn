@@ -1,0 +1,10 @@
+[Event "tu03 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5Q2/q7/8/8/4k1K1/5N2/8/8 w - - 0 1"]
+
+ 1. Qf5+ Ke3 2. Qe6+ Kd3 (2... Kf2 3. Qe1+ Kg2 4. Nh4+ Kh2 5. Qg3+ Kh1 6. Qg2#) 3. Qb3+ Ke4 (3... Ke2 4. Qc2+ Kf1 (4... Ke3 5. Qd2+) 5. Qd1+ Kg2 6. Nh4+ Kf2 7. Qd2+ Kf1 8. Qg2+ Ke1 9. Nf3+ Kd1 10. Qd2#) 4. Qc2+ (4. Qb1+ $1 {cook IV}) 4... Kd5 (4... Ke3 5. Qd2+ Ke4 6. Qe2+ Kd5 7. Qd3+) 5. Qd3+ Ke6 (5... Kc6 6. Ne5+ Kb7 7. Qd5+ Kb6 8. Qc6+ Ka5 9. Qc3+ Ka6 10. Qc4+ Kb6 11. Qb4+ Kc7 12. Qe7+ Kb6 13. Nc4+ Ka6 14. Qa3+ Kb7 15. Nd6+ Ka8 (15... Kb6 16. Nc8+) 16. Qf3+ Kb8 17. Qf8+ Kc7 18. Nb5+) 6. Nd4+ Kf6 7. Qf5+ Kg7 8. Ne6+ Kg8 (8... Kh8 9. Qh5+ Qh7 ( 9... Kg8 10. Qe8+) 10. Qe5+ Kg8 11. Qb8+ Kf7 12. Ng5+) 9. Qg6+ (9. Qf8+ $1 { cook JV} Kh7 10. Ng5+ $1 (10. Kh5 $2 Qa5+ 11. Ng5+ Qxg5+ 12. Kxg5) 10... Kg6 11. Qf5+ Kh6 (11... Kg7 12. Qh7+) 12. Qf6#) 9... Kh8 10. Qe8+ (10. Qf6+ $1 { cook IV}) (10. Qh6+ $1 {cook IV}) 10... Kh7 11. Kh5 $1 Qb7 $1 12. Qg6+ Kh8 13. Qf6+ Kh7 14. Qf5+ (14. Qh6+ $1 {cook IV}) 14... Kg8 15. Qf8+ Kh7 16. Ng5# 1-0  

@@ -1,0 +1,10 @@
+[Event "ts22#249 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7r/2B2Kpk/R7/8/6P1/6Pp/2p5/8 w - - 0 1"]
+
+ 1. Ra1 (1. Bf4 $2 Rb8 $1) 1... Rc8 2. Bf4 c1=Q $1 (2... Rc6 3. g5 $1 (3. Rh1 Rf6+ 4. Ke8 Kg8)) 3. Bxc1 Rc7+ 4. Ke6 $1 (4. Ke8 $2 Rc8+ 5. Ke7 $2 Ra8 $1 6. Rxa8 h2 7. Ra5 h1=Q 8. Rh5+ Kg6 $1 9. Rxh1) 4... Rc6+ (4... Ra7 5. Rxa7 h2 6. Bb2) 5. Kd7 Ra6 $1 6. Rb1 $1 Rb6 $1 7. Rxb6 h2 8. g5 g6 9. Rb4 h1=Q 10. Rh4+ 1-0  

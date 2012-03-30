@@ -1,0 +1,10 @@
+[Event "ts02#0805 @3 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1n3B1k/KP1nPP2/8/2P5/8/1r6/8/8 w - - 0 1"]
+
+ 1. Bg7+ Kh7 2. f8=N+ Kxg7 3. Nxd7 Nxd7 (3... Nc6+ $1 {cook H} 4. Ka6 Kf7 5. Nf6 Kxe7 6. Ne4 Kd7 7. Nd6 Kc7 8. Nb5+ Kb8 9. Nd6 Nd8 10. Nb5 Nxb7 11. c6 Nc5+ 12. Kb6 Ne6) 4. e8=N+ $1 (4. b8=Q $2 Rxb8 5. c6 Re8 6. c7 Kf7 7. Kb7 Nc5+ 8. Kc6 Rc8) 4... Kg6 5. Nc7 Ra3+ 6. Na6 Nxc5 7. b8=N (7. b8=Q $2 Rxa6#) 1/2-1/2  

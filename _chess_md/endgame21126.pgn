@@ -1,0 +1,10 @@
+[Event "2 Honorable Mention, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Hornecker S, Minski M"]
+[Black "*"]
+[Result "*"]
+[FEN "8/4k3/3R2KB/P5P1/8/P7/2pp4/1b3R2 w - - 0 1"]
+
+ {contents: theme: pinning and unpinning moves. Systematic manoeuvre by white Rooks, black Queen and black King.} 1. Rb6 $1 (1. Rff6 $2 c1=Q+ 2. Kg7 Qc3 3. a6 Ba2 4. Kh7 Qc4 $11) (1. Rxd2 $2 c1=Q+) (1. Bf8+ $2 Ke8 2. Rb6 d1=Q 3. Rb8+ Kd7 $11) 1... d1=Q (1... c1=Q+ 2. Rxb1 $18) 2. Rf7+ $1 Ke8 3. Rb8+ Qd8 { self-pin} 4. Rf8+ Ke7 {unpin} 5. Rb7+ $1 Qd7 {self-pin} 6. Rf7+ Ke6 {unpin} 7. Rb6+ Qd6 {self-pin} 8. Rf6+ Ke5 {unpin} 9. Rb5+ Qd5 {self-pin} 10. Rf5+ Ke6 { unpin} 11. Rbxd5 $1 (11. Rfxd5 $2 c1=Q+ 12. Kh5 Qh1+ $11) 11... c1=Q {pin} 12. Rde5+ Kd7 (12... Kd6 13. Kg7 Qc3 14. Kg8 Qb3+ 15. Kh8 Bxf5 16. Rxf5 $18) 13. Kg7 {unpin} 13... Bxf5 14. Rxf5 Qc3+ 15. Kg8 Qxa3 16. g6 Qh3 17. Rf7+ $18 { . . Syst ematic manoeuvre by wRs, bQ and bK involving pinning and unpinning. The finish of the study is unsatisfactorily.HvH} *  

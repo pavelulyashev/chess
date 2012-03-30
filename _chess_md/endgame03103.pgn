@@ -1,0 +1,10 @@
+[Event "special prize {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7N/1B3pk1/4P3/p2b4/6P1/2Np1p2/2r1P3/6K1 w - - 0 1"]
+
+ 1. e7 dxe2 2. e8=Q e1=Q+ (2... Rc1+ $1 3. Kh2 (3. Kf2 $2 Rf1+ 4. Kg3 Be6 $1 ( 4... Rg1+ $2 5. Kf2 $11) 5. Nxe2 fxe2 6. Kh3 e1=Q 7. Qb8 Qe3+ 8. Qg3 Qh6+ 9. Qh4 Bxg4+ $19) 3... e1=Q 4. Qxe1 Rxe1 5. Nxd5 f2 6. Ba6 (6. Ne3 Rxe3 7. Kg2 Re2 8. Kf1 Rb2 9. Nxf7 Kxf7 $19) 6... f1=Q 7. Bxf1 Rxf1 8. Nxf7 Rxf7 $19) 3. Qxe1 Rg2+ 4. Kh1 Re2 5. Qg1 f2+ 6. Bxd5 Re1 7. Qf1 Rxf1+ 8. Kg2 Rc1 9. Kxf2 Kxh8 10. Na2 1/2-1/2  

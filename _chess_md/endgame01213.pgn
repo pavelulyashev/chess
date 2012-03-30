@@ -1,0 +1,10 @@
+[Event "wu04 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/2p2Rp1/2pN1Np1/4k3/2Pp1pP1/3P1P2/P3p2q/6n1 b - - 0 1"]
+
+ 1... e1=Q (1... Kxd6 2. Ne4+ Ke6 3. Re7#) (1... Qh8+ 2. Nde8) (1... gxf6 2. Ne8 ) (1... cxd6 2. Nd7+ Ke6 3. Re7#) 2. Ke7 $1 (2. Nde4 $2 Qh8+ 3. Kd7 Qb4) (2. Nde8 $2 Qb4) (2. Nfe4 $2 Qhh4+) 2... Qhh4 (2... gxf6 3. Rxf6 Qh7+ 4. Nf7+ Qxf7+ 5. Kxf7 Qh4 6. Re6#) (2... Qeh4 3. Rf8 cxd6 4. Re8 d5 5. c5 Qxf6+ (5... Qxg4 6. Nxg4+ Kf5 7. Nxh2) 6. Kd7+ Qe7+ 7. Kxe7 Qh8 8. Rxh8 Nxf3 9. Kf7 Ng5+ 10. Kxg6) 3. Rf8 Qb4 (3... cxd6 4. Re8 d5 (4... Qxg4 5. Kf7+ Qe6+ 6. Rxe6+ Kf5 7. Rxe1 Nxf3 8. Rd1 gxf6 9. a4) 5. c5 Qxf6+ 6. Kd7+ Qe7+ 7. Kxe7) 4. Re8 $3 Nxf3 (4... Qa3 5. Kd7+ $1 Kxf6 6. Re6+ Kg5 7. Nf7#) (4... Qxd6+ 5. Kf7+ Qe7+ 6. Rxe7+ Kd6 7. Ne4#) (4... Qxf6+ 5. Kd7+ Qe7+ 6. Rxe7+ Kf6 7. Ne4#) 5. Kf7+ $1 Kxd6 6. Re6+ Kc5 7. Nd7# 1-0  

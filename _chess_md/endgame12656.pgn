@@ -1,0 +1,10 @@
+[Event "tr19#496 {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1n1n3Q/b6P/p4R2/1N2Rb2/1p6/1K1p4/p2p4/1k6 w - - 0 1"]
+
+ 1. Na3+ bxa3 (1... Kc1 2. Rc6+ Nbxc6 3. Rc5+ Bxc5 4. Qa1#) (1... Ka1 2. Re1+ dxe1=Q 3. Rxf5+ Qc3+ 4. Qxc3+ bxc3 5. Rf1#) 2. Rb6 Bxb6 3. Rb5 axb5 4. Qa1+ Kxa1 5. h8=Q+ Kb1 6. Qh1+ Bg1 7. Qxg1+ d1=Q+ 8. Qxd1# 1-0  

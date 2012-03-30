@@ -1,0 +1,10 @@
+[Event "1 Prize tn20 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2K5/2Pnk1P1/PP6/8/2b5/2n5/8/8 w - - 0 1"]
+
+ 1. a7 (1. g8=Q $143 Bxg8 2. a7 Bd5 3. a8=Q Bxa8 4. b7 Ne4 $19 {mat en un}) 1... Ba6+ 2. b7 Ne4 3. g8=N+ $1 Ke8 $1 4. Nf6+ $1 Nexf6 5. a8=B $3 (5. a8=Q $143 Nd5 $19) 5... Ne5 $1 6. Kb8 Nc6+ 7. Kc8 Bf1 8. b8=R $3 (8. b8=Q $143 Ba6+ 9. Qb7 Ne4 10. Qxa6 Nd6#) (8. b8=N $143 Ne7+ 9. Kb7 Bg2+ 10. Nc6 Bxc6+ 11. Ka7 Bd7 $19 ) 8... Ba6+ 9. Rb7 (9. Bb7 $143 Ne4 $19) 9... Ne4 $11 (9... Na5 $144 10. Kb8 Nc6+ 11. Kc8 $11) 1/2-1/2  

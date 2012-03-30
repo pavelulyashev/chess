@@ -1,0 +1,10 @@
+[Event "sp Prize, t001 {m} @2 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/B2p1P2/6N1/3b3K/6p1/2Pq3p/6k1/8 w - - 0 1"]
+
+ 1. f8=Q Qd2 (1... Qc2 2. Nh4+ Kh2 3. Qf4+ g3 4. Bb8 Qh7+ 5. Kg5 Qg7+ 6. Ng6 Qxc3 7. Qf2+) 2. Nh4+ Kh2 3. Qf1 $1 Bg2 4. Nf3+ $1 (4. Qg1+ $1 {cook SH} Kg3 5. Bb8+ d6 6. Bxd6+ Qxd6 7. Nf5+) 4... gxf3 (4... Kg3 5. Nxd2 Bxf1 6. Nxf1+ Kf3 7. Kh4 Kg2 8. Ne3+ Kh1 9. Nxg4 h2 10. Kh3 d5 11. Ne5 d4 12. Nf3 dxc3 13. Nxh2 c2 14. Nf1 c1=Q 15. Ng3#) 5. Qg1+ Kg3 6. Qf2+ $1 Qxf2 7. Bb8+ d6 8. Bxd6# 1-0  

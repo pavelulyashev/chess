@@ -1,0 +1,10 @@
+[Event "bs91#193 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3r4/7R/1b6/6B1/8/r1k5/4K2R w K - 0 1"]
+
+ 1. R6h2+ Kb1 (1... Kb3 2. Be6+) 2. Bxd7 Rxh2 (2... Bxd7 3. O-O#) 3. Bf5+ Bd3 $1 4. Bxd3+ Ka1 (4... Kc1 5. O-O+) 5. O-O+ (5. Rxh2 $2) 1-0  

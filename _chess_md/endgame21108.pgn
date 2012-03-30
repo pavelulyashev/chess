@@ -1,0 +1,10 @@
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Zakharov S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2K1k1N1/1p6/8/P1R1p2P/p4b2/5p2/6b1/8 w - - 0 1"]
+
+ 1. h6 $1 Bxh6 2. a6 $1 bxa6 3. Rxe5+ Kf8 4. Nxh6 Bh3+ 5. Ng4 Bxg4+ 6. Kd8 $1 f2 (6... Bh3 7. Re4 Kg7 8. Rf4 Bg2 9. Rg4+ Kh7 10. Rh4+ $1 Kg6 11. Rxa4 f2 12. Rxa6+ $1 $11) 7. Re4 f1=R $1 (7... f1=Q 8. Rf4+ Qxf4 {stalemate}) 8. Rxg4 a3 9. Ra4 $1 Ra1 10. Rd4 $1 Kf7 11. Kd7 Rb1 12. Ra4 Ra1 13. Rd4 Kf6 14. Kd6 Rb1 15. Ra4 Ra1 16. Rd4 Kf5 17. Kd5 a2 18. Rd2 Kf4 19. Kd4 a5 20. Rf2+ $1 Kg3 21. Rd2 Kf3 22. Kd3 a4 23. Kd4 a3 24. Kd3 Kf4 25. Kd4 Kf5 26. Kd5 {positional draw} 1/2-1/2  

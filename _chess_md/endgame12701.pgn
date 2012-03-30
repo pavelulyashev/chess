@@ -1,0 +1,10 @@
+[Event "tc36#027 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Kosek V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/3R4/1n6/8/pN2k2B/K1n5 w - - 0 1"]
+
+ 1. Re5+ Kf2 (1... Kf3 2. Re3+ $1 Kxe3 3. Bf4+ Kxf4 4. Nd3+ Ncxd3) 2. Rf5+ Kg2 3. Rf2+ $1 Kxf2 4. Nd3+ $1 Nbxd3 (4... Ncxd3 5. Bd6 Ke2 6. Bxb4 Nxb4 7. Kb2) 5. Bg1+ Ke2 6. Be3 $1 Kd1 7. Bxc1 Nxc1 8. Kb2 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "Deutsche Schachzeitung {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kb6/4N2p/2P2p2/8/4rP1P/1P6/1R5P/3b2K1 w - - 0 1"]
+
+ 1. Ra2+ Ba7+ 2. Rxa7+ Kxa7 3. c7 Bg4 (3... Re1+ 4. Kf2 Re2+ 5. Kf1 Rc2 6. c8=Q Rxc8 7. Nxc8+) 4. f5 Bxf5 5. Nxf5 Rg4+ (5... Re8 6. Nd6) (5... Kb7 6. Nd6+) ( 5... Re1+ 6. Kf2) 6. Kh1 Kb7 7. h3 Rb4 (7... Rf4 8. Ne7 Kxc7 9. Nd5+) (7... Rg8 8. c8=Q+) (7... Rg6 8. c8=Q+ Kxc8 9. Ne7+) 8. Ne7 Kxc7 9. Nd5+ 1-0  

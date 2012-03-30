@@ -1,0 +1,10 @@
+[Event "td23#1029 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Henneberger M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r6/k3P1p1/8/pP4N1/P7/8/8/K7 w - - 0 1"]
+
+ 1. Ne4 g5 (1... Re8 2. Nd6) (1... Kb6 2. Nd6) (1... Rg8 2. Kb2 g5 3. Kc3 g4 4. Kd4 Kb6 5. Kd5 Kc7 6. Ke6 Rh8 7. Kf7 Kd7 (7... Rh7+ 8. Kf8 Rh8+ 9. Kg7 Re8 10. Kf7) 8. Nf6+) 2. Nf6 g4 (2... Kb7 3. e8=Q Rxe8 4. Nxe8 g4 5. Nd6+) (2... Rh8 3. Kb2 Rc8 4. Kb3 Rh8 5. Kc3) 3. Nxg4 Re8 4. Ne5 Kb6 5. Nc6 1-0  

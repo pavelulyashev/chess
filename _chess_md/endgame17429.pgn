@@ -1,0 +1,10 @@
+[Event "bc07#362 {cr} {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1RB5/1K6/8/q1k5/8/8/8/8 w - - 0 1"]
+
+ 1. Bd7 $1 Kd6 (1... Qb6+ 2. Kc8 Qa6+ 3. Kc7 Qd6+ 4. Kc8 Qa6+ 5. Rb7 Kd6 6. Kb8) 2. Bc8 $1 Qc7+ 3. Ka6 Qc6+ 4. Ka7 Qc5+ 5. Ka6 $1 (5. Rb6+ $2 Kc7) (5. Kb7 $2 Qa5 $1 6. Ra8 (6. Bg4 Qb4+) (6. Bh3 Qb4+ 7. Ka7 Qa3+) 6... Qc7+ 7. Ka6 Kc5) (5. Ka8 $2 Qa3+ 6. Kb7 Qa5) 5... Qa3+ 6. Kb6 $1 Qb4+ 7. Ka7 Qc5+ 8. Ka6 Kc7 9. Rb7+ $1 Kxc8 10. Rb8+ Kd7 11. Rb7+ Kd6 12. Rb6+ Kc7 13. Rb7+ Kc6 14. Rc7+ Kxc7 1/2-1/2  

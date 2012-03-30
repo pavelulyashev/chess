@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention, NONA 2010 {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Didukh S, Vlasenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3P3k/1qPB4/4P3/P7/4b2p/3R4/K7 w - - 0 1"]
+
+ 1. Bc7 $1 ({Thematic try} 1. Bc5 $5 Bxc5 $1 2. d8=Q Qxd8 3. Rxd8 h2 4. Rd7+ Kg6 5. Rd1 Bg1 6. c7 h1=Q 7. c8=Q Bd4+ 8. Kb1 Qxd1+ 9. Qc1 { (compare wit the main lines 10.Qc1+)} 9... Qb3+ {mates.}) (1. Rh2 $2 Qd4+ 2. Kb1 Qd1+ 3. Kb2 Bd4+ 4. Ka3 Qd3+ 5. Ka2 Bb6 {wins.} 6. Kb2 Kg6 {etc}) (1. c7 $2 Bxd2 2. c8=Q h2 3. Qc2+ Kg7 {win.}) 1... Qxc7 (1... Bd4+ 2. Ka2 Qxc7 3. Rxd4 $11) 2. d8=Q Qxd8 3. Rxd8 h2 4. Rd7+ $1 (4. Rd1 $2 Bg1 5. c7 h1=Q 6. c8=Q Bd4+ 7. Ka2 Qg2+ 8. Kb3 Qb2+ 9. Kc4 Qc3+ 10. Kd5 Qxc8 11. Rxd4 Kg6 {win.}) 4... Kg6 5. Rd6+ $1 Kg5 (5... Kh5 6. Rd1 Bg1 7. Rd8 $1 Be3 8. Rd1 $11) 6. Rd1 Bg1 7. c7 h1=Q 8. c8=Q Bd4+ 9. Kb1 $1 Qxd1+ 10. Qc1+ {check!} 1/2-1/2  

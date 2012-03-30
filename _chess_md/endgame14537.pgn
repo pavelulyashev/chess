@@ -1,0 +1,10 @@
+[Event "tg10#71 @3 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kq6/8/8/1NQK4/8/8/8/7r w - - 0 1"]
+
+ 1. Qa3+ (1. Nc7+ $2 Qxc7 2. Qxc7 Rd1+) 1... Kb7 2. Nd6+ Kc7 (2... Kb6 3. Nc4+) 3. Qc3+ Kb6 (3... Kd8 4. Qf6+ Kc7 5. Qe7+ Kb6 6. Nc4+ Ka6 7. Qa3+ Kb7) 4. Nc4+ Kb7 (4... Ka6 5. Qa5+ Kb7 6. Nd6+) 5. Qb4+ Ka8 (5... Kc7 6. Qe7+ Kc8 7. Nd6+) ( 5... Kc8 6. Nb6+ Kc7 7. Qd6+ Kb7 8. Qc6+ Ka7 9. Nc8+) 6. Qa4+ Qa7 (6... Kb7 $1 {cook AV} 7. Qc6+ Ka7 8. Qc5+ Kb7 9. Qb6+ Kc8 10. Nd6+ Qxd6+ 11. Qxd6 (11. Kxd6 Rh6+) 11... Rd1+) 7. Qe8+ Qb8 (7... Kb7 8. Nd6+ Ka6 9. Qb5#) 8. Nb6+ Ka7 (8... Kb7 9. Qc6+) 9. Nc8+ Ka8 (9... Ka6 10. Qa4+ Kb7 11. Qc6#) 10. Qa4+ Kb7 11. Qc6# 1-0  

@@ -1,0 +1,10 @@
+[Event "ts22#254 @3 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/8/1R6/3N4/p2p4/1Pn5/2b2b2/K7 w - - 0 1"]
+
+ 1. Rd6+ (1. bxa4 $2 Nxd5 2. Rd6+ Kc7 3. Rxd5 Be4 4. Rc5+ (4. Re5 d3 5. Rxe4 d2) 4... Kd6 5. Rc1 d3) 1... Ke8 (1... Kc8 2. Nxc3 dxc3 3. Rc6+ Kd7 4. Rxc3 Bd4 5. Kb2 axb3 (5... Bxb3 6. Ka3 $1 Bxc3) 6. Kc1 Bxc3) 2. Nxc3 dxc3 3. Re6+ Kd7 4. Re2 Bd4 (4... axb3 5. Re7+ Kd6 6. Re6+ Kd5 7. Re5+ Kd4 8. Re4+ Kd3 9. Re3+ $1 Kd2 10. Rd3+ Ke2 (10... Kc1 11. Rd1+) 11. Re3+ Kf1 12. Re1+ Kxe1) (4... Bg6 $1 {cook} 5. Rxf2 axb3 6. Rg2 Bf5 7. Rg7+ (7. Rf2 Ke6 8. Re2+ Kf6 9. Rf2 Ke5) 7... Kd6 $1 8. Rb7 Be6) 5. Rxc2 axb3 6. Rb2 $1 c2 (6... cxb2+ 7. Kb1 Kd6) 1/2-1/2  

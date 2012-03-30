@@ -1,0 +1,10 @@
+[Event "te15#1507 {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1Bb3n1/b4K2/4N2k/3B3n/3p3N/2p2p1r/8/8 w - - 0 1"]
+
+ 1. Nf5+ Kh7 2. Ng5+ (2. Nf8+ $2 Kh8 3. Ng6+ (3. Be5+ Nhf6 4. Ng6+ Kh7)) 2... Kh8 3. Ne7 (3. Be5+ $2 Nhf6 4. Ne7 Rh7+) (3. Bxa7 $2 Bxf5 4. Bxd4+ Ngf6) 3... Bf5 (3... Nh6+ 4. Kf8) (3... Nxe7 4. Be5+) (3... Be6+ 4. Bxe6 Nh6+ (4... Nxe7 5. Be5+) 5. Kf8) 4. Be5+ (4. Bxa7 $2 Nh6+ 5. Kf8 Rh4 6. Nxf3 c2) 4... Nhf6 ( 4... Ngf6 5. Nxf5 Bc5 6. Bxf3) 5. Nxg8 (5. Nxh3 $2 Nxe7 6. Kxe7 c2) 5... Rh7+ 6. Nxh7 (6. Kxf6 $2 Rg7 7. Nh6 (7. Ne7 f2 8. Nf7+ Kh7 9. Ng5+) 7... f2 8. Nhf7+ Kg8 9. Nd8+) 6... Bb8 (6... Kxh7 7. Nxf6+ Kh8 8. Ng8+) (6... f2 7. Ng5) (6... c2 7. Ng5) 7. Bxd4 (7. Bxf6+ $2 Kxh7 8. Bxd4 Bg6+) (7. Bxb8 $2 Nd7 8. Nf8 Nxb8 9. Ne7 c2 10. Nxf5 c1=Q 11. Ng6+ Kh7 12. Nf8+ Kh8) 7... Ba7 (7... Kxh7 8. Nxf6+ ) (7... f2 8. Ng5) (7... c2 8. Ng5) 8. Bxc3 (8. Be5 $1 Bb8 9. Bxc3 Kxh7 10. Nxf6+) (8. Bxf6+ $2 Kxh7 9. Bxc3 Bg6+) 8... Kxh7 (8... f2 9. Ng5) 9. Nxf6+ (9. Bxf6 $2 Bg6+) (9. Kxf6 $2 f2) 9... Kh6 (9... Kh8 10. Ng4+) 10. Bd2+ Be3 11. Bxe3# 1-0  

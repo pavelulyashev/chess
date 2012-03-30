@@ -1,0 +1,10 @@
+[Event "2/5 Prize, wl09#12 {tw} {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5p2/1P4b1/8/8/4r3/KB6/4k3 w - - 0 1"]
+
+ 1. b7 (1. Bc3+ $2 Rxc3 2. b7 Rc2+ 3. Ka3 Rc1 4. b8=Q Ra1+ 5. Kb2 Rb1+) 1... Bb1+ $1 (1... Re8 2. Be5) 2. Ka1 $1 (2. Kxb1 $2 Rb3) 2... Rb3 3. Bc3+ Kd1 4. Bb4 Rxb4 5. b8=Q Rxb8 1/2-1/2  

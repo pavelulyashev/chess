@@ -1,0 +1,10 @@
+[Event "tr31 @2 {m}"]
+[Site "?"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Ceccarini F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/5pp1/p1p2p2/P1P2P2/1P4PP/k1K5/8 w - - 0 1"]
+
+ 1. h4 b6 2. Kd3 $1 (2. Kd2 $1 {cook MC}) (2. Kd1 $1 {cook MC}) 2... Kxb3 3. g4 $1 fxg4 4. f5 $1 gxf5 5. h5 1-0  

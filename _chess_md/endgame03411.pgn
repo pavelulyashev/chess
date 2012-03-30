@@ -1,0 +1,10 @@
+[Event "5th prize, Istvбn Bilek 75 JT, {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Gasparian A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6r1/4q3/4B2Q/3P4/8/n6p/5Pkp/2K4N w - - 0 1"]
+
+1. d6 $3 ({Thematic} 1. Bxg8 $2 Qc5+ $19) 1... Qxd6 ({Thematic} 1... Kxh1 $2$18) (1... Rc8+ 2. Bxc8 Qe1+ 3. Kb2 $11) 2. Bxh3+ $1 (2. Qxh3+ $6 Kxh1 3. Bxg8Qf4+ 4. Kd1 Kg1 $19 5. Bd5 Qd4+ 6. Ke2 Qxf2+ ({Thematic} 6... Qxd5 $2 7. Qf1#)7. Kd1 Qf1+ 8. Qxf1+ Kxf1 $19) 2... Kxh1 3. Qxd6 Rg1+ $1 4. Bf1 $3 (4. Kd2 $2Nc4+ 5. Kd3 Nxd6) 4... Rxf1+ 5. Kd2 Nc4+ 6. Ke2 Rxf2+ (6... Nxd6 7. Kxf1 $11) (6... Re1+ 7. Kxe1 Nxd6 8. Kf1 $11) 7. Ke1 $3 ({Thematic} 7. Kxf2 $2 Nxd6 $19)7... Nxd6 8. Kxf2 {draws. The starting position is not natural. The end of thesolution is a theoretical draw.} 1/2-1/2

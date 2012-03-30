@@ -1,0 +1,10 @@
+[Event "sp Honorable Mention, tu18#2649 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3k4/6p1/6P1/3p2PK/6PP/2P1P3/8 w - - 0 1"]
+
+ 1. c3 $1 (1. c4 $2 Kd6 2. c5+ Kxc5 3. e4 d3 4. e5 d2 5. e6 d1=Q (5... d1=N {or} 6. e7 Ne3 7. e8=Q Ng2#) 6. e7 Qd7 7. e8=Q Qh7#) (1. e4 $2 dxe3 2. c4 e2 3. c5 e1=N 4. c6+ Kd6 5. c7 Nf3#) 1... dxc3 2. e4 c2 3. e5 c1=Q 4. e6+ Kd6 (4... Kc6 5. e7 Qe1 6. e8=Q+ Qxe8) 5. e7 Qc7 6. e8=N+ $1 Kc6 7. Nxc7 Kxc7 1/2-1/2  

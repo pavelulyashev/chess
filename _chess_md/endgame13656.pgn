@@ -1,0 +1,10 @@
+[Event "tc05#27 @2 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3B4/1B6/2N5/8/1K1p4/pn6/k7 w - - 0 1"]
+
+ 1. Nxd3 Nxd3 (1... Kb1 2. Nxb2 a1=Q 3. Bf5+ Kc1 4. Be3#) 2. Bd4+ (2. Kc2 $1 { cook JU} Nb4+ 3. Kd2 Kb1 4. Bf5+ Kb2 5. Bd4+ Kb3 6. Be6+ Ka3 7. Ba1 Ka4 8. Kc3 Kb5 9. Kb3) 2... Kb1 3. Bf5 a1=N+ (3... a1=Q 4. Bxd3+) 4. Kc3 Ka2 (4... Kc1 5. Bxd3 Nc2 6. Bf2 Na3 7. Be3+ Kd1 8. Kb2) 5. Bxd3 Nb3 6. Bc4 Ka3 7. Bb6 Nc1 8. Bc5+ Ka4 9. Kb2 1-0  

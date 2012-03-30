@@ -1,0 +1,10 @@
+[Event "wh11 te01#110 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Grondijs H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n5/8/3P2b1/8/2B3r1/1K6/2P5/k7 w - - 0 1"]
+
+ 1. d7 Bxc2+ 2. Kxc2 Rd4 (2... Rxc4+ 3. Kb3) 3. Bd5 $1 (3. dxc8=R $2 Rd8 $1 4. Rxd8) (3. dxc8=Q $2 Rxc4+ 4. Qxc4) 3... Rxd5 (3... Rf4 4. d8=Q (4. dxc8=Q $2 Rc4+ 5. Bxc4) (4. dxc8=R $2 Rf2+ 5. Kd3 Kb2) (4. dxc8=N $2 Rc4+ 5. Bxc4) (4. dxc8=B $2 Rc4+ 5. Bxc4) 4... Rf2+ 5. Kc3 Rd2 6. Qa5+ Kb1 7. Kxd2 Nb6 8. Qa2#) 4. dxc8=Q (4. dxc8=R $2 Ra5) 1-0  

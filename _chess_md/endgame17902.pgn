@@ -1,0 +1,10 @@
+[Event "tp21#337 @3 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1n1P1kq1/6pR/6Kb/8/3R4/8/8 w - - 0 1"]
+
+ 1. Rh7 $1 Qxh7 2. d8=Q Nxd8 3. Rd7+ $1 Kg8 (3... Ke6 $1 {cook} 4. Rxh7 Nf7+ 5. Kh4 Bd1) 4. Rxd8+ Kg7 5. Rd7+ Kh8 6. Rd8+ Qg8 7. Kh6 $1 Qxd8 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tn01 {m}"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Kalinin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/3PP3/1pP1k3/6b1/8/3K4 w - - 0 1"]
+
+ 1. d6 (1. Kc2 $2 Bxe5 2. Kb3 Bd6) 1... Bxe5 2. d7 Bc7 3. Kc2 Kd4 4. Kb3 Kc5 5. Ka4 $3 Kxc4 (5... Bd8 6. Kb3 Bf6 7. Ka4 Bd8 8. Kb3) 6. d8=Q $1 Bxd8 1/2-1/2  

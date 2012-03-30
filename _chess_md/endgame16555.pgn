@@ -1,0 +1,10 @@
+[Event "tc06#283 {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5b1N/8/8/5k2/K1P1n3/8/8/8 w - - 0 1"]
+
+ 1. Nf7 Ke6 2. Nd8+ Kd7 3. Nb7 Kc7 4. Na5 Kb6 5. c5+ $1 (5. Nb3 $2 Nc3#) 5... Nxc5+ (5... Bxc5 6. Nc4+) 6. Kb4 Nb7+ 7. Ka4 Nxa5 1/2-1/2  

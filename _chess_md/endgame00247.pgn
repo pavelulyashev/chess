@@ -1,0 +1,10 @@
+[Event "Best problems 2004-06, Com {m}"]
+[Site "?"]
+[Date "2005.01.11"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "8/2K5/b5P1/8/B4P2/1p2pRp1/5P2/2b4k w - - 0 1"]
+
+ {Diagram #} 1. g7 (1. fxe3 $5 b2 2. Bc6 (2. g7 Bc4 3. Bc6 g2 4. Be4 b1=Q 5. Rh3+ Kg1 6. Bxb1 Kf2 7. Rh2 Kf3 8. Rxg2 Kxg2 $11) 2... Kh2 3. g7 Bc4 4. Be4 b1=Q 5. Bxb1 g2 6. Rf2 Bxe3 7. Rxg2+ Kxg2 $11) 1... Bc4 (1... e2 2. g8=Q e1=Q 3. Qh7+ Kg1 4. Rxg3+ $18) 2. Bxb3 $1 Bxb3 3. Rxg3 exf2 ({main} 3... e2 4. Rh3+ $1 (4. Rxb3 $2 Bxf4+ 5. Kc6 e1=Q 6. g8=Q Kh2 $11) 4... Kg1 5. Rxb3 Bxf4+ 6. Kd7 $1 e1=Q 7. g8=Q+ Kxf2 8. Rb2+ Kf3 9. Qg2+ $18) 4. Rh3+ $3 (4. Rxb3 $5 Bxf4+ 5. Kb6 f1=Q 6. g8=Q $11) 4... Kg1 (4... Kg2 5. Rxb3 Bxf4+ 6. Kd7 $1 f1=Q 7. g8=Q+ Kf2 8. Qg4 $18) 5. Rxb3 Bxf4+ 6. Kb6 $3 (6. Kd8 $5 Bg5+ $1 7. Ke8 f1=Q 8. g8=Q Qe2+ 9. Kd7 Qg4+ $11) (6. Kd7 $5 f1=Q 7. g8=Q+ Qg2 $1 8. Qf7 Qg4+ 9. Kc6 Qg2+ 10. Kc5 Qe4 $11) (6. Kb7 $5 f1=Q 7. g8=Q+ Qg2+ $11) (6. Kc6 $5 f1=Q 7. g8=Q+ Qg2+ $11) 6... f1=Q 7. g8=Q+ Kf2 8. Rb2+ Kf3 9. Kb7 $3 (9. Qd5+ $5 Kg4 $11) 9... Be3 10. Qf7+ (10. Qf8+ $2 Bf4 11. Qg8 {loss of time} (11. Rb3+ $2 Kg4 $11) ) 10... Bf4 11. Qh5+ Kg3 12. Rb3+ $18 *  

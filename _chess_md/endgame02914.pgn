@@ -1,0 +1,10 @@
+[Event "3 Honorable Mention Timman-50 JT {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Ornstein A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2N1k3/1b6/6p1/3P3p/7N/pn2K1PB/8/8 w - - 0 1"]
+
+ 1. Nd6+ Kd8 $1 (1... Kf8 2. Nxb7 a2 3. d6 Na5 $1 4. Nxa5 a1=Q 5. Nxg6+ Kg7 6. d7 Qxa5 7. Nf4) 2. Nf7+ $1 (2. Nxb7+ $2 Kc7 3. d6+ Kxb7 4. d7 Kc7) 2... Ke7 3. d6+ Kxf7 4. d7 Ke7 5. Nxg6+ Kd8 6. Nf4 $1 (6. Be6 $2 Bd5 $1) 6... Bg2 $1 (6... Nc5 7. Ne6+) 7. Bf5 $1 (7. Bxg2 $2) (7. Ne6+ $2 Kxd7 8. Nc5+ Kd6 9. Nxb3 Bxh3 10. Kd3 a2 11. Kc3 Be6 12. Na1 Ke5 13. Kb2 Ke4 14. Nc2 Bd5 15. Nb4 Bg8) 7... Be4 $1 (7... Nc5 8. Ne6+ Nxe6 9. Bxe6 Bh3 10. Bb3 $1 Kxd7 11. Kd4 Be6 12. Ba4+) 8. Kxe4 $1 (8. Bh3 $2 Nc5 9. Ne6+ Nxe6 10. Bxe6 Bf5 11. Bb3 Bb1 $1 12. Kf4 Kxd7 13. Kg5 Kd6 14. Kxh5 Be4 15. Ba2 Bd5 16. Bb1 Kc5) 8... Nc5+ 9. Kd4 a2 10. Kxc5 a1=Q 11. Kd5 (11. Kd6 $2 Qa3+ 12. Kd5 Qe3 $1 13. Nd3 Kc7 14. Ne5 Qxg3 15. Ke6 Qe3 16. Kf6 Qd4) 11... Qe1 {eg} 12. Kd4 (12. Nd3 {or} Qxg3 13. Ke4) 12... Qxg3 13. Ke4 1/2-1/2  

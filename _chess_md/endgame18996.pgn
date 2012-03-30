@@ -1,0 +1,10 @@
+[Event "ts12#134 @1 {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/n1pP4/2p5/1p3p2/1K4kP/6b1/6P1/8 w - - 0 1"]
+
+ 1. h5 (1. Be7 $1 {cook} c5+ 2. Kxc5 Bf2+ 3. Kd5 c6+ (3... Bb6 4. Bc5 Ba5 5. Bxa7 c6+ 6. Ke5 Kxh4 7. Kf4) 4. Ke6 Bb6 5. h5 Kxh5 6. Kxf5 Kh6 7. Bc5 Bd8 8. Bxa7) 1... Kxh5 2. Bg5 c5+ 3. Kxc5 Bf2+ 4. Kd5 Bb6 5. Ke6 Nc6 6. d8=Q Nxd8+ 7. Kxf5 Nf7 8. g4# 1-0  

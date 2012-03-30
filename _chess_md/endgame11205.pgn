@@ -1,0 +1,11 @@
+[Event "Schach 06/2006 {m}"]
+[Site "?"]
+[Date "2006.06.??"]
+[Round "?"]
+[White "Sonntag G"]
+[Black "Win"]
+[Result "*"]
+[FEN "8/5p2/5pp1/2K5/8/2k4P/2B5/8"]
+
+1.Bb1! Kd2 2.Kd4 Ke2 3.Ke4 Kf2 4.Kf4 Kg2
+5.Bf5!! gxf5 6.h4 Kh3 7.h5 Kh4 8.h6 Kh5 9.h7 Kg6 10.h8=R!+-

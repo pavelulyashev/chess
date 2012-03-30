@@ -1,0 +1,10 @@
+[Event "1 Prize Finland-Sweden match {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Perkonoja P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3nr3/2B5/8/5b2/8/K2k4/B7/8 w - - 0 1"]
+
+ 1. Bb1+ Kc3 $1 2. Ba5+ $1 (2. Bxf5 $143 Nc6 3. Ka2 (3. Ka4 $144 Ra8+ 4. Kb5 Nd4+ $19) 3... Nb4+ 4. Ka1 Re1+ 5. Bb1 Kb3 $19) 2... Kc4 3. Bxf5 Nc6 4. Bd7 $1 (4. Bb6 $143 Ra8+ 5. Kb2 Rb8 $19) (4. Bc7 $143 Nd4 5. Bg6 Nb5+ 6. Ka4 Ra8+ 7. Ba5 Nc3+ $19) (4. Bd2 $143 Re2 5. Bc1 Nd4 6. Bd7 Re7 7. Bg4 $1 Ra7+ 8. Kb2 Rb7+ 9. Ka2 Kc3 10. Bd1 Nc2 11. Bxc2 Kxc2 12. Be3 Rb5 13. Ka3 Rb3+ 14. Ka4 Rxe3 $19) 4... Re3+ 5. Ka4 Re2 6. Ka3 $1 Nxa5 7. Bb5+ $1 Kxb5 $11 1/2-1/2  

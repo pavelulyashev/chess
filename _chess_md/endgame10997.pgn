@@ -1,0 +1,10 @@
+[Event "ts23#30 {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Ivanov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2p4p/k5p1/6b1/2K3P1/rP2N3/4R3 w - - 0 1"]
+
+ 1. Nc1 Ra4 2. b3 Rb4 3. Nd3 Rb6 (3... Rb5 4. Ne5 Rc5+ 5. Nc4+ Ka6 6. b4 Rd5 7. Ne3 Re5 8. Ra1+) (3... Rb7 4. Ne5 Be6 5. Nxc6+ Kb6 6. Rxe6 Rc7 7. Rxh6) 4. Ne5 Be6 5. Nc4+ $1 Bxc4 6. Ra1+ Kb5 7. bxc4+ Kc5 8. Ra5+ Kd6 9. c5+ 1-0  

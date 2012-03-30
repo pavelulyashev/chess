@@ -1,0 +1,10 @@
+[Event "ta08 @3 {m}"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Sackmann F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/8/1rP1P2r/8/4N3/3K4/8/8 w - - 0 1"]
+
+ 1. c7 Rc6 2. e7 Rhe6 3. Nd6 Rcxd6+ 4. Kc4 Rc6+ (4... Kg7 $1 {cook VC}) 5. Kd5 Kg7 6. e8=Q Rxe8 7. Kxc6 1/2-1/2  

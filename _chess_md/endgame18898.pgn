@@ -1,0 +1,10 @@
+[Event "td20#383 {c} {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2Pr4/n2p4/4p3/3P4/R7/1BK4k w - - 0 1"]
+
+ 1. c7 Rc6+ (1... Nb3+ 2. Kd1 Rc6 3. Rc2 Nc5 4. d4 Rxc7 5. Rxc5 Rd7 6. Rxd5 $1 Rxd5 7. Bxe4+) 2. Rc2 Nc4 3. dxc4 (3. dxe4 $2 dxe4) 3... dxc4 (3... d4 4. Re2 Rxc4+ 5. Rc2 $1) 4. Rg2 $3 Rxc7 5. Bxe4 Re7 6. Ba8 (6. Bd5 $2 Rd7 $1 7. Ba8 Rd3 $3 8. Be4 Rb3) 1-0  

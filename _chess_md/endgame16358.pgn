@@ -1,0 +1,10 @@
+[Event "tp16 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/8/p7/6PP/6k1/8/5n2/4b3 w - - 0 1"]
+
+ 1. g6 $1 Ba5+ $1 2. Kc8 $3 (2. Ke7 $2 Bb4+ 3. Kf7 (3. Ke6 Bc3 4. Kd7 Kxh5 5. g7 Ng4) 3... Kxh5 4. g7 Ng4 5. g8=N a5) 2... Bc3 3. h6 Ne4 4. g7 Bxg7 $1 (4... Nf6 5. h7) 5. hxg7 Nf6 6. Kc7 $1 a5 7. Kd6 a4 8. Ke5 Ng8 9. Kd4 1/2-1/2  

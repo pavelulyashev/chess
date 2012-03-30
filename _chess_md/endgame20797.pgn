@@ -1,0 +1,10 @@
+[Event "tt06#1224 @3 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/8/2p5/1kN5/3B4/PPPK4/q7 w - - 0 1"]
+
+ 1. c3+ $1 Ka4 (1... Kb5 $1 {cook} 2. Bb1 Kxc4 $1 (2... Qxb1 3. Na3+) (2... Kc6 3. Kc1)) 2. Bb1 Kb5 (2... Qxb1 3. b3+ Kb5 4. Na3+) 3. Na3+ (3. Kc1 $2 Kxc4) 3... Kc6 4. Kc1 Kd5 5. Nc2 1-0  

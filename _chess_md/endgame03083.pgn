@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4R3/8/8/8/5k1r/R7/2b3K1/8 w - - 0 1"]
+
+ 1. Rf3+ Kg5 (1... Kg4 2. Rg8+ Kh5 3. Rh8+ Kg5 4. Rg3+ Rg4 5. Rg8+ Bg6 6. Rxg6+ Kxg6 7. Rxg4+ $18) 2. Rg8+ Kh6 3. Rh8+ Bh7 (3... Kg5 4. Rg3+ Rg4 5. Rg8+ Bg6 { йcho} 6. Rxg4+ ({йcho} 6. Rxg6+ Kxg6 7. Rxg4+) 6... Kxg4 7. Rxg6+) 4. Rg3 Rh5 5. Rg4 $1 $18 {zugzwang} 1-0  

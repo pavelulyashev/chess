@@ -1,0 +1,10 @@
+[Event "4 Commendation, ts25#195 {c} {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7r/Pp6/2pk4/K3p3/P3P1P1/1P2R3/1b2P3/8 w - - 0 1"]
+
+ 1. Rd3+ Kc7 $1 (1... Kc5 2. b4+ Kc4 3. Rd7 Bc3 4. Rxb7 c5 5. Rb8) (1... Ke6 2. Kb6 Bd4+ 3. Rxd4 exd4 4. Kxb7 Rh7+ 5. Ka6 Rh8 6. b4) 2. Rf3 $1 (2. Rh3 $2 Rxh3 3. a8=Q Bc3+ 4. b4 Bd4) 2... Ra8 $1 (2... Bd4 3. Rf7+ Kd6 4. Rxb7 Bxa7 $1 5. Rxa7 Rg8 6. Kb6 Rxg4 7. Rc7 Rxe4 8. Rxc6+ Kd5 9. Rc4 Rxe2 10. a5) 3. Rf7+ Kc8 $1 (3... Kd6 4. Rxb7 Bd4 5. Ka6 Ke6 6. b4 Kf6 7. b5) 4. Rf8+ Kc7 5. Rxa8 Bc3+ 6. b4 Bd4 7. Rc8+ Kxc8 8. a8=N $1 (8. a8=Q+ $2 Kc7 9. Qd8+ Kxd8 10. b5 Be3) (8. g5 $2 Bxa7 9. g6 Be3 10. g7 Kc7) 8... Kb8 (8... Be3 9. Nb6+ Kc7 10. Nc4) 9. Nb6 Ka7 10. Nc8+ Kb8 11. Nd6 Ka7 12. Nb5+ $1 1-0  

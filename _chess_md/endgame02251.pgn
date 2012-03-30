@@ -1,0 +1,10 @@
+[Event "Schach Echo {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Petkov P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/1p6/b1rP3P/6p1/4k2N/1B6/2P3P1/2b2N2 w - - 0 1"]
+
+ 1. d7 (1. h7 Rc8+) 1... Rd6 2. h7 Bb2 3. Nd2+ $1 (3. c3 Bxc3 4. Nd2+ Kd3) 3... Rxd2 (3... Kf4 4. g3+ Kg4 5. Be6+ Kh5 6. Bf7+ Kg4 7. Be6+) 4. c3 Bxc3 5. Bc2+ Kf4 (5... Rxc2 6. d8=Q) (5... Ke3 6. Nf5+ Kf4 7. Nd4 {Nowotny} Bxd4 (7... Rxd4 8. h8=Q) 8. d8=Q) 6. g3+ Kg4 (6... Kxg3 7. Nf5+ Kf4 8. Nd4) 7. Bf5+ Kh5 (7... Kxg3 8. Bd3 Rxd3 9. Nf5+) 8. Bg6+ Kg4 (8... Kh6 9. Nf5+) 9. Bf5+ { perpetual check} 1/2-1/2  

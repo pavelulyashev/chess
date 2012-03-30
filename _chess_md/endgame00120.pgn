@@ -1,0 +1,10 @@
+[Event "6 Commendation Avni-50 JT EG {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Van der Heijden H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7B/5pR1/1Pp5/3k4/8/1p4rP/3K4/8 b - - 0 1"]
+
+ 1... b2 (1... Rxh3 2. Rg5+ Kc4 3. Rg4+ Kb5 4. Bd4) 2. Kc2 b1=Q+ 3. Kxb1 Rxh3 ( 3... Rb3+ 4. Kc2 Rxb6 5. Rxf7) 4. Rg5+ f5 (4... Kc4 5. Rg4+ Kd5 (5... Kb3 6. Bd4) 6. Bc3 $1 Rxc3 7. Rb4) (4... Ke4 5. Bc3 $1 Rxc3 6. Rg4+ Kd5 7. Rb4) 5. Rxf5+ (5. Bc3 $2 Rxc3 6. Rxf5+ Kd6) 5... Ke6 (5... Kd6 6. Bd4) (5... Ke4 6. Bc3 ) 6. Bc3 $1 (6. Rf6+ $2 Ke7) 6... Rxc3 (6... Kxf5 7. b7) 7. Rb5 $1 (7. Kb2 $2 Rc4 8. Kb3 Rc1) 7... cxb5 8. b7 1-0  

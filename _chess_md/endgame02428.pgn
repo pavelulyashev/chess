@@ -1,0 +1,10 @@
+[Event "1 Prize Tidskrift fцr Schack {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Perkonoja P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7N/2b1KP2/3r4/2k3Pr/8/6B1/8 w - - 0 1"]
+
+ 1. f7 (1. Bxd5+ $143 Bxd5+ 2. Ke5 Rxh7 $19) 1... Rh6+ 2. Nf6 (2. Ke7 $143 Rxh7 $19) 2... Bd7+ 3. Ke7 Re5+ 4. Kd6 (4. Kxd7 $143 Rxf6 $19) 4... Re6+ (4... Rxf6+ $144 5. Kxe5 Rxf7 6. Bd5+ $11) 5. Kxd7 Rexf6 6. g5 $3 (6. Ke7 $143 Re6+ 7. Kd7 Rd6+ 8. Ke7 Rhe6+ 9. Kf8 Re5 10. Kg7 Rg5+ 11. Kf8 Re6 12. Bd5+ Rxd5 $19 (12... Kxd5 $143 $2 $11)) 6... Rxf7+ (6... Rd6+ $144 7. Kc7 $11) 7. Ke8 Rhh7 (7... Rf2 $144 8. gxh6 Rxg2 9. Kf7 $11) 8. g6 Re7+ 9. Kf8 Rhg7 10. Bd5+ $1 Kc5 (10... Kxd5 $144 $11) 11. Bf7 $11 1/2-1/2  

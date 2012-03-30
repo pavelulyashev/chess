@@ -1,0 +1,10 @@
+[Event "1 Commendation tr11#1025 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/1Q6/4n3/4p3/p1BP4/2k1b2K w - - 0 1"]
+
+ 1. Qa4 (1. Qc6 $2 a1=Q 2. Bxe4+ (2. Ba4+ Nc3) 2... Kb2 3. Qb5+ Kc1) 1... Bxd2 ( 1... Kb2 2. Qb3+) (1... a1=Q 2. Qxa1+ Kxc2 3. dxe3) 2. Qxa2 (2. Bxe4 $2 Kb2 3. Qc2+ Ka3 4. Qd3+ Kb2 5. Qd4+ Bc3 6. Qb6+ Ka3) (2. Bb3 $2 Nc3 3. Qa3+ Kb1 4. Bxa2+ Nxa2 5. Qb3+ Kc1 6. Qxa2 e2 7. Qc4+ Kd1 8. Qg4 Bc3 9. Kg2 Kd2) 2... Nc3 3. Qb3 e2 4. Bd3 (4. Kg2 $2 e1=N+) 4... e1=Q+ 5. Kg2 Qd1 6. Qa3# 1-0  

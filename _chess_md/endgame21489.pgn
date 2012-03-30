@@ -1,0 +1,10 @@
+[Event "tl04 {te} {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/Q7/2pk4/3r4/4K3/8/8/8 w - - 0 1"]
+
+ 1. Qb6 $1 Kd7 (1... Re5+ 2. Kd4 Rd5+ 3. Kc4) 2. Qb7+ Kd6 3. Qa7 $1 Re5+ (3... Rd2 4. Kf5 $1 Rd5+ 5. Kf6) (3... Rd1 4. Qa3+ Kd7 5. Qh3+ Kc7 6. Qg3+ Rd6 7. Qe5 Kd7 8. Qg7+) 4. Kd4 Rd5+ 5. Kc4 Rb5 6. Qf7 Rc5+ (6... Rd5 7. Kb4) (6... Rb6 7. Qe8) 7. Kb4 Rd5 8. Ka4 Rb5 9. Qg7 Rd5 10. Qb7 Rb5 (10... Rd1 11. Qb4+ Kc7 12. Qf4+ Kb6 (12... Kb7 13. Qf7+ Kc8 14. Ka5) 13. Qe3+ Kc7 14. Qg3+ Kd8 15. Ka5) 11. Qc8 Kd5 (11... Rd5 12. Qd8+ Kc5 13. Qc7 Rd1 (13... Rd3 14. Qa5+ Kc4 15. Qa6+) 14. Qa5+ Kc4 15. Qb4+) 12. Qd7+ Kc5 13. Qd8 $1 Kc4 (13... Rb4+ 14. Ka5 Rb5+ 15. Ka6 Rb4 16. Qd3) 14. Qd6 Rc5 15. Qe6+ Kd3 (15... Kc3 16. Qe3+ Kc4 17. Qe4+ Kc3 18. Qb4+) (15... Kd4 16. Qg4+) 16. Qh3+ Kd4 (16... Kc2 17. Kb4) (16... Kc4 17. Qg4+) 17. Qg4+ Kd3 (17... Kd5 18. Qd7+ Ke4 (18... Kc4 19. Qd6 $1) 19. Kb4) (17... Ke5 18. Qd7) 18. Qd1+ Kc3 (18... Kc4 19. Qd6) (18... Ke4 19. Qd7) 19. Qc1+ Kd4 20. Qd2+ Kc4 (20... Ke4 21. Qd7) 21. Qd6 1-0  

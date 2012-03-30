@@ -1,0 +1,10 @@
+[Event "1 Prize ts15#167 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6N1/N3p3/k5b1/8/2K5/8/8/7B w - - 0 1"]
+
+ 1. Nc6 Bf7+ 2. Bd5 (2. Kc5 $143 Bxg8 3. Be4 e5 $11) 2... e6 (2... Bxd5+ $144 3. Kxd5 e5 4. Ke4 $18) 3. Be4 e5+ (3... Bxg8 $144 4. Ne5 Kb6 5. Bg6 Kb7 6. Kb5 Kc7 7. Kc5 Kd8 8. Kd6 Kc8 9. Nc6 $18) 4. Kb4 Bxg8 5. Kc5 Bf7 (5... Bb3 $144 6. Bd3+ Kb7 7. Na5+ $18) 6. Bd3+ Kb7 7. Nd8+ $18 1-0  

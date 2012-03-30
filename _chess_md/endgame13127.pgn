@@ -1,0 +1,10 @@
+[Event "tb10 {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Schwan F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/2q5/1pppQ3/B1N1pK2/6RR/2r1P3/b1pn4/4b3 w - - 0 1"]
+
+ 1. Qe8+ Ka7 2. Rg7 Qxg7 3. Bxb6+ Kxb6 4. Qb8+ Kxc5 5. Qb4+ Kd5 6. e4+ Nxe4 7. Qxe4+ Kc5 8. Qb4+ Kd5 9. Qa5+ Rc5 10. Qxa2+ Rc4 11. Qxc4# 1-0  

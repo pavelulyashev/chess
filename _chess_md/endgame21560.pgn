@@ -1,0 +1,10 @@
+[Event "1 Prize, t001#67 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2b5/P1pp4/8/8/8/4P2p/4KB1k w - - 0 1"]
+
+ 1. a7 d5 $1 2. Kf2 $1 Bb6+ 3. e3 Bxe3+ 4. Kxe3 Kg1 5. Bg2 $1 (5. a8=Q $2 d4+ $1 6. Ke2 (6. Kf4 h1=Q 7. Qg8+ Kxf1 8. Qc4+ Kg1 $1 9. Qxd4+ Kh2 $1) 6... d3+) 5... Kxg2 6. a8=Q d4+ (6... h1=Q {main} 7. Qg8+ $1 Kf1 8. Qf7+ Kg2 9. Qg6+ Kf1 10. Qf5+ Kg2 11. Qg4+ Kf1 12. Qe2+ $1 Kg1 13. Qf2#) 7. Kf4 $1 (7. Ke2 $2 d3+ 8. Ke3 h1=Q 9. Qg8+ Kf1 10. Qf7+ Kg2 11. Qg6+ Kf1 12. Qf5+ Kg2 13. Qg4+ Kf1) 7... h1=Q 8. Qa2+ $1 Kh3 9. Qb3+ (9. Qe6+ $2 Kh2 $1) 9... Kg2 10. Qc2+ (10. Qg8+ $2 Kf1 $1) 10... Kf1 11. Qd1+ (11. Qd3+ $2 Kg1 $1) 11... Kg2 12. Qe2+ Kh3 13. Qg4+ Kh2 14. Qg3# 1-0  

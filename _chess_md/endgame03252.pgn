@@ -1,0 +1,10 @@
+[Event "EG {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Bondarenko F, Kuznetsov AP"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3p4/8/6k1/5ppN/8/3P1P1p/R3K3 w Q - 0 1"]
+
+ {EG35/1994} 1. Nf3+ $1 (1. Ke2 $2 Kxh4 2. Rh1 Kh3 3. f3 g3 $19) 1... gxf3 2. O-O-O Kg4 3. Rh1 Kh3 4. Kd1 Kg2 5. Ke1 Kxh1 6. Kf1 d6 $1 7. d3 $1 (7. d4 $2 d5 {mutual zugzwang - virtual stalemate}) 7... d5 8. d4 {stalemate} 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "mh04 @3 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Gurvitch A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6N1/8/1N1R4/4pk2/2b1n2K/n7 w - - 0 1"]
+
+ 1. Nh4+ Kf2 2. Rd1 $1 Bxd1 (2... Be4 $1 {cook AD} 3. Rxa1 (3. Rd3 Nf4) 3... Nd4 4. Ng2 Bxg2 5. Nd3+ Ke2 6. Nc1+ Kf2 7. Nd3+ (7. Ra2+ e2 8. Nd3+ Ke3 9. Ra3 Kd2 10. Kxg2 e1=N+ 11. Nxe1 Kxe1) 7... Ke2 8. Nf4+ Kf2 9. Nxg2 Nf3+ 10. Kh1 (10. Kh3 Ng1+) 10... e2 11. Ra2 Kf1 12. Ne3+ Kf2 13. Nd1+ Kf1 14. Ne3+ Kf2) 3. Nd3+ Kf1 4. Nf5 Nc2 5. Kh1 $1 Nf4 (5... Ncd4 {main} 6. Nxe3#) 6. Ng3# 1-0  

@@ -1,0 +1,10 @@
+[Event "Problemaz, Abdelwahed El Fassi Fihri M {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Mikitovics J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4n3/8/R7/8/3q4/8/1kPPP3/2rQK2R w K - 0 1"]
+
+1. Ra2+ (1. c3 $2 Rxd1+ 2. Kxd1 Qc5 (2... Qe4 3. Rb6+ Ka2 4. Rh5 Qa4+ 5. Kc1Qa3+ 6. Kc2 Qa4+ 7. Kd3 Qd7+ 8. Kc2 Qa4+ $11) 3. Ra4 Nd6 4. Rb4+ Ka2 5. Rhh4Nb5 6. Ra4+ Na3 $11) 1... Kb1 2. Ra1+ $1 (2. Qxc1+ $2 Kxc1 3. c3 Qf4 4. e3 Qf35. Rf1 Qg2 $11) 2... Qxa1 3. Qxc1+ Kxc1 4. Kf2+ (4. O-O+ $2 Kb2 5. Rxa1 Kxa1$11) 4... Kb2 5. Rxa1 Kxa1 6. Ke3 Kb2 7. Kd3 Ka3 8. Kc4 $1 (8. Kc3 $2 Nd6 9.Kd4 Kb4 10. e4 Nc4 11. d3 Nb6 12. e5 Kb5 $11) (8. Kd4 $2 Kb4 $11) 8... Kb2 9.c3 Kc2 10. d3 $1 (10. d4 $2 Nd6+ $11) 10... Nd6+ 11. Kc5 $1 (11. Kd5 $2 Nf5 $11) 11... Nb7+ 12. Kd4 $1 Kb3 13. c4 $1 (13. e4 $2 Nd8 14. e5 Ne6+ 15. Kd5 Nf4+16. Ke4 Ne6 17. c4 Nc7 $11) 13... Kb4 14. e4 (14. Kd5 $2 Nc5 15. Kd6 Nb7+ $11)14... Nc5 15. e5 Ne6+ 16. Kd5 {I slightly changed the play here by removingtwo introductory scuffle moves (4n3/b5q1/p2R4/8/3N4/8/1kPPPB2/2rQK2R w K - 0 1,1.Rxa6 Bxd4 2.Bxd4+ Qxd4). Rude play, so it is not for an award. After anexchange the rest is analytic. It would have been much better if the castlingwere in the solution and not in the try.} 1-0

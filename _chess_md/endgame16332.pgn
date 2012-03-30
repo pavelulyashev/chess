@@ -1,0 +1,10 @@
+[Event "tm04#0467 @3 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/PpP5/p2kb3/PP6/P6R/8/8/6q1 w - - 0 1"]
+
+ 1. c8=N+ $1 Bxc8 2. Rh6+ Be6 3. Rxe6+ $1 Kxe6 4. Kc7 $1 Qxa7 (4... axb5 $1 { cook JN} 5. axb5 (5. a8=Q Qc5+ 6. Kxb7 Qd5+ 7. Kb8 Qxa8+ 8. Kxa8 b4) 5... Qc5+ 6. Kb8 Qe5+ 7. Kc8 Kd6 8. a8=Q Qe8+ 9. Kxb7 Qxb5+ 10. Ka7 Kc7) 5. b6 Qa8 1/2-1/2  

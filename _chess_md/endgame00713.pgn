@@ -1,0 +1,10 @@
+[Event "1-3p Kalandadze-70JT {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/r7/4P2p/7b/4N3/8/1Kp2R2/8 w - - 0 1"]
+
+ 1. Nf6+ Kh8 2. Nxh5 Ra2+ 3. Kc1 Ra1+ 4. Kxc2 Ra2+ 5. Kd1 $1 (5. Kd3 $143 Rxf2 6. e7 Kh7 7. e8=Q (7. Ke3 $144 Rf7 8. e8=Q Rf3+ 9. Kxf3 $11) (7. Nf4 $144 Rxf4 8. e8=Q $11) 7... Rd2+ 8. Kxd2 $11) 5... Rxf2 6. e7 Kh7 7. Ng3 Rg2 8. Ne4 (8. e8=Q $143 Rxg3 $11) 8... Rg8 9. Nf6+ $18 1-0  

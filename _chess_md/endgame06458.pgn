@@ -1,0 +1,10 @@
+[Event "t001#167 {c} @2 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2n1p2k/P7/2PP2K1/5N2/2r2p2/8/6B1 w - - 0 1"]
+
+ 1. d6 exd6 (1... Nxa6 2. d7 f2 3. Bxf2 Rg3+ 4. Bxg3 (4. Kf5 $1 4... Rg8 5. Ne6) 4... Nxc5 5. d8=N $1) 2. cxd6 Nxa6 3. d7 f2 4. Bxf2 Rg3+ 5. Bxg3 Nc5 6. d8=B $1 (6. d8=Q $2 6... Ne6+ 7. Nxe6) 1-0  

@@ -1,0 +1,10 @@
+[Event "tu19#0199 {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p5R/Pp1p4/1P1K4/3N4/r1P5/8/k4b2 b - - 0 1"]
+
+ 1... bxa6 (1... Rxc3 2. axb7 Bg2+ 3. Kxd6 Bxb7 4. Rxb7) 2. Nc2+ (2. Rh1 $2 Kb2 3. Rxf1 Rxc3 4. Rf2+ Kb1 5. bxa6 Ra3) 2... Kb2 3. Nxa3 Kxa3 4. bxa6 Bxa6 5. Ra7 Ka4 6. Rxa6+ Kb5 7. Rxb6+ $1 (7. Ra8 $2) 7... Kxb6 8. Kxd6 Kb5 9. Kd5 Kb6 10. c4 Kc7 11. Kc5 1-0  

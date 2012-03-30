@@ -1,0 +1,10 @@
+[Event "Rusinek JT50_2ndPr {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Afek Y, Costef C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/pb5B/P7/3P4/4p1K1/1p6/8/2N1B3 b - - 0 1"]
+
+ 1... Bc8+ $1 (1... b2 2. Bg3+ (2. Nd3 Bc8+) 2... Ka8 3. axb7+ (3. Nd3 Bc8+) 3... Kxb7 4. Nd3 b1=Q 5. Bxe4 {white should win} Kc8 6. d6 Qd1+ 7. Kf4 Kd7 8. Ke5 Qa1+ 9. Kf5 Qa5+ 10. Be5 Qb6 11. Kg6 Ke8 12. Bf5 Qg1+ 13. Kf6 Qb6 14. Nf4 { wins}) 2. Kh4 b2 3. Bg3+ Ka8 4. Bxe4 (4. Nd3 b1=Q 5. Bxe4 Bf5 6. Bxf5 Qxd3) 4... bxc1=R (4... bxc1=Q 5. d6+ Kb8 6. d7+ Qc7 7. d8=R $1 (7. d8=Q $2 Qxg3+ 8. Kxg3 {pat})) 5. d6+ Kb8 6. d7+ Rc7 7. d8=N $1 (7. d8=B Bxa6 $11 8. Bdxc7+ Kc8 9. Bb8 Kd7 10. Bxa7 Ke6) 7... Bxa6 8. Ne6 1-0  

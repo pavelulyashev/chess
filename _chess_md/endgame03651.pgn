@@ -1,0 +1,10 @@
+[Event "1/2 Prize t001#76 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N3/2PP2P1/6b1/2bN2R1/6pk/p7/K1pn4/8 w - - 0 1"]
+
+ 1. Rh5+ $3 1... Kxh5 (1... Bxh5 2. d8=Q+) (1... Kg3 2. Rh1) 2. Nf4+ Kh6 3. g8=N+ Kh7 4. Ngf6+ Kh6 (4... Kh8 5. Nxg6#) 5. Nxg4+ Kh7 6. Nef6+ Kg7 7. Ne6+ Kf7 8. d8=N+ Ke7 9. c8=N# 1-0  

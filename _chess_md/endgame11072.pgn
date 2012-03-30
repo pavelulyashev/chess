@@ -1,0 +1,10 @@
+[Event "us38 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Petrov D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/2R1N3/1nP2r2/2Pq4/8/6P1/6P1/6K1 w - - 0 1"]
+
+ 1. Rb7+ Ka8 2. Ra7+ Kxa7 (2... Kb8 3. c7+ Kxa7 4. Nxd5) 3. cxb6+ Ka8 $1 4. b7+ Ka7 5. b8=Q+ Kxb8 6. c7+ Kb7 (6... Ka8 7. c8=R+ $1 (7. c8=Q+ $2 Ka7 8. Nxd5 Rf1+ 9. Kh2 Rh1+ 10. Kxh1)) (6... Ka7 7. c8=N+ $1) 7. c8=B+ $1 (7. c8=Q+ $2 Ka7 8. Nxd5 Rf1+ 9. Kh2 Rh1+ 10. Kxh1) 7... Kb8 8. Nxd5 Rd6 9. Ne7 Rd1+ 10. Kf2 1-0  

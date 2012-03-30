@@ -1,0 +1,10 @@
+[Event "ts21#27 @1 {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k2/2p5/5pK1/3P3P/4P2p/p6b/3B4/8 w - - 0 1"]
+
+ 1. Bb4+ $1 (1. h6 Bg2 2. Bb4+ Ke8 $1 3. Kf5 Kf7 4. e5 $1 {cook OP}) 1... Ke8 2. Bxa3 Bf5+ $1 3. exf5 h3 4. Bd6 $1 cxd6 5. h6 h2 6. h7 h1=R $1 (6... h1=Q {main} 7. h8=Q+ Qxh8) 7. Kg7 Rg1+ 8. Kh8 $1 Rg5 1/2-1/2  

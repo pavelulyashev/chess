@@ -1,0 +1,10 @@
+[Event "1 Prize, wu16 {tt} {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Tkachenko SN"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/Pp1p1p2/3P4/P7/1r2P3/K1k3B1/1p6/8 w - - 0 1"]
+
+ 1. Be5+ Kc2 $1 (1... Kc4 2. Bxb2 b5 3. axb6 $1) 2. Bxb2 Rb3+ $1 3. Ka4 (3. Ka2 $2 Rxb2+ 4. Ka3 Rb3+ 5. Ka4 Rb1 $1 6. a8=Q (6. e5 Kc3 $1 7. a8=Q b5+ $1 8. axb6 (8. Ka3 Ra1#) 8... Ra1+) 6... b5+ $1 7. axb6 Ra1+ 8. Kb5 Rxa8 9. b7 Rh8 10. Kb6 Kd3 11. Kc7 Kxe4 12. Kxd7 Ke5 13. Kc7 Ke6 14. d7 Ke7) 3... Rxb2 (3... Kxb2 4. e5 $1 Ka2 5. a8=Q b5+ 6. axb6 Ra3+ 7. Kb5 Rxa8 8. b7) 4. e5 $1 (4. a8=Q $2 b5+ $1) 4... Rb1 (4... Kc3 5. a8=Q b5+ 6. Ka3 $1 Rb3+ 7. Ka2 Rb2+ 8. Ka1 $1) (4... b5+ 5. axb6 $1 Kc3 6. b7) 5. a8=Q b5+ $1 6. axb6 $1 (6. Ka3 $2 Rb3+) 6... Ra1+ 7. Kb5 Rxa8 8. b7 Rh8 9. Kb6 Kd3 (9... f5 10. exf6 $1) 10. Kc7 Kd4 11. e6 $1 ( 11. Kxd7 $2 Kxe5 12. Kc7 Ke6 $1) 11... fxe6 12. Kxd7 Ke5 (12... e5 13. Kc7 e4 14. d7 e3 15. b8=Q $1 Rxb8 16. Kxb8 e2 17. d8=Q+) 13. Kc7 Kf6 14. b8=Q $1 (14. d7 $2 Ke7 $1) 14... Rxb8 15. Kxb8 1-0  

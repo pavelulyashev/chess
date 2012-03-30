@@ -1,0 +1,10 @@
+[Event "tc06#85 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7p/P2P3P/K3Np2/8/ppB2P2/5k2 w - - 0 1"]
+
+ 1. Bb1 $1 a1=Q+ 2. Kb4 f3 3. d6 Ke1 4. Nc3 Kd2 5. d7 Kc1 $1 6. d8=B $1 (6. d8=Q $2 Qa3+ $1 7. Kxa3) (6. d8=R $2 Qxa5+ $1 7. Kxa5) (6. d8=N $2 Qxb1) 6... Qxb1 7. Nxb1 Kxb1 8. Bf6 Kc2 9. Bxb2 1-0  

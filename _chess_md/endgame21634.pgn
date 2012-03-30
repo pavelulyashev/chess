@@ -1,0 +1,10 @@
+[Event "ts23#20 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6R1/2N4b/4K3/N7/Pkp5/1p6/8 w - - 0 1"]
+
+ 1. Nd4+ (1. Rb7+ $2 Kxa4 2. Nd4 Kxa3 3. Ke4 Ka2 4. Ra7+ Kb1 5. Kd3 c2 $1 6. Nxc2 Kc1) 1... Kxa3 2. Ra7 $1 Bg7+ 3. Kd5 Bxd4 4. Kxd4 (4. Ra8 $2 Kb3 $1) 4... c2 5. Kc4 $1 (5. Nc3+ $2 Kb4 $1 6. Rb7+ Ka5 $1) (5. Nc5+ $2 Kb4 6. Nd3+ Kb3 7. Rb7+ Ka3 8. Ra7+ Kb3 9. Nc5+ Kb4 10. Rb7+ Ka3 $1) 5... b1=Q 6. Nc5+ Kb2 7. Nd3# 1-0  

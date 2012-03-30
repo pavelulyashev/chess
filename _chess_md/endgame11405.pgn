@@ -1,0 +1,10 @@
+[Event "6th Prize, Nunn-50JT {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/4r2P/2n3P1/p2b3B/7p/1kP4P/7P/8 w - - 0 1"]
+
+ {This spectacular study involves sacrifices by both White and Black, with the key idea being the move 3 c4!, opening the long diagonal ready to cover the a1-square several moves later. The whole idea is realised with great economy.} 1. g7 Re8+ $3 { The only chance is to sacrifice the rook to clear the e7-square. After} (1... Re5 2. Bd1+ Kxc3 3. g8=Q {White has too much material.}) 2. Bxe8 Ne7 3. c4 $3 { A remarkable move which has as its sole purpose the opening of the long diagonal. Theimmediate} (3. g8=Q $2 {leads only to a draw:} 3... Bxg8 4. Bf7+ $1 (4. hxg8=Q+ Nxg8 5. Kxg8 Kxc3 {is a draw because White cannot win the h4-pawn without allowing the black king to reach h8, with a standard rook's pawn(s) + wrong bishop draw.}) 4... Bxf7 5. Kg7 Ng6 6. Kxf7 Nh8+ 7. Kg7 a4 8. Kxh8 a3 9. Kg8 (9. Kg7 a2 10. h8=Q a1=Q 11. Qxh4 Qxc3+ {draws at once}) 9... a2 10. h8=Q a1=Q 11. Qxh4 Qa8+ {and White cannot avoid the checks without making so many concessions that Black is able to draw; for example,} 12. Kg7 Qb7+ 13. Kg6 Qc6+ 14. Qf6 Qg2+ 15. Qg5 (15. Kf7 Qb7+) 15... Qxh2 (15... Qc6+ { should also draw}) 16. Qe3 Qd6+ 17. Kh5 Qd5+ 18. Kh4 Qd8+ {and so on.}) 3... Bxc4 (3... Kxc4 4. g8=Q Bxg8 5. Bf7+ Bxf7 6. Kg7 Bd5 7. h8=Q {will win in the long run. White picks up the h4-pawn and wins one of Black's minor pieces for the front h-pawn. Black cannot then draw with a minor piece and an advanced a-pawn because White has another h-pawn.}) 4. g8=Q $1 { A neat tactic forcing the promotion of the h-pawn.} 4... Bxg8 (4... Nxg8 5. Kg7 {wins at once.}) 5. Bf7+ $1 (5. hxg8=Q+ $2 Nxg8 6. Kxg8 Kc3 { draws as in the note to White's third move.}) 5... Bxf7 6. Kg7 Ng6 (6... Bc4 7. h8=Q {wins as in the note to Black's third move.}) 7. Kxf7 Nh8+ 8. Kg7 { or 8 Kg8} 8... a4 9. Kxh8 a3 10. Kg8 a2 11. h8=Q { and wins, thanks to the open long diagonal.} 1-0  

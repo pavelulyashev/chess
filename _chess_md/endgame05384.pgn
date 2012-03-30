@@ -1,0 +1,10 @@
+[Event "15 Prize wu04 og03 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2N5/8/3Np3/6p1/4R2p/1K5k w - - 0 1"]
+
+ 1. Nf5 g2 2. Ng3+ Kg1 3. Ne5 $1 3... h1=N $1 (3... h1=Q 4. Ng4 $1 4... Qh7 5. Re1#) 4. Nxe4 Kf1 5. Rf2+ $3 5... Nxf2 6. Ng3+ 6... Ke1 $1 (6... Kg1 7. Nf3#) 7. Kc1 $1 (7. Kc2 $2 7... g1=N $1 8. Kc1 Ne2+) 7... g1=N 8. Kc2 1-0  

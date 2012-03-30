@@ -1,0 +1,10 @@
+[Event "60 years of chess in Kutna Hora [2nd hm {m}"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Hlinka M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4nk2/r1P5/2R5/7p/5K2/2n5/8/8 w - - 0 1"]
+
+ {Seems to be OK} 1. c8=Q Nd5+ (1... Rf7+ 2. Ke5 Re7+ 3. Re6 Nb5 4. Qd8 Rxe6+ 5. Kxe6 Nbc7+ 6. Kd7 Kf7 7. Qg5) 2. Kg5 $1 (2. Kg3 Ne7 (2... Rg7+ 3. Kh4 Ne7 4. Rf6+ Rf7 5. Rxf7+ Kxf7 6. Qc4+ Kf6) 3. Rf6+ Kg7 4. Qc5 Kxf6 (4... Rc7 5. Qg5+) (4... Nxf6 5. Qxa7 Kg6) 5. Qxa7 Nf5+ 6. Kf4 Ned6) 2... Ne7 (2... Rg7+ $5 3. Kxh5 Ne7 (3... Rh7+ 4. Rh6 Rxh6+ 5. Kxh6 $18) 4. Rf6+ Rf7 5. Rxf7+ Kxf7 {and mate in 44}) 3. Rf6+ Kg7 4. Qc3 $1 (4. Qc5 {dual?} Nxf6 (4... Rd7 5. Qc3 Kg8 ( 5... Rd5+ 6. Rf5+ Kg8 7. Qb3 Nc7 8. Qb8+ Kh7 9. Rxd5 Ncxd5 10. Qf8) (5... Nxf6 6. Qxf6+ Kh7 (6... Kg8 7. Qe6+) 7. Qf7+ Kh8 8. Qe8+) 6. Qb3+ Nd5 7. Rf5 Nec7) ( 4... Rb7 5. Rf1) (4... Rc7 5. Qe5 Nxf6 6. Qxc7 Nh7+ $1) 5. Qxa7 Nh7+ $3 {this move draws also without Ph5}) (4. Qxe8 Ra5+ 5. Kh4 Kxf6) 4... Nxf6 (4... Ra5+ 5. Rf5+) (4... Kg8 5. Qc4+ Kh8 6. Rh6+ Kg7 7. Qd4+) 5. Qxf6+ Kh7 $1 (5... Kg8 6. Kh6 (6. Kxh5 {tablebase})) 6. Qh6+ $3 (6. Qb6 $6 Ra4 $3 {with idea Rg4-g7} 7. Kxh5 $1 (7. Qc5 {without Ph5 white wins here easily} Rg4+ 8. Kxh5 Rg7) (7. Qd8 Rg4+ 8. Kxh5 Rg7) 7... Kg7 8. Qb2+ Kf8 $1 9. Qb8+ Kg7 $1 $11) (6. Qf7+ Kh8 7. Qf6+ (7. Kxh5 Ra5+ 8. Kh6 Ra6+ 9. Kh5 Ng8 (9... Ra5+ 10. Kg4 Nf5 11. Qe8+ Kh7 12. Qd7+ Ng7)) (7. Qf8+)) 6... Kg8 7. Qb6 $1 Ra3 $1 {uz neide 7...Va4 8. Db3+-tu vidiet vyznam 6.Dh6+!!} 8. Qd6 $1 (8. Qc7 $2 Re3 9. Kf6 $4 Nd5+ $11) ( 8. Qc5 Rg3+ 9. Kf6 Rg7) 8... Re3 9. Kf6 $1 $18 {zugzwang,9...Kf8 10.Dd4! Jg8+ 11.Kg6; 9...Ve4 10.Dg3+ Vg4 11.Db8+;          9...Kh7 h4 10.Kf7! h4 ll.Df6;9... h4 10.Dd2! h3 11.Da2+ Kh8 12.Kf7!} Kf8 (9... Kh7 10. Kf7 h4 11. Qf6) (9... h4 10. Qd4 (10. Qd1 h3 11. Qh5) (10. Qd2) 10... h3 (10... Re1 11. Qc4+ Kh8 12. Qxh4+ Kg8 13. Qc4+ Kh8 14. Kf7) 11. Qc4+ Kh8 12. Qh4+ Kg8 13. Qg5+) 10. Qd8# 1-0  

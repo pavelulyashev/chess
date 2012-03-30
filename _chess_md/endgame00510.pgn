@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "0000.??.??"]
+[Round "?"]
+[White "Koblizek L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/6p1/4K3/6PP/6P1/b6p/7P/8 w - - 0 1"]
+
+ {Prvni dva tahy pridal JP} 1. g6 $1 (1. Kf7 Bd6 2. h6 g6 (2... gxh6 3. g6 Be5 { viz pozn. k 2.h6})) 1... Bc5 2. Kf5 (2. h6 gxh6 3. Kf7 Bd4 4. Kf8 Be5 5. Kf7 Bg7 6. Ke6 Kg8 7. Kf5 Bf8 8. g5 h5 9. g7 Bd6) 2... Bd6 { V teto pozici zacina puvodni Koblizkova studie.} 3. Kg5 (3. g5 $2 Bxh2 4. Kg4 Bf4 5. Kxh3 Bxg5) 3... Bg3 (3... Bxh2 4. Kh4 Bf4 5. Kxh3 Bg5 6. Kg3 Kg8 7. Kf3 Kf8 8. Ke4 Ke7 9. Kf5) 4. h6 gxh6+ 5. Kh5 $1 Kg8 6. g7 $1 (6. g5 Bxh2 7. Kg4 hxg5) 6... Kh7 7. g5 Bxh2 8. g6+ Kxg7 9. Kg4 Bf4 10. Kxh3 1/2-1/2  

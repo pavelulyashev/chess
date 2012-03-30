@@ -1,0 +1,10 @@
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/P7/8/2PK4/3p4/3P1B2/7p/6b1 w - - 0 1"]
+
+ 1. c6 h1=Q (1... Kxa7 2. c7 Kb7 3. Kd6+ Kc8 4. Bg4+ $18) 2. Bxh1 Bh2 (2... Kxa7 3. c7 Kb7 4. Kd6+ Kc8 5. Bb7+ Kxb7 6. Kd7 {M7}) 3. c7 Bxc7 4. Kc6 Ba5 (4... Bd8 5. Kd7+ $18) 5. Kb5+ 1-0  

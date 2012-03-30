@@ -1,0 +1,10 @@
+[Event "1 Prize Chavchavadze MT {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/4B3/2N5/4n1N1/3p4/1Rp5/n2p4/7k w - - 0 1"]
+
+ 1. Ne4 $1 (1. Rb1+ $2 Nc1 2. Ne4 Ned3) 1... d1=Q $1 2. Nf2+ Kg1 $1 (2... Kg2 $2 3. Nxd1 c2 4. Rb2) 3. Nxd1 c2 4. Nc3 $1 Nxc3 (4... dxc3 5. Nd4 $1 Ng6+ 6. Kh7 Nxe7 7. Nxc2) 5. Bg5 $1 (5. Rxc3 $2 dxc3 6. Nd4 Ng6+ (6... c1=Q 7. Ne2+ Kf2 ( 7... Kf1 8. Nxc1 Ng6+ 9. Kg7 Nxe7 10. Kf6 Nc6 11. Ke6 Ke1 12. Kd5 Na7 13. Kc4 c2 14. Kb3) 8. Nxc1 Ng6+ 9. Kg7 Nxe7 10. Na2 c2 11. Nb4) 7. Kg7 c1=Q 8. Ne2+ Kf1 9. Nxc1 Nxe7 10. Kf6 Nc6 11. Ke6 c2 12. Kd5 Na7 13. Kc4 Ke1 14. Kd3 (14. Kb3 Kd2 15. Kb2 Nb5 16. Nb3+ Kd1 17. Nc1 Nc3 18. Nb3 (18. Nd3 Kd2) 18... Ne2) 14... Kd1 15. Na2 Nc6 16. Kc3 (16. Nc3+ Kc1) 16... Ne7 17. Kd3 Nd5 18. Kc4 Nf4 19. Kc3 Ne2+ 20. Kb2 Kd2) 5... Nf7+ 6. Kg8 $1 Nxg5 7. Nxd4 c1=Q 8. Rxc3 $1 Qd2 (8... Qxc3 9. Ne2+) (8... Qf1 9. Rc1 Qxc1 10. Ne2+) 9. Rc1+ $1 Kf2 10. Rc2 1/2-1/2  

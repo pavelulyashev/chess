@@ -1,0 +1,10 @@
+[Event "1 Prize ts04#5966 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5b2/4n2k/2B1p3/7r/4K2N/4R3/8/8 w - - 0 1"]
+
+ 1. Bd7 Rxh4+ 2. Ke5 (2. Kf3 $2 Rh3+ 3. Kf2 Rxe3 4. Kxe3 e5) (2. Kd3 $2 Nf5 3. Rxe6 Rd4+) 2... Nf5 (2... Rh6 3. Bxe6 Ng6+ 4. Kf5 Rh5+ 5. Kf6 Bg7+ 6. Kf7 Nh8+ 7. Ke7) 3. Rd3 (3. Rb3 $2 Bg7+ 4. Kxe6 Nd4+) 3... Ng7 4. Bxe6 $1 Rh5+ 5. Kf6 Rh6+ 6. Kf7 Nxe6 7. Re3 Nc7 $1 8. Rg3 $1 (8. Kxf8 $2 Rf6+ 9. Ke7 Nd5+) 8... Ne6 9. Re3 1/2-1/2  

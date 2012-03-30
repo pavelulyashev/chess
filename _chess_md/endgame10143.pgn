@@ -1,0 +1,10 @@
+[Event "td23 {te} @2 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7k/1r6/8/b7/1n3Q2/K7 w - - 0 1"]
+
+ 1. Qe3+ Kg6 (1... Kh5 2. Qe2+ Kg6 3. Qe8+) 2. Qxa3 (2. Qe8+ $1 {cook HH}) 2... Kf5 (2... Kh5 3. Qh3+ Kg5 4. Qf1 $1) 3. Qf3+ Kg5 (3... Ke5 4. Qe2+) 4. Qc6 Rb8 $1 5. Qd5+ Kg4 6. Qe4+ Kh3 7. Qf3+ Kh2 8. Qf4+ 1-0  

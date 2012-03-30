@@ -1,0 +1,10 @@
+[Event "Die Schwalbe 2nd HM {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/p2p4/P2p1N2/2k5/2B5/R1P2q2/5P2/8 w - - 0 1"]
+
+ 1. Ne4+ $1 Qxe4 (1... Kc6 2. Bd5+ $1 (2. Bb5+ $2 Kb6 $11) 2... Kxd5 3. c4+) ( 1... Kxc4 2. Nd2+) 2. Ra5+ Kb6 3. Rb5+ Kxa6 (3... Kc6 $2 4. Bd5+) 4. Bf1 Qh1 5. Be2 $1 ({The main plan} 5. Rb1+ $2 Ka5 6. Kc7 {fails because of} Qc6+) 5... Qe1 (5... Qh8+ 6. Kc7 Qxc3+ 7. Rc5+) 6. Bd3 $1 Qd1 7. Bc4 Qg4 8. Bf1 $1 Qg1 9. Rb1+ $1 Ka5 10. Kc7 Ka4 {(Qc6+??)} 11. Bb5+ {win.} 1-0  

@@ -1,0 +1,10 @@
+[Event "bs15 @3 {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6k1/b1rPP1p1/2n5/4R2K/7B/8/8 w - - 0 1"]
+
+ 1. d7 (1. e7 $2 g5+ 2. Kg4 Nxe4 3. d7 $2 Rf6 $1) 1... g5+ 2. Kg4 (2. Kh5 $2 Nxe4 3. d8=Q Be2+ 4. Bg4 Bxg4+ 5. Kxg4 Rxe6 6. Kf5 Kf7 $1) 2... Nxd7 (2... Rd6 $1 {cook MW} 3. e7 Nxd7 4. e8=N+ Kg6 5. Nxd6 Nf6+) 3. exd7 Bc8 4. Re7+ Kf6 5. Re6+ Kf7 6. d8=Q Bxe6+ 7. Kh5 $1 (7. Kxg5 $2 Rc5+) 7... Bxh3 8. Qd5+ Re6 9. Qf3+ Kg7 10. Qc3+ (10. Qb7+ $2 Kf8 $1 11. Kxg5 Re5+ 12. Kf4 (12. Kh4 Bf5 $1) 12... Rh5) 10... Kh7 11. Qc7+ Kg8 12. Kxg5 Bg2 13. Qd7 Rc6 14. Qe7 Bh1 15. Kf5 Rh6 16. Qd8+ Kg7 17. Qc7+ Kg8 18. Qe7 Bf3 19. Kg5 Rh7 (19... Rc6 20. Kf4 Bh1 21. Qg5+ Kf8 22. Kg3 Rd6 (22... Re6 23. Qf5+ Ke7 24. Qh7+) 23. Qf4+ Ke7 24. Qh4+) 20. Qd8+ Kf7 21. Qc7+ Kg8 22. Qc4+ Kf8 23. Qd3 $1 Kg8 24. Qb3+ Rf7 25. Kg6 Be4+ 26. Kh6 Bh1 27. Qb1 $1 Rb7 28. Qg1+ Kh8 29. Qg6 Bd5 30. Qe8+ Bg8 31. Qe5+ 1-0  

@@ -1,0 +1,10 @@
+[Event "tl24 {c} {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Capablanca R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7r/2p3p1/2p2pp1/k5p1/3KN1p1/8/1R6 w - - 0 1"]
+
+ 1. Kc4 Ka5 2. Kxc5 Ka6 3. Kxc6 Ka7 4. Nd5 Rh2 (4... Rf7 5. Nb6 $1 Rf6+ 6. Kc7 Ka6 (6... Rxb6 7. Rxb6 f4 8. Rb1 Ka6 9. Kc6 Ka7 10. Kd5) 7. Nd7 Rf7 (7... Re6 8. Nc5+) 8. Kc6 Ka5 9. Ne5 $3 (9. Nc5 $2 Rf6+ 10. Kd5 Rb6 $1) 9... Rf8 (9... Rf6+ 10. Kc5) 10. Nc4+ Ka4 11. Kc5 Rc8+ 12. Kd4 g2 (12... Rd8+ 13. Kc3) 13. Kc3 g1=Q 14. Rb4#) 5. Rb7+ $1 Ka6 6. Nb4+ Ka5 7. Kc5 Ka4 8. Kc4 Ka3 (8... Ka5 9. Rb5+ Ka4 10. Rb6) 9. Nd5 $3 (9. Kc3 $2 Ka4 $1 10. Nc6 Rh1 $1 (10... g2 $2 11. Rb4+ Ka3 12. Rb5 Ka2 (12... Rh3+ 13. Kc2 Ka2 14. Ra5+ Ra3 15. Nb4+) 13. Nb4+ Kb1 14. Nd3+ Ka1 15. Nc1 $3 g1=Q 16. Nb3+ Kb1 17. Nd2+ Ka1 18. Ra5#) (10... Rh8 $2 11. Rb4+ Ka3 12. Rb5 Ra8 13. Rb3+ Ka4 14. Kb2 g2 15. Rb4#)) 9... Rf2 $1 ( 9... Rc2+ 10. Nc3 Rxc3+ 11. Kxc3 Ka4 (11... Ka2 12. Kc2 Ka3 13. Rb3+) 12. Kd3 g2 13. Rb1 f4 14. Ke2 f3+ 15. Kf2 Ka5 16. Rb8 g3+ 17. Kg1 Ka4 18. Rf8) (9... Rh8 10. Rb3+ $3 Ka4 11. Nb6+ Ka5 12. Kc5 Ka6 13. Kc6 Ka5 14. Rb5+ Ka6 15. Rb4) (9... Ka2 10. Nc3+ Ka1 11. Rb1#) 10. Rb3+ $3 Ka4 11. Nc3+ Ka5 12. Kc5 Ka6 13. Kc6 Ka5 (13... Ka7 14. Kc7 Ka6 15. Ra3#) 14. Kb7 $1 g2 15. Rb5# 1-0  

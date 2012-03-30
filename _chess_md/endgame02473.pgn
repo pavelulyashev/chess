@@ -1,0 +1,10 @@
+[Event "4 Prize WCCT3 Ty {tt} {m}"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5B2/5n2/2p5/7p/4N2k/8/qpp3PP/2R1R2K w - - 0 1"]
+
+ 1. h3 $1 (1. Be7+ $143 Kg4 2. Rf1 h4 $19) 1... bxc1=Q $1 (1... Qe6 $144 2. Kh2 Qe5+ 3. g3+ $18) 2. Be7+ Qg5 3. Kh2 $1 c1=Q (3... Qxe7 $144 4. g3#) (3... Qb3 $144 4. g3+ Qbxg3+ 5. Nxg3 Qxe7 6. Nf5+ $18) 4. Nd2 $1 {Novotny interference} Qaxd2 (4... Qcxd2 $144 5. Re4+ Qdf4+ 6. Rxf4#) 5. Re4+ Qdf4+ 6. g3# 1-0  

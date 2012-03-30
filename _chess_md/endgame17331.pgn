@@ -1,0 +1,10 @@
+[Event "4 Prize, tc06#374 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K6/8/k3p3/4R3/8/1NqP1b2/4B3/8 w - - 0 1"]
+
+ 1. d4+ Kb6 (1... Bxe2 2. Nc5+) 2. Rb5+ Kc6 3. Rc5+ Qxc5 4. Bxf3+ Qd5 $1 5. Na5+ $1 (5. Nd2 $2 Kd6 $3 6. Bxd5 Kxd5 7. Nf3 Ke4 8. Kc7 Kxf3 9. Kd6 Ke4) 5... Kd6 6. Nb7+ Kc6 7. Nd8+ Kd6 8. Nf7+ Kc6 9. Kc8 $1 Qxf3 10. Ne5+ Kd5 11. Nxf3 Ke4 12. Kd7 Kxf3 13. Kxe6 1-0  

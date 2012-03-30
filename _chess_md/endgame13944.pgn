@@ -1,0 +1,10 @@
+[Event "1 Prize te12 {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B3/5p2/6p1/B5K1/4p3/3p4/2Pp4/4k3 w - - 0 1"]
+
+ 1. cxd3 (1. c4 $2 Ke2 2. Ba4 e3 3. Kf4 g5+ 4. Ke4 f5+ 5. Kd4 f4 6. c5 f3) 1... exd3 (1... e3 2. d4 Ke2 3. Ba4 Kd3 4. d5 e2 5. Bb5+) 2. Kf6 (2. Bxf7 $2 Kd1 3. Bb4 Kc1 4. Ba3+ Kc2) (2. Kf4 $2 Ke2 3. Bc6 g5+ 4. Kg3 f5 5. Bf3+ Ke1 6. Bh5 g4 7. Kf4 Kd1 8. Ke3 Kc2 9. Bxd2 f4+) (2. Bd7 $2 Kd1 3. Bb4 f5 4. Kxg6 f4) 2... Kd1 3. Bb4 Kc1 (3... Kc2 4. Ba4+ Kc1 5. Ba3+ Kb1 6. Bd1 Ka2 7. Bb4) 4. Ba3+ Kd1 5. Bd7 Ke1 6. Bb4 Kd1 7. Bd6 Ke1 (7... g5 8. Kxg5 f5 9. Be8 Kc1 10. Ba3+) 8. Bg3+ Kd1 9. Bh4 1-0  

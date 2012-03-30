@@ -1,0 +1,10 @@
+[Event "Problemaz, Abdelwahed El Fassi Fihri MT {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Shirazi K"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5p1q/4B3/3r4/8/8/2RBK2k w - - 0 1"]
+
+1. Kf2 (1. Bf3+ Kg1 2. Bxd4+ Kh2) 1... Qh4+ ({Incorrect} 1... Qe3+ $1 2. Kxe3fxe5) 2. Bg3 Qh2+ (2... Rd2+ 3. Be2+) (2... Rf4+ 3. Bf3#) 3. Bxh2 Kxh2 4. Bf3Rd2+ 5. Ke3 Ra2 6. Kf4 Kh3 7. Rc8 ({Dual} 7. Rc7) 7... Ra4+ 8. Be4 Kh2 9. Rc11-0

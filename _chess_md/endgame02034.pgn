@@ -1,0 +1,10 @@
+[Event "British Chess Magazine {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7b/P2P1p2/pR6/8/7P/8/r3k1K1 w - - 0 1"]
+
+ 1. d7 Rd1 2. a7 Ke2+ (2... Be4 3. Rb1 $1 Rxb1 (3... Bxb1 4. a8=Q Rxd7 5. Qe8+) 4. d8=Q Ke2+ 5. Kh2) 3. Kh2 Be4 4. Rd5 $1 {Nowotny} Rxd5 (4... Bxd5 5. d8=Q) 5. a8=Q 1-0  

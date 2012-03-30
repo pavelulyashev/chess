@@ -1,0 +1,10 @@
+[Event "EG {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Costeff G, Manella N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N2b2/2P2P2/3P2pN/1pppq3/2kp3r/3p2p1/1K1P4/8 w - - 0 1"]
+
+ 1. Ka3 (1. Nb6+ $2 Kb4 2. c8=Q Qg5) 1... Qxd6 2. Nxd6+ Bxd6 3. c8=N $1 (3. f8=Q b4+ 4. Kb2 Rh2 5. Qxd6 Rxd2+ 6. Kc1 Rg2 7. Qxc5+ Kxc5 8. c8=Q+ Kb6 9. Qe6+ (9. Qd8+ $1 {cook AR/MG} Kc5 10. Qa5+ Kc4 11. Qa6+ Kc5 12. Qxd3) 9... Kc5 10. Nf7 Rc2+ 11. Kd1 g2 12. Qd6+ Kb5 13. Qxd5+ Ka4 14. Qd7+ Kb3 15. Qxd4 Ra2 16. Qxd3+ Ka4 17. Qa6+ Kb3 18. Qe6+ Ka3) 3... Bc7 4. Ng4 $1 (4. f8=Q $2 b4+ 5. Kb2 Rh2 6. Nb6+ Bxb6 7. Qf4 Bc7 8. Qxc7 Rxd2+ 9. Kc1 g2 10. Qg3 Re2) 4... Rxg4 5. f8=N $1 Re4 6. Nd7 b4+ 7. Ka4 Re6 8. Nd6+ $1 {Nowotny} Rxd6 (8... Bxd6 {main} 9. Nb6#) 9. Ne5# 1-0  

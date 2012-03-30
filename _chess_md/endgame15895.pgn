@@ -1,0 +1,10 @@
+[Event "Schach, 2005/11. {m}"]
+[Site "?"]
+[Date "2005.11.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "1rr5/1P3B2/5Ppp/3P3k/7P/7N/8/4K2R b K - 0 1"]
+
+ {Schwarz zieht, WeiЯ gewinnt     GF     #} 1... Rc1+ $1 (1... Rxb7 2. Nf4+ Kg4 3. Be6+ Kxf4 4. O-O+ $18 (4. Bxc8 $18)) 2. Kf2 Rxh1 3. Kg3 $1 Rxh3+ (3... Rxb7 4. Nf4#) (3... Rf1 4. Be6 Rxf6 5. Bg4#) 4. Kxh3 Rxb7 5. Be8 $1 (5. Be6 $2 g5 6. f7 Rb8 $11) 5... Rf7 $3 (5... Rb3+ 6. Kg2 Rg3+ 7. Kf2 Kg4 8. Bd7+ $1 Kf4 9. f7 $18) 6. Kg3 $3 (6. Bxf7 $2 $11) (6. Bb5 $2 g5 7. Be8 Kg6 8. Bxf7+ (8. h5+ Kxf6 $11) 8... Kxf7 9. d6 Ke6 $11 (9... Kxf6 $11)) (6. Ba4 $2 g5 7. Be8 Kg6 $11) (6. d6 $2 Rxf6 7. d7 Rd6 $19) 6... Rf8 $1 (6... Rxf6 7. Bd7 (7. Bb5 $18) 7... g5 8. Be8+ Rg6 9. d6 gxh4+ 10. Kh3 Kg5 11. Bxg6 Kxg6 12. d7 $18) 7. f7 $1 (7. Bb5 $2 g5 $11) (7. d6 $2 Rxe8 $19) 7... Rxf7 $1 (7... g5 8. d6 $1 $18) 8. d6 $1 (8. Bxf7 $2 $11) 8... Rf8 $1 (8... Re7 9. Bc6 $1 (9. Bxg6+ $2 Kxg6 10. dxe7 Kf7 $11 ) 9... Re3+ (9... g5 10. dxe7 $18) 10. Bf3+ Rxf3+ 11. Kxf3 $18) 9. d7 $1 (9. Bd7 $2 g5 $11) 9... Rxe8 $1 10. dxe8=R $1 $18 (10. dxe8=Q $2 $11) (10. dxe8=B $2 $11) (10. dxe8=N $2 g5 $11) *  

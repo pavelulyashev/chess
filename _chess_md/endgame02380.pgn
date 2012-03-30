@@ -1,0 +1,10 @@
+[Event "7th Commendation, Nunn-50JT {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k1P5/2P4q/1KP5/8/6B1/8/8 w - - 0 1"]
+
+ {Two promotions to knight on the same square in miniature is a real achievement, even though the study has no great depth.} 1. c8=N+ $1 (1. c8=R $2 Qe6 2. Bb8+ Ka8 {and}) (1. c8=B $2 Qe3 2. Bd6 Qb3+ {are not better for White.}) (1. c8=Q $2 Qxc6+ {forces stalemate, while}) 1... Ka8 2. Nb6+ Ka7 3. c7 Qh1 { Many other queen moves are also met by promotion to a knight.} 4. c8=N+ $1 (4. c8=R $2 Qb1+ {and}) (4. c8=Q $2 Qb1+ 5. Kc6 Qe4+ { lead to perpetual check or stalemate, while}) (4. c8=B $2 Qb1+ { does not offer White any winning chances.}) 4... Kb7 5. Nd6+ $1 {The assumption here is that this ending is a technical win, and I believe this to be the case; for example} (5. Nd6+ Kc7 6. Nf7+ Kb7 7. Nd8+ Ka7 8. Be5 Qf1+ 9. Nc4 Qb1+ 10. Bb2 {and now White can coordinate his forces, with the eventual advance of the c-pawn in prospect.}) 1-0  

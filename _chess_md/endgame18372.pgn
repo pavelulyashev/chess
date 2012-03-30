@@ -1,0 +1,10 @@
+[Event "tt20#531 @3 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K6/P7/1k6/4r3/pP5p/1P6/6B1/8 w - - 0 1"]
+
+ 1. Bc6 (1. Bh3 $2 Re8+ 2. Bc8 Rxc8+) 1... Rh5 2. Be8 Rh8 (2... Re5 3. a8=N+ Ka6 4. Nc7+ Kb6 5. bxa4 Rxe8+ $1 {cook} 6. Nxe8 h3 7. a5+ Kb5 $1) 3. a8=N+ Ka6 4. Nc7+ Kb6 5. Nd5+ Ka6 6. b5+ Ka5 7. b4# 1-0  

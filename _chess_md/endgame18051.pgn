@@ -1,0 +1,10 @@
+[Event "2 Prize, t001#679 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p1p5/p1NNn3/2Pk4/2n5/8/2K1B3/8 w - - 0 1"]
+
+ 1. Ne7+ Kxc5 (1... Kd4 2. Nxc4) 2. Nb7+ Kd4 (2... Kb6 3. Bxc4 Kxb7 4. Bxe6) ( 2... Kb4 3. Nd5+ Kb5 4. Nc3+ (4. Kc3 $2 Kc6 $1 5. Bxc4 Kxb7) 4... Kb6 (4... Kb4 5. Na2+ Kb5 6. Kc3) 5. Bxc4 Nd4+ 6. Kd3 Nc6 7. Na4+ Kxb7 8. Bd5 a5 9. Kc4 Ka6 10. Nc5+ (10. Bxc6 $2) 10... Kb6 11. Nd7+ Ka6 12. Bxc6) 3. Nc6+ Kd5 4. Bf3# 1-0  

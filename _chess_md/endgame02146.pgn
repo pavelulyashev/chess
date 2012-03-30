@@ -1,0 +1,10 @@
+[Event "De Schaakwereld {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Van Altena G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/8/1P1P4/3N2k1/7p/8/r2b4/8 w - - 0 1"]
+
+ 1. b7 Rb2 2. d7 Ba5 3. Nb6 $1 {Nowotny} Bxb6 4. b8=Q Bd4+ 5. Kh7 Rxb8 6. d8=Q+ Rxd8 {stalemate} 1/2-1/2  

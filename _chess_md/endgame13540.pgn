@@ -1,0 +1,10 @@
+[Event "ts15 @1 @2 {m}"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "rN2k3/1p6/3K3p/P7/8/8/8/5R2 w q - 0 1"]
+
+ 1. a6 (1. Rf5 $1 {cook} Rxb8 2. Kc7 Ra8 3. Kxb7 Rd8 4. a6) 1... bxa6 2. Nd7 O-O-O 3. Rc1+ Kb7 4. Rc7+ (4. Rb1+ $1 {cook JU}) 4... Ka8 5. Kc6 h5 6. Nb6+ Kb8 7. Rb7# 1-0   

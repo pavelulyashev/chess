@@ -1,0 +1,10 @@
+[Event "2 Prize, ts23#192 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k4b1B/Pp2p1n1/1P5P/1p6/4K3/1P2P3/8/8 w - - 0 1"]
+
+ 1. h7 (1. hxg7 $2 Bxg7 2. Bxg7 b4) (1. Bxg7 $2 e5) (1. Ke5 $2 Ne6 2. h7 Ng5) 1... e5 (1... Ne6 2. Kf5) 2. Kd3 (2. Kxe5 $2 b4 3. Kf6 Ne8+ 4. Kg6 Nf6 5. Bxf6 Bg7) 2... b4 3. Kd2 e4 4. Kc2 Be7 (4... Ne6 5. Bf6 Bg7 6. Bxg7 Nf8 7. h8=N) 5. Bxg7 Bf8 6. h8=N Bxg7 7. Ng6 Bd4 8. exd4 e3 9. Nf4 e2 10. Nd5 e1=Q 11. Nc7# 1-0  

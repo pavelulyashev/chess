@@ -1,0 +1,10 @@
+[Event "us21#045 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Montvida E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K1b1/1N3p2/1P2N3/2Rp2p1/k4b2/2R5/7p/3r4 w - - 0 1"]
+
+ 1. Rb5 Re1 $1 (1... Kxb5 2. Rb3+ Kc6 (2... Ka6 3. Nec5#) 3. Ned8#) (1... fxe6 2. Rcb3 Bd6 $1 3. Nxd6 h1=Q (3... Rd4 4. b7 h1=Q 5. b8=Q) 4. Nb7 Qh5+ 5. Kd8) ( 1... h1=Q 2. Rcb3 Bd6 3. Nec5+ Bxc5 4. Nxc5#) (1... Bd6 2. Rcb3 fxe6 3. Nxd6 h1=Q 4. R5b4+ Ka5 5. Nb7+ Ka6 6. Nc5+ Ka5 7. Rb5#) 2. Rcb3 Rxe6+ 3. Kf8 $1 Bd6+ 4. Nxd6 Rxd6 $1 5. R3b4+ Ka3 6. Rb1 Ka4 7. R5b2 1-0  

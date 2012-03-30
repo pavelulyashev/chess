@@ -1,0 +1,10 @@
+[Event "2nd hm WCCC MOSCOW {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Visokosov A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7n/4p3/6p1/5P1P/4RPP1/8/3r4/1bk3K1 w - - 0 1"]
+
+ 1. Re1+ (1. Rc4+ $143 Rc2 2. Rxc2+ Bxc2 3. fxg6 Nxg6 (3... Bxg6 $143 4. hxg6 Nxg6 5. f5 Ne5 6. g5 Nf3+ 7. Kf2 Nxg5 8. Ke3 Kc2 9. Kd4 Nh7 10. Kd5 Nf8 11. Kc6 Kd3 12. Kc7 $11) 4. hxg6 Bxg6 5. f5 Be8 6. Kg2 Kc2 7. Kg3 Kc3 8. Kf4 Kd4 {zz} 9. g5 Kd5 {zz} 10. g6 Kd6 11. g7 Bf7 12. Ke4 Bg8 13. Kf4 Bd5 14. Kg5 Ke5 $19) 1... Rd1 2. Rxd1+ Kxd1 3. hxg6 (3. fxg6 $143 Bxg6 4. hxg6 (4. f5 $144 Be8 5. Kf2 Nf7 6. Kg3 Ke2 7. Kf4 Bd7 8. g5 (8. Ke4 $144 Bc6+ 9. Kf4 Bf3 $19) 8... Nd6 9. g6 Bxf5 $19) 4... Nxg6 5. f5 Ne5 6. g5 Ke2 7. Kg2 Ke3 8. Kg3 Ke4 9. g6 Nd7 10. Kg4 Nf6+ 11. Kg5 Ne8 12. g7 Nxg7 13. f6 Ne6+ 14. Kg6 Nf4+ 15. Kg5 e5 16. f7 Ne6+ 17. Kf6 Kd5 $19) 3... Nxg6 4. fxg6 Bxg6 5. f5 Be8 6. Kf1 {zz} Kd2 7. Kf2 { zz} Kd3 8. Kf3 {zz} Kd4 9. Kf4 {zz} Kd5 10. g5 {zz} Bf7 (10... Ba4 $144 11. Ke3 Bd7 12. f6 $11) 11. g6 Bg8 12. f6 exf6 13. Kf5 $11 { "Depth and complexity for the solver, with these reciprocal zugzwangs."} 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "4th Comm. HvdH 50 JT {m}"]
+[Site "?"]
+[Date "2011.11.04"]
+[Round "?"]
+[White "Golubev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2r1k1q1/1pPR1p2/3P3p/5N1P/6pP/8/7P/2K5 w - - 0 1"]
+
+ 1. Re7+ Kf8 2. d7 Rxc7+ 3. Kd1 $1 (3. Kd2 $2 Rxd7+ 4. Rxd7 Ke8 5. Rc7 Qh7 6. Nd6+ Kd8 $1 7. Rxb7 g3 8. hxg3 Qg7 9. Nxf7+ Kc8 10. Nd6+ Kd8 11. Rxg7 { stalemate}) 3... Rxd7+ 4. Rxd7 Ke8 5. Rxb7 Qh7 6. Nd6+ Kf8 7. Kd2 $1 {zz} 7... Kg8 8. Rb8+ Kg7 9. Ne8+ Kf8 10. Nf6+ $18 1-0  

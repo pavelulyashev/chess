@@ -1,0 +1,10 @@
+[Event "Mihajloski 60 JT, 2006, 2 Honorable Mention {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "4Brk1/3p2q1/2pPP1P1/6K1/2pP1P2/2P4p/3P3P/8 w - - 0 1"]
+
+ {Gewinn     Pawns against Queen/Rook  Knight-promotions on e8 and d8 in one main variant     Gesendet an Zlatko Mihajloski 60 JT     #} 1. Bf7+ Kh8 {main} (1... Rxf7 {main} 2. exf7+ Kf8 (2... Kh8 3. f5 Qf8 4. f6 $18) 3. f5 Qh8 4. f6 c5 5. g7+ $18) 2. e7 (2. f5 $2 dxe6 3. f6 Qxf7 4. gxf7 Rxf7 5. Kf4 Kg8 $1 6. Ke5 Kf8 7. Kxe6 Ke8 $19) 2... Rg8 $1 {main} (2... Rxf7 {main} 3. e8=Q+ Rf8 4. Qe7 (4. Qe5 $2 Qxe5+ 5. dxe5 Kg7 6. f5 Ra8 7. f6+ Kf8 8. Kh6 Kg8 9. f7+ Kf8 10. Kh7 Rb8 $11) 4... Qxe7+ (4... c5 5. f5 cxd4 6. f6 $18) (4... Rg8 5. f5 Rf8 6. f6 $1 (6. d5 cxd5 7. f6 $18) 6... Rxf6 7. Qxf6 $18) 5. dxe7 Re8 6. Kf6 Kg8 7. f5 $18 ({or} 7. d5 cxd5 8. f5 $18 Rc8 9. Kg5 Re8 10. f6) 7... Rb8 8. Kg5 (8. d5 cxd5 9. Kg5 Re8 10. f6 $18) 8... Re8 9. f6 $18) (2... Rc8 3. f5 Rg8 4. e8=Q Rxe8 5. Bxe8 Qf8 6. Bf7 Qxd6 7. f6 $18) (2... Rb8 3. f5 Ra8 4. f6 Ra5+ 5. d5 $18) 3. Bxg8 (3. f5 $4 Qxf7 $19) 3... Qxg8 4. f5 c5 5. dxc5 Kg7 $3 {main} (5... Qc8 {main} 6. Kh6 $1 (6. c6 $2 dxc6 7. Kh6 c5 8. f6 Qe6 $1 $11) 6... Qg8 7. c6 $1 dxc6 (7... Qg7+ 8. Kg5 $18) 8. f6 $1 (8. d7 $2 Qg7+ $19) 8... Qe6 9. f7 $18) 6. c6 $1 (6. f6+ $2 Kh8 7. f7 Qxg6+ 8. Kxg6 $11) 6... Qd5 $1 7. e8=N+ $3 (7. e8=Q $2 Qg2+ 8. Kh5 Qf3+ 9. Kg5 Qg2+ 10. Kh4 Qf2+ $11) 7... Kf8 8. cxd7 Qxd2+ ( 8... Qg2+ 9. Kh6 (9. Kf6 $18) 9... Qxd2+ 10. Kh7 Qg5 11. g7+ Kf7 12. d8=N+ $3 Qxd8 13. g8=Q#) (8... Qa8 9. Kf6 Qd8+ 10. Ke6 $18 (10. Ke6 Qa8 11. Nc7 Qe4+ 12. Kf6 Qh4+ 13. Ke5 Qe1+ 14. Kd5 Qxd2+ 15. Kc6 Qg2+ 16. Nd5 Qg5 17. f6 $18)) 9. Kh5 Qe2+ 10. Kh6 Qe3+ 11. Kh7 Qg5 12. g7+ Kf7 13. d8=N+ $3 (13. g8=Q+ $2 Qxg8+ 14. Kh6 Qh8+ 15. Kg5 Qxc3 $1 16. d8=Q Qe3+ 17. Kh5 Qf3+ 18. Kh6 Qf4+ 19. Qg5 Qxg5+ 20. Kxg5 c3 $3 21. d7 Ke7 22. f6+ Kxd7 23. f7 c2 24. f8=Q c1=Q+ $11) (13. d8=Q $4 Qh5# (13... Qxg7+ 14. Nxg7 $11)) 13... Qxd8 14. g8=Q# ({ Loss-of-Time-Dual} 14. Nf6 Qxf6 (14... Kxf6 15. g8=Q Qd7+ 16. Kh6 Kxf5 17. Qd5+ Kf6 18. Kh5 Qe8+ 19. Kg4 $18) 15. g8=Q#) *  

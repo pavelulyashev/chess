@@ -1,0 +1,10 @@
+[Event "tt22#2129 @2 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1q1R4/6Q1/5R2/8/8/8/2K1k1p1/8 b - - 0 1"]
+
+ 1... Qb1+ $1 2. Kc3 $1 (2. Kxb1 $2 g1=Q+ 3. Kc2 (3. Qxg1) 3... Qc5+ $1 (3... Qxg7 4. Re8+)) 2... Qc1+ 3. Kb4 $1 Qc5+ 4. Ka4 (4. Kxc5 $2 g1=Q+ 5. Qxg1) 4... Qc4+ 5. Ka5 Qc5+ 6. Ka6 Qa3+ 7. Kb7 $1 (7. Kb6 $2 g1=Q+ 8. Qxg1 Qa7+ 9. Kc6 Qc7+ 10. Kd5 Qe5+ 11. Kc4 Qc3+ 12. Kb5 Qa5+ 13. Kc6 Qc7+) 7... Qa7+ $1 8. Kxa7 g1=Q+ 9. Ka6 $1 (9. Rf2+ $1 {cook PL}) 9... Qxg7 10. Re8+ Kd3 11. Rd6+ Kc4 12. Rc8+ Kb4 13. Rb6+ Ka4 14. Rc4+ $1 Ka3 15. Rc5 1-0  

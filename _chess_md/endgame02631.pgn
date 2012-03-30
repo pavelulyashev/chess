@@ -1,0 +1,10 @@
+[Event "1 Prize ts69 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3b4/P7/1r2P3/2R2K2/8/1b6/7k w - - 0 1"]
+
+ 1. a7 Ra5 (1... Bxe5+ $144 2. Ke4 $11) 2. e6 $1 Bxe6 (2... Ba4 $144 3. e7 Rxa7 4. Re4 $11) 3. Re4 Bc1+ 4. Kg3 Ra3+ 5. Kf2 Ra2+ 6. Kg3 $1 (6. Ke1 $143 Bd2+ $19 ) (6. Kf1 $143 Bh3+ $19) 6... Rg2+ 7. Kf3 (7. Kh4 $143 Bg5+ 8. Kh5 Bf7#) 7... Bd5 8. a8=Q Bxa8 $11 1/2-1/2  

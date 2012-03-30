@@ -1,0 +1,10 @@
+[Event "tp47 {c} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Kauder I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/8/4P3/6r1/6k1/3R4/3K4/6B1 w - - 0 1"]
+
+ 1. Rd4+ (1. Kc3 $2 Re5 2. Re3 Bd6 3. Rxe5 Bxe5+ 4. Kc4 Bf6 5. Kd5 Kf5) 1... Kh5 (1... Kh3 2. e7 Re5 3. Rd3+ Kg2 4. Bc5 $1 Ba7 $1 5. Rg3+ $3 Kxg3 6. Bd6) 2. e7 Re5 3. Rd5 Rxd5+ 4. Bd4 Rxd4+ 5. Ke3 Rb4 6. e8=Q+ Kg4 7. Qg8+ $1 Kh4 8. Qf8 $1 Ba7+ 9. Kf3 Rb3+ 10. Ke2 $1 Rb2+ 11. Kd1 Rb1+ 12. Kc2 Rb7 13. Qf4+ 1-0  

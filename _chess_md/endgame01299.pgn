@@ -1,0 +1,10 @@
+[Event "2nd Honourable Mention {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Eilazian E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7r/8/nPR3Pn/8/2N1k3/7K/8/8 w - - 0 1"]
+
+ 1. b7 (1. g7 Rh7) 1... Nb8 (1... Nf5+ 2. Kg4 Nb8 3. Rc8) 2. Nd6+ (2. Rc8 Rg8 3. Kh4 Kf4 4. Kh5 Ng4 5. Rxg8 Nf6+ 6. Kh6 Nxg8+ 7. Kh7 Nf6+ 8. Kg7 Kg5 9. Ne5 (9. Kf7 Nc6) 9... Kf5 10. Nf3 Ng4) 2... Kd5 (2... Kf3 3. Rc3+ Kf4 4. Rc4+ Kf3 (4... Ke5 5. Rc8) 5. Rh4 Rd8 6. Rxh6 Rxd6 7. Rh8 Rxg6 8. Rf8+ Ke4 9. Rxb8) (2... Ke5 3. Rc8 Rg8 4. Nf7+ Kd5 5. Nxh6 Rxg6 6. Nf7 Rb6 7. Rxb8 Kc6 8. Nd8+ Kd7 9. Ra8 Kc7 10. Rc8+ Kd7 11. b8=Q) 3. Rc8 Ng8+ (3... Rg8 4. Nf5 Rxg6 5. Ne7+ Ke6 6. Nxg6) 4. Kg2 (4. Kg3 Kxd6 5. Rxb8 Kc7 6. Rf8 Kxb7 7. Rf7+ Kc6 (7... Ne7 8. Rxe7+ Kc6 9. Kf4 Kd6 10. Re1 Rg8 11. Kg5) 8. Rh7 Ne7 9. Rxh8 Kd5 10. Rh5+ Ke6 11. g7 Kf6 (11... Kf7)) (4. Kg4 Kxd6 5. g7 (5. Rxb8 Nf6+) 5... Rh1 6. Rxb8 Rg1+ 7. Kf4 Kc7 8. Rxg8 Kxb7) 4... Kxd6 5. Rxb8 (5. g7 Rh6 6. Rxb8 Rg6+ 7. Kf3 Kc7 8. Rxg8 Kxb7) 5... Kc7 6. Rd8 (6. Rf8 Kxb7 7. Rf7+ Ne7 8. Rxe7+ Kc6 9. Kf3 Kd6 10. Ra7 Ke5 11. Kg4 Kf6 12. Ra6+ Kg7 13. Kg5 Ra8 14. Rxa8 {stalemate}) 6... Kxb7 7. Rd7+ Kc6 8. Rh7 Ne7 9. Rxh8 Nxg6 10. Rh6 1-0  

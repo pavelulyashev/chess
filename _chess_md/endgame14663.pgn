@@ -1,0 +1,10 @@
+[Event "tc36#154 @1 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Hasek J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4q3/8/8/p1b2N2/k1P5/P5pB/KB6/8 w - - 0 1"]
+
+ 1. Ne7 (1. Ne3 $1 {cook}) (1. Nd6 $1 {cook}) 1... Qxe7 (1... Bxa3 2. Nd5 Qc6 ( 2... Bxb2 3. Bf5) 3. Bd7 Qxd7 4. Nb6+ Kb4 5. Bxa3+ Kc3 6. Nxd7) 2. Bg4 $1 (2. Bf5 $2 Bxa3 3. Bc2+ Kb4 4. Bxa3+ Kxc4 5. Bxe7 g2) 2... Bxa3 3. Bc3 $1 Qd6 4. Bh5 Qd8 5. Bg6 1-0  

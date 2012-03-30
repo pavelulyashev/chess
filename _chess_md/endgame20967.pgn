@@ -1,0 +1,10 @@
+[Event "2 Commendation, Kasparyan 100 MT {m}"]
+[Site "?"]
+[Date "2010.07.02"]
+[Round "?"]
+[White "Pallier A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1P3Pp1/3P2Pk/2P4p/b1B4P/5P1K/1p5P/1N4r1 w - - 0 1"]
+
+ 1. b8=N $1 Bc2 2. f8=R $1 Bxb1 (2... Bxg6 3. Rh8+ $18) 3. Nc6 (3. Nd7 $2 Bf5+ 4. Rxf5 b1=Q 5. Rf8 Qb2 6. Rh8+ Kxg6 $11) 3... Bf5+ 4. Rxf5 b1=Q 5. Rf8 Qb2 $1 (5... Qb7 6. Rh8+ $18) 6. Rh8+ Kxg6 7. Ne7+ Kf6 8. Rf8+ $1 (8. Nd5+ $2 Ke5 9. Re8+ Kd4 10. Be2 Qb7 11. Nc7 Qc6 12. Re4+ Kc3 13. Ne6 Qd5 $11) 8... Ke5 9. Nc6# 1-0  

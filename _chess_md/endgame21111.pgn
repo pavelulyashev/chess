@@ -1,0 +1,10 @@
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "*"]
+[Result "*"]
+[FEN "r3k3/3p2n1/3Kp3/1P6/8/8/8/2R3B1 w q - 0 1"]
+
+ 1. b6 $1 (1. Kc7 $2 e5 2. b6 Ne6+ 3. Kd6 Nd8 4. Rb1 Nf7+ 5. Kc7 Nd8 6. Rb5 Ne6+ 7. Kd6 O-O-O $11) 1... Kd8 2. b7 Ne8+ $1 3. Ke5 Rb8 4. Rc8+ Rxc8 5. Bb6+ Nc7 6. Kd6 e5 7. Ba5 $1 (7. Bxc7+ $2 Rxc7 8. b8=Q+ Rc8 9. Qb6+ Ke8 10. Kxe5 Rc6 $1 $11 ) 7... e4 8. Bb6 e3 9. Bxc7+ $1 (9. Ba5 $2 Rb8 $1 10. Bxc7+ Ke8 11. Bxb8 e2 $11 ) 9... Rxc7 10. b8=Q+ Rc8 11. Qb6+ Ke8 12. Qxe3+ $18 *  

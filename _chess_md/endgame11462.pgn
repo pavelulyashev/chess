@@ -1,0 +1,10 @@
+[Event "Comm {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4n3/3P2p1/pp2pkP1/2p2pqP/2K1P2p/1p3P1P/2b5/8 w - - 0 1"]
+
+ 1. d8=Q+ Ke5 2. Qxg5 Nd6+ (2... b5+ 3. Kc3 b4+ 4. Kd2 $1 Nd6 5. f4+ Kxe4 6. Qg2+ Kxf4 7. Qh2+ Kg5 8. Qxd6 Be4 9. Kc1 Kxh5 10. Qxe6 $18) (2... b2 3. f4+ Kxe4 4. Qg2+ Kxf4 5. Qxc2 Nd6+ 6. Kb3 $18) 3. Kc3 Nb5+ (3... b5 4. f4+ Kxe4 5. Qg2+ Kxf4 6. h6 $18) 4. Kd2 (4. Kb2 $5 c4 $19) 4... c4 (4... Nd4 5. Qd8 $1 Kf4 6. Kc1 ({also} 6. h6 Kxf3 (6... b2 7. Qxb6 b1=Q 8. Qxb1 Bxb1 9. hxg7 Nxf3+ 10. Kc3 Bxe4 11. g8=Q Bd5 12. g7 Ke4 13. Qd8 e5 14. Qd6 Nd4 15. Qxc5 $18) 7. h7 b2 8. Qxd4 $1 cxd4 (8... b1=Q 9. Qe3+ Kg2 10. Qe2+ $18) 9. Kxc2 d3+ 10. Kxb2 d2 11. h8=Q d1=Q 12. Qh5+ Kxe4 13. Qxd1 $18) 6... Kxf3 (6... e5 7. h6 $18 c4 8. Kb2 b5 9. Qxh4+ $18) 7. h6 Ne2+ 8. Kd2 c4 9. Qxb6 c3+ 10. Ke1 Nf4 11. hxg7 Nd3+ 12. Kf1 b2 13. g8=Q b1=Q+ 14. Qxb1 Bxb1 15. Qd8 fxe4 16. g7 c2 17. Qf6+ Ke3 18. Qg5+ Kd4 19. g8=Q c1=Q+ 20. Qxc1 Nxc1 21. Qg7+ $18) 5. h6 c3+ 6. Ke3 b2 7. Qf4+ $1 Kf6 8. Qxh4+ (8. h7 $5 b1=Q 9. Qxh4+ Ke5 $11) 8... Kxg6 (8... Ke5 9. Qg3+ ({ also} 9. hxg7 b1=Q 10. Qg3+ Kf6 11. g8=Q $18) 9... Kf6 10. e5+ Ke7 11. hxg7 b1=Q 12. g8=Q $18) 9. h7 b1=Q 10. h8=N# (10. Kf2 $2 Bd3 11. h8=N# {Loss of time }) 1-0  

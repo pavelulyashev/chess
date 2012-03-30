@@ -1,0 +1,10 @@
+[Event "tr25#88 {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Braune R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r6/2p2pP1/ppB2p2/k2KN3/P5p1/6P1/P2P4/8 w - - 0 1"]
+
+ 1.Be8 (1.Bd7 $1 {cook} fxe5 2.Kxe5 Kb4 3.Kf6 Kc5 4.Kxf7 Kd6 5.Be8) 1...Rxe8 2.Nc6+ Kxa4 3.Ne7 Ka3 4.Kc6 Kxa2 5.Kd7 Rb8 6.Nc8   1-0  

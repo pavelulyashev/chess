@@ -1,0 +1,10 @@
+[Event "HM as equal {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Aliev I, Almammadov A"]
+[Black "*"]
+[Result "*"]
+[FEN "1n6/2k4B/8/4K3/p1b5/3p4/3P4/7N w - - 0 1"]
+
+1. Kd4 $1 (1. Bxd3 $5 Bxd3 2. Kd4 a3 3. Kc3 Bc4 4. Nf2 Nc6 5. d3 Bf7 6. Ng4 Nd47. Ne3 Bb3 8. Kxd4 a2 $19) (1. Nf2 $5 a3 $19) 1... a3 2. Kc3 Na6 3. Bxd3 $1 (3.Nf2 $5 Nc5 4. Nxd3 Na4+ 5. Kxc4 a2 $19) (3. Ng3 $5 a2 4. Kb2 Nb4 5. Bxd3 Bxd3$19) 3... Bxd3 4. Kb3 Nc5+ 5. Kxa3 Ne4 6. Kb2 Kd6 (6... Bf1 7. Kc2 Bg2 8. d3$11) 7. Kc1 Ke5 8. Kd1 Kf4 9. Ke1 Kf3 10. Nf2 Nxf2 {stalemate. An interestingenough mutual struggle which lead to a known stalemate.} *

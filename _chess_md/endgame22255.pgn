@@ -1,0 +1,10 @@
+[Event "us07 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Sochniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "b7/1n1PP3/1P1P4/4P3/1N6/6k1/5b1p/7K w - - 0 1"]
+
+ 1. Nc6 $1 Nd8 $1 (1... Nxd6 2. d8=N $1) 2. b7 $1 Bxb7 3. exd8=N $1 Ba8 (3... Ba6 4. Ne6 Bf1 (4... Bd3 5. Ng5) 5. Nf4) 4. e6 (4. Nb7 $2 Bxb7 5. d8=N Ba6 $1 6. Ne6 Bd3 $1 7. Ng5 Be3 8. Nb4 Bb1 9. Nd5 Bxg5 10. Nc3 Bd3 11. e6 Kh3 12. e7 Bf1) 4... Bb6 5. e7 Bxd8 6. exd8=N $1 Kh3 7. Nb7 $1 Bxb7 8. d8=N $1 Ba8 (8... Ba6 9. Ne6 $1) 9. d7 Kg3 10. Nb7 Bxb7 11. d8=N $1 Ba8 12. Nb7 Bxb7 1/2-1/2  

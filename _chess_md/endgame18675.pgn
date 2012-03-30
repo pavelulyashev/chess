@@ -1,0 +1,10 @@
+[Event "ts23 {tw} {m} {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/1B3k2/8/1N6/8/3p4/1K6/3b4 w - - 0 1"]
+
+ 1. Nd7 $1 (1. Kc1 $2 Be2 2. Nd7 d2+ 3. Kxd2 Bxb5) (1. Nh7 $2 d2 2. Nc3 (2. Kc3 Be2) 2... Bg4 3. Ng5+ Kg6 4. Nge4 d1=Q 5. Nxd1 Bxd1) 1... d2 (1... Ba4 2. Bc6 $1) 2. Nc3 Ba4 3. Ne5+ Ke6 (3... Kf6 4. Ng4+ Kg5 5. Nf2) 4. Nd3 $1 d1=Q 5. Nxd1 Bxd1 6. Kc1 $1 Bg4 (6... Bb3 7. Nc5+) (6... Ba4 7. Nc5+) (6... Be2 7. Nf4+) ( 6... Bh5 7. Nf4+) 7. Bc8+ 1-0  

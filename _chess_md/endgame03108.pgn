@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Marwitz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3B4/b4P2/2pkp3/1p6/4P3/2K5 w - - 0 1"]
+
+ 1. f6 Bd8 (1... b2+ 2. Kxb2 Bd2 3. f7 Bh6 (3... c3+ 4. Kc2 Bh6 5. Be7 Kc4 6. f8=Q Bxf8 7. Bxf8 $18) 4. Be7 Kd5 5. f8=Q Bxf8 6. Bxf8 Kd4) 2. f7 (2. Be7 Bc7 3. f7 Bf4+ 4. Kb1 Bh6) 2... Bg5+ 3. Kb2 Bh6 4. Be7 Ke5 (4... Ke3 5. Bg5+) (4... Bg7 5. Bf6+) 5. f8=Q Bxf8 6. Bxf8 Kf4 7. Bh6+ (7. Bc5 Kg3 8. Kc3 Kg2 9. Bd4 e3 10. Kxc4) 7... Kg3 8. Bc1 Kf2 9. e3 Ke1 10. Kc3 Ke2 11. Kd4 Kd1 12. Bb2 Kc2 13. Bc3 b2 14. Bxb2 Kxb2 15. Kxc4 1-0  

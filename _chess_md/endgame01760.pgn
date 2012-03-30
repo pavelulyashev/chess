@@ -1,0 +1,10 @@
+[Event "1 Prize Thиmes-64 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k2n3/1p6/1P2nP2/7K/8/2B5/8/8 w - - 0 1"]
+
+ 1. f7 (1. Be5+ $143 Kc8 2. f7 Kd7 $11) 1... Nd6 $1 (1... N8g7+ $144 2. Kg6 Kc8 (2... Nf8+ $144 3. Kxg7 Nd7 4. Kg6 Kc8 5. Kf5 Kd8 6. Bb4 $18) 3. Bxg7 Kd7 4. Kf6 Kd6 5. Bh6 Kd7 6. Bc1 Nf8 7. Ba3 Nh7+ 8. Kf5 Kd8 9. Kg6 $18) (1... N8c7 $144 2. bxc7+ Kxc7 3. Bb4 Kd7 4. Kg6 b6 5. Kf6 b5 6. Ba3 $18) 2. Be5 Ka8 3. Bxd6 Nd8 (3... Nf4+ $144 4. Kg4 Ne6 5. Bc5 Kb8 6. Kf5 $18) 4. f8=N Ne6 5. Nd7 ( 5. Ng6 $143 Nf4+ 6. Nxf4 $11) (5. Nh7 $144 $2 Ng5 6. Nf8 (6. Nf6 $143 Ne4 7. Ne8 Nf6+ 8. Nxf6 $11) 6... Ne6 7. Nd7 $18 {Repeat the position. Loss of time.}) 5... Nc5 (5... Nf8 $144 6. Ne5 Ng6 {(Cd7 transpose)} 7. Nc4 Ne5 $18 { transpose main line}) 6. Ne5 (6. Nf6 $143 Ne4 $11) (6. Nb8 $143 Nd7 $11) 6... Nd7 (6... Nd3 $144 7. Nc4 Nb2 8. Na3 Nc4 $18 {transpose to main line}) 7. Nc4 Ne5 8. Na3 $1 (8. Na5 $143 Nc4 $11) (8. Nd2 $143 Nc4 $11) (8. Ne3 $143 Nc4 $11) 8... Nc4 9. Nb5 $1 Nxb6 (9... Na3 $144 10. Bxa3 $18) (9... Ne3 $144 10. Kg6 Nc2 11. Kf7 Nd4 12. Nc7+ Kb8 13. Ke8 Kc8 14. Bg3 Nf5 15. Be5 Ne3 16. Nb5 $18) (9... Nxd6 $144 10. Nxd6 Kb8 11. Kg4 Ka8 12. Nb5 Kb8 13. Na7 Ka8 14. Kf4 Kb8 15. Ke4 Ka8 16. Kd5 Kb8 17. Kd6 Ka8 18. Nc6 bxc6 19. Kc7 c5 20. b7+ Ka7 21. b8=Q+ Ka6 22. Qb6#) 10. Nc7+ Ka7 (10... Kb8 $144 11. Nd5+ Ka7 12. Bc5 $18) 11. Bc5 $18 { "An original realisation of a S-vs.-S perpetual attack idea. By precise manoeuvres W, who has to win, avoids positionally drawing. The introductory play with its S-promotion has been adroitly constructed."} 1-0  

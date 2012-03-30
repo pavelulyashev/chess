@@ -1,0 +1,10 @@
+[Event "tk16 {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Platov V, Platov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n2/2K2p2/6p1/P2pk2N/8/2P2P2/1R3P2/4q3 w - - 0 1"]
+
+ 1. Re2+ Qxe2 2. f4+ Ke6 3. f5+ Ke7 (3... gxf5 4. Nf4+ Ke7 5. Nxe2 Ne6+ 6. Kc6 Kd8 7. a6 Kc8 8. a7 Nc7 9. Nf4) (3... Ke5 4. f4+ Ke4 5. Ng3+) 4. f6+ Ke6 5. Nf4+ 1-0  

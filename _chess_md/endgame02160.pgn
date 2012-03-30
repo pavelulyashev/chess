@@ -1,0 +1,10 @@
+[Event "Caissa {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Eucken K"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4K2B/6N1/n2b1r2/8/3r4/kP2R3/8 w - - 0 1"]
+
+ 1. Ne5 (1. b4+ Kb3 2. bxa5 Rf7+ 3. Ke8 Rxh7) (1. Nf4 Rf7+ 2. Ke8 Rb3 3. Nxd5 Rxh7) 1... Rxe5+ 2. Rxe5 Nc6+ 3. Kd6 Be4+ 4. Rd5 $1 {Nowotny} Rxd5+ 5. Kxc6 Rd4+ (5... Rf5+ 6. Kd6 Rf4 7. Ke5) 6. Kc5 Rd5+ (6... Ra4 7. Kb5) 7. Kc6 (7. Kc4 Bf3) 7... Re5+ 8. Kd6 Re8 9. Kd7 {positional draw - perpetual attack} 1/2-1/2  

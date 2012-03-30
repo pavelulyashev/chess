@@ -1,0 +1,10 @@
+[Event "b023 @1 @2 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Locock C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k4b/1p2nB2/1P3p2/N4p2/2p2Pb1/2P3K1/q7/2Q5 w - - 0 1"]
+
+ 1. Be6+ (1. Qh1 $1 {cook} Qxa5 2. Be6+ Kd8 3. Qxh8+ Ng8 4. Qxg8+ Ke7 5. Qf7+ Kd6 6. Qd7+ Kc5 7. Qc7+ Kb5 8. Bxc4+ Ka4 9. Qd7+ Ka3 10. Qd2) 1... Kd8 $1 (1... Kb8 2. Qh1) 2. Nxb7+ (2. Qh1 $1 {cook} Bg7 3. Qxb7) 2... Ke8 3. Bxc4 Qa8 $1 4. Qh1 Qa3 5. Qxh8+ 1-0  

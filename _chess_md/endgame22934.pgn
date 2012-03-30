@@ -1,0 +1,10 @@
+[Event "c.  Zadachy i Etiudy {m}"]
+[Site "?"]
+[Date "2010.12.05"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5N2/5P2/2B5/5q1N/4R3/4Kp2/5P1p/7k b - - 0 1"]
+
+ 1... Qxf7 {main line B Now, at first sight is better the move 2.Sg3+ for rescue of wS. However, this is only a try. So, White sacrifice the Sh5:} ({main } 1... Qxh5 2. Ng6 Qc5+ 3. Kxf3 $1 Qc3+ 4. Kg4 $1 (4. Kf4 $2 Qf6+ $1 5. Ke3 Qc3+ 6. Kf4 Qf6+ 7. Ke3 Qc3+ {perpetual check}) 4... Qxc6 5. Re1+ Kg2 6. f8=Q Qxg6+ 7. Kh4 Qh7+ ({or also} 7... Qd3 8. Qf6 $3 Qh7+ 9. Kg5 $1 Qg8+ $1 10. Kh6 $3 h1=Q+ 11. Rxh1 Kxh1 12. f4 $3 $18) 8. Kg5 $1 Qd3 9. Rc1 $3 Qd2+ $1 10. Qf4 Qd8+ 11. Kg4 $1 Qd7+ (11... Qg8+ 12. Qg5 $18) 12. Qf5 $1 Qg7+ 13. Qg5 $18) 2. Ne6 $1 (2. Ng3+ $2 Kg2 3. Ne6 Qa7+ 4. Rd4 Qa3+ 5. Rd3 Qc1+ $11) 2... Qxh5 3. Rc4 $1 (3. Rd4 $2 Qe5+ 4. Kxf3 (4. Be4 Qxe6 5. Kxf3 Qb3+ 6. Ke2+ Kg1 $11) 4... Qh5+ 5. Rg4 (5. Kg3+ Kg1 $11) 5... Qd5+ 6. Bxd5 {stalemate}) 3... Qe5+ 4. Kxf3 Qb2 $1 5. Rd4 $1 Qc2 6. Be4 $1 (6. Ke3+ $2 Kg1 7. Rg4+ Kf1 8. Bg2+ Ke1 $11) 6... Kg1 $3 (6... Qb3+ 7. Ke2+ Kg1 8. Rd1+ Qxd1+ $1 9. Kxd1 Kxf2 10. Ng5 $1 $18 ) (6... Qc3+ 7. Ke2+ Kg1 8. Rd1+ Qe1+ 9. Rxe1#) 7. Bxc2 {Phoenix!->} 7... h1=Q+ 8. Ke2 $1 (8. Ke3 $2 Qh3+ 9. Ke2 Qxe6+ $11) 8... Qh5+ 9. f3 Qb5+ $1 (9... Qe5+ 10. Re4 $18) (9... Qh2+ 10. Kd1 $18) 10. Ke3 $1 (10. Bd3 $2 Qb2+ $1 11. Ke3 Qc1+ $1 12. Ke4 Qc6+ 13. Ke5 Qxf3 $11) (10. Rd3 $2 Qe5+ 11. Re3 Qb5+ 12. Kd1 Qd7+ 13. Kc1 Kf2 14. Nc5 Qa7 $1 15. Rc3 Qa1+ 16. Kd2 Qe1+ 17. Kd3 Kxf3 $11) 10... Qe5+ $1 11. Re4 Qc3+ $1 12. Bd3 Qc1+ 13. Ke2 $1 (13. Kd4 $2 Qa1+ 14. Kc4 Qc1+ 15. Kd5 Qd1 16. Rd4 Qxf3+ $11) 13... Qf1+ (13... Qb2+ 14. Kd1 $1 Qa1+ 15. Kd2 Qa2+ 16. Bc2 Qa5+ 17. Kd3 Qa3+ 18. Ke2 Qa6+ 19. Ke3 Qa3+ 20. Kf4 Kf2 21. Nd4 $18) 14. Kd2 $1 Qxf3 15. Nf4 $3 ({try} 15. Re1+ $5 Kh2 $1 (15... Kg2 $2 { pin->} 16. Be4 $18) (15... Kf2 $2 16. Rf1+ $18) 16. Re2+ Kg1 $1 (16... Kg3 $2 { pin->} 17. Re3 $18) (16... Kh1 $2 {pin->} 17. Be4 $18) 17. Re1+ Kh2 { positional draw}) 15... Qf2+ 16. Ne2+ $1 {selfpin} 16... Kf1 {pin->} 17. Rf4 { and wins} (17. Bc4 $2 Qe1+ (17... Qc5 $2 18. Nc3+ Kg2 19. Bd5 $18) 18. Ke3 Qf2+ 19. Kd2 Qe1+ {perpetual check}) 1/2-1/2  

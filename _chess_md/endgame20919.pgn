@@ -1,0 +1,10 @@
+[Event "3 Honorable Mention, ARVES 20th Anniversary Ty. {m}"]
+[Site "?"]
+[Date "2008.10.07"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "6k1/2p5/6K1/3P2p1/3R4/2p3p1/3P2b1/8 w - - 0 1"]
+
+ 1. d6 $1 (1. dxc3 $5 Bf3 2. Rb4 (2. d6 cxd6 3. Rxd6 Be4+ 4. Kf6 g2) 2... Kf8 3. Kf6 Ke8 4. Ke6 Kf8 5. Rb8+ Kg7 6. Rb1 g2 7. Rg1 Kf8 8. c4 (8. d6 cxd6 9. Kxd6 Kf7 10. Ke5 Kg6 $11) 8... Ke8 9. c5 Bg4+ 10. Ke5 Bf3 11. d6 Kd7 12. dxc7 Kxc7 $11) 1... cxd6 2. Rc4 $1 (2. dxc3 $5 Kf8 3. Kf6 (3. Rg4 Ke7 4. Rxg3 Be4+ $11) 3... Bf3 4. Rxd6 Ke8 $11) (2. Rb4 $5 Kf8 3. dxc3 Bd5 $11) 2... Bh3 (2... Kf8 3. Rxc3 g4 4. Kf6 $1 Bb7 (4... Kg8 5. Rxg3 Bf3 6. Rg1 Kh8 7. Rc1 $18) (4... Ke8 5. Ke6 Bb7 6. Rxg3 $18) 5. Rc7 Ba6 6. Rf7+ Ke8 7. Rg7 g2 8. Rxg4 $18) (2... Bb7 3. Rb4 Kf8 (3... g2 4. Rxb7 Kf8 5. Rb1 $18) 4. Rxb7 g2 5. Rb1 $18) 3. Rxc3 (3. Rb4 $5 Kf8 4. dxc3 Ke7 5. Kxg5 Bf1 $11) 3... g2 4. Rg3 $1 (4. Rc1 $5 Bg4 5. Rb1 Kf8 6. Kxg5 Be2 $11) 4... g4 5. Re3 $1 (5. Ra3 $5 Kf8 6. Ra1 Ke7 7. Kf5 g3+ 8. Kf4 Be6 9. Kxg3 Bd5 $11) 5... Kf8 6. Re1 {zz} d5 {main B} (6... g1=Q 7. Rxg1 Ke7 8. Kf5 Kd7 9. Rc1 Ke7 (9... g3+ 10. Kf4 $18) 10. Rc7+ $18) ({main A} 6... g3 7. Rg1 $1 $18) 7. d4 $1 {zz and win.} *  

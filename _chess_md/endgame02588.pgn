@@ -1,0 +1,10 @@
+[Event "Wiener Tageblatt {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Reti R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2Q5/2K5/4N3/6p1/k5q1/8 w - - 0 1"]
+
+ 1. Nc3+ $1 Ka1 2. Qa4+ Kb2 3. Qa2+ Kc1 4. Qb1+ Kd2 5. Qb2+ Ke1 6. Qc1+ Kf2 7. Nd1+ $1 Kf3 (7... Ke2 $144 8. Qb2+ Kd3 $18 {Main line}) 8. Qc3+ Ke2 (8... Kf4 $144 9. Qf6+ Ke4 10. Qd4+ (10. Qc6+ $144 $2 Kd3 11. Qa6+ Kd2 12. Qa2+ Kd3 13. Nb2+ Ke4 14. Qd5+ Ke3 15. Nd1+ $18 {loss of time}) 10... Kf3 11. Qd5+ $18) 9. Qb2+ Kd3 (9... Kf3 $144 10. Qb7+ $18) 10. Qb3+ Kd2 11. Qa2+ Kd3 12. Nb2+ $1 Ke3 (12... Kc3 $144 13. Na4+ $18) 13. Nc4+ Kf3 14. Ne5+ 1-0  

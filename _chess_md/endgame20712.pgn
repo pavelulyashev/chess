@@ -1,0 +1,10 @@
+[Event "tk34 {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1P2P1K1/k7/1r2N1p1/8/8/8 w - - 0 1"]
+
+ 1. e7 (1. Nd6 $2 g3 $1) 1... Rxb6+ (1... Rxe4 2. b7) 2. Nd6 Rxd6+ (2... Rb8 3. Nb7+ Kb6 4. Nd8) 3. Kf5 Rd5+ 4. Kf4 (4. Ke4 $2 Rd1) 4... Rd4+ 5. Ke3 Rd1 6. Ke2 (6. Kf2 $2 g3+ $1) 1-0  

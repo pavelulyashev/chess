@@ -1,0 +1,10 @@
+[Event "jr01 te03 @3 @2 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R4qB/4pP2/4P3/p7/K7/7p/4p1pp/7k w - - 0 1"]
+
+ 1. Rb1+ (1. fxg8=Q $2 e1=Q) 1... e1=Q (1... g1=Q 2. fxg8=Q Qxb1 (2... Qd1+ $1 { cook AK} 3. Ka3 e1=Q 4. Qa8+ Kg1 5. Bd4+ (5. Qa7+ Kf1 6. Qa6+ Qde2 7. Rxe1+ Kxe1 8. Bc3+) 5... Qxd4 6. Rxe1+ Kf2 7. Rb1 (7. Qxa5 Qd3+ 8. Kb2 Qd4+ 9. Kc2 Qc4+) 7... Qc3+ 8. Ka2 Qc4+ 9. Ka3 (9. Rb3 a4)) 3. Qa8+ Kg1 4. Bd4+ Kf1 5. Qh1# ) 2. Rxe1+ g1=Q (2... g1=B {main} 3. fxg8=B (3. fxg8=Q $2) (3. fxg8=N $2 Kg2 4. Nxe7 h1=Q 5. Nd5 (5. Nf5 Kf2 6. Re2+ Kxe2 7. Ng3+ Kf3 8. Nxh1 Bc5) 5... Kf2 6. e7 Qxd5 7. e8=Q Qa2+ 8. Kb5 Qd5+ 9. Ka6 Qd6+ 10. Kb7 Qd5+) 3... Kg2 4. Bh7 Kf2 5. Be4 Kxe1 6. Kxa5 Bc5 7. Be5) (2... g1=N {main} 3. fxg8=N (3. fxg8=Q $2) (3. fxg8=B Kg2 4. Bh7 (4. Bd4 h1=Q 5. Bh7 Nf3) (4. Be5 $1 {cook JP/DG} h1=Q 5. Bh7 Nf3 (5... Kf2 6. Be4) 6. Rxh1 Kxh1 7. Be4 Kg2 8. Bd6 Kf2 (8... h2 9. Bxh2) ( 8... exd6 9. e7 h2 10. e8=Q h1=Q 11. Bxf3+ Kxf3 12. Qc6+) 9. Bxe7 h2 10. Bc5+ Kg2 11. e7 h1=Q 12. e8=Q) 4... Kf2 5. Be4 (5. Rxg1 $1 {cook ED/GS} hxg1=Q 6. Bd4+ Kf1 7. Bd3+ Kg2 8. Be4+ Kf1 9. Bxg1 Kxg1 10. Kxa5 Kf2 11. Kb6 Ke3 12. Bh1 Kd4 13. Kc7 Ke5 14. Kd7 Kf6 15. Ba8) 5... Kxe1 6. Be5 (6. Bf6 Ne2 7. Be5 (7. Bxe7 Nc3+) 7... Kf2 8. Kxa5 Ng3) (6. Bh1 Kf2 7. Be5) 6... Kf2 7. Bxh2 (7. Bh1 $1 {cook JP} Nf3 (7... Ne2 8. Bxh2 Nd4 9. Bd5) 8. Bf6 Ke2 9. Kxa5) 7... Nf3 8. Bc7 h2 9. Bxf3 Kxf3 10. Bxh2 Ke4) 3... Kg2 4. Nxe7 h1=Q 5. Nf5 (5. Nd5 $2 Kf2 6. e7 Qxd5 7. e8=Q Qa2+) 5... Kf2 (5... Qh2 6. Be5) (5... Kf3 6. e7 Qh2 7. e8=Q Qa2+ 8. Kb5) 6. Rf1+ (6. e7 Qc6+) 6... Kxf1 7. Ng3+ Kg2 8. Nxh1) 3. fxg8=Q Qxe1 4. Qa8+ Kg1 5. Bd4+ Kf1 6. Qf3+ 1-0  

@@ -1,0 +1,10 @@
+[Event "tt27 @2 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/8/2P5/r7/4p3/B5k1/8/2K5 w - - 0 1"]
+
+ 1. Bd6+ Kf2 2. Bb7 Ra4 3. c7 (3. Kb2 {also win!!} e3 (3... Rc4 4. Kb3 Rc1 5. Ba3) 4. Bc5 (4. c7 $11) 4... Rc4 5. Ba7 Kf3 6. c7+ Kg3 $11 {Kasparjan} 7. Ba6 $3 {Dvoretsky, 1982} (7. c8=Q $2 Rxc8 8. Bxc8 e2) (7. Bb8 $2 Kf2 8. Ba6 Rc6 9. Bb5 Rc5) 7... Rc6 (7... Rxc7 8. Bb8 e2 9. Bxc7+ Kf3 (9... Kf2 10. Bd8) 10. Ba5 Kf2 11. Bd8 $18) 8. Bb5 e2 9. Bb8 Kf2 (9... e1=Q 10. c8=Q+) (9... Rxc7 10. Bxc7+ Kf3 11. Ba5 Kf2 12. Bd8) 10. Bxc6 e1=Q 11. c8=Q $18) 3... Rc4+ 4. Kd2 e3+ 5. Kd3 Rxc7 6. Bxc7 e2 7. Bb6+ Kf1 8. Bc8 e1=N+ 9. Ke3 Ng2+ 10. Kd2 Nf4 11. Be3 Ng2 12. Ba6# 1-0  

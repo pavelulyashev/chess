@@ -1,0 +1,10 @@
+[Event "Die Schwalbe {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "kb6/1rpp4/pp6/2RP4/KPP5/8/B7/8 w - - 0 1"]
+
+ 1. Rc6 $1 b5+ 2. Ka5 $1 (2. Ka3 $2 dxc6 3. dxc6 Ra7 $1 4. c5 a5 $19) 2... dxc6 3. dxc6 Rb6 (3... Ka7 4. c5 $1 Rb6 5. Bd5 Rxc6 6. Bxc6 {stalemate}) 4. c5 Rxc6 5. Bd5 Kb7 6. Bxc6+ $1 (6. Be4 $2 Ba7 7. Bd5 (7. Bxc6+ Kxc6 8. Kxa6 Bxc5 $19) 7... Bb6+ $1 8. cxb6 cxb6#) 6... Ka7 $3 {virtual stalemate} (6... Kxc6 7. Kxa6 {mutual zugzwang} Kd5 8. Kb7 Kc4 9. Kxb8 Kxb4 10. c6 $11) 7. Bxb5 $1 (7. Be4 $2 c6 8. Bxc6 Bc7#) 7... axb5 8. Kxb5 Kb7 9. Ka5 $1 (9. Ka4 $2 Kc6 $1 10. Ka5 Ba7 11. Ka6 Bxc5 $19) (9. Kc4 $2 Ka6 $1 10. b5+ Ka5 $19) 9... Ba7 10. Kb5 { mutual zugzwang} Bb8 11. Ka5 {positional draw} 1/2-1/2  

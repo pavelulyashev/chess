@@ -1,0 +1,10 @@
+[Event "tt06#0451 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Daniel A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p3K/6P1/2n2k2/6p1/N7/8/8 w - - 0 1"]
+
+ 1. Nc2 $1 g3 (1... Ne4 2. Ne3+ Ke5 3. Nxg4+) (1... Ne6 2. Nd4+ Nxd4 3. g7) ( 1... Kf4 2. g7 Ne4 3. Kg6 g3 4. g8=Q g2 5. Kh6 $1 Ng3 6. Qg5+ Kf3 7. Qe3+ Kg4 8. Qf2) (1... Ke5 2. g7 Ne4 3. Ne3 Nf6+ 4. Kh8 Kf4 5. Nd5+) 2. g7 Ne4 3. Ne3+ Ke5 4. Kh8 $1 Nf6 5. Ng4+ Nxg4 6. g8=Q Kf4 7. Qf7+ Ke3 8. Qxd7 1-0  

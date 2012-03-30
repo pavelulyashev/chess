@@ -1,0 +1,10 @@
+[Event "1st Commendation, Nunn-50JT, 2005 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "N7/Pp6/4bk2/7K/4n3/8/8/8 b - - 0 1"]
+
+ {A slight but entertaining study in which first Black and then White sacrifice minor pieces. The zugzwangs are reciprocal, but lack a thematic try leading to the position with the wrong player to move. Still, a neat study which was a pleasure to solve. Basically the same final position has been seen before in Kalashnikov and Selivanov (#7555) and Kakovin and Motor (#28022), but curiously both these precursor studies are unsound (the first is cooked by 3 Kd4 and the second is bust by 4...Nf5!).} 1... Ng3+ {Black's aim is to transfer his knight to d5 in order to paralyse White's queenside forces.} 2. Kh6 (2. Kh4 $2 Nf5+ 3. Kh5 Bf7+ 4. Kg4 Ne3+ 5. Kf3 { followed by ...Nd5 is an easy win, as White can only move his king.}) 2... Nf5+ 3. Kh7 (3. Kh5 $2 Bf7+ {wins as in the previous note.}) 3... Bg8+ $1 { A neat move. Black sacrifices his bishop to transfer his knight to d5.} 4. Kxg8 (4. Kh8 $2 Ne7 5. Nc7 Kf7 {mates next move.}) 4... Ne7+ 5. Kf8 $1 Nd5 { White can only move his king for the moment and he must head for the queenside in an attempt to rescue his knight.} 6. Ke8 Ke6 7. Kd8 Kd6 8. Kc8 Kc6 { However, after the move played Black seems to have secured his forces and is ready to push his b-pawn.} (8... b5 $2 9. Kb7 {even wins for White.}) 9. Nb6 $1 {The key idea. White sacrifices his knight to create a zugzwang position.} Nxb6+ 10. Kb8 $1 {This is a reciprocal zugzwang.} Nd7+ 11. Kc8 $1 { A second one! Not} (11. Ka8 $2 Nc5 12. Kb8 Na6+ 13. Kc8 Nc7 {and Black wins.}) 11... Nb6+ 12. Kb8 1/2-1/2  

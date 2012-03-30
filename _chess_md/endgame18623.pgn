@@ -1,0 +1,10 @@
+[Event "ts23#21 {c} @3 {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2b2r2/5B2/8/8/K3N3/2p5/8/7k w - - 0 1"]
+
+ 1. Bb3 Rf4 (1... Rf3 2. Kb4 Rf4 3. Kxc3 Rxe4 4. Bd5) (1... Be6 2. Bxe6 c2 3. Ng3+ Kg2 (3... Kh2 $1 {cook JN} 4. Ne2 Re8) 4. Ne2) 2. Ka3 Rxe4 3. Bd5 Bf5 4. Kb3 $1 (4. Bxe4+ $2 Bxe4 5. Kb3 c2) 4... Be6 $1 5. Ka3 $1 Bf5 6. Kb3 Be6 7. Ka3 Bxd5 1/2-1/2  

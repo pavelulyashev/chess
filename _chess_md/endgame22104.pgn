@@ -1,0 +1,10 @@
+[Event "tr11#0423 {v} @3 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5kPN/r5pK/8/3nn1P1/Bp6/7R/8 w - - 0 1"]
+
+ 1. Ng5+ Nxg5 2. Rf2+ Rf6 (2... Ndf3 $1 {cook} 3. Bc1 Ra2) 3. g8=Q+ (3. Rxf6+ $2 Kxf6 4. g8=Q Nf7+) 3... Kxg8 4. Rxf6 Nf7+ 5. Kxg6 Ne5+ 6. Kg5 (6. Kh5 $2 Nc4 7. Bc1 Ne2 8. Rc6 b2 9. Bxb2 Nxb2 10. Rc2 Nd3) 6... Nc4 7. Bc1 b2 8. Bxb2 Nxb2 9. Kh6 Nc2 10. Rf2 Ne3 11. Rxb2 Nxg4+ 12. Kg5 Ne5 13. Kf6 Nd7+ 14. Ke7 Ne5 15. Rg2+ Kh7 16. Kf6 Nd7+ 17. Ke6 Nf8+ 18. Kf7 1-0  

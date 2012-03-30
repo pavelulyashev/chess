@@ -1,0 +1,10 @@
+[Event "4 Prize, tp18 @3 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/1r4p1/R2P2P1/8/8/4np1B/4P3/6Kb b - - 0 1"]
+
+ 1... Rb1+ 2. Kh2 fxe2 3. d7 Nf1+ (3... Rd1 $1 {cook JN} 4. Re6 Nf1+ 5. Bxf1 exf1=N+ 6. Kxh1 Ne3+ 7. Kh2 Ng4+ 8. Kg3 Nf6) 4. Bxf1 exf1=N+ 5. Kxh1 Ne3+ 6. Kh2 Rb8 7. Rc6 Ng4+ 8. Kg3 Nf6 9. Rc8+ Ng8 10. d8=N Rxc8 11. Nf7# 1-0  

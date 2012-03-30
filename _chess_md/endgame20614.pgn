@@ -1,0 +1,10 @@
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/2P5/B7/4k1K1/5r2/3P4/8 w - - 0 1"]
+
+ 1. d3+ (1. Bd8 $2 Rf1 $1) 1... Ke3 (1... Rxd3 2. c7) 2. Bd2+ Ke2 3. c7 (3. d4 $2 Rd3 $1 4. c7 Rxd4+) 3... Rf8 4. d4 1-0  

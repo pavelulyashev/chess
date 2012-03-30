@@ -1,0 +1,10 @@
+[Event "2 Commendation jp03 @2 @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Atajants G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k1K2/2p5/P4P2/1N6/8/7p/8/3r4 w - - 0 1"]
+
+ 1. a7 Ra1 2. Na3 Rxa3 3. f7 (3. Kg7 $2 Rxa7 4. f7 c5) (3. Kg8 $1 {cook AK} h2 4. f7 Rg3+ 5. Kf8 Ra3 (5... h1=Q 6. a8=Q+ Qxa8) 6. Kg7 Rg3+ 7. Kf8) 3... h2 4. Kg7 Rg3+ (4... Kd7 $1 {cook GU}) 5. Kf6 Rf3+ 6. Kg6 (6. Ke6 $2 Re3+ 7. Kf6 h1=Q ) 6... Rg3+ 7. Kf6 1/2-1/2  

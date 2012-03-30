@@ -1,0 +1,10 @@
+[Event "Mat Plus - version - {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4B3/8/3p1p2/3P2p1/6pp/2n5/3Q2nr/5K1k w - - 0 1"]
+
+ 1. Qf2 $1 (1. Qd4 $2 Ne2 $1 2. Kxe2 Nf4+ 3. Kf1 Rg2 $19) 1... Ne2 (1... Ne3+ 2. Qxe3 Rg2 3. Qxc3 $11) 2. Qxe2 g3 (2... Nf4 3. Qxg4 $11) 3. Qf3 $1 (3. Qe4 $2 f5 4. Bg6 $1 fxe4 5. Bxe4 Rh3 $3 6. Bf3 $1 Kh2 $1 7. Bxg2 g4 { mutual zugzwang - virtual stalemate}) 3... g4 4. Qe4 f5 5. Bg6 $1 f4 $1 (5... fxe4 6. Bxe4 Rh3 7. Bf3 $3 Rh2 (7... gxf3 {stalemate}) (7... Kh2 8. Bxg2 { stalemate}) 8. Be4 Rh3 (8... h3 9. Bf3 gxf3 {stalemate}) 9. Bf3 $1 { positional draw}) 6. Bh5 $1 f3 7. Qxf3 gxf3 8. Bxf3 Rh3 (8... h3 9. Be4 { stalemate}) 9. Be4 $1 (9. Bxg2+ $2 Kh2 {mutual zugzwang - virtual stalemate}) 9... Rh2 (9... Kh2 10. Bxg2 {stalemate}) 10. Bf3 {positional draw} 1/2-1/2  

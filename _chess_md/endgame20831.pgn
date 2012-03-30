@@ -1,0 +1,10 @@
+[Event "ts25#048 @1 {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kn6/7Q/8/8/8/8/6p1/6Kb w - - 0 1"]
+
+ 1. Qb1 $1 (1. Qg7 Na6 2. Kf2 (2. Qd7 $1 {cook}) 2... Kb8 3. Ke3 Nc7 4. Kd4 Nd5 $1) 1... Nc6 (1... Nd7 {main} 2. Qb5 Nb6 3. Qa6+ $1) (1... Ka7 {main} 2. Qb5 Na6 3. Qc6 Nb8 4. Qc7+ Ka8 5. Qb6) 2. Qb5 Na7 3. Qa6 Kb8 4. Qb6+ Ka8 5. Qc7 1-0  

@@ -1,0 +1,10 @@
+[Event "ts02#6307 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6N1/3p4/K7/2P1P3/4pb2/8/6P1/k7 w - - 0 1"]
+
+ 1. c6 dxc6 (1... Bxe5 2. cxd7 Bc7 3. Ne7 e3 4. Nf5 e2 5. Nd4 e1=N 6. Nc6 Nxg2 7. Kb7) (1... e3 2. cxd7 e2 (2... Bg5 3. Nf6 e2 4. d8=Q e1=Q 5. Qa5+ Qxa5+ 6. Kxa5) 3. d8=Q e1=Q 4. Qd4+ Kb1 5. Qxf4) 2. e6 Bd6 3. e7 (3. Nh6 $2 e3 4. Nf5 e2 5. Nd4 e1=N) 3... Bxe7 4. Nxe7 e3 (4... Kb2 5. Nf5 Kc3 6. Kb6) 5. Nxc6 (5. Nf5 $2 e2 6. Nd4 e1=N) 5... e2 6. Nd4 e1=N 7. g4 1-0  

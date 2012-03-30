@@ -1,0 +1,10 @@
+[Event "tl42 @2 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R5K1/8/2n4p/P7/6p1/8/1k6/8 w - - 0 1"]
+
+ 1. a6 g3 2. Rb8+ $3 (2. a7 $2 g2 3. Rb8+ Kc2 4. a8=Q g1=Q+) (2. Kf7 $1 {cook} g2 3. Rg8 Kb3 4. Ke6 Kb4 5. Kd6 Kb5 6. Rxg2 Na7 7. Kc7) 2... Ka3 (2... Kc2 3. Rc8) 3. a7 Nxa7 4. Ra8 h5 5. Rxa7+ Kb3 6. Rg7 h4 7. Rg4 Kc2 8. Rxh4 Kd2 9. Rg4 1-0  

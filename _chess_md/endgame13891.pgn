@@ -1,0 +1,10 @@
+[Event "ts23#04 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/7p/2P5/2p5/8/2K4k w - - 0 1"]
+
+ 1. c5 h4 2. c6 h3 3. c7 h2 4. c8=Q c2 $1 (4... Kg2 5. Qg4+ Kf2 6. Qh3 Kg1 7. Qg3+ Kh1 8. Qf2 c2 9. Qf1#) 5. Kd2 $1 Kg1 (5... c1=Q+ 6. Qxc1+ $1 Kg2 7. Qc6+ Kg1 8. Qg6+ Kh1 9. Qe4+ Kg1 10. Qg4+ Kh1 11. Qf3+ Kg1 12. Ke2 h1=Q 13. Qf2#) ( 5... Kg2 6. Qxc2 h1=Q 7. Ke3+ Kh3 8. Qh7+) 6. Qc5+ $1 (6. Qg4+ $2 Kf2 7. Qf4+ Kg2 8. Ke2 h1=Q 9. Qg4+ Kh2 10. Kf2 Qe1+ $1) 6... Kf1 7. Ke3 h1=Q 8. Qf5+ Kg2 9. Qxc2+ Kh3 10. Qh7+ Kg2 11. Qg6+ Kh3 12. Qh5+ Kg2 13. Qg4+ Kh2 14. Kf2 1-0  

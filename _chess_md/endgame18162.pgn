@@ -1,0 +1,10 @@
+[Event "t001 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6r1/2P5/3P3P/7K/3P2P1/1b1P4/1k1b4/8 w - - 0 1"]
+
+ 1. d7 Bg5 2. d8=N Bxd8 (2... Ba4 3. Nc6 Bxc6 4. c8=Q Rxc8 5. Kxg5 Bb5 6. d5 Bxd3 7. Kf6 Rg8 8. d6 Rg6+ 9. Ke7) 3. cxd8=N Ba4 4. h7 Be8+ 5. Kh6 Rg6+ 6. Kh5 Kc3 7. Nf7 Bxf7 8. h8=N Rf6+ 9. Nxf7 Rxf7 10. g5 Kxd4 11. g6 Rf1 12. g7 Rg1 13. Kh6 Ke5 14. Kh7 Kf6 15. g8=N+ 1/2-1/2  

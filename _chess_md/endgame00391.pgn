@@ -1,0 +1,10 @@
+[Event "2 Honorable Mention Hungarian Chess Federation Ty Magy {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/3p1n1p/3P4/2PP4/1k6/4pK2/8/8 w - - 0 1"]
+
+ 1. c6 (1. Nxf7 $143 Kxc5 2. Kxe3 Kxd5 3. Kf4 Ke6 $11) 1... Nxd6 $1 (1... Nxd8 $144 2. c7 $18) (1... dxc6 $144 2. Nxf7 $18) 2. cxd7 Kc4 $1 (2... Kc5 $144 3. Ne6+ $18) 3. Kxe3 $1 Kxd5 4. Ke2 $1 (4. Kd3 $143 h6 $1 5. Ke2 Ke4 6. Ne6 Nf7 $11) 4... h6 $1 5. Kd3 h5 (5... Kc5 $144 6. Ne6+ $18) (5... Ke5 $144 6. Nc6+ $18) (5... Ne4 $144 6. Nb7 $18) 6. Ke2 $1 h4 7. Kf1 $1 (7. Kf3 $143 h3 8. Kg3 Nf5+ 9. Kxh3 Kd6 $11) 7... h3 8. Kg1 Ke4 (8... Kc4 $144 9. Nc6 Nb7 10. Na5+ $18 ) 9. Ne6 $1 Nb7 10. Nc5+ $18 1-0  

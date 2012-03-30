@@ -1,0 +1,10 @@
+[Event "4 Commendation, Olympic Ty {m}"]
+[Site "?"]
+[Date "2010.03.17"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6K1/2p5/kPB5/5P2/8/2P3Q1/6p1/3q1r2 w - - 0 0"]
+
+ 1. bxc7 Qb3+ 2. Kg7 Qxc3+ (2... g1=Q 3. c8=Q+ Kb6 4. Bg2 $18) 3. Qxc3 g1=Q+ 4. Kf6 $1 Rxf5+ $1 5. Kxf5 Qc5+ 6. Qe5 $1 Qxc6 7. Qe6 $1 Ka7 $1 8. c8=R $1 $18 (8. Qxc6 $2 {stalemate}) (8. c8=Q $2 Qf3+ 9. Kg6 Qf6+ 10. Qxf6 {stalemate}) 1/2-1/2  

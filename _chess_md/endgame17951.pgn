@@ -1,0 +1,10 @@
+[Event "ts31#0486 @1 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4p3/2p4p/p6k/2P2B2/2Pp1KPN/8 w - - 0 1"]
+
+ 1. Nf1 (1. Bd1 $1 {cook} a3 2. Nf3+ Kg4 3. Nxd2+ Kh4 4. Nb3) (1. Be2 $1 {cook} d1=Q 2. Bxd1 a3 3. Nf3+ Kg4 4. Nd2+) 1... d1=Q 2. Bxd1 a3 3. Nd2 c4 4. Ne4 a2 5. Kg1 $1 a1=Q 6. Kh2 Qxd1 7. g3+ Kg4 8. Nf2+ 1-0  

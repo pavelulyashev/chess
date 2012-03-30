@@ -1,0 +1,10 @@
+[Event "1 Prize me05 {m} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Enserink H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1b6/r6k/8/1p6/1B1R2b1/5p2/P7/2KB4 w - - 0 1"]
+
+ 1. Bd6 Bxd6 2. Rxd6 Rc7+ (2... Rxa2 3. Bc2+) (2... f2 3. Rf6) (2... Kg7 3. Rd4 Bh5 4. Rf4 Ra3 5. Bb3) 3. Bc2+ (3. Kd2 $2 f2 4. Be2 Bxe2 5. Kxe2 Rc2+) (3. Kb2 $2 f2) 3... Bf5 (3... Kh8 4. Rh6+ Kg8 5. Rg6+ Rg7 6. Rxg7+ Kxg7 7. Bd3) 4. Rd7+ $1 Kg8 (4... Kh6 5. Rxc7 f2 6. Bd3 Bxd3 7. Rf7 f1=Q+ 8. Rxf1 Bxf1 9. a4 $1 b4 10. Kb2 Bc4 11. a5) (4... Kg6 $2 5. Rxc7 f2 6. Bxf5+) 5. Rxc7 f2 6. Rc8+ $1 (6. Bb3+ $2 Kh8) 6... Kf7 (6... Bxc8 7. Bd3 b4 8. Kd2 Bh3 9. Ke3 f1=Q 10. Bxf1 Bxf1 11. Kd4) 7. Rc7+ Ke8 8. Rc8+ Ke7 9. Rc7+ Kd6 10. Rf7 $1 f1=Q+ 11. Kb2 1/2-1/2  

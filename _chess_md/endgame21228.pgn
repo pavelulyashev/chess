@@ -1,0 +1,10 @@
+[Event "3 Prize, Pobeda 65 {m}"]
+[Site "?"]
+[Date "2010.11.29"]
+[Round "?"]
+[White "Mikitovics J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k2N1/B7/4P3/6r1/2P5/7K/8/8 w - - 0 1"]
+
+ {#} 1. Bb6+ $1 (1. Nf6 $2 Ke7 2. Ne4 Rg8 3. Nc5 Kd6 $11) 1... Ke8 (1... Kc8 2. Ne7+ $18) 2. Nf6+ Ke7 3. Kh4 $1 Re5 $1 (3... Kxf6 4. Bd8+) (3... Rf5 4. Nh5 $1 Re5 (4... Rf1 5. Ng7 Rf4+ 6. Kg5 $18) 5. Ng7 Kf6 6. Bd4 $18) (3... Rg7 4. Nh5 $1 Rh7 5. Kg4 $1 (5. Kg5 $2 Kxe6 6. Nf4+ Ke5 7. Ng6+ Ke4 $1 $11) 5... Kxe6 6. Nf4+ $18) (3... Rg2 {(g6)} 4. Nd5+ Kxe6 5. Nf4+) 4. Nd5+ Kxe6 5. Ne3 $1 Kd7 6. Kg3 $1 (6. Kg4 $2 Re6 $1 7. Ba7 Rf6 $1 $11 (7... Ra6 $2 8. Bd4 Rd6 9. Be5 $18)) 6... Re6 7. Bd4 $1 (7. Ba7 $2 Rf6 $11) 7... Re4 8. Ba7 $1 Kc6 9. Kf3 $1 (9. Kf2 $2 Re7 $11) 9... Re7 10. Bd4 Rd7 11. Ke4 1-0  

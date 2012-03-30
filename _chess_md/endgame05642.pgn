@@ -1,0 +1,10 @@
+[Event "ts26#32 {v} {m}"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/8/3p1pP1/8/2P5/1B5k/1r5P/8 w - - 0 1"]
+
+ 1. c5 $1 1... dxc5 (1... Rxb3 2. cxd6 Rc3+ 3. Kb7 Rb3+ 4. Kc6 Rb8 (4... Rc3+ 5. Kd5 Rc8 6. Ke6 Rd8 7. g7) 5. d7 f5 6. Kc7 Rg8 7. d8=Q) (1... Rg2 2. cxd6 Rxg6 3. d7) 2. Bd5 Re2 3. g7 Re8+ 4. Kd7 Rb8 5. Kc7 Re8 6. Bf7 Ra8 (6... Re7+ 7. Kd6 Rxf7 8. g8=Q) 7. Be6+ Kh4 8. Bc8 Ra7+ 9. Bb7 1-0  

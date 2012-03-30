@@ -1,0 +1,10 @@
+[Event "tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7Q/4p3/q1p5/B7/n7/4N3/p7/1k1K4 w - - 0 1"]
+
+ 1. Qa1+ $1 1... Kxa1 2. Kc1 Qe2 3. Nc2+ Qxc2+ 4. Kxc2 4... c5 $1 5. Bc7 $1 (5. Bd8 $2 5... c4 6. Bxe7 c3 7. Bf6 Nb2 8. Bxc3) 5... c4 6. Be5+ c3 7. Kc1 $1 (7. Bd4 $2 7... e5 8. Bxe5 Nb2 9. Bxc3) 7... e6 8. Kc2 $1 8... Nb2 9. Bxc3 e5 10. Bxb2# 1-0  

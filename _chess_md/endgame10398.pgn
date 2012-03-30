@@ -1,0 +1,10 @@
+[Event "us37 {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7R/K6N/4k1n1/3r4/1R3p2/5b1p/8 w - - 0 1"]
+
+ 1. Nf7+ $1 Nxf7 2. Rxh2 Rd6+ $1 3. Kb7 $1 Bg3 4. Rh5+ $1 Ke4 5. Rxf3 $1 Nd8+ ( 5... Rd7+ {main} 6. Ka8 $1 Rd8+ 7. Ka7 $1 Rd7+ 8. Ka8 Kxf3 9. Rf5+ Kg4 10. Rxf7 Rxf7) 6. Kc8 $1 Kxf3 7. Rd5 $1 Nb7 $1 8. Rb5 $1 Nd8 9. Rd5 Rxd5 1/2-1/2  

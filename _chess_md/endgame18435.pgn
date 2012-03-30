@@ -1,0 +1,10 @@
+[Event "t003 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r3k3/P7/8/3R4/3K4/8/8/8 w - - 0 1"]
+
+ 1. Rh5 $1 Kd7 2. Kc5 Rxa7 (2... Kc7 3. Rh7+) 3. Rh7+ 1-0  

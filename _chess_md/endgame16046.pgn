@@ -1,0 +1,10 @@
+[Event "Zadachi i etudy, 1 prize {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "q7/2P5/1b6/8/1k6/4p3/B7/N2RK3 w - - 0 1"]
+
+ 1. Rb1+ Ka5 (1... Ka4 2. Rxb6 $11) 2. Nb3+ $1 (2. Bd5 $2 Qf8 $1 3. Nb3+ Ka4 4. Ke2 Qf2+ 5. Kd3 Qf5+ 6. Be4 Qd7+ 7. Ke2 Qxc7 {win.}) 2... Ka6 (2... Ka4 3. Nc5+ ) 3. Nc5+ Ka7 4. Bd5 $1 (4. Be6 $2 Qh1+ 5. Ke2 Qh2+ 6. Kd3 Qd6+ 7. Ke2 Qd2+ 8. Kf3 Bxc7 {win.}) 4... Qxd5 (4... Qh8 5. c8=Q Qxc8 6. Ra1+ {draw.}) 5. Ra1+ Ba5+ 6. Rxa5+ Kb6 7. Rb5+ $1 (7. Nb3 $2 Qg2) 7... Kxb5 (7... Kxc7 8. Na6+) 8. Ne4 $1 Qd7 (8... Qxe4 9. c8=Q Qh4+ 10. Kd1 $1 Qd4+ 11. Ke2 Qd2+ 12. Kf3 Qf2+ 13. Ke4 e2 14. Qd7+ {perpetual check.}) 9. c8=Q Qxc8 10. Nd6+ 1/2-1/2  

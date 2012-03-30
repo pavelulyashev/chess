@@ -1,0 +1,10 @@
+[Event "ts27#07 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r3k3/3p1pPp/3p1pp1/8/8/rP5P/PpP4P/R3K2R w KQq - 0 1"]
+
+ 1. O-O $1 (1. Kd2 $2 1... bxa1=Q 2. Rxa1 2... O-O-O $1) 1... bxa1=Q 2. Rxa1 Ke7 3. Re1+ Kd8 4. g8=Q+ 1-0  

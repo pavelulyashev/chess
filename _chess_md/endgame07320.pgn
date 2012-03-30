@@ -1,0 +1,10 @@
+[Event "ta18 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Lazard F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k5/3p2p1/2p5/2K5/5P2/8/2P5/8 w - - 0 1"]
+
+ 1. Kd6 Kd8 2. f5 (2. c3 $143 g6 3. c4 Ke8 4. c5 Kd8 $19) 2... Ke8 3. c3 (3. c4 $143 Kd8 4. c5 Ke8 5. f6 gxf6 6. Kc7 $19) 3... Kd8 4. c4 Ke8 5. c5 Kd8 6. f6 gxf6 $11 1/2-1/2  

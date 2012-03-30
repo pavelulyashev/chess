@@ -1,0 +1,10 @@
+[Event "1 Prize ww11 {tt} {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/1P1bP3/2kP1q2/5p2/5P2/8/1N1PN3/8 w - - 0 1"]
+
+ 1. Nd4+ $1 (1. b8=N+ $143 Kxd6 2. Nc4+ Ke6 $19) 1... Qxd4 (1... Kxb7 $144 2. Kxd7 $18) 2. b8=N+ $1 Kxd6 3. Nxd7 Qd5 $1 4. Nc4+ $1 Qxc4 5. e8=N+ $1 Ke6 (5... Kc6 $144 6. Ne5+ $18) (5... Kd5 $144 6. Nb6+ $18) 6. Ng7+ Kd6 (6... Kf7 $144 7. Ne5+ $18) 7. Nxf5+ Ke6 8. Ng7+ Kd6 9. Ne8+ Ke6 10. f5+ $1 $18 1-0  

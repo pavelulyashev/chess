@@ -1,0 +1,10 @@
+[Event "us46#2069 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Fomichev E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P5/p7/Pp6/2k5/Kpp3B1/1nRR3r w - - 0 1"]
+
+ 1. Rxc2+ Kxc2 2. Rxb1 b3+ (2... Rxb1 3. Be4+ Kc1 4. Bxb1 b3+ 5. Ka3) 3. Ka3 Rxb1 4. Be4+ Kc1 5. Bxb1 (5. c7 $2 Ra1+ 6. Kxb3 b1=Q+ 7. Bxb1 Rxb1+ 8. Kc3 $2 Rb2) 5... Kxb1 6. c7 Ka1 7. c8=Q b1=Q 8. Qc3+ b2 9. Qb3 Qd3 10. Qxd3 b1=Q 11. Qc3+ 1-0  

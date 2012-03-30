@@ -1,0 +1,10 @@
+[Event "2 Commendation td27#11261 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Maricic Z, Roxlau M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5r2/8/8/P1k1P3/3R4/p1K5/8 w - - 0 1"]
+
+ 1.Rc3+ $1 (1.Ra3 $2 Rf2+ 2.Kc1 Kb4) 1...Kb4 2.Rb3+ Kxa4 3.Rb8 $1 Rf2+ (3...a1=Q 4.Ra8+) 4.Kd3 Rf3+ (4...Ka3 5.Ra8+ Kb2 6.Rxa2+ Kxa2 7.Kc4 $1) 5.Kc4 Rc3+ $1 6.Kd5 $1 (6.Kxc3 $2 a1=Q+) (6.Kd4 $2 Rc8 $1) 6...Ra3 7.Kc4 $1 Rc3+ 8.Kd5 Rd3+ 9.Kc5 $1 (9.Kc4 $2 Rd4+ $1 10.Kxd4 a1=Q+) 9...Ka3 10.Ra8+ $1 (10.e5 $2 Rd4 $1) 10...Kb2 11.Rxa2+ 1/2-1/2  

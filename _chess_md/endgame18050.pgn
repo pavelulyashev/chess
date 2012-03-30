@@ -1,0 +1,10 @@
+[Event "t001#86 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/7K/8/1N3N2/1p2B1b1/7k w - - 0 1"]
+
+ 1. Nbd2 Bf1 2. Bd1 (2. Bxf1 $2 b1=Q 3. Nxb1) 2... Bd3 3. Bb3 b1=Q 4. Nxb1 Bxb1 5. Bd5 $1 1-0  

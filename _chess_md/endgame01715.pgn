@@ -1,0 +1,10 @@
+[Event "tl28#29 {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Marwitz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/5pp1/p7/2KP4/8/4P1P1/8/8 w - - 0 1"]
+
+ 1. Kc6 $1 (1. e4 $143 f6 2. Kb6 Kd7 3. g4 Kd6 4. Kxa6 g6 5. Kb6 f5 $11) 1... Kd8 (1... a5 $144 2. Kc7 $18) 2. g4 $1 (2. Kb6 $143 Kd7 3. Kxa6 Kd6 4. e4 f5 $11) 2... f6 (2... a5 $144 3. Kb5 Kd7 4. Kxa5 Kd6 5. e4 f6 (5... g6 $144 6. g5 $18) 6. Kb5 g6 7. Kc4 $18) 3. e4 g6 (3... Kc8 $144 4. Kb6 $18) 4. Kd6 $1 a5 5. g5 $1 fxg5 6. e5 g4 7. e6 g3 8. e7+ Ke8 9. Ke6 g2 10. d6 g1=Q 11. d7# 1-0  

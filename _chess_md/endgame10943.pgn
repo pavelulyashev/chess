@@ -1,0 +1,10 @@
+[Event "wu01 {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Ivanov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1K5/P1pp2p1/pP1Pp3/3P1p2/4PP2/2PP4/2p5/8 b - - 0 1"]
+
+ 1... cxb6 2. Kxd7 exd5 3. e5 c1=Q 4. e6 Qxc3 5. e7 Kxa7 6. e8=Q 1-0   

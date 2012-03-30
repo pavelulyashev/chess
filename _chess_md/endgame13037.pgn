@@ -1,0 +1,10 @@
+[Event "tl03#07 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "De Villeneuve Esclapon J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2p1kp2/2p3pp/4P3/3PK2P/2P3P1/8 w - - 0 1"]
+
+ 1. h4 Ke5 $1 2. g4 $1 hxg4 (2... gxh4 3. gxh5 h3 4. Kf3 h2 5. Kg2 h1=Q+ 6. Kxh1 f5 7. h6 Kf6 8. e5+) 3. h5 f5 4. h6 Kf6 5. e5+ 1-0  

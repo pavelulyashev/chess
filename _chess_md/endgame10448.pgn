@@ -1,0 +1,10 @@
+[Event "2 Prize mh03 tt22#2449 {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1Q4Pp/1R1P3k/1P3pp1/1P6/5PpK/b2P2P1/q7 w - - 0 1"]
+
+ 1. g8=N+ (1. d7+ $2 Kh5 2. Rh6+ Kxh6 3. g8=N+ Kh5 4. Nf6+ Kg6) 1... Bxg8 2. d7+ Kh5 3. Rh6+ (3. d8=Q $2 Qh1+) 3... Kxh6 4. Qa6+ Qxa6 5. bxa6 f4 (5... Be6 6. d8=N Bc8 7. Kxg3 Bxa6 8. Nf7+ Kg6 9. Nd6) 6. d8=N Kh5 7. a7 h6 (7... Bd5 8. d3 h6 9. b5 Bg8 (9... Bb3 10. a8=Q Bd1 11. Qd5) 10. a8=B Bh7 11. Be4 Bxe4 12. dxe4 ) 8. a8=R (8. a8=Q $2 Bh7 9. Qe4 Bf5+ 10. Qxf5) 8... Bh7 9. Ra5 1-0  

@@ -1,0 +1,10 @@
+[Event "ts23 (@2) {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6K1/8/3P4/1r6/6B1/B1k5/8 w - - 0 1"]
+
+ 1. d6 Rg4+ 2. Kf8 $1 (2. Kf7 $2 Rxg3 3. Bd5 Ra3 4. d7 Ra7) (2. Kf6 $2 Rxg3 3. Bd5 Rh3 $1) 2... Rxg3 3. Bd5 $1 Rg5 4. Be4+ Kc3 5. d7 Rh5 6. Kg7 (6. Kg8 $1 { minor dual JB}) 6... Rg5+ 7. Kf7 1-0  

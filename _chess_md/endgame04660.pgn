@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/8/kp2p3/2BPb3/1K6 w - - 0 1"]
+
+ 1. Bxb3 (1. dxe3 $2 1... b2 2. Bf5 Bd1 3. Be6 Bf3 4. Bf5 Bd5 5. Kc2 Ka2 6. Kc3 Ka1 7. Bd3 Ba2 8. e4 Bb1) 1... Bd3+ (1... exd2 2. Bc2 Bd3 3. Ka1 Bxc2) 2. Kc1 e2 3. Bd1 e1=R 1/2-1/2  

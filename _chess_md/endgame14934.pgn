@@ -1,0 +1,10 @@
+[Event "ts67#05 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Lazard F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4R1nr/3p1p1k/3P1P1P/5KpP/8/8/8/8 w - g6 0 1"]
+
+ 1. hxg6+ fxg6+ 2. Kg5 Nxh6 3. Re7+ Kg8 4. Kxg6 Kf8 5. Rxd7 Ke8 6. Ra7 (6. Rb7 $1 {cook JU}) (6. Rc7 $1 {cook JU} Kd8 7. Kg7) (6. Re7+ $1 {cook JU}) 1-0  

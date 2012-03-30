@@ -1,0 +1,10 @@
+[Event "tc40#377 @3 {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p1b3/P7/8/K7/8/3p2N1/3k4 w - - 0 1"]
+
+ 1. a7 (1. Kb5 $2 Ke2 2. a7 d1=Q 3. Nf4+ (3. a8=Q Qd3+ 4. Kc6 (4. Ka4 Qa3+) 4... Qf3+) 3... Kf3 4. a8=Q+ Kxf4) 1... Ke2 2. Nf4+ Ke3 3. Nd5+ Kd4 $1 4. Nxc7 Kc5 $1 (4... d1=Q+ 5. Kb5 Qe2+ $1 {cook HH} 6. Kc6 (6. Kb6 Bc5+) 6... Bd8) 5. Ka5 $1 (5. Ne6+ $2 Kb6 6. a8=Q d1=Q#) (5. Na6+ $2 Kb6 6. a8=Q d1=Q#) 5... d1=Q 6. Na6+ Kc4 7. a8=Q Bd8+ 8. Nc7 $1 Qa1+ 9. Kb6 Qxa8 1/2-1/2  

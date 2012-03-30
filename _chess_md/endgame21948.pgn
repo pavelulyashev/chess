@@ -1,0 +1,10 @@
+[Event "ms02 ts70#1647 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1Q6/1N1pp3/8/1N2pp2/1b2k3/4ppK1/3PP3/1b5q w - - 0 1"]
+
+ 1. N7d6+ exd6 (1... Bxd6 2. Qb7#) (1... Kd5 2. Nc7+ Kc5 3. Qb5+ Kxd6 4. Qb6#) 2. Qa8+ d5 3. Nd6+ Bxd6 (3... Kd4 $2 4. Qa7+ Bc5 5. Qa1#) 4. Qa4+ Bb4 5. Qxb4+ d4 6. Qb7+ d5 7. Qxb1+ $3 Qxb1 8. d3+ Qxd3 9. exf3# 1-0  

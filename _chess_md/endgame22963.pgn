@@ -1,0 +1,10 @@
+[Event "3.s Commendation,.Tolush 100 MT {m}"]
+[Site "?"]
+[Date "2011.11.11"]
+[Round "?"]
+[White "Blundell D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K2k4/3P3p/2B1P2P/8/8/p7/5P2/1b6 w - - 0 0"]
+
+ 1. Kb8 $1 (1. Kb7 $2 Bf5 2. Bd5 Be4 3. Bc6 Bf5 $11) 1... Bf5 2. Bd5 Bb1 3. f4 a2 4. Bxa2 Bxa2 5. f5 Bc4 6. Kb7 (6. Ka7 $2 Kc7 {zz} 7. Ka8 Bd5+ $11) 6... Bb5 7. f6 Bxd7 8. f7 Be8 9. f8=R $1 $18 (9. f8=Q {stalemate}) 1/2-1/2   

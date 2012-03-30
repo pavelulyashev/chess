@@ -1,0 +1,10 @@
+[Event "tl88 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k2K/8/5Pb1/4P3/3P4/8/8/8 w - - 0 1"]
+
+ 1. e6 (1. d5 $143 Kf7 2. d6 Bf5 $1 $11) (1. Kg7 $143 Bf7 $11) 1... Kf8 2. d5 Bf5 3. e7+ (3. f7 $143 Bg6 4. d6 Bxf7 5. d7 Be8 $1 $11) 3... Kf7 4. e8=Q+ Kxe8 5. Kg7 $18 1-0  

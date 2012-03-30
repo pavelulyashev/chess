@@ -1,0 +1,10 @@
+[Event "1 Prize Trud {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/1p6/nP1P2K1/8/r5R1/8/4B3/r7 w - - 0 1"]
+
+ 1. d7 Rxg4+ (1... Rd1 2. Bxd1 Rxg4+ 3. Bxg4 Nb8 4. d8=N $1 {sous promotion йcho } (4. d8=B $2 Nc6 5. Bf6 Ne5+ 6. Bxe5 {pat} (6. Kg5 Nxg4 $11)) 4... Na6 5. Ne6 Nb4 6. Kf5 Kb8 7. Ke4 Nc6 8. Kd5 $18) 2. Bxg4 Rd1 3. Bxd1 Nb8 4. d8=B $1 { sous promotion йcho} (4. d8=Q $2 {pat}) (4. d8=N $2 Nd7 $11) 4... Nc6 5. Bf6 Ne5+ 6. Kf5 Nc4 7. Bd4 $18 1-0  

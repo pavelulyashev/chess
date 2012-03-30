@@ -1,0 +1,10 @@
+[Event "tn22 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/3p1k2/3P1P1P/1p6/4B1p1/1b6/8/8 w - - 0 1"]
+
+ 1. Bd5+ $1 Kf8 (1... Bxd5 2. h7 Kg6 3. f7) 2. Bxb3 g3 3. Bd5 b4 4. h7 b3 5. Bg8 $1 b2 6. f7 b1=Q 1/2-1/2  

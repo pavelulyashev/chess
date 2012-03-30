@@ -1,0 +1,10 @@
+[Event "ti05 @2 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K6/4p3/8/8/2B2p2/4k3/8/8 w - - 0 1"]
+
+ 1. Be6 $1 (1. Kc7 $2 e5 2. Kd6 Kd4 3. Bd5 (3. Be6 e4 4. Bg4 f3 5. Ke6 f2 6. Bh3 e3 7. Bf1 Kc3) 3... e4 4. Ke6 f3 5. Bb7 f2 6. Ba6 Ke3 $1) 1... f3 (1... Kd4 2. Kc7 Ke5 (2... f3 3. Kd7 f2 4. Bh3 e5 5. Ke6 e4 6. Kf5) 3. Kd7 Kf6 4. Bd5 e5 5. Be4) 2. Kc7 f2 3. Bh3 $1 (3. Bc4 $2 e5 4. Kd6 e4 5. Ke5 Kf3) 3... Kf3 $1 (3... Kd4 4. Kd7 e5 5. Ke6 e4 6. Kf5) 4. Kc6 $1 (4. Kd7 $2 e5 5. Ke6 e4) (4. Kb6 $1 { cook MC} e5 5. Kc5 e4 6. Kd4) 4... e5 5. Kd5 e4 6. Kd4 e3 7. Kd3 e2 8. Bg4+ Kxg4 9. Kxe2 Kg3 10. Kf1 Kf3 1/2-1/2  

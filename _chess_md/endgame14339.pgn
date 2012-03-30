@@ -1,0 +1,10 @@
+[Event "ta12 @1 @2 {m}"]
+[Site "?"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Weenink H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B5k1/8/8/3P4/8/6p1/7p/7K w - - 0 1"]
+
+ 1. Bb7 (1. Bc6 $1 {cook JU}) 1... Kf7 2. Ba6 (2. Bc8 $1 {cook JU}) 2... Kf6 3. Be2 (3. Bd3 $2 Ke5 4. Be4 $2 Kxe4 5. d6 Kf3) 3... Ke5 4. Bf3 Kf4 5. Kg2 h1=Q+ 6. Kxh1 Kxf3 7. Kg1 1-0  

@@ -1,0 +1,10 @@
+[Event "Sachova skladba_3869 [2. hm] {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Fomichev E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P5/p7/Pp6/8/Kpk3B1/1n1R3r w - - 0 1"]
+
+ 1. Rxb1 (1. Be4+ Kxd1 2. Kxb1 Re1 3. c7 (3. Bf3+ Kd2+ 4. Kxb2 Rc1) 3... Kd2+ 4. Kxb2 Rc1) 1... b3+ 2. Ka3 Rxb1 3. Be4+ Kc1 4. Bxb1 (4. c7 Ra1+ 5. Kxb3 b1=Q+ 6. Bxb1 Rxb1+ 7. Ka3 Ra1+ 8. Kb3 Rb1+) 4... Kxb1 5. c7 Ka1 6. c8=Q b1=Q 7. Qc3+ b2 8. Qb3 (8. Qc4) 1-0  

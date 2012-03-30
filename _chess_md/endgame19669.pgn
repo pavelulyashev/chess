@@ -1,0 +1,10 @@
+[Event "5 Honorable Mention, tp21 {v} @2 @3 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/1p1B1P2/1p1b3P/8/6N1/2K4b/P7/8 w - - 0 1"]
+
+ 1. h7 Kg7 2. f8=Q+ (2. Nf6 $1 {cook SJ}) 2... Bxf8 3. Ne5 Bxd7 (3... Bd6 4. Nf7 Kxh7 5. Bxh3) 4. Ng6 Kxh7 (4... Kxg6 $1 {cook SJ} 5. h8=Q Bg7+) 5. Nxf8+ Kh6 6. Nxd7 1-0  

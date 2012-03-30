@@ -1,0 +1,10 @@
+[Event "3 Prize wt07 {v} {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K1R5/8/2P3P1/8/n2bk3/8/3p4/8 w - - 0 1"]
+
+ 1. Re8+ $1 (1. g7 $2 Bxg7 2. Re8+ Be5 3. Rd8 Bd4 4. Rxd4+ Kxd4 5. c7 Nb6+ 6. Kb7 Kc5) 1... Kd3 2. g7 $1 Bxg7 (2... d1=Q 3. g8=Q) 3. c7 d1=Q 4. Rd8+ Bd4 5. Rxd4+ Kxd4 6. Ka7 $3 Qc2 7. c8=Q Qxc8 1/2-1/2  

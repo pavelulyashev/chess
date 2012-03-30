@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4R3/5p2/1p5p/1P1Pb1rP/P1K5/4kb2/1B2p3/7N w - - 0 1"]
+
+ 1. Rxe5+ (1. Bxe5 $2 Bxd5+ 2. Kb4 Bxh1) (1. Bc1+ $2 Ke4 2. Nf2+ Kf5 3. Rxe5+ Kxe5 4. Nd3+ Kd6 5. Bf4+ Ke7 6. Bxg5+ hxg5 7. h6 Be4 8. Ne1 Kd6 9. Kd4 Bg6) 1... Kf4 $1 (1... Rxe5 $2 2. Bc1+ Ke4 3. Ng3#) (1... Be4 2. Bc1+ Kf3 3. Rxg5 e1=Q 4. Rg3+) 2. Nf2 Rxe5 3. Nd3+ Ke4 4. Bxe5 e1=Q $1 5. Nxe1 Be2+ 6. Kb4 $1 Kxe5 7. a5 bxa5+ (7... Kxd5 8. a6) 8. Kc5 $1 Bxb5 (8... a4 9. b6 Ba6 10. Kc6) 9. Nf3+ Ke4 10. Ng5+ $1 Ke5 11. Nxf7+ Kf6 12. Kxb5 (12. Nxh6 $2 Be2 13. Ng8+ Kg7 14. d6 Bg4 15. Ne7 Kh6 16. Nd5 a4 $1 17. Kb4 Bd7 18. Nf6 Bc6) 12... Kxf7 13. Kxa5 1-0  

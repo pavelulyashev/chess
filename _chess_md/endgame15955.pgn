@@ -1,0 +1,10 @@
+[Event "1 Prize tv36 @2 {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Razumenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6Nk/4K3/8/1N4P1/5P2/2p5/8/2b5 w - - 0 1"]
+
+ 1. Kf7 $1 (1. Nxc3 $2 Bxf4 2. g6 Kxg8) (1. g6 $2 Kxg8 2. f5 Bg5+ 3. Ke6 c2) 1... c2 $1 2. Nd4 $1 (2. Nc3 $1 {cook AR/MG} Bxf4 3. g6 c1=Q (3... Be5 4. Ne2) 4. g7+ Kh7 5. Nf6+ Kh6 6. g8=Q) 2... Bxf4 3. g6 (3. Nxc2 $2 Bxg5) 3... c1=Q 4. g7+ Kh7 5. Nf6+ (5. Ne6 $1 {cook MC} Qc4 (5... Qc8 6. Nf8+) 6. Nf6+ Kh6 7. g8=N#) 5... Kh6 6. g8=N+ $1 (6. Nf5+ $2 Kg5 7. g8=Q+ $1 Kxf5 8. Qg6+ Ke5 9. Qe4+ Kd6) 6... Kg5 7. Nf3+ Kf5 8. Ne7# 1-0  

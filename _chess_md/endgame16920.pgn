@@ -1,0 +1,10 @@
+[Event "ts23#13 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4R1R1/3k4/6K1/8/P4pp1/8 w - - 0 1"]
+
+ 1. Rd6+ Kc5 2. Rc6+ Kb4 3. Rb6+ Ka3 4. Rb3+ $1 (4. Ra6+ $2 Kb2 5. Rgb6+ Ka1) 4... Kxa2 5. Rg3 $1 f1=Q (5... g1=Q 6. Ra6+ Kb2 7. Rb6+ Kc2 8. Rc6+ Kd2 9. Rd6+ Ke2 10. Re6+ Kf1 11. Ree3) 6. Rg8 $3 (6. Kh4 $2 Qh1+ 7. Kg4 g1=Q) 6... g1=Q ( 6... Qe2+ 7. Kh3) 7. Ra8+ Kb2 8. Rb8+ Kc2 9. Rc8+ Kd2 10. Rd8+ Ke2 11. Re8+ Kf2 12. Rf8+ 1/2-1/2  

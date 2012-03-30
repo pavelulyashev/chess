@@ -1,0 +1,10 @@
+[Event "ts25#196 @1 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/3p4/KPp3pP/p1p2p2/2p3P1/n6q/8/4NR2 w - - 0 1"]
+
+ 1. b7 (1. Rf4 $1 {cook}) 1... Qh2 2. h7 Ke7 3. Rf4 $1 Qb2 4. Rd4 $1 (4. gxf5 $2 Qh8 5. fxg6 Nb5 $1 6. g7 Qb8) 4... Qh2 (4... cxd4 5. h8=Q Qb5+ 6. Ka7 d3 7. b8=Q Qxb8+ 8. Kxb8 d2 9. Qg7+ Ke6 10. Qxg6+) 5. Rd6 $1 Qb2 6. Rf6 $1 (6. Rxg6 $2 a4 7. Rg8 Qb5+ 8. Ka7 Qa5+ 9. Kb8 Nb5) (6. gxf5 $2 Kxd6 7. f6 Kc7 $1) 6... Qh2 7. Rf8 $1 Kxf8 8. b8=Q+ Qxb8 9. h8=Q+ 1-0  

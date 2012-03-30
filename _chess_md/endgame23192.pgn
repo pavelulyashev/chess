@@ -1,0 +1,10 @@
+[Event "5 Prize, tt22#1067 @3 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k1q5/3p4/1R1K4/3R3B/2N5/8/8/4bb2 w - - 0 1"]
+
+ 1. Bf3 (1. Rdb5 $2 Bg3+ 2. Ke7 $1 Bh4+ 3. Kd6 $1 Qf8+ 4. Kxd7 Qe7+ 5. Kc6 Bg2+ 6. Rd5 Bxd5+ 7. Kxd5 Qg5+) 1... Ka7 $1 (1... Bg3+ $2 2. Re5+ Ka7 3. Rb7+ Ka6 4. Rb6+) (1... Qf8+ 2. Kc7 $1 Bg3+ 3. Rdd6+) 2. Rb7+ (2. Rdb5 $2 Bg3+ 3. Ke7 Bh4+ 4. Kd6 $1 Qf8+) (2. Rc5 $2 Bg3+ 3. Kd5 $1 Qg8+ 4. Kd4 $1 Bf2+) (2. Rd1 $2 Bg3+ 3. Ke7 Bh4+ 4. Kd6 Qf8+ 5. Kc7 Bd8+ 6. Kxd7 Qe7+ 7. Kc6 Qc7+ 8. Kd5 Qxc4+) (2. Rb1 $2 Qc6+ 3. Ke7 Bh4+ 4. Ke8 Qe6+ 5. Kf8 Qf6+ 6. Kg8 Bxc4) (2. Ne3 $2 Kxb6 3. Nxf1 Bb4+ 4. Ke5 Qc3+ 5. Ke4 $1 Qc4+ 6. Rd4 Qxf1 7. Rxb4+ Kc5) 2... Qxb7 (2... Kxb7 3. Ra5+ Kb8 4. Ra8#) 3. Ra5+ $1 Bxa5 4. Bxb7 Bxc4 (4... Bb4+ $1 {cook JN} 5. Kxd7 (5. Kc7 Bxc4) 5... Kxb7) 5. Bc8 (5. Bg2 $2 Be6 $1) 5... Bb4+ 6. Kxd7 Kb8 7. Ke8 (7. Kd8 $2 Ba5+ 8. Kd7 Be2 $1) 7... Kxc8 1/2-1/2  

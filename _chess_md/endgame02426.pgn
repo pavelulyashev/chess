@@ -1,0 +1,10 @@
+[Event "4 Prize Laisaaren JT {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Perkonoja P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K4k1/5p2/6p1/7N/1pR1P1P1/8/1p3b2/8 w - - 0 1"]
+
+ 1. Nf6+ (1. Rxb4 $143 gxh5 2. Rxb2 Bg3+ 3. Kc8 h4 4. Rb3 Kg7 5. Kd8 Kg6 6. Ke7 $11) 1... Kg7 2. g5 (2. Ne8+ $143 Kf8 3. Rxb4 Kxe8 4. Rxb2 $11) 2... Bg3+ 3. Kb7 Bd6 4. Rc8 Bf8 5. Rc2 b1=Q 6. Rh2 Bc5 (6... Qxe4+ $144 7. Nxe4 Be7 $18) 7. Rh7+ Kf8 8. Rh8+ Ke7 9. Re8+ Kd6 10. e5# 1-0  

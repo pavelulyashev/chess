@@ -1,0 +1,10 @@
+[Event "Macek_90 [1st spec Pr] {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Golubev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k6/1p1P4/8/1P2p3/r1Nb3K/6B1/2q5/8 w - - 0 1"]
+
+ 1. Bxe5+ Bxe5 (1... Ka7 2. Bxd4+ b6 3. d8=Q Qxc4 4. Qxb6+ Ka8 5. Qd8+ Kb7 6. Qd7+ Qc7 7. Qd5+ Kc8 8. Qf5+ Qd7 $2 9. Qc2+) 2. d8=Q+ Ka7 3. Qb6+ Ka8 4. Qd8+ Bb8 5. Qa5+ Rxa5 6. Nb6+ Ka7 7. Nc8+ Qxc8 8. b6+ Ka6 {pat} 1/2-1/2  

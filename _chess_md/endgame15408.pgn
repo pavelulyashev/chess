@@ -1,0 +1,10 @@
+[Event "tc19 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Benko P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/2Rp4/8/2K5/p7/8/2k5 w - - 0 1"]
+
+ 1. Rc8 $1 Kb2 2. Rb8+ $1 Kc2 3. Rh8 $1 d5+ 4. Kb4 a2 5. Rh2+ Kb1 6. Ka3 $1 (6. Kb3 $2 a1=N+ 7. Kc3 d4+) 6... a1=Q+ 7. Kb3 1-0  

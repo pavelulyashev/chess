@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/4p3/8/3R1p2/4PPkr/N2K4 w - - 0 1"]
+
+ 1. Nc2 (1. Rxf3 $2 1... Rh1+ 2. Kd2 Rxa1 3. Rf5 Ra2+ 4. Kd3 e4+ 5. Ke3 Kf1) 1... e4 2. Rd2 Rh1+ (2... Kxf2 $2 3. exf3+) 3. Ne1+ 3... Rxe1+ $1 4. Kxe1 4... e3 $1 5. Rd1 $1 (5. exf3 $2 5... exd2+ 6. Ke2 d1=Q+) 5... exf2+ 6. Kd2 f1=Q 7. Rxf1 Kxf1 8. exf3 1-0  

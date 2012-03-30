@@ -1,0 +1,10 @@
+[Event "tt06 {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K6/5p2/5P2/n1P1P3/2P3n1/7R/1p6/2k5 w - - 0 1"]
+
+ 1. Rh1+ Kc2 2. e6 (2. c6 $2 2... Nxc6+ 3. Kc7 Ncxe5) 2... fxe6 $1 3. f7 3... Ne5 $1 4. Rh2+ Kb3 5. Rxb2+ (5. Rh3+ $2 5... Ka2 6. Rh2 Nxf7) 5... Kxb2 6. f8=N $1 6... Nec6+ 7. Ka8 $1 7... e5 8. Nd7 8... e4 $1 9. Nf6 e3 10. Nd5 e2 11. Nf4 e1=N 12. Nd3+ Nxd3 1/2-1/2  

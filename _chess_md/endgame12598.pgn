@@ -1,0 +1,10 @@
+[Event "tb10#047 @1 @2 {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Tattersall C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6QK/6PP/8/6k1/8/8/1q6/8 w - - 0 1"]
+
+ 1. Qb8 $1 (1. Qb3 $1 {cook BS} Qf6 (1... Qe5 2. Qd5 Qxd5 3. g8=Q+) (1... Qa1 2. Qd5+ Kh6 3. Qd2+ Kg6 4. Qg2+ Kh6 5. Qh2+ Kg6 6. Qg1+ Qxg1 7. g8=Q+) 2. Qd5+ Kh6 (2... Kg6 3. Qe6 Qxe6 4. g8=Q+) 3. Qd7 $1 Qa1 (3... Qb2 4. Qh3+ Kg6 5. Qg2+ Qxg2 6. g8=Q+) (3... Qc3 4. Qe6+ Kg5 5. Kg8) 4. Qh3+ Kg6 5. Qg2+ Kf7 $1 6. Qa2+ $1 Qxa2 7. g8=Q+) (1. Qe6 $1 {cook HC}) (1. Qf7 $1 {cook HC}) (1. Qa8 $1 { cook HC}) (1. Qd5+ $1 {cook HC}) 1... Qa1 (1... Qc3 2. Qg3+ Qxg3 3. g8=Q+) 2. Qg3+ Kf5 3. Qf2+ Ke4 (3... Ke6 4. Qa2+ $1 Qxa2 5. g8=Q+) (3... Kg5 4. Qg1+ $1 Qxg1 5. g8=Q+) 4. Qg2+ (4. Kg8 $1 {cook JU}) 4... Kf5 5. Kg8 Qe5 6. Qf3+ Kg5 7. h8=N $1 Qe8+ 8. Qf8 Qe6+ 9. Nf7+ 1-0  

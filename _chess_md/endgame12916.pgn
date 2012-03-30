@@ -1,0 +1,10 @@
+[Event "tr19 {m}"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Karstedt M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/1kP3P1/1p6/b2N4/2p5/2P5/1P1P4/5r2 w - - 0 1"]
+
+ 1. Kh7 Rh1+ 2. Kg6 Rg1+ 3. Kf6 $1 (3. Kf7 $2 Rf1+ 4. Ke7 Rg1 5. Kd8 b5) 3... Rf1+ (3... b5 4. Ne7 Bxc7 5. Ng6 Bd8+ 6. Kf7 Rf1+ 7. Ke8 Kc7 8. g8=Q Re1+ 9. Kf7 Rf1+ 10. Ke6 Rf6+ 11. Kd5) (3... Rxg7 4. Kxg7 b5 5. Kf6 Bxc7 6. Nxc7 Kxc7 7. Ke7 Kc6 8. Ke6 Kc5 9. Kd7 Kd5 10. Kc7 Kc5 11. Kb7 b4 12. cxb4+ Kxb4 13. Kb6 Kb3 14. Kb5) 4. Nf4 Rxf4+ 5. Kg5 Rf2 6. c8=Q+ Kxc8 7. g8=Q+ Kb7 8. Qd5+ Ka7 9. Qxc4 Rxd2 10. b4 b5 11. Qf7+ Ka6 12. bxa5 1-0  

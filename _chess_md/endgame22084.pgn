@@ -1,0 +1,10 @@
+[Event "tt21#1103 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4R3/2k1N3/3pp3/p1p5/7p/1PPp1B1P/6K1 w - - 0 1"]
+
+ 1. Nd4+ exd4 2. Re1 dxe1=Q+ (2... c3 3. bxc3 d3 4. cxd3 dxe1=Q+ 5. Bxe1) 3. Bxe1 c3 (3... Kc5 4. Bd2 $3 (4. Bf2 $2 c3 5. bxc3 Kc4 6. Bxd4 (6. cxd4 a3 7. Kh1 a2 8. Bg1 a1=Q 9. c3 Qb2 10. Bf2 Qb1+ 11. Bg1 Qe4#) 6... a3 7. Kh1 a2 8. Bg1 d4 9. Bxd4 a1=Q+ 10. Bg1 Qa8#) (4. Bh4 $2 c3 5. Be7+ Kc4 6. bxc3 (6. Ba3 d3 7. cxd3+ Kb3 8. bxc3 Kxa3) 6... Kxc3 7. Bc5 a3 8. Bxa3 Kxc2 9. Kf2 d3 10. Bb4 d2 11. Bxd2 Kxd2) (4. Ba5 $2 c3 5. bxc3 Kc4 6. Bb4 dxc3 7. Bd6 d4 8. Kf2 d3 9. cxd3+ Kb3 10. Ke1 a3) (4. c3 $2 dxc3 5. Bxc3 d4 6. Bd2 (6. Be1 c3 7. bxc3 a3 8. cxd4+ Kc4) (6. Ba5 c3 7. bxc3 d3 8. Kf2 Kc4 9. Bb4 Kb3 10. Ke1 Kc2 11. c4 a3) 6... c3 7. bxc3 d3 8. Kf2 (8. Bc1 Kc4 9. Kf2 Kxc3) (8. c4 a3 9. Kf2 a2 10. Bc3 Kxc4 11. Ba1 Kb3) 8... a3 9. Bc1 a2 10. Bb2 Kc4 11. Ke3 Kb3 12. Ba1 Kc2) 4... a3 (4... d3 5. c3 d4 6. Kf2 dxc3 (6... Kb5 7. cxd4) (6... Kd5 7. Kf3 Kc5 8. cxd4+ Kxd4 9. Bc3+) 7. Bxc3 Kd5 8. Ke3) (4... c3 5. bxc3 Kc4 (5... dxc3 6. Bxc3 d4 7. Bb2) 6. cxd4 Kxd4 7. Kf2 a3 8. Bc1 Kc3 9. Bxa3 Kxc2 10. Bc5 Kd3 11. Kg3) 5. bxa3 c3 6. Bc1 d3 7. cxd3 Kd4 8. a4 Kxd3 (8... Kc5 9. Kf2 Kb4 10. Ke3) 9. a5 Kc2 10. a6 Kxc1 11. a7 c2 (11... d4 12. a8=Q d3 13. Kf2 d2 (13... c2 14. Qa1+ Kd2 15. Qe1#) 14. Qa1+ Kc2 15. Ke2) 12. a8=Q Kd2 13. Qa5+ Kd1 14. Qa4 Kd2 ( 14... d4 15. Kf2 d3 16. Ke3 d2 17. Kd3 Ke1 18. Qe4+) 15. Qd4+) 4. bxc3 d3 $1 5. cxd3 a3 6. c4 d4 7. Bf2 Kc5 8. Kh1 a2 9. Bg1 a1=Q (9... a1=N 10. Bf2 Nb3 11. Bh4 Nc1 12. Be7+ Kc6 13. Bf6) 1/2-1/2  

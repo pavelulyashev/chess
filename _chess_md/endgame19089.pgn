@@ -1,0 +1,10 @@
+[Event "td20#1926 {c} {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/p1p5/k5B1/1N6/qP6/P6P/K7 w - - 0 1"]
+
+ 1. Kb1 (1. Be7 $2 Qc1#) (1. Bd2 $2 Kb6) (1. Bd8+ $2 Kxb4 2. Be7+ c5 3. Bg5 Kc3) 1... Kb5 (1... Qxb4 2. Bd8+ Kb5 3. a4+ Kc5 4. Be7+) (1... Kxb4 2. Bc1 Qa5 3. Bd2+) (1... c5 2. Nc2) (1... Kb6 2. Be7 c5 3. Nc2 $1 (3. Bxc5+ $2 Kb7)) 2. Be7 c5 3. Bxc5 Qa5 (3... Kxc5 4. Nc2 Qa5 5. b4+) (3... a5 4. Nd3) 4. Be7 Qc7 5. a4+ Ka5 (5... Kb6 6. Nd5+) 6. Bd8 Qxd8 7. Nc6+ 1-0  

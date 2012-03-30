@@ -1,0 +1,10 @@
+[Event "tb10 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Bent C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6B1/1q2p1r1/5N2/8/5K2/2k5/1N5R w - - 0 1"]
+
+ 1. Na3+ (1. Nd4+ $2 Kb2) (1. Ne3+ $2 Qxe3+ 2. Kxe3 Rxg7) 1... Kd2 (1... Kb3 2. Rb1+ Kxa3 3. Rxb6 Rg5 4. Bb2+ Ka4 5. Ng7) (1... Kd3 2. Rd1#) 2. Nc4+ Kd3 (2... Kc2 3. Nce3+ Kb3 4. Rb1+ Ka2 5. Rxb6) 3. Nxb6 exf5 4. Bf6 $1 Rxf6 5. Nd7 1-0  

@@ -1,0 +1,10 @@
+[Event "td20#864 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1RB3R1/r7/p7/4r1p1/3p1kP1/8/p1PK1P2/8 w - - 0 1"]
+
+ 1. Rf8+ Ke4 2. Be6 $1 (2. Bb7+ $2 Rxb7 3. Rbd8 Reb5) 2... Rxe6 (2... Rd5 3. Bxd5+ Kxd5 4. Rf5+) (2... a1=Q 3. f3#) 3. Rf5 $1 (3. Rbd8 $2 Rf6 $1 4. Rxf6 a1=Q 5. Rf5 Qc3+ 6. Kd1 Re7) 3... Re5 4. Re8 $1 Rxe8 5. f3# 1-0  

@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3p4/8/4N1N1/5n2/6p1/3K1kBb w - - 0 1"]
+
+ 1. Nh2+ $1 1... Nxh2 (1... Kxg1 2. Nxf3+ Kf1 3. Nh2+ Kg1 4. Ng4 d5 5. Nd2 $1 ( 5. Ng3 $2 5... d4 6. Ke1 d3) 5... d4 6. Ke1 (6. Ke2 $2 6... d3+ 7. Ke1) 6... d3 7. Nf3#) 2. Nd2+ Kxg1 3. Ke2 $1 (3. Ke1 $2 3... d5 4. Ke2 d4 5. Ke1 d3) 3... d5 4. Ke1 d4 5. Ke2 d3+ 6. Ke1 Ng4 7. Nf3# 1-0  

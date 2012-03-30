@@ -1,0 +1,10 @@
+[Event "bs15 {c} {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2q5/1p1pkr2/1P1R3K/2N4p/R4p1P/B7/p7/8 w - - 0 1"]
+
+ 1. Rxd7+ Ke8 2. Re4+ Kf8 3. Rxf4 Rxf4 (3... a1=Q 4. Rfxf7+ Kg8 5. Rg7+ Qxg7+ 6. Rxg7+ Kh8 7. Bb2 Qf8 8. Nd3) 4. Ne6+ Kg8 5. Rg7+ Kh8 6. Bb2 a1=Q (6... Qxe6+ 7. Rg6+ Rf6 8. Bxf6+ Qxf6 9. Rxf6) (6... Qc1 7. Nxf4 (7. Rc7+ $2 Rf6+)) (6... Rf6+ 7. Bxf6 a1=Q 8. Bxa1 Qc1+ 9. Ng5) 7. Bxa1 Rf6+ 8. Bxf6 (8. Rg6 $2 Qc1+) 8... Qf8 9. Bd4 Qf6+ 10. Rg6 Qxd4 11. Rg8+ Kxg8 12. Nxd4 1-0  

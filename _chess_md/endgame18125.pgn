@@ -1,0 +1,10 @@
+[Event "ts20#157 {c} {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3n4/6q1/4p1p1/bp6/3k1B1P/8/K3P2P/7Q w - - 0 1"]
+
+ 1. Qd1+ Ke4 (1... Kc4 2. Qd3+ Kc5 3. Qd6+ Kc4 4. Be5) (1... Bd2 2. Qxd2+ Kc4 3. Qd3+ Kb4 4. Qd6+ Ka5 5. Be5) 2. Be5 $1 Qa7 (2... Qh6 3. Qd4+ Kf5 4. e4+ Kg4 5. Qd1+ Kxh4 6. Qf3 Be1 7. Bg3+ Bxg3 8. hxg3+ Kh3 9. Qh1+) (2... Kxe5 3. Qa1+) ( 2... Qxe5 3. Qd3+ Kf4 4. Qf3#) 3. Bb8 $1 Qd4 (3... Qxb8 4. Qd3+ Ke5 5. Qg3+) ( 3... Qe3 4. Qb1+ Kd5 5. Qxb5+ Qc5 6. Qd7+ Kc4 7. Qd3+ Kb4 8. Qb3#) 4. Qh1+ Ke3 5. Ba7 Bb6 6. Bxb6 Qxb6 7. Qg1+ 1-0  

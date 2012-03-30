@@ -1,0 +1,10 @@
+[Event "EG {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Olthof R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r1nk2r/7p/1N1P1K2/8/5B2/8/8/8 w k - 0 1"]
+
+ 1. d7+ Kf8 2. Bh6+ (2. Nc8 $2 h5) (2. Nd5 $2 h5) (2. Bd6+ $2 Kg8) (2. Bxb8 $2 h5 $1 (2... Nf7 $2 3. Bd6+ Kg8 4. Nd5 h5 5. Ne7+ Kh7 6. Kxf7 Rd8 7. Ke6 h4 ( 7... Kh6 8. Bf4+) 8. Nd5 h3 9. Ke7 Ra8 10. d8=Q Rxd8 11. Kxd8) (2... Nc6 3. Nd5 h5 (3... Kg8 4. Ne7+) 4. Bd6+ Kg8 5. Kg6 $1 Rh6+ 6. Kxh6 Kf7 7. Bc7 $1 Ke6 8. Nb6 Ke7 9. Kxh5) (2... Kg8 3. Nd5 $1 (3. Ke7 $2 Nc6+ 4. Kd6 Nd8) 3... h5 4. Kg6 Nf7 (4... Rh7 5. Nf6+) (4... Rh6+ 5. Kxh6 Kf7 6. Bc7 $1) 5. Nf6+ Kf8 6. Bd6+) 3. Bd6+ (3. Nd5 Rh6+) (3. Bf4 Rh7) (3. Bc7 Rh6+) 3... Kg8 4. Bc7 (4. Nd5 Rh6+ 5. Ke7 Nc6+) (4. Bf4 Rh7) (4. Kg6 Nf7) 4... Kh7 5. Ke7 Nb7) 2... Kg8 3. Nc8 (3. Nd5 $2 Nc6) 3... Rxc8 (3... Nc6 4. d8=Q+ Nxd8 5. Ne7#) (3... Rb6+ 4. Nxb6 Nf7 5. Nc8) 4. dxc8=B (4. dxc8=Q $2) (4. dxc8=N $2 Nc6 5. Ke6 (5. Nd6 Ne5 6. Ke6 Nf7) 5... Nd8+ 6. Ke7 Nf7) 4... Nf7 5. Bg7 (5. Be6 $2) 5... h5 (5... h6 6. Be6 Kh7 7. Kxf7) (5... Nd8 6. Ba6 Nf7 7. Bc4) (5... Ng5 6. Bb7 Nf7 7. Bd5) 6. Be6 Rh6+ (6... Rh7 7. Bxf7#) (6... Kh7 7. Kxf7) 7. Bxh6 Kh7 8. Bf8 Nh6 (8... Nh8 9. Bg7 h4 (9... Ng6 10. Bf5) 10. Bh3 Kg8 11. Bf5 h3 (11... Nf7 12. Be6) 12. Bxh3 Kh7 13. Be6) (8... Kg8 9. Bg7) (8... h4 9. Kxf7) 9. Kg5 Ng4 (9... Ng8 10. Bf5+ Kh8 11. Kg6) 10. Bf7 (10. Kxh5 $2 Nf6+ 11. Kg5 Ne8) 10... Ne5 (10... Nh2 11. Kxh5 Nf3 12. Bg6+ Kg8 13. Bd6) (10... Ne3 11. Bxh5) (10... Nf2 11. Bxh5) 11. Bxh5 1-0  

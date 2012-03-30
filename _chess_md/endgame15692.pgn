@@ -1,0 +1,10 @@
+[Event "tz16#1137 @2 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Malishev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3n4/8/2R5/4kpR1/r3N2K/5pP1/8 w - - 0 1"]
+
+ 1. Rc4+ Kxe3 2. Rcxf4 (2. Rgxf4 $1 {cook AG} Ne5 3. Rce4+ Kd2+ 4. g3 $1 Nf3 5. Kg2) 2... Ne5 3. Rg3+ Kxf4 4. Rxa3 f1=Q 5. Rf3+ Nxf3 1/2-1/2  

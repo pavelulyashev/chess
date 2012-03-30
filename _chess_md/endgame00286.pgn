@@ -1,0 +1,10 @@
+[Event "Le Probleme {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Guy R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/5K2/4p3/P1p3k1/8/1p6/8/8 w - - 0 1"]
+
+ 1. a6 (1. Be4 $2 c4 2. a6 c3 3. a7 c2 4. a8=Q c1=Q $11) ({duals} 1. Kxe6 $1 $18 ) (1. Bc6) (1. Bf3) 1... c4 2. a7 c3 3. Bh1 $1 {Bristol} c2 4. a8=Q c1=Q 5. Qg2+ Kh4 (5... Kf4 6. Qf3+ Kg5 7. Qg3+) 6. Qf2+ Kg4 7. Bf3+ Kf4 8. Bg2+ Kg4 9. Qf3+ Kh4 10. Qh3+ Kg5 11. Qg3+ Kf5 12. Qg6+ Kf4 (12... Ke5 $1) 13. Qh6+ 1-0  

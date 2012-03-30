@@ -1,0 +1,10 @@
+[Event "us80 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/8/2P5/k2P4/P7/P7/8/3r4 w - - 0 1"]
+
+ 1. c7 Rh1+ 2. Kg8 $1 Rg1+ 3. Kf8 Rc1 4. d6 Kb6 5. a5+ $1 (5. Ke7 $2 Rxc7+ 6. dxc7 Kxc7) 5... Kb7 6. a6+ $1 Kb6 7. a7 $1 Kxa7 8. d7 Rxc7 9. d8=Q 1-0  

@@ -1,0 +1,10 @@
+[Event "tl20#380 @3 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "De Villeneuve Esclapon J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/1R5p/4k3/6p1/7p/5P2/3N1Pp1/8 w - - 0 1"]
+
+ 1. Re7+ Kf5 (1... Kd6 2. Re1 h3 3. Nc4+ Kc7 4. Ne3 h5 5. Nxg2) (1... Kf6 2. Re1 h3 3. Ne4+ Kf5 (3... Kg6 4. Ng3 Kf6 5. Rg1 Kg6 6. Nf1 Kf6 7. Nh2) 4. Kf7 h2 5. Ng3+ Kf4 6. Re3 h1=Q 7. Ne2+ Kf5 8. Nd4+ Kf4 9. Re4#) 2. Re1 h3 3. Nf1 $1 gxf1=Q (3... g1=Q 4. Ne3+) 4. Rxf1 Kf4 5. Kg7 Kxf3 6. Kh6 Kg2 (6... g4 $1 {cook } 7. Kh5 h2 8. Kh4 (8. Rh1 g3 9. fxg3 Kxg3) (8. Ra1 g3 9. fxg3 Kxg3 10. Ra3+ Kf2 11. Ra2+ Kg3 $1) 8... h5 9. Kxh5 g3 10. fxg3+ Kxg3) 7. Ra1 h2 8. Kxg5 Kxf2 9. Kg4 Kg2 10. Ra2+ Kg1 11. Kg3 h1=N+ 12. Kf3 h5 13. Rg2+ Kf1 14. Rh2 Kg1 15. Rxh5 Nf2 16. Rd5 Nh3 17. Rd1+ Kh2 18. Rd2+ Kh1 19. Kg3 Ng1 20. Rh2# 1-0  

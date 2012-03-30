@@ -1,0 +1,10 @@
+[Event "tm05 {v} {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3n3k/7p/2pP3q/2P1NP1P/4p2K/8/4N1b1/4B3 w - - 0 1"]
+
+ 1. Ng4 $1 (1. Bc3 $2 1... Qf6+ 2. Kg3 Qg5+ 3. Ng4+ Kg8) 1... Qf8 2. Bc3+ Kg8 3. Nf6+ Kf7 4. Nd7 (4. Nxh7 $2 4... Qh6 5. Ng5+ Ke8) 4... Qe8 5. Nf6 Qf8 6. Nd7 Qg8 7. Nf6 Qg7 8. Nd7 $1 (8. Ng4 $2 8... Qf8 9. Ne5+ Kg8) 8... Qh6 9. Ne5+ Ke8 (9... Kf8 10. Ng4) 10. Ng4 Qf8 11. Nf6+ Kf7 12. Nd7 1/2-1/2  

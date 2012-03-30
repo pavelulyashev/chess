@@ -1,0 +1,10 @@
+[Event "tl10 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/P7/2b2PK1/5N2/4r3/7p/8/8 w - - 0 1"]
+
+ 1. a8=Q+ (1. f7 $2 Re8 2. fxe8=Q+ Bxe8+ 3. Kf6 Bc6) 1... Bxa8 2. f7 Rg4+ (2... Re6+ 3. Kg5) 3. Kh6 Rg8 4. Ne7 Bd5 5. fxg8=Q+ Bxg8 6. Ng6# 1-0  

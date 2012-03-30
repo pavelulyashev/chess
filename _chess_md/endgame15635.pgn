@@ -1,0 +1,10 @@
+[Event "tt22#3172 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Slepjan G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4B3/P6r/3b4/8/NR6/K7/5Prp/k7 w - - 0 1"]
+
+ 1. a8=Q h1=Q (1... Bxb4+ 2. Kb3 $1) 2. Nc5 $1 Rg3+ 3. f3 $1 Rxf3+ (3... Ra7+ 4. Qxa7 Qxf3+ 5. Ka4 Qa3+ 6. Kb5 Qxa7 7. Ra4+ Qxa4+ 8. Nxa4) 4. Qxf3 $1 (4. Nb3+ $2 Rxb3+ 5. Ka4 Ra3+) 4... Ra7+ (4... Qxf3+ 5. Nb3+ Qxb3+ (5... Kb1 $2 6. Bg6+) 6. Kxb3 Bxb4 7. Kxb4) 5. Ba4 Qxf3+ (5... Rxa4+ 6. Kxa4 Qxf3 7. Nb3+ Ka2 8. Nc1+ ) 6. Nb3+ Kb1 1/2-1/2  

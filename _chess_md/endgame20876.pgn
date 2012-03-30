@@ -1,0 +1,10 @@
+[Event "StrateGems 2006-07 {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Aliev I"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/p7/6K1/7b/8/8/8/8 w - - 0 1"]
+
+ 1. Kf5 $1 (1. Kf6 $2 a5 2. Ke5 a4 3. Kd4 a3 4. Kc3 Bd1 $19) 1... a5 2. Ke4 $1 ( 2. Ke5 $2) 2... a4 3. Kd3 $1 (3. Kd4 $2) 3... Bd1 (3... a3 4. Kc2) 4. Kd2 (4. Kc3 $2 a3 $19) 4... a3 5. Kc1 (5. Kc3 $2 Ba4 $19) 5... a2 6. Kb2 1/2-1/2  

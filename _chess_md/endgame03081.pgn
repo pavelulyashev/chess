@@ -1,0 +1,10 @@
+[Event "1. Preis {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/R2R4/2r3r1/8/8/8/8/4K3 w - - 0 1"]
+
+ 1. Rh7 $1 Rce6+ (1... Rge6+ 2. Kd2 (2. Kf2 $2 Rf6+ 3. Ke3 Rc8 $11) 2... Red6+ ( 2... Rcd6+ 3. Kc3 Rc6+ 4. Kb4 Rb6+ 5. Ka5) (2... Kd8 3. Rh8+ (3. Ra8+ Rc8 4. Rh8+ $18) 3... Re8 4. Ra8+ $18) 3. Ke3 Re6+ (3... Rc3+ 4. Ke4 Rc4+ 5. Ke5 $18) 4. Kf4 (4. Kf3 $2 Rf6+ 5. Kg4 Rc8 $11) 4... Rf6+ 5. Kg5 Rg6+ 6. Kh5) 2. Kf2 (2. Kd2 $2 Rd6+ 3. Kc3 Rg8 $11) 2... Rgf6+ (2... Ref6+ 3. Ke3 Re6+ 4. Kd4 Rd6+ 5. Kc5 $1 $18) (2... Kf8 3. Rh8+ (3. Ra8+ Re8 4. Rh8+ $18) 3... Rg8 4. Ra8+ $18) 3. Kg3 Rg6+ (3... Re3+ 4. Kg4 Re4+ 5. Kg5 {M10}) 4. Kf4 (4. Kh4 $2 Rh6+ $11) 4... Ref6+ (4... Rgf6+ 5. Kg5 Rg6+ 6. Kh5 $18) 5. Ke5 Re6+ 6. Kd5 Rd6+ 7. Kc5 ( 7. Kc4 $2 Rg8 $11) 7... Rc6+ 8. Kb5 Rb6+ 9. Ka5 1-0  

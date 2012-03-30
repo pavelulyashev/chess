@@ -1,0 +1,10 @@
+[Event "4 Prize, mr01 ts04#237 {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k1K3/b1P3N1/1q1r4/8/3N4/8/3Q4/8 w - - 0 1"]
+
+ 1. Ngf5 (1. Nge6 $2 Rxd4 2. Nxd4 Qg6+) 1... Rxd4 2. Qxd4 $1 (2. Ne7+ $2 Kxc7 3. Nd5+ Kb7) 2... Qb5+ (2... Qg6+ 3. Kf8) (2... Qc6+ 3. Kf8 Bxd4 4. Ne7+) 3. Kf8 $1 (3. Kf7 $2 Qb3+) (3. Ke7 $2 Qe2+) 3... Qxf5+ 4. Kg8 $1 Qe6+ (4... Bxd4) 5. Kf8 $1 (5. Kh7 $2 Qh3+ $1 (5... Bxd4 $2)) 5... Qf5+ (5... Bxd4) 6. Kg8 $1 1/2-1/2  

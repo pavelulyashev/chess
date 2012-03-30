@@ -1,0 +1,10 @@
+[Event "bs04 @2 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p1p5/K1p5/3k2P1/7P/8/8/8 w - - 0 1"]
+
+ 1. h5 Ke6 2. h6 $1 Kf7 3. h7 Kg7 4. g6 Kh8 5. Ka5 Kg7 6. Kb4 a6 7. Kc5 (7. Kc4 $1 {cook} a5 8. Kc5) (7. Kb3 $1 {cook} a5 8. Kc4) 7... a5 8. Kc4 $1 Kh8 9. Kd4 a4 10. Ke5 a3 11. Kf6 a2 12. g7+ Kxh7 13. Kf7 a1=Q 14. g8=Q+ Kh6 15. Qg6# 1-0  

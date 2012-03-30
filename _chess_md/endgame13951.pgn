@@ -1,0 +1,10 @@
+[Event "tr11#0411 {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/8/8/7K/3p1p2/1pn2ppp/1p1R4/3B2B1 w - - 0 1"]
+
+ 1. Bxd4+ (1. Rxb2 $2 f2 2. Bxf2 (2. Kg6 f1=Q $1) 2... gxf2 3. Rxf2 Nxd1 4. Rd2 Ne3 5. Kg6 (5. Rxd4 Kg7) 5... Ng4 6. Rxd4 Ne5+ 7. Kf5 b2) 1... Kh7 (1... Kg8 2. Bxb3+ Kf8 (2... Kh7 3. Bf6) 3. Bf6 Nd5 4. Rxd5 Kf7 5. Rd6+ Kf8 6. Rd8#) 2. Bc2+ $3 (2. Rxb2 $2 h2 $1 (2... Nxd1 3. Rxb3 Kg8 4. Kg6 Kf8 5. Bf6) 3. Bc2+ bxc2 4. Rb7+ Kg8 5. Kg6 Kf8 6. Bf6 Ke8) 2... bxc2 3. Be5 $1 b1=Q (3... Kg8 4. Kg6 Kf8 5. Bf6) (3... h2 4. Rd7+ Kg8 5. Kg6) (3... Ne4 4. Rd8 (4. Rd7+ $2 Kg8 5. Kg6 Kf8) 4... Nf6+ 5. Bxf6) 4. Rd8 1-0  

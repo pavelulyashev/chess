@@ -1,0 +1,10 @@
+[Event "1 Prize jl03 te03 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3n2b1/8/8/8/3k4/2p5/1NR1K2P/8 w - - 0 1"]
+
+ 1. Nd1 (1. Na4 $2 Bc4+ (1... Bb3 $2 2. Rxc3 Bxa4 3. Rd3+) 2. Kf2 Bb3 3. Rxc3 Bxa4) 1... Bb3 (1... Bc4+ 2. Ke1 Bb3 3. Rxc3 Bxd1 4. Rc8) 2. Rxc3 Bxd1+ 3. Kd2 Nf7 (3... Nb7 4. Rh3 (4. Ra3 $2 Bh5 5. Ra4+ Kd5) 4... Bg4 5. Rh4) (3... Ne6 4. Rh3 (4. Ra3 $2 Bh5 5. Ra4+ Kd5 6. Ra5+ Nc5) 4... Ba4 5. Rh4+) 4. Ra3 (4. Rh3 $2 Bg4 5. Rh4 Ne5 6. h3) 4... Bh5 5. Ra4+ Kc5 6. Ra5+ 1-0  

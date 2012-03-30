@@ -1,0 +1,10 @@
+[Event "Hlinka JT_50_2ndComm {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Cervonjuk J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6k1/8/1n6/8/1p1P1B1K/6P1/8 w - - 0 1"]
+
+ 1. Be4 $1 Nc3 (1... Nd4 2. Bd5 b2 3. Ba2 Nb5 4. Bb1 $1) 2. Bf5 Kf6 3. g4 $1 (3. Bh7 $2 Ke5 4. d4+ Kf4 5. d5 Nxd5 6. Bg8 b2 7. Bh7 Ke3 (7... Nc3 8. Bc2 Ke3) 8. g4 Nf4+ 9. Kh4 Nd3 $19) 3... Ke5 4. d4+ $1 Kf4 (4... Kxd4 5. Kg2 $1 Ne4 (5... Ke3 6. g5 $1) 6. Kf3) 5. d5 $1 Nxd5 6. Bd3 $1 (6. Be6 $2 b2 7. Bf5 Ne3 8. Bb1 Nxg4) 6... Ke3 $1 7. Bb1 $1 (7. Bh7 $2 Nc3 $1) 7... Nc3 8. g5 $1 Nxb1 9. g6 $11 1/2-1/2  

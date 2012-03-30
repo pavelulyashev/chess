@@ -1,0 +1,10 @@
+[Event "tb10 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Rees L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5rk1/1P2R1p1/5q2/3Q4/2p4p/2Pp3P/5rP1/4R1K1 b - - 0 1"]
+
+ 1... Kh7 (1... Kh8 2. b8=Q Rf1+ 3. Kh2 Rxb8 4. Qh5+ Qh6 5. Qxh6+ gxh6 6. Rxf1 d2 7. Rd1) 2. b8=Q Rxb8 3. Qh5+ Qh6 4. Rxg7+ Kxg7 5. Re7+ Kf8 6. Qxh6+ Kxe7 7. Kxf2 1-0  

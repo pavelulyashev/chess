@@ -1,0 +1,10 @@
+[Event "5th HM, Nunn-50JT {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Csengeri J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K2/1bp4N/8/1P1PP3/4k3/8/8 w - - 0 1"]
+
+ {This study is based on a position of reciprocal zugzwang (arising after White's 3rd move), with accompanying thematic try. The fact that this position is reciprocal zugzwang is not at all obvious, and it is perhaps slightly unfortunate that White arrives at it by playing the most direct moves. However, the content, plus the natural initial position, means this study deserves its high ranking.} 1. e5 $1 (1. d5 $2 Kxe4 2. d6 c5 {is an easy draw.}) 1... Kxd4 ( 1... Ke4 2. e6 Bd8 3. Nf5 $1 Kxf5 4. e7 Bxe7 5. Kxe7 {wins}) 2. e6 ({Not} 2. Ng4 $2 Bc7 $1 3. e6 Bd6 {winning the b-pawn and drawing.}) 2... Bd8 3. Ng4 $3 { This move gives rise to a reciprocal zugzwang.} ({After} 3. Nf5+ $2 Kc4 4. Ne7 c5 $1 5. b5 Kxb5 6. Ke8 Bb6 7. Nf5 c4 8. Nd6+ Kb4 9. e7 c3 { both sides promote at the same time and the position is drawn.}) (3. Ke8 $2 { is the thematic try:} 3... Bf6 $1 4. Ng4 (4. Ng8 Bg5 5. Kf7 (5. Ne7 Kc4 6. Nxc6 Kb5 {is a clear positional draw}) 5... Ke5 6. Ne7 Kd6 7. Nf5+ Kd5 8. Ne3+ Kd4 9. Ng4 Bd8 {is the key zugzwang with White to move}) 4... Bg5 (4... Bh4 { is just as good}) 5. Kf7 (5. Kd7 Kc4 {draws}) 5... Bd8 { and we have the reciprocal zugzwang with White to play.}) 3... Kc4 {Black has n o decent moves. He clearly cannot move his bishop, and king moves allow White to improve the position of his knight:} (3... Kd5 4. Ne3+ Kd4 5. Ke8 $1 Bg5 6. Kd7 Kc3 7. Nc2 {wins}) (3... Ke4 {here the king is too far away from the b-pawn } 4. Ke8 $1 Bg5 5. Kd7 Kd5 6. Ne3+ $1) (3... Kc3 4. Ne5 {followed by Nxc6}) 4. Ne5+ Kd5 (4... Kb5 5. Nd3 {wins in the same way.}) 5. Nd3 Kc4 6. Ke8 $1 (6. e7 $2 Bxe7 {draws}) 6... Bh4 7. Kd7 Kxd3 8. Kxc6 1-0  

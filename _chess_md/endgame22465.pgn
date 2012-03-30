@@ -1,0 +1,10 @@
+[Event "tc40 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Avni A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/3nr2k/4p3/Q5K1/3pp1PB/3Rn3 w - - 0 1"]
+
+ 1. Rxd2 (1. Qa1 $2 Nd3 $1) (1. Qd6 $2 Nd3 $1) (1. Qf8 $2 exd1=Q 2. Qh8+ Kg6) 1... Nc2 $1 2. Qc1 $1 (2. Rxe2 $2 Nxa3) 2... e1=Q+ 3. Qxe1 Nxe1 4. Kh3 $1 Rg5 $1 (4... e3 5. Re2 Nd3 6. Bxe5 N3f4+ 7. Bxf4 Nxf4+ 8. Kg3 Nxe2+ 9. Kf3) (4... Rf5 $2 5. g4+) 5. g4+ (5. Re2 $2 Nd3) 5... Kg6 6. Re2 Nd3 7. Rxe4 $1 Nf2+ 8. Kh4 Nxe4 9. Bf4 $1 Nxf4 (9... Ndf6 10. Bxg5 Nxg5 11. Kg3) 1/2-1/2  

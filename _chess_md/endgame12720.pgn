@@ -1,0 +1,10 @@
+[Event "tl03 {c} @3 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "De Villeneuve Esclapon J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4n3/2b5/N6P/3K4/7B/pk6/8/8 w - - 0 1"]
+
+ 1. Nb4 Kxb4 (1... Bd6 $1 {cook FJ} 2. h7 Bxb4 3. h8=Q a2) (1... Nd6 $1 {cook FJ } 2. Ke6 Kxb4 3. Bf6 Bd8 $1 4. Bxd8 a2 5. Bf6 Ne4 6. Ba1 Ng5+ 7. Kf6 Nh7+ 8. Kg6 Nf8+) 2. h7 Be5 3. Kxe5 a2 4. Be1+ Kb3 5. Bc3 Kxc3 6. h8=Q a1=Q (6... Kc2 7. Qh2+ Kb1 8. Qg1+ Kb2 9. Qf2+ Kb1 10. Qe1+ Kb2 11. Qb4+ Kc2 12. Qa3 Kb1 13. Qb3+ Ka1 14. Qc2) 7. Ke6+ 1-0  

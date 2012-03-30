@@ -1,0 +1,10 @@
+[Event "ts23#42 @3 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2K1k2N/4P2q/P7/7P/2B5/8/p7/8 w - - 0 1"]
+
+ 1. Ng6 Qxg6 (1... Qxh5 $1 2. Bxa2 2... Qh3+ $1 3. Kb7 Qg2+ 4. Kb8 Qxa2 5. a7 Qb3+ 6. Kc7 Qa4 7. Kb7 Qb5+) 2. hxg6 a1=Q 3. g7 $1 (3. Kb7 $2 3... Qb1+ 4. Ka7 Qxg6 5. Kb7 Qe4+ 6. Kb8 Qxe7 7. a7 Kd8) 3... Qxg7 4. a7 Qg4+ 5. Be6 $1 (5. Kb7 $2 5... Qe4+ 6. Kb8 Qe5+ 7. Kc8 Qc5+ 8. Kb7 Qxe7+ 9. Kb6 Qd6+ 10. Kb5 Qa3 11. Kb6 Kd7 12. Ba6 Qe3+ 13. Kb7 Qb3+) (5. Kb8 $2 5... Qf4+ 6. Kc8 Qf5+ 7. Be6 7... Qc5+ $1 8. Kb7 Qb5+ 9. Kc7 Qa6 10. Kb8 Qb6+) 5... Qa4 $1 6. Bd7+ $1 (6. Kb7 $2 6... Qb5+ 7. Kc7 Qa6) 6... Qxd7+ 7. Kb8 Qd6+ 8. Kc8 $1 8... Qc6+ 9. Kb8 Qb6+ 10. Kc8 Qxa7 1/2-1/2  

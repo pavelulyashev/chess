@@ -1,0 +1,10 @@
+[Event "Internet (Endgame Tablebases Forum) {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/R6P/6r1/6q1/8/2K5/2Q5/8 w - - 0 1"]
+
+ 1. Ra8+ $1 Kxh7 2. Ra7+ $1 Kh8 {7th WCCT} (2... Kh6 3. Qh2+ Qh5 4. Rh7+ $1 { chameleon echo} Kxh7 5. Qxh5+ $18) 3. Qh2+ Qh6 (3... Rh6 4. Qb8+ Qg8 5. Qe5+ $18) 4. Qb8+ $1 (4. Qe5+ $2 Rf6 $1 5. Ra8+ Kh7 (5... Kg7 $2 6. Qc7+ Rf7 7. Qg3+ Qg6 8. Rg8+ $1 {chameleon echo} Kxg8 9. Qxg6+ $18) 6. Qe4+ Qg6 7. Qh4+ Qh6 $11) 4... Rg8 5. Qe5+ Rg7 6. Ra8+ Kh7 7. Qf5+ Rg6 (7... Qg6 8. Qh3+ Qh6 9. Rh8+ $1 { chameleon echo} Kxh8 10. Qxh6+ $18) 8. Kd3 $1 {mutual zugzwang} Qg7 9. Rd8 $1 ( 9. Ra6 $6 Kh8 10. Rxg6 $2 Qxg6 $1 11. Qxg6 {stalemate}) 9... Qh6 (9... Qe7 10. Rd7 $18) 10. Kc2 $1 Qh2+ 11. Kb3 Qg3+ 12. Ka2 (12. Rd3 $2 Qb8+ 13. Kc2 Qh2+ 14. Rd2 Qc7+ 15. Kd1 Kh8 $3 16. Qxg6 Qc1+ $1 17. Kxc1 {stalemate}) 12... Qh2+ 13. Ka3 Qg3+ (13... Qh6 14. Rd7+ Kh8 15. Qe5+ Rg7 16. Rd8+ Kh7 17. Qe4+ Rg6 18. Rb8 Qh3+ 19. Rb3 $18) 14. Rd3 $1 Qg5 (14... Qg4 15. Rd7+ Kh6 16. Qf8+ Rg7 17. Qh8+ $18) 15. Qd7+ Kh8 16. Qc8+ $1 Kh7 17. Qc7+ $1 Kh8 18. Rd8+ Rg8 19. Qh2+ 1-0  

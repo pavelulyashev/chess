@@ -1,0 +1,10 @@
+[Event "tt22#1521 {v} @2 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7N/1p1Bp3/5p2/3N4/p1p5/rqp5/bpkp2K1/1nb5 w - - 0 1"]
+
+ 1. Bf5+ Kd1 2. Kf1 Qb6 3. Nxb6 e6 4. Nd5 exd5 5. Nf7 d4 6. Nh6 (6. Nd8 $1 { cook WV} d3 7. Ne6) 6... d3 7. Bg4+ Kc2 8. Bd1+ Kxd1 9. Nf5 Kc2 10. Nd4+ Kd1 11. Kf2 f5 12. Nxf5 Kc2 13. Nd4+ Kd1 14. Kf1 b6 15. Kf2 b5 16. Kf1 b4 17. Kf2 Rb3 18. Nf5 Kc2 19. Ne3# 1-0  

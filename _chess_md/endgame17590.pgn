@@ -1,0 +1,10 @@
+[Event "t001 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p1k3/2p5/8/8/8/K1P5/8 w - - 0 1"]
+
+ 1. Kb3 Kd6 (1... Ke6 2. Kc4 Kd6 3. Kd4 c5+ 4. Ke4) 2. Kc4 $1 (2. Kc3 $2 Kc5 3. Kd3 Kb4 4. Kd4 c5+ 5. Kd5 c4 6. Kd4 c3 7. Kd3 c5) (2. Kb4 $2 Kd5 3. c3 c5+ $1 4. Kb5 c4 5. Kb4 c6) (2. c3 $2 Kc5) 2... c5 3. Kd3 (3. Kb5 $2 Kd5 4. c3 (4. Ka5 Kc4 5. Ka4 Kc3 6. Ka5 $1 c4 7. Kb5 Kd4) 4... c4 5. Kb4 c6) (3. c3 $2 Kc6 $1) ( 3. Kc3 $2 Kd5 $1 4. Kd3 c4+ 5. Ke3 Kc5 6. c3 Kb5 7. Kd4 c6) 3... Ke5 4. Kc4 (4. c4 $2 Kf4) (4. c3 $2 Kd5 5. c4+ Ke5 6. Ke3 c6) 4... Kd6 5. Kd3 Kd5 (5... Kd7 6. c4) (5... Kc6 6. c4) 6. c3 $1 (6. c4+ $2 Ke5) (6. Ke3 $2 Kc4) (6. Kc3 $2 c4) 6... Ke5 (6... c4+ 7. Ke3 Ke5 (7... Kc6 8. Kd4 $1 Kb5 9. Kd5 $1 c6+ 10. Kd4 $1) (7... Kc5 8. Ke4) 8. Kf3 Kd6 $1 9. Kf4 (9. Ke3 Kd5 10. Kf3 Kc6 $1) 9... Kc6 10. Ke5 (10. Ke3 Kb5 11. Kd4 c6) 10... Kc5 11. Ke4 (11. Ke6 c6 12. Ke5 Kb6 13. Ke4 Ka5) 11... c6 12. Ke3 Kb6 $1 13. Kd2 Ka5 14. Kc2 Kb5 15. Kc1 Ka4 16. Kb2) 7. Ke3 (7. Kc4 $2 Kd6 8. Kd3 Kd5 9. c4+ Ke5) 7... Kd6 (7... Ke6 8. Ke4 Kd6 9. c4 $1 Kc6 10. Kd3 $1 Kb6 11. Kc3) 8. Ke4 (8. Kd2 $2 Kc6 $1 9. Kc2 c4 10. Kd2 Kc5) 8... Kc6 9. c4 Kb7 (9... Kb6 10. Kd5) (9... Kd6 10. Kf5) 10. Kd3 Ka6 11. Kc3 Kb6 12. Kc2 $1 Ka5 (12... Kc6 13. Kd3 $1 Kd6 14. Ke4 $1) 13. Kb3 1/2-1/2  

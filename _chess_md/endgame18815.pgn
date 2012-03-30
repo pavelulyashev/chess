@@ -1,0 +1,10 @@
+[Event "ts23 @3 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2r4b/2B5/8/8/k7/3P4/B7/5K2 w - - 0 1"]
+
+ 1. Bb6 $1 (1. Bf4 $2 Rf8) 1... Rc1+ 2. Kg2 Rc2+ 3. Kh1 Rxa2 (3... Kb5 $1 { cook KT} 4. Bg1 Rxa2 5. Bd4 Ra8 $1) 4. Bd4 $1 Bxd4 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "Olthof40_hm unclear {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Fleck J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1r1P3P/7b/8/2p5/2K5/7p/k7 w - - 0 1"]
+
+ 1. h8=Q (1. d8=Q Bg7+ 2. Kxc4 h1=Q) 1... Bg7+ $1 {Else wQ mates from a8} 2. Qxg7 h1=Q 3. Kxc4+ (3. d8=Q Qc1+ 4. Kd4 Rxg7) 3... Ka2 4. Qg8 (4. Qf7 $5 Qc1+ 5. Kd5 $3 (5. Kd3+ Kb1) (5. Kd4+ Ka1) 5... Qc7 (5... Qd2+ 6. Ke6 Qd4 7. Ke7+ Kb2 8. Qf5) 6. Kd4+ {unclear}) 4... Rxd7 5. Qe6 $3 (5. Kc3+ Ka1) 5... Rd2 (5... Ra7 6. Kb4+ Kb2 7. Qb3+ Kc1 8. Qe3+) (5... Rb7 6. Kc3+ Kb1 7. Qg6+ Ka2 8. Qa6+) (5... Qd1 6. Kc3+ Ka3 7. Qa6+ Qa4 8. Qd6+) (5... Qb7 6. Kc5+ Ka3 (6... Kb1 7. Qe1+ Kc2 8. Qc3+ Kd1 9. Qa1+ Ke2 10. Qe5+ Kf2 11. Qf5+ Kg3 12. Qg5+ Kf3 13. Qf5+ Ke3 14. Qh3+ Kd2 15. Qc3+) 7. Qa6+) 6. Kc3+ Qd5 7. Qa6+ Kb1 8. Qf1+ Rd1 9. Qb5+ Qxb5 1/2-1/2  

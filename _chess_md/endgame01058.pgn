@@ -1,0 +1,10 @@
+[Event "Josten65 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/5p2/3ppkp1/6NR/3P1P1p/3Kn2r w - - 0 1"]
+
+ 1. Rh5 (1. Nxh1 $2 gxh3 $19) (1. Rh8 $2 Rg1 $19) 1... Nd3+ $1 (1... Rg1 $2 2. Rxf5#) 2. Nxh1 Nxf2+ $1 (2... Kf3 3. Rxh2 (3. Rxf5+ $2 Kg2 $19) 3... f4 4. Rh4 $11) 3. Nxf2 g3 4. Ke2 (4. Ke1 $2 g2 $19) 4... g2 $1 (4... d3+ 5. Kf1 $11) 5. Rxh2 g1=Q 6. Nh3+ Kg3 7. Nxg1 Kxh2 8. Kf1 $3 (8. Kf2 $2 d3 9. Nf3+ (9. Kf1 Kg3 $19) 9... exf3 10. Kf1 (10. Kxf3 Kg1 $19) 10... Kg3 11. Kg1 f2+ 12. Kf1 Kh3 $1 {mutual zugzwang} (12... Kh2 $2 13. Kxf2 {mutual zugzwang} Kh3 14. Kf3 Kh2 15. Kf2 Kh1 16. Kf1 {positional draw}) 13. Kxf2 Kh2 {mutual zugzwang} 14. Kf1 Kg3 15. Kg1 Kf3 16. Kf1 f4 $19 {mutual zugzwang}) 8... d3 9. Kf2 $1 (9. Nf3+ $2 exf3 10. Kf2 Kh1 11. Kf1 f2 $1 {mutual zugzwang} 12. Kxf2 Kh2 $19 { mutual zugzwang}) 9... f4 10. Nf3+ exf3 11. Kf1 Kg3 12. Kg1 f2+ 13. Kf1 Kh3 14. Kxf2 Kh2 15. Kf1 Kg3 16. Kg1 {mutual zugzwang} Kf3 17. Kf1 {mutual zugzwang} Kg3 18. Kg1 f3 19. Kf1 f2 {stalemate} 1/2-1/2  

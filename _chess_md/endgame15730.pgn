@@ -1,0 +1,10 @@
+[Event "wc11 wi04 {v} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Grondijs H, Elkies N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/1p2pP2/p3P3/k2p2P1/2p5/3P4/6K1 w - - 0 1"]
+
+ 1.dxc3 (1.fxe7 $2 cxd2 2.e8=Q+ b5) 1...exf6 (1...d3 2.fxe7 d2 3.e8=Q+) 2.cxd4 fxe5 3.d5 (3.g5 $2 exd4 4.Kf2 Kb3) 3...Kb5 (3...exd5 4.g5 d4 5.g6 d3 6.Kf1 Kb3 7.g7 d2 8.g8=Q+) 4.g5 (4.dxe6 $2 Kc6) 4...a4 5.dxe6 (5.g6 $2 a3) 5...Kc6 6.g6 (6.e7 $2 Kd7) 6...a3 7.e7 (7.g7 $2 a2) 7...Kd7 8.g7 (8.e8=Q+ $2 Kxe8) 8...a2 9.e8=Q+ Kxe8 10.g8=Q+   1-0  

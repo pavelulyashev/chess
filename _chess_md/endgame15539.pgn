@@ -1,0 +1,10 @@
+[Event "te03 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Roycroft A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7r/6p1/6r1/6pk/5p2/3b2QK/6PR/8 w - - 0 1"]
+
+ 1. Qg4+ Kh6 2. Qh5+ (2. Rh1 $2 Rc6 3. Kh2 Kg6+) 2... Kxh5 3. g4+ fxg3 (3... Kh6 4. Kg2#) 4. Kxg3# 1-0  

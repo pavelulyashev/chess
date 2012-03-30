@@ -1,0 +1,10 @@
+[Event "ts70#1855 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Sanderse J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/4k2p/7P/6P1/B2Nb3/2pp4/2p3N1/8 w - - 0 1"]
+
+ 1. Bxc2 (1. Nxc2 $2 dxc2 2. Bxc2 Bxc2 3. Nf4 Be4) 1... dxc2 2. Ne2 Bxg2 3. g6 ( 3. Kxh7 $2 Kf8 4. Kg6 Kg8 5. h7+ Kh8 6. Kh6 Be4 7. g6 Bxg6 8. Kxg6 c1=Q 9. Nxc1 ) 3... Be4 (3... Bf3 4. Nc1 Be4 5. gxh7 Bxh7+ 6. Kxh7 Kf7 7. Nd3 Kf8 8. Kg6 Kg8 9. h7+ Kh8 10. Ne5 c1=Q 11. Nf7#) 4. gxh7 (4. g7 $2 Kf6 5. Kh8 Bd5 6. Kxh7 Kg5) 4... Bxh7+ 5. Kxh7 Kf7 6. Nc1 Kf8 7. Kg6 Kg8 8. Nd3 Kh8 9. Ne5 c1=Q 10. Nf7+ Kg8 11. h7+ Kf8 12. h8=Q+ Ke7 13. Qd8+ Ke6 14. Qd6# 1-0  

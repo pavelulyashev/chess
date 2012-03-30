@@ -1,0 +1,10 @@
+[Event "3 Prize Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Polasek J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1r1pk1B1/8/1pK5/b7/PpNR2PP/8 b - - 0 1"]
+
+ 1... d5+ (1... b3 2. Nd4+ Kf6 3. Bb1 bxa2 4. Bxa2 b1=Q 5. Bxb1 Rxb1 6. Kd5) 2. Rxd5 Rc6+ 3. Rc5 Rxc5+ 4. Kxc5 b3+ 5. Nxa3 bxa2 6. Bb1 a1=Q 7. Kb4 Ke5 (7... Kf6 8. h4 $1) 8. g3 $1 (8. h4 $2 Kf4) 8... Kf6 9. h4 $1 Kg7 10. g4 Kf6 11. g5+ Kg7 12. h5 Kg8 13. h6 Kf8 14. g6 Kg8 15. g7 Kf7 16. Ka4 $1 (16. Kb3 $2 Kg8 17. Ba2 Qg1 $1 18. Kxb2+ Kh7 19. g8=Q+ Qxg8 20. Bxg8+ Kxg8) 16... Kg8 17. Kb3 Kf7 18. Ba2 Kg8 19. Nb1 Kh7 20. Ka3 1-0  

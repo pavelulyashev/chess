@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Tarrasch S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5k2/8/4Q1K1/6B1/1q6/8/8 w - - 0 1"]
+
+ 1. Bd7 (1. Bh5+ $2 Kg8 2. Qe8+ Kg7 3. Qe7+ Kg8 4. Kh6 Qb6+ 5. Bg6 Qf6 $1 6. Qxf6) 1... Qf3 (1... Qb6 2. Qe8+ Kg7 3. Qe7+ Kg8 (3... Kh8 4. Qf8+ Kh7 5. Bf5+) 4. Be6+ Kh8 5. Qf8+ Kh7 6. Qh6#) (1... Kf8 2. Qd6+ Kg7 (2... Kf7 3. Qf6+ Kg8 4. Be6+) 3. Qf6+ Kh7 4. Bf5+ Kg8 5. Be6+ Kh7 6. Qh6#) 2. Be6+ Kf8 3. Qd6+ Ke8 4. Qd7+ Kf8 5. Qd8+ Kg7 6. Qg8# 1-0  

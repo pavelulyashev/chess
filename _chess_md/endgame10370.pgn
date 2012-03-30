@@ -1,0 +1,10 @@
+[Event "wh11 te01#083 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2n3Q1/6Pp/8/R2B3k/5P2/3P2pK/4r3/1qb5 b - - 0 1"]
+
+ 1... Rh2+ 2. Kxg3 Bxf4+ 3. Kxf4 (3. Kf3 $2 Qf1+ 4. Ke4 Nd6+ 5. Kd4 Qf2+ 6. Kc3 Qb2#) 3... Rh4+ 4. Kf5 (4. Kf3 $2 Qf1+ 5. Ke3 Qe1+ 6. Kf3 Rh3+ 7. Kf4 Qe3+ 8. Kf5 Qg5+) (4. Ke5 $2 Qb8+ $1) 4... Qxd3+ (4... Ne7+ 5. Ke6 $1 Nxg8 6. Ba2+) 5. Be4 Qxe4+ 6. Kf6+ Kh6 7. Rh5+ (7. Qxc8 $2 Qg6+ 8. Ke5 Qxg7+ 9. Kd6 Qg3+) 7... Rxh5 8. Qxh7+ Qxh7 9. g8=N+ Qxg8 1/2-1/2  

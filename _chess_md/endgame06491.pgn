@@ -1,0 +1,10 @@
+[Event "t001 {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2r5/7K/7p/7k/4NBp1/3N4 w - - 0 1"]
+
+ 1. Bg1 Rf6 2. Nf2+ Rxf2 3. Bxf2 g1=Q 4. Bxg1 (4. Nxg1+ $2 4... Kg2) 4... Kg2 5. Kg4 $1 5... h3 6. Bh2 $1 6... Kh1 $1 (6... Kxh2 7. Kf3) 7. Kf4 $1 7... Kg2 8. Ke3 Kxh2 9. Kf3 Kh1 10. Kf2 Kh2 11. Nd4 Kh1 12. Nf5 Kh2 13. Ne3 Kh1 14. Nf1 h2 15. Ng3# 1-0  

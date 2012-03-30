@@ -1,0 +1,10 @@
+[Event "td20#2177 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K6/R6P/8/4r3/4k3/8/8 w - - 0 1"]
+
+ 1. Ra3+ $1 (1. Rf6 $2 Re7+ 2. Kc6 (2. Kc8 Ke4 3. Kd8 Rh7 4. Ke8 Ke5 5. Ra6 Kf5 6. Kf8 Kg5) 2... Ke4 3. Kd6 Rh7 4. Ke6 Ra7 $1 5. Rg6 Kf4 6. Kf6 Rh7) 1... Kf4 ( 1... Kf2 2. Rh3 Re7+ (2... Kg2 3. h7 $1) 3. Kc6 Rh7 4. Kd6 Kg2 5. Rh5 Kg3 6. Ke5 $3 (6. Ke6 $2 Kg4 7. Rh1 Kg5 8. Rg1+ Kf4 $3 9. Rh1 (9. Rg6 Ra7) 9... Kg5 10. Ke5 Re7+) 6... Kg4 7. Rh1 Kg5 8. Rg1+ Kh5 (8... Kh4 9. Kf5) 9. Kf6 Rxh6+ 10. Kf5) 2. Ra4 Rxa4 3. h7 Rb4+ 4. Kc7 Rc4+ 5. Kd7 Rd4+ 6. Ke7 Re4+ 7. Kf7 1-0  

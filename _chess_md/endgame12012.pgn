@@ -1,0 +1,10 @@
+[Event "ts10#09379 @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pudovkin V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/8/1P6/1rP5/8/1p6/1p6/1B4k1 w - - 0 1"]
+
+ 1. b7 $1 (1. Ka7 $2 Ra5+ 2. Kb7 Rxc5 3. Ka6 Rc1 $1 4. Bh7 (4. b7 Rxb1 5. b8=Q Ra1+) 4... b1=Q 5. Bxb1 Rxb1 6. b7 b2 7. b8=Q Ra1+) 1... Ra5+ $1 2. Kb8 Rxc5 3. Ka7 Rb5 4. Ka6 Rb4 5. Ka5 $1 Rxb7 6. Ka4 Kf2 (6... Ra7+ $1 {cook MS} 7. Kxb3 Rb7+ 8. Kc3 Kf2 9. Kc2 Ke3 10. Kc3 Rb6 11. Kc2 Kd4 12. Ba2 Rb4 13. Bb1 Kc5 14. Ba2 Kb5 15. Bb1 Ka4 16. Ba2 Ka3) 7. Ka3 Ke2 8. Kxb2 1/2-1/2  

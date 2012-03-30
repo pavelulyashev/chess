@@ -1,0 +1,13 @@
+[Event "3rd HM., Ceskoslovensky sach {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Rossolimo N"]
+[Black "Win"]
+[Result "*"]
+[FEN "6r1/6b1/8/8/8/p1P5/P3B1R1/4k1K1"]
+
+1.Ba6! {On this and subsequent moves, the wB forces the bR onto white squares where it can be attacked.} 1...Ra8 {If} (1...Kd1 2.Bc4 Rc8 3.Bb3+) 
+2.Bb7 Rg8 3.Bc6 $1 {Again, direct attack fails - } (3.Bd5 $2 Rd8 $1) 3...Rc8 
+(3...Kd1 4.Bd5 Rd8 5.Bb3+ )
+4.Bd7 Rg8 5.Be6 Re8 6.Bf7

@@ -1,0 +1,10 @@
+[Event "tg10#85 @3 {m}"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/2q2p2/8/3K1N2/5p2/8/8/5Q2 w - - 0 1"]
+
+ 1. Nd6+ Kb8 (1... Kd8 $1 {cook HH}) 2. Qb1+ Ka8 3. Qa1+ Qa7 (3... Kb8 4. Qh8+ Ka7 5. Nb5+) 4. Qh8+ Qb8 5. Qh1 $1 Ka7 (5... Qb3+ 6. Kc6 $1) (5... Qb2 6. Qe4 $1) 6. Qa1+ Kb6 7. Qd4+ Kc7 (7... Ka5 8. Qc3+ Qb4 9. Nb7+ Ka4 10. Nc5+ Kb5 $1 11. Qd3+ Kb6 12. Qa6+ Kc7 13. Qd6+ Kc8 14. Qd7+ Kb8 15. Na6+) 8. Qc3+ Kd7 {'!'} (8... Kb6 9. Qc5+ Ka6 10. Qa3+ Kb6 11. Nc4+) 9. Qc6+ Ke7 10. Nf5+ Kd8 $1 11. Qf6+ Kc7 (11... Kc8 12. Nd6+ Kc7 13. Qe7+ Kb6 14. Nc4+) 12. Qe7+ Kb6 13. Qb4+ Kc7 14. Qc5+ Kb7 $1 15. Nd6+ Ka6 16. Qa3+ Kb6 17. Nc4+ Kb7 18. Qb4+ Ka8 19. Qa4+ Qa7 20. Qe8+ Qb8 (20... Kb7 21. Nd6+) 21. Nb6+ Ka7 22. Nc8+ Ka8 23. Qa4+ Kb7 24. Qc6# 1-0  

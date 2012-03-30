@@ -1,0 +1,10 @@
+[Event "ts64 {v} {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2p1q3/6R1/2P5/1K6/8/1k4N1 w - - 0 1"]
+
+ 1. Ne2 Qe3+ (1... Qxe2 2. Rg1+ Qd1+ 3. Rxd1#) (1... Qh3+ 2. Rg3 $1) 2. Nc3+ Kc1 3. Rg1+ Kd2 (3... Qxg1 4. Ne2+) 4. Rd1# 1-0  

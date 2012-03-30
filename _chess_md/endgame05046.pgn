@@ -1,0 +1,10 @@
+[Event "us22 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1k6/8/3N4/8/2K5/8/3B3n w - - 0 1"]
+
+ 1. Bf3 $1 (1. Kd4 $2 1... Nf2 2. Bf3 Kc6 3. Ke3 (3. Nf4+ Kd6 4. Ke3 Ke5) 3... Nd1+) 1... Ng3 $1 (1... Nf2 2. Kd2 $1 (2. Kd4 $2 2... Kc6 3. Ke3 Nd1+) 2... Kc6 3. Ke2 $1 3... Nh3 4. Nf4+) 2. Ne3+ $1 2... Kb6 (2... Kc7 3. Kd4 Kd6 4. Bg4 $1 4... Ke7 5. Ke5 Kf7 (5... Nh1 6. Nd1 Ng3 7. Nb2 Nf1 8. Nc4) 6. Kf4) 3. Kb4 3... Ka6 $1 (3... Kc7 4. Kc5 Kd7 5. Kd5 Ke7 6. Ke5) 4. Kc5 Ka5 (4... Ka7 5. Kb5) 5. Nc4+ $1 5... Ka6 (5... Ka4 6. Bd1#) 6. Nd6 $1 6... Ka5 (6... Ka7 7. Kb5 Kb8 8. Kb6 Nf1 9. Nc4 Ng3 10. Ne3 $1) 7. Bd1 $1 (7. Bc6 $2 7... Ka6 8. Bd7 8... Ka5 $1 9. Bb5 9... Ne4+ $1 10. Nxe4) 7... Ka6 (7... Nf1 8. Nc4+ Ka6 9. Bf3) 8. Bg4 $1 8... Ka5 $1 (8... Ka7 9. Kb5 Nf1 10. Nc4 Ng3 11. Nd2) 9. Nc4+ $1 9... Ka6 10. Nd2 Ka5 (10... Nh1 11. Ne4) 11. Kc4 Ka4 12. Kd3 $1 12... Kb4 13. Kd4 $1 13... Ka3 14. Ke3 Kb4 15. Nf3 $1 15... Kc5 16. Nh2 $1 16... Kd5 17. Kf4 Ne4 18. Bf3 1-0  

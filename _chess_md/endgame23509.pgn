@@ -1,0 +1,10 @@
+[Event "tc06#618 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3R4/4k3/1r6/8/6p1/7B/5K2/4B3 w - - 0 1"]
+
+ 1. Bf1 $1 Kxd8 (1... Rf6+ 2. Kg2 $1 Kxd8 3. Bh4 Ke7 4. Bc4) 2. Ba5 Kc7 3. Bg2 1-0  

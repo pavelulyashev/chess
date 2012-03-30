@@ -1,0 +1,10 @@
+[Event "ARVES Solving 2002 {m}"]
+[Site "?"]
+[Date "2002.11.17"]
+[Round "?"]
+[White "Carlsson O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8b2p3B3R4P5B12k581K4p15n2 w - - 0 1"]
+
+ 1. Bd3+ Kb4 {After} (1... Kc5 2. Be7 g1=Q 3. Rg6+ Kd5 4. Rxg1 Bxg1 5. Bxf1) {or} (1... Kc5 2. Be7 Ng3 3. Rg6+ Kd5 4. Rxg3 g1=Q 5. Rxg1 Bxg1 6. Bb5) {White's remaining pawn stays alive} 2. Be7 g1=Q 3. Rb6+! {The author's point: after} (3. Rg6+? Ka4 4. Rxg1 Bxg1 5. Bd8 Nd2 6. Bb6 Nb3 7. Bc2 Kb5! 8. Bxb3 Bxb6) {White's last pawn is lost, but unfortunately we could not find a way to refute} (3. Rd5+ Bc5 (3...Ka4 4. Bc2#) 4. Bxc5+ Qxc5 5. Rxc5 Kxc5 6. Bxf1) 3... Ka4 (3... Kxa5 4. Ra6#) 4. Rb4+ Kxa5 5. Ka3! Qc5 6. Bd8+ Bb6 7. Bxb6+ Qxb6 8. Ra4# 1-0  

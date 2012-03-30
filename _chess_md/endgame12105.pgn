@@ -1,0 +1,10 @@
+[Event "ts23#47 {c} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Abramov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/1p1N1p2/pR2p1p1/1P1kPPn1/1Kp5/6P1/2P3P1/3N4 w - - 0 1"]
+
+ 1. Rxa6 $1 Qh8 (1... bxa6 2. Nb6+) (1... Qc8 2. Nb6+) (1... Qe8 2. Nf6+) (1... Qg8 2. Nf6+) (1... Qd8 2. Rd6+) 2. Ra8 $1 Qh1 $1 (2... Qg7 3. Rg8 $1 Qxg8 4. Nf6+) (2... Qh2 3. Nf6+ Kd4 4. Rd8+ Kxe5 5. Ng4+) 3. Ra1 $1 Qh8 $1 (3... Qh6 4. Ne3+ Ke4 5. Ng4 Qh8 6. Ndf6+) 4. Nf2 exf5 (4... Qd8 5. Rd1#) (4... Kd4 5. Ng4 Ke4 6. Rf1) 5. Ra8 $1 (5. Rh1 $2 Qg7) 5... Qh2 6. Nf6+ Ke6 (6... Kd4 7. c3+ Kxe5 8. N6g4+ fxg4 9. Nxg4+) 7. Re8# 1-0  

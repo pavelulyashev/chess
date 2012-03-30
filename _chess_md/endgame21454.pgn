@@ -1,0 +1,10 @@
+[Event "tl20 @1 @2 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4p3/1k2P3/3K4/3P4/8/8 w - - 0 1"]
+
+ 1. Ke3 (1. Ke4 $1 {cook HH} Kc5 2. Ke3 Kd5 3. d4) 1... Kc5 2. d4+ (2. Ke4 $1 { cook HH}) 2... Kc6 (2... Kc4 3. Ke4) (2... Kd5 3. Kd3) 3. Ke4 Kd7 4. Kf4 Ke7 5. Kg5 1-0  

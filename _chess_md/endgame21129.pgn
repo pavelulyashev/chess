@@ -1,0 +1,10 @@
+[Event "2 Commendation, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.11.02"]
+[Round "?"]
+[White "Sobrecases G"]
+[Black "*"]
+[Result "*"]
+[FEN "3Nk1K1/5p2/1RP5/6P1/6n1/1Bq5/5P2/8 w - - 0 0"]
+
+ 1. Nxf7 $3 {threats 2.Rb8+ Ke7 3.Rb7+ Ke8 4.Nd6+ Kd8 5.Rd7} Nf6+ 2. gxf6 Qxb3 { pin} 3. Rb8+ $3 {The WR sacrifices to unpin the WSf7 and prevents Qg3+} Qxb8 { unpin} 4. c7 $3 Qxc7 5. Ne5 $3 Qb8 $5 6. f3 {zz} Qa8 7. Kg7 { threats 8.f7+ Ke7 9.Ng6+ +-} Qb7+ 8. f7+ Kd8 9. f4 {the BQ cannot find another square on the 7th rank to keep the WPc7 pinned. The BK is forced to play on c8 where it will be immobilized by the WNc6, and then will be checked by the WNe7, unpinning the WPf7 at the end of the line.} Kc8 10. f5 {zz} Qa7 11. f6 Qb7 ( 11... Qg1+ 12. Ng6 Qa7 {pin} 13. Ne7+ {unpin}) 12. Nc6 $3 {The BKc8 cannot escape from the check to come from the WNe7, as it would unpin the WPf7 if it plays on the 7th rank. The WN sacrifices to close the line b7-g2, and its capture by the BQ would unpin the WPf7.  [12.Ng6? Kb8 13.Ne7 Qg2+ 14.Ng6 Qb7! 15.Kg8 Qb3= 16.Ne5 Qg3+ 17.Kh7 Qh4+ 18.Kg7 Qg3+! 19.Ng6 Qc7! pinning]} Qc7 13. Ne7+ $18 {.  .  Very good tactical study with excellent introduction involving many sacrifices by both White and Black, also related to pinning (2..Qxb3) and unpinning (3.Rb8+).  Then an original reciprocal zugzwang position occurs after a festina lente move (6.f3), also related to pinning since bQ cannot play and keep the pin on wpf7. The final play is crowned with a sacrifice of the wS with an unpinning pointe (13.Se7+). The only serious drawback is the capturing key move.  HvH} *  

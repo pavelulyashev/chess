@@ -1,0 +1,10 @@
+[Event "All-Union Ty {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Tsjechover V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n4K2/5BP1/6P1/5k2/6pp/8/p7/2b5 w - - 0 1"]
+
+ 1. Be6+ (1. g8=Q $2 a1=Q) (1. Bxa2 $2 Bh6) 1... Ke4 $1 (1... Kg5 2. Bxa2) (1... Ke5 2. g8=Q a1=Q 3. Qh8+) (1... Kf6 2. g8=Q Bh6+ 3. g7 a1=Q 4. Qf7+ Ke5 (4... Kg5 5. Qf5#) 5. Qh5+) (1... Kxe6 2. g8=Q+) 2. Bd5+ $1 (2. g8=Q $2 a1=Q 3. g7 Ke3 $1 4. Qf7 (4. Qh7 Qf6+) 4... Ba3+ 5. Ke8 (5. Kg8 Bb2) 5... Qe5 $1 6. Qa7+ ( 6. g8=Q Qb8+) 6... Bc5) 2... Kd3 $1 (2... Kf5 3. g8=Q a1=Q (3... Bh6+ 4. g7 a1=Q 5. Qe6+ Kg5 6. Qe3+ Kh5 7. Bf7#) 4. Qe6+ {pseudo-Bristol} Kg5 5. g7 Ba3+ 6. Kf7 $1 Qf1+ 7. Kg8 Bb2 8. Kh7 Bxg7 9. Qg6+) (2... Kf4 3. Bxa2) (2... Ke5 3. g8=Q a1=Q 4. Qh8+) 3. Bc4+ $1 (3. g8=Q $2 a1=Q 4. g7 Qf6+ 5. Ke8 Bg5 $1 6. Qh7+ Kc3) (3. Bxa2 $2 Bh6 4. Kf7 Bxg7 5. Kxg7 h3) 3... Kc2 $1 (3... Ke4 4. g8=Q a1=Q (4... Bh6+ 5. g7 a1=Q 6. Qd5+ Kf4 7. Qd2+) 5. Qd5+ {pseudo-Bristol} Kf4 6. g7) (3... Ke3 4. Bxa2) (3... Kc3 4. g8=Q a1=Q 5. Qh8+) 4. Bb3+ $1 (4. g8=Q $2 a1=Q) (4. Bxa2 $2 Bh6) 4... Kb1 (4... Kxb3 5. g8=Q+ Ka3 (5... Kb2 6. Qh8+ Kb1 7. g7 a1=Q 8. Qh7+ Kb2 9. g8=Q) 6. g7 Bh6 (6... a1=Q 7. Qe6) 7. Qh7 a1=Q (7... Bxg7+ 8. Qxg7 Kb3 9. Qb7+) 8. Qxh6 Qf1+ 9. Ke7 Qe2+ 10. Qe6) (4... Kb2 5. g8=Q Bh6+ $1 (5... a1=Q 6. Qg7+ Kb1 7. Bc2+ Ka2 8. Qf7+ Kb2 9. Qb3#) 6. Kf7 a1=Q 7. Qh8+ Kb1 8. Bc2+ Ka2 9. Qxa8+ Kb2 10. Qh8+ Ka2 11. Bb3+ Kb1 12. Qxh6) (4... Kd3 5. g8=Q a1=Q (5... Bh6+ 6. g7 a1=Q 7. Qh7+) 6. Qc4+ {pseudo-Bristol} Kd2 7. Qd5+ Ke1 8. Qe6+ Kf2 9. g7) 5. Bxa2+ $1 1-0  

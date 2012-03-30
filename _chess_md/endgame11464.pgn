@@ -1,0 +1,10 @@
+[Event "2 s. prize {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Slepjan G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1b6/8/8/3b4/7k/1p4R1/1P3pRB/7K w - - 0 1"]
+
+ 1. Rg4+ Kh3 2. Bg1 $1 ({Thematic try} 2. Rh4+ $5 Kxh4 3. Bg3+ Kh3 4. Bxf2 Bxg2+ {(Bh2)} 5. Kg1 Bh2#) 2... f1=B $1 (2... f1=Q 3. Rh4+ {(Rg3)} Kxh4 {stalemate}) (2... Bxg2+ 3. Rxg2 f1=Q 4. Rg3+ Kh4 5. Rg4+ Kxg4 {stalemate}) 3. Rh4+ $1 (3. Be3 $5 Bdxg2+ 4. Kg1 Kxg4 $19) 3... Kxh4 4. Bf2+ Kh3 5. Kg1 Bdc4 (5... Bfc4 6. Bg3 Bxg3 7. Rxg3+ Kxg3 {stalemate}) (5... Bdxg2 6. Bg3 Ba7+ 7. Bf2 Bxf2+ 8. Kxf2 $11) 6. Be1 $1 (6. Rg3+ $5 Bxg3 7. Bxg3 Kxg3 8. Kh1 Bg2+ 9. Kg1 Bh1 10. Kxh1 Kf2 $19) 6... Bxg2 (6... Ba7+ 7. Bf2 Bb8 8. Be1 $11) 7. Bg3 Ba7+ (7... Kxg3 {(Bxg3) stalemate}) 8. Bf2 Bb8 (8... Bxf2+ 9. Kxf2 $11) 9. Bg3 {positional draw. New variation of known idea of the same author (EG 164,2006). More economical position, though not full contents are saved here.} 1/2-1/2  

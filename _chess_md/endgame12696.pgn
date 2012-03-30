@@ -1,0 +1,10 @@
+[Event "tb19 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Petenyi G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/8/5P1P/5rpk/8/3p4/P7/4K3 w - - 0 1"]
+
+ 1. Ne7 $1 (1. h7 $2 Re5+ 2. Kf1 Re8) 1... Rxf6 2. h7 Rh6 3. Ng8 $1 Rxh7 4. Nf6+ Kg6 5. Nxh7 Kxh7 6. Kd2 $3 (6. a4 $2 g4 $1) 6... Kg6 7. a4 g4 8. Kxd3 Kf5 9. a5 1-0  

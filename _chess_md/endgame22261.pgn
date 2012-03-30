@@ -1,0 +1,10 @@
+[Event "tc06#178 {m}"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Sochniev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/7K/8/N6k/2B2p2/4p3/3p1n2/8 w - - 0 1"]
+
+ 1. Be2+ Ng4 2. Nc4 f3 (2... d1=Q 3. Bxd1 e2 4. Bxe2 f3 5. Bd3) 3. Bxf3 d1=Q 4. Bxd1 e2 5. Bc2 $1 (5. Ba4 $2 Nf6+ 6. Bxf6 e1=Q 7. Ne3 Qb1+ 8. Bc2 Qb7+) 5... Nf6+ $1 6. Bxf6 e1=Q 7. Ne3 $1 (7. Ne5 $2 Qe4+ $1 8. Bxe4) 7... Qb1 8. Be7 $1 1-0  

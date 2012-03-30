@@ -1,0 +1,10 @@
+[Event "on01 {c} {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/8/8/2kp4/8/8/1Pr5/R3K3 w Q - 0 1"]
+
+ 1. Nd7+ $1 (1. Ne6+ $2 Kc4 $1 2. b3+ Kc3 $1 3. Ra8 Rc1+ 4. Ke2 Kxb3) (1. Rb1 $2 Kc4 2. Ne6 Rh2 3. Kd1 Rh1+ 4. Kc2 Rh2+ 5. Kc1 Rh1+) 1... Kd6 (1... Kd4 2. Nb6 Rxb2 3. O-O-O+ Kc3 4. Na4+ $1) (1... Kb4 2. Ne5 Rxb2 3. Nd3+) (1... Kb5 2. Ra8 Rxb2 3. Rb8+) (1... Kc4 2. Ne5+ Kb3 3. Nd3 Rh2 4. O-O-O) 2. Nb6 Rxb2 (2... Kc5 {main} 3. Ra6 $1 (3. Na4+ $2 Kb4 4. Kd1 Rh2 5. Ra2 d4 6. Kc1 Kb5 7. Ra3 Rg2 8. Kb1 Rh2 9. Ka2 Rg2 10. Kb3 Rg3+ 11. Ka2 Rg2) 3... Kb5 (3... Rxb2 {main} 4. Na4+ Kb5 5. Rb6+ Kxa4 6. Rxb2) 4. Nxd5 Kxa6 (4... Rxb2 {main} 5. Rb6+) (4... Rc5 5. Rb6+ Ka5 6. b4+) (4... Rc1+ 5. Kd2 Rb1 6. Nc3+) (4... Kc5 5. Rc6+ Kxc6 6. Nb4+) 5. Nb4+ Kb5 6. Nxc2) 3. Nc4+ dxc4 4. O-O-O+ 1-0  

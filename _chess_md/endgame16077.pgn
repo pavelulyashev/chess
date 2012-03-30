@@ -1,0 +1,10 @@
+[Event "Pawn tourney, 1-2 prize {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5P2/7p/4P2P/1p2p1pK/pP1pP1p1/P2P1pP1/6k1 w - - 0 1"]
+
+ 1. f8=R $1 (1. f8=Q $2 Kh2 $1 2. e6 (2. Qxb4 f1=Q 3. Qxe4 Qa1 4. e6 Qf6+ {draw. }) 2... f1=Q 3. Qxf1 {stalemate.}) 1... f1=Q 2. Rxf1+ Kxf1 3. Kxg3 (3. e6 $2 Kxg2) 3... Ke2 4. e6 Kxd2 5. e7 Kxe3 6. e8=R $1 (6. e8=Q $2 d2 7. Qd7 d1=Q 8. Qxd1 {stalemate.}) 6... d2 7. Rd8 Ke2 8. Kxg4 d1=Q 9. Rxd1 Kxd1 10. Kf4 Kc2 11. Kxe4 Kb2 12. Kd3 Kxa2 13. Kc2 Ka1 14. g4 Ka2 15. g5 hxg5 16. h6 g4 17. h7 g3 18. h8=B $1 (18. h8=Q $2 g2 19. Qd4 g1=Q 20. Qxg1 {stalemate.}) 18... g2 19. Bd4 {win.} 1-0  

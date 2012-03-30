@@ -1,0 +1,18 @@
+[Event "1 Prize, Tel Aviv - 100 {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Didukh S, Croitor M"]
+[Black "Win"]
+[Result "*"]
+[FEN "r7/P7/PB4PP/6P1/R5p1/3p2kp/3PP1r1/4K3"]
+
+1. Bc7+ Kh4 2. g7 $1 (2. exd3 $2 Kxg5 3. g7 Kxh6 4. Be5 h2 5. Bxh2 g3) (2. h7
+$2 Rxe2+ 3. Kf1 Rae8 4. Ra1 Rf8+) 2... Re8 $1 (2... Rxe2+ 3. Kf1 h2 (3... Rae8
+4. Ra1 h2 (4... g3 5. Ra4+) 5. Bxh2 g3 6. a8=Q $1) 4. Bxh2 Rc8 5. Ra1 Rxh2 6.
+h7 Kg3 7. h8=Q Rcxh8 8. gxh8=Q Rxh8 9. Kg1) (2... Rxa7 3. Bf4 $1 Rxe2+ 4. Kd1
+Re8 5. Kc1) 3. e3 h2 4. Bxh2 Rc8 $1 5. Ra1 Rxh2 (5... Re2+ $5 6. Kf1 Rxh2 7. h7
+Kg3 8. h8=R $1 Rf8+ $1 9. gxf8=B $1 (9. gxf8=N $1) (9. Kg1 $2 Rg2+ 10. Kh1 Rh2+
+11. Rxh2 Rf1+ 12. Rxf1)) 6. h7 Kg3 7. h8=R $1 (7. h8=Q $2 Rc1+ 8. Rxc1 Rh1+ 9.
+Qxh1) 7... Rcxh8 8. gxh8=R $1 Rxh8 9. a8=B $1 Rxa8 10. a7 Rh8 (10... Kh2 11. g6
+g3 12. g7 g2 13. Kf2) 11. a8=B $1 1-0

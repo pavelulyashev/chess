@@ -1,0 +1,10 @@
+[Event "tn06 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4b3/n3R1p1/7P/5K2/7p/7p/6k1 w - - 0 1"]
+
+ 1. Kg3 Bh4+ $1 2. Kxh4 Kf2 $1 3. Rf6+ Ke2 (3... Ke1 4. Rxa6) 4. Re6+ Kd2 5. Rd6+ Kc2 6. Rc6+ Kb2 7. Rb6+ Nb4 8. Rxb4+ Kc2 9. Rc4+ Kd2 10. Rd4+ Ke2 11. Re4+ Kf2 12. Rf4+ Kg2 13. Rg4+ Kf3 $1 14. Rg3+ (14. hxg6 $2 h1=Q 15. Rg3+ $1 Kf2 $1 16. g7 Qe4+ $1) 14... Kf4 15. hxg6 h1=Q 16. g7 Qc6 17. Rg4+ Kf3 18. Rg3+ 1/2-1/2  

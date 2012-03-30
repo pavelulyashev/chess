@@ -1,0 +1,10 @@
+[Event "Uralskiy problemist, 1 prize {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k2/2p5/1p6/1P1K4/7N/3p2R1/2p5/3b4 w - - 0 1"]
+
+ 1. Ng6+ Ke8 2. Re3+ Kd8 3. Ne5 $1 c1=Q (3... Bf3+ 4. Rxf3 $1 c1=Q 5. Rf8+ $1 Ke7 6. Ng6+ Kd7 7. Ne5+ Ke7 8. Ng6+ {perpetual check.}) 4. Nc6+ Qxc6+ (4... Kd7 $2 5. Re7+ Kc8 6. Re8+ Kb7 (6... Kd7 7. Rd8#) 7. Rb8#) 5. Kxc6 d2 (5... Be2 6. Rg3 $1 d2 7. Rg8+ Ke7 8. Rg1 $11) 6. Rd3+ Kc8 7. Rh3 $1 ({Thematic try} 7. Rg3 $2 Bg4 $1 (7... Bb3 $2 8. Rg8+ $1 Bxg8 {stalemate.}) (7... Kb8 $2 8. Rg8+ Ka7 9. Kxc7 Bf3 10. Rb8 d1=Q 11. Rb7+ $1 Bxb7 {stalemate.}) 8. Rxg4 d1=Q 9. Rg8+ Qd8 {zz.}) 7... Bh5 (7... Kb8 8. Rh8+ Ka7 9. Kxc7 Ba4 10. Rb8 d1=Q 11. Rb7+ Ka8 12. Rb8+ {perpetual.}) 8. Rxh5 d1=Q 9. Rh8+ Qd8 10. Rg8 {zz.} Qxg8 {stalemate.} 1/2-1/2  

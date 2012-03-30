@@ -1,0 +1,10 @@
+[Event "64 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Herbstmann A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/k2P4/p1K5/1P6/8/8/2p2b1p/8 w - - 0 1"]
+
+ 1. b6+ $1 Ka8 $1 (1... Bxb6 $144 2. Bxb6+ $18) (1... Kb8 $144 2. Bc7+ $18) 2. b7+ Ka7 3. Bb6+ $1 Bxb6 4. b8=Q+ $1 Kxb8 5. Kxb6 c1=Q 6. d8=Q+ Qc8 7. Qd6+ (7. Qe7 $143 Qc6+ $3 8. Kxc6 h1=Q+ $11) 7... Ka8 8. Qd5+ Kb8 9. Qe5+ Ka8 10. Qe4+ Kb8 11. Qf4+ Ka8 12. Qf3+ Kb8 13. Qg3+ Ka8 14. Qg2+ Kb8 15. Qxh2+ Ka8 16. Qg2+ Kb8 17. Qg3+ Ka8 18. Qf3+ Kb8 19. Qf4+ Ka8 20. Qe4+ Kb8 21. Qe7 $18 1-0  

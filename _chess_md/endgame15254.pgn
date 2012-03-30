@@ -1,0 +1,10 @@
+[Event "2 Honorable Mention tz16#1133 (@2) {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Kasparjan S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5B2/8/8/7N/8/1K5p/6pn/r5kN w - - 0 1"]
+
+ 1. Bc5+ Kf1 (1... Kxh1 2. Ng3#) 2. N5g3+ Ke1 3. Bb4+ Kd1 4. Nf2+ Kc1 5. Ne2+ Kb1 6. Ne4 (6. Nd1 $1 {minor dual IP}) 6... Ra2 7. N4c3+ Ka1 8. Nxa2 Nf3 9. Be7 $1 (9. Bf8 $2 Nd4+ $1 10. Ka3 g1=Q 11. Nxg1 h2) 9... g1=Q (9... Nd2+ {main} 10. Kc2 g1=Q 11. Nxg1 Kxa2 12. Ne2 Nb3 13. Nc3+ Ka1 14. Kxb3 h2 15. Ba3 h1=Q 16. Bb2#) 10. Bf6+ $1 Nd4+ 11. Bxd4+ Qxd4 12. Nxd4 h2 {eg} 13. Nc3 h1=Q 14. Nc2# 1-0  

@@ -1,0 +1,10 @@
+[Event "5 Prize, wc09 tc06 @1 {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k2r1/2p5/2PP3n/7K/8/7n/4R1R1/6r1 w - - 0 1"]
+
+ 1. dxc7+ (1. Rxg1 $1 {cook OV} Nxg1 2. dxc7+ Kc8 3. Ra2 $1) 1... Kxc7 (1... Kc8 {main} 2. Rxg8+ $1 Nxg8 3. Kh4 Nf4 (3... Ng5 {main} 4. Re8+ Kxc7 5. Rxg8 Nf3+ 6. Kh3 Rxg8) (3... Rh1 4. Re8+ Kxc7 5. Rxg8 Nf2+ 6. Kg3 Rg1+ 7. Kh2 Rxg8) 4. Re8+ Kxc7 5. Rxg8 Rxg8) 2. Rxg1 (2. Rxg8 $2 Nxg8 3. Kh4 Nf4) 2... Nxg1 3. Re1 Nf5 (3... Ng4 {main} 4. Rxg1 Nf6+ 5. Kh6 Rxg1) (3... Rh8 {main} 4. Rxg1 Nf7+ 5. Kg6 Rg8+ 6. Kh7 Rxg1) 4. Rxg1 $1 Rxg1 1/2-1/2  

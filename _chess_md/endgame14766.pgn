@@ -1,0 +1,10 @@
+[Event "tb13 (@2) {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Dehler O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7N/8/P1p5/2p3K1/8/7k w - - 0 1"]
+
+ 1. Nf5 c2 2. Kh3 $1 Kg1 3. Nd4 $1 c1=N 4. a5 Nb3 5. a6 Nxd4 6. a7 c3 7. a8=Q Kf2 8. Qa1 c2 9. Qc3 $1 Ke2 10. Kg2 Kd1 11. Qxd4+ Kc1 12. Qa1+ Kd2 13. Qb2 Kd1 14. Kf2 (14. Kf1 $1 {minor dual JU}) (14. Kf3 $1 {minor dual JU}) 14... c1=Q 15. Qe2# 1-0  

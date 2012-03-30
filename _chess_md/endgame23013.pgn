@@ -1,0 +1,10 @@
+[Event "Spec. Comm.  2World Cup {m}"]
+[Site "?"]
+[Date "2011.05.12"]
+[Round "?"]
+[White "Campioli M"]
+[Black "*"]
+[Result "*"]
+[FEN "7N/7N/7b/7b/8/7k/8/7K w - - 0 0"]
+
+ 1. Kg1 Kg3 2. Nf6 Be2 3. Ne4+ Kf3 4. Nc3 (4. Nd6 $2 Bd3 5. Ndf7 Bf4 $19) 4... Be3+ ({main} 4... Bc4 5. Ng6 $1 Bg7 6. Nh4+ $1 Kg4 7. Ng2 Bxc3 8. Ne3+ $11) ({ or} 4... Bd3 5. Nf7 Be3+ (5... Bg7 6. Ng5+ $11) 6. Kh1 Kg3 7. Nd6 Bf1 8. Nf5+ $11) 5. Kh1 (5. Kh2 $2 Bd3 6. Nd5 Bd4 7. Nb4 Bf5 8. Nf7 Kf2 9. Ng5 Be5+ $19) 5... Bc4 (5... Bd3 6. Nf7 Bd4 7. Ng5+ $11) 6. Ng6 Kg3 $1 (6... Bd4 7. Nh4+ Kg4 8. Ng2 $11) 7. Ne7 Bd3 8. Ned5 Bd4 9. Nb4 Bf1 10. Ne4+ Kh3 11. Ng5+ Kg3 12. Ne4+ $11 *   

@@ -1,0 +1,10 @@
+[Event "Themes-64 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Bondarenko F, Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/2p3p1/1p6/5Q2/1P6/1p2p1pp/1P2P2r/1B2KNrk w - - 0 1"]
+
+ 1. Be4+ g2 2. Bc6 g5 (2... b5 3. Qf4 Rxf1+ 4. Qxf1#) 3. b5 Ba7 4. Kd1 Bb8 5. Kc1 Ba7 6. Kb1 Bb8 7. Ka1 $1 {pseudo-Bristol} Ba7 8. Qb1 Rxf1 9. Qxf1# 1-0  

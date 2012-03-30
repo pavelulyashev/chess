@@ -1,0 +1,10 @@
+[Event "td20#662 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5r2/k1P5/7R/K3p3/8/3P4/8 w - - 0 1"]
+
+ 1. Rb5 $1 e3 $1 2. dxe3 Re7 3. Kb4 $1 Rxe3 (3... Re4+ 4. Kc5 Rxe3 5. Rb8 $1 (5. Rb1 $2 Rc3+ 6. Kd6 Rh3) 5... Ka7 6. c7 Rc3+ 7. Kd6 Rc1 $1 (7... Rd3+ 8. Ke5 Rc3 9. c8=Q) 8. c8=R $1) 4. c7 Re8 5. Rb8 Rxb8+ 6. cxb8=R $1 (6. cxb8=Q $2) 1-0  

@@ -1,0 +1,10 @@
+[Event "1 Prize  {m}"]
+[Site "?"]
+[Date "2004.03.03"]
+[Round "?"]
+[White "Akobia Y, Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k5/8/1p1P2p1/5P2/KP1r1PB1/8/5p2/8 w - - 0 1"]
+
+ 1. fxg6+ Kb7 2. Bf3+ $1 (2. Bh3 $6 Rxd6 3. f5 b5+ 4. Kxb5 Rd5+ 5. Kc4 Rxf5 6. Kd4 Rf3 7. Bg2 Kc8 8. Bf1 Rg3 9. Ke4 Rxg6 $19) ({Thematic try:} 2. Be2 $6 Rd1 $1 3. Bb5 (3. Bf3+ Kb8 $1 4. Be2 f1=Q 5. Bxf1 Rxf1 $19) 3... Rxd6 4. f5 Rd5 5. g7 Rxb5 6. g8=Q f1=Q 7. Qh7+ (7. Qg7+ Ka6 8. Qc3 Qd1+ $19) (7. Qf7+ Ka6 $19) 7... Ka6 8. Qh8 Qd1+ 9. Ka3 Rd5 $19) 2... Ka7 $1 3. Be2 (3. Bg2 $6 Rxd6 4. f5 b5+ 5. Ka5 (5. Kxb5 Rd5+ $17) 5... Ra6+ 6. Kxb5 Rf6 $19) 3... Rxd6 $1 4. f5 $1 Rd2 5. Bb5 $3 (5. Bf1 $6 Rd1 6. Be2 Rg1 $19) (5. Bc4 $6 Rd4 6. Bf1 (6. Be2 Rg4 $19) 6... Rd1 7. Be2 (7. g7 Rxf1 8. g8=Q Ra1+ $19) 7... Rg1 8. Kb3 Rg5 9. Kc2 Rxf5 $19) 5... Rd5 6. g7 (6. f6 $6 Rxb5 7. g7 Rg5 $19) (6. Be2 $6 Rxf5 $19) 6... Rxb5 $1 7. g8=Q f1=Q 8. Qc8 $3 Qxf5 (8... Rxf5 9. Qc7+ Ka6 10. Qc8+ Ka7 11. Qc7+ $11) (8... Qd3 9. Qc7+ Ka6 10. Qc8+ $11) 9. Qc7+ $1 Ka6 10. Qc4 $1 Qd7 $1 11. Qf1 $1 (11. Qd3 $6 Qc6 12. Qe2 Qd5 $1 $19) (11. Qe2 $6 Qd5 $19) 11... Qc6 12. Qd3 Qd5 13. Qe2 $1 Kb7 14. Qe7+ (14. Qxb5 $4 Qa2#) 14... Ka6 15. Qe2 Qh5 16. Qd3 $1 Qg5 17. Qc4 Qf5 18. Qd3 $1 Qe5 19. Qf1 Qd5 20. Qe2 Kb7 21. Qe7+ Ka6 (21... Kc6 22. Qe8+ Kd6 23. Qe2 $11) 22. Qe2 {draw.} 1/2-1/2  

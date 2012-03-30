@@ -1,0 +1,10 @@
+[Event "bs15-143 @2 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3r3k/1p2p3/7N/7b/R7/1B5K/7P/8 b - - 0 1"]
+
+ 1... Kh7 (1... Rd3+ 2. Kh4) 2. Bf7 $1 Kxh6 3. Rh4 Rh8 (3... Rd3+ 4. Kg2 Rd2+ 5. Kg1 Rd1+ 6. Kf2 Rd6 (6... Rd2+ 7. Ke3 Re2+ 8. Kd4 Rd2+ 9. Kc3 Rd6 10. Rxh5+ Kg7 11. Bc4 Rh6 12. Rg5+ Rg6 13. Re5 Rg2 14. h4 Rg3+ 15. Bd3) 7. Rxh5+ Kg7 8. Bc4 Rh6 9. Rg5+ Kf6 10. Rg2 Rg6 11. Rg3 $1) 4. Bxh5 Rh7 $1 (4... Kg5 5. Rg4+ $1 Kf5 6. Kh4) 5. Kg4 Rg7+ 6. Kf3 $1 (6. Kf5 $2 Rg5+) (6. Kf4 e5+ 7. Ke4 Kg5 8. Rg4+ Kf6 9. h3 (9. Rg3 $1 {cook} Rh7 (9... b5 10. Bd1) 10. Rg6+ Ke7 11. Rg5 Kd6 12. h3 b5 13. Bg4) 9... b5 $1 10. Be8 Rxg4+ 11. hxg4 Kg5 12. Kf3 e4+ 13. Kg3 b4) 6... Rh7 (6... Kg5 7. Rg4+ Kh6 8. h3) 7. Kf4 $1 (7. Be8+ $2 Kg7 8. Rg4+ Kf8 9. Bd7 e5) 7... e5+ 8. Kf5 1-0  

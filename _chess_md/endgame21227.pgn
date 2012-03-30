@@ -1,0 +1,10 @@
+[Event "2 Prize, Pobeda 65 {m}"]
+[Site "?"]
+[Date "2010.11.01"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1nPR4/5N2/1k6/8/2q5/K7/R7 w - - 0 1"]
+
+ 1. Rb1+ ({Thematic try} 1. Ne4 $5 Qc2+ $1 (1... Qc4+ $2 2. Kb2 Qb4+ 3. Kc1 Qe1+ 4. Rd1 $18) 2. Ka3 Na5 (2... Kb6 $2 3. Ra2 Qc1+ 4. Rb2+ $18) 3. Rd5+ (3. Rb1+ Ka6 4. c8=Q+ Qxc8 $11) 3... Ka6 (3... Kb6 4. c8=N+ $1 Qxc8 5. Rb5+ Ka6 6. Rab1 Nc6 7. Nc5+ Ka7 8. Rb7+ Ka8 $11) 4. Nc5+ Kb6 5. c8=N+ $1 Kc6 6. Ne7+ Kb6 7. Rad1 Qc3+ 8. Ka2 Qc2+ {(Qc4)=}) ({Thematic try} 1. Rd5+ $5 Nc5 2. Rb1+ Ka5 $5 ( {but Black must play for the mate Qa3#} 2... Ka4 $1 {and wR must unblock b1 -} 3. Rb8 Qc2+ $1 (3... Qc4+ 4. Kb1 Qf1+ 5. Ka2 Qe2+ 6. Rb2 Qc4+) 4. Rb2 Qc4+ $11) 3. c8=R $3 (3. c8=Q $2 Qa3+ 4. Kxa3 {stalemate with pin of bS}) 3... Qc2+ 4. Rb2 Qc4+ 5. Kb1 Qf1+ 6. Kc2 Qe2+ ({not} 6... Qf2+ $2 7. Kc1 Qg1+ 8. Rd1 Qg5+ 9. Kb1 $1 Qf5+ $1 10. Ne4 $3 Qxe4+ 11. Ka1 {and easy win for the wihite:} Na4 $1 12. Rbc2 Qe5+ 13. Kb1 Qf5 14. Re1 $3 Qd3 15. R8c4 $18) 7. Kc1 $1 Qe1+ (7... Qf1+ 8. Rd1 Qf4+ 9. Rbd2 Nb3+ 10. Kc2 $18) 8. Rd1 Nd3+ 9. Kc2 Qe2+ 10. Rd2 $18) 1... Ka6 2. Nd5 $1 ({try} 2. Rb6+ $5 Ka7 (2... Kxb6 $2 3. Nd5+ $18) 3. Rb3 Qc2+ 4. Ka1 (4. Rb2 Qc4+ $11) 4... Qc1+ (4... Ka6 $2 5. Nd5 Qc1+ 6. Ka2 Qc2+ 7. Ka3 Qc1+ 8. Rb2 $18) 5. Ka2 Qc2+ $11) 2... Qa5+ 3. Kb3 Nc5+ 4. Kc4 $1 Qa2+ 5. Kxc5 Qf2+ 6. Ne3 $3 (6. Kb4 $2 Qh4+ 7. Kc5 Qf2+ 8. Ne3 {loss of time}) ({try} 6. Kc6 $5 Qc2+ 7. Kd6 Qh2+ 8. Ke6 Qh3+ 9. Kd6 Qh2+ 10. Kc6 Qc2+ {positional draw}) 6... Qxe3+ 7. Rd4 Qe5+ 8. Kc6 Qe6+ 9. Rd6 Qc4+ 10. Kd7+ Ka7 11. c8=N+ $3 $18 1-0  

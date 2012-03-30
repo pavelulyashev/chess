@@ -1,0 +1,10 @@
+[Event "tz16#1318 {c} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Kitsigin V, Kudelich E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/p2p4/3P4/1p1Pp1P1/pp2P1P1/4R2p/2r4P/6K1 w - - 0 1"]
+
+ 1.g6 (1.Rf3 $2 Kc8 2.g6 Rg2+ 3.Kh1 Rxg4 4.g7 Kb7 5.Rg3 Rxg7 6.Rxg7 b3) 1...Rg2+ 2.Kh1 Rxg4 3.Rc3 $1 Rf4 (3...b3 4.g7 Ke8 5.Rf3 Rxg7 6.Rf8+ Kxf8) (3...bxc3 4.g7 c2 5.g8=Q+ Rxg8) 4.Rc1 Rf8 5.g7 Rg8 6.Rf1 Ke8 7.Rf8+ Rxf8 8.g8=Q b3 $1 (8...Rxg8) 9.Qg6+ $1 Kd8 10.Qg8 (10.Qg5+ $2 Kc8 11.Qg8 Rd8 12.Qg1 Kb7) 10...Ke8 (10...Re8 11.Qg5+ Kc8 12.Qc1+ Kb7 13.Qc7+ Ka6 14.Qxd7) 11.Qg6+ Kd8 12.Qg8 Rxg8   1/2-1/2  

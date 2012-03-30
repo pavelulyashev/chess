@@ -1,0 +1,10 @@
+[Event "ts72 {m} {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B5k1/b2b4/8/8/2R5/8/K7/8 w - - 0 1"]
+
+ 1. Bd5+ (1. Rc7 $2 Be6+) 1... Kh8 $1 (1... Kf8 2. Rc7 $1 Bb5 3. Rxa7 Bc4+ 4. Bxc4) 2. Rh4+ $1 (2. Rc7 $2 Bb5 3. Rxa7 Bc4+ 4. Bxc4) 2... Kg7 3. Rb4 Bc8 4. Rc4 Ba6 $1 5. Ra4 (5. Rc7+ $2 Kh8 $1 6. Rxa7 Bc4+ $1 7. Bxc4) 5... Bb5 6. Rxa7+ 1-0  

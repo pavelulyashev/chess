@@ -1,0 +1,10 @@
+[Event "ts23#796 @3 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Somov-Nasimovitch E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6B1/2B5/5p2/8/5R2/PPk1p3/qr1nK3 w - - 0 1"]
+
+ 1. Ba4+ Kc1 2. Bb3 (2. Kxe2 $2 Rxb2+) 2... Rxb2 (2... f4 3. Be5) 3. Bh6+ Kb1 4. Bg7 $1 f4 (4... Ne3 5. Rxe3) 5. Be5 $1 Ne3 6. Rxe3 fxe3 7. Bc3 (7. Bd4 $2 Kc1 8. Bxe3+ (8. Bc3 Qb1 $1) 8... Kb1 $1 9. Bd4 Rxb3 10. Bxa1 Re3 $1) 7... Kc1 8. Bd4 $1 Rxa2 9. Bxa1 Rxa1 10. Kxe2 Ra7 11. Bc4 Re7 $1 {cook HC} (11... Rc7 $1 { cook HC}) 1/2-1/2  

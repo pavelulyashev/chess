@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/6N1/8/P3k3/2P2b1P/2P3p1/R4p2/8 w - - 0 1"]
+
+ 1. Re2+ Kd6 (1... Kf6 2. Nh5+) 2. Nf5+ Kc5 $1 (2... Kc6 3. Re6+ Kc5 (3... Kb7 4. Re7+ $1 Kc6 5. Nxg3 Bxg3 6. Rf7) 4. Kd7 $1 Kxc4 (4... f1=Q 5. Rc6#) 5. Nxg3 Bxg3 6. Rf6) 3. Nxg3 $1 Bxg3 4. Rxf2 $1 Bxh4+ $1 5. Rf6 $3 Bxf6+ 6. Kc7 Bxc3 7. a6 Ba5+ 8. Kb8 $1 Bb6 9. Kb7 1-0  

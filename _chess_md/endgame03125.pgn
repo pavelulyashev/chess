@@ -1,0 +1,10 @@
+[Event "Journal de Genиve, 5 Februar 1957 {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1p4Q1/kpp1N3/1n3p2/1Kb1pP2/2RpP3/r7 w - - 0 1"]
+
+ 1. Nc6+ Ka6 (1... Nxc6 2. Qxc6 c4+ 3. Kxc3 Ra3+ 4. Kb2 Rb3+ 5. Ka2 d1=Q 6. Qa8+ Kb4 7. Qf8+ $11) 2. Nxb4+ cxb4 3. Ra2+ Rxa2 4. Kxa2 b3+ (4... d1=Q 5. Qxb6+ Kxb6 {pat 1}) (4... d1=R 5. Qe8 $11 (5. Qe4 $11)) 5. Ka3 Bb2+ (5... d1=Q 6. Qxb6+ Kxb6 {pat 2}) (5... b4+ 6. Ka4 d1=Q 7. Qxb6+ Kxb6 {pat 3}) 6. Kb4 Ba3+ ( 6... d1=Q 7. Qxb6+ Kxb6 {pat 4}) 7. Kc3 Bb4+ (7... d1=Q 8. Qxb6+ Kxb6 {pat 5}) (7... b4+ 8. Kc4 d1=Q 9. Qxb6+ Kxb6 {pat 6}) 8. Kb2 (8. Kxb4 $2 d1=Q 9. Qe4 Qe1+ 10. Kxb3 Qd1+ $19) 8... Bc3+ (8... d1=Q 9. Qxb6+ Kxb6 {pat 7}) (8... d1=N+ $2 9. Kxb3 Bd2 $18) (8... Ba3+ 9. Kc3 d1=R 10. Qe4 $11) 9. Ka3 Bb4+ 10. Kb2 Ba3+ 11. Kc3 Bb2+ 12. Kb4 Bc3+ 13. Ka3 1/2-1/2  

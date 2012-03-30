@@ -1,0 +1,10 @@
+[Event "cs01#060 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Platov V, Platov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/8/1k2r2P/8/4p3/5R2/8/8 w - - 0 1"]
+
+ 1. h7 Rh6 (1... exf3 2. h8=Q) 2. Rf6+ (2. Rb3+ $2 Kc5) 2... Rxf6+ 3. Kg7 Rf3 ( 3... Re6 4. h8=Q Kc5 5. Kf7) 4. h8=Q Kc5 5. Kg6 Kc4 (5... Kd5 6. Kg5) 6. Qd8 Rd3 (6... e3 7. Qa8) 7. Qc7+ Kd4 8. Qd6+ Ke3 9. Qc5+ Kf3 10. Kf5 e3 11. Qc4 Rd2 12. Qf4+ Ke2 13. Ke4 1-0  

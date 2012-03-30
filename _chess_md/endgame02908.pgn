@@ -1,0 +1,10 @@
+[Event "sp Prize Tbilisi Ty {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Becker R, Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2n3KQ/5PPP/3p4/8/b3p1P1/3p4/8/k7 b - - 0 1"]
+
+ 1... Ne7+ 2. Kf8 Ng6+ 3. Kg8 d2 4. f8=R $3 (4. f8=Q $2 Bb3+ 5. Qf7 d1=Q) 4... Bb3+ 5. Rf7 d1=R $1 (5... d1=Q 6. g5 Ba4 7. Rf1 $1 Bb3+ 8. Rf7 Ba4 9. Rf1) 6. g5 Rd5 $1 7. Rf1+ (7. Ra7+ $2 Ra5+ 8. Rf7 Ra8#) 7... Rd1+ 8. Rf7 Rd5 1/2-1/2  

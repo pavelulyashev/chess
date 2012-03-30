@@ -1,0 +1,10 @@
+[Event "1 Prize (miniature) Olimpiya dunyasi {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/1q3p2/5KpP/8/8/8/8/5Q2 w - - 0 1"]
+
+ 1. Qd3 $1 ({try} 1. Qa1 $5 Kg8 $1 2. h7+ Kh8 3. Qd4 Qf3+ {-+}) ({try} 1. Qd1 $5 Kh7 $1 {zz} 2. Qd3 Qc8 3. Kxf7 Qf5+ {-+}) 1... Qc7 (1... Qc8 2. Qd4 Qf8 3. Qa4 $1 (3. Qd7 $2 Kg8 {zz} 4. Qc7 Qe8 {-+}) 3... Kh7 4. Qc6 Kg8 5. Qd7 {zz}) 2. Qd4 (2. Qd2 $2 Qc4 {-+}) 2... Kh7 3. Qa4 $1 {zz} 3... Qb7 4. Qd1 $1 {zz} 4... Kg8 5. Qd8+ (5. h7+ $2 Kxh7 {zz}) 5... Kh7 6. Qd1 (6. Qd3 $2 Qc8 7. Kxf7 Qf5+ {-+}) 6... Qa7 7. Qd2 $1 {zz} 7... Kg8 8. Qd8+ Kh7 9. Qd2 Qc7 10. Qd4 Qb7 11. Qd1 Qa7 12. Qd2 Qc7 13. Qd4 Kg8 14. h7+ $1 Kxh7 (14... Kh8 15. Qb4 {(Qd2) =}) 15. Qa4 $1 {zz} (15. Qd2 $2 Kg8 {<}) 15... Qb7 16. Qd1 $1 {zz} 16... Kg8 17. Qd8+ Kh7 18. Qd1 Qa7 19. Qd2 $1 {zz} 19... Kg8 20. Qd8+ Kh7 21. Qd2 Qc7 22. Qh6+ $1 Kxh6 {stalemate} 1/2-1/2  

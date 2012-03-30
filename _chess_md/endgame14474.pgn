@@ -1,0 +1,10 @@
+[Event "tt06#0484 {m}"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k3q/2p5/2P1p3/2pp2p1/2R2N2/3P4/2K2BP1/8 w - - 0 1"]
+
+ 1. Ra4 Qh1 (1... Ke7 2. Ng6+) 2. Ra8+ Ke7 3. Rh8 $1 Qa1 (3... Qxh8 4. Ng6+) ( 3... Qf1 $1 4. Bxc5+ Kf6 5. Rf8+ Kg7 (5... Ke5 6. Ng6#) 6. Nxe6+) 4. Bxc5+ Kf6 5. Rf8+ Kg7 (5... Ke5 6. Ng6#) 6. Bd4+ Qxd4 7. Nxe6+ 1-0  

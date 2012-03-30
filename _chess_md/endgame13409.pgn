@@ -1,0 +1,10 @@
+[Event "1 Prize ts14 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/4p3/1P3p2/5Rp1/8/5K1k w - - 0 1"]
+
+ 1. Rf2 (1. b5 $2 g2+ 2. Ke2 g1=Q 3. Rf1 f3+ 4. Ke1 Kg2) 1... gxf2 (1... f3 2. Rxf3 g2+ 3. Ke2) (1... e4 2. Rxf4) 2. b5 e4 3. b6 e3 4. b7 f3 5. b8=R (5. b8=Q $2 e2+ 6. Kxf2 e1=Q+ 7. Kxe1 f2+ 8. Kxf2) 1-0  

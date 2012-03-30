@@ -1,0 +1,10 @@
+[Event "ts22#476 @3 {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2P4P/1r6/4pp2/1p2P3/pP2KP2/Bp1n4/N4k2 w - - 0 1"]
+
+ 1. h8=R $1 1... f4+ 2. Kxd2 Rd6+ 3. Kc2 bxa1=Q (3... Kg2 $3 4. Rg8+ Kf2 5. c8=Q bxa1=Q) (3... Rc6+ $1 4. Kd2 Rxc7 5. Kd3 bxa1=Q 6. Rh1+ Kf2 7. Rxa1 Rc3+ 8. Kd2 Rxf3) 4. Rh1+ Ke2 5. Rxa1 Rc6+ 6. Kb1 Kd1 7. c8=Q Rxc8 1/2-1/2  

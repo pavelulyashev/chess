@@ -1,0 +1,10 @@
+[Event "ts19 {c} {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1B6/8/8/n3K3/4R3/8/2k3b1/6r1 w - - 0 1"]
+
+ 1. Rg4 $1 (1. Re2+ $2 Kd3 2. Rb2 Nc4+) 1... Nc6+ 2. Kf4 Nxb8 3. Ke3 $1 Re1+ 4. Kf2 Bh3 $1 5. Rh4 (5. Rg8 $2 Rb1) (5. Rg3 $2 Rh1) 5... Rf1+ 6. Ke2 Rh1 7. Kf2 Kc3 8. Rh6 $1 (8. Kg3 $2 Bg2) (8. Rh5 $2 Nd7 9. Kg3 Bg2) (8. Rh8 $2 Nc6 9. Kg3 Bg2) 8... Nd7 (8... Kd4 9. Kg3 Bg2 10. Rb6 Nd7 11. Kxg2) 9. Ke3 Bg2 10. Rd6 Bh3 11. Rh6 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "sp Honorable Mention, NONA 2010 {m}"]
+[Site "?"]
+[Date "2010.07.11"]
+[Round "?"]
+[White "Bruch W, Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "2Bb4/B1p2n2/KP6/p3P1P1/P7/3k4/4b3/8 w - - 0 0"]
+
+ 1. Bg4 $1 (1. g6 Kc3+ 2. Kb7 Bf3+ $11) 1... Bf1 $1 (1... Bxg4 2. b7 Be2 3. b8=Q Kc2+ 4. Kb7 $1 Bf3+ 5. Kc8 Bg4+ 6. e6 Bxe6+ 7. Kb7 {see main line}) (1... cxb6 2. Bxe2+ Kxe2 3. g6 $18) 2. Bh3 $1 (2. e6 $2 Nd6 3. Bb8 Bxg5 4. Bxc7 Kd4+ 5. Ka7 Kc5 6. b7 Nxb7 7. Kxb7 Kb4 8. Bd1 Bc4 9. Bd6+ Kc3 $11) 2... Bxh3 (2... Be2 3. g6 $1 Nxe5 4. g7 Kc3+ 5. Kb7 Bf3+ 6. Kc8 $1 $18) 3. b7 Bf1 4. b8=Q Kc2+ 5. Kb7 $1 ({Thematic try} 5. Kxa5 $5 Nxe5 6. Qb7 (6. Qa8 $11) 6... c5+ $1 7. Bb6 Nc4+ $19) 5... Bg2+ 6. Kc8 Bh3+ 7. e6 Bxe6+ 8. Kb7 Bd5+ 9. Ka6 Bc4+ 10. Kxa5 Ne5 $1 11. Qb7 $1 (11. Qa8 Bxg5 $1 12. Kb4 Bd2+ $11) 11... Bxg5 (11... c5+ 12. Bb6 Bd3 13. Bxd8 $18) (11... c6+ 12. Kb4 Bd5 13. Kc5 Bxg5 14. Qh7+ $18) 12. Bc5 Bd3 $1 13. Kb4 $1 Nc6+ 14. Ka3 $1 (14. Qxc6 $2 Bd2+ 15. Ka3 Bc1+ $11) 14... Bc1+ 15. Ka2 Bc4+ 16. Ka1 Bb3 17. Ba3 $1 (17. Bd4 $2 Nxd4 18. Qxc7+ Kd1 $11) 17... Bxa3 18. Qxc6+ $18 *  

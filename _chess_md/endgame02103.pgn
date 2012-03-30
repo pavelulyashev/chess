@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/7N/Pp2P1p1/7k/8/1r6/3P4/5b1N w - - 0 1"]
+
+ 1. Ng3+ Rxg3 2. Nf6+ Kh4 3. d3 $1 {Nowotny} Rxd3 (3... Bxd3 4. a7) 4. e7 Re3 5. a7 Bg2 6. Ne4 $1 {Nowotny} Rxe4 (6... Bxe4 7. e8=Q) 7. a8=Q 1-0  

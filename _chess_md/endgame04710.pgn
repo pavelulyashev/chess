@@ -1,0 +1,10 @@
+[Event "te03 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4B3/8/2b5/8/7r/1k2K2R w K - 0 1"]
+
+ 1. Bf5+ Bd3 (1... Rc2 2. Rh2 (2. Kd1 $2 2... Be2+ 3. Ke1 Bg4) 2... Bb3 3. Kd1) 2. Bxd3+ Ka1 3. O-O+ (3. Rxh2 $2) 1-0  

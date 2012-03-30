@@ -1,0 +1,10 @@
+[Event "3 Prize Gantiadi {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Katsnelson L, Kotov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6p1/6n1/8/2PR2Rp/5p1k/2r2P2/6K1 w - - 0 1"]
+
+ 1. Kh1 Nf4 $1 (1... Rc1+ 2. Rg1 Rxg1+ 3. Kxg1 Ne5 4. c5) 2. Rdxf4 (2. Rxg7 $2 Rc1+ 3. Rg1 Rxg1+ 4. Kxg1 Ne2+) 2... g5 3. Re4 $1 (3. Rd4 $2 Rxc4 4. Rde4 Rd4 5. Rxd4) (3. Rxg5 $2 Rc1+ 4. Rg1 Rxg1+ 5. Kxg1) 3... Rxc4 4. Rd4 Rb4 5. Rc4 $1 Ra4 6. Rb4 $1 Ra1+ 7. Rg1 1-0  

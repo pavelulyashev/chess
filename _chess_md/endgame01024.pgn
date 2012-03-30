@@ -1,0 +1,10 @@
+[Event "Magyar Sakkelet {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Bondarenko F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1P6/6p1/3p4/2pP2P1/2Pp1p1B/3K1k1B w - - 0 1"]
+
+ 1. Ba8 $1 {Indian} ({dual} 1. Bf3 $1 $18) 1... g4 2. b7 $1 Kg2 3. b8=Q+ ({dual } 3. b8=R+ $1 Kf1 4. Rb7 $1 $18) 3... Kf1 4. Bf3 $1 gxf3 5. g4 Kg2 6. Qg3+ Kf1 7. Qh3# ({duals} 7. Bg1 $1 fxg1=Q 8. Qxf3+ $18) (7. Qxf2+ $1 Kxf2 8. Be5 $18) 1-0  

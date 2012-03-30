@@ -1,0 +1,10 @@
+[Event "2 Honorable Mention, Matous60JT {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Afek Y, Van der Heijden H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1B5/2PN3P/7q/P7/K7/8/8/8 w - - 0 1"]
+
+1. Nb6+ (1. Ba6 Qf4+ 2. Kb5 Qf1+ 3. Kc5 Qg1+ 4. Kd5 Qg2+) 1... Qxb6 (1... Ka72. Be6 Qf4+ 3. Bc4 Qd4 4. Nc8+ Kb7 5. Nd6+ Qxd6 6. c8=Q+ Kxc8 7. h8=Q+) 2. Bb7+(2. axb6) (2. h8=Q Qd4+ (2... Qc6+ $2 3. Kb4 Qb6+ 4. Kc4 Qc6+ (4... Qxc7+ 5.Kb5 {EGTB} Ka7 6. Qd4+ Ka8 7. Be6) 5. Kd4 Qd6+ 6. Ke4) 3. Qxd4) 2... Qxb7 {EGTB tested} 3. h8=R+ (3. h8=Q+ Ka7 4. c8=N+ (4. Qd4+ Ka8 5. Qd8+ Ka7 6. c8=QQxc8 7. Qb6+ Ka8) 4... Qxc8) 3... Ka7 4. c8=N+ (4. c8=Q Qb4+) (4. c8=R Qe4+ 5.Ka3 Qd3+ 6. Kb2 Qd2+) 4... Ka6 (4... Ka8 5. Nd6+) 5. Rh6+ 1-0

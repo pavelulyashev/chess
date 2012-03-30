@@ -1,0 +1,10 @@
+[Event "4/5 Prize tl10 {m}"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Sackmann F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N3n3/p4pp1/k3pp2/3P3P/4P3/8/P2P3K/8 w - - 0 1"]
+
+ 1. e5 $1 Kb7 (1... exd5 2. Nc7+ Nxc7 3. exf6 Ne6 4. fxg7 Nxg7 5. h6) (1... fxe5 2. Nc7+ $1 Nxc7 3. d6 Kb7 4. d7) 2. d6 Kc8 3. Nc7 $1 Nxc7 4. exf6 $1 Ne8 5. fxg7 Nf6 (5... Nxg7 6. h6) 6. Kh3 Ng8 7. Kh4 f6 8. h6 $1 Nxh6 9. Kh5 Ng8 10. Kg6 f5 (10... Kd7 11. Kh7) 11. Kf7 Nh6+ 12. Ke8 1-0  

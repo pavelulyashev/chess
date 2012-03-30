@@ -1,0 +1,10 @@
+[Event "us21 {v} {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Platov V, Platov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/3N2pq/6p1/1n6/3Pk3/2P5/3K2P1/R7 w - - 0 1"]
+
+ 1. Rh1 Qg8 (1... Qxh1 2. Bb7+ Kf4 (2... Kf5 3. g4+) 3. g3+) 2. Nf6+ gxf6 3. Be6 Qxe6 (3... Qb8 4. Rh4+ Qf4+ 5. Rxf4+ Kxf4 6. Kd3) 4. Re1+ Kd5 (4... Kf5 5. g4+ Kxg4 6. Rxe6 Kf5 7. Rc6) 5. c4+ Kxc4 (5... Kd6 6. Rxe6+ Kxe6 7. cxb5) 6. Rxe6 f5 7. Ke3 Nxd4 8. Rxg6 Kd5 9. Kf4 1-0  

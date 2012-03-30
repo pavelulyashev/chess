@@ -1,0 +1,10 @@
+[Event "ts23#21 @1 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4K1p1/B1p5/b4P1P/8/2k5/8 w - - 0 1"]
+
+ 1. f5 $1 (1. Kf7 $1 {cook} Kd3 $1 2. Kxg6 Ke4 3. Bd2 $1 (3. f5 $2 Kf4 $1 4. f6 Be8+ 5. f7 Bxf7+ 6. Kxf7 Kg4 7. Be1 Kh5 $1) 3... Kd5 $1 4. Kf6 $1 Be8 5. f5 $1 Kd6 6. Be3 c4 7. Bd2 Kd7 8. Bb4 $1 Kd8 9. Kg5 c3 $1 10. f6 $1 c2 11. Ba3 Bf7 12. h5 Ke8 13. h6 c1=Q+ 14. Bxc1 Kf8 15. h7) 1... gxf5 2. h5 Bb3+ (2... Be8 3. h6 Bg6 4. Kf6 Bh7 5. Kg7) 3. Kf6 $1 f4 $1 4. h6 Bg8 5. Kg7 Kd1 $1 6. Bc7 $1 (6. Bb6 $2 c4 7. Bd4 f3 8. Kxg8 c3 9. h7 c2 10. Be3 f2 $1 11. h8=Q f1=Q 12. Qd4+ Ke2) 6... f3 7. Bg3 c4 8. Kxg8 c3 9. h7 c2 10. Bf4 $1 c1=Q $1 (10... f2 11. h8=Q f1=Q 12. Qd4+ Ke2 13. Qe3+ Kd1 14. Qd2#) 11. Bxc1 f2 12. h8=Q f1=Q 13. Qd4+ Kc2 $1 14. Qb2+ Kd3 15. Qb5+ 1-0  

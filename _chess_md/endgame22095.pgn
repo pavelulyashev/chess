@@ -1,0 +1,10 @@
+[Event "ts20 @2 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4Q3/8/8/8/8/pp6/p2PK3/k6n w - - 0 1"]
+
+ 1. Qh8+ $1 b2 2. Kd3 Nf2+ 3. Kc2 Nd1 $1 4. Kxd1 Kb1 5. Qh7+ (5. Qh3 $1 {cook AK } Ka1 (5... a1=Q 6. Ke2 $1 Kc2 (6... Qa2 7. Qh1+ Kc2 8. Qd1#) (6... a2 7. Kd3 Kc1 8. Qf1#) 7. Qc3+ Kb1 8. Qb3 Kc1 9. Qd1#) 6. Qc3) 5... Ka1 6. Qg7 Kb1 7. Qg6+ Ka1 8. Qf6 Kb1 9. Qf5+ Ka1 10. Qe5 Kb1 11. Qe4+ Ka1 12. Qd4 Kb1 13. Qd3+ Ka1 14. Qc3 Kb1 15. Ke2 a1=Q 16. Qb3 Qa2 (16... a2 17. Qd1#) (16... Kc1 17. Qd1#) 17. Qd1# 1-0  

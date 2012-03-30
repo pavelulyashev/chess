@@ -1,0 +1,10 @@
+[Event "1 Prize, The Ural Problemist {m}"]
+[Site "?"]
+[Date "2009.09.09"]
+[Round "?"]
+[White "Kosteniuk A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1P1p4/5pp1/3p2k1/4b3/4K3/6rp/1Q6 w - - 0 0"]
+
+ 1. Qc1 $1 (1. Qh1 $2 Re2+ 2. Kxe2 Bxh1 3. b8=Q Bf3+ 4. Kxf3 h1=Q+ $19) (1. Qf1 $2 Rg3+ 2. Kd4 Rd3+ $19) (1. b8=Q $2 Bxb1 $19) 1... Rg1 2. b8=Q h1=Q 3. Kd4+ ( 3. Qf4+ $2 Kh5 4. Qb2 d4+ {(Qh3)-+}) 3... Rxc1 4. Qg3+ (4. Qf4+ $2 Kh5 $19) 4... Kh6 5. Qh3+ Kg7 (5... Qxh3 {stalemate}) 6. Qxd7+ Kf8 7. Qd8+ Kg7 8. Qd7+ Kh6 9. Qh3+ Kg5 10. Qg3+ Kf5 11. Qh3+ Kg5 12. Qg3+ Kf5 13. Qh3+ Kf4 14. Qh4+ Kf3 (14... Qxh4 {stalemate}) 15. Qf4+ Kg2 16. Qg4+ Kf1 17. Qe2+ Kg1 (17... Kxe2 {stalemate}) 18. Qf2+ Kxf2 {stalemate} 1/2-1/2  

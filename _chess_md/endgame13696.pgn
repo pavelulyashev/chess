@@ -1,0 +1,10 @@
+[Event "3 Prize tc36#334 @3 {m}"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5P2/7p/2K4P/4p3/p1PbR3/k7 w - - 0 1"]
+
+ 1. f7 Kb1 (1... Kb2 {main} 2. f8=B $1 (2. f8=Q $2 a1=Q 3. Qf6+ Kxc2 4. Qxa1 (4. Rxd2+ exd2 5. Qxa1 d1=Q 6. Qxd1+ Kxd1 7. Kd3 Kc1 $1)) 2... Bc3 $1 {cook SH} 3. Bb4 Bd2 $1 4. Rxd2 a1=Q 5. Bc3+ Ka2) 2. f8=R $1 (2. f8=Q $2 a1=Q 3. Qf1+ Kxc2 4. Qxa1) 2... a1=Q 3. Rf1+ Bc1 4. Rxc1+ Kxc1 5. Re1+ Kb2 (5... Kxc2 6. Rxa1 e2 7. Kd4 Kd2 8. Ke4) 6. Rxa1 Kxa1 7. Kd3 1-0  

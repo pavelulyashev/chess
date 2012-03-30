@@ -1,0 +1,10 @@
+[Event "1 Commendation ts23#38 {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Ivanov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5Kb1/6n1/3p1k2/3B2pP/8/4N3/8 w - - 0 1"]
+
+ 1. h5 Nf4 2. h6 $1 Bxd4 (2... Bxh6 3. Ng3+ Kg5 4. Bf6#) 3. Nxd4+ Kg5 4. h7 Ng6 5. Kg7 g3 (5... Kh5 6. Nf5 Kg5 7. Nh4) 6. Nf3+ Kh5 (6... Kf5 7. Nh4+ Nxh4 8. h8=Q g2 9. Qh5+) 7. Nh4 $1 Kg5 (7... Nxh4 8. h8=Q+ Kg4 9. Qc8+ Kf3 10. Qh3) 8. Nxg6 g2 9. Nh4 $1 g1=Q 10. Nf3+ 1-0  

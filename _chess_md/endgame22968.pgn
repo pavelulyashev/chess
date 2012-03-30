@@ -1,0 +1,10 @@
+[Event "spec. Prize HvdH 50 JT {m}"]
+[Site "?"]
+[Date "2011.11.04"]
+[Round "?"]
+[White "Hlebec D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r3k3/2b4p/2p1K1P1/2p5/bQ3p2/1nP3Rp/p7/8 w q - 0 1"]
+
+ 1. Qb8+ (1. gxh7 $2 O-O-O $11) 1... Bxb8 2. gxh7 Nd4+ 3. cxd4 Bb3+ 4. Rxb3 Be5 5. Rb8+ Rxb8 6. dxe5 Kd8 7. Kd6 Kc8 8. Kxc6 Rb6+ 9. Kxb6 a1=Q 10. h8=Q+ Kd7 11. e6+ $18 1-0  

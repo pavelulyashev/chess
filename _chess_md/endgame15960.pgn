@@ -1,0 +1,10 @@
+[Event "jt05 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Razumenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4kN2/3p4/6P1/2K5/3N4/3p4/8/8 w - - 0 1"]
+
+ 1. g7 Kf7 (1... d6+ 2. Kd5) 2. Ng6 d2 (2... Kxg7 3. Nh4 d2 4. Nhf5+ Kf6 5. Ne3) (2... d6+ 3. Kd5 (3. Kc4 $2 d2 4. Ne7 d5+ 5. Kc3 d1=Q 6. g8=Q+ Kxe7) (3. Kc6 d2 4. Ne7 Kxg7 5. Nef5+ Kf6 6. Ne3 Ke5 7. Ndc2 (7. Nf3+ Ke4) 7... d5)) 3. Ne7 d1=Q (3... Kxg7 4. Nef5+ Kf6 5. Ne3 d5 (5... Ke5 6. Nc4+) 6. Kb4 Ke5 7. Kc3 Ke4 8. Nd1 Ke5 9. Kd3 Kd6 10. Kxd2) 4. g8=Q+ Kxe7 5. Qg7+ Kd8 6. Kd6 (6. Qf8+ $2 Kc7 7. Nb5+ Kb7 8. Nd6+ Ka7 9. Qf2 Qh5+ 10. Kb4+ Ka6) 6... Kc8 7. Qxd7+ Kb8 8. Qb5+ Kc8 (8... Ka8 9. Qd5+ Ka7 10. Nc6+) (8... Ka7 9. Kc7 Qc1+ 10. Nc6+ Qxc6+ 11. Kxc6) 9. Qb6 Qc1 10. Qa6+ Kb8 11. Nc6+ Qxc6+ 12. Qxc6 1-0  

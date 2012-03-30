@@ -1,0 +1,10 @@
+[Event "tn21 {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/1P4pP/7q/p5N1/P3P1p1/5N2/4P1pp/1R4bk w - - 0 1"]
+
+ 1. h8=Q $1 (1. Ne5 $2 Qa6+ 2. Kb8 Qd6+ 3. Kc8 Qc5+ 4. Kd7 Qxe5 5. h8=Q Qd4+) 1... Qxh8+ 2. b8=Q Qh6 (2... Qh5 3. Nxh2) 3. Qxh2+ $1 Qxh2 4. Nh3 gxh3 5. e5 g5 6. e6 g4 7. Nxh2 g3 8. e7 $1 (8. Nf3 $2 h2 9. Rb5 Bc5 $1) 8... gxh2 9. Rb3 (9. Rb8 $2 Ba7 $1) 9... Be3 10. e8=Q g1=Q 11. Qc6+ Qg2 12. Rb1+ Bg1 13. e4 $1 Qg8+ (13... Qf3 14. Rb3 $1 (14. Qg6 $2 Qg4 $1 15. Rb6 $1 Bf2 16. e5 Bd4 $1 (16... Bg3 $2 17. e6 Kg2 18. e7 h1=Q 19. e8=Q)) 14... Be3 15. Qg6 Qg2 16. Qe6 $1) 14. Kb7 Qf7+ 15. Ka6 Qa7+ 16. Kb5 Qb8+ 17. Kxa5 Qxb1 18. e5+ 1-0  

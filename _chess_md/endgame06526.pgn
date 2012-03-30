@@ -1,0 +1,10 @@
+[Event "ts20#259 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/K1P5/8/1k3p2/6r1/5N1N/8 w - - 0 1"]
+
+ 1. Kb6 $1 (1. c7 $2 1... Rc3 2. Kb6 Rxc7 3. Kxc7 f3) 1... Rc3 $1 (1... f3 2. Nhg4) 2. Nf3 $1 2... Rxf3 (2... Kc4 $3 3. c7 Kd5 4. Kb7 Rb3+) 3. c7 Rc3 4. Nd3+ Rxd3 5. c8=Q 1-0  

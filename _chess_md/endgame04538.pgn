@@ -1,0 +1,10 @@
+[Event "tu11 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2p5/8/3P2bp/2NK3k w - - 0 1"]
+
+ 1. Ke1 1... c3 $1 2. d4 $1 (2. dxc3 $2 2... Bf1 3. Kxf1) 2... Bf1 3. Kf2 Bc4 4. d5 c2 5. d6 Bb5 6. d7 $1 6... Bxd7 7. Ne2 Bb5 8. Ng3# 1-0  

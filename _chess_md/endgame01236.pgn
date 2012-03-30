@@ -1,0 +1,10 @@
+[Event "1/2 Prize wn01 tk48 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b5/P1n1Ppp1/P2p4/3P2PK/5k1P/8/4B2P/8 w - - 0 1"]
+
+ 1. g6 $1 (1. e8=Q $143 Nxe8 2. a8=Q Bf5 3. Qxe8 Bg6#) 1... f5 2. Bb5 $1 (2. a8=Q $143 Ne8 $18 {(mat au suivant)}) 2... Ne8 $1 3. Bxe8 Bxa6 4. Bb5 $1 Bxb5 5. e8=R $1 (5. e8=Q Be2+ 6. Qxe2 $11) 5... Bxe8 6. a8=R $1 $18 (6. a8=Q $143 Bb5 7. Qa2 Be2+ 8. Qxe2 $11) 1-0  

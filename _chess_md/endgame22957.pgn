@@ -1,0 +1,10 @@
+[Event "3.s Prize,.Tolush 100 MT {m}"]
+[Site "?"]
+[Date "2011.11.11"]
+[Round "?"]
+[White "Timman J"]
+[Black "*"]
+[Result "*"]
+[FEN "kb6/8/1K2p1Pp/P3P2P/8/rB1P1p2/5P2/8 w - - 0 0"]
+
+ 1. Bd5+ $1 (1. g7 $2 Rxb3+ 2. Ka6 Rb7 3. g8=Q Rb6+ $11) 1... exd5 2. g7 Rb3+ 3. Ka6 d4 $1 4. e6 $1 (4. g8=B $2 Bxe5 5. Bxb3 Bf6 6. Bd5+ Kb8 7. Bxf3 Bh4 8. Kb6 Bd8+ 9. Kc5 Bxa5 $11) 4... Rb2 5. e7 Rb7 $1 (5... Rb1 6. g8=B) 6. g8=N $1 (6. e8=B $2 Ra7+ 7. Kb6 Rb7+ $11) (6. e8=N $2 Rxg7 7. Nxg7 Bg3 $11) 6... Rb1 7. Nf6 $1 Re1 8. e8=Q Rxe8 9. Nxe8 Bg3 10. Kb6 Bxf2 11. Nc7+ Kb8 12. a6 $18 *  

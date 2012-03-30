@@ -1,0 +1,10 @@
+[Event "Nieuwe Haagse Courant {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P1p1k3/p6P/r7/3N4/2N5/1PK3b1/8 w - - 0 1"]
+
+ 1. Nd5+ $1 {Nowotny} Bxd5 (1... Rxd5 2. Nc6+ $1 (2. a8=Q $2 Rc5+ $19) 2... Kf7 3. a8=Q) 2. Nf5+ $1 (2. h7 $2 Be4+ $19) 2... Kf6 3. h7 1-0  

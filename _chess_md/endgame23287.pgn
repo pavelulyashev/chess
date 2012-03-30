@@ -1,0 +1,10 @@
+[Event "bs91#185 @3 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/8/5k2/2n5/8/8/4BNr1/8 w - - 0 1"]
+
+ 1. Ng4+ (1. Nd3 $2 Rxe2 2. Nxc5 Kf7) 1... Kg5 $1 2. Bf3 $1 (2. Bd1 $2 Rd2 3. Bf3 Kf4) 2... Rg1 $1 (2... Rb2 $1 {cook JN}) 3. Nf2 $1 (3. Nh2 $2 Rg3 $1 4. Bg4 Rg2) 3... Rf1 $1 4. Ne4+ (4. Nh3+ $2 Kh6 $1 5. Bd5 Rf8+ 6. Bg8 Ne4) 4... Kg6 $1 5. Nd2 $1 (5. Nxc5 $2 Rxf3 6. Kg8 Rc3) (5. Bh5+ $2 Kh6 $1) 5... Rf2 6. Nc4 $1 Rxf3 (6... Nd7 $1 {cook}) 7. Ne5+ 1/2-1/2  

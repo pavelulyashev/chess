@@ -1,0 +1,10 @@
+[Event "ts72 @3 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1rB5/nr4pK/2k5/8/2p5/2P1p2p/7Q w - - 0 1"]
+
+ 1. Bxb6+ (1. Qxh2 $2 e1=Q 2. Bxb6+ Kd5 $1) 1... Rxb6 (1... Kxb6 {main} 2. Qxh2 e1=Q 3. Qg1+ Qxg1) 2. Qxh2 e1=Q 3. Qc7+ Kb5 (3... Nxc7 $1 {cook}) 4. Qd7+ Rc6 5. Qb7+ Kc5 6. Qe7+ Qxe7 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "t001#43 @2 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1N6/K7/5b2/1k6/2pn4/P2N4/P1PR4/B4r2 w - - 0 1"]
+
+ 1. a4+ Kxa4 2. Nb2+ (2. Nc5+ $1 {cook} Kb5 3. Bxd4 Bxd4 4. Rxd4 Kxc5 5. c3) 2... Kb4 3. Rd1 Rxd1 4. Nxd1 Nb5+ 5. Kb6 Bxa1 6. Na6+ Ka4 7. Nc5+ Kb4 8. a3+ $1 Nxa3 9. c3+ Bxc3 10. Ne3 Bd4 (10... Nb1 {main} 11. Nc2#) 11. Nd5# 1-0  

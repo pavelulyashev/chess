@@ -1,0 +1,10 @@
+[Event "1 Prize, mp11 wm03 {c} @3 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Osintsev S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/N7/4b1R1/5p1p/3ppp2/k6K/8 w - - 0 1"]
+
+ 1. Nb4+ Kb1 (1... Kb2 2. Nxd3+ Kc3 3. Nxe5 f2 4. Kg2 h3+ 5. Kf1 h2 6. Rh5 Kd2 7. Nf3+) 2. Nxd3 (2. Rg1+ $2 Kb2 3. Nxd3+ Kc3 4. Nxe5 f2 5. Ra1 e2) 2... f2 3. Nxf2 (3. Kg2 $2 f3+ 4. Kf1 Bd4 5. Nf4 Kc2 6. Ra5 Kd2 (6... Kd1 $2 7. Ra2 h3 8. Rxf2 exf2 9. Nxh3) 7. Ra2+ Kd1) 3... f3+ 4. Kg1 (4. Rxe5 $2 exf2 5. Ra5 Kb2) 4... Bd4 5. Nd3 (5. Kf1 $2 e2+ 6. Ke1 Bc3#) 5... e2+ 6. Kh1 (6. Kh2 $2 f2 7. Nxf2 Bxf2 8. Re5 Bg3+) 6... e1=Q+ (6... f2 $1 {cook JF} 7. Nxf2 Kc2 8. Rg1 Bxf2 9. Ra1 Kb2) 7. Nxe1 f2 8. Nf3 f1=Q+ 9. Rg1 Bxg1 10. Nd2+ 1/2-1/2  

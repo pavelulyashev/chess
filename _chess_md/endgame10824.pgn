@@ -1,0 +1,10 @@
+[Event "ts70#1422 @2 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1n1k4/8/8/1p1P1N2/1rPK4/3R4/P7/2b5 w - - 0 1"]
+
+ 1. Nd6 bxc4 2. Nxc4 Bb2+ 3. Kc5 Na6+ 4. Kc6 Rxc4+ 5. Kb5 Ra4 $1 6. Rg3 $1 (6. a3 $1 {cook WM/FS} Bxa3 (6... Rxa3 7. Rxa3 Nc7+ 8. Ka4) (6... Kd7 7. Rb3 Bd4 8. Kxa4 Nc5+ 9. Kb4 Nxb3 10. Kxb3) (6... Bf6 7. Rf3 $1) 7. Kxa4) 6... Rxa2 7. Rg2 $1 Ke7 $1 8. Rh2 $1 Kd7 9. Rc2 Kd8 10. Rg2 Kc7 11. Rh2 $1 Kd8 (11... Nc5 12. Rc2 $1 (12. Rh7+ $2 Nd7 $1 13. Rh2 Ra8)) 12. Rg2 1/2-1/2  

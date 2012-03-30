@@ -1,0 +1,10 @@
+[Event "ts23 {v} {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1P6/P1p1pP2/1b2P3/2pBN2p/3q1p1p/4k2P/5NK1 w - - 0 1"]
+
+ 1. Nc3+ $1 1... Qxc3 2. Bxc3 f2+ 3. Kh1 Kxf1 4. f7 (4. Bd4 $2 4... c3 5. b8=Q Bd3 6. Qb1+ Bxb1 7. Bxf2 Be4#) 4... c5 5. b8=N $1 5... Ba4 6. a7 Bc2 7. a8=B $1 (7. a8=Q $2 7... Be4+ 8. Qxe4) 7... Bd1 8. f8=R $1 (8. f8=Q $2 8... Bf3+ 9. Qxf3) 1-0  

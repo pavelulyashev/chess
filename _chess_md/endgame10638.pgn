@@ -1,0 +1,10 @@
+[Event "tt21#3440 @1 @2 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/K2p4/1N6/8/3k3P/8/8/8 w - - 0 1"]
+
+ 1. Nc4 $1 (1. h5 $1 {cook} Ke5 2. Nd5 $1 Kf5 3. Kb6 Kg5 4. Nf4 d5 5. Kc5 Kxf4 6. h6) 1... Ke4 2. Ne3 $1 (2. Nd2+ $1 {cook}) 2... d5 3. h5 d4 4. h6 dxe3 5. h7 e2 6. h8=Q e1=Q 7. Qe8+ 1-0  

@@ -1,0 +1,10 @@
+[Event "mc03 @2 @3 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sochniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K2n3/P1P1P3/1k2PP2/8/8/5bb1/8/8 w - - 0 1"]
+
+ 1. a8=N+ (1. a8=Q $2 Bxc7+ 2. Kc8 Bxa8) 1... Bxa8 2. f7 (2. Kxa8 Nxc7+ 3. Kb8 Ne8+ 4. Kc8 Nxf6 5. e8=Q $1 {cook AV} Nxe8 6. Kd8 Nf6 7. e7 Bc7+ 8. Kc8 Kc6 9. e8=Q+ Nxe8) 2... Bb7 (2... Bc6 3. fxe8=Q Bxe8 4. Kc8 Bxc7) 3. fxe8=N Bf4 4. Nd6 Bxd6 5. e8=N Bg3 6. e7 Bf4 (6... Ba6 $1 {cook AV} 7. Ka8 $1 Bc8 $1 8. Kb8 $1 Bd7 $1 9. Ka8 $1 Bc6+ $1 10. Kb8 Bxe8 11. Kc8 Bc6 12. e8=Q Bxe8 13. Kd8 Bh5 14. c8=Q (14. c8=N+ Kc5) 14... Bh4+ 15. Kd7 Bg4+) 7. Nd6 Bxd6 8. e8=N Bh2 9. Nd6 Bf3 10. c8=N+ Kc6 11. Ka7 Bg1+ 12. Kb8 1/2-1/2  

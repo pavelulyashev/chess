@@ -1,0 +1,10 @@
+[Event "8 Prize tl20#391 @2 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Kleindinst G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5Q2/8/8/7q/1KNk4/8/8/8 w - - 0 1"]
+
+ 1. Qe7 Qh8 (1... Qh2 2. Qe3+ Kd5 3. Kb5 Qb8+ 4. Nb6+) (1... Qh6 2. Qe5+ Kd3 3. Kb3) (1... Qf5 2. Qa7+) 2. Qd7+ (2. Qe3+ $1 {cook HH}) 2... Ke4 3. Qg4+ Kd5 4. Qf3+ (4. Qg2+ $1 {cook JU}) 4... Ke6 5. Qe4+ Kf7 (5... Kd7 6. Ne5+ Kc7 7. Qc6+) 6. Nd6+ Kg7 7. Qe5+ Kg8 8. Qe8+ (8. Qe6+ $1 {cook JU} Kh7 9. Qf5+ Kg7 10. Qg5+ Kf8 11. Qd8+ Kg7 12. Nf5+) 8... Kh7 9. Qh5+ Kg7 10. Nf5+ Kg8 11. Qe8+ Kh7 12. Qf7+ 1-0  

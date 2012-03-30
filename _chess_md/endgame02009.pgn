@@ -1,0 +1,10 @@
+[Event "Deutsche Schachzeitung {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/7p/P2P4/2k5/8/8/r3b3/7R w - - 0 1"]
+
+ 1. d7 Rd2 2. a7 Bf3 3. Rh5+ $1 Kc4 (3... Bxh5 4. a8=Q Rxd7 5. Qa5+ $18) 4. Rd5 $1 {Nowotny} Bxd5 (4... Rxd5 5. a8=Q $18) 5. d8=Q 1-0  

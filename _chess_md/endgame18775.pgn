@@ -1,0 +1,10 @@
+[Event "ts13#466 @1 {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k1K2/2pB2R1/2pp2p1/8/N5b1/8/2P2Pp1/8 w - - 0 1"]
+
+ 1. Nc5 $1 (1. Bxg4 g1=Q 2. Rd7+ (2. Rxg6 Qxf2+) (2. f3 $1 {cook}) 2... Kc8 3. f3 Qa1) 1... dxc5 (1... Bxd7 2. Rxd7+ Kc8 3. Re7 dxc5 4. Re1) 2. Be6 $1 (2. Bxg4 $2 g1=Q 3. Rd7+ Kc8 4. Rd1+ (4. Rd4+ Kb7) 4... Qxg4) 2... Bxe6 (2... g1=Q 3. Rd7+ Kc8 4. Rd1+ Bxe6 5. Rxg1 Bd5 6. c3) 3. Rxg6 Bd5 {eg} 4. Rg7 c4 5. c3 Bf3 6. Kf7 Kd7 7. Kf6+ Kd6 8. Kf5 Kc5 9. Kf4 Bd5 10. f3 1-0  

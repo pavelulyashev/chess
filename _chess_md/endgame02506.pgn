@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention Chess Life & Review {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k3n1/q7/3PP3/8/4p3/2B3p1/6P1/7K w - - 0 1"]
+
+ 1. d7+ Kc7 2. Be5+ Kd8 3. Bf6+ $1 Ne7 (3... Nxf6 $144 4. e7+ Kxe7 5. d8=Q+ Kxd8 $11) 4. Bd4 $1 (4. Bxe7+ $143 Kxe7 5. d8=Q+ Kxd8 6. e7+ Qxe7 $19) 4... Nc6 $1 ( 4... Qxd7 $144 5. exd7 Kxd7 $11) 5. Bf6+ Ne7 (5... Kc7 $144 6. d8=Q+ Nxd8 7. e7 Qa8 8. exd8=Q+ Qxd8 9. Bxd8+ Kxd8 10. Kg1 $11) 6. Bd4 $1 Qc7 $1 7. Be3 $1 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Gorgiev T, Preuyt G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/1P6/k1P2P2/2P5/2N2r2/8/5p2/3K2b1 w - - 0 1"]
+
+ 1. Ne3 (1. Nd2 $2 Rd4 2. Kc2 Rxd2+ 3. Kxd2 f1=Q 4. b8=Q Qf2+ $11) 1... f1=Q+ ( 1... Rb4 2. f7) 2. Nxf1 Rxf1+ 3. Ke2 Rf2+ 4. Ke1 Rb2 5. Ne6 $1 (5. f7 $2 Bxc5 6. Nd7 Bd6 7. b8=Q Rxb8 8. Nxb8+ Kb6 9. Ke2 Kc7 $11) (5. Nd7 $2 Bh2 6. f7 Bg3+ 7. Kd1 Rf2 8. f8=Q Rxf8 9. Nxf8 Kb5) 5... Bf2+ (5... Bh2 6. f7 Bg3+ 7. Kd1) 6. Kd1 (6. Kf1 $2 Bg3 7. Kg1 Bh2+ 8. Kh1 Rf2 9. f7 Bb8 10. f8=Q Rxf8 11. Nxf8 Kb5 $11) 6... Bg3 7. f7 Rf2 8. Nf4 $3 {Nowotny} Rxf4 9. b8=Q Rf1+ 10. Ke2 Rf2+ 11. Ke3 Bxb8 12. c7 $3 (12. Kxf2 $2 Ba7 $1 13. f8=B $1 (13. f8=Q Bxc5+ 14. Qxc5 { stalemate}) 13... Bb6 $3 (13... Bb8 $2 14. Bd6) 14. Ke3 (14. cxb6 Kxb6) (14. Bd6 Ba5 15. c7 Kb7) 14... Kb5 15. cxb6 Kxb6 (15... Kxc6 16. Bc5)) 12... Bxc7 13. Kxf2 1-0  

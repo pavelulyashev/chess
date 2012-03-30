@@ -1,0 +1,10 @@
+[Event "2 Prize ts23 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2R5/3K4/4P3/2p1p1p1/2r5/8/6k1 w - - 0 1"]
+
+ 1. e6 (1. Rg7 $2 1... e3 2. Rxg4+ Kf2 3. Rf4+ Kg3) 1... Rd3+ (1... e3 2. e7 Rd3+ 3. Kc5) 2. Ke5 e3 3. Rxc4 (3. e7 $2 3... e2) 3... e2 4. Rxg4+ Kf2 5. Re4 Re3 (5... e1=Q 6. Rxe1 Kxe1 7. e7 Ke2 8. Kf6) 6. Rxe3 Kxe3 7. e7 $1 7... e1=Q 8. Ke6 $3 8... Kf4+ (8... Kd4+ 9. Kd7) 9. Kf7 1/2-1/2  

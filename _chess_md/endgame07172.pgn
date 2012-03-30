@@ -1,0 +1,10 @@
+[Event "b002#270 {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Neustadtl H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K2b4/3P2pp/8/5PN1/8/6k1/8/8 w - - 0 1"]
+
+ 1. f6 $1 (1. Ne6 $2 Be7 2. Nxg7 Kg4) 1... gxf6 $1 2. Ne6 Be7 3. Nd4 Bd8 4. Nc6 Bc7 5. Kb7 1-0  

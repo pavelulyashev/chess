@@ -1,0 +1,10 @@
+[Event "ts67 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Karstedt M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2Q5/8/8/8/8/1R6/pp1K4/k6r w - - 0 1"]
+
+ 1. Rxb2 $1 (1. Qc3 $2 Rh2+ 2. Kd1 Rh1+) 1... Rh2+ 2. Kd3 (2. Kc3 $2 Rh3+ 3. Qxh3 (3. Kc4 Rc3+ 4. Kxc3) (3. Kb4 Rb3+ 4. Ka4 Ra3+ 5. Kxa3)) 2... Kxb2 (2... Rxb2 3. Qc3 Kb1 4. Qe1#) 3. Qc3+ Kb1 4. Qb4+ Ka1 5. Qd4+ Kb1 6. Qg1+ Kb2 7. Qxh2+ 1-0  

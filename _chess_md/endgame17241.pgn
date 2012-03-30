@@ -1,0 +1,10 @@
+[Event "ts23#23 @2 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3b4/4pK2/N2B4/7n/3R4/8/2b1k3 w - - 0 1"]
+
+ 1. Be4 $1 (1. Bb3 $2 Bd2 2. Nc4 Bb5 $1) 1... Bc8 (1... Bb5 2. Rb3 $1 (2. Rh3 $2 Nf5 3. Rh1+ Bf1) 2... Ba4 (2... Be2 3. Rb1 Kd2 4. Nb3+ Ke3 5. Nxc1) (2... Ba6 3. Rb1 Kd2 4. Nb3+ Ke3 5. Rxc1 Kxe4 6. Nc5+)) 2. Rh3 Bb2+ (2... Nf5 3. Rh1+ Kd2 4. Nb3+) 3. Kg5 Nf5 4. Rh1+ Kd2 5. Rh2+ (5. Bxf5 $1 {cook JM} exf5 6. Nc4+ Kc3 7. Nb6 Bb7 (7... Be6 8. Na4+ Kb3 9. Nc5+) (7... Ba6 8. Na4+ Kb3 9. Nc5+) 8. Na4+ Kb4 9. Rh4+ Kb3 10. Nxb2 Kxb2 11. Rb4+) 5... Kc3 6. Rc2+ Kb4 7. Bxf5 exf5 8. Nb7 $1 Bc3 9. Nc5 $1 Kc4 (9... f4 10. Ne4) 10. Rc1 $1 (10. Na4 $2 Ba6 11. Nxc3 (11. Rxc3+ Kb4 12. Rc6 Bb5) 11... Kb3 12. Rc1 Kb2) (10. Kh5 $2 f4 $1 11. Ne4 Bf5) (10. Kf4 $2) 10... Kd4 (10... Kb4 11. Kh5 f4 (11... Bd2 12. Nd3+) ( 11... Kc4 12. Na4) 12. Ne4) 11. Kh4 (11. Kh5 $2 f4 $1 12. Na4 f3 13. Nxc3 f2 14. Ne2+ Ke3 15. Ng3 Kf3 16. Kh4 Bd7 $1) 1-0  

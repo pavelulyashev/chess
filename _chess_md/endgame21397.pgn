@@ -1,0 +1,10 @@
+[Event "tf22 {m} {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/1r1N4/2Kn1N1P/8/8/8/8/8 w - - 0 1"]
+
+ 1. Ne5 Rb6+ (1... Rg7 2. Kxd6) 2. Kd7 (2. Kxb6 $2 Nc4+ 3. Nxc4) 2... Rb7+ 3. Ke6 Rg7 (3... Re7+ 4. Kxe7 Nf5+ 5. Kf8) 4. Kxd6 1-0  

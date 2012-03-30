@@ -1,0 +1,10 @@
+[Event "b008#236 {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/p4p2/k3P3/2K5/5N2/8/8/4r3 w - - 0 1"]
+
+ 1. exf7 Re5+ 2. Nd5 Rf5 3. Ne6 Rxf7 (3... Kb7 4. f8=Q Rxf8 5. Nxf8 a5 6. Ne6 a4 7. Nc3 a3 8. Na2) 4. Kb4 Rb7+ 5. Ka4 Rb5 6. Nec7+ Kb7 7. Kxb5 a5 8. Ne8 $1 (8. Ka4 $2 8... Kc6) 8... a4 9. Nd6+ Kb8 (9... Ka8 10. Kb6 a3 11. Nc7+ Kb8 12. Na6+ Ka8 13. Nb5 a2 14. Nbc7#) (9... Ka7 10. Nb4 a3 11. Nc6+ Ka8 12. Kb6 a2 13. Nb5 a1=Q 14. Nc7#) 10. Kb6 a3 11. Nb4 a2 12. Nc6+ Ka8 13. Ne8 a1=Q 14. Nc7# 1-0  

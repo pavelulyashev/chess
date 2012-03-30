@@ -1,0 +1,10 @@
+[Event "tt20#354 @3 {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/Nk6/1b2n3/1N2p3/8/1KP5/4B3 w - - 0 1"]
+
+ 1. Bf2+ (1. Bg3 $2 Nc4+ 2. Kc3 c5 3. Nc7 cxb4+ 4. Kxb4 Ne3) 1... e3 (1... Ka5 2. Bg3 Bxa6 3. Nxa6 Nc4+ 4. Kc3) 2. Bxe3+ Ka5 3. Bf4 Bxa6 4. Kb3 c5 (4... Bc4+ $1 {cook} 5. Kc3 Ng6 $1) 5. Nc6+ Nxc6 6. Bc7+ Kb5 7. c4# 1-0  

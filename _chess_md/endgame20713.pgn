@@ -1,0 +1,10 @@
+[Event "tl10 {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2r5/2Pp1Pk1/6p1/4PpK1/p7/P7/8/4R3 w - - 0 1"]
+
+ 1. e6 dxe6 2. Rh1 e5 (2... f4 3. Rh3 (3. f8=Q+ $2 Rxf8 4. Rd1 Rf5+ 5. Kg4 Rc5) (3. Rh6 $2 f3 4. f8=Q+ Rxf8 5. Rxg6+ Kh7 6. Rf6 Rg8+ 7. Kh5 Rc8 8. Rf7+ Kg8 9. Rd7 f2) 3... f3 4. Rxf3 Kf8 5. Rh3 $1 (5. Kxg6 $2 Rxc7) 5... Kg7 6. Rh6 Ra8 7. f8=Q+ Rxf8 8. Rxg6+ Kh7 9. Rf6 Rg8+ 10. Kh5 Rc8 11. Rf7+ Kg8 12. Rd7) (2... Rxc7 3. Rh7+ Kf8 4. Rh8+ Kxf7 5. Rh7+) 3. f8=Q+ Rxf8 4. Rd1 1-0  

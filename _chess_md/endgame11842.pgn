@@ -1,0 +1,10 @@
+[Event "bi11#164 {ph} @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2R2N2/7p/8/1k6/1p6/4n3/pP3K2/8 w - - 0 1"]
+
+ 1. Ra8 Nd1+ 2. Ke1 Nc3 (2... Nxb2 3. Rxa2 Na4 4. Rh2 b3 5. Kd1 Kb4 6. Kc1 Ka3 7. Kb1 b2 8. Rh3+) 3. Ne6 (3. b3 $2 Kc6 4. Ne6 Kb7 5. Ra5 Kb6 6. Ra8 Kb7) 3... Kc4 (3... Na4 4. Nd4+) (3... b3 4. Nd4+ Kc4 5. Nxb3 Kxb3 6. bxc3) 4. Nc5 $1 Kxc5 (4... Nb5 $1 {cook} 5. Rxa2 Kxc5 6. Kd2 Kc4 7. Ra8 Kb3 8. Kc1 Nc7 9. Rh8 Ne6 10. Rxh7 Nc5 $1) 5. Kd2 Nb1+ (5... Kc4 6. bxc3 b3 7. Kc1 Kxc3 8. Rc8+ Kd4 9. Kb2 Ke5 10. Rh8) 6. Kc2 Na3+ 7. bxa3 $1 a1=Q 8. axb4+ Kxb4 9. Rxa1 1-0  

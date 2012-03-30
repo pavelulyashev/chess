@@ -1,0 +1,10 @@
+[Event "SS1990-91 [3hm cooked] {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Balo T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3p4/p7/1pbp4/N4N2/p2K4/k7 w - - 0 1"]
+
+ 1. Kc1 {with 5 thematic lines} d3 $1 (1... b3 2. Nc2+ (2. Nxc4 {dual} b2+ (2... d3 3. Nb2 a4 4. Nxa4 d5 5. Nd2 b2+ 6. Nxb2 d4 7. Nb3#) (2... d5 3. Nb2 d3 4. Nd2 a4 5. Nxa4) 3. Nxb2 d3 4. Nd2) 2... bxc2 3. Nxd4) (1... Bd3 2. Nxd4) (1... Bb3 2. Nxd4) (1... bxa3 2. Nxd4) 2. Nxc4 (2. Nd4 bxa3) 2... a4 3. Nfd2 (3. Nb6 {The worst dual, Vlasak} b3 4. Nxa4 d5 5. Nd2) 3... b3 4. Nb2 d5 5. Nxa4 (5. Nd1 {dual}) (5. Nxd3 {dual} d4 6. Nb2 d3 7. Nxd3) 5... b2+ 6. Nxb2 d4 7. Nb3# 1-0  

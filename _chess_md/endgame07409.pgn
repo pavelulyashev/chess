@@ -1,0 +1,10 @@
+[Event "ts23 @3 {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/8/2k1B1P1/8/8/8/r7/7K w - - 0 1"]
+
+ 1. g7 Ra1+ 2. Kg2 Bh2 $1 (2... Ra3 $1 {cook NS} 3. Bd5+ $1 Kb6 4. Bf3 Ra2+ 5. Kh3 (5. Kf1 Ra1+ 6. Kf2 Ra2+ 7. Ke3 (7. Be2 Bg3+ 8. Kxg3 Ra8) 7... Ra3+ 8. Ke2 (8. Ke4 Ra4+) 8... Ra2+ 9. Kd3 Ra3+ 10. Kc2 Rc3+ 11. Kxc3 Be5+) 5... Ra3 $1 6. Kg4 (6. g8=Q Rxf3+ 7. Kh4 Rf4+ 8. Kg5 Bd6) 6... Ra4+ 7. Kh5 (7. Kf5 Ra5+ 8. Kg6 Bf4) 7... Ra5+ 8. Kh4 Ra4+ 9. Bg4 Bg3+ 10. Kxg3 Ra8) 3. Bg4 $1 Ra8 (3... Rg1+ 4. Kh3 Rg3+ 5. Kh4) 4. Bf3+ 1-0  

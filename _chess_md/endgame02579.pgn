@@ -1,0 +1,10 @@
+[Event "28 Rijen#220 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Reti R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3k4/1K6/PP6/2b5/8/8/5n2 w - - 0 1"]
+
+ 1. Kb7 Ne3 (1... Bd5+ $144 2. Ka7 $1 $11) (1... Bxb5 $144 2. a6 $1 $11) 2. a6 ( 2. b6 $143 Nd5 3. Ka7 Nb4 $1 4. b7 Nc6+ 5. Ka8 Kc7 $19) 2... Nd5 3. a7 Nc7 4. a8=Q Bd5+ 5. Ka7 Nxa8 6. b6 Kc8 7. b7+ Bxb7 $11 1/2-1/2  

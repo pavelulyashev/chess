@@ -1,0 +1,10 @@
+[Event "t001#270 {m} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3R3B/8/k2K1p2/7n/3p4/1p6/8 w - - 0 1"]
+
+ 1. Kc5 Ka6 $1 (1... Ka4 2. Kc4) 2. Bxf5 Nxf5 3. Rxd3 b1=Q (3... Nd4 4. Rxd4 $1 b1=Q 5. Ra4+ Kb7 6. Rb4+) 4. Ra3+ Kb7 5. Rb3+ Qxb3 1/2-1/2  

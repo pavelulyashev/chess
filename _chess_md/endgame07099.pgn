@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Euwe M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/ppp2p2/8/4k3/8/4K3/PPP4P/8 w - - 0 1"]
+
+ 1. a4 a5 2. c4 c5 3. b3 b6 4. h4 Kf5 (4... f5 5. h5) (4... f6 5. Kf3 Kf5 (5... f5 6. Ke3) 6. Kg3 Ke5 7. h5 Kf5 8. Kh4 $1 Ke6 9. Kg4) 5. Kf3 Ke5 6. Kg4 $1 Ke4 7. h5 f5+ 8. Kh3 $1 (8. Kg5 $2 f4) (8. Kh4 $2 f4 9. h6 f3) (8. Kg3 $2 Ke3 9. h6 f4+) 8... Ke5 9. Kg3 Ke6 10. Kf4 Kf6 11. h6 Kg6 12. h7 Kxh7 13. Kxf5 1-0  

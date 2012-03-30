@@ -1,0 +1,10 @@
+[Event "2 Prize, ts69#195 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Grzeban G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N2R3/5p2/8/8/1p6/pkP5/R1n1K3 w - - 0 1"]
+
+ 1. Kd2 Kxa1 2. Re1 b2 (2... Kb2 3. Rxc1 bxc2 4. Rxc2+ Kb1 5. Rc1+ Kb2 6. Ra1) 3. Nd6 $1 (3. Rxc1+ $2 b1=N+ $1) 3... b1=Q (3... Kb1 4. Ne4 Ka1 5. Nc3 b1=Q 6. Rxc1 Kb2 7. Rxb1+) 4. Rxc1 Kb2 5. Nc4+ Ka1 6. Na3 1-0  

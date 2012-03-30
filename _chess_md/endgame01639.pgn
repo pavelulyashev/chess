@@ -1,0 +1,10 @@
+[Event "64#538 {c} {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r7/p3PN2/k7/P4P2/pKPn4/8/8/8 w - - 0 1"]
+
+ 1. Nd8 Rxd8 2. exd8=N $1 (2. exd8=Q $143 Nc6+ 3. Kxa4 Nxd8 $17) 2... a3 3. Kxa3 Nxf5 4. Ka4 $1 (4. Kb4 $143 Ne3 5. c5 Nd5+ 6. Ka4 Nc3+ 7. Kb3 Kb5 $11) 4... Nd6 5. c5 Nb7 (5... Nc8 $144 6. c6 Nb6+ $144 7. Kb4 (7. axb6 $143 Kxb6 $11) 7... Nd5+ 8. Kc5 Nc7 9. Nb7 $18) 6. c6 $1 (6. Nxb7 $143 Kxb7 7. Kb5 Kc7 $1 $11) 6... Nxd8 (6... Nc5+ $144 7. Ka3 Ne4 8. Kb4 Nf6 9. Kc4 $18) 7. c7 Nb7 8. c8=R $1 (8. c8=Q $143 $11) 8... Nxa5 9. Rc5 Nb7 10. Rc6# 1-0  

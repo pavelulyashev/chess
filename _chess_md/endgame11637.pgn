@@ -1,0 +1,10 @@
+[Event "12 Prize ww12 {tt} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Makletsov J, Maksimovskikh A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3P1k2/5q2/2b5/8/4R1R1/4P2p/4K3 w - - 0 1"]
+
+ 1. d8=N+ (1. d8=Q $2 h1=Q+ 2. Kd2 Bxe3+) 1... Kf8 (1... Qxd8 2. Rgf3+ Kg6 3. Rg3+ Kh5 4. Rh3+ Qh4+ 5. Rxh4+ Kxh4 6. Kf2) 2. Ne6+ Kf7 (2... Ke7 3. Nxc5+ Kd8 4. Rh3 Qa1+ 5. Kf2 Qg1+ 6. Kf3 h1=Q+ 7. Rxh1 Qxh1+ 8. Kf4 Qh6+ 9. Ke4 Qc6+ 10. Kd4) 3. Nd8+ (3. Ng5+ $2 Qxg5 4. Ref3+ Ke8 5. Rxg5 h1=Q+ 6. Kd2 Qh6) 3... Qxd8 4. Rgf3+ (4. Ref3+ $2 Ke6 5. Rg6+ Ke5) 4... Kg6 5. Rg3+ Kh5 6. Rh3+ Qh4+ 7. Rxh4+ Kxh4 8. Kf2 h1=B (8... h1=Q) 9. Kg1 Bc6 10. Kh2 Bd6+ 11. Kg1 Bc5 12. Kh2 Bxe3 1/2-1/2  

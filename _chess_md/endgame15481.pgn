@@ -1,0 +1,10 @@
+[Event "tf29#00763 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2pp3p/8/2PP4/8/6Pk/P5p1/6K1 w - - 0 1"]
+
+ 1. g4 $1 (1. a4 $2 Kxg3 2. a5 h5) 1... Kxg4 2. Kxg2 (2. a4 $2 Kg3) (2. d6 $2 cxd6 3. c6 dxc6 4. Kxg2 Kf5 5. a4 Ke6 6. a5 Kd7) (2. c6 $2 d6 3. Kxg2 Kf4 4. a4 Ke4) 2... Kf5 3. a4 Ke5 4. d6 (4. c6 $2 d6 (4... dxc6 $2 5. a5)) 4... cxd6 5. c6 (5. a5 $2 Kd5) 5... dxc6 6. a5 d5 7. a6 1-0  

@@ -1,0 +1,10 @@
+[Event "tg25#520 (@2) {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Ernst E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2b2p2/p4K1P/8/3k4/8/2P5/8 w - - 0 1"]
+
+ 1. Kf5 $1 (1. Kxf7 $2 Be5) (1. h7 $2 Be5+ 2. Kxf7 Kc3 3. Ke6 Bh8) 1... a5 2. h7 Be5 3. c3+ Kd5 4. c4+ Kd4 5. c5 a4 6. c6 a3 7. h8=Q (7. c7 a2 8. h8=Q $1 {cook} (8. c8=Q $2 a1=Q)) 7... Bxh8 8. c7 a2 9. c8=Q a1=Q 10. Qxh8+ 1-0  

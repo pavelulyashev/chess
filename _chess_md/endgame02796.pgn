@@ -1,0 +1,10 @@
+[Event "t001 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Smyslov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/p7/P5Pp/K4P1P/3p3P/3P4/ppBN1b2/8 w - - 0 1"]
+
+ 1. Bb1 $1 (1. Nb1 $143 a1=Q+ 2. Kb5 Qa2 $19) (1. g7 $143 a1=Q+ 2. Kb5 Qg1 3. f6 $11) 1... a1=Q+ 2. Kb5 Bg3 (2... Qa3 $144 3. g7 $18) 3. g7 Bb8 $1 4. g8=B $3 ( 4. g8=Q $143 Qa4+ 5. Kxa4 $11 {pat}) 4... Bf4 5. Bga2 Bxd2 (5... Be5 $144 6. Ne4 Kb8 7. Kc6 Bg7 (7... Kc8 $144 8. f6 Kd8 9. Kb7 $18) 8. f6 Bf8 9. Nd6 $1 Qxb1 10. Bxb1 Ka8 11. Kc7 Be7 12. Kc8 Bd8 13. Ba2 b1=Q 14. Bd5+ Qb7+ 15. axb7#) 6. f6 $1 Bf4 7. f7 Bd6 8. Kc6 Bf8 9. Kc7 1-0  

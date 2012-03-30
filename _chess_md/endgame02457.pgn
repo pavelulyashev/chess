@@ -1,0 +1,10 @@
+[Event "1 Prize Moscow Champ {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3R4/pN2N3/6n1/8/6Q1/k4B2/2q5/K7 w - - 0 1"]
+
+ 1. Qa4+ $3 (1. Rd3+ $143 Qxd3 2. Qg2 (2. Qa4+ $144 Kxa4 3. Nc5+ Kb5 4. Nxd3 Nxe7 $11) (2. Nd5 $144 Qd2 3. Qb4+ Qxb4 4. Nxb4 Kxb4 $11) 2... Qc3+ 3. Kb1 Qb3+ 4. Kc1 Nxe7 $11) 1... Qxa4 (1... Kxa4 $144 2. Bd1 $18) 2. Rd3+ Kb4+ 3. Kb2 Ne5 $1 (3... Nxe7 $144 4. Rd4+ Kb5 5. Be2+ $18) (3... Qa6 $144 4. Rd4+ Kb5 5. Be2+ $19) (3... Qe8 $144 4. Rb3+ Kc4 5. Nd6+ $19) 4. Nc6+ $1 (4. Nd5+ $143 Kc4 5. Rc3+ Kd4 $11) 4... Nxc6 (4... Kb5 $144 5. Nxe5 Kb6 6. Nd7+ Kc7 7. Rc3+ Kxd7 8. Nc5+ $18) 5. Be2 $3 a6 (5... Kb5 $144 6. Rd4+ $18) (5... Qb5 $144 6. Rb3+ $18) 6. Bf1 $1 Kc4 $1 (6... a5 $144 7. Be2 Kc4 8. Rh3+ Kd5 9. Rh5+ Ne5 10. Bf3+ $18) 7. Rh3+ $1 Kd5 8. Rh5+ Ne5 9. Bg2+ Kc4 10. Rh4+ Kb5 11. Bf1+ Nc4+ 12. Rxc4 $1 Qxc4 (12... Qd1 $144 13. Rc1+ $18) 13. Nd6+ $18 1-0  

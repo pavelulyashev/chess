@@ -1,0 +1,10 @@
+[Event "Szachista Polski {m}"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Slepjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3rP3/8/8/b1K5/1p6/5RBp/k7 w - - 0 1"]
+
+ 1. e8=Q Rc7+ 2. Bc6 {Novotny} Rxc6+ 3. Kb4 Rb6+ (3... Rc4+ $144 4. Ka3 $18) ( 3... b2 $144 4. Rf1+ (4. Qh8 $143 Rb6+ 5. Ka3 Rb3+ 6. Kxa4 h1=Q 7. Qxh1+ b1=Q 8. Rf1 Rb4+ $11) 4... b1=Q+ 5. Rxb1+ Kxb1 6. Qe4+ Kb2 7. Qe5+ $1 $18 { EGTB 6-men} (7. Kxa4 $143 Rc4+ $11) (7. Qh1 $143 Rc1 8. Qxh2+ Bc2 9. Qe5+ Ka2 $11)) 4. Ka3 h1=Q 5. Qh8+ b2 6. Qxh1+ Bd1 $1 7. Rxb2 (7. Qxd1+ $143 b1=N+ 8. Ka4 Rb4+ 9. Ka5 Rb5+ 10. Kxb5 $11) 7... Rb3+ 8. Ka4 (8. Rxb3 $143 $11) 8... Rd3+ 9. Rb3 $18 1-0  

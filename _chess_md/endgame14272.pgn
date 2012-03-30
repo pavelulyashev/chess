@@ -1,0 +1,10 @@
+[Event "tk01#06 {m}"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Erlin K"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/P7/1P6/p7/kp1p4/3P4/2K5 w - - 0 1"]
+
+ 1. Kb1 b2 (1... Kb4 2. b6) 2. b6 Kb3 (2... axb6 3. a7) 3. b7 (3. bxa7 $2 a3 4. a8=Q a2#) 3... Ka3 4. b8=N Kb3 5. Nd7 (5. Nc6 $2 a3 $1 6. Nd4+ Kc4 7. Nc6 Kb3 8. Na5+ Kb4 9. Nb7 Kc4 10. Ka2 Kd5 $1) 5... Ka3 (5... a3 6. Nc5+ Kc4 (6... Kb4 7. Ne4) 7. Ne4 Kb3 (7... Kb4 8. Ka2) 8. Nc3) 6. Nc5 Kb4 7. Nxd3+ Kc4 8. Nxb2+ Kb3 9. Nd1 1-0  

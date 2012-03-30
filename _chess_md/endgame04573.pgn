@@ -1,0 +1,10 @@
+[Event "tk26 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K6/2P5/N7/8/2p5/k7/8 w - - 0 1"]
+
+ 1. c7 c2 2. c8=R (2. c8=Q $2 2... c1=Q 3. Qxc1) 2... Kb1 (2... Kb2 3. Nc4+ Kb1 4. Na3+) 3. Nb3 Kb2 4. Nc5 c1=Q 5. Nd3+ 1-0  

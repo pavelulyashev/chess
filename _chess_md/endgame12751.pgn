@@ -1,0 +1,10 @@
+[Event "tt23#103 @2 {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Tresling J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5bpk/5p1p/3p2P1/4P1PK/8/8/1B6 w - - 0 1"]
+
+ 1. g6+ (1. exd5+ $2 Kg8) 1... Bxg6 (1... Kxg6 2. e5+ f5 3. Bxf5#) 2. exd5 f5 3. Bxf5 Bxf5 4. gxf5 Kg8 (4... g5+ 5. Kh5 Kg7 6. d6 Kf6 7. d7 Ke7 8. Kg6 Kxd7 9. f6 Ke8 10. Kg7) 5. Kh5 (5. Kg4 $1 {cook JU}) (5. d6 $1 {cook JU}) 5... Kf7 6. d6 Kf6 7. d7 Ke7 8. Kg6 Kxd7 9. Kxg7 1-0  

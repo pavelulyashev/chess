@@ -1,0 +1,10 @@
+[Event "tl20#0896 {m}"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Lazard F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2kr2b1/p7/8/1R2BN2/4K3/8/6n1/8 w - - 0 1"]
+
+ 1. Ne7+ Kd7 2. Rb7+ Ke6 (2... Ke8 $144 3. Nxg8 Rd1 (3... Kf8 $144 4. Nf6 $18) ( 3... Nh4 $144 4. Nf6+ $18) (3... Rc8 $144 4. Nf6+ Kd8 (4... Kf8 $144 5. Bd6#) 5. Rd7#) (3... Ra8 $144 4. Nf6+ Kd8 5. Rg7 Kc8 6. Ne8 $18) 4. Kf5 Rc1 5. Nf6+ Kd8 6. Ne4 Rc6 7. Nd6 Rc7 8. Nf7+ Rxf7+ 9. Rxf7 $18) 3. Ng6 Re8 4. Rxa7 Bf7 5. Re7+ Rxe7 6. Nf8# 1-0  

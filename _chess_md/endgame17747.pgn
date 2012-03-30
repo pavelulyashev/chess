@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1pp2p2/3k4/p5P1/4P3/8/7P/4K3 w - - 0 1"]
+
+ 1. h4 $1 Ke7 2. h5 $1 (2. e5 $2 Kf8 3. Kd2 Kg7) (2. Kd2 $2 f6 $1 3. h5 Kf7) 2... Kf8 $1 3. Kd2 $1 c5 4. Kc3 $1 a4 (4... Kg7 5. Kb3 $1 f6 (5... Kh7 6. e5 Kg7 7. Kb2 $1) 6. h6+ $1 Kg6 7. gxf6 Kxh6 (7... b5 8. f7) 8. Kc4 $1) 5. h6 $1 Kg8 6. g6 $1 f6 7. Kc4 a3 8. Kb3 Kf8 9. Kxa3 b5 $1 10. Kb3 Kg8 11. Kc3 Kh8 12. Kd3 Kg8 13. e5 fxe5 14. Ke4 b4 15. Kxe5 b3 16. Kf6 b2 17. h7+ Kh8 18. Kf7 b1=Q 19. g7+ 1/2-1/2  

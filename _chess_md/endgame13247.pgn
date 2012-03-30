@@ -1,0 +1,10 @@
+[Event "td23#0283 @3 {m}"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "?"]
+[White "Karstedt M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/7P/5R1K/6P1/8/8/8/3r4 b - - 0 1"]
+
+ 1... Rd6 (1... Rh1+ {main} 2. Kg6 Rh6+ $1 (2... Rf1 {main} 3. Kf7 Rg1 (3... Ra1 4. g6) 4. g6 Rg2 5. Ke6 Re2+ (5... Kg7 6. Rf8 $1) 6. Kd5 Re8 (6... Rd2+ 7. Ke4 Re2+ 8. Kf3 Re8 9. Kg4 Re4+ (9... Kg7 10. Kg5 Re5+ 11. Rf5 Re7 $1 (11... Re8 12. Rf7+) 12. Rf7+ Rxf7 (12... Kh8 13. Rf8+) 13. gxf7 Kxh7 14. f8=R) 10. Kg5 Re5+ 11. Rf5 Re8 12. Kh6) 7. Re6 Rf8 (7... Rd8+ 8. Ke5 Rf8 9. Kd6 Rd8+ 10. Kc7) 8. Ke5 Kg7 9. Rf6 $1 Rxf6 (9... Ra8 10. Kf5 Ra5+ 11. Kg4) 10. h8=Q+ Kxh8 11. Kxf6) 3. Kf7 Rxh7+ 4. Kf8 Rh5 $1 (4... Ra7 5. Rh6+ Rh7 6. g6 $1) 5. Rf5 $1 (5. g6 Rg5 $1 6. Rf1 (6. Ra6 $2 Rf5+) 6... Rf5+ $1 7. Rxf5) 5... Kh7 (5... Rh4 6. g6) 6. Kf7 Rh4 (6... Kh8 7. Kg6) 7. g6+ Kh6 $1 8. g7 Ra4 9. g8=N+ Kh7 10. Rh5#) 2. Kh5 Rd5 $1 3. Kg6 Rd6 (3... Rd8 $1 {cook SA} 4. Kf7 Ra8 5. g6 Rf8+ 6. Ke7 Rxf6 7. Kxf6) 4. Kf7 Rd8 $1 (4... Rd7+ 5. Ke8 Rxh7 6. Rf8+ Kg7 7. Rf7+ Kg6 8. Rxh7 Kxh7 9. Kf7) 5. Ke7 Ra8 6. g6 Ra7+ 7. Kd8 Ra8+ (7... Kg7 8. Rf7+) 8. Kc7 Re8 (8... Kg7 9. Rb6) 9. Rd6 1-0  

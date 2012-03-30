@@ -1,0 +1,10 @@
+[Event "ts23 {v} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Beljavski A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1Kp2p2/1p5p/3P1Ppk/8/3P2PP/8 w - - 0 1"]
+
+ 1. Ka5 g3 2. h3 b4 3. Ka4 b3 4. Ka3 b2 5. Ka2 f5 (5... c5 6. d5 c4 7. d6 c3 8. d7 cxd2 9. d8=Q) 6. d3 c5 7. d5 c4 8. d6 c3 9. d7 b1=Q+ 10. Kxb1 c2+ 11. Ka2 c1=Q 12. d8=Q# 1-0  

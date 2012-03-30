@@ -1,0 +1,10 @@
+[Event "tg10#31 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Jowes"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/4Q3/6kq/p5N1/4K3/8 w - - 0 1"]
+
+ 1. Ne4 Qd8 (1... Qh6 {main} 2. Nf6+ Kh4 (2... Kh3 3. Qf5+ Kg3 (3... Kg2 4. Qf3+ Kg1 5. Qf1+) 4. Qf3+ Kh2 5. Ng4+) 3. Kf3 Qg6 4. Qh2+ Kg5 5. Qf4#) (1... Kh3 { main} 2. Nf2+ Kg2 3. Qd5+ Kg1 (3... Kh2 4. Qh1+ Kg3 5. Qf3+ Kh2 6. Ng4+ Kg1 7. Qf1#) 4. Qg8+ Kh2 5. Kf1 Qg3 6. Qh7+) 2. Nf6+ Kh3 (2... Kh4 3. Qf4+ Kh3 4. Qf3+ Kh2 5. Ng4+ Kg1 6. Qf1#) 3. Qe3+ Kg2 4. Qf3+ Kg1 5. Qg3+ Kh1 6. Ne4 Qe8 (6... Qe7 7. Kf1) 7. Qh4+ Kg2 8. Qg5+ Kh2 9. Qh6+ Kg2 10. Qg7+ Kh2 11. Kf2 Qxe4 {eg} 12. Qg3+ Kh1 13. Qg1# 1-0  

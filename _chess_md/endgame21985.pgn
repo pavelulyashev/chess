@@ -1,0 +1,10 @@
+[Event "tt22 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/2p4r/6p1/1P1k1NP1/NP3pP1/R2K4 w - - 0 1"]
+
+ 1. Nb4+ cxb4 2. Ne1+ $1 fxe1=Q+ 3. Kxe1 Rh1+ (3... Ke3 {main} 4. Kd1 Rh1+ (4... Kd3 5. Ke1 Ke3 6. Kd1) 5. Kc2 Rxa1) 4. Kf2 Rxa1 1/2-1/2  

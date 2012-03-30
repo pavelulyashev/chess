@@ -1,0 +1,10 @@
+[Event "Problemaz, Abdelwahed El Fassi Fihri MT {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Shukurov F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b3rk1r/1nRp1p1p/1p1p3P/2pP3K/1q2p3/5N2/7b/5QR1 w - - 0 1"]
+
+1. Ng5 {(Threat 2.Qxf7#)} Nd8 2. Rxd7 {(Threat 3.Rxf7+)} Bxd5 3. Qf6 {(Threat 4.Qxh8#)} Qd4 (3... Be5 4. Qxh8+ Bxh8 5. Nxh7#) 4. Nxh7+ $1 Rxh7 5.Qe7+ $3 Rxe7 6. Rg8+ $1 (6. Rxd8+ $2 Re8 7. Rg8+ Ke7 $19) 6... Kxg8 7. Rxd8+Re8 8. Rxe8# {A grotesque study with a nice combination, but too many technical pieces.} 1-0

@@ -1,0 +1,10 @@
+[Event "tc06#319 {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1p5B/p2p4/5RpK/P7/P3p3/7k w - - 0 1"]
+
+ 1. Re4 dxe4 2. Bd2 Kg2 3. Kxg4 e3 (3... Kf2 4. Kf4 e1=Q 5. Bxe1+ Kxe1 6. Kxe4 Kd2 7. Kd5 Kc3 8. Kc6) 4. Bc3 Kf2 5. Kf4 e1=Q 6. Bxe1+ Kxe1 7. Kxe3 Kd1 8. Kd3 Kc1 9. Kc3 (9. Kc4 $2 Kb2 10. Kb5 Kxa2 11. Kxb6 a4 12. Kb5 Kxa3 13. Kc4 Kb2) 9... Kb1 10. Kb3 Ka1 11. a4 Kb1 12. Ka3 Kc2 1/2-1/2  

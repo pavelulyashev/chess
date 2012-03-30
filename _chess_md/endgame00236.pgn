@@ -1,0 +1,10 @@
+[Event "=1st/2nd Comm  Bent MT {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k3K2r/p7/1p5P/2P3p1/4R2P/6p1/1P6/8 w - - 0 1"]
+
+ 1. Kd7 (1. Kf7 $2 g2 2. Rg4 gxh4 3. Rxg2 h3 4. Rh2 Rxh6 5. Kg7 (5. cxb6 a5 {-+} ) 5... Rh4 6. cxb6 a5 7. Kg6 Kb7 {-+}) 1... g2 (1... gxh4 2. Rxh4 g2 3. Rg4 {=} ) 2. Rg4 gxh4 3. Rxg2 (3. h7 $2 Rxh7+ 4. Kc6 Rh8 5. Rxg2 h3 6. Rh2 Rh6+ {-+}) 3... h3 4. Rh2 Rh7+ 5. Kc8 Rxh6 6. cxb6 (6. b4 $2 a6 7. cxb6 (7. Kc7 b5 8. Kc8 Ka7 9. Kc7 Rh4 10. Kc6 Rh5 {-+}) 7... Rc6+ 8. Kd7 Rc3 {-+}) 6... axb6 7. Rh1 ( 7. b3 $2 {(b4?)} Rc6+ 8. Kd7 Rc3 {-+}) 7... Rh5 (7... Rh7 8. Ra1+ Ra7 9. Rh1 {= }) 8. b4 (8. Ra1+ $2 Ra5 9. Rh1 Rc5+ 10. Kd7 Rh5 11. Rh2 Kb7 {-+}) (8. b3 $2 Rc5+ 9. Kd7 Rc3 10. b4 Kb7 {-+}) 8... Rh7 9. Rh2 b5 10. Ra2+ Ra7 11. Rh2 Ra3 12. Kc7 Ka7 13. Kc6 Ka6 14. Rc2 (14. Re2 $2 Rc3+ 15. Kd5 Rc4 16. Re6+ Kb7 17. Re7+ Rc7 {-+}) 14... Ra4 15. Kc5 {=} 1/2-1/2  

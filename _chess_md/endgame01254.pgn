@@ -1,0 +1,10 @@
+[Event "sp Prize ts23 {m} {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3pp1P1/1pp1pk2/1p6/4PK1p/PP5P/4r2N w - - 0 1"]
+
+ 1. g7 Rf1+ 2. Ke2 Rg1 3. Ng3+ Rxg3 4. hxg3 h2 5. g4+ $1 Ke4 6. g8=N $3 (6. g8=Q $143 h1=Q 7. Qg6+ Kd5 8. Qd3+ Kc6 $19) 6... Kd5 7. Ne7+ Kc4 8. Nc8 b3 9. a3 b4 10. a4 Kd5 11. Ne7+ Ke4 12. Ng8 $11 1/2-1/2  

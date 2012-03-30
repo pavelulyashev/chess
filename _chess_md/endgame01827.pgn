@@ -1,0 +1,10 @@
+[Event "Shakhmatny Listok {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Reti R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r7/ppK2P1P/8/2P5/3k4/8/P7/8 w - - 0 1"]
+
+ 1. Kd7 $1 (1. Kd6 $143 Rh8 2. c6 bxc6 3. a4 a5 4. Ke6 Kc5 5. Ke5 Rf8 6. Ke6 Rh8 7. Kf6 Kd6 8. Kg7 Ke7 9. Kxh8 Kxf7 $11) (1. c6 $143 bxc6 2. Kd7 Rh8 3. Kd6 c5 $1 4. Ke6 c4 5. Kf6 c3 6. Kg7 Rxh7+ 7. Kxh7 c2 8. f8=Q c1=Q $11) 1... Rh8 2. Kd6 Kc4 (2... a5 $144 3. a4 $18) (2... a6 $144 3. a3 a5 4. a4 $18) (2... Ke4 $144 3. Ke6 Kd4 4. Kf6 $18) 3. c6 bxc6 4. Ke5 $1 (4. Ke6 $143 Kc5 5. Kf6 Kd6 6. Kg7 Ke7 $11) 4... Kc5 5. Ke6 (5. Kf6 $143 Kd6 6. Kg7 Ke7 $11) 5... a5 6. a4 $18 (6. Kf6 $143 Kd6 7. Kg7 Ke7 8. Kxh8 Kxf7 $11) 1-0  

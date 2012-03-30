@@ -1,0 +1,10 @@
+[Event "1 Prize Szachy {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3r2bk/pp1R4/5P2/p7/8/B7/2K3p1/1B6 w - - 0 1"]
+
+ 1. Bb2 (1. Rg7 $143 Bh7+ 2. Kc1 Bxb1 3. Rxg2 Be4 4. Rg7 (4. Rf2 $144 Bg6 $11) 4... Bd5 5. Bb2 Rf8 6. f7 Rc8+ 7. Kd2 Bxf7 $11) (1. Rxd8 $143 g1=Q 2. f7 Qf2+ $11) (1. f7 $143 Rc8+ 2. Kd2 Bxf7 3. Bb2+ Kg8 4. Bd4 $11) 1... Rc8+ $1 (1... g1=Q $144 2. f7+ Kh7 3. fxg8=Q+ $1 Kxg8 4. Ba2+ Kf8 5. Ba3+ Ke8 6. Re7+ Kf8 7. Re1+ $18) 2. Kd2 $1 (2. Kd3 $143 Bf7 $1 (2... g1=Q $143 3. f7+ Qg7 4. f8=Q $18) 3. Bd4 g1=Q 4. Bxg1 Bg6+ 5. Kd2 Bxb1 6. Bd4 Kg8 $11) 2... g1=Q (2... Bf7 $144 3. Bd4 Kg8 4. Be4 $18) 3. f7+ Qg7 4. fxg8=Q+ Rxg8 5. Ba1 $1 (5. Bf6 $143 b5 6. Bd3 a6 7. Rc7 b4 8. Kc2 b3+ 9. Kb1 a4 10. Be4 (10. Kb2 $143 Qxf6+ $19) 10... a3 11. Kc1 a2 12. Bxg7+ Rxg7 13. Rc8+ Rg8 14. Rxg8+ Kxg8 15. Kb2 $11) 5... b5 6. Be4 $1 (6. Bd3 $143 b4 7. Rxa7 Qc3+ 8. Bxc3+ bxc3+ 9. Kxc3 $11) 6... a4 (6... b4 $144 7. Ke3 a4 8. Rxa7 a3 9. Be5 b3 10. Bf6 b2 11. Re7 $1 $18) 7. Ke3 $1 a5 8. Rf7 $1 (8. Re7 $143 b4 $11 {lost of a fatal tempo}) 8... b4 9. Kf4 a3 10. Bg6 $1 b3 11. Bc3 a4 (11... b2 $144 12. Bf5 a4 13. Be4 Rb8 $1 (13... Rc8 $144 14. Bxg7+ Kg8 15. Rb7 $18) 14. Rxg7 $1 Rb3 15. Bf6 Rb6 16. Kg5 a2 17. Rc7+ Rxf6 18. Kxf6 $18) 12. Kg5 a2 13. Rxg7 Rxg7 14. Kh6 a3 15. Bxg7+ Kg8 16. Bd3 a1=Q 17. Bc4# (17. Bxa1 $143 b2 $11) 1-0  

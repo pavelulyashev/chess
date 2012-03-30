@@ -1,0 +1,10 @@
+[Event "ts70#1514 @2 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/r5pN/4k1K1/3n4/3B4/8/5p2/8 w - - 0 1"]
+
+ 1. Ng5+ (1. Bxf2 $2 Nf4+ 2. Kg5 Nh3+) 1... Kd6 2. Bxf2 (2. Ne4+ $2 Kc6 3. Nxf2 Nf4+ 4. Kf5 Rf7+) 2... Rb7 (2... Re7 3. Nf7+ Ke6 4. Ng5+ Kd7 5. Bd4 Nf4+ 6. Kf5 Ne2 7. Bb2 Kc8 8. Kg6 Nf4+ 9. Kf5 Nd3 10. Bc3 Kd7 11. Kg6 Ne5+ 12. Kf5 g6+ $2 13. Kf6) 3. Bg3+ (3. Nf7+ $2 Ke7 4. Bc5+ Kd7 5. Bd4 Ne7+ 6. Kh7 Nf5 7. Bxg7 Ke8 $1) 3... Kc6 4. Nf7 (4. Ne6 $1 {cook FS} Ne7+ 5. Kxg7 Nf5+ 6. Kf6 Nxg3 7. Nd8+) 4... Ne7+ 5. Kxg7 Nf5+ 6. Kf6 Nxg3 7. Nd8+ Kc7 8. Nxb7 Kxb7 1/2-1/2  

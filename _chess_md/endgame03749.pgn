@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1n6/1N6/P2p4/K7/1P5p/3k4/n7/8 w - - 0 1"]
+
+ 1. b5 (1. a7 $2 1... Nc6+ 2. Kb6 Nxa7) 1... Nxa6 (1... Nb4 2. Kxb4 h3 (2... Nxa6+ 3. bxa6) (2... Nd7 3. Ka5 h3 4. a7 h2 5. a8=Q h1=Q 6. Nc5+) 3. a7 Na6+ ( 3... Nc6+ 4. bxc6 h2 5. a8=Q h1=Q 6. Qa6+) 4. bxa6 h2 5. a8=Q h1=Q 6. Qg8 Qe1+ 7. Kb5 Qb1+ 8. Kc6 Qc1+ 9. Kd7) (1... h3 2. a7 Nc6+ (2... h2 3. Nc5+ dxc5 4. a8=Q) 3. bxc6 h2 4. c7 h1=Q 5. c8=Q Qd5+ (5... Qe1+ 6. Kb6 Qf2+ (6... Qb4+ 7. Kc7 Qc4+ 8. Kb8) 7. Nc5+ dxc5 8. a8=Q c4+ (8... Qb2+ 9. Ka7 Qa3+ 10. Kb8 Qb2+ 11. Qab7 Qe5+ 12. Qcc7 Qe8+ 13. Ka7 Qa4+ 14. Qa6+) 9. Qc5 Qb2+ 10. Ka7 Qg7+ 11. Qb7) 6. Nc5+ $1 6... dxc5 7. a8=Q) 2. bxa6 2... Nb4 $1 (2... h3 3. a7 h2 4. a8=Q h1=Q 5. Nc5+) 3. Kxb4 (3. a7 $2 3... Nc6+) (3. Nc5+ $2 3... dxc5) 3... h3 4. Nxd6 (4. a7 $2 4... h2 5. a8=Q h1=Q 6. Nc5+ $4 6... dxc5+) 4... h2 5. Ne4 $1 5... Kxe4 (5... h1=Q 6. Nf2+) 6. a7 h1=Q 7. a8=Q+ 1-0  

@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2n3kB/6P1/r5pK/8/8/PP6/2B5 w - - 0 1"]
+
+ 1. Bd2 Rc5 2. Bc3+ Rxc3 3. bxc3 3... g4 $1 4. Kh4 $1 (4. Kxg4 $2 4... Nd5 5. c4 Ne3+) 4... g3 $1 5. Kh3 $1 (5. Kxg3 $2 5... Nb5 6. c4 Nd6 7. c5 Ne4+) 5... g2 $1 6. Kh2 $1 (6. Kxg2 $2 6... Nd5 7. c4 Ne3+) 1-0  

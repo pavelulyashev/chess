@@ -1,0 +1,10 @@
+[Event "tb08 @2 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/8/8/K6R/8/5n2/8/3N2b1 w - - 0 1"]
+
+ 1. Rf5 Nh2 (1... Nd4 2. Rg5 Nc6+ 3. Kb5 Na7+ 4. Ka6) 2. Rg5 Ba7 3. Ka6 Bb8 4. Rg8+ Kc7 5. Nc3 (5. Ne3 $1 {cook JU}) (5. Nb2 $1 {cook JU}) 5... Nf3 6. Nb5+ ( 6. Na4 $1 {cook JU} Ne5 7. Nb6) 1-0  

@@ -1,0 +1,10 @@
+[Event "tn06 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6Q1/8/8/1n6/2K4k/1r5q/4p3/4N3 w - - 0 1"]
+
+ 1. Ng2+ Qxg2 2. Qxg2 Rc3+ 3. Kd5 e1=Q (3... Nc7+ 4. Kd4 e1=Q 5. Qg4+) (3... Rd3+ 4. Kc4 (4. Ke4 $2 Rd4+ 5. Kf5 Nd6+) 4... Rd4+ 5. Kb3 e1=Q 6. Qf2+ Qxf2) 4. Qg4+ (4. Qg5+ {or} Kh3 5. Qg4+ Kh2 6. Qg2+ Kxg2) 4... Kxg4 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "ts25 {te} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Henkin W"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3Q4/3p4/3kr3/5K2/8/8/8/8 w - - 0 1"]
+
+ 1. Kg5 Re2 (1... Kc6 2. Qb8) 2. Kf4 Rf2+ (2... Re1 3. Qb6+ Ke7 4. Qb4+) (2... Re6 3. Kf5 $1) 3. Ke3 Rc2 4. Kd3 Rc5 $1 (4... Ra2 5. Qb6+ Ke7 6. Qb4+ Kd8 7. Qh4+ Ke8 8. Qf6 $1 Ra5 (8... Rg2 9. Qh8+ Ke7 10. Qh4+ Kd6 11. Qf4+ Kc5 12. Qd4+ ) 9. Kc4 Ra2 (9... Ra7 10. Qe5+ Kf7 11. Qd6) 10. Kb5 Re2 11. Qh8+ Ke7 12. Qh4+ Kd6 13. Qb4+ Kc7 (13... Ke5 14. Qe7+) 14. Qc4+) (4... Rc6 5. Kd4 $1 Rc2 (5... Ke6 6. Qf8 Rc7 7. Qe8+ Kd6 8. Qb8 Kc6 9. Ke5) 6. Qa5 $1 Rc8 (6... Rf2 7. Qc5+ Ke6 8. Qe5+ Kf7 9. Qh5+ Ke7 10. Ke5) 7. Qe5+ Kc6 8. Qc5+ Kb7 9. Qd6 Rc7 10. Kd5 Kb8 11. Qe5 Kc8 12. Qe8+ Kb7 13. Kd6) 5. Qf8+ Kc6 6. Kd4 Rd5+ (6... Rb5 7. Qc8+ Kd6 8. Qa6+) (6... Ra5 7. Qf3+ Kd6 (7... Kb6 8. Qb3+ Rb5 9. Qf7 Kc6 10. Qc4+ Kb6 11. Qc8) 8. Qg3+ Kc6 (8... Ke6 9. Qe1+) 9. Qc3+ Kb6 10. Qb4+ Rb5 11. Qd6+) 7. Kc4 Ra5 (7... Re5 8. Qf3+ Kd6 (8... Kb6 9. Qf6+ Re6 10. Qd8+ Kc6 11. Qc8+ Kd6 12. Qc5#) 9. Qf4 Ke6 10. Qd4 $1 Rg5 11. Qb6+ $1 Ke7 12. Qe3+ Kf6 13. Qf4+ Rf5 14. Qd6+) 8. Qc8+ Kd6 9. Kb4 Rd5 (9... Rf5 10. Qc2 $1 Rf6 (10... Re5 11. Qh2 Ke6 12. Kc4 Kf6 13. Qf4+ Ke6 14. Qd4) 11. Qc5+ Ke6 12. Qc4+ Kd6 13. Qd4+ Ke6 14. Qh4 $1 Kf7 15. Kb5 Rc6 (15... Ke7 16. Kc5 Kf7 17. Kd5 Ra6 18. Qd8) 16. Qd8 Ke6 17. Qf8) (9... Rh5 10. Qc2 $1 Rh8 (10... Ke7 11. Qe2+) (10... Rh3 11. Qc5+ Ke6 12. Kb5 Rb3+ 13. Ka6 Rb8 14. Ka7) 11. Qc5+ Ke6 12. Qc4+ Ke7 13. Qe4+ Kf7 14. Qf5+) 10. Qg8 $1 Rd4+ (10... Re5 11. Qg3 Ke6 12. Kc4 Ra5 13. Qe1+ Re5 14. Qh4 $1 Kd6 15. Qg3 Ke6 16. Qf4 Ra5 17. Qh6+ $1 Ke7 18. Qe3+ Kf7 19. Qf2+ Ke8 20. Qe1+) 11. Kb5 Re4 (11... Kc7 12. Qg3+ Kb7 13. Qf3+ Kb8 14. Kc5) 12. Qg3+ Ke7 13. Qg5+ Kd6 14. Qc5+ Ke6 15. Kb6 1-0  

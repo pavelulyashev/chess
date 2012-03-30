@@ -1,0 +1,10 @@
+[Event "1 Prize, we07 us37 {tt} {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Ryabinin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B4n1k/8/2P1P1n1/6B1/8/1r6/8/7K w - - 0 1"]
+
+ 1. c7 Rb1+ (1... Rc3 2. Bf6+) 2. Kg2 Rb2+ 3. Kf3 $1 Rc2 4. Bf6+ Kg8 (4... Kh7 5. e7 Nxe7 6. Be4+) 5. Bd5 $1 Ne7 $1 6. Bxe7 Rxc7 7. Bd6 Rc3+ (7... Nxe6 8. Bxc7) (7... Rc8 8. e7+ Kg7 9. Bb7 Re8 10. Bc6) 8. Ke2 $1 Nxe6 (8... Rc8 9. e7+ Kg7 10. Bb7 Re8 11. Bc6) 9. Kd2 $1 1-0  

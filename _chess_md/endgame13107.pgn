@@ -1,0 +1,10 @@
+[Event "ts17#024 @2 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Kosek V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/p1K5/NPB5/pr6/k7 w - - 0 1"]
+
+ 1. Bd4 axb3 2. Kc3 Rd2 (2... Rb1 3. Nc2+ bxc2 4. Kxc2+ Rb2+ 5. Bxb2#) 3. Kxd2+ b2 4. Kc3 (4. Nb5 $1 {cook} Kb1 5. Nc3+ Ka1 6. Kc2 b1=Q+ 7. Nxb1#) 4... b1=Q ( 4... b1=N+ 5. Kb3+) 5. Nc2+ Qxc2+ 6. Kxc2# 1-0  

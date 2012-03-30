@@ -1,0 +1,10 @@
+[Event "Kivi JT {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Perkonoja P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4b3/3p4/3nP1kP/7N/8/K7/8/2B5 w - - 0 1"]
+
+ 1. h7 Nc4+ (1... Kxh7 $144 2. Nf6+ Kg6 3. Nxe8 Nc4+ 4. Kb4 $1 Ne5 5. Bf4 $1 Nd3+ 6. Kc4 Nxf4 7. exd7 Ne6 8. Kd5 Nd8 9. Kd6 Kf7 10. Kc7 Ke7 11. Ng7 Nf7 12. Nf5+ $18) 2. Kb4 $1 (2. Kb3 $143 Kxh7 3. Nf6+ Kg6 4. Nxe8 Ne5 5. Bf4 Nc6 $1 6. exd7 Kf5 7. Bc7 Ke6 8. d8=Q Nxd8 9. Bxd8 Kd7 $11) 2... Kxh7 3. Nf6+ Kg7 4. Nxe8+ Kf8 5. Nc7 (5. exd7 $143 Ne5 $1 6. Nf6 Ke7 $11) 5... Ne5 (5... Nb6 $144 6. Kb5 $18) (5... Nd6 $144 6. Bh6+ $18) 6. Bh6+ (6. Bf4 $143 Nd3+ $11) 6... Ke7 (6... Kg8 $144 7. Bf4 $1 $18) 7. Bg5+ Kd6 8. e7 Nc6+ 9. Kb5 Nxe7 10. Bf4# 1-0  

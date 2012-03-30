@@ -1,0 +1,10 @@
+[Event "1 HM (miniature) Olimpiya dunyasi {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Loustau J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3b4/8/2b4k/p7/R7/8/K7 w - - 0 1"]
+
+ 1. Rd3 $1 (1. Ra2 $2 Bd4+ 2. Kb1 Kg6 $3 3. Rd2 Bf5+ 4. Ka2 Bc5 $1 5. Rd5 (5. Ka1 Be6) 5... Be6) 1... Be6 2. Rd8 $3 Ba3 (2... a3 3. Ra8 $1 Bb4 (3... Bb3 $2 4. Ra5) 4. Ra4 (4. Ra6 $2 Bb3) 4... Bc3+ 5. Kb1 Bf5+ 6. Ka2 $11) (2... Kg4 3. Ra8 Bb3 4. Kb2) 3. Rd3 Bc5 4. Rd8 Ba3 5. Rd3 {positional draw,} 5... Be7 6. Kb2 $1 {Mainline A} (6. Re3 $2 Bf6+ 7. Kb1 Bd5 $1 8. Ra3 Bb3 $19 { A white mousetrap!}) 6... Bc5 ({Mainline B} 6... Kg5 7. Re3 Kf5 8. Ra3 ({ A kind of thematic try} 8. Rf3+ $2 Ke4 $1) 8... Bd7 (8... Bf6+ 9. Kc2 $1 Bd7 10. Rf3+ Ke6 11. Rxf6+) 9. Rf3+ (9. Rd3 $2 Bc6 $1) 9... Ke4 10. Rf7 {echo}) ( 6... Bf6+ $2 7. Ka3 $11) 7. Ra3 $1 Bd7 8. Rd3 ({An interesting try here :} 8. Rc3 $2 Bd4 9. Kc2 Kg6 $1 10. Kd3 Bg7 $3 (10... Bf6 $2 11. Rc7 Bf5+ 12. Kc4 $1) (10... Be5 $2 11. Kc4) 11. Kc4 (11. Rc7 Bf5+ 12. Kc4 Bf8 $1 13. Rc6+ Kf7 14. Rc7+ Kf6 $1 $19) 11... Bf8 $1 12. Rg3+ Kf6 $1 13. Rf3+ Bf5 14. Kb5 a3 $19) 8... Be6 9. Ra3 {positional draw} (9. Rd8 $2 a3+) (9. Rc3 $2 Bd4) (9. Rg3 $2 Kh6 $1) 9... Bd4+ 10. Kc2 $1 (10. Kc1 $2 Bb3 {with again the white mousetrap!}) 10... Bd7 11. Kc1 $3 Kg4 (11... Be5 12. Rf3 $3 (12. Kb1 $2 Kg6 $3 (12... Kg5 $2 13. Re3 $1 Bd4 14. Re7 $1 Bf5+ 15. Ka2 $11) 13. Re3 Bd6 $1 14. Kb2 Bc5 $1 (14... Bb4 $2 15. Rd3 Be6 16. Ra3 Bd7 17. Rd3 {postional draw}) 15. Rc3 Bd4 16. Kc2 Bf5+ 17. Kd2 Be6 18. Kd3 Be5 $1 (18... Bh8 $2 19. Rc6 Kf7 $1 20. Rc7+ Kg6 21. Rc6 Kf5 22. Rc5+ {postional draw} 22... Kf4 23. Ra5 $11) 19. Rc5 Ba1 $3 20. Rc6 Kf7 $1 21. Ra6 Bb3 $19) (12. Ra2 $2 Kg6 $3 13. Rb2 Kf6 $3 14. Kb1 Bd4 $19) 12... Kg6 13. Rf8 $1 Bc6 14. Rc8 $11) 12. Rd3 $11 1/2-1/2  

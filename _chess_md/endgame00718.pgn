@@ -1,0 +1,10 @@
+[Event "4 Prize Gusev JT {m}"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Bazlov Y, Skripnik A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "Kn6/3nP3/2k5/2P2N2/4q3/8/8/2Q5 w - - 0 1"]
+
+ 1. Nd4+ $1 Kc7+ $1 (1... Qxd4 2. Qh6+ Kxc5 3. e8=Q) 2. c6 Nb6+ 3. Ka7 Qxd4 4. e8=N+ $1 Kc8 5. Qc3 $3 (5. Nd6+ $2 Qxd6 6. Kxb6 Qb4+ 7. Ka7 Qa5#) 5... Qxc3 6. Nd6+ Kd8 7. c7+ $3 Qxc7+ 8. Nb7+ Kd7 1/2-1/2  

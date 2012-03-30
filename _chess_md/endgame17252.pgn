@@ -1,0 +1,10 @@
+[Event "1/2 Prize, tn20 @2 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5K1n/8/3k4/8/1p6/2R1N3 w - - 0 1"]
+
+ 1. Nf3+ Ke4 (1... Kd3 2. Ne5+ Kd2 3. Rg1 Kc2 4. Nc4) 2. Rc3 Ng4+ 3. Ke6 (3. Kg5 $2 b1=N 4. Rb3 Ne3) 3... b1=N 4. Rb3 (4. Ng5+ $1 {cook VV} Kf4 5. Nh3+ Ke4 6. Rc4+ $1 Kf3 7. Ng5+ Kg3 8. Ne4+ $1 Kf3 (8... Kg2 9. Rb4 Na3 10. Rb3) (8... Kh3 9. Rb4 Na3 10. Rb3+) 9. Rb4 Na3 10. Ng5+ Kg3 11. Rb3+) 4... Kf4 5. Ng1 (5. Ne1 $1 {cook unknown}) (5. Nh4 $1 {cook unknown}) 5... Nd2 6. Rd3 Ne4 (6... Nb1 7. Rd4+ Kg3 8. Rd1 Nc3 9. Rd3+ Kg2 10. Rxc3 Kxg1 11. Rg3+) 7. Nh3# 1-0  

@@ -1,0 +1,10 @@
+[Event "vs11 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/p4P2/5p2/8/3PN3/1k1P4/p7/8 w - - 0 1"]
+
+ 1. Ke7 (1. Kg7 $2 a1=Q 2. f8=Q Qg1+ 3. Kxf6 Qxd4+ 4. Ke6 Kc2 5. Nc5 a5) 1... a1=Q 2. f8=Q (2. Nc5+ $2 Kc2 3. Ne6 Qa3+ 4. Kxf6 Kxd3 5. Ke5 Qa5+ 6. Nc5+ Kc4) 2... Qxd4 (2... f5 3. Qf7+ Kc2 4. Qc4+ Kd1 5. Qb3+ Ke2 6. Ng3+) 3. Qxf6 (3. Qg8+ $2 Ka3 4. Qb8 f5 5. Qd6+ Qxd6+ 6. Nxd6 f4) 3... Qxf6+ (3... Qb4+ 4. Ke6 Qb6+ 5. Kd5 Qxf6 6. Nxf6 a5 7. Ne4 a4 8. Nd2+) 4. Kxf6 a5 (4... Kb4 5. d4 a5 6. Nc5 Kc4 7. Ke5) 5. Ke5 (5. d4 $2 a4) 5... a4 (5... Kb4 6. Nd2 a4 7. Nb1 Kb3 8. Kd4 Kb2 (8... Kb4 9. Kd5) 9. Nc3 a3 10. Kc4) 6. Kd4 (6. d4 $2 a3 7. Nd2+ Kc2) 6... Kb4 (6... a3 7. Nc3 Kb2 8. Kc4) 7. Nc3 (7. Nc5 $2 a3) 7... a3 (7... Kb3 8. Nxa4 Kxa4 9. Kc5) 8. Na2+ (8. Nd5+ $2 Kb3 9. Nc3 Kb4) 8... Kb3 (8... Ka4 9. Kc5 Kb3 10. Nb4) 9. Nc1+ (9. Nc3 $2 Kb4 10. Na2+ Kb3) 9... Kb4 (9... Kb2 10. Kc4 Kxc1 11. Kb3) 10. Kd5 (10. Ke3 $2 Kc3 11. d4 Kc2 12. Na2 Kb3 13. Nc1+ Kc2) (10. Ke4 $2 Kc3) 10... Kc3 (10... Kb5 11. Na2) (10... Ka4 11. Kc4) 11. d4 (11. Kc5 $2 a2) 11... Kb2 (11... Kc2 12. Kc4 Kxc1 13. Kb3) 12. Kc4 (12. Nd3+ $2 Kc3) 12... Kxc1 (12... Kb1 13. Nb3) 13. Kb3 1-0  

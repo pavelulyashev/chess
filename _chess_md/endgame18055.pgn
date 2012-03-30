@@ -1,0 +1,10 @@
+[Event "t001#593 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/p3p2N/4P3/7R/pPPpkPK1/8 w - - 0 1"]
+
+ 1. Ng3+ Kd1 2. Nf1 $1 (2. Nf5 $2 Kc1 $1) (2. Rh1+ $2 Kxc2 3. Nf5 d1=N $1) 2... a1=Q (2... Kc1 3. Nxd2 Kxd2 4. Rh1) 3. Ne3+ Ke2 4. Nd1 $1 Qxd1 (4... Kxd1 5. Rh1+) 5. Re3# 1-0  

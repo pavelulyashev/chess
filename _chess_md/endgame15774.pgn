@@ -1,0 +1,10 @@
+[Event "wi04 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Garcia M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p1P5/2r3p1/B4PP1/1K3kPp/R7/8/5r2 w - - 0 1"]
+
+ 1. fxg6 Rb1+ (1... Re1 2. g7 Re8 3. Rd3 Rg8 4. Kb5 Rc2 5. Bc3 Kxg4 6. Kb4 Rc8 7. Rd8) 2. Rb3 Rxb3+ 3. Kxb3 h3 4. g7 h2 5. Bd2+ Kg3 (5... Kxg4 6. g8=Q h1=Q 7. c8=Q+ Rxc8 8. Qxc8+) 6. Be1+ Kf4 (6... Kxg4 7. g8=Q h1=Q 8. c8=Q+ Rxc8 9. Qe6+ Kf4 10. Bd2+ Kg3 11. Qxc8) 7. g8=Q h1=Q 8. Qf7+ Kxg5 (8... Kxg4 9. c8=Q+ Rxc8 10. Qe6+ Kf4 11. Bd2+ Kg3 12. Qxc8) (8... Ke3 9. c8=Q Rxc8 10. Qxa7+ Kf4 11. Qf7+ Kxg5 12. Qf5+) 9. Qf5+ Kh6 10. c8=Q Rxc8 11. Bd2+ Kg7 12. Qxc8 1-0  

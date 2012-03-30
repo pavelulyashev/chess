@@ -1,0 +1,10 @@
+[Event "ts30 @3 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Galitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/bq6/1k6/p7/B1Q5/4K3/8 w - - 0 1"]
+
+ 1. Kf1 Qa7 2. Kg2 b6 3. Qb4+ Kc6 4. Qe4+ Kc7 5. Qe7+ Kb8 6. Bd6+ Ka8 7. Qe8+ Kb7 8. Qe4+ Kc8 9. Qc6+ Kd8 10. Be5 (10. Bf4 $2 Ke7) 10... Bb7 (10... Qd7 $1 { cook GU} 11. Qxb6+ Ke7 12. Qf6+ Ke8 13. Qg6+ Kd8 14. Qxa6 Qd2+) 11. Bf6# 1-0  

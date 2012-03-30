@@ -1,0 +1,10 @@
+[Event "us46#2731 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Aliev I, Velikhanov K"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/2PkN1P1/r1p5/8/4p3/6K1/8 w - - 0 1"]
+
+ 1.g7 Ra8 2.Nf8 Ra2+ (2...e2 3.Kf2) 3.Kf3 (3.Kf1 $2 Ra1+ 4.Kg2 (4.Ke2 Rg1) 4...e2 5.g8=Q e1=Q 6.Qg6+ Ke7 7.Qg7+ Ke8) (3.Kh3 $2 e2 4.g8=Q Ra3+) 3...Rf2+ (3...e2 4.g8=Q e1=Q 5.Qxa2) 4.Kxe3 (4.Kg3 $2 Rf1 5.Kg2 e2 6.g8=Q e1=Q 7.Qg6+ Ke7 8.Qg7+ Ke8) 4...Rg2 5.c7 Kxc7 6.Kf3 Rg1 7.Kf2 Rg4 8.Kf3   1/2-1/2  

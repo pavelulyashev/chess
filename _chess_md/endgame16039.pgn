@@ -1,0 +1,10 @@
+[Event "Shakhmatnaya poezia, 1 prize {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K6k/7p/3P3P/3Pp1P1/2p5/p4P2/P4Pr1/8 w - - 0 1"]
+
+ 1. f4 $1 ({Thematic try} 1. d7 $2 Rxg5 2. d8=Q+ Rg8 3. Qb8 $1 c3 4. d6 c2 5. d7 c1=Q 6. d8=Q (6. d8=N $2 Qf4 $1) 6... Qc6+ 7. Ka7 Qa4+ 8. Kb6 Qb4+ 9. Kc6 Qc4+ 10. Kd7 Qd4+ $1 11. Ke7 Qh4+ $1 12. Ke6 Qxh6+ 13. Kxe5 Qg7+ 14. Ke4 Qg6+ 15. Kd4 Rxd8+ {draw}) 1... exf4 2. d7 Rxg5 3. d8=Q+ Rg8 4. Qb8 $1 (4. Qxg8+ $2 Kxg8 5. d6 Kf7 $11) 4... c3 (4... Rxb8+ $2 5. Kxb8 c3 6. d6 {win.}) 5. d6 c2 6. d7 c1=Q 7. d8=N $1 (7. d8=Q $2 Qc6+ 8. Ka7 Qa4+ $1 9. Kb6 Qb4+ {draw.}) 7... Qh1+ 8. Ka7 Qxh6 (8... Qd5 9. Qe5+ $1 Qxe5 10. Nf7#) 9. Qe5+ $1 (9. Nf7+ $2 Kg7 10. Qxg8+ Kxg8 11. Nxh6+ Kg7 12. Ng4 h5 13. Nh2 Kf6 14. Kb6 Kg5 15. Kc5 Kh4 16. Nf3+ Kh3 $11) 9... Qg7+ (9... Rg7+ 10. Nf7+ Kg8 11. Qe8#) 10. Nf7# { Mate with three promoted pieces.} 1-0  

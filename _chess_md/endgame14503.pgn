@@ -1,0 +1,10 @@
+[Event "bd06 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Fahrni H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1N5/2p5/8/1P6/8/8/6K1/8 w - - 0 1"]
+
+ 1. Nb6+ $1 cxb6 (1... Kb7 2. Nc4 c6 3. b6) 2. Kf3 Kb7 3. Ke4 Kc7 4. Ke5 $1 Kd7 5. Kd5 Kc7 6. Ke6 Kc8 7. Kd6 1-0  

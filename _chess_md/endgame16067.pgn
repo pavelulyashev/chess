@@ -1,0 +1,10 @@
+[Event "Mat Plus Review {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Didukh S (after Vostroknutov)"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/b3p3/P7/6k1/6P1/5KPB/6P1/3n4 w - - 0 1"]
+
+ 1. Ke4 Nc3+ 2. Ke5 Bc5 (2... Bb6 $5 3. Ke6 Bc5 4. a7 Nb5 5. a8=N $1 {draw.}) 3. Ke6 Na4 (3... Nb5 4. Kd5 Bd6 5. Kc6 Na7+ 6. Kb6 (6. Kb7 $2 Bc5) 6... e5 (6... Nc8+ 7. Kb7 e5 8. Kxc8 $11) 7. Kxa7 Bc5+ 8. Kb7 e4 9. Kc6 Ba7 10. Kd5 e3 11. Ke4 e2 12. Kf3 e1=Q {stalemate.}) 4. Kd5 $1 (4. a7 $2 Nb6 {win.}) 4... Bd6 5. a7 $1 (5. Kc6 $2 Bb8 6. Kb7 Nc5+ 7. Kxb8 Nxa6+ 8. Kb7 e5 9. Kc6 e4 10. Kd5 e3 11. Ke4 e2 12. Kf3 e1=R $1 {win.}) 5... Nb6+ 6. Kc6 Na8 7. Kb7 Bc5 8. Kxa8 Bxa7 9. Kb7 e5 10. Kc6 e4 11. Kd5 e3 12. Ke4 e2 13. Kf3 e1=Q {(R) stalemate.} 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "Mat Plus Review {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5R2/1n6/1rp2PPk/8/1nK5/3NP1p1/8/8 b - - 0 1"]
+
+ 1... Na5+ (1... g2 2. g7 g1=Q $2 3. Rh8+) 2. Kd4 $1 (2. Kc5 $2 Rb5+ 3. Kd6 Nc4+ 4. Ke6 (4. Kc7 Kxg6) 4... Nxd3 5. g7 Nc5+ 6. Kf5 Nxe3+) (2. Kc3 $2 Nd5+ 3. Kd2 Nxf6 {win.}) 2... c5+ (2... Kxg6 3. Ne5+ Kf5 4. e4+ Kf4 5. f7 $11) 3. Nxc5 (3. Kxc5 $2 Rxf6 4. Rxf6 Nxd3+ {win.}) 3... Rxf6 4. Rxf6 (4. Rh8+ $2 Kg7 $1 5. Rh7+ Kg8 6. Rh3 Rxg6 {wins.}) 4... Nac6+ ({main} 4... Nbc6+ 5. Kc3 $1 (5. Kd5 $2 g2 6. Ne6 g1=Q 7. g7+ Kh7 8. g8=Q+ Qxg8 {and the knight is pinned.}) (5. Ke4 $2 g2 6. g7+ Kxg7 7. Rf5 g1=Q 8. Ne6+ Kg6 9. Rg5+ Qxg5 10. Nxg5 Kxg5 {win.}) 5... g2 6. g7+ $1 Kxg7 7. Rf2 g1=Q 8. Ne6+ Kg6 9. Rg2+ $1 Qxg2 10. Nf4+ {draw.}) (4... g2 5. Ne6 $1 g1=Q (5... Nac6+ 6. Kc5) 6. g7+ Kh7 7. g8=Q+ Qxg8 (7... Kxg8 8. Rf8+ Kh7 9. Rf7+ Kh6 10. Rf6+ Kh5 11. Nf4+ {draw.}) 8. Nf8+ $1 Kg7 9. Rg6+ Kxf8 10. Rxg8+ Kxg8 11. e4 $11) 5. Ke4 $1 (5. Kc4 $2 g2 6. g7+ Kxg7 7. Rf2 Ne5+ { win.}) 5... g2 6. g7+ $1 Kxg7 7. Rf4 $3 (7. Rf2 $2 g1=Q 8. Ne6+ Kg6 9. Rg2+ Qxg2+ {check!}) 7... g1=Q 8. Ne6+ Kg6 9. Rg4+ $1 Qxg4+ 10. Nf4+ Kf7 {stalemate. } (10... Qxf4+ 11. exf4 $11) 1/2-1/2  

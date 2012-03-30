@@ -1,0 +1,10 @@
+[Event "tp31#057 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Rossi P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5n2/7P/8/8/k2pN3/pp1B4/6p1/K7 w - - 0 1"]
+
+ 1. h8=Q g1=Q+ 2. Bb1 a2 $1 3. Nc3+ $1 dxc3 (3... Kb4 4. Qxf8+) (3... Ka5 4. Qe5+) 4. Qh4+ Qg4 $1 (4... Kb5 5. Qc4+ Kb6 6. Qc6+ Ka5 (6... Ka7 7. Qb7+ Kxb7) 7. Qb5+ Kxb5) 5. Qxg4+ Ka3 6. Bxa2 c2 7. Qa4+ $1 (7. Qg1 $2 b2#) (7. Qd4 $2 c1=Q+ 8. Bb1 b2+ 9. Qxb2+ Qxb2#) (7. Qb4+ $2 Kxb4 8. Kb2 bxa2) 7... Kxa4 8. Bxb3+ (8. Kb2 $2 bxa2) 8... Kxb3 1/2-1/2  

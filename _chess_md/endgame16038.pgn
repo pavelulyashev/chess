@@ -1,0 +1,10 @@
+[Event "Uralsky problemist {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/1N6/3pn3/2Nb4/K1k5 w - - 0 1"]
+
+ 1. Ne1 $1 (1. Nxe3 $2 Bxb4 2. Nc4 Bc5 3. Ka2 Kc2) (1. Nxd3+ $2 Kxc2 2. Nf4 $1 Kb3 3. Kb1 Nc2 4. Ne2 Na3+ 5. Ka1 Be3 6. Nc1+ Kc2 7. Nb3 Nc4 8. Ka2 Kc3 9. Na1 Nd2 {win.}) 1... Nc2+ $1 (1... Bc3+ 2. Ka2 d2 3. Nbd3+ Kd1 4. Nf3 Kc2 5. Nxd2 $11) 2. Nexc2 (2. Nbxc2 $2 Bc3+ 3. Ka2 d2 {win.}) 2... Bc3+ 3. Ka2 d2 4. Na1 $1 Bxa1 (4... d1=Q 5. Nb3+) 5. Nd3+ Kc2 6. Nb2 $1 Bxb2 {stalemate.} 1/2-1/2  

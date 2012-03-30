@@ -1,0 +1,10 @@
+[Event "tt06#0153 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Bolus A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/b1p2p1p/p1P3p1/P2P2r1/4R2n/7r/2PN1P1P/5R1K w - - 0 1"]
+
+ 1. Rfe1 $1 Be3 2. fxe3 Rxd5 $1 3. Kg1 Kc8 4. Nc4 $1 Nf5 (4... Rd8 5. Re7 Nf5 6. Rd7 Nd6 7. Nxd6+ cxd6 8. Ra7) (4... Nf3+ 5. Kg2 Rxh2+ 6. Kxf3 Rxc2 7. Re8+) 5. Re8+ Rd8 6. Nb6+ cxb6 7. Rxd8+ Kxd8 8. axb6 1-0  

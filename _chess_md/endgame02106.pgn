@@ -1,0 +1,10 @@
+[Event "Neue Leipziger Zeitung {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Herland S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/KpPN2P1/1P4p1/p2b2p1/6r1/8/2Bb4 w - - 0 1"]
+
+ 1. Bb2 $1 Bxb2 2. c7 Rc3 3. g7 Bb3 4. Nc4 $1 {Nowotny} Rxc4 (4... Bxc4 5. c8=Q# ) 5. g8=Q# 1-0  

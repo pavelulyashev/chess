@@ -1,0 +1,10 @@
+[Event "3 Prize Selivanov-30 JT {c} {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Kaljagin V, Olimpiev B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3R2p1/6k1/7N/3B4/8/2r1p1K1/8 w - - 0 1"]
+
+ 1. Nf4+ Kf5 2. Kf3 e1=N+ $1 (2... e1=Q 3. Rd5+ $1) 3. Kg3 Rc4 $1 4. Bb2 $1 (4. Ba1 $2 Nf3 $1 5. Rf7+ Ke4 6. Re7+ Kf5 7. Nd5 $1 Ra4 8. Ne3+ Kg6 9. Rxg7+ Kh5 10. Bf6 Ra6 11. Ng4 Ra4 12. Kxf3 Rf4+ $1 13. Kg3 Rf3+ 14. Kh2 Rh3+ $1 15. Kg2 Rg3+ $1 16. Kxg3) 4... Nf3 $1 5. Rf7+ (5. Rd8 $2 Ra4 $1 6. Rf8+ Ke4 7. Re8+ Kf5 8. Rd8 Ra2 $1) 5... Ke4 6. Re7+ Kf5 7. Nd5 $1 Nd4 $1 (7... Rb4 8. Nxb4) (7... Ra4 8. Kxf3) (7... Rc2 8. Ne3+) 8. Ne3+ Kg6 $1 9. Rxg7+ $1 Kxg7 (9... Kh6 10. Bxd4 Rxd4 11. Nf5+ Kh5 12. Nxd4) 10. Nxc4 1-0  

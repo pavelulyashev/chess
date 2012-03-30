@@ -1,0 +1,10 @@
+[Event "ts23#38 {v} {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5b2/4k1N1/4P3/3P2r1/1K4b1/P7/6R1 w - - 0 1"]
+
+ 1. Nh4 $1 (1. d5+ $2 Kxd5 2. Nf8 (2. Nh4 Kxe5+ 3. Kc3 Kf4 4. Ng2+ Kf3 5. Ne1+ Ke2) 2... Kxe5+ 3. Kc3 Kd6 4. Rd1+ Ke7 5. Nd7 Rc4+ 6. Kb2 Bd6 7. Rf1 Rc7) (1. Nh8 $2 Be8 2. Kc4 Rxd4+ 3. Kxd4 Bf2+) 1... Bxh4 2. Rxg4 Kf5+ 3. e6 $1 Bxe6+ 4. d5 Bxd5+ 5. Rc4 Be1 6. a3 Ke5 7. Ka4 Bxc4 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "1/2 Prize Nadareishvili MT EG (@2) {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Van der Heijden H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/5p2/k2p1P2/r7/1KPP4/3N4 w - - 0 1"]
+
+ 1. Nc3+ dxc3+ (1... Rxc3 2. dxc3 dxc3+ 3. Kxc3) (1... Kb4 2. Nd5+ Ka4 3. d3) 2. dxc3 Ra1 (2... Kb5 3. Kxa3) 3. Kxa1 Kb5 4. Ka2 (4. Kb2 $2 Kc4) (4. Kb1 $1 { minor dual} Kc5 5. Ka2) 4... Kc4 5. Kb2 Kd5 6. Kb3 Ke4 7. Kc4 $1 (7. Kb4 $2 Kxf4 8. c4 Ke5 $1) 7... Kxf4 8. Kd4 $1 (8. Kd5 $2 Ke3) 8... Kg3 9. c4 f4 10. c5 f3 11. c6 f2 12. c7 f1=Q 13. c8=Q Qd1+ 14. Kc3 $1 (14. Ke3 $2 Qe1+ 15. Kd3 Qd1+ 16. Kc3) (14. Ke4 $2 Qe2+ $1 15. Kd4 Qd2+ $1) 14... Qe1+ 15. Kc4 $1 (15. Kd3 $2 Qd1+ 16. Kc3) (15. Kb3 $2 Qb1+ 16. Kc3) 15... Qf1+ 16. Kc5 $1 (16. Kb4 $2 Qb1+ 17. Kc3) (16. Kd4 $2 Qd1+ 17. Kc3) (16. Kd5 $2 Qd1+) 16... Qg1+ 17. Kc6 $1 (17. Kb4 $2 Qb1+ 18. Kc3) (17. Kd5 $2 Qd1+) (17. Kd6 $2 Qd1+) 17... Qh1+ 18. Kc7 $1 (18. Kd7 $2 Qd1+) (18. Kb6 $2 Qb1+) 18... Qd5 {eg} (18... Qe4 19. Qg8+ $1 Kf3 20. c4 $1) 19. Kb6 $1 1-0  

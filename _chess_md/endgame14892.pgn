@@ -1,0 +1,10 @@
+[Event "tl20#405 @1 @3 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Moller J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/8/Pp1p2b1/2b2p2/7B/p2K4/4P3/7R w - - 0 1"]
+
+ 1. Rg1 (1. a7 $1 {cook} f4+ 2. Kc3 Be4 3. Rf1 $1 Bd5 (3... b5 4. Bf2 b4+ 5. Kc4 a2 6. Bxc5 dxc5 7. Ra1) (3... a2 4. Kb2 Bd4+ (4... Bd5 5. Bf2) 5. Kxa2 Bd5+ 6. Ka3 Bc5+ 7. Kb2 Bd4+ 8. Kc2 Be4+ 9. Kd2 Be3+ 10. Kc3 b5 11. Bf2) (3... f3 4. exf3 Bd5 5. Bf2 b5 6. Bxc5 dxc5 7. Rd1 b4+ 8. Kc2 b3+ 9. Kb1 Bxf3 10. Rd8+ Kf7 11. a8=Q Bxa8 12. Rxa8 a2+ 13. Kb2 c4 14. Rc8) 4. Bf2 b5 5. Bxc5 dxc5 6. Rxf4 b4+ 7. Kc2 b3+ 8. Kb1 Ba8 9. Ra4 Kf7 10. Rxa3 c4 11. Ra4 c3 12. Rb4 b2 13. Kc2) 1... Bxg1 (1... Kf7 2. a7 f4+ 3. Rxg6) 2. a7 f4+ 3. e4 fxe3+ 4. Kd4 e2+ 5. Kd5 a2 6. a8=Q+ Kg7 7. Kxd6 Bb1 8. Ke7 Bd4 $1 {cook JU} 9. Qf8+ Kh7 1-0  

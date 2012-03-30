@@ -1,0 +1,10 @@
+[Event "c Mat Plus 2007 {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Mikitovics J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/1r6/p2P3N/1p1k2P1/PP6/8/8/8 w - - 0 1"]
+
+ 1. Nf5 $1 (1. Kc8 $2 Kc6 2. g6 bxa4 3. Nf5 Ra7 4. Kb8 $11) 1... bxa4 2. Kc8 $1 (2. g6 $2 a3 3. Ne7+ Kxd6 4. g7 Rb8+ 5. Nc8+ Rxc8+ 6. Kxc8 a2 7. g8=Q a1=Q $11) 2... Ra7 3. d7 $1 Ke4 (3... Ra8+ 4. Kb7) 4. Ng3+ $1 (4. Nd4 $5 Ra8+ $1 (4... a3 5. Nc2 $18) 5. Kb7 Rg8 $1 6. Nc6 (6. Nc2 Kf5 7. Kc7 Kxg5 $11) 6... a3 $11 (6... Rg7 $2 7. Kc8 $18)) (4. Nd6+ $5 Kd5 5. Nb5 Ra8+ $1 (5... axb5 6. d8=Q+) 6. Kb7 $11) 4... Kf3 (4... Ke5 5. Ne2 $1 (5. Nf1 $2 Ra8+ $11) 5... a3 6. Nc3 $18) 5. g6 $1 (5. d8=Q $2 Ra8+ 6. Kc7 Rxd8 7. Kxd8 a3 $1 8. Nf5 (8. Nf1 Ke2 $1) (8. g6 a2 $1) 8... Ke4 9. Nd6+ Kd5 $11) 5... a3 6. Nf5 $1 (6. Nf1 $2 Ke2 $11) 6... Kf4 7. Nd4 $1 (7. g7 $2 a2 8. d8=Q Ra8+ $11) 7... a2 8. Nb3 {/Nc2 wins.} 1-0  

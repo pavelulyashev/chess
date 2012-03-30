@@ -1,0 +1,10 @@
+[Event "HM. NONA 2008 JT {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Slepjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1RQ4K/7R/8/n7/p2r4/p1pB4/8/k1bq4 w - - 0 1"]
+
+ 1. Rb1+ (1. Qxc3+ $5 Bb2 $11) 1... Ka2 2. Rh2+ Bb2 3. Rxd1 Rd8+ (3... c2 4. Qxc2 $18) 4. Qxd8 c2+ 5. Qd4 $3 (5. Kg8 $5 cxd1=Q 6. Bc4+ Nb3 7. Qxd1 { stalemate} (7. Bxb3+ Qxb3+ $1 $19 (7... axb3 8. Qxd1 {stalemate}))) 5... cxd1=Q 6. Rxb2+ axb2 7. Bb1+ Qxb1 (7... Kxb1 8. Qxd1+ Ka2 9. Qxa4+ Kb1 10. Qxa5 $18) 8. Qxa4# 1-0  

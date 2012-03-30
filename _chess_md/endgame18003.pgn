@@ -1,0 +1,10 @@
+[Event "tl10#3235 @3 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6R1/8/8/kn1K3b/3P4/3P4/1B1r4 w - - 0 1"]
+
+ 1. Bc2+ Nxc2+ 2. Kc3 Nd4 $1 (2... Ne1 $1 {cook JN} 3. Rg4+ Ka3 4. Rxh4 Rc1+ 5. Kd4 Nf3+) 3. Rg4 (3. Ra7+ $2 Kb5 4. Kxd4 Bf2+) (3. Kxd4 $2 Bf6+) 3... Bf2 4. Rxd4+ Bxd4+ 5. Kc2 Ra1 1/2-1/2  

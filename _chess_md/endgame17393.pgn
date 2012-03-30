@@ -1,0 +1,10 @@
+[Event "ts04#5718 @2 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r5k1/bp6/8/8/8/5K2/5R2/7R w - - 0 1"]
+
+ 1. Rg2+ (1. Ra2 $2 Rf8+ 2. Ke4 Bc5 3. Rg2+ Kf7 4. Rh7+ Ke6) 1... Kf7 2. Ra1 $1 (2. Ra2 $2 Kg6 3. Kg4 Kf6 4. Kf3 Ke5 5. Ke2 Kf4 6. Kf1 Ke3 7. Ke1 Kf3 8. Kf1 Ke3 9. Rh3+ Kd4 10. Ra4+ Kc5 11. Rh5+ Kc6) 2... Ke6 3. Ke4 (3. Ke2 $2 Kf5 4. Rf1+ Ke6 5. Rg6+ Ke5 6. Rg5+ Ke6) 3... Kf6 4. Rf1+ $1 Ke6 5. Ra2 Kd6 6. Kd3 (6. Rd1+ $2 Kc6 7. Rc1+ Kd6 8. Rd2+ Ke6 9. Ra1 Be3) 6... Ke5 7. Re2+ Kd5 8. Ra1 $1 (8. Rf5+ $2 Kc6 9. Rf6+ Kd5 10. Ra2 Rd8 11. Rxa7 Ke5+) 8... Kc5 9. Kc3 (9. Rc2+ Kb4 10. Rb2+ Kc5 11. Kc3 Rc8 12. Kb3 (12. Rxa7 $1 {cook JF}) 12... Kb6) 9... Rc8 10. Kb3 $1 (10. Rxa7 $2 Kb6+) 10... Kb6 11. Re4 (11. Re6+ $2 Rc6) 11... Bb8 12. Rb4+ Kc7 13. Rc1+ Kd7 14. Rd4+ 1-0  

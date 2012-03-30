@@ -1,0 +1,10 @@
+[Event "tz16#70 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/B1p5/7n/2P1NP2/1p3P2/1K2k2p/7P/6r1 w - - 0 1"]
+
+ 1. c6+ (1. f6 $2 1... Rf1 2. f7 Rxf4 3. c6+ Ke4) (1. Bb8 $2 1... Rg7 2. f6 Rh7 3. Kxb4 Kxf4) 1... Kxf4 2. Ng6+ (2. Bxg1 $2 2... Kxe5 3. Bb6 (3. f6 Kxf6 4. Bb6 Nf5 5. Bxc7 Nd4+ 6. Kxb4 Nxc6+ 7. Kc5 Ne7 8. Bd8 Ke6) 3... Kd6) (2. Nd3+ $2 2... Ke4 3. Bxg1 Kxd3 4. f6 Ke4 5. Kxb4 Kd5 6. Kb5 Nf7 7. Bc5 Ke6 8. Be7 Kd5 9. Bf8 Ke6 10. Ka6 Nd8) 2... Kxf5 (2... Rxg6 3. fxg6 Kf5 (3... Nf5 4. Kxb4 Ke5 ( 4... Kg5 5. Kb5 Ne7 6. Bc5 Nxg6 7. Ka6 Ne5 8. Kb7) 5. Kb5 Kd5 6. Bc5 Ng7 7. Bf8 Nf5 8. g7 Nh6 9. Be7 Ng8 10. Bg5 Kd6 11. Bf4+) 4. Bb6 Kxg6 5. Bxc7 Nf5 6. Kxb4 Kf6 7. Kc5 Ke6 8. Kb6 Kd5 9. Bf4 Ne7 10. c7 Ke6 11. Kb7 Kd7 12. Be3 Nc8 13. Bc5 ) 3. Nh4+ (3. Bxg1 $2 3... Kxg6 4. Bb6 (4. Kxb4 Nf5 5. Kb5 Kf6 6. Ka6 Ke6 7. Kb7 Kd5 8. Kxc7 Ne7) 4... Nf5 5. Bxc7 Nd4+) 3... Kg4 (3... Kg5 4. Nf3+) 4. Bxg1 Kxh4 5. Bb6 $1 (5. Bf2+ $2 5... Kg4 6. Bg3 Nf5 7. Bxc7 Nd4+) (5. Kxb4 $2 5... Nf5 6. Kb5 Kg4 7. Ba7 (7. Ka6 Kf3 8. Kb7 Kg2 9. Kxc7 Ne7) 7... Kf4 8. Bb8 Nd4+ 9. Kc5 Ne6+ 10. Kd5 Kf5) 5... Nf5 6. Bxc7 Nd4+ 7. Kxb4 Nxc6+ 8. Kc5 Na7 9. Kb6 (9. Bd8+ $2 9... Kg4 10. Kb6 Nc8+ 11. Kc7 Na7) (9. Bg3+ $2 9... Kg4 10. Kb6 Nc8+ 11. Kc7 Ne7) (9. Bd6 $2 9... Kg4 10. Bf8 Kf3 11. Kb6 Kg2) 9... Nc8+ 10. Kb7 Ne7 11. Bd8 1-0  

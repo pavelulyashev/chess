@@ -1,0 +1,10 @@
+[Event "ts23#42 @2 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Razumenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3K2Pp/8/6B1/6pp/3B3k w - - 0 1"]
+
+ 1. Bf3 $1 (1. Bf2 $2 g1=Q 2. Bf3+ Qg2 3. Ke4 h4 4. g6 h3 5. g7 Qxf3+ 6. Kxf3) 1... h4 2. Bf2 (2. Bxg2+ $1 {cook} Kxg2 3. Bxh2 Kxh2 4. g6 h3 5. g7 Kh1 6. Ke4 $1) 2... h3 3. Bg3 $1 Kg1 4. g6 h1=Q 5. g7 Kf1 $1 6. g8=Q g1=Q 7. Qg4 $3 Qxg3 8. Qxg3 Qg1 9. Be2+ 1-0  

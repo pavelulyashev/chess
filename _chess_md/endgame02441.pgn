@@ -1,0 +1,10 @@
+[Event "2 p 7th World Chess Composition 2001-04 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/1P1p2Bp/pP3P1P/k3b1p1/6Pp/3P4/K2P1r2/8 w - - 0 1"]
+
+ 1. Nc7 (1. f7 $143 Bb8 2. f8=Q Rxf8 3. Bxf8 h3 4. Bd6 Bxd6 5. Nc7 h2 6. b8=Q h1=Q 7. Qa7 Bxc7 8. bxc7 $11) 1... Rxd2+ 2. Ka3 (2. Kb3 $143 Rb2+ 3. Kc4 Rxb6 4. f7 Bd6 5. Ne8 Be7 6. Bf6 Rb4+ 7. Kc3 Bf8 $11) (2. Kb1 $143 Rb2+ 3. Kc1 Rxb6 4. f7 Bd6 $19) 2... Rxd3+ 3. Ka2 Rd2+ 4. Kb3 Rb2+ 5. Kc4 Rxb6 (5... Rb4+ $144 6. Kd3 Rxb6 7. f7 Bd6 8. Be5 Ba3 9. Ne8 Rxb7 10. Nd6 Rb8 11. Nc4+ $18) 6. f7 Bd6 7. Ne8 Ba3 (7... Be7 $144 8. Bf6 Rb4+ 9. Kd3 Bf8 10. Bc3 $18) (7... Bb4 $144 8. Bc3 $18) 8. Nd6 (8. Be5 $143 Rxb7 9. Bd6 Bxd6 10. Nxd6 Rb8 11. Ne8 Rb4+ 12. Kd5 Rf4 $19) 8... Bxd6 (8... Rc6+ $144 9. Kb3 Bxd6 10. Bd4 Rc1 11. b8=Q Rb1+ 12. Bb2 Bxb8 13. f8=Q Rxb2+ 14. Kxb2 $18) 9. Be5 Bxe5 (9... Ba3 $144 10. Bc7 $18) 10. f8=Q $18 1-0  

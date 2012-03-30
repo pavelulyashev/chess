@@ -1,0 +1,10 @@
+[Event "1.Hm  Rumyantsev 55 JT {m}"]
+[Site "?"]
+[Date "2011.06.28"]
+[Round "?"]
+[White "Arestov P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4R3/8/KP6/8/k7/8/8/2r3n1 w - - 0 0"]
+
+ 1. Re4+ $1 Ka3 2. b7 Rb1 3. Re1 Rxe1 $1 4. b8=Q Ne2 5. Ka5 $1 Ka2 $1 6. Qd6 $3 ({Thematic try} 6. Qb4 $2 Ra1 {zz} 7. Ka4 Nc1 $1 {zz} 8. Qd2+ Kb1+ $11) 6... Ra1 7. Qb4 {zz} 7... Nc1 8. Ka4 $1 {zz} 8... Nd3 (8... Rb1 9. Qa3#) 9. Qb3# 1-0  

@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K1N5/1r6/k7/8/8/8/8/8 b - - 0 1"]
+
+ 1... Rb1 (1... Rh7 2. Kb8 $1 Rd7 3. Ka8 Kb5 4. Kb8 $1 Kc6 5. Na7+) 2. Ne7 $1 Kb6 3. Kb8 $1 Rc1 4. Nc8+ Kc6 5. Na7+ 1/2-1/2  

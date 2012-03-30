@@ -1,0 +1,10 @@
+[Event "te01 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Missiaen R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2PrN3/8/5N2/8/8/3pK3/k4B2 w - - 0 1"]
+
+ 1. Nd5 (1. c8=Q $2 d1=Q+) 1... Rxd5 2. Nd4 d1=Q+ (2... Rxd4 3. Kd1) 3. Kxd1 Rxd4+ (3... Rc5 4. Nb3+) 4. Bd3 $1 (4. Kc1 $2 Rc4+ 5. Bxc4) (4. Ke1 $2 Re4+) 4... Rxd3+ 5. Kc2 Rd4 6. c8=R $1 (6. c8=Q $2 Rc4+ 7. Qxc4) 6... Ra4 7. Kb3 1-0  

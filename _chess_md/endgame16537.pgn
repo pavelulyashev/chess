@@ -1,0 +1,10 @@
+[Event "td44 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2R5/8/1P6/kr4nn/8/8/8/7K w - - 0 1"]
+
+ 1. b7 $1 (1. Ra8+ $2 Kb4 2. Rb8 (2. Ra1 Kc5 3. b7 Kc6 4. b8=Q Rxb8) 2... Ng3+ 3. Kg2 N3e4 4. b7 Nd6) 1... Rb1+ (1... Rxb7 2. Rc5+ Rb5 (2... Ka6 3. Rxg5) 3. Rxb5+) 2. Kg2 $1 (2. Kh2 $2 Rb2+ 3. Kg1 (3. Kh1 Ng3+ 4. Kg1 Nf3#) 3... Nf3+ 4. Kf1 Ng3#) 2... Rb2+ 3. Kf1 $1 Ng3+ 4. Ke1 $1 Nf3+ 5. Kd1 Rxb7 6. Rc7 $1 Rb1+ 7. Rc1 Rb8 8. Rc8 Rb5 9. Rc5 Rxc5 1/2-1/2  

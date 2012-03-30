@@ -1,0 +1,10 @@
+[Event "tc40 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Elkies N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/4np2/5Bpk/7P/4N2K/8/8/8 w - - 0 1"]
+
+ 1. Bg5+ Kg7 (1... Kh7 2. Nf6+ Kg7 3. h6+ Kf8 4. Bc1 Nf5+ 5. Kg5 Nxh6 (5... Ke7 6. Ba3+ Ke6 7. Bf8) 6. Kxh6) 2. h6+ Kf8 3. Bf6 $1 (3. Nf6 $2 Nf5+ 4. Kg4 Ke7) 3... Nf5+ (3... Ng8 4. Bg7+) (3... g5+ 4. Kxg5) 4. Kg5 Kg8 (4... Nxh6 5. Kxh6 Kg8 6. Ng5) 5. Bg7 $1 Nxg7 6. Nf6+ Kf8 7. Nd7+ Kg8 8. h7+ $1 Kxh7 9. Nf6# 1-0  

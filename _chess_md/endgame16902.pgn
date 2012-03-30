@@ -1,0 +1,10 @@
+[Event "tc06#145 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2r3N1/3R4/8/6KP/8/8/6pp/4kr1Q w - - 0 1"]
+
+ 1. Re7+ Kd1 2. Rd7+ (2. Qxh2 $2 g1=Q+ 3. Qxg1 Rxg8+ 4. Kh6 Rgxg1 5. Rf7 Re1 6. Rd7+ (6. Re7 Re2) 6... Ke2 7. Re7+ Kf3 8. Rxe1 Rxe1 9. Kg5 Re5+ 10. Kg6 Kg4 11. h6 Re6+ 12. Kg7 Kg5 13. h7 Re7+ 14. Kg8 Kg6) 2... Kc1 3. Qxh2 g1=Q+ 4. Qxg1 Rxg8+ (4... Rxg1+ 5. Kh6 Rgxg8 6. Rc7+ Kd2 7. Rxc8 Rxc8 8. Kg7) 5. Kh6 Rgxg1 ( 5... Rfxg1 6. Rg7) 6. Rf7 $1 Rd1 7. Rc7+ (7. Rd7 $2 Rd2 8. Rxd2 Kxd2 9. Kh7 Ke3 10. h6 Kf4 11. Kh8 Kf5 12. h7 Kg6) 7... Kb2 (7... Kd2 8. Rd7+ Ke3 9. Rxd1 Rxd1 10. Kg5 $1 Rd5+ 11. Kg4 $1 Ke4 12. h6 Ke5 13. h7 Rd8 14. Kg5) 8. Rd7 (8. Rb7+ $2 Kc3 9. Rc7+ Kd4) 8... Rc1 $1 9. Rb7+ (9. Rc7 $2 Rc3 $1) 9... Ka3 (9... Kc3 10. Rc7+ Kd4 11. Rxc1 Rxc1 12. Kg7 Rg1+ 13. Kf6 Rh1 14. Kg6 Ke5 15. h6 Ke6 16. Kg7 Rg1+ 17. Kf8) 10. Rc7 Rb1 11. Rb7 Rbf1 12. Rf7 1/2-1/2  

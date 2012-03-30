@@ -1,0 +1,10 @@
+[Event "tt21#1942 @2 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5b1n/8/2N1P3/4BkqB/8/8/N1P5/3K4 w - - 0 1"]
+
+ 1. Nd4+ Ke4 2. Nc3+ Ke3 3. Bf4+ (3. Nd5+ $1 {cook VN} Kf2 4. Nf6) 3... Kxf4 4. e7 Qg1+ (4... Qxh5+ 5. Nce2+ (5. Nde2+ Ke3 6. exf8=Q Qh1+) 5... Ke3 6. Nf5+ Qxf5 7. e8=Q+ Kf2 8. Nd4) 5. Kd2 (5. Ke2 $2 Bxe7) 5... Qxd4+ 6. Kc1 Qe3+ 7. Kd1 (7. Kb1 $2 Qe1+) (7. Kb2 $2 Qb6+ 8. Kc1 Bh6 9. e8=Q Kg3+ 10. Kd1 Qd4+ 11. Ke2 Qd2+ 12. Kf1 Qf2#) 7... Qg1+ 8. Kd2 Qd4+ 9. Kc1 Qe3+ 10. Kd1 1/2-1/2  

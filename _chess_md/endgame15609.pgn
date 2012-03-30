@@ -1,0 +1,10 @@
+[Event "tt20#813 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Borodavkin S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1r2k3/4n3/4K3/R3p3/8/8/8/8 w - - 0 1"]
+
+ 1. Ra4 $1 (1. Ra3 $2 e4 2. Re3 Rb4 3. Ke5 Ng6+ 4. Kd5 Nf4+ 5. Ke5 Nd3+ 6. Kd5 Nf2 7. Re2 Rb5+ 8. Ke6 Rb6+ 9. Ke5 e3 10. Kf4 Nd1 11. Re1 Rd6) (1. Ra2 $2 Nc6 2. Kd6 Nb4 3. Rb2 Rb6+ 4. Kc5 Nd3+) (1. Ra1 $2 e4 2. Re1 Rb4 3. Ke5 Ng6+ 4. Kd5 (4. Kf5 Nh4+ 5. Kf4 Ng2+) 4... Nf4+ 5. Ke5 Nd3+) 1... Nc6 (1... Ng6 2. Ra6 e4 3. Kf5) 2. Rc4 $1 (2. Kd6 $2 Rc8 3. Ra1 Kf7 4. Kd7 Rd8+ 5. Kxc6 Ke6) 2... Rb6 ( 2... Rc8 3. Re4 $1 Kd8 4. Kd6 Rc7 5. Rh4 $1 (5. Re3 $2 Nb4 6. Kxe5 Re7+ 7. Kd4 (7. Kf4 Nd5+) 7... Nc2+) 5... Kc8 6. Rh1 Kb8 7. Kd5) 3. Rg4 $1 Kd8 4. Kd6 Kc8 5. Rg7 Ra6 $1 6. Kd5 $1 Kb8 7. Rh7 $1 Ra7 8. Rh6 Rc7 9. Rh1 $1 Kb7 10. Rb1+ Ka7 (10... Ka6 11. Kd6 Rc8 12. Kd5 $1 Ka7 13. Rb2 $1 Ka6 14. Rb1 Ka5 15. Rb3 Ka4 16. Rb1 Ka3 17. Rb6 Na5 18. Ra6) 11. Ra1+ Kb6 12. Rb1+ Ka5 13. Rb3 $1 Nd4 14. Re3 Nc6 15. Rb3 Ka4 16. Rb1 Ka3 17. Rb6 Na5 18. Ra6 $1 1/2-1/2  

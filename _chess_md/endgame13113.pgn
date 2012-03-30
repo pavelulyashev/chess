@@ -1,0 +1,10 @@
+[Event "tw04#39 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Perlis J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/b1p2K2/2P5/1ppp4/p3p3/4P3/1P2B1P1/8 w - - 0 1"]
+
+ 1. Bc4 $1 dxc4 2. g4 c3 3. g5 $1 (3. bxc3 $2 c4 4. g5 Bxe3 5. g6 Bh6) 3... cxb2 4. g6 b1=Q 5. g7+ Kh7 6. g8=Q+ Kh6 7. Qg6# 1-0  

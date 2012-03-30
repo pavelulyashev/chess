@@ -1,0 +1,10 @@
+[Event "ts46 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/4PkP1/8/8/5K2 w - - 0 1"]
+
+ 1. Kf2 $1 (1. Ke2 $2 1... Kxe4) (1. Kg2 $2 1... Kxg4) 1... Kxe4 (1... Kxg4 2. Ke3 $1 2... Kg5 3. Kd4 Kf6 4. Kd5 Ke7 5. Ke5) 2. Kg3 $1 2... Ke5 3. Kh4 Kf6 4. Kh5 Kg7 5. Kg5 Kh7 6. Kf6 Kh6 7. g5+ Kh7 8. Kf7 $1 (8. g6+ $2 8... Kh8 $1 9. Kf7) 8... Kh8 9. Kg6 $1 (9. g6 $2) 1-0  

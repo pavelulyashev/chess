@@ -1,0 +1,10 @@
+[Event "1-2 place, Moscow Championship {m}"]
+[Site "?"]
+[Date "2010.12.04"]
+[Round "?"]
+[White "Arestov P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/Pk1B4/pP6/P7/2P5/1NP4p/K1pn1pbP/8 w - - 0 0"]
+
+ 1. Nc5+ Ka8 2. Ne6 $3 (2. Nxa6 $5 {see the final of the solution}) 2... Kb7 3. Nc7 c1=N+ 4. Ka1 $1 Ncb3+ 5. Kb2 Nxc4+ 6. Kxb3 Nxb6 (6... Nxa5+ 7. Kb4 Kxb6 8. a8=Q Bxa8 9. Nxa8+ Kb7 10. Bxh3 Nc6+ 11. Kc5 $18) 7. axb6 $1 Kxb6 8. a8=Q Bxa8 9. Nxa8+ Ka5 $1 10. Nb6 $1 (10. Bxh3 $5 f1=Q 11. Bxf1 {stalemate}) 10... f1=Q 11. Nc4+ Qxc4+ {(if 2.Na6? than now 11...Ka6!)} 12. Kxc4 $18 1/2-1/2  

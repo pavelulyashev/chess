@@ -1,0 +1,10 @@
+[Event "tl03#32 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4kr1r/3R1pK1/4P3/5P1p/7P/8/8/6B1 w k - 0 1"]
+
+ 1. Rd8+ $1 (1. Rxf7 $2 Rfg8+ 2. Kf6 Rh6+ 3. Ke5 Rxg1) 1... Kxd8 2. e7+ (2. exf7 $2 Kd7 3. Bc5 Rc8 4. f8=Q Rhxf8 5. Bxf8 Rc4) 2... Kxe7 3. Bc5+ Ke8 4. Bxf8 Rxf8 5. f6 $1 1-0  

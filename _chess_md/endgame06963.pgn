@@ -1,0 +1,10 @@
+[Event "Mat-Pat Martin [1st hm] {m}"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Salai L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/7P/2r1rp2/P7/5P2/1R2R3/4p2K/8 w - - 0 1"]
+
+ {Cooked by EV} 1. a6 (1. Rbc3 $2 f5 $1 (1... Ra6 2. Rc8+ Kxh7 3. Re8) 2. Kg2 ( 2. a6 $5 Rh6+ $1 3. Kg2 Rxc3) 2... e1=Q 3. Rxe1 Rg6+ 4. Rg3 Rc2+ 5. Kh3 Rh6#) ( 1. Rb8+ $2 Kxh7 2. Re8 Rc2 3. Kg1 Rc1+ 4. Kf2 e1=Q+ 5. Rxe1 Rcxe1) 1... Rxa6 ( 1... e1=Q 2. Rxe1 Rxe1 3. a7 Rc8 4. Rb8 Ree8 5. a8=Q Rxb8) (1... Rc2 $3 { author doesnt give, cook} 2. Kh3 (2. Kg1 e1=Q+) 2... Rxe3+ $1 (2... e1=Q 3. Rxe1 Rxe1 4. a7) 3. Rxe3 Rc3 4. Rxc3 e1=Q 5. Rc8+ (5. Rc7 Qe6+ 6. Kg3 Qxa6 7. Kg4 Qd6 8. Ra7 Qd1+ 9. Kf5 Qb1+ 10. Ke6 Qb6+) (5. Ra3 Qb4 6. Rd3 Qa5) 5... Kxh7 6. Rc7+ Kg6 7. a7 Qe3+ 8. Kg2 Qa3) 2. Ra3 Rab6 (2... f5 3. Kg2 {see main line}) 3. Rab3 (3. Ra8+ Kxh7 4. Re8 Rb2 5. Kh3 Rxe3+ 6. Rxe3 Rb3) 3... Rbc6 4. Rbc3 Rcd6 5. Rcd3 Ra6 6. Ra3 f5 7. Kg2 e1=Q 8. Rxe1 Rg6+ 9. Rg3 Ra2+ 10. Kh1 $3 { the point of pawn sacrifice} Rxg3 11. Re8+ Kxh7 12. Rh8+ Kg7 13. Rg8+ {Hanging rooks, promotion, stalemate. Interesting!} 1/2-1/2  

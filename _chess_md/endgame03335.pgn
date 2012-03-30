@@ -1,0 +1,10 @@
+[Event "Spec. HM as equal {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "*"]
+[Result "*"]
+[FEN "8/p7/8/8/8/7K/P7/5kB1 w - - 0 1"]
+
+1. Bh2 $1 ({Thematic try} 1. Bxa7 $5 Ke2 2. a4 Kd3 (2... Kf3 $4 3. Bb6 $18) 3.a5 Kc4 4. Bb6 Kb5 $11) 1... Ke2 (1... Kf2 2. Kg4 Ke3 3. Kf5 Kd4 4. Ke6 Kc5 5.Kd7 Kb6 6. Kc8 $18) (1... a5 2. Kg4 Ke2 3. Kf5 Kd3 4. Ke6 Kc4 5. Kd7 Kb4 6.Bd6+ $18) (1... a6 2. Kg4 Ke2 3. Kf5 Kd3 4. Ke6 Kc4 5. Kd7 $18) 2. Kg4 Kd3 (2... Ke3 3. Kf5 Kd4 4. Ke6 Kc5 5. Kd7 Kb6 6. Kc8 $18) (2... a5 3. Kf5 Kd3 4.Ke6 Kc4 5. Kd7 $18) 3. Kf5 Kc3 (3... Kc4 4. Ke6 Kb4 5. Bd6+ Ka5 6. Kd7 Kb6 7.Kc8 a5 8. Kb8 $18) (3... Kd4 4. Ke6 Kc5 5. Kd7 Kb6 6. Kc8 $18) 4. Bd6 $1 Kc4 (4... a5 5. Ke6 Kc4 6. Kd7 $18) 5. Ke6 Kb5 (5... a5 6. Kd7 $18) 6. Kd7 Kb6 7.Kc8 a5 8. Kb8 $18 *

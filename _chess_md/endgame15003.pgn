@@ -1,0 +1,10 @@
+[Event "3 Prize tw04 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Berger J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1pp2p2/6p1/1p1PNP2/1P1k2P1/3P1pK1/p1PB1PbP/8 w - - 0 1"]
+
+ 1. d6 $1 cxd6 (1... a1=Q 2. d7 Qa8 (2... Qg1 3. d8=Q+ Kxe5 4. Bf4#) (2... gxf5 3. d8=Q+ Kxe5 4. Bf4+ Ke6 5. Qe8+) (2... Kxe5 3. d8=Q Qg1 (3... g5 4. Qe7+ Kd5 5. Qc5#) (3... gxf5 4. Bf4+ Ke6 5. Qe8+) (3... Qd4 4. Qxc7+ Kd5 5. Bc3 $1 Qa7 6. Qd7#) 4. Bf4#) 3. Nxf7) 2. Nxg6 $1 d5 (2... f6 3. Nf4 $1 a1=Q (3... d5 4. Ne6+ Ke5 5. Bf4#) 4. c3+ Ke5 (4... Qxc3 5. Be3+ Ke5 6. h4) 5. Ng6+ Kd5 6. Ne7+ Ke5 7. Bf4#) (2... a1=Q 3. Bg5 $1 Kd5 (3... Qg1 4. Bf6+ Kd5 5. Ne7#) 4. Ne7+ Ke5 5. Ng8 Kd5 (5... Qg1 6. Bf6+ Kd5 7. Ne7#) 6. Bf6 $1 Qxf6 7. Nxf6+ Ke5 8. Nd7+ Kd5 9. h4 $1) (2... fxg6 3. Bh6 gxf5 (3... a1=Q 4. Bg7+ Kd5 5. Bxa1 gxf5 ( 5... g5 6. h4 gxh4+ 7. Kxh4 Bf1 (7... Kc6 8. g5 Kd7 9. g6 Ke8 10. f6 Kf8 11. f7 Bf1 12. Kg5 Bh3 (12... Ke7 13. Bg7) 13. Kf6) 8. g5 Be2 9. g6 Bd1 10. g7) 6. gxf5 Kc6 7. h4 Kd7 8. h5 Ke7 9. h6 Kf7 10. h7) (3... g5 4. Bg7+ Kd5 5. h4 gxh4+ 6. Kxh4 Bf1 (6... Kc6 7. g5 Kd7 8. g6) 7. g5 Be2 (7... Kc6 8. g6 Kd7 9. Ba1 Ke8 10. f6 Kf8 11. f7 Be2 12. Kg5 Ke7 13. Bg7 a1=Q 14. f8=Q+) 8. g6 Bd1 9. Ba1) 4. Bg7+ Kd5 5. gxf5 Kc6 6. h4 Kd7 7. h5 Ke7 8. h6 Kf7 9. Ba1 Kg8 10. f6) (2... Kd5 3. Bc3 fxg6 4. h4 gxf5 5. gxf5) (2... b6 3. Bg5 fxg6 (3... a1=Q 4. Bf6+) 4. Bf6+ Kd5 5. h4) 3. Ne5 $1 (3. Bg5 $2 Kc3 $1 4. Bf6+ d4) 3... f6 (3... a1=Q 4. Kf4 Qb2 (4... Qg1 5. c3#) 5. c3+ Qxc3 6. Be3#) (3... Kxe5 4. Bc3+ d4 5. Ba1) 4. c3+ Kxe5 5. Bf4# 1-0  

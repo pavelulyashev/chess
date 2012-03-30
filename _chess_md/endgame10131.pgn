@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3R4/8/4N3/pB5q/8/2p5/2k5/K7 w  - 0 1"]
+
+ 1.Ba4+ (1.Nd4+ Kd2 2.Ne2+ Ke3 3.Rd3+ Kf2 $1 $11) 1...Kc1 2.Nc5 $1 (2.Nf4 $2 c2 $1 3.Nxh5 $11) (2.Rd3 Qh1 3.Nd4 Qf1 $1 4.Rxc3+ Kd2+ $11) 2...Qh1 3.Ne4 $1 Qf3 4.Nd2 $1 Qg4 (4...Qh1 5.Nb1 $1 Qf3 6.Rc8 c2 7.Rxc2+ Kd1 8.Rc3+ $18) 5.Nb3+ Kc2 6.Nc5+ Kc1 7.Nd3+ Kd2 8.Nf2+ $18 (8.Ne5+)  1-0  

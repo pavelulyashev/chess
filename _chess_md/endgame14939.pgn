@@ -1,0 +1,10 @@
+[Event "ts67#41 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mouterde A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/5p2/8/4P3/p7/1k2pKR1/8 w - - 0 1"]
+
+ 1. Kxe2 a2 2. Kd3+ Kb1 3. Rg1+ Kb2 4. Ra1 Kxa1 5. Kc2 f5 (5... d6 6. Kc1) (5... d5 6. exd5 f5 7. d6) 6. exf5 d5 7. f6 d4 8. f7 d3+ 9. Kc1 $1 d2+ 10. Kxd2 Kb1 ( 10... Kb2 11. f8=Q a1=Q 12. Qb4+ Ka2 13. Kc2) 11. f8=Q a1=Q 12. Qf5+ Kb2 13. Qb5+ Ka3 14. Qa5+ Kb2 15. Qb4+ Ka2 16. Kc2 1-0  

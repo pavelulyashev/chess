@@ -1,0 +1,10 @@
+[Event "Shahmat {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6K1/6P1/7P/5k2/P7/8/rNP2p2/1b6 w - - 0 1"]
+
+ 1. Nd1 (1. Nc4 $143 Rxa4 2. Kh8 (2. h7 $144 f1=Q 3. Ne3+ Kg6 4. h8=N+ Kf6 5. Nxf1 Bxc2 $19) 2... Ra8+ 3. g8=Q Rxg8+ 4. Kxg8 Ba2 5. Kg7 Bxc4 6. h7 f1=Q 7. h8=Q Qg1+ 8. Kf8 Qc5+ 9. Kg7 Qe7+ 10. Kh6 Qg5+ 11. Kh7 Qg6#) (1. h7 $143 f1=Q 2. h8=Q Rxb2 3. Qh5+ Ke4 4. Kh7 Ba2 $19) (1. Kh7 $143 Rxb2 2. g8=Q Rb7+ 3. Kh8 f1=Q 4. Qf8+ (4. Qd5+ $144 Kg6 5. Qg8+ Kxh6 6. Qe6+ Kg5 7. Qg8+ Kh4 8. Qd8+ Kh3 9. Qc8+ Kh2 10. Qxb7 Qf8+ 11. Kh7 Bxc2+ 12. Qe4 Bxe4#) 4... Kg6 5. Qe8+ Rf7 6. Qe4+ Qf5 7. Qg2+ Kxh6 8. Qh2+ Qh5 $19) (1. Kh8 $143 f1=Q 2. g8=Q Qf4 3. Qf7+ Kg5 4. Qxf4+ Kxf4 5. Kg7 (5. Nd3+ $144 Kg5 6. h7 Rxc2 7. Ne5 Rc7 $19) 5... Bxc2 6. Nc4 Rxa4 7. Nd6 Ra7+ 8. Nf7 Bd3 9. Kg8 (9. Kf6 $144 Ra6+ $19) 9... Bg6 10. Kg7 Kf5 $19) 1... f1=Q 2. Ne3+ Kg6 3. Nxf1 Rxa4 4. Kh8 Ba2 5. c4 (5. h7 $143 Rh4 6. g8=Q+ Bxg8 7. Kxg8 Rxh7 $19) 5... Bxc4 6. h7 Bg8 7. hxg8=N (7. hxg8=Q $143 Rh4+ 8. Qh7+ Rxh7+ 9. Kg8 Rxg7+ $19) 7... Rh4+ 8. Nh6 Rxh6+ 9. Kg8 Rh3 10. Nd2 $11 (10. Kf8 $143 Rf3+ 11. Ke7 Kxg7 12. Nd2 Re3+ 13. Kd6 Rd3+ $19) *  

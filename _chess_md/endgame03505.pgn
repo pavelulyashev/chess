@@ -1,0 +1,10 @@
+[Event "1st comm, Nona 2007, main {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Gerhold J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/p1p4p/B4ppP/1P1P2n1/8/4KP2/2p1n1P1/B7 w - - 0 1"]
+
+1. Bb2 $1 (1. Bxf6+ $2 Kg8 2. Bb2 c1=Q+ 3. Bxc1 Nxc1 4. d6 cxd6 5. b6 axb6 6.Bc4+ Kf8 7. Kd2 Nf7) 1... c1=Q+ (1... Ng3 2. Kd2 Nf7 3. Bd4 Nf5 4. Bxa7 N7d6 5.Bb8 Ne8 (5... Nd4 6. b6 Nb3+ 7. Kxc2 Nc5 8. Bxc7) 6. Bb7 Nfd6 7. Bc6 Kg8 8.Bxe8 Nxe8 9. b6 cxb6 10. d6 {and win}) 2. Bxc1 Nxc1 3. d6 $1 cxd6 4. b6 $1 axb65. Bc4 $1 b5 6. Bd5 b4 7. Kd2 Nxf3+ 8. gxf3 b3 9. Kxc1 $18 1-0

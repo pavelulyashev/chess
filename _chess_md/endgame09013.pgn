@@ -1,0 +1,10 @@
+[Event "wa05 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b1k3/8/8/r6P/8/1R6/7K/3R4 w - - 0 1"]
+
+ 1. Re3+ (1. Re1+ $2 {Kasparyan considиre ce coup comme une erreur ; pourtant il annule comme 1... Kd8} Kf7 $2 (1... Kd8 2. Rd1+ Ke7 3. Re1+ Kd8 $11) 2. Rf3+ (2. Rb6 Rxh5+ $11) (2. Rb8 Rxh5+ $11) (2. Kg3 Rxh5 $11) (2. Kg2 Rxh5 $11) (2. h6 Rh5+ 3. Kg2 Rxh6 $11) 2... Kg7 3. Rg3+ (3. Re7+ Kh6 4. Rf8 Rxh5+ $11) 3... Kh6 4. Re8 Rxh5+ $11) 1... Kf7 2. Rf1+ (2. Rf3+ $2 Kg7 $1 3. Rg3+ (3. Rg1+ Kh7 4. Rf7+ Kh6 5. Rg6+ Kxh5 6. Rg8 Bf5 $11) 3... Kh7 $11) 2... Kg7 (2... Rf5 $2 3. Rxf5+ Bxf5 4. Rf3 Ke6 5. h6 Bh7 6. Kh3 $18) (2... Bf5 3. Ref3 Ke6 4. Kg3 { zugzwang}) 3. Rg3+ (3. Rg1+ $2 Kh7 4. Re7+ Kh6 $11 {cf. supra}) 3... Kh7 4. Rf7+ (4. h6 $2 Rh5+ 5. Kg1 Bf5 $11) 4... Kh6 5. Rf8 (5. Rf6+ $2 Kxh5 6. Rf8 Ra2+ 7. Kg1 Ra1+ 8. Kf2 Ra2+ 9. Ke1 Ra1+ 10. Kd2 Ra2+ 11. Kc1 Kh4 12. Rg7 Bg4 13. Rf4 (13. Rh8+ Kg3 14. Rhg8 Ra4 $11) 13... Rg2 $11) 5... Rxh5+ (5... Bf5 $2 6. Rh8+ Bh7 7. Rg6+ Kxh5 8. Rg7 $18) 6. Kg2 $1 (6. Kg1 $2 Bf5 7. Rh8+ Bh7 $11) 6... Bb7+ (6... Bf5 $2 7. Rh8+ Bh7 8. Rg4 $18) 7. Kf2 $1 ({7. Kf1 conduit а la nulle mais Kasparyan donne 7... Be4? qui perd. Correct est 7... Rg5!} 7. Kf1 $2 Be4 $2 (7... Rg5 $1 $11) 8. Rh8+ Bh7 9. Kg1 Rh4 10. Kg2 Rh5 11. Rg4) 7... Be4 ( 7... Rg5 $2 8. Rh8+ Kg7 9. Rb8 $1 $18) (7... Rh2+ $2 8. Ke3 Kh7 9. Rf7+ Kh8 10. Rxb7 Re2+ 11. Kd4 Re4+ 12. Kc3 Rc4+ 13. Kb3 $18 {Kasparyan a laissй passer une coquille dans Etjudy Stati Analizi, p. 86, avec 13. Kd3?? qui annule par : 13.. . Rc3+. Dans 2545 Endgame Studies, p. 505, il donne le coup correct 13. Kb3 +-} ) 8. Rh8+ Bh7 9. Kg1 $3 (9. Kg2 $2 Rh4 $11) 9... Rh4 10. Kg2 Rh5 11. Rg4 $18 { Kasparyan fait remarquer que la position finale coпncide avec l'йtude de Henri Rinck - Kцlnische Volkszeitung, 1926 - mais qu'il s'agit d'un incontestable dйveloppement de l'idйe de Rinck : les manoeuvres du Roi blanc au 6e, 7e et 9e coup de la ligne principale crйent une situation de zugzwang mutuel.} 1-0  

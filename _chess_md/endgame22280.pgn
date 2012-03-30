@@ -1,0 +1,10 @@
+[Event "mc03 @3 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sochniev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2P2k2/3P3K/4prP1/8/4pP2/r6P/3R4 w - - 0 1"]
+
+ 1. h4 Ra8 2. g6+ Kf6 3. g7 Kf7 4. Rg1 Rf6+ 5. Kh5 (5. Kg5 $2 Rg8) (5. Kh7 $2 Rf5) 5... Rf5+ 6. Kg4 Rf4+ (6... Ke6 $1 {cook} 7. h5 (7. d7 Rf4+ 8. Kh5 Kxd7 9. g8=Q Rxg8 10. Rxg8 Kxc7) (7. Rc1 Rf7 8. c8=Q+ Rxc8 9. Rxc8 Rxg7+) 7... Ra4+ 8. Kg3 Rg5+ 9. Kh3 Rxh5+ 10. Kg2 Rg5+ 11. Kh3 (11. Kf1 $2 Rxg1+ 12. Kxg1 Ra8)) 7. Kh3 Rxf3+ 8. Kg4 (8. Rg3 $2 e2 9. Rxf3+ Kxg7 10. Re3 Ra3 11. Rxa3 e1=Q 12. c8=Q Qf1+ 13. Kg3 Qg1+) 8... Rf4+ 9. Kh5 Rf5+ 10. Kh6 Rf6+ 11. Kh7 Rf5 12. Rf1 Rxf1 13. d7 Rf5 14. d8=N+ Rxd8 15. cxd8=N+ Kf6 16. g8=N# 1-0  

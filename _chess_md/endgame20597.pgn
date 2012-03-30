@@ -1,0 +1,10 @@
+[Event "tc06#02 {v} {pl} {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K6/3k3p/8/8/8/8/P7/8 w - - 0 1"]
+
+ 1. a4 (1. Kb7 $2 h5 2. a4 h4 3. a5 h3 4. a6 h2 5. a7 h1=Q+ 6. Kb8 Qc6 7. a8=Q Qc7#) 1... Kc6 (1... h5 $4 2. a5) 2. a5 $1 Kb5 3. Kb7 $1 Kxa5 4. Kc6 h5 5. Kd5 1/2-1/2  

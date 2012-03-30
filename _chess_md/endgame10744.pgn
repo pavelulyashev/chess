@@ -1,0 +1,10 @@
+[Event "3 Prize ob01 @2 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6k1/5p2/2p5/4PP2/1N1K4/3p4/5n1B/1b6 w - - 0 1"]
+
+ 1. Bf4 c5+ 2. Kxc5 (2. Ke3 $2 Ng4+ 3. Kf3 Nxe5+) 2... d2 3. Bxd2 Ne4+ 4. Kd5 ( 4. Kc6 $1 {cook} Nxd2 5. e6) 4... Nxd2 5. e6 f6 6. e7 Kf7 7. e8=Q+ Kxe8 8. Ke6 Ne4 9. Nd5 Ba2 1/2-1/2  

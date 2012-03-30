@@ -1,0 +1,10 @@
+[Event "ARVES Solving 2002 {m}"]
+[Site "?"]
+[Date "2002.11.17"]
+[Round "?"]
+[White "Evreinov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6k185p21p684K31P68 w - - 0 1"]
+
+ 1. Kd4 Kf7 2. Kc5 Ke6 3. Kxb5 Kd5 4. Kb4! {After} (4. Ka5? f5 5. b4 f4 6. b5 f3 7. b6 Kc6! 8. Ka6 f2 9. b7 f1=Q+) {Black wins} 4... Kd4 5. Kb3 Kd3 6. Ka2! f5 7. b4 Kc4 8. b5 Kxb5 9. Kb3 1/2-1/2  

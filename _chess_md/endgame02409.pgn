@@ -1,0 +1,10 @@
+[Event "Kansan Uutiset {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Perkonoja P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1P6/n1k5/PNP5/2K5/1n6/8/2b5 w - - 0 1"]
+
+ 1. b8=N+ $1 (1. b8=Q $143 Nxa5+ 2. Kd3 Nxb8 $19) 1... Nxb8 2. Na7+ Kb7 3. c6+ Kxa7 4. c7 Nxa5+ 5. Kb5 Nb7 6. c8=N+ $1 (6. c8=Q $143 Nd6+ $19) 6... Ka8 7. Nb6+ Ka7 8. Nc8+ $11 1/2-1/2  

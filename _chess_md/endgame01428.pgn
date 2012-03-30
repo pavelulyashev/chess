@@ -1,0 +1,10 @@
+[Event "ts20#016 {m}"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R7/3k1p2/b7/8/4Nrp1/2p5/2K5/4B3 w - - 0 1"]
+
+ 1. Ra7+ (1. Nc5+ $2 Kc6 2. Nxa6 Kb7 3. Nc7 Kxc7 4. Bg3 Kb7 $11) 1... Kd8 $1 ( 1... Kc8 $2 2. Nd6+ Kd8 3. Bh4+ f6 4. Rxa6 Kd7 5. Nb5 Ke7 6. Nd4 $18) (1... Kc6 2. Rxa6+ Kb5 3. Ra4 Kxa4 4. Nxc3+ Ka3 5. Bh4 $1 (5. Bg3 $2 Rf6 6. Bh4 Re6) 5... f6 (5... Rf5 $2 {M2}) 6. Bg3 Rd4 (6... Rb4 7. Bd6 g3 8. Nd5 g2 9. Bxb4+ Ka4 10. Bc5) 7. Nb5+) 2. Bh4+ (2. Nd6 Bc4 (2... Be2 3. Bxc3) (2... Bc8 3. Nxf7+ Ke8 4. Nd6+) 3. Bg3 Rf3 (3... Bd3+ 4. Kb3 Rf3 5. Bh4+ f6 6. Kxc3 Bb5+) 4. Bh4+ f6 5. Nxc4 g3 6. Ne5 (6. Nd6 $4 Rf2+ $1 7. Kxc3 Rf4 $11) 6... Rf2+ 7. Kxc3 Rf1 8. Rg7 $18) 2... f6 3. Nxf6 g3 4. Bxg3 Rf3 5. Rxa6 Rxg3 $11 1-0  

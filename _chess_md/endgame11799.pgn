@@ -1,0 +1,10 @@
+[Event "5 Prize ww12 {tt} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Missiaen R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3k1p1p/7K/8/6pP/3pp3/1b4R1/N7 w - - 0 1"]
+
+ 1. Nb3 (1. Rxb2 $2 d2 2. Rb1 e2) (1. Nc2 $2 e2 2. Rxe2 dxe2 3. Kxh7 Bc3) 1... d2 (1... e2 2. Nc5+) (1... Ba3 2. Rxg4 d2 (2... e2 3. Rg1 Bb4 4. Kg7 d2 (4... Ke7 5. Nc1 e1=Q 6. Rxe1+ Bxe1 7. Nxd3) 5. Nxd2 Bxd2 6. Kxf7) 3. Nxd2 Bc1 4. Nf3 e2+ 5. Kxh7) 2. Nxd2 (2. Rxd2+ $2 exd2 3. Nxd2 Bc1) (2. Rg1 $2 Bc3) 2... Bc1 3. Kh5 (3. Nb3 $2 e2+) (3. Rxg4 $2 Bxd2 4. Re4 f5) (3. Kxh7 $2 exd2 4. Rg1 g3) 3... exd2 4. Rxg4 (4. Rg1 $2 f5 5. Rd1 h6 6. Kxh6 Ke6 7. Kg5 Ke5 8. h5 g3 9. h6 (9. Kh4 Kf4 10. Rf1+ Ke3 11. Kxg3 Ke2) 9... g2 10. h7 g1=Q+ 11. Rxg1 d1=Q+) 4... Ke6 (4... d1=Q) (4... d1=B) (4... d1=R 5. Rd4+ Rxd4) 5. Rd4 (5. Rg1 $2 Kf5 6. Rd1 Kf4) 5... Ke5 6. Rd7 f5 (6... f6 7. Kg4) (6... Ke6 7. Rd3 Kf5 8. Rxd2 Bxd2) 7. Rxd2 Bxd2 1/2-1/2  

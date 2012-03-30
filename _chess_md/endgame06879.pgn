@@ -1,0 +1,10 @@
+[Event "Pruboj, {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Vlasak E"]
+[Black "*"]
+[Result "*"]
+[FEN "K4k2/8/1b1p4/1r1Pp3/4Pp1p/5PpP/PPN3P1/6B1 w - - 0 1"]
+
+ 1. b4 $1 (1. Bxb6 Rxb6 2. b3 Ra6+) 1... Bxg1 (1... Bc7 2. a4 Rb8+ 3. Ka7 Ke8 ( 3... Re8 4. b5 Ba5 5. Ka6 Ra8+ 6. Kb7 Re8 7. Ka6 Bd2 8. Ba7) 4. b5 Rc8 5. Kb7 Kd7 6. Nb4 Ba5 7. Nc6) 2. a4 Rb6 (2... Rxd5 3. exd5 e4 4. Ne1 Bf2 5. b5 Bxe1 6. b6 Ba5 7. b7 Bc7 8. a5 exf3 9. a6 fxg2 10. a7 g1=Q 11. b8=Q+ {s vкзnяm ?achem.} ) 3. b5 Bc5 (3... Ke8 4. Na3 Kd7 5. Nc4 Kc7 6. Nxb6 Kxb6 (6... Bxb6 7. a5 Bxa5 8. Ka7 Bb6+ 9. Ka6) 7. Kb8 Bc5 8. Kc8 Ka5 9. Kc7) 4. Na3 (4. Na1 Ke8 5. Nb3 Kd7 6. Na5 Kc8 7. Nc6 Rb7) (4. Nb4 Bxb4 5. Ka7 Ba5) 4... Bxa3 5. Ka7 Bc5 6. a5 Rxb5+ (6... Rc6+ 7. Kb7) 7. Ka6 Rxa5+ 8. Kxa5 *  

@@ -1,0 +1,10 @@
+[Event "wj01 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Van der Heijden H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/8/6P1/8/5r1n/4K2k/8/R7 w - - 0 1"]
+
+ 1. g7 $1 Nf5+ (1... Ng2+ 2. Ke2 Re4+ 3. Kd3 Re8 4. Rh1+ $1 Kg4 5. Rxh8) 2. Kxf4 Nxg7 3. Rh1+ Kg2 4. Rh6 $1 (4. Rxh8 $2 Ne6+ 5. Ke3 (5. Ke5 Nc5 $1 6. Rh5 Nd3+) 5... Kg3 $1 6. Rg8+ Kh4 $1 7. Rg6 Ng5 $1 8. Kf4 Nh3+) 4... Nf7 (4... Ne8 5. Rxh8 Nf6 6. Rd8 $1 Nh5+ 7. Kg4 $1 Ng3 8. Rd2+) 5. Rg6+ Kf2 6. Rxg7 Nd6 7. Rc7 $1 Nb5 8. Rc2+ Ke1 9. Rc5 $1 Nd4 (9... Na3 10. Rc3 $1 Nb5 11. Rd3 Ke2 12. Ke4) 10. Ke3 $1 Nb3 11. Rc3 $1 Na1 12. Rc1# $1 (12. Kd3 $2 Kd1) 1-0  

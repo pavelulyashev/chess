@@ -1,0 +1,10 @@
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5k2/2P4R/4B3/n1P5/1pPK4/4Pb2/1r6 w - - 0 1"]
+
+ 1. c7 Nc5+ (1... Rd1+ 2. Ke4 b2 3. c8=Q b1=Q+ 4. Kf3) 2. Kd2 Rb2+ 3. Kc1 (3. Kd1 Be3) 3... Rc2+ 4. Kb1 Ne4 5. Rh7+ (5. Rd6 Bd4) 5... Kg6 6. Rg7+ (6. Rd7 Bd4 7. Rd6+ Kh5) 6... Kh5 7. Rh7+ Kg5 8. Rg7+ Kh6 9. Rd7 Bd4 $1 {Nowotny} 10. Bf4+ Kh5 (10... Kg6 11. Rd6+ Kf7 12. Rd7+ Ke6 13. Rd6+ Nxd6 14. Bxd6 Kd7 15. cxd4) 11. Rh7+ ({dual} 11. Rd5+ $1 Kg6 (11... Kh4 12. Bg5+ Kg3 13. Bh4+ $3 Kh2 (13... Kxh4 14. Rxd4) 14. Be1 Bxc3 15. c8=Q) 12. Rd6+ Nxd6 (12... Kf7 13. Rd7+ Ke6 14. Rd6+ Nxd6 15. Bxd6 Kd7 16. cxd4) 13. Bxd6 Bxc3 14. c8=Q Rb2+ 15. Kc1 Rc2+ 16. Kd1 Rd2+ 17. Ke1 Rxd6+ 18. Kf1) 11... Kg6 12. Rh6+ (12. Rh3 Be3 13. Rg3+ Kf7) 12... Kf7 13. Rh7+ Kg6 14. Rh6+ Kg7 15. Rh3 Be3 $1 {Nowotny} 16. Be5+ Kf7 ( 16... Kg6 17. Rg3+ Kh5 18. Rh3+ Kg5 19. Rg3+ Kh6 20. Rh3+ Kg6 21. Rg3+ Bg5 22. Rd3) 17. Rh7+ Kg6 18. Rg7+ Kh6 (18... Kh5 19. Rh7+ Kg6 20. Rg7+) 19. Rd7 Bd4 $1 20. Bf4+ {positional draw - perpetual Nowotny} 1/2-1/2  

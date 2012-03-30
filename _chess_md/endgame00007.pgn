@@ -1,0 +1,10 @@
+[Event "1 Prize mo01 tm41 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/8/1p6/1P5P/8/3B1K2/4P1pp/5k2 w - - 0 1"]
+
+ 1. e3+ (1. Bh4 $143 g1=N+ $19) 1... Kg1 2. Bh4 h1=Q (2... Kh1 $144 3. Be4 g1=Q 4. Kf4+ Qg2 5. Bg3 $1 $18) 3. Bf2+ Kh2 4. Bg3+ Kg1 5. Kg4 Qh2 6. Be4 Qh1 7. Bd5 Kf1 8. Bc4+ Kg1 9. Be2 Qh2 10. Bf3 Qh1 11. Be4 Kf1 12. Bd3+ Kg1 13. Bc4 Qh2 14. Bd5 Qh1 15. e4 Kf1 16. Bc4+ Kg1 17. e5 $18 1-0  

@@ -1,0 +1,10 @@
+[Event "cs {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Stavrietsky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k2r4/1R3n1b/8/P2B4/3K4/6b1/8/8 w - - 0 1"]
+
+ {27 4/2000} 1. Rd7+ $1 (1. Rxf7+ $2 Rxd5+ 2. Kxd5 Bg8 3. Ke6 Bh4 4. a6 Kb8 5. a7+ Ka8 $19 {vzajomny zugzwang/VZ/}) 1... Kb8 2. Rxf7 Rxd5+ 3. Kxd5 Bg8 4. Ke6 Bh4 5. a6 Ka8 6. a7 $11 {VZ!} 1/2-1/2  

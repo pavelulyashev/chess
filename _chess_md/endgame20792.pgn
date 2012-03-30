@@ -1,0 +1,10 @@
+[Event "t001#151 {c} {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/7p/6q1/5r2/6Qp/7P/p1r3P1/R3K2R w KQ - 0 1"]
+
+ 1. Qd1+ (1. Qd4+ $2 Kc8) (1. Qxh4+ $2 Kc8) 1... Ke7 2. Qxc2 Rf1+ (2... Re5+ 3. Qe2) 3. Kxf1 (3. Rxf1 $2 Qxc2 4. Rf3 Qb2 5. Rxa2 Qxa2 6. Kf1 Qb1+) 3... Qxc2 4. Kg1 Qb2 5. Rxa2 Qxa2 6. Kh2 1/2-1/2  

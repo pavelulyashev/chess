@@ -1,0 +1,10 @@
+[Event "1/2 comm, Neidze 70 JT -MAIN {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Mikitovics J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/P1pp2p1/2b5/2p5/8/2p4B/4r2P/k1K5 w - - 0 1"]
+
+1. Bf1 $1 ({Thematic try} 1. Bxd7 $6 Re1+ $1 2. Kc2 Be4+ $1 (2... Re2+ 3. Kxc3Be4 4. a8=Q+ $18) 3. Kxc3 Re3+ $1 4. Kc4 Ra3 $11) 1... Rxh2 (1... Re1+ 2. Kc2Ba4+ 3. Kxc3 Rc1+ 4. Kd2 Rc2+ 5. Kd3 c4+ 6. Kd4 Bc6 7. Bxc4 g5 8. h3 Rc1 (8...d6 9. Rc8 $18) 9. Rb5 Rd1+ 10. Kc3 Rc1+ 11. Kb3 Rb1+ 12. Ka3 d6 13. Rxg5 Rh114. Be6 Bb7 15. h4 $18) 2. Bc4 $1 {thr. 3.Rb1#} Rh1+ 3. Kc2 Rh2+ (3... Ba4+ 4.Kxc3 Rc1+ 5. Kd2 $1 Rc2+ 6. Kd3 $18) (3... Be4+ 4. Bd3 $1 (4. Kxc3 $2 Rh3+ 5.Kd2 $11) 4... Rh2+ 5. Kxc3 Bc6 {Be continued in the mainline! ->} 6. Rb1+ $1)4. Kxc3 Rh3+ 5. Bd3 $1 {thr. 6.a8Q+!} Rh2 6. Rb1+ $1 (6. Re8 $2 d5 7. Re1+ Ka28. Re6 d4+ $1 $11) 6... Ka2 7. Rb5 $1 (7. Re1 $2 d5 $1 8. Re6 d4+ $1 $11) 7...Ka1 8. Ra5+ Ra2 9. Rxa2+ Kxa2 10. Bb5 $1 (10. Bc4+ $2 Ka3 $1 11. Bb5 Ba8 12.Bxd7 g5 13. Kc4 g4 14. Bxg4 Ka4 $11) 10... Ba8 11. Bxd7 $1 {(See 1.Bxd7?!)} Ka312. Kc4 g5 13. Kxc5 $1 (13. Kb5 $2 c4 $1 14. Kxc4 g4 15. Bxg4 Ka4 $11) 13... g414. Bc6 {win.} (14. Bxg4 $2 Ka4 $11) 1-0

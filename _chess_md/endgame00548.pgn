@@ -1,0 +1,10 @@
+[Event "1/2 Prize Friendship-200 JT Achalgazdra Kom {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Neidze V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4nB2/8/3P1N2/2k5/b3pn1N/2P5/1K6 w - - 0 1"]
+
+ 1. d6+ $1 Kc3 2. dxe7 Nd2+ 3. Ka2 Bxe7 4. Nxe7 (4. Nxe3 $2 Bc5) 4... e2 5. Nd5+ Kxc2 (5... Kd4 6. c3+ $1 Ke5 (6... Ke4 7. Nf2+) 7. Nhf4) 6. Bg6+ (6. Nhf4 $2 e1=Q 7. Bg6+ Ne4) 6... Kc1 (6... Ne4 7. Bxe4+ Kd2 8. Ng1 $1) 7. Nhf4 $1 (7. Ndf4 $2 e1=N 8. Ne2+ Kd1 9. Nd4 Nc4) 7... e1=Q (7... e1=N {main} 8. Ne2+ (8. Nc3 $2 Ndf3) (8. Ne3 $2 Ndf3) 8... Kd1 9. Ndc3#) 8. Nd3+ Kd1 9. Bh5+ (9. Nc3+ $2 Kc2) 9... Qe2 (9... Nf3 10. Nxe1 (10. Bxf3+ $2 Qe2+)) 10. Ne3# 1-0  

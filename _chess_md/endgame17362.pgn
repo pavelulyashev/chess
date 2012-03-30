@@ -1,0 +1,10 @@
+[Event "3 Prize, jl02 tp23 {m} @2 {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/R5P1/7k/1R6/1p5K/3p2P1/4q3 w - - 0 1"]
+
+ 1. g7 Qh1+ 2. Kg3 Qe1+ 3. Kh2 Qe5+ (3... Qe8 {main} 4. g8=Q $1 Qxg8 5. Rb5+ (5. Ra5+ $2 Qg5) 5... Kh4 (5... Qg5 6. Rxg5+ Kxg5 7. Ra1 Kf4 8. Kg1 $1) 6. Ra4+ Qg4 7. g3#) 4. Kh3 Qxg7 5. Rb5+ (5. Ra5+ $2 Qg5 6. Rxg5+ Kxg5 7. Rd4 b2) (5. Rh4+ $1 {cook HH} Kg5 6. Rg4+ Kf5 (6... Kh5 7. Rxg7 d1=Q 8. g4+) 7. Rxg7 d1=Q 8. g4+ Kf4 (8... Ke5 9. Re7+ Kf4 10. Rf7+ Ke3 11. Re6+) 9. Rf7+ Ke3 10. Re6+ Kd2 11. Rd7+) 5... Qg5 6. g4# (6. Rxg5+ $2 Kxg5 7. Ra1 Kf4 8. Rb1 Ke4 9. g4 Kd3) 1-0  

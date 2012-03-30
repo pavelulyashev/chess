@@ -1,0 +1,10 @@
+[Event "HM Pat a Mat 2006-2007 {m}"]
+[Site "?"]
+[Date "2008.11.25"]
+[Round "?"]
+[White "Bruch W, Minski M"]
+[Black "*"]
+[Result "*"]
+[FEN "krN1R3/2q5/P1P5/1P6/7B/8/2K5/8 w - - 0 0"]
+
+ 1. Bg3 $1 (1. b6 $5 Qxc6+ $1 2. Kb3 Qb5+ $1 3. Kc3 Qxa6 $19) (1. Kd1 $5 Rxc8 $19) (1. Nb6+ $5 Qxb6 $19) 1... Qxg3 2. b6 $1 (2. Nb6+ $5 Ka7 3. Nc8+ Rxc8 4. Rxc8 Qe5 $19) 2... Qg2+ (2... Qg6+ 3. Kb3 Qxe8 4. b7+ Rxb7+ 5. cxb7+ Kb8 6. a7+ Kxb7 7. Nd6+ $11) 3. Kb3 $1 Qxc6 (3... Qd5+ 4. Kb4 Qxc6 5. b7+ Rxb7+ 6. axb7+ Kxb7 7. Re5 $1 $11) 4. b7+ Rxb7+ 5. axb7+ Qxb7+ ({main} 5... Kxb7 6. Re4 $1 Qxe4 (6... Qxc8 7. Rb4+ $11) 7. Nd6+ $11) 6. Nb6+ Ka7 7. Re7 Qxe7 8. Nc8+ $11 *  

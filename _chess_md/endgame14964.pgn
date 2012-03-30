@@ -1,0 +1,10 @@
+[Event "tt23#179 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K5B/4p1P1/8/8/8/8/2p4k/8 w - - 0 1"]
+
+ 1. g8=Q c1=Q 2. Be5+ Kh1 (2... Kh3 3. Qg3#) 3. Qa2 Qh6 (3... Kg1 4. Qh2+ Kf1 5. Qh1+) (3... Qg1 4. Qd5+ Qg2 5. Qd1+ Qg1 6. Qf3+ Qg2 7. Qh5+ Kg1 8. Bd4+ Kf1 9. Qd1#) 4. Qf2 $1 Qh3 5. Qe2 $1 Qb3+ (5... Kg1 6. Bd4+ Kh1 7. Qe1+ Kg2 8. Qf2+ Kh1 9. Qg1#) (5... Qg2 6. Qd1+ Qg1 7. Qf3+ Qg2 8. Qh5+ Kg1 9. Bd4+ Kf1 10. Qd1# ) (5... e6 6. Kc8) 6. Kc7 Qh3 (6... Kg1 7. Bd4+ Kh1 8. Qf1+ Kh2 9. Be5+) 7. Kd8 e6 8. Kc8 Kg1 (8... Qg2 9. Qd1+ Qg1 10. Qf3+ Qg2 11. Qh5+ Kg1 12. Bd4+ Kf1 13. Qd1#) 9. Bd4+ Kh1 10. Qe1+ Kg2 11. Qf2+ Kh1 12. Qg1# 1-0  

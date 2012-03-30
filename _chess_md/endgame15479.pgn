@@ -1,0 +1,10 @@
+[Event "tf29#00756 @3 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Rossi P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1b6/2B5/8/8/8/7N/2k4n/Kb5N w - - 0 1"]
+
+ 1. Bxh2 $1 (1. Bxb8 $2 Nf3 2. Bf4 (2. N1f2 Nd2) (2. Ba7 Nd2) 2... Nd4) (1. Nf4 $2 Bxc7 2. Nd3 Ba5 $1) (1. N1f2 $2 Bxc7 2. Nd1 Be5+) (1. Bg3 $2 Nf3 2. Bf4 Nd4) 1... Bxh2 (1... Ba7 2. Bg1) 2. Ng3 Bxg3 3. Nf4 Bh4 (3... Bf2 4. Ne2 $1 (4. Ne6 $2 Be3 $1) 4... Be3 5. Nc3) (3... Be1 4. Ne2 $1 (4. Nd5 $2 Kc1 $1) 4... Bf2 ( 4... Bb4 5. Nd4+ Kc1 6. Nb3+) 5. Nc3 $1) 4. Nd5 $1 (4. Nh5 $2 Be1) 4... Be1 $1 (4... Kc1 $1 {cook MC}) 5. Nb4+ (5. Ne3+ $2 Kc1 6. Nd1 (6. Nd5 Bd2 $1) 6... Bb4 (6... Bh4 $2 7. Nc3) 7. Nb2 Bf8) 5... Kc1 (5... Bxb4) 6. Na2+ Kc2 7. Nb4+ Bxb4 1/2-1/2  

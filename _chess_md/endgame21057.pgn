@@ -1,0 +1,10 @@
+[Event "1 hm, Nona 2009 {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "*"]
+[Result "*"]
+[FEN "5r2/1K2B2R/5q2/3B4/k7/8/P7/n7 w - - 0 1"]
+
+ 1. Bc6+ (1. Bxf6 $2 Rxf6 2. Rh1 Nc2 3. Bb3+ Ka3 $11) 1... Ka5 (1... Qxc6+ 2. Kxc6 Rc8+ 3. Kb7 Rg8 4. Rh4+ Ka5 5. Bd6 Rg2 6. Bc7+ Kb5 7. a4+ Kc5 8. a5 Nb3 9. a6 Kb5 10. a7 Nc5+ 11. Kc8 Ra2 12. Bb8 $18 Kc6 13. Rh7 Ne6 14. Be5 $18) 2. Rh5+ (2. Bxf6 $2 Rxf6 3. a3 Rf5 4. Bd7 Rd5 $11) 2... Qf5 3. a3 Rb8+ ({main} 3... Qxh5 4. Bb4# {echo mate}) 4. Kxb8 Qxh5 5. Bd8+ Ka6 6. a4 Qe5+ ({main} 6... Qf7 7. Bb5# {echo mate}) 7. Ka8 Qb2 8. Bf3 {zz and easy win: 8...Qb6 9.Bxb6 (also 9.Be2) etc.  The main moment of this study is final reciprocal zugzwang. One of an echo mate organic is connected with a position, but the second has "helpmate" character.} *  

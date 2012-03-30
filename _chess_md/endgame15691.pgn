@@ -1,0 +1,10 @@
+[Event "tz16#1136 @1 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Sochnev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6bk/4p3/3P2Kn/2p1Nn2/7B/8/8/8 w - - 0 1"]
+
+ 1. Bf6+ $1 (1. d7 Bf7+ 2. Kg5 Kh7 $1 3. d8=Q Nd4 4. Qxe7 Ne6+ 5. Kf6 Ng8+ 6. Kxf7 $1 {cook AG} Nxe7 7. Bxe7 Nd4 (7... Nf4 8. Bg5 Nh5 (8... Nh3 9. Be3) 9. Nd7 c4 10. Nf8+ Kh8 11. Be3) (7... Ng7 8. Bf8 Nh5 (8... Nf5 9. Ng4) 9. Nf3 c4 10. Ng5+ Kh8 11. Bc5) 8. Bf8 Nf5 9. Ng4 c4 10. Nf6+ Kh8 11. Kg6) 1... exf6 2. d7 Bh7+ 3. Kxf6 Ng8+ 4. Ke6 (4. Kf7 $2 Ngh6+ 5. Kf6 Ng8+) 4... Nd4+ 5. Kd6 (5. Kf7 $2 Nh6+ 6. Ke7 Ne6 $1) 5... Nf5+ (5... Nb5+ {main} 6. Kxc5 Nc7 7. Nf7+ Kg7 8. Ng5 $1) 6. Kxc5 $1 (6. Kc7 $2 Nd4 $1 7. Nf7+ Kg7 8. Ng5 $1 Kg6 $1 9. d8=Q Nf6 $1) 6... Ng7 7. Nf7# 1-0  

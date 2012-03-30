@@ -1,0 +1,10 @@
+[Event "t001 {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1P6/K7/1p6/3P4/kp6/3B4 w - - 0 1"]
+
+ 1. Bc2 b3 2. Bxb3+ Kxb3 3. b7 b1=Q 4. b8=R+ Kc2 5. Rxb1 Kxb1 6. d4 1-0  

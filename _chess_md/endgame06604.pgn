@@ -1,0 +1,10 @@
+[Event "tl04#067 {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6p1/k7/3p4/nKN5/3N4/8/8 w - - 0 1"]
+
+ 1. Nce5 1... Nb6 $1 (1... g5 2. Kxa4) (1... Nb2 2. Nxb2 g5 3. Nbd3) 2. Nc5+ Ka7 3. Nc6+ Ka8 4. Kb5 Nc4 (4... Nd7 5. Nxd7 Kb7 6. Nc5+ Kc7 7. Nd4 Kd6 8. Nf5+ Ke5 9. Nxg7 Kf4 10. Kb4) 5. Ka6 Nd6 6. Na4 (6. Nd7 $2 6... Nc4 7. Nc5 (7. Nb4 Ne3) 7... Nd6 8. Na4) 6... Nc4 $1 7. Nc3 Ne3 8. Nb5 1-0  

@@ -1,0 +1,10 @@
+[Event "tn04 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/3pqP2/p3p3/N7/8/P7/KR1P4/8 w - - 0 1"]
+
+ 1. Rb7 Qc5 2. Rc7 $1 (2. Nb3 $2 Qc2+ 3. Ka1 Kxb7 4. f8=Q Qxb3) 2... Qxa5 3. f8=Q# 1-0  

@@ -1,0 +1,10 @@
+[Event "Polasek&Vlasak50JT_2nSpecCommRomantic {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1Q5K/p5P1/P1p3q1/2P3r1/8/p1R4P/P5k1/8 w - - 0 1"]
+
+ 1. Qg3+ $1 {A nice key!} (1. Qf8 Rh5+ 2. Kg8 Qe6+ 3. Qf7 Qc8+ 4. Qf8 Qe6+ $11) (1. Rg3+ $6 Kh1 $1 2. Rxg5 (2. Qb1+ Qxb1 3. Rxg5 Qxa2 4. g8=Q Qxg8+ 5. Kxg8 a2) 2... Qxg7+ 3. Kxg7 {stalemate}) 1... Rxg3 2. Rxg3+ Qxg3 3. g8=R (3. g8=Q $6 Kh1 $5 4. Qxg3 {stalemate, but other lines have to be analyzed} (4. Qc4 Qxh3+ 5. Kg7 Qf3 6. Kg6 Kg1 7. Kg5 Qf8 8. Qg4+ Kh1 9. Qd1+ Kg2 10. Qd6 Qg8+ 11. Kf4 Qc4+ 12. Ke5 Qe2+ 13. Kd4 Qd2+) (4. Qe6 Qh4+ 5. Kg7 Qg5+ 6. Kf7 Qxc5 7. h4 Qh5+ ( 7... Kh2 8. Qe2+ Kg3 9. h5) 8. Ke7 Qxh4+ 9. Kd6 Qb4+ 10. Kxc6 Qb6+ 11. Kd7 Qb2 12. Qd5+ Kg1 13. Kc8 Qb6 14. Qb7 Qe6+ 15. Kb8 Qxa2 16. Qxa7+ Kf1 $11)) 3... Kxh3 4. Rxg3+ Kxg3 5. Kg7 Kf4 6. Kf6 Ke4 7. Ke6 Kd4 8. Kd6 Kc3 9. Kxc6 Kb2 10. Kb5 $1 (10. Kb7 Kxa2 11. c6 Kb3 12. c7 a2 13. c8=Q a1=Q 14. Kxa7 {EGTB draw}) 10... Kxa2 11. c6 Kb1 12. c7 a2 13. c8=Q a1=Q 14. Qf5+ { changes queens, for example} Ka2 15. Qc2+ Ka3 16. Qa4+ 1-0  

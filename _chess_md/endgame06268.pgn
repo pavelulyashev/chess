@@ -1,0 +1,10 @@
+[Event "te13 {c} {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/b2p4/6K1/N2k4/3p3p/q7/8/3Q4 w - - 0 1"]
+
+ 1. Qh5+ 1... Ke6 $1 (1... Ke4 2. Qf5+) 2. Qg4+ (2. Qf5+ Ke7 3. Qf6+ Ke8 4. Kg7 Qg3+) 2... Ke7 $1 (2... Kd5 3. Qf5+) 3. Qxh4+ 3... Ke8 $1 (3... Ke6 4. Qe4+) 4. Nb7 $1 4... Qa6+ (4... Qe7 5. Qh8+ Qf8 6. Qe5+ Qe7 7. Nd6+) (4... Bb6 5. Qe4+ Qe7 (5... Kf8 6. Qf5+) 6. Nd6+ Kd8 7. Qa8+ Kc7 8. Nb5#) 5. Kg7 Qxb7 6. Qh8+ Ke7 7. Qf8+ Ke6 8. Qf6+ Kd5 9. Qf3+ 1-0  

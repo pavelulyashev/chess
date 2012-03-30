@@ -1,0 +1,10 @@
+[Event "ts10#14833 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Horning G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k2KB3/Pp4P1/pP6/Pp6/1P6/8/1P6/5r2 w - - 0 1"]
+
+ 1. g8=Q $1 Rf8 (1... Rg1 {main} 2. Qd5 Rg8 3. Kc7 Rg7+ 4. Kc8 Rd7 5. Qxb7+ Rxb7 6. Bg6 Rc7+ 7. bxc7 Kxa7 8. Kd7) 2. Qc4 bxc4 3. b5 axb5 4. a6 bxa6 5. Ke7 Rxe8+ (5... Rf6 6. Kxf6) 6. Kxe8 1-0  

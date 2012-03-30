@@ -1,0 +1,10 @@
+[Event "tr36 @3 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3kp3/3p4/P2B4/K1N3Np/8 w - - 0 1"]
+
+ 1. Nf4+ exf4 2. Nb4+ (2. Ba6 $2 Kc6 3. Be2 d3 $1) 2... Ke5 3. Nc6+ Kd5 4. Ne7+ Ke5 5. Ng6+ Kd5 (5... Kf6 $1 {cook} 6. Be4 f3 7. Bxf3 Kxg6 8. a4 d3 9. Kb2 Kg5 10. a5 Kf4 11. a6 Kxf3 12. a7 Kf2 13. a8=Q d2 14. Kc2 Kg1 15. Qg8+ Kh1 16. Qd5+ Kg1 17. Qd4+ Kg2 18. Qg4+) 6. Ba6 $1 Kc6 7. Be2 $1 1-0  

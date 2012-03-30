@@ -1,0 +1,10 @@
+[Event "Bull Centr ChClub USSR {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Arestov P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2K3p1/3p2p1/8/2P4n/3k4/R2P2Br/8 w - - 0 1"]
+
+ 1. Bf1+ Kd4 2. c5 dxc5 3. Kd6 Nf5+ 4. Ke6 c4 5. Rc2 c3 (5... Kc5 6. d4+ $18 ({ but} 6. d4+ Nxd4+ $1 $19)) (5... Ke4 6. d3+ $18 ({but} 6. d3+ Kd4 $1 $11)) ( 5... Ne3 6. dxe3+ $18) 6. dxc3+ {Albino} 1-0  

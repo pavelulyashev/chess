@@ -1,0 +1,10 @@
+[Event "th29 {v} {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6nk/2P2p1p/b2P1p1P/5Nr1/4P3/2n1K3/8/8 w - - 0 1"]
+
+ 1. d7 Nxe4 2. c8=Q $1 (2. Kxe4 $2 Rxf5 3. Kxf5 Bc8 $1 4. dxc8=N Ne7+ 5. Nxe7) 2... Bxc8 3. dxc8=Q Rxf5 4. Qxf5 Nd6 5. Qf4 Nxh6 6. Qxf6+ $1 1-0  

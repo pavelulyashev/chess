@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky sach_09_2003_N84_2comm {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Polasek J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5B2/8/8/k3pB2/N1r5/1K6 b - - 0 1"]
+
+1... e2 2. Be7+ (2. Kxc2 $2 e1=N+ $1 $11 (2... e1=Q $2 3. Bb2+ Ka4 4. Bc6+ Ka55. Bc3+ $18)) 2... Kb3 $1 (2... Ka4 3. Bxe2 (3. Bh4)) 3. Bd5+ Ka4 4. Bb4 $1 (4.Bh4 $2 Rd2 5. Bf3 Rd1+ 6. Kb2 Ka5 $11) 4... Rxa2 5. Be1 $1 Ra3 6. Kb2 Rh3 7.Bc6# 1-0

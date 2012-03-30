@@ -1,0 +1,10 @@
+[Event "bs15-177 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p1k1/8/3PKP2/4P3/4B3/2p1b3/8 w - - 0 1"]
+
+ 1. f6+ $1 (1. Ke6 $2 Kf8 2. e5 $4 Ke8) 1... Kf7 (1... exf6+ 2. Ke6 Kf8 (2... Bc4 3. Ke7 f5 4. d6) (2... Kg6 3. d6 Bc4+ (3... Bf3 4. Ke7 $1) 4. Ke7 Bb5 5. Bf4 $1 (5. d7 Bxd7 6. Kxd7 f5 7. e5 f4 8. Bxf4 Kf5) (5. Bc1 f5 6. e5 f4 7. e6 f3) 5... f5 (5... Kh5 6. Kxf6 Kg4 7. Bc1 Kf3 8. e5) (5... Bc6 6. d7 Bxd7 7. Kxd7 Kh5 8. Ke6 Kg4 9. Bc1 Kf3 10. Kf5) 6. e5 Kh5 7. e6 Kg4 8. Bc1 f4 9. d7 f3 10. d8=Q f2 11. Qd4+ Kg3 12. Qe5+ Kg2 13. Qxb5) 3. Kxf6 Bf3 4. Kf5 Ke7 5. Bc5+ Kd7 6. Ba3 Kc7 (6... Bh1 7. Kf4 Bg2 8. Ke3 Bh1 9. Kd4 Bg2 10. e5) 7. Kf4 Bh5 8. e5) 2. fxe7 Ke8 (2... c1=Q 3. e8=Q+ $3) 3. Bc1 $1 Bh5 (3... Bc4 4. Kd4 Bb3 5. Kc5 (5. Kd3 Ba2 6. Kc3) 5... Ba2 6. Kb4) 4. Kd6 (4. Kd4 $2 Kxe7 5. e5 Bf7) 4... Be2 5. Kc5 (5. Kc6 $2 Bd3 6. e5 Bc4) 5... Ba6 (5... Bg4 6. e5 Bh3 7. e6 Bf5 8. Kd4 Bg4 9. Ke5 Bh3 10. Kf4) 6. e5 Bc8 7. e6 Ba6 8. Kd4 (8. d6 $2 Bc8 9. d7+ Bxd7 10. exd7+ Kxd7) 8... Bb7 9. Be3 Ba6 10. Bf4 Bb7 11. Ke5 Bc8 12. Be3 Bb7 ( 12... c1=Q 13. Bxc1 Bb7 14. Kd4 Bc8 15. Kc5) 13. d6 Bc8 14. Kf6 $1 c1=Q 15. d7+ Bxd7 16. exd7+ Kxd7 17. Bxc1 1-0  

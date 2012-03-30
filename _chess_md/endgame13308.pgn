@@ -1,0 +1,10 @@
+[Event "tt22 {m}"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Moller J, Giersing J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6K1/1N6/8/3k1p2/8/8/8 w - - 0 1"]
+
+ 1.Nc8 $1 f3 (1...Ke5 2.Nb6 $3 (2.Ne7 $2 f3 3.Nc6+ Ke4) 2...Kd4 3.Nc8 $3) (1...Kd5 2.Nb6+ Kc5 (2...Kd4 3.Nc8 $3) 3.Nd7+) (1...Kc4 2.Nd6+) (1...Kc5 2.Ne7) (1...Ke3 2.Nb6 f3 3.Nc4+) 2.Nd6 (2.Ne7 $2 Ke4) 2...Ke3 3.Nc4+ $1 (3.Nf5+ $2 Kf4 $1 4.Nd4 f2 5.Ne2+ Kg4) 3...Ke2 (3...Kd3 4.Ne5+) 4.Nd6 $1 f2 5.Ne4 f1=Q 6.Ng3+   1/2-1/2 

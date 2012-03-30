@@ -1,0 +1,10 @@
+[Event "1/3 Prize Kommunist {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K1R1/8/6P1/6P1/8/1p6/1p4Rp/1k5r w - - 0 1"]
+
+ 1. Rh8 Re1+ (1... Ka1 2. Rxb2 Kxb2 3. g7 Ka1 4. g8=Q b2 5. Qg7 Re1+ 6. Kf7 h1=Q 7. Rxh1 Rxh1 8. Qd4) 2. Kd8 $1 (2. Kf8 $2 h1=Q 3. Rxh1 Rxh1 4. g7 Rc1) (2. Kf7 $2 h1=Q 3. Rxh1 Rxh1 4. g7 Rh7 5. Kg6 Rxg7+ 6. Kxg7 Ka1) 2... Rd1+ (2... h1=Q 3. Rxh1 Rxh1 4. g7 Ka1 5. Rxb2 Rh8+ 6. Ke7 (6. gxh8=Q $2)) 3. Kc8 $1 Rc1+ (3... h1=Q 4. Rxh1 Rxh1 5. g7 Rc1+ 6. Kb7 (6. Kb8 {or}) (6. Kd7 $2 Rc2 7. Rg4 (7. Rg3 Ka2) 7... Rd2+ 8. Kc7 Kc2) 6... Rc2 7. Rg4 Ka2 8. Ra4+) 4. Kb8 $1 h1=Q 5. Rxh1 Rxh1 6. g7 (6. Rxb2+ $2 Kxb2 7. g7 Ka1 8. g8=Q b2 9. Qg7 Rh3 10. Qa7+ (10. g6 Ka2 11. Qa7+ Ra3 12. Qf2 Ka1 13. Qd4 Ka2) 10... Kb1 11. g6 (11. Qg1+ Ka2 12. Qg2 Rh8+ 13. Kc7 Ka1) 11... Rh8+ 12. Kc7 Rg8 $1 13. Qa6 Rg7+ 14. Kd8 Kc2 15. Qc4+ Kb1 16. Qf1+ Ka2) 6... Ka1 $1 7. Rxb2 (7. g8=Q $2 b1=Q 8. Qg7+ b2 9. g6 Qa2) 7... Rh8+ (7... Kxb2 8. g8=Q Ka1 9. Qxb3 Rh8+ 10. Kc7 $1 Rc8+ 11. Kd6 Rd8+ (11... Rc6+ 12. Ke5 Rc5+ 13. Qd5) 12. Ke5 Re8+ 13. Qe6) 8. gxh8=R $1 (8. gxh8=Q $2) 1-0  

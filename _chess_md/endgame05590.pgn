@@ -1,0 +1,10 @@
+[Event "tn24 {v} @2 {m}"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Q7/7q/4p3/K1k5/3p1P2/2N1b3/8/8 w - - 0 1"]
+
+ 1. Qc8+ Kd6 2. Ne4+ (2. Qa6+ $1 2... Kc5 3. Qb5+ Kd6 4. Qb6+ Ke7 5. Qb7+) 2... Qxe4 3. Qd8+ Kc5 4. Qb6+ Kc4 5. Qb4+ Kd3 (5... Kd5 6. Qb7+) 6. Qb1+ 1-0  

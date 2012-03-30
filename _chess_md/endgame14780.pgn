@@ -1,0 +1,10 @@
+[Event "td23#1406 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Rubesamen H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/1P6/k4bB1/4qNP1/8/2p5/7N/8 w - - 0 1"]
+
+ 1. Ne7 Bxe7 (1... Qxe7 2. b8=Q) (1... c2 2. Bxc2 Qe2 3. Nd5) (1... Qg3 2. Nc6) 2. b8=N+ (2. b8=Q $2 Qd5+) (2. Bd3+ $2 Ka5 3. b8=Q Qd5+ 4. Qb7 Qd8+ 5. Qb8 Qxd3 6. Qc7+ Kb5 7. Qxe7 c2) 2... Kb5 3. Be8+ Kc4 4. Bf7+ Kd3 5. Bg6+ Ke2 6. Bh5+ Kd3 7. Bg6+ 1/2-1/2  

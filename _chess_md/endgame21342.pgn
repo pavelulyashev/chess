@@ -1,0 +1,10 @@
+[Event "tl03#08 @2 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k3q3/2P5/1K1PP3/2N5/8/8/8/8 w - - 0 1"]
+
+ 1. e7 Qh8 2. Ka6 $1 (2. d7 $2 Qf6+) (2. Ka5 $1 {cook JN} Ka7 (2... Qc3+ 3. Kb5) 3. Kb5) 2... Qe8 3. Ka5 Qh8 4. Kb6 $1 Qg8 5. Kb5 $1 Qh8 6. c8=Q+ Qxc8 7. d7 Qb8+ 8. Kc6 Ka7 9. e8=Q Qxe8 10. dxe8=B $1 1-0  

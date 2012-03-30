@@ -1,0 +1,10 @@
+[Event "Hildebrand JT {m}"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/N1r5/3R4/8/4n2k/8/2n3K1/8 w - - 0 1"]
+
+ 1. Rc6 (1. Re6 $143 Ne3+ 2. Kf3 (2. Kg1 $144 Rc1+ 3. Kh2 Rc2+ 4. Kg1 Rg2+ 5. Kh1 Ng3#) 2... Ng5+ $19) (1. Rh6+ $143 Kg4 $1 (1... Kg5 $143 2. Rc6 $1 $11) 2. Nc6 (2. Rg6+ Kf4 3. Nb5 (3. Nc6 $144 Ne3+ 4. Kh1 Rd7 5. Kh2 Rd2+ 6. Kg1 Ng5 $19 ) 3... Rb7 4. Nd6 Ne3+ 5. Kh2 Rb6) 2... Ne3+ 3. Kg1 Kf4 $1 4. Rh4+ Kf3 $1 5. Rh3+ Ke2 6. Nd4+ Kd3 $19) 1... Rg7+ 2. Kf3 (2. Kf1 $2 Rf7+ 3. Kg1 Nd4) 2... Nd2+ 3. Kf4 (3. Ke2 $143 Rg2+ 4. Kd1 (4. Kd3 $144 Nb4+ $19) 4... Ne3+ 5. Kc1 Ndc4 6. Kb1 Rb2+ 7. Kc1 Ra2 $19) (3. Kf2 $143 Nd4 $1 4. Rh6+ Kg5 5. Ra6 Re7 $1 6. Ra1 (6. Ra3 $144 Re2+ 7. Kg3 Nf1+ 8. Kh3 Rh2#) 6... Re2+ 7. Kg3 Nf5+ 8. Kh3 Nf3 9. Rh1 Kh5 10. Nc6 Ng5#) 3... Rf7+ 4. Ke5 Nb4 $1 5. Rf6 (5. Rb6 $143 Nd3+ 6. Kd4 Rd7+ 7. Kc3 Ne4+ 8. Kc2 Ne1+ $19) 5... Nd3+ (5... Nf3+ $144 6. Ke6 Ng5+ 7. Kf5 Rxa7 8. Rh6+ $11) 6. Kf5 Rxa7 7. Ra6 Rb7 8. Rb6 Rc7 9. Rc6 Rd7 10. Rd6 Rf7+ 11. Rf6 Re7 12. Re6 Rg7 13. Rg6 Ra7 14. Ra6 Rxa6 $11 1/2-1/2  

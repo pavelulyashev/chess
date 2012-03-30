@@ -1,0 +1,10 @@
+[Event "tc40 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Van Tets A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n5/4B1n1/2K1k1P1/8/8/5N2/5N2/8 w - - 0 1"]
+
+ 1. Bf8 Nf5 (1... Ne7+ 2. Bxe7 Kxe7 3. Ng4 Nh5 4. Ng5 Kf8 5. Ne6+ Ke7 6. Kd5) ( 1... Kf6 2. Kb7 Ne7 3. Ng4+ Kf5 4. Nfe5 Nxg6 5. Bxg7 Nxe5 6. Nxe5) 2. g7 Kf7 3. Ng5+ Kg8 4. Ng4 $1 Nxg7 5. Nh6+ Kxf8 6. Kd7 Nb6+ 7. Kd8 Nh5 (7... Nd5 8. Nh7#) 8. Ne6# 1-0  

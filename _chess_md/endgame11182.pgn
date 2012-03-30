@@ -1,0 +1,10 @@
+[Event "td20#0990 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Platov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2B3k1/2P5/6P1/4b2p/7K/7P/8 w - - 0 1"]
+
+ 1. Be5+ Kg6 $1 2. c7 Kh5 $1 3. c8=B $1 (3. c8=Q $2 Bf5+ 4. Qxf5) (3. Bf4 $2 Bb7 4. Be3 Be4 $1 5. c8=B Bf5+ 6. Bxf5) 1-0  

@@ -1,0 +1,10 @@
+[Event "ts20#292 {v} {tw} @1 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p3B2/3p4/1p1P2P1/1K3P2/8/p7/k7 w - - 0 1"]
+
+ 1. Kb3 (1. Ka3 $1 {cook} b4+ 2. Kb3 b6 (2... b5 3. Bg8) 3. Bg8 b5 4. Kc2 b3+ 5. Kxb3 b4 6. Kc2 b3+ 7. Kxb3 Kb1 8. Bh7+) 1... b4 2. Be6 b6 3. Bf7 b5 4. Bg8 Kb1 5. Bh7+ Ka1 6. g6 Kb1 7. g7+ Ka1 8. f5 Kb1 9. g8=Q a1=Q 10. Qg1# 1-0  

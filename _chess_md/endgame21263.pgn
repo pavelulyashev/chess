@@ -1,0 +1,10 @@
+[Event "c.  Zadachy i Etyudy 2008 {m}"]
+[Site "?"]
+[Date "2008.08.11"]
+[Round "?"]
+[White "Jasik A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4nq2/5pp1/3N2p1/6Pk/8/7K/p5PP/1B2B3 w - - 0 1"]
+
+ 1. Bh4 (1. Bd2 $2 f5 2. Be4 f4 3. Bf3+ Kxg5) 1... f5 (1... Nf6 {<main>} 2. Be4 $1 Ng4 3. Bf3 f5 4. Ne4 $1 Qb8 5. Ng3+) 2. Be4 $1 (2. Bd3 $2 Qe7 3. Ne4 Qxe4 4. Bxe4 Nf6 5. gxf6 a1=Q) 2... Nf6 (2... a1=Q 3. Bf3#) 3. Bf3+ Ng4 4. Ne4 $1 Qb8 5. Ng3+ Qxg3+ 6. hxg3 a1=Q 7. Bxg4+ $1 (7. Bd1 $2 Qd4 $1 (7... Qxd1 $2)) 7... fxg4+ 8. Kh2 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "ts25 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/2pp4/7p/1B6/3P4/kP6/8/8 w - - 0 1"]
+
+ 1. Ba4 $1 (1. Bxd7 $2 Kxb3 2. Be6+ Kc3 3. d5 Kd4 4. Kf7 h5) 1... Kb4 (1... h5 2. Kf7 h4 3. Bxd7 Kxb3 4. Ke6 Kc4 5. Ke5) (1... c5 2. d5 c4 3. bxc4 Kxa4 4. c5 Kb5 5. c6 Kb6 6. Kf7 Kc7 7. Ke7 d6 8. Kf6) 2. Kf7 c5 3. d5 c4 4. bxc4 Kxc4 5. Bc6 Kc5 6. Ba8 h5 7. Kf6 h4 8. Ke5 d6+ 9. Kf4 1-0  

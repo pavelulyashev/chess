@@ -1,0 +1,10 @@
+[Event "wf07 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7r/P2p3P/k1P5/3N4/n3p2b/5p2/8/6K1 w - - 0 1"]
+
+ 1. a8=Q+ Rxa8 2. Nc7+ Ka7 3. Nxa8 Bf6 4. cxd7 e3 5. h8=Q $1 (5. d8=Q $2 Bxd8 6. h8=Q e2 7. Qd4+ Nc5 $1 8. Qxc5+ Kxa8 9. Qb4 e1=Q+ 10. Qxe1 f2+ 11. Qxf2 (11. Kxf2 Bh4+) 11... Bb6 12. Qxb6) 5... Bxh8 6. d8=Q e2 7. Qa5+ Kb7 8. Qb4+ Kc8 9. Nb6+ Kd8 10. Kf2 Bc3 11. Qf8+ Kc7 12. Nd5+ Kd7 13. Nxc3 Nxc3 14. Qg7+ 1-0   

@@ -1,0 +1,10 @@
+[Event "te15#0859 @2 {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4pb2/1P6/k7/5n1B/5N2/q4P2/5Q1K w - - 0 1"]
+
+ 1. b7 (1. Qe1+ $2 Ka6 2. Qxe7 Qd5 3. Qa3+ Kb5 4. Be7 Nd3 $1 (4... Qh5+ $2 5. Nh4 Bd5+ 6. Kh2 Kxb6 7. Qb4+) 5. Kg2 Kxb6) (1. Qc1 $2 Ne2 $1 (1... e5 $2 2. b7) (1... Nd3 $2 2. Qc3+) 2. Qc5+ Ka6) 1... Qb2 2. b8=Q (2. Qe1+ $1 {cook} Ka6 3. Qxe7 Qxb7 (3... Bd5 4. Qd6+ Kxb7 5. Qxf4) (3... Qb1+ 4. Kh2 Bd5 5. Qd6+ Kxb7 6. Qxf4) 4. Qd6+ Ka7 5. Qxf4 Bd5 6. Kg2) 2... Qxb8 3. Qa1+ Kb6 (3... Kb4 $2 4. Bxe7+ Kc4 5. Qa2+) 4. Qb2+ Kc7 (4... Ka7 5. Qa3+ Kb6 6. Qb4+ Ka7 7. Qxe7+ Qb7 8. Qe3+) 5. Qe5+ (5. Qxb8+ $2 Kxb8 6. Bg3 e5 $1 7. Nxe5 Bd5+) 5... Kc8 (5... Kb7 $2 6. Qxe7+ Qc7 7. Qxc7+ Kxc7 8. Bg3) 6. Qf5+ Be6 7. Qf8+ Kb7 8. Qxb8+ Kxb8 9. Bg3 1-0  

@@ -1,0 +1,10 @@
+[Event "Erevan Ty {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Bondarenko F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k7/PN6/8/8/7p/1r5p/4KQ1b w - - 0 1"]
+
+ 1. Nc8+ Ka8 2. Qxh1+ Rg2 3. a7 $1 {mutual zugzwang} (3. Kd1 $2 Kb8 4. a7+ Kb7 $1 {mutual zugzwang} 5. Kc1 Ka8 6. Kb1 Kb7 7. Ka1 Ka8 {mutual zugzwang}) 3... Kb7 4. Kd1 Ka8 5. Kc1 Kb7 6. Kb1 Ka8 7. Ka1 $1 {mutual zugzwang} Kb7 8. Qb1+ { pseudo-Bristol} 1-0  

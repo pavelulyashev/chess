@@ -1,0 +1,10 @@
+[Event "ts04#5481 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Evreinov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3pp3/3p1p2/3P1P2/1pP1P3/1P3k2/7K/8 w - - 0 1"]
+
+ 1. e5 Ke4 $1 (1... fxe5 2. c5 e4 (2... dxc5 3. d6 exd6 4. f6) 3. cxd6 e3 (3... exd6 4. f6 e3 5. f7 e2 6. f8=Q+) 4. dxe7 e2 5. e8=Q) (1... dxe5 2. c5 e4 3. Kg1 Ke2 4. c6 e3 5. cxd7 Kd2 6. d8=Q e2 7. Qxe7) 2. c5 $1 Kxd5 $1 (2... dxc5 3. d6 exd6 4. exf6) (2... Kxf5 3. e6 $1 dxe6 4. c6) (2... Kxe5 3. c6) 3. cxd6 e6 $1 4. exf6 Kxd6 5. Kg3 exf5 6. Kf4 Ke6 7. Kg5 Kf7 8. Kxf5 Ke8 (8... d6 9. Kg5 Kg8 10. Kf4 Kf8 11. Ke4 Ke8 12. Kd5) 9. Ke5 Kf7 10. Kd6 Kxf6 11. Kxd7 Ke5 12. Kc6 Kd4 13. Kb5 Kc3 14. Ka4 1-0  

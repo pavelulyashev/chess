@@ -1,0 +1,10 @@
+[Event "td20#1566 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Herland S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b7/K1p5/p1p5/2N3pP/8/8/rk1B4/8 w - - 0 1"]
+
+ 1. h6 Ra3 (1... Ra1 2. Bc1+ Rxc1 (2... Kxc1 3. Nb3+) (2... Ka2 3. Nd3 c5 4. Kxa8) 3. Nd3+) 2. Bc3+ Kxc3 (2... Rxc3 3. Na4+) (2... Kc2 3. Ne4 c5 4. Kxa8) 3. h7 Kc4 4. h8=Q Kxc5 5. Qf8+ 1-0  

@@ -1,0 +1,10 @@
+[Event "3rd H M {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n3K3/P7/8/8/4k3/8/7b/6R1 w - - 0 1"]
+
+ 1. Rg8 Bc7 $1 (1... Ke5 $2 2. Kd7 Kd5 3. Rxa8 Bg1) (1... Kd5 $2 2. Ke7 Nb6 ( 2... Bd6+ 3. Kf7 Nb6 4. Rb8 Na8 5. Rxa8 Bc5) 3. Rb8 Na8 (3... Bd6+ 4. Kd8 Na8 5. Rxa8 Bc5 6. Kc7) 4. Rxa8 Bg1 $18) (1... Nb6 $2 2. Ke7 Ke5 (2... Kd5 3. Rb8 Bd6+ 4. Kd8 Na8 5. Rxa8 Bc5 6. Kc7) (2... Bc7 3. Ke6 Ke3 (3... Bf4 4. Rb8 Na8 5. Rxa8 Be3 6. Kd6 Kd4) 4. Rb8 Na8 5. Rxa8 Bb6 6. Kd6 Kd4) (2... Be5 3. Ke6 Bc7 4. Rb8 Na8 5. Rxa8 Bb6 6. Kd6 Kd4) 3. Rb8 Na8 4. Rxa8 Bg1 5. Kd7 Kd5 6. Kc7 Kc4 $18) (1... Nc7+ $2 2. Kd7 Kd5 (2... Kd3 3. Rc8 Na8 4. Rxa8 Bg1 5. Kc6 $18) ( 2... Kd4 $2 3. Rc8 Nd5 4. Rc6 $18) 3. Rc8 Na8 4. Rxa8 Bg1 5. Kc7 $18) 2. Kd7 Bb6 3. Re8+ (3. Rxa8 $2 Kd5 4. Ke7 Ke5 5. Kd7 Kd5 6. Kc8 Kc6 7. Kb8 Bc7+ 8. Kc8 Bb6 $11) (3. Kc6 $2 Bxa7 $11) 3... Kd4 $1 (3... Kd5 $2 4. Rxa8 $18) (3... Kd3 $2 4. Rxa8 Kd2 5. Kc6 $18) 4. Kc6 (4. Rxa8 $2 Kd5 $11) 4... Bxa7 (4... Kc4 $2 5. Rxa8 Bc5 6. Kb7 $18) 5. Rxa8 Bc5 6. Ra4+ 1-0  

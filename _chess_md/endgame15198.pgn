@@ -1,0 +1,10 @@
+[Event "1 Commendation te01#022 @2 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Van der Marel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P4r/8/5N2/1p6/p1b4B/k3K2R w K - 0 1"]
+
+ 1. Nd3 b2 (1... Bxd3 2. Kd2+ Kb2 3. Be5+ Ka3 4. Rxh6 b2 5. c7 a1=Q 6. c8=Q) ( 1... Rxh2 2. O-O+ Bb1 3. Kxh2 b2 4. Ne1 $1 Bd3 5. Nc2#) (1... Re6+ 2. Be5+ Rxe5+ 3. Kd2+ Bb1 4. Nxe5 b2 5. Rc1 $1 bxc1=Q+ 6. Kxc1) 2. Kd2+ (2. Ke2+ $2 Bb1 3. Be5 Re6) (2. O-O+ $2 Bb1 3. Be5 Rh1+ 4. Kxh1) 2... b1=N+ (2... Bd1 3. Nxb2 Rxh2+ 4. Rxh2 Kxb2 5. Kxd1+ Ka3 6. Rxa2+ Kxa2 7. c7) (2... Bb1 3. Be5 Rxc6 4. Bxb2#) 3. Kxc2 Rxc6+ 4. Kd1 (4. Kb3 $2 Rc3+ 5. Kb4 Rb3+ 6. Kc5 Rc3+ 7. Kb5 (7. Kd4 Rc4+ 8. Ke3 Re4+ 9. Kf2 Re2+ 10. Kf1 Re3 11. Be5+ Rxe5 12. Nxe5 Kb2) 7... Rb3+ 8. Nb4 Kb2 9. Be5+ Ka3) 4... Nc3+ 5. Kd2+ Nb1+ 6. Ke1 (6. Ke2 $1 {cook HH} ) 6... Re6+ 7. Kd1 Re3 (7... Re4 8. Bd6 Re6 9. Bf4 Re2 10. Bg5) 8. Kc1 $1 Rxd3 9. Be5+ Rc3+ 10. Bxc3+ Nxc3 11. Kc2+ Nb1 12. Rh2 Nd2 (12... Na3+ 13. Kb3 Nb1 14. Rxa2#) 13. Rf2 Nb1 14. Kb3 Nc3 15. Kxc3 (15. Rh2 $1 {cook MC}) 15... Kb1 16. Rf1# 1-0  

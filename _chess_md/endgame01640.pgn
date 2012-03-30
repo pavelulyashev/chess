@@ -1,0 +1,10 @@
+[Event "2 Prize Shakhmaty v SSSR#540 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P5/1Pr5/8/8/N7/k2K4 w - - 0 1"]
+
+ 1. Nc1 Rxb5 (1... Rd5+ $144 {main} 2. Kc2 (2. Nd3 $143 Rxd3+ 3. Kc2 Rd5 $11) 2... Rc5+ (2... Rxb5 $144 3. Nb3+ Ka2 4. c7 $18) 3. Kd3 (3. Kd2 $143 Rxb5 4. c7 Rb2+ 5. Kd1 Rc2 6. Kxc2 $11) 3... Rxb5 (3... Kb2 $144 4. Kd4 $1 Rxc1 5. Kd5 $1 $18) 4. c7 Rb8 5. cxb8=B $1 $18 (5. cxb8=Q $143 $11)) 2. c7 Rd5+ 3. Nd3 $1 Rxd3+ 4. Kc2 Rd4 5. c8=R $1 (5. c8=Q $143 Rc4+ 6. Qxc4 $11) 5... Ra4 6. Kb3 $18 1-0  

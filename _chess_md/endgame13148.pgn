@@ -1,0 +1,10 @@
+[Event "td20#0844 {c} {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Berger J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K1k/R7/8/8/p7/1b6/p2n2N1/8 w - - 0 1"]
+
+ 1. Nh4 Bc2 (1... a1=Q 2. Ng6#) 2. Ra5 Bd1 (2... a1=Q 3. Rh5+ Bh7 4. Ng6#) (2... Bg6 3. Nxg6+ Kh7 4. Nf4 a1=Q 5. Rh5#) 3. Ra6 Kh7 (3... a1=Q 4. Rh6#) 4. Nf5 a1=Q 5. Rh6# 1-0  

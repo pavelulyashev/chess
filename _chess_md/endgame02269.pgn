@@ -1,0 +1,10 @@
+[Event "Problem {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6B1/4r3/8/8/2rB1K2/p4n1b/2p3k1/1n3R1R w - - 0 1"]
+
+ {?} 1. Rhg1+ Kh2 2. Rh1+ Kg2 3. Rhg1+ Nxg1 4. Rf2+ Kh1 5. Bd5+ Nf3 6. Bxf3+ Bg2 7. Bxg2+ Kg1 8. Kg3 Rg7+ 9. Kh3 Rxg2 (9... Rh7+ 10. Kg3 Rg7+ 11. Kh3 { positional draw - perpetual threat of mate}) 10. Rf4+ Rf2 11. Bxf2+ Kf1 12. Rxc4 a2 13. Bd4 Nc3 $1 {Nowotny} 14. Rxc3 a1=Q 15. Rf3+ Ke2 16. Rf2+ $1 (16. Re3+ $2 Kd2 $1 (16... Kd1 $2 17. Bxa1 c1=Q 18. Rg3 $1 $11) 17. Bxa1 c1=Q $19) 16... Ke1 17. Bxa1 1/2-1/2  

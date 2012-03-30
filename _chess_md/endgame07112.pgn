@@ -1,0 +1,10 @@
+[Event "bb05 {te} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Botvinnik M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/1R6/2r5/5PKP/8/8/8/8 w - - 0 1"]
+
+ 1. h6 Rc1 2. f6 Rg1+ 3. Kf5 Rf1+ 4. Ke6 Re1+ 5. Kd6 Rd1+ (5... Rf1 6. Rb8+ Kh7 7. Ke7 Re1+ 8. Kf8) (5... Rh1 6. Rb8+ Kf7 7. h7) 6. Ke7 Re1+ 7. Kd8 Rf1 (7... Kf8 8. h7 Re8+ 9. Kc7) 8. h7+ Kh8 9. Ke7 (9. f7 $2 Rxf7 10. Rxf7) 9... Re1+ 10. Kf7 (10. Kf8 $2 Re8+ 11. Kf7 Rf8+ 12. Kxf8) 10... Ra1 (10... Re8 11. Kg6) 11. Rb8+ 1-0  

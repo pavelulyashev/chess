@@ -1,0 +1,10 @@
+[Event "tp30#1074 @2 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r6/1k6/2R5/1q6/5Q2/8/8/3K4 w - - 0 1"]
+
+ 1. Rc7+ (1. Qc7+ $2 Ka8) 1... Ka8 (1... Kb6 2. Qd6+ Ka5 3. Ra7+) (1... Ka6 2. Qd6+ Rb6 3. Qa3+ Qa5 4. Ra7+) 2. Qe4+ (2. Qf3+ $1 {cook} Rb7 3. Rc8+ Ka7 4. Qa3+ Kb6 5. Qe3+ $1 (5. Qd6+ Ka7 6. Qd4+) 5... Ka5 6. Rc5) 2... Rb7 3. Rc8+ Ka7 4. Qd4+ Rb6 5. Rc7+ Ka8 (5... Ka6 6. Qa1+ Qa5 7. Ra7+) 6. Qh8+ $1 Rb8 7. Qa1+ 1-0  

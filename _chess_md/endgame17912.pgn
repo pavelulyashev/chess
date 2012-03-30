@@ -1,0 +1,10 @@
+[Event "ts70#1329 @2? {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4b3/1B3N2/8/2p5/8/8/2K5/3Nk3 w - - 0 1"]
+
+ 1. Ne5 Ba4+ 2. Kc1 Bxd1 3. Nd3+ Ke2 4. Nxc5 $1 (4. Ba6 $2 c4 5. Bxc4 Bb3 $1) ( 4. Nf4+ $1 {cook} Ke1 (4... Ke3 5. Nd5+ Ke2 6. Nc3+) 5. Nd3+ (5. Ba6 $2 Kf2) 5... Ke2 6. Nxc5) 4... Ke1 5. Nd3+ Ke2 6. Ba6 Ba4 7. Nc5+ 1-0  

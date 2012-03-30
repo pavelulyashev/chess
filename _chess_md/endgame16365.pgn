@@ -1,0 +1,10 @@
+[Event "ts69#157 {c} @3 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R7/pK6/8/pb6/8/8/4P3/k7 w - - 0 1"]
+
+ 1. e4 $1 (1. e3 $2 a4 $1 2. Rxa7 Ka2 3. Kb6 Be8 4. Ra8 Bd7 5. Rd8 Bf5 6. Kb5 a3 7. Kb4 Kb2 8. Rd2+ Bc2 9. Rxc2+ Kxc2 10. Kxa3 Kd3) 1... Bd3 $1 (1... a6 $1 { cook}) (1... a4 2. Rxa7 Be8 3. Ra8 Bd7 4. Kc7 Bb5 5. Kb6 Bd7 6. Kc5 Ka2 (6... Kb2 7. Kd6) 7. Rd8 Bg4 8. Kb4) 2. e5 $1 Be4+ 3. Kb8 $1 Bxa8 4. Kxa8 a4 5. e6 a3 6. e7 a2 7. e8=Q a5 $1 (7... Kb2 8. Qe2+ Kb1 9. Qe1+ Kb2 10. Qb4+ Kc2 11. Qa3 Kb1 12. Qb3+ Ka1 13. Qc2 a5 14. Qc1#) 8. Qb8 $1 a4 9. Ka7 $1 a3 10. Kb6 $1 Kb2 11. Kc5+ 1-0  

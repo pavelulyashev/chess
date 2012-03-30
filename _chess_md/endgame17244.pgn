@@ -1,0 +1,10 @@
+[Event "t001 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3P3K/4k3/6B1/2q5/5B2/7R w - - 0 1"]
+
+ 1. Rd1 $1 (1. d7 $2 Qc6+ 2. Kh5 Qd5 $1 3. Re1+ (3. d8=Q Kf4+ 4. Qxd5) (3. d8=R $1 Qxh1+) 3... Kf4+ 4. Kg6 Kxg4 5. Re7 Qd6+ 6. Kf7 Kf5 7. Ke8 Qg6+ 8. Kd8 Qg8+ 9. Re8 Qb3) 1... Kf4 2. Rd4+ $1 Ke5 3. Kg7 $1 Qc7+ $1 4. d7 Qd8 5. Bh4 $1 Qxh4 6. d8=B $1 Qf2 7. Bc7+ Kxd4 8. Bb6+ 1-0  

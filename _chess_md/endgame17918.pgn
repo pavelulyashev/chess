@@ -1,0 +1,10 @@
+[Event "ts70#1335 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3R4/8/7p/8/1K4b1/6p1/kP6/8 w - - 0 1"]
+
+ 1. Rd3 $1 (1. Rd2 $2 h5 2. Kc4 h4 3. b4+ Kb1 4. b5 h3 5. b6 Bf3 $1 6. Rd5 Bxd5+ 7. Kxd5 h2) (1. Rg8 $2 h5 2. Kc3 Kb1 $1 (2... g2 $2 3. Kc2 Bf5+ 4. Kc3 Bg4 5. Kc2) 3. Re8 h4 4. Re1+ Ka2 5. Rg1 h3) 1... g2 2. Rg3 Bf3 3. Kc3 h5 4. Kc2 Be4+ (4... h4 $2 5. Rxf3 g1=Q 6. Ra3#) 5. Kc1 1/2-1/2  

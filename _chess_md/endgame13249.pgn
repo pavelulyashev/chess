@@ -1,0 +1,10 @@
+[Event "tn10 @2 {m}"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "?"]
+[White "Iversen J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k1K/5q2/5P2/8/8/7n/p7/7Q w - - 0 1"]
+
+ 1. Qa8+ Qe8 2. Qd5 Qh5+ 3. Qxh5 a1=Q 4. Qg6 $1 (4. Qh6+ $1 {cook MC} Kf7 (4... Ke8 5. Qg7 Kd8 6. f7) 5. Qg7+ Ke6 6. f7) 4... Qa2 5. Qg7+ (5. Qh7 $1 {cook MC}) 5... Ke8 6. Qe7# 1-0  

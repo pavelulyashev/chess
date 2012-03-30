@@ -1,0 +1,10 @@
+[Event "Rigaer Tageblatt {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/4p1p1/8/3P3P/1p6/5PPr/1P2N3/6K1 w - - 0 1"]
+
+ 1. Nf4 (1. Kg2 $2 Rxh5 $11) 1... Rxg3+ 2. Kf2 Rg5 3. Ne6 Re5 (3... Rxd5 4. Nc7+ $18) (3... Rxh5 4. Nxg7+ $18) 4. f4 Re4 5. b3 Kd7 (5... Kf7 6. Ng5+) 6. Nc5+ 1-0  

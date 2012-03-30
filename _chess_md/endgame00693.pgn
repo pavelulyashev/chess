@@ -1,0 +1,10 @@
+[Event "1 Prize Hildebrand JT Springaren {v} {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3K2kP/p3R3/6p1/8/4p2P/2p5/2Rb3r w - - 0 1"]
+
+ 1. Re7+ (1. h8=Q+ $143 Kxh8 2. Rxe3 Bg4+ 3. hxg4 Rd1+ 4. Ke7 Rxc1 5. Rf3 Re1+ 6. Kf7 Rh1 7. Ke7 Rh7+ $19) 1... Kh8 2. Re8+ Kxh7 3. Rxe3 Bg4+ (3... g4 $144 4. Re7+ Kg6 5. Re6+ Kg5 6. hxg4 $11) 4. hxg4 Rd1+ (4... Rxc1 $144 5. Re7+ Kg6 6. Re6+ Kf7 7. Re7+ Kf8 8. Re8+ Kf7 9. Re7+ Kf6 10. Re6+ $11) 5. Ke7 Rxc1 6. Rf3 Re1+ 7. Kf7 Rh1 (7... Re6 $144 8. Rc3 $11) (7... Re7+ $144 8. Kxe7 c1=Q 9. Rf7+ $11) 8. Ke7 $11 1/2-1/2  

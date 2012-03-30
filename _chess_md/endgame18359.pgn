@@ -1,0 +1,10 @@
+[Event "us37 {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/8/4K2p/2B3rB/2R5/R5b1/6br/8 w - - 0 1"]
+
+ 1. Bd4+ Be5 $1 2. Bxe5+ Rxe5+ $1 3. Kf6 $1 Rf5+ $1 (3... Bb7 4. Ra8+ Bxa8 5. Rc8+ Kh7 6. Bg6#) (3... Re6+ 4. Kxe6 Rxh5 5. Rc8+ Kg7 6. Ra7+ Kg6 7. Rg8#) 4. Kxf5 Rxh5+ 5. Kg6 Rg5+ 6. Kxh6 Rg7 (6... Rg8 7. Ra7 Rd8 8. Rh7+) (6... Bd5 7. Rc5 Rf5 8. Ra8+ Bg8 9. Rxg8+ Kxg8 10. Rxf5) 7. Ra7 $1 Bd5 8. Rc8+ Bg8 9. Rxg8+ Rxg8 10. Rh7# 1-0  

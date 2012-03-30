@@ -1,0 +1,10 @@
+[Event "The Chess Amateur {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Pepler C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7N/8/8/8/1pB5/1K6/p7/k7 w - - 0 1"]
+
+ 1. Bg8 $1 {Indian} (1. Ng6 $2 Kb1 2. Bd3+ Ka1 3. Ne5 {stalemate}) 1... Kb1 2. Bh7+ Ka1 3. Ng6 $1 1-0  

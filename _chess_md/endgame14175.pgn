@@ -1,0 +1,10 @@
+[Event "5 Prize mt01 tb25 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/1p5P/1PP1rb1P/2K2N2/6pp/1P6/P3P3/2n5 w - - 0 1"]
+
+ 1. c7 Rc6+ (1... Re8 2. Ng7 Rc8 3. Kd6 g3 (3... h3 4. Kd7 h2 5. Kxc8 h1=Q 6. h8=Q Qd5 7. Qd8 $1) 4. Kd7 g2 5. Kxc8 g1=Q 6. Kd7 Qd4+ 7. Ke8 Qg4 (7... Qe5+ 8. Kf7 Qe7+ 9. Kg8 Qd7 10. h8=Q) 8. h8=Q $1 Qc8+ 9. Kf7 Qxh8 10. Ne8 Qh7+ 11. Ng7 Qc2 12. h7 Bxg7 13. Kxg7) 2. Kb5 $1 (2. Kd5 $2 Nxe2 3. Ng7 Nc3#) (2. Kb4 $2 Nxe2 3. Ng7 Be7+ 4. Ka5 Rc5+ 5. Ka4 Nc3+ 6. Ka3 Rxc7+) 2... Bh8 (2... Nxe2 $2 3. Ng7 Nc3+ 4. Ka5 $1 Rc5+ 5. Kb4) 3. Ne7 Rc2 4. Ng6 Bf6 $1 (4... Bd4 $2 5. e4 $1 Rc5+ 6. Ka4 Bc3 7. b4) 5. Nf4 $1 (5. Nxh4 $2 g3) (5. h8=Q+ $2 Bxh8 6. Nxh8 h3 7. h7 h2 8. Ng6 h1=Q 9. h8=Q+ Qxh8 10. Nxh8 g3) (5. Nf8 $2 Nxe2 6. Ne6 Nd4+) 5... Rc6 (5... h3 6. Ne6 Bh8 7. Nc5) (5... Nxe2 6. Nxe2 g3 7. Ng1) 6. Ne6 $1 ( 6. Nd5 $2 Bd4 $1 7. e3 Rc5+ 8. Ka4 Bh8 9. b4 Rc4 $1 10. Ka5 (10. Kb5 Rc2) 10... g3 11. b5 g2 12. Nb4 g1=Q) 6... Bh8 7. Nd8 Rc2 8. Nf7 $1 (8. Ne6 $2 Nxe2 9. Nc5 Nd4+ 10. Kb4 Nc6+ 11. Kb5 Ne7) 8... Bf6 9. Nd6 Rc6 10. Nf5 $1 (10. Nc4 $2 Nxe2 11. Na5 Nc3+ 12. Kb4 Be7#) 10... Bh8 11. Ne7 Rc2 12. Ng6 Bf6 13. Nf4 $1 Rc6 14. Ne6 Bh8 15. Nd8 Rc2 16. Nf7 Bf6 17. Nd6 Rc6 18. Nf5 1/2-1/2  

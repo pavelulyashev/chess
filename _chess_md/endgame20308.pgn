@@ -1,0 +1,10 @@
+[Event "tl51 {m}"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/Pp6/6p1/1P6/8/8/5p2/5K1N w - - 0 1"]
+
+ 1. b6 g5 2. Ng3 $1 g4 3. Ke2 $1 f1=Q+ 4. Nxf1 g3 5. Ne3 g2 6. Nd5 g1=Q 7. Nc7# 1-0  

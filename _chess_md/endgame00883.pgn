@@ -1,0 +1,10 @@
+[Event "Hlinka JT_50_4thComm {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Markov E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/1k1Kp3/1pR5/8/b5N1 w - - 0 1"]
+
+ 1. Ne2 (1. Kxe4 b2) 1... b2 $1 (1... Bxc3+ 2. Nxc3) 2. Rc4+ Ka3 3. Rc3+ $1 (3. Ra4+ $2 Kb3 $1 4. Kc5 Kxa4 5. Nc3+ Kb3 6. Nb1 e3 $19) 3... Kb4 4. Rc4+ Ka5 $1 5. Ra4+ $1 (5. Rc5+ $2 Kb6) 5... Kxa4 6. Nc3+ Kb3 7. Nb1 Ka2 8. Nc3+ Kb3 9. Nb1 Kc2 10. Na3+ Kb3 11. Nb1 1/2-1/2  

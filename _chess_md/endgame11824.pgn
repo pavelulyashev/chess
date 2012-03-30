@@ -1,0 +1,10 @@
+[Event "bg03#03 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Van der Ende J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r6B/3P3P/4b3/1pp4p/kb4nP/7R/P7/1K1N4 w - - 0 1"]
+
+ 1. Ba1 $1 (1. Kc1 $2 Rxh8 2. Rd3 Bxd7 $1 (2... Ba5 $2 3. Nb2+ Kb4 4. a3#) 3. Rxd7 Ka5) (1. Rd3 $2 Bf5) (1. Bg7 $2 Bf5+ 2. Ka1 Bxh7 3. Rf3 Rd8 $1) (1. Nc3+ $2 Ka5 (1... Bxc3 $2 2. Bxc3 Bf5+ 3. Ka1 Bxh7 4. Ba5 $3)) (1. Nb2+ $2 Ka5 2. Ra3+ Bxa3 3. Bc3+ Bb4 4. h8=Q Rxh8 5. Bxh8 Bxd7) 1... Bf5+ $1 2. Kc1 $1 Bxh7 ( 2... Ba3+ 3. Nb2+ Bxb2+ 4. Bxb2) 3. Nb2+ Ka5 4. Ra3+ $1 Bxa3 5. d8=Q+ Rxd8 1/2-1/2  

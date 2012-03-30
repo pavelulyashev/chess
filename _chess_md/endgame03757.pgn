@@ -1,0 +1,10 @@
+[Event "tr11#0329 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3knr1B/8/6P1/4P3/4rP2/1b6/5R1K/b2B4 w - - 0 1"]
+
+ 1. g7 Nxg7 2. Bxg7 Rf7 3. Bf6+ 3... Rxf6 $1 4. exf6 Bxd1 5. Rd2+ $1 (5. Ra2 $2 5... Bxf6 6. Rd2+ Rd4) 5... Rd4 6. Ra2 Ra4 (6... Bc3 7. Ra8+ Kd7 8. f7 Rxf4 9. f8=Q) 7. Rd2+ Rd4 8. Ra2 1/2-1/2  

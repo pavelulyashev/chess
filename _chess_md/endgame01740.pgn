@@ -1,0 +1,10 @@
+[Event "Macek_90 [5th hm] {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Gonzales L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2K3p1/2p5/1P3Pn1/3p4/3k4/1n3B2/8 w - - 0 1"]
+
+ 1. b6 Na4 (1... Ne4 2. b7 Nc5 3. Kxc6 Nxb7 4. Kd5 Nc4 5. Bxd4 Ne3+ 6. Bxe3 Kxe3 7. f6 gxf6 8. Ke6) 2. b7 (2. Kxc6 Nxb6 3. Kxb6 Ke4) 2... Nc5 3. Kxc6 (3. b8=N Nf3 4. Nxc6 Ne4 5. Bxd4 Nxd4 6. Ne5+ (6. Nd8 Ng5 7. Kd6 Ke4) 6... Ke3 7. f6 Nxf6) 3... Nxb7 (3... Na6 4. Kb6 Ne4 5. Kxa6 Nc5+ 6. Kb6 Nxb7 7. Kxb7 Ke4 8. Kc6 d3 9. Be1 Kxf5 10. Kd5 $11) 4. Kd5 (4. Kxb7 Ke4) 4... Nf3 5. f6 (5. Bxd4 Nxd4 6. f6 g5 7. f7 Ne6 8. Kxe6 Nd8+) 5... gxf6 6. Bxd4 Nxd4 {pat} (6... f5 7. Bb6 Nd2 8. Ke5 Nd6 9. Kxd6 Nc4+ (9... f4 10. Ke5 f3 11. Kf4 Ke2 12. Ba7 $11) 10. Ke6 $11 f4) 1/2-1/2  

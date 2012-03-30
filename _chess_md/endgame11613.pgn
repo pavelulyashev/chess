@@ -1,0 +1,10 @@
+[Event "1 Prize ts31#3835 @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Umnov G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1BK4/p5p1/3n4/1p1N2PP/1PP3p1/8/p7/8 w - - 0 1"]
+
+ 1. Nc7+ (1. c5 $2 Nxc8 2. Kxc8 a6) 1... Kb8 2. Na6+ Ka8 3. Be6 a1=Q (3... Kb7 4. Nc5+ Kb6 (4... Kc6 5. Bd5+ Kb6 6. Nd7+ Ka6 7. Nb8+ Kb6 8. c5#) (4... Kb8 5. Nd7+ Ka8 6. Bd5+ Nb7+ 7. Kc7 a6 8. Bxb7+ Ka7 9. Nb8 a1=Q 10. Nc6#) 5. Nd7+ Kb7 6. Bd5+ Ka6 7. Nb8+ Kb6 8. c5#) (3... Nb7+ 4. Kc8 Nd6+ 5. Kc7 Ne8+ 6. Kd8) 4. Bd5+ Nb7+ 5. Kc8 Qxa6 6. c5 g3 7. h6 (7. Kc7 $1 {cook MP} g2 8. Bxg2) 7... gxh6 8. gxh6 g2 9. h7 g1=Q 10. h8=Q Qg3 11. Kd7+ Qb8 12. Qc8 1-0  

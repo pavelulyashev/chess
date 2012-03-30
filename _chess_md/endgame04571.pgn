@@ -1,0 +1,10 @@
+[Event "tg12 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/5p2/5N2/pppp4/kp2pK2/bn6 w - - 0 1"]
+
+ 1. Nd5 e1=Q+ 2. Kxe1 d2+ 3. Ke2 d1=Q+ 4. Kxd1 c2+ 5. Ke2 c1=N+ 6. Kf2 Nd3+ 7. Ke3 f4+ 8. Kxd3 f3 (8... Nc3 9. Nxc3#) 9. Nb4# 1-0  

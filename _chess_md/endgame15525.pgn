@@ -1,0 +1,10 @@
+[Event "tq02#351 {c} (@2) {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k5/3pPR2/2P5/8/4N3/b1q5/6pK/1B6 b - - 0 1"]
+
+ 1... Qh8+ 2. Kxg2 Qg8+ 3. Kh1 $1 Qxf7 4. cxd7+ Kxd7 5. e8=Q+ (5. e8=B+ $1 { minor dual MC/AE}) 5... Kxe8 (5... Qxe8 6. Nf6+) 6. Nd6+ $1 Bxd6 7. Bg6 Qxg6 1/2-1/2  

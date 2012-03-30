@@ -1,0 +1,10 @@
+[Event "EG (masked pieces) {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b5/1p1p1p1p/BP3P1k/p3PKpP/4Pp1p/8/P5PP/8 w - g6 0 1"]
+
+ 1. hxg6 hxg6+ 2. Kxf4 bxa6 3. Ke3 $1 (3. e6 $2 dxe6 4. Ke5 Bb7 5. Kd6 g5 6. e5 Bxg2 {wins.}) 3... Kg5 4. Kd4 Bb7 5. Kc5 Kf4 6. Kd6 ({also posiible first} 6. e6 $1 dxe6 7. Kd6 {wins}) 6... Kxe4 7. e6 $1 (7. Ke7 $2 Kxe5 8. Kxf7 Kd6 9. Kxg6 Bd5 10. f7 Bxf7+ {draws}) 7... dxe6 8. Ke7 {wins.} 1-0  

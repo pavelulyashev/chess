@@ -1,0 +1,10 @@
+[Event "mr01 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/3p4/1p3p2/brp5/npk1K1QN/pr1pB3/nqb4N w - - 0 1"]
+
+ 1. Qg7+ Kc2 2. Bd1+ $1 Kxd1 3. N1f2+ Kc2 (3... Ke1 4. Qg1#) 4. Qc3+ $1 Kxc3 5. Nd1+ Kc2 6. Ke2 d5 7. Nf4 d4 8. Nd5 d3+ 9. Kf2 f4 (9... Kxd1 10. Ne3#) 10. N5c3 d5 11. Kf3 d4 12. Kxf4 dxc3 13. Ne3# 1-0  

@@ -1,0 +1,10 @@
+[Event "td23#1222 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Shinkman W"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/r4k2/pp1Rp3/8/6B1/q1b4K/r2Q4 w - - 0 1"]
+
+ 1. Bxe5+ $1 (1. Qf3+ $2 Bf5+) (1. Rd6+ $2 Rxd6 2. Qxd6+ Qe6) (1. Bh4+ $2 Ke6 2. Qg4+ Bf5+) 1... Ke6 (1... Kf5 {main} 2. Qh5+ Ke4 (2... Ke6 3. Qe8+ Kxd5 4. Qxb5+ Ke4 5. Qe2+) 3. Qe2+ Kxd5 4. Qxb5+ Ke6 5. Qe8+) 2. Rd6+ Rxd6 (2... Ke7 3. Rd7+) 3. Qxd6+ Kf5 (3... Kf7 4. Qf6+ Ke8 5. Qc6+) 4. Qf6+ Ke4 5. Qf4+ Kd5 (5... Kd3 6. Qd4+ Ke2 7. Qg4+ Ke1 (7... Kd2 8. Qf4+ Kd1 9. Qf1+) 8. Bc3+ Kf2 9. Qf4+ Ke2 10. Qg4+ Ke3 11. Qd4+ Ke2 12. Qg4+) 6. Qd4+ Ke6 7. Qd6+ Kf5 8. Qf6+ 1/2-1/2  

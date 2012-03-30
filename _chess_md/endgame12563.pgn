@@ -1,0 +1,10 @@
+[Event "ts67 @2 {m}"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4q3/P2p4/2k5/3N4/4P1R1/b2K1P2/8/8 w - - 0 1"]
+
+ 1. Rg6+ Kb7 (1... d6 2. Rg8) (1... Bd6 2. Ne7+ Kc7 3. Rg8) 2. Ra6 Qa8 3. Nb6 ( 3. Rxa3 $1 {cook JU}) 3... Kxa6 4. Nxa8 Kxa7 5. Nc7 1-0  

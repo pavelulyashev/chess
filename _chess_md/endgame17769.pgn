@@ -1,0 +1,10 @@
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2Q5/k1p5/p7/P7/1K6/8/8/2r5 w - - 0 1"]
+
+ 1. Kb3 Rc5 $1 (1... Rc6 2. Qd7 Rc1 3. Kb2 Rc4 4. Qd8 Rc6 5. Qe7 Rc4 6. Kb3) 2. Kb2 $1 Rb5+ $1 (2... Rc6 3. Qd7 Rc4 4. Qd8) 3. Kc3 Rc5+ 4. Kb3 Rc1 $1 5. Qd8 $1 Kb7 6. Qd5+ Kb8 (6... Ka7 7. Kb2) 7. Kb2 Rg1 $1 (7... Rf1 8. Qd3 Rf2+ 9. Kc3 Kb7 10. Qd5+) (7... Re1 8. Qc4 $1 (8. Qc6 $2 Rd1 $1 9. Qxa6 Rd6)) 8. Qb3+ $1 Ka8 (8... Kc8 9. Qe3 Rg2+ 10. Kc3 Kb8 11. Qe8+) 9. Qe3 $1 Rg2+ $1 (9... Rg7 10. Qf3+ $1 Ka7 $1 11. Qc6) (9... Rf1 10. Qd3 $1) 10. Kc1 Kb8 11. Qe8+ Ka7 12. Qc6 1-0  

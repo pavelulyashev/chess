@@ -1,0 +1,10 @@
+[Event "ts21 {v} {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Kalinin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/8/8/2R5/K7/8/Pp2b3/8 w - - 0 1"]
+
+ 1. Rd5+ (1. Rb5 $2 Bxb5+ 2. Ka3 b1=N+ $1 (2... b1=Q $2)) 1... Kc7 2. Rd1 $3 Bxd1+ 3. Ka3 b1=N+ (3... b1=Q) 4. Kb2 Nd2 5. Kc1 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "2 Commendation, ts69#73 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Grzeban G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5B2/4N3/8/5p2/5K1p/6Pp/7k w - - 0 1"]
+
+ 1. Ng5 (1. gxh3 $2 Kg1) (1. Kf2 $2 hxg2) (1. Nxf4 $2 hxg2 2. Nh3 g1=Q 3. Nf2+ Qxf2+ 4. Kxf2) 1... hxg2 (1... Kg1 2. Nxh3+ Kh1 (2... Kf1 3. Bc4+ Ke1 4. Nf2) 3. Kf2 f3 4. Bd5 fxg2 5. Bxg2#) 2. Nh3 g1=N+ (2... g1=Q 3. Nf2+ Qxf2+ 4. Kxf2 f3 5. Kf1 f2 6. Bd5#) 3. Kf2 Nxh3+ (3... f3 4. Bd5) (3... Nf3 4. Nxf4) 4. Kf1 f3 5. Bh5 (5. Bd5 $2 Ng5 6. Bc6 Ne4 7. Bxe4) (5. Bb3 $2 Nf4 (5... Ng5 $2 6. Bd1 ) 6. Bd1 Ng2 7. Bxf3) 5... Ng5 6. Bg4 1-0  

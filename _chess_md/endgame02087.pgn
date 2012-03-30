@@ -1,0 +1,10 @@
+[Event "De Maasbode {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5P2/1B1P3p/8/5r2/8/8/k1K1b3 w - - 0 1"]
+
+ 1. d7 Bh4 2. Bd4+ Ka2 3. Bf6 $1 {Nowotny} Bxf6 (3... Rxf6 4. d8=Q) 4. f8=Q Bb2+ 5. Kc2 Rxf8 6. d8=Q Rxd8 {stalemate} 1/2-1/2  

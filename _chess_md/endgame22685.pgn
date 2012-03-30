@@ -1,0 +1,10 @@
+[Event "mp11 wm03 us37 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Osintsev S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4Q3/6R1/8/N1b5/8/5p2/kq2p3/7K w - - 0 1"]
+
+ 1. Qa4+ (1. Qe6+ $2 Ka1 2. Nb3+ Qxb3 $1 3. Qxb3 e1=Q+ 4. Kh2 Qh4#) (1. Qg8+ $2 Kb1 2. Rg1+ Bxg1 3. Qxg1+ Qc1) 1... Kb1 (1... Qa3 2. Qc2+ $1 Ka1 3. Nb3+ $1 Qxb3 4. Qxc5 $1 e1=Q+ 5. Rg1 Qbd1 6. Qa7+) 2. Qe4+ Ka1 3. Qa4+ Qa2 4. Nb3+ Kb2 5. Qxa2+ Kxa2 6. Nc1+ Kb1 $1 (6... Ka1 7. Nd3 e1=Q+ 8. Nxe1 f2 9. Nc2+) (6... Ka3 7. Nxe2 $1 fxe2 8. Rg3+ Kb4 9. Rg4+) (6... Kb2 7. Nxe2 $1 fxe2 8. Rg2) 7. Nd3 e1=Q+ $1 8. Nxe1 f2 9. Nf3 $1 f1=Q+ 10. Rg1 $1 Bxg1 11. Nd2+ 1/2-1/2  

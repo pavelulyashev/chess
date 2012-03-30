@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention Shakhmatny Listok#265 {c} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b7/4k2K/3p1p2/7P/4P1P1/8/8/8 w - - 0 1"]
+
+ 1. e5 dxe5 (1... Be4+ $144 2. Kg7 fxe5 (2... dxe5 $144 3. h6 Bc2 $11 { See main line}) 3. g5 d5 4. h6 d4 5. g6 Bxg6 6. Kxg6 d3 7. h7 d2 8. h8=Q d1=Q $11) (1... fxe5 $144 2. Kg7 Be4 (2... e4 $144 3. h6 e3 4. h7 e2 5. h8=Q e1=Q 6. Qxa8 $11) 3. h6 d5 4. g5 $11) 2. Kg7 Be4 3. h6 Bd3 4. Kg8 Ke6 5. Kg7 $11 1-0  

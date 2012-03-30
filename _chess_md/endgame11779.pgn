@@ -1,0 +1,10 @@
+[Event "4 Prize ts70#1843 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Cortlever N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/6pP/1R6/1PP3P1/3n1K2/b1Pr4/8/8 w - - 0 1"]
+
+ 1. Ke4 (1. g6 $2 Ne2+ 2. Ke5 (2. Kf5 Rd5+ 3. Kg4 Rd8 4. c6 Bd6 5. c4 Nd4) 2... Rd8 3. c6 Bd6+ 4. Kf5 Nxc3) 1... Rxc3 2. g6 Nc6 3. bxc6 (3. Rxc6 $2 Rxc5) (3. Ra6 $2 Rc4+ 4. Kf3 Ne5+) 3... Re3+ 4. Kd5 $1 (4. Kf5 $2 Re8 5. c7 Bxc5 6. Rb8 Bf8 7. Rxe8 (7. Rd8 Re5+ (7... Rxd8 $2 8. cxd8=N $1) 8. Kxe5)) 4... Re8 (4... Rd3+ 5. Kc4 Rd4+ 6. Kc3 Bb2+ 7. Kb3 Rd3+ 8. Kc2 Rc3+ 9. Kd2) 5. c7 Bxc5 6. Re6 (6. Rb8 $2 Bf8 7. Rd8 (7. Kc6 Re6+ 8. Kb7 Rb6+ 9. Kc8 Rc6 10. Kd8 (10. Rb3 Bd6 11. Re3 Rxc7+ 12. Kd8 Re7 13. Rf3 Re6) 10... Rxc7 11. Kxc7) 7... Re5+ 8. Kc6 Rc5+ 9. Kd7 Rxc7+) 6... Rf8 (6... Rc8 7. Kc6 Bd6 8. Kxd6 Ra8 9. Re7 Rf8 10. Kd7 Ra8 11. Rxg7) (6... Ra8 7. Kc6 Bb6 8. Kb7) (6... Bf8 7. Re4 $1 Rc8 8. Kc6 Bd6 9. Kxd6 Ra8 10. Re7 Rf8 11. Kd7 Ra8 12. Rxg7) 7. Kc6 Bb6 8. Kxb6 Ra8 9. Rf6 $1 gxf6 10. Kb7 Re8 11. c8=Q Rxc8 12. Kxc8 f5 13. Kd7 f4 14. Ke6 f3 15. Kf7 1-0  

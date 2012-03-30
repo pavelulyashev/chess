@@ -1,0 +1,10 @@
+[Event "5 Honorable Mention, ts20#297 @2 @3 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1p1p1q1k/2p3RP/2K5/2n5/1Q5p/2p5/8 w - - 0 1"]
+
+ 1. Rg7+ Qxg7 2. hxg7 c1=Q (2... b6+ {main} 3. Kb4 (3. Kd4 $1 {cook} c5+ (3... c1=Q 4. Qc2+ Qxc2 5. g8=Q+ Kxg8) 4. Kd5 $1 c1=Q 5. Qc2+ Qxc2 6. g8=Q+ Kxg8) 3... c1=Q 4. Qc2+ (4. Qxh3+ $1 {cook} Kxg7 5. Qxd7+ Kf6 6. Qxc6+ Ke5 7. Qc7+ Kd4 (7... Kd5 8. Qb7+ Kd6 9. Qb8+ Kd7 10. Qb7+) 8. Qd7+ Ke4 9. Qc6+ Kd3 10. Qd5+) 4... Qxc2 5. g8=Q+ Kxg8) (2... d6+ {main} 3. Kb4 (3. Kd4 $2 c5+) 3... c5+ (3... c1=Q 4. Qc2+ Qxc2 5. g8=Q+ Kxg8) 4. Kb5 $1 (4. Ka4 $2 b5+ 5. Qxb5 Nb6+ $1 6. Qxb6 c1=Q) 4... c1=Q 5. Qc2+ Qxc2 6. g8=Q+ Kxg8) 3. Qxh3+ Kxg7 4. Qc3+ Qxc3 (4... Ne5 $1 {cook HG} 5. Qxc1 Nd3+) 1/2-1/2  

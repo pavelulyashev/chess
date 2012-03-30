@@ -1,0 +1,10 @@
+[Event "ts98 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3R4/8/8/1R2K1k1/7r/8/4b3 w - - 0 1"]
+
+ 1. Rb1 Rh8 2. Rg7+ Kh5 (2... Kh4 3. Rxe1 Re8+ 4. Kf4 Rxe1 5. Rh7#) (2... Kh3 3. Rxe1 Re8+ 4. Kf3 Rxe1 5. Rh7#) 3. Rxe1 Re8+ 4. Kf5 Rxe1 5. Rh7# 1-0  

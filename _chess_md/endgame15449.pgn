@@ -1,0 +1,10 @@
+[Event "te01 @1 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Vandiest J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k1B3/8/K7/4Q3/1p6/8/8/3q4 w - - 0 1"]
+
+ 1. Bb5 $1 (1. Bc6 $2 Qd8 $1 2. Qe6+ (2. Qg7 Qd3+) 2... Kc7) (1. Bg6 $1 {cook HH } Kd8 (1... Qd2 2. Bf5+ Kd8 3. Kb7) (1... b3 2. Bf5+ Kd8 3. Kb6 Qg1+ 4. Kb7 Qh1+ 5. Be4) 2. Bf5 Qd2 (2... Qf1+ 3. Ka5 $1 Qd1 4. Kb6 Qg1+ 5. Kb7 Qh1+ 6. Be4 ) 3. Kb7 Qh6 4. Bd3 $1 Qh1+ 5. Be4 Qh6 6. Bc6 Qh7+ 7. Kb6 Qf7 8. Qd6+ Kc8 9. Bf3 Qd7 10. Bg4 Qxg4 11. Qc7#) 1... b3 $1 (1... Qd8 2. Qe6+ Kb8 3. Bd7 $1) ( 1... Kd8 2. Kb7 $1 Qf3+ 3. Kb8) (1... Qg4 2. Bd3 $1 Kd8 3. Kb6 $1 Qg1+ (3... Qd7 4. Bb5 Qe7 (4... Qf7 5. Qd6+ Kc8 6. Ba6+) 5. Qb8#) 4. Kb7 Qh1+ 5. Be4 Qh6 6. Bc6 $1 Qh7+ 7. Kb8 $1) 2. Bc4 $1 Kd8 $1 (2... b2 3. Be6+ Kd8 4. Qf6+ Kc7 ( 4... Ke8 5. Qf7+ Kd8 6. Qf8+ Kc7 7. Qc8+ Kd6 8. Qd7+) 5. Qe7+ Kc6 6. Qb7+ Kc5 7. Qb6#) (2... Kd7 3. Be6+ $1 Kc6 (3... Kd8 4. Qf6+) 4. Qb5+ Kc7 5. Qb6#) (2... Qf3 3. Qe8+ $1 Kc7 4. Qe7+ Kc6 5. Qb7+) 3. Kb6 $1 (3. Kb7 $2 Qd7+ 4. Kb6 Qe7 $1 ) 3... Qg1+ (3... Qf3 4. Bb5 $1 Qf2+ 5. Kb7) 4. Kb7 Qh1+ $1 5. Kb8 $1 (5. Bd5 $2 Qh7+ 6. Kb8 b2) 5... Qh6 $1 6. Bb5 $1 (6. Qc7+ $2 Ke8 7. Qf7+ Kd8 8. Be6 Qh2+) 6... Qb6+ 7. Ka8 Qg6 (7... Qc7 8. Qe8#) (7... b2 8. Qe8+ Kc7 9. Qd7#) ( 7... Kc8 8. Qf5+) 8. Kb7 $1 Qf7+ 9. Kb8 1-0  

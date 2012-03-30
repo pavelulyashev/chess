@@ -1,0 +1,10 @@
+[Event "t001#32 {c} {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K1k1/3p4/7p/8/2p5/3p1R2/6P1/8 w - - 0 1"]
+
+ 1. Rg3+ Kh7 2. Kf7 d2 (2... h5 3. Rg5 Kh6 4. Rg6+ Kh7 5. Rd6) 3. Rg7+ Kh8 4. Rg6 $1 Kh7 5. Rd6 c3 6. g4 $1 c2 (6... h5 7. g5) 7. g5 hxg5 (7... d1=Q 8. Rxh6# ) 8. Rxd2 c1=Q 9. Rh2# 1-0  

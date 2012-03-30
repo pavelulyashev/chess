@@ -1,0 +1,10 @@
+[Event "tc36#377 @3 {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k1q1/2Q3P1/K7/8/8/4p3/4P3/8 w - - 0 1"]
+
+ 1. Qb7 $1 (1. Kb6 $2 Qb3+ 2. Kc6 Qc3+ 3. Kd6 Qxc7+ 4. Kxc7 Kf7) 1... Qa2+ 2. Kb6 Qb2+ 3. Kc5 $1 Qe5+ (3... Qxb7 4. g8=Q+) 4. Kc4 Qf4+ 5. Kd3 Qd6+ 6. Kxe3 Qa3+ (6... Qc5+ 7. Ke4 Qc4+ 8. Kf3 Qc3+ 9. e3 Qf6+ 10. Ke2) (6... Qh6+ 7. Kf2 Qf4+ (7... Qh4+ $1 {cook HC}) 8. Qf3 Qh4+ 9. Kf1) (6... Qg3+ 7. Qf3 Qg1+ 8. Kd2 Qd4+ 9. Qd3 Qb4+ 10. Kd1 Qa4+ 11. Ke1) 7. Ke4 Qa4+ 8. Kf5 Qa5+ 9. Kg6 1-0  

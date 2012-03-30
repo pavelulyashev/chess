@@ -1,0 +1,10 @@
+[Event "3rd spec. prize {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Jones CB"]
+[Black "*"]
+[Result "*"]
+[FEN "8/1K5k/R3N3/8/P2N4/2p3pb/3b4/8 w - - 0 1"]
+
+1. Nf8+ (1. Ne2 $2 g2 2. a5 (2. Rc6 Bxe6 $11) (2. Nf8+ Kg7 3. Ne6+ (3. Rg6+ $2Kxf8 4. a5 Kf7 $19) 3... Bxe6 $11) (2. N6d4 Bg4 3. Ng1 Be3 4. Nde2 Bxe2 5. Nxe2c2 6. Rc6 c1=Q 7. Rxc1 Bxc1 $11) 2... c2 3. Rc6 Bxe6 4. Rxc2 Bxa5 $11) (1. a5$2 Bxe6 2. Rxe6 g2 3. Ne2 {/Nf3} c2 $11) 1... Kg7 (1... Kh8 2. Rg6 $18) (1...Kg8 2. Rg6+ Kxf8 3. Rxg3 $18 {main line}) 2. Rg6+ Kxf8 3. Rxg3 (3. a5 $2 Bg2+4. Kc8 Bh3+ 5. Kb7 Bg2+ 6. Kc8 $11 (6. Ka6 $2 Be1 7. Rf6+ Kg7 $19)) 3... Bd7 4.a5 c2 5. Nxc2 (5. Ne2 $2 Bxa5 $11) 5... Bxa5 6. Ra3 Bd8 (6... Bd2 7. Rd3 $18)7. Ra8 Ke7 (7... Ke8 $5 8. Nd4 $1 $18 {zz1}) 8. Nb4 $1 ({Thematic try} 8. Nd4$5 Ke8 $1 $11 {zz1}) 8... Ke8 9. Rb8 $1 {zz2} ({Thematic try} 9. Nc6 $5 Bxc6+10. Kxc6 Ke7 $11 {zz3}) 9... Ke7 ({Thematic try} 9... Bb5 $6 {/Ba4?!} 10. Nc6Bxc6+ 11. Kxc6 Ke7 12. Ra8 $18 {zz3}) 10. Nd5+ Ke8 11. Nf4 $1 {zz4} (11. Nc7+Ke7 12. Nd5+ Ke8 {repeats}) 11... Ke7 (11... Bb5 $6 {/Ba4?!} 12. Ne6 $18) (11... Bf5 $6 {/Bg4?!} 12. Kc6 Ke7 (12... Be4+ 13. Kd6 $18) 13. Nd5+ Ke8 14. Kd6$18) 12. Ng6+ (12. Nd5+ Ke8 {repeats}) 12... Ke8 13. Ne5 Ke7 (13... Bb5 {/Ba4/Be6/Bf5/Bh3} 14. Nc6 $18) 14. Ra8 Ke8 15. Ka6 $1 Ba4 (15... Ke7 16. Ra7$18) 16. Ka7 $1 ({Thematic try} 16. Kb7 $5 Bb5 $1 {zz5} 17. Rb8 {/Ka7} Ke7 $1$11) 16... Bb5 (16... Bd7 17. Rb8 Ba4 (17... Ke7 18. Rb7 $18) 18. Kb7 $18 {main}) (16... Ke7 17. Kb7 $18 {main}) 17. Rb8 Bd7 (17... Ba4 18. Kb7 Ke7 19. Ra8 {main}) 18. Ka6 {/Ka8} Ba4 19. Kb7 Ke7 20. Ra8 Bb5 {/Bd7/Be8} (20... Kf6 21.Ng4+ $18) (20... Ke6 21. Nd3 $18) 21. Nc6+ Bxc6+ 22. Kxc6 {zz3. This study hasgood play with thematic attempts. The play leads to a well known zz position.}*

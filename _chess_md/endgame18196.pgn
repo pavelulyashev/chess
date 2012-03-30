@@ -1,0 +1,10 @@
+[Event "wb12 @3 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/1P4p1/bp1P4/7p/8/k2r2P1/2R3K1 w - - 0 1"]
+
+ 1. b7 Bb6+ 2. Kh2 Ba7 3. Rc6 Bb8 4. Ra6+ Kb1 5. Ra8 Ra2 6. Rxb8 Ra7 7. Kh3 b4 8. Kxh4 b3 9. Kg5 b2 10. d6 $1 cxd6 11. Kf6 $1 (11. Kxg6 $2 Ka1 12. Ra8 b1=Q+) 11... d5 12. Ke5 d4 13. Kf4 $1 d3 (13... g5+ $1 {cook} 14. Kf3 Ra3+ 15. Kf2 Ka2 16. Ra8 b1=Q) 14. Ke3 $1 d2 15. Kxd2 Ra2 16. Ra8 Ka1 17. Rxa2+ Kxa2 18. b8=Q b1=Q 19. Qxb1+ Kxb1 20. g4 1-0  

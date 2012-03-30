@@ -1,0 +1,10 @@
+[Event "tl20#2160 {v} {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7k/6p1/7p/8/8/6P1/7K w - - 0 1"]
+
+ 1. Kh2 $1 (1. g3 $2 Kh6 2. Kg2 Kg5 3. Kh3 Kf6 $3 4. g4 (4. Kh4 Kf5 5. Kh3 Kg5 6. Kh2 Kg4 7. Kg2 h4) 4... Kg5 $3) 1... Kh6 (1... Kg7 2. g4 h4 (2... Kh6 3. gxh5 Kxh5 4. Kh3) 3. g5) (1... g5 2. g3 Kg7 3. Kg2 Kg6 4. Kf3 Kf5 5. g4+ $3 hxg4+ 6. Kg3) 2. Kg3 $1 (2. Kh3 $2 Kg5 3. g3 (3. Kg3 h4+ 4. Kh3 (4. Kf3 Kf5 5. Kf2 Kg4) 4... Kh5) 3... Kf6 4. Kg2 (4. Kh4 Kf5) 4... Kf5 5. Kf3 Kg5 6. Kf2 Kg4 7. Kg2 h4) 2... Kg5 $1 (2... g5 3. Kf3 Kg6 4. g3 Kf5 (4... Kf6 5. Kf2) 5. g4+) 3. Kh3 $1 Kf5 (3... h4 4. g3 hxg3 5. Kxg3) (3... Kf4 4. Kh4 Kf5 5. g3 Kf6 6. g4 ) 4. Kh4 $1 (4. Kg3 $2 g5 5. Kf3 (5. Kh3 Kf4 6. Kh2 (6. g3+ Kf3) 6... Kg4) 5... h4 6. g3 g4+ 7. Kf2 h3) 4... Kf4 (4... Kf6 5. g4) 5. g4 $3 hxg4 1/2-1/2  

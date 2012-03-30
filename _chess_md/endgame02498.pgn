@@ -1,0 +1,10 @@
+[Event "Shakhmaty Moskva {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k1N5/1p1Pb3/8/KP3p2/3q4/8/1n4Q1/8 w - - 0 1"]
+
+ 1. Nb6+ (1. Nxe7 $143 Qc3+ 2. Kb6 Na4#) 1... Ka7 2. Qxb7+ $1 (2. Nc8+ $143 Kb8 3. Qg3+ f4 $19) 2... Kxb7 3. d8=N+ Kc7 (3... Bxd8 $144 $11) 4. Ne6+ Kb7 5. Nd8+ (5. Nxd4 $143 Bf6 6. Nc8 (6. Ne2 $144 Bd8 $19) (6. Nxf5 $144 Bc3#) 6... Bxd4 7. Nd6+ Ka7 8. b6+ (8. Nxf5 $144 Bc3#) 8... Bxb6+ 9. Kb5 f4 10. Nc8+ Kb7 11. Nxb6 f3 12. Nd5 Nd1 $19) 5... Ka7 6. Nc6+ Kb7 7. Nd8+ $11 1/2-1/2  

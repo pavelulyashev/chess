@@ -1,0 +1,10 @@
+[Event "1/2 Prize Tidskrift fцr Schack#1551 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b4K/4p3/5kN1/3P1P2/1q1NP2P/8/1B6/8 w - - 0 1"]
+
+ 1. e5+ (1. Kg8 $143 Bxf5 $1 2. Nxf5+ (2. exf5 $143 Qxb2 $19) 2... Kxg6 $17) (1. Ba1 $143 Kf7 $11) 1... Kf7 2. e6+ Bxe6 (2... Ke8 $144 3. f6 exf6 4. Nf5 $18) ( 2... Kf6 $144 3. Ne5 $1 Bxe6 4. dxe6 Qb8+ 5. Kh7 $18 {See main line}) 3. dxe6+ (3. Ne5+ $143 Ke8 $1 $17) 3... Kf6 (3... Ke8 $144 4. f6 exf6 5. Nf5 $1 Qxb2 6. Ng7+ Kd8 7. e7+ $18) 4. Ne5 $1 (4. Nf8 $143 Qb8 5. Kg8 Qg3+ 6. Ng6 Qb8+ $11) ( 4. Ba1 $143 Qb8+ 5. Kh7 Qg8+ 6. Kh6 Qh7+ 7. Kxh7 $11) 4... Qb8+ 5. Kh7 Qxe5 6. Ba1 $1 Qd5 (6... Qe4 $144 7. Ne2+ Kxf5 8. Ng3+ $19) (6... Qa5 $144 7. Nb3+ $18) (6... Qe1 $144 7. Nc2+ $18) 7. Nc2+ Kxf5 8. Ne3+ $18 1-0  

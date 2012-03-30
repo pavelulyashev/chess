@@ -1,0 +1,10 @@
+[Event "2 Prize, ts24 @3 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3p1rP1/3PpP2/3ppk1K/6pP/4P1P1/3N4 w - - 0 1"]
+
+ 1. Ne3 dxe3 (1... d3 $1 {cook WV} 2. exd3 (2. Ng4 Kxf5 (2... Rxf5 $4 3. e3#)) ( 2. Kh5 dxe2 3. g7 e1=Q 4. g8=Q Qe2+) 2... exd3 3. Kh5 d2 4. g7 Rxf5+ 5. Nxf5 d1=Q+ 6. Kh6 Qxd5 7. Ne7 Qe6+ 8. Ng6+ (8. Kh5 e4) 8... Kf5 9. g8=Q Qxg8 10. Ne7+ Ke6) 2. Kh5 Kxf5 3. h4 Rf8 4. Kh6 Kf6 5. Kh7 (5. g7 $2 Rg8 6. h5 Kf7) 5... Ra8 6. h5 Ra7+ 7. Kh6 Rb7 8. g7 Kf7 9. Kh7 Rb8 10. h6 Ra8 11. g8=Q+ Rxg8 1/2-1/2  

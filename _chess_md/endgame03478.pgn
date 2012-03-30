@@ -1,0 +1,10 @@
+[Event "Problemaz, Abdelwahed El Fassi Fihri MT {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r5k1/1R4P1/pK2b3/1p2P3/1P2P3/8/P7/8 w - - 0 1"]
+
+1. a3 $1 ({DUAL->} 1. Re7 Bxa2 2. e6 Bc4 3. e5 Be2 (3... a5 4. bxa5 b4 5. Kc5b3 6. Kxc4 Rb8 7. Rd7 b2 8. Rd1 b1=Q 9. Rxb1 Rxb1 10. Kc5 $11) 4. Kc6 Bf3+ (4... Bh5 5. Kd6 $11) 5. Kd6 Bh5 6. Rc7 $11) 1... Bc8 $1 (1... Re8 2. Rc7 Bc8 3.Ka5 $1 Kh7 4. a4 bxa4 5. Kxa4 $11 Kg8 (5... Rxe5 $2 6. Rxc8 $18) 6. b5 axb5+ 7.Kxb5 Rxe5+ 8. Kc6 $11) (1... Rd8 2. Rc7 Bd7 $2 (2... Ra8 3. Rb7 $11) (2... Bc83. Ka5 $1 Kh7 4. a4 bxa4 5. Kxa4 Bd7+ 6. Ka5 Bb5 7. Ra7 Re8 8. Rxa6 Bxa6 9.Kxa6 Re6+ 10. Kb7 Rxe5 11. Kc6 Rxe4 12. b5 Kxg7 13. b6 Rc4+ 14. Kb5 Rc8 15. b7Rb8 16. Kb6 $11) 3. Kxa6 Kxg7 $4 4. e6 (4. Rxd7+ $2 Rxd7 5. Kxb5 Kf7 6. a4 Ke67. a5 Kxe5 8. Kc6 Rd4 9. b5 Rc4+ 10. Kb7 Kd6 11. e5+ Kxe5 12. a6 Kd6 (12... Rc5$4 13. b6 Kd6 14. a7 Ra5 15. a8=Q Rxa8 16. Kxa8 Kc6 17. b7 $18) 13. b6 Ra4 14.a7 Kc5 $11) 4... Kf6 5. exd7 Ke7 6. Kxb5 $18) (1... Kh7 2. Ra7 Rxa7 3. Kxa7 Bc84. Kb8 Bd7 5. Kb7 Kxg7 6. Kxa6 Kf7 7. Kb6 Ke6 8. Kc5 Kxe5 9. a4 bxa4 10. Kc4Be6+ 11. Kc3 a3 12. Kc2 Ba2 13. Kc3 Bc4 14. Kc2 $11) (1... Bc4 $1 2. Ra7 $1Rxa7 3. Kxa7 Kxg7 4. Kxa6 Kf7 5. Kb6 (5. Ka5 Ke6 6. a4 $11) 5... Ke6 6. Kc5Kxe5 7. a4 $11) (1... Bf7 2. Ra7 Rxa7 3. Kxa7 Kxg7 4. Kxa6 Bc4 (4... Be8 5. Kb6Kf7 6. Kc5 Ke6 7. a4 bxa4 8. Kc4 $11) 5. Ka5 Kf7 6. a4 $11) 2. Ra7 $1 ({-> White have even advantage!} 2. Re7) 2... Rxa7 3. Kxa7 Kxg7 4. Kb8 Bd7 5. Kb7({oder} 5. Ka7 $11) 5... Kf7 $1 6. Kxa6 Ke6 (6... Ke7 7. Ka5 Ke6 8. Kb6 Kxe5 9.Kc5 $11) 7. Kb6 Kxe5 8. Kc5 Kxe4 (8... Ke6 9. Kd4 $1 Be8 10. a4 bxa4 11. Kc3$11) 9. a4 $1 bxa4 10. Kc4 Be6+ 11. Kc3 $11 (11. Kc3 a3 12. Kc2 ({oder} 12. b5$1 $11) 12... Ba2 13. Kc3 Kd5 14. b5 Kc5 15. b6 Bd5 16. b7 ({oder} 16. Kc2 $11)16... Bxb7 17. Kb3 a2 18. Kxa2 $11) 1/2-1/2

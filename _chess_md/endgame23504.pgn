@@ -1,0 +1,10 @@
+[Event "tn04 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/8/7k/2n2Pp1/6R1/2B5/6Pp/8 w - - 0 1"]
+
+ 1. Rb4 $1 h1=Q 2. Rb7 $3 Nxb7 3. g4 Qc6 4. Bg7# 1-0  

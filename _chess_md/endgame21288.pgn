@@ -1,0 +1,10 @@
+[Event "s.HM Mat Plus 2007 {m}"]
+[Site "?"]
+[Date "2007.06.14"]
+[Round "?"]
+[White "Dowd S, Ylijoki M"]
+[Black "*"]
+[Result "*"]
+[FEN "KR6/Pp6/1b6/4p3/2p5/8/1Pk5/8 w - - 0 1"]
+
+ 1. Kxb7 ({Thematic try} 1. Rxb7 $2 Bxa7 2. Kxa7 { (compare with the position of main line after 2.Kxa7)} 2... c3 3. b4 e4 4. Re7 Kb3 $1 5. b5 c2 6. Rc7 e3 7. b6 e2 8. b7 e1=Q 9. b8=Q+ Ka4 $3 10. Rc4+ Ka3 11. Qd6+ Kb2 12. Qd4+ Kb1 13. Qb6+ Kc1 14. Qc5 Qd2 $11) 1... Bxa7 2. Kxa7 c3 3. b4 $1 e4 4. Re8 {main B} 4... Kd3 ({main A} 4... Kb3 5. b5 c2 6. Rc8 e3 (6... Kb2 7. b6 c1=Q 8. Rxc1 Kxc1 9. b7 $18) 7. b6 e2 8. b7 e1=Q 9. b8=Q+ {and wQ is not blocked by wR as in the thematic try, so white has important checks:} 9... Ka4 (9... Ka3 10. Qd6+ $18) 10. Qf4+ $18) 5. b5 e3 6. b6 c2 7. Rd8+ Ke2 8. Rc8 Kd1 9. b7 e2 10. Rd8+ Kc1 11. b8=Q e1=Q 12. Qf4+ $18 {. Authors have applied the rough introduction for creation of thematic try. Not looking at it, work leaves impression of integrity of play.} *  

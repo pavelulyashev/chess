@@ -1,0 +1,10 @@
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1kp5/p2r4/P7/1K6/8/8/Q7 w - - 0 1"]
+
+ 1. Qh1+ Kb8 2. Qh8+ Kb7 3. Kc5 Rc6+ $1 (3... Rd7 4. Qh1+ Kb8 5. Qb1+ Ka7 6. Kc6 ) (3... Rd3 4. Qh1+ Ka7 5. Kc6 Rc3+ 6. Kd7) (3... Rd1 4. Qb2+ Kc8 5. Qe2 Rd6 6. Qg2 Kb8 7. Qg8+ Kb7 8. Qe8) (3... Re6 4. Qh1+ Ka7 5. Qh7 Kb7 6. Qb1+) (3... Rg6 4. Qh1+ Ka7 5. Qh7) 4. Kd5 Rg6 (4... Rc2 5. Qh1 Kc8 (5... Ka7 6. Qh3) (5... Rb2 6. Ke6+ $1) (5... Rd2+ 6. Kc5+ Kb8 7. Qb1+ Kc8 8. Qe4) (5... Re2 6. Kc5+ Kb8 7. Qb1+ Kc8 8. Qf5+ Kb8 9. Qf8+) (5... Rf2 6. Kc5+ Kb8 7. Qb1+ Kc8 8. Qe4 Kb8 9. Qe8+ Kb7 10. Qc6+) 6. Kd4) 5. Qh1 Rg5+ $1 (5... Kc8 6. Kc4 Rg4+ 7. Kc3 Rg3+ 8. Kc2 Kb8 9. Qc6) (5... Ka7 6. Qh7 Rd6+ 7. Kc5 Kb7 8. Qh1+ Kb8 9. Qh8+ Kb7 10. Qe8) (5... Ka8 6. Kc5+ Ka7 7. Qh7) (5... Rd6+ 6. Kc5+ Kb8 7. Qh8+ Kb7 8. Qe8) ( 5... Rg4 6. Qb1+ Ka7 7. Kc6) 6. Ke6+ $1 Kb8 (6... Ka7 7. Qc1 Rg7 8. Kd5) 7. Qh8+ Kb7 8. Qb2+ Rb5 (8... Ka7 9. Qc1) (8... Ka8 9. Qc1 Rxa5 10. Qc6+ Kb8 11. Kd7) (8... Kc8 9. Qd4 Rxa5 (9... Kb7 10. Qe4+ Kb8 11. Kd7 Rg7+ 12. Kc6) 10. Qa7 Rb5 11. Qxa6+ Rb7 12. Ke7 Kb8 13. Kd8) (8... Kc6 9. Qc2+ Kb7 10. Qe4+) 9. Qg2+ Kb8 10. Qc6 Rxa5 11. Kd7 Rh5 12. Qxc7+ Ka8 13. Qb6 a5 14. Ke8 Rh8+ 15. Kf7 Rh7+ 16. Kg8 Ra7 17. Kf8 a4 18. Ke8 a3 19. Kd8 a2 20. Kc8 1-0  

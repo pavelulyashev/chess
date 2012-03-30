@@ -1,0 +1,10 @@
+[Event "td30 @3 {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3R4/n7/p7/kp1K4/8/8 w - - 0 1"]
+
+ 1. Rd4 (1. Rb6 $2 Ka2 $1 2. Kc3 a3 3. Rb5 b2 4. Kc2 Nc4) (1. Ra6 $2 b2 2. Kc2 Ka2 3. Rb6 Nb3) (1. Kc3 $2 b2 2. Kc2 Ka2 3. Rd1 Nb3) 1... Nc6 (1... b2 2. Kc2) (1... Nb7 $1 {cook HC}) 2. Rh4 Nb4+ 3. Kc3 $1 Nd5+ 4. Kd2 b2 5. Kc2 Ne3+ 6. Kb1 Nd1 7. Rh1 Nc3+ 8. Kc2 Ne2 (8... Ka2 9. Kxc3) 9. Rh4 Nc3 10. Rh1 1/2-1/2  

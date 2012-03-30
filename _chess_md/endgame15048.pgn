@@ -1,0 +1,10 @@
+[Event "tl20#378 @1 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n5/8/1PkP2pp/P7/1K3P2/3P4/5P2/8 w - - 0 1"]
+
+ 1. f5 $1 (1. b7 Kxb7 2. d7 Ne7 3. Kc5 (3. d8=N+ $1 {cook} Ka6 4. Kc5 h5 5. Nf7 h4 6. Ng5 Kxa5 7. d4 Ka6 8. d5 Kb7 9. d6 Nf5 10. Kd5 Kc8 11. Ke6 Nd4+ (11... Ng7+ 12. Kf6 Nh5+ 13. Ke7) 12. Ke7 Nf5+ 13. Kf6 Kd7 14. Kxg6 Nd4 15. Kh5 Ne2 16. Nh3 Kxd6 17. Kxh4 Ke6 18. Kg5 Nd4 19. Ng1 Nf5 20. Ne2) 3... Kc7 4. a6 Nc6) (1. d7 $2 Kxd7 2. f5 (2. b7 Na7 $1 3. b8=N+ Kc8 4. Na6 g5) 2... Ne7 $1 3. fxg6 (3. f6 Nd5+) 3... Nxg6 4. Kb5 Ne5 5. a6 Kc8 6. b7+ Kb8 7. Kb6 Nd7+) 1... gxf5 ( 1... g5 2. b7 $1 Kxb7 3. d7 Na7 4. f6 Nc6+ 5. Kc5 Nd8 6. Kd6 h5 7. Ke7 Kc7 8. a6 $1) (1... Nxd6 2. fxg6 Nf5 3. Kc3 $1 h5 4. Kd2 h4 5. Ke2 h3 6. Kf3 Nh4+ ( 6... Kb7 7. d4) 7. Kg3 Nxg6 8. Kxh3 Nf4+ 9. Kg4 Nxd3 10. f4) 2. d7 Kxd7 3. Kc5 Ne7 (3... Nxb6 4. Kxb6 Kc8 5. Kc5) 4. a6 $1 Kc8 5. Kd6 $1 Ng6 (5... h5 6. Kxe7 h4 7. Kd6 h3 8. a7 Kb7 9. a8=Q+ Kxa8 10. Kc7) 6. a7 Kb7 7. a8=Q+ Kxa8 8. Kc7 1-0  

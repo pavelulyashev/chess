@@ -1,0 +1,10 @@
+[Event "Bakinski Rabotchi {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/1p1p2rp/3p2N1/1p6/4K1R1/8/7B/8 w - - 0 1"]
+
+ 1. Ne5 Re7 2. Rg8+ (2. Kd5 $2 dxe5 3. Rg8+ Re8) 2... Kc7 3. Kd5 dxe5 4. Bxe5+ Kb6 (4... d6 5. Bxd6+) (4... Rxe5+ 5. Kxe5 b4 6. Rg4 $18) 5. Bd4+ Kc7 (5... Ka5 6. Ra8+ Kb4 7. Bc5+) 6. Bf6 Re6 7. Bd8+ {M2} 1-0  

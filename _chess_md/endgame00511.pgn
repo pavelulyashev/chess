@@ -1,0 +1,10 @@
+[Event "cs {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Dolgov V, Kolpakov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/q1B5/8/8/2K2Q2/2p5/8/n7 w - - 0 1"]
+
+ {60 8/2000} 1. Qf3+ Qb7 2. Qf8+ Ka7 3. Qf2+ Ka8 4. Qa2+ Qa7 5. Qg2+ $1 Qb7 6. Qg8+ Ka7 7. Qg1+ Ka8 8. Qxa1+ Qa7 9. Qh1+ Qb7 10. Qh8+ Ka7 11. Qd4+ Ka6 $1 12. Qd6+ Ka7 13. Qc5+ Ka8 14. Qa5+ Qa7 15. Qd5+ Qb7 16. Qd8+ Ka7 17. Kc5 $3 { a vyhraje, zde studie musi koncit} Ka6 18. Bb6 $1 (18. Qd7 $1 Ka7 (18... Qa7+ 19. Kc4 Qe3 20. Qb5+ Ka7 21. Qb8+ Ka6 22. Qa8+ Qa7 23. Qc6+ $18) 19. Qa4+ Qa6 20. Bb6+ Kb7 21. Qc6+ Kb8 22. Bc7+ Ka7 23. Bb8+ $1) 18... Qf3 19. Qc8+ Qb7 20. Qe6 $1 1-0  

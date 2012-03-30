@@ -1,0 +1,10 @@
+[Event "1 Prize, mp02 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Grzeban G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/KP1b3P/1P2k3/8/3P4/n7/2P4b/7r w - - 0 1"]
+
+ 1. d5+ $1 (1. h8=Q $2 Nb5+ 2. Ka8 Ra1#) (1. b8=Q $2 Bxb8+ 2. Kxb8 Rxh7) 1... Kxd5 2. h8=Q Bb8+ 3. Qxb8 Nb5+ 4. Ka8 Ra1+ 5. Qa7 Rxa7+ 6. bxa7 Nc7+ 7. Kb8 Na6+ 8. Ka8 Ba4 $1 (8... Bc6 9. c4+) 9. b8=R $3 (9. b8=Q $2 Bc6+ 10. Qb7 Kd6 11. c3 $1 Kd5 12. c4+ Kc5 13. Qxc6+ Kxc6 14. c5 Kc7 15. c6 Kc8 16. c7 Nxc7#) 9... Bc6+ 10. Rb7 Kd6 11. c4 Bh1 12. c5+ Kc6 13. Rh7 1/2-1/2  

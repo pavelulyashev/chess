@@ -1,0 +1,10 @@
+[Event "tl10#385 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/p2rB2P/P2P4/1p3k2/1P6/8/2p5/8 w - - 0 1"]
+
+ 1. Kg8 c1=R $1 (1... c1=Q 2. h8=Q Qc8+ 3. Kf7 Qxh8) 2. h8=Q Rc8+ 3. Bf8 Rxf8+ 4. Kxf8 Rd8+ 5. Ke7 $1 Rxh8 6. d7 Ke5 7. d8=Q Rxd8 8. Kxd8 Kd6 (8... Kd4 9. Kc7 Kc4 10. Kb7 Kxb4 11. Kxa7 Kc4 12. Kb7 b4 13. a7 b3 14. a8=Q) 9. Kc8 Kc6 10. Kb8 Kb6 11. Kc8 Kxa6 12. Kc7 1/2-1/2  

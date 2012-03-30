@@ -1,0 +1,10 @@
+[Event "td27#11007 {c} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Eisert S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/b7/P5p1/1R1K4/8/3n4/7k/8 w - - 0 1"]
+
+ 1. Rb7 $1 (1. Kc4 $2 Nf4) 1... Bg1 2. Rb1 Ba7 3. Rb5 $1 g5 (3... Bg1 {main} 4. Kc4 $1 Nf4 5. Rc5) (3... Kg2 {main} 4. Kc4 $1 Nf4 5. Rb7 Be3 6. Rc7 Bb6 7. Kb5 $1 Bxc7 {eg} 8. a7 Be5 9. a8=Q+) 4. Kc4 $1 Nf4 5. Rxg5 Kh3 6. Rc5 Kg4 7. Rc6 Kg3 8. Rc7 Bb6 9. Kb5 Bf2 10. Rc2 Ba7 11. Kc6 Ne6 {eg} 12. Kd5 Nf4+ 13. Kd6 Kg4 14. Rc7 Bb6 15. Rb7 Bd4 16. Kc6 1-0  

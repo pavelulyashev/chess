@@ -1,0 +1,10 @@
+[Event "tc53 {m}"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "?"]
+[White "Kvicala J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3k2p1/8/5Pp1/6P1/5K1P/8/8 w - - 0 1"]
+
+ 1. Kg3 $1 Ke7 2. h4 gxh4+ 3. Kxh4 Kf6 4. Kh5 g6+ (4... Kf7 5. Kg5 Ke7 6. Kg6 Kf8 7. f6) 5. fxg6 Kg7 6. Kg5 Kg8 7. Kf6 Kf8 8. g7+ Kg8 9. g5 Kh7 10. g8=Q+ Kxg8 11. Kg6 1-0  

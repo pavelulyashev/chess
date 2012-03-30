@@ -1,0 +1,10 @@
+[Event "1/2 Prize tc19#0919 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6K1/8/R3Pk1P/4r3/8/8/1b6/5b2 w - - 0 1"]
+
+ 1. h7 (1. Rb6 $2 Ba3 2. h7 Rg5+ 3. Kh8 Ke7) 1... Rg5+ (1... Rh5 2. Ra2) 2. Kf8 Kg6 $1 (2... Rh5 3. Rc6 $1 Bg2 4. Ra6 Bf1 5. Rc6) 3. h8=Q $1 Bxh8 4. e7+ Kh7 5. e8=Q (5. Rh6+ $2 Kxh6 6. e8=Q Bg7+) 5... Rg8+ 6. Kf7 Rxe8 (6... Bc4+ 7. Qe6) 7. Ra4 $1 (7. Ra5 $2 Re5) 7... Kh6 8. Rf4 $1 (8. Rh4+ $2 Kg5 9. Rh1 Bg2 (9... Bb5 $2 10. Rh5+ Kxh5) 10. Rh2 Bc6 11. Rh5+ Kf4) 8... Bb5 (8... Re1 9. Rh4+) 9. Rh4+ Kg5 10. Rh5+ Kxh5 1/2-1/2  

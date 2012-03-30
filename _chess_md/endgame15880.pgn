@@ -1,0 +1,10 @@
+[Event "Magyar Sakkvilag, 2005/05 {c} {m}"]
+[Site "?"]
+[Date "2005.05.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "r2B1n1k/1b3Bp1/4P1Pp/1K5P/8/8/8/8 w - - 0 1"]
+
+ {Gewinn     A) Bf7->h7  B) Diagramm     (G)} 1. e7 Bc6+ $1 2. Kxc6 $1 (2. Kb6 $2 Nd7+ 3. Kxc6 Nf6 4. Bb6 Ra6 5. e8=Q+ Nxe8 6. Bxe8 Rxb6+ 7. Kxb6 $11) (2. Kc5 $2 Nd7+ 3. Kxc6 Nf6 4. Bc7 Rc8 5. Kb6 Rxc7 6. Kxc7 Nd5+ $1 7. Bxd5 $11 (7. Kd8 Nxe7 8. Kxe7 $11)) 2... Rxd8 $1 3. exd8=B $3 $18 (3. exd8=N $2 Ne6 $1 4. Kd7 ( 4. Nb7 Nd8+ 5. Nxd8 $11) 4... Nxd8 5. Bd5 Ne6 6. Kxe6 Kg8 7. Ke7+ Kh8 $11) *  

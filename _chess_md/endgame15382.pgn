@@ -1,0 +1,10 @@
+[Event "sp Prize ts98#0960 {c} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Sidorov B, Kalashnikov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1P4pk/8/r5PB/2p5/p2p2P1/1P1pPN1B/1Kn5 w - - 0 1"]
+
+ 1.g6+ $1 Kh6 2.b8=Q $1 a2+ 3.Ka1 Nb3+ 4.Qxb3 cxb3 5.g4 $1 (5.exd3 $2 Rc5 $1) 5...d1=Q+ $1 (5...dxe2 6.Bf4+ Rg5 7.Bxd2 e1=Q+ 8.Bxe1 Rd5 9.Bb4) 6.Nxd1 dxe2 7.Bf4+ Rg5 8.Bc1 $1 e1=Q (8...exd1=Q {main}) (8...e1=N {main} 9.Ne3 Nc2+ 10.Nxc2 bxc2 11.Kxa2 {eg}) 9.Bxg5+ $1 Kxg5   1/2-1/2    

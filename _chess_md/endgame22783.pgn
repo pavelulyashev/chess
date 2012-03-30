@@ -1,0 +1,10 @@
+[Event "us93#0027 @1 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Tkachenko SN"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4N3/8/1R6/5kp1/2P5/5Kpb/3Bn3 w - - 0 1"]
+
+ 1. Ng6+ $1 (1. Rb4+ $1 {cook RT} Ke5 2. Rxg4 g1=Q+ 3. Rxg1 Nd3+ 4. Kg2 Bxg1 5. Kxg1 Kd6 6. Nf5+ Kc5 7. Ne3) 1... Ke4 2. Rb4+ Kd3 3. Nf4+ Kxc3 4. Rb3+ Kd2 $1 5. Nxg2 g3+ $1 6. Kf1 Nxg2 7. Rb2+ Kc1 $1 8. Rc2+ Kxd1 9. Rxg2 $1 Kc1 10. Ke1 Kb1 11. Kd1 Ka1 12. Kc1 1-0  

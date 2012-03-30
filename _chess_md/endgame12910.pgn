@@ -1,0 +1,10 @@
+[Event "tl95#32 {m}"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Greenwell H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p1p4/1P6/7p/3P4/q4PPk/P3B2P/5NK1 w - - 0 1"]
+
+ 1. Bb5 $1 (1. Kh1 $2 h4 2. g4 d5 3. Ne3 Qc1+ 4. Nd1 Qxd1+ 5. Bxd1) 1... Qxf3 ( 1... Qd6 2. Ne3) (1... Qe7 2. Nd2 Qe3+ 3. Kh1) 2. Bxd7+ Qg4 3. Nd2 $1 (3. Bxg4+ $2 hxg4 4. Nd2) 3... Qxd7 4. Ne4 $1 Qxd4+ (4... Kg4 5. Nf6+) 5. Nf2+ 1-0  

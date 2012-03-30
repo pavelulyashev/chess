@@ -1,0 +1,10 @@
+[Event "ts20#038 {v} (@2) {m}"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/8/8/2R1p2P/6p1/8/r7/6K1 w - - 0 1"]
+
+ 1. h6 Ra3 (1... Ra8 2. Ra5 Rc8 3. Ra7 Rc6 4. h7 Rh6 5. h8=Q+ Rxh8 6. Ra8+) ( 1... Ra7 2. Ra5 Rh7 (2... Rf7 3. h7) 3. Ra8+) (1... g3 2. h7 (2. Ra5 $1 2... Rxa5 (2... Rh2 3. h7) 3. h7 Ra1+ 4. Kg2 Ra2+ 5. Kxg3 Ra3+ 6. Kg4 Ra4+ 7. Kg5) 2... Rh2 3. Ra5 e4 4. h8=Q+) (1... Ra6 2. h7 Rh6 3. Ra5) (1... Kd7 2. Rc8 Kxc8 3. h7 Kd7 4. h8=Q) 2. Ra5 Rxa5 (2... Rg3+ 3. Kf2 Rf3+ 4. Ke2 Rf8 (4... Rf7 5. h7 Rxh7 6. Ra8+) 5. Ra7 g3 6. h7 g2 7. Rg7) (2... Rh3 3. h7 Ke8 4. Ra8+) 3. h7 Kd7 4. h8=Q Kc6 (4... Rd5 5. Qf6) 5. Qf6+ Kd7 6. Kg2 1-0  

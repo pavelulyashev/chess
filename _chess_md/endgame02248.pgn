@@ -1,0 +1,10 @@
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Iskra L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/7P/b2P1P2/2r5/5B2/7p/5K2/2b5 w - - 0 1"]
+
+ 1. d7 Rd5 2. f7 Ba3 3. Bd6 $1 {Nowotny} Rf5+ (3... Bxd6 $2 4. d8=Q+) (3... Rxd6 $2 4. f8=Q+) 4. Ke3 (4. Ke1 Rf1+ 5. Kd2 Bc1+ 6. Kc2 Bg5 7. Be5+ Kxh7 8. Bf6 Rxf6) 4... Bc1+ 5. Ke4 Bd3+ 6. Kxd3 Bg5 7. Be5+ Kxh7 8. Bf6 $1 {Nowotny} Rxf6 ( 8... Bxf6 $2 9. f8=Q) 9. d8=Q Rf3+ 10. Ke2 Bxd8 11. Kxf3 1/2-1/2  

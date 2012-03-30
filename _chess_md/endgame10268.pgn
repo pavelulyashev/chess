@@ -1,0 +1,10 @@
+[Event "us55 @1 @2 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n4N2/PpN5/3K4/k7/8/8/8/8 w - - 0 1"]
+
+ 1. Nd7 (1. Nxa8 $1 {cook} Ka6 2. Nb6 Kxa7 3. Nfd7 Ka6 4. Kc5 Ka7 5. Kc4 Ka6 6. Kb4 Ka7 7. Nc8+ Ka8 8. Kb5) 1... Nb6 2. Nxb6 Kxb6 3. a8=B (3. Nb5 $1 {cook CR}) 1-0  

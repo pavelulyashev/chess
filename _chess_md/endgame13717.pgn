@@ -1,0 +1,10 @@
+[Event "4/5 Prize wb09 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5p1p/p2p1p2/5N2/P1NP4/2K3P1/B6p/4k3 w - - 0 1"]
+
+ 1. Ne5 $1 h1=Q 2. Bd5 $1 Qh5 (2... Qxd5 3. Nd3+) 3. Nd3+ Kf1 (3... Kd1 4. Ne3+ Ke2 5. Nf4+) 4. Ne3+ Kg1 5. Nf4 $1 Qh2 (5... Qh6 6. Ne2+ Kf2 7. Ng4+) 6. Bg2 $1 1-0  

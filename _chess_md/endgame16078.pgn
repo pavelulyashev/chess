@@ -1,0 +1,10 @@
+[Event "Problemist of Ukraine  {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4p1p1/6P1/6Pp/BP5K/2Pk4/3P1p2/7n w - - 0 1"]
+
+ 1. Bd7 $3 ({Thematic try} 1. Bb5+ $2 Kxd2 2. Bf1 Ke1 3. Bh3 f1=Q 4. Bxf1 Kxf1 5. b5 (5. Kxh5 Nf2 $1 6. b5 Kg2 7. Kh4 Ne4 $1 8. Kg4 Nd6 9. b6 e5 10. c4 e4 11. Kf4 (11. c5 e3 12. cxd6 e2 13. d7 e1=Q 14. d8=Q Qe4+ 15. Kh5 Qf3+ 16. Kh4 Qh3#) 11... e3 12. Kxe3 Nxc4+ 13. Kd4 Nxb6 14. Ke5 Nc4+ 15. Ke6 Ne3 16. Kf7 Nf5) 5... Kg2 6. b6 Ng3 7. b7 Nf5+ 8. Kxh5 Kh3 9. b8=Q Ng3+ 10. Qxg3+ Kxg3 11. c4 Kf4 12. c5 Kf5 $1 13. Kh4 Ke6 $1 14. Kg4 Ke5 15. Kf3 Kd5 16. Kf4 e6 $1 {zz win}) (1. Bc6 $2 Kxd2 2. Bg2 e5 3. b5 e4 4. b6 e3 5. b7 e2 6. b8=Q f1=Q 7. Qb2+ Ke1 8. Qc1+ Kf2 {win.}) 1... e6 $1 (1... Kxd2 2. Bh3 e5 3. b5 e4 4. b6 e3 5. b7 e2 6. b8=Q f1=Q 7. Qb2+ Ke1 8. Qb1+ Kf2 9. Qb6+ $1 {perpetual check.}) 2. Bb5+ Kxd2 3. Bf1 Ke1 4. Bh3 $1 (4. Bc4 $2 e5 5. b5 e4 6. b6 e3 7. b7 e2 8. b8=Q f1=Q 9. Qb1+ Kf2 10. Qb6+ Kg2 {win.}) 4... f1=Q 5. Bxf1 Kxf1 6. b5 $1 Kg2 7. b6 Ng3 8. b7 Nf5+ 9. Kxh5 Kh3 10. b8=Q Ng3+ 11. Qxg3+ Kxg3 12. c4 Kf4 13. c5 Ke5 { No other way} 14. Kg4 $1 Kd5 15. Kf4 {zz} e5+ 16. Kf5 $11 1/2-1/2  

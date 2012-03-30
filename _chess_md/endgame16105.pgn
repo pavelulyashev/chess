@@ -1,0 +1,16 @@
+[Event "Izvestia {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rossolimo N"]
+[Black "Win"]
+[Result "*"]
+[FEN "2k5/6R1/N7/8/8/6K1/7p/5b2"]
+
+1.Rg8+ Kb7 2.Nc5+ Kb6 $1 
+(2...Kc6 3.Rc8+ Kb5 4.Kxh2 {1-0}) 3.Na4+ Kb5 
+(3...Ka5 4.Ra8+ Ba6 (4...Kb4 5.Kxh2 {1-0}) 5.Kxh2 {1-0}) 
+4.Nc3+ Kb4 (4...Kc4 5.Rc8+ Kd4 6.Kxh2 {1-0}) 
+5.Na2+ Kb3 (5...Ka3 6.Ra8+ Kb3 7.Kxh2 {1-0}) 
+6.Nc1+ Kb2 (6...Kc2 7.Rc8+ Kb2 8.Kxh2 {1-0}) 
+7.Kxh2 $1 Kxc1 8.Rg1

@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4pkp1/R6p/4PP2/6PK/1r5P/8 b - - 0 1"]
+
+ 1... e5 (1... Rf2 2. Rb5 $1 (2. e5+ Kf5 3. Ra8 g5 4. Rf8+ Ke4) 2... Kf7 (2... Rf1 3. e5+ Kf5 4. Rb8 g5 5. Kg2 Ra1 6. Rf8+) (2... h4 3. Kxh4 Rxh2+ 4. Kg4 Rg2 5. e5+ Kf7 6. Rb7+ Kf8 7. Kh4) 3. Rb7+ Kf6 4. e5+ Kf5 5. Rf7+ Ke4 6. Rf6) 2. Rxe5 Re2 3. Re8 Kf7 4. Ra8 Rxe4 5. Kh4 Re2 (5... Kf6 6. Ra6+ Kf5 7. h3 Re1 ( 7... g5+ 8. Kxh5 gxf4 9. g4+ Ke5 10. Kg5 $1) 8. g4+ hxg4 9. hxg4+ Kxf4 10. Rf6+ ) 6. Kg5 (6. h3 $2 Rh2) 6... Rxh2 7. Ra7+ Ke8 8. Kxg6 Rg2 9. Rh7 Rxg3+ 10. Kf6 Rg4 11. f5 h4 12. Rh8+ Kd7 13. Kf7 1-0  

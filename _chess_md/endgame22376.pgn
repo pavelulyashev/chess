@@ -1,0 +1,10 @@
+[Event "4 Prize, jp15 tc13 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/7p/8/prB4B/k7/8/8/8 w - - 0 1"]
+
+ 1. Bd1+ $1 (1. Be8 $2 h5 $1 2. Kf7 h4 3. Ke6 h3 4. Kd5 Kb3 $1 (4... h2 $2 5. Kc4 h1=Q 6. Bxb5#) 5. Bxb5 h2) 1... Rb3 2. Bd6 $1 (2. Be7 $2 h5 3. Kf7 h4 4. Ke6 h3 5. Kd5 Kb5 $1) 2... h5 3. Kf7 h4 4. Ke6 h3 5. Kd5 h2 6. Kc4 h1=Q 7. Bxb3# 1-0  

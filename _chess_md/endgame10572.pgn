@@ -1,0 +1,10 @@
+[Event "1 Prize ts24 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P4B/1nb5/5K1k/2P5/6P1/8 w - - 0 1"]
+
+ 1. Bg5+ $1 (1. c7 $2 Bd6+ $1 (1... Nxc7 $2 2. Bg5+ Kh5 3. Kf5)) 1... Kh5 2. c7 Bd6+ 3. Kf5 Bg3 $1 4. c8=N $1 (4. c8=Q $2 Nd6+) 4... Nxc3 5. Nd6 Ne2 $1 6. Nb5 $1 Ng1 7. Nd4 1-0  

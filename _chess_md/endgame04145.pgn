@@ -1,0 +1,10 @@
+[Event "1 Prize tv11 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "qN6/bk6/1p6/2PN2pp/1P6/5K1R/7P/8 w - - 0 1"]
+
+ 1. c6+ $1 1... Kxb8 2. b5 $1 (2. Rxh5 $2 2... Qxc6 3. Rh8+ Kb7 4. Rh7+ Ka6) (2. c7+ $2 2... Kc8 3. Ke4 Qc6) 2... g4+ 3. Kg2 $1 3... gxh3+ 4. Kh1 $1 4... Qxc6 ( 4... Kc8 5. Nxb6+ Bxb6) (4... h4 5. Nxb6 Bxb6) 5. bxc6 b5 6. Nc7 $1 6... Kxc7 ( 6... b4 7. Na6+) 1/2-1/2  

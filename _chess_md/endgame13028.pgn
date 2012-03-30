@@ -1,0 +1,10 @@
+[Event "td23#0637 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Halpern J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2b2k2/3p1P1B/2pP1K2/1pP5/1P6/8/8 w - - 0 1"]
+
+ 1. Bf8 Kxf8 (1... Bb8 {main} 2. Be7 Bc7 3. Kg5 Bb8 4. Bd8 Ba7 (4... Ke8 5. Kg6) 5. Bc7) 2. Ke6 Ke8 3. f7+ Kf8 4. Kd7 Bb8 5. Kc8 Ba7 6. Kb7 Kxf7 7. Kxa7 1-0  

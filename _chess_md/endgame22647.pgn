@@ -1,0 +1,10 @@
+[Event "3 Prize, jv05 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Osintsev S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3r4/4kbK1/8/4P3/3p2n1/7p/3B3p/4Q3 w - - 0 1"]
+
+ 1. Qh4+ $1 (1. Bb4+ $2 Ke6 $1 2. Qf1 Rg8+ 3. Kh7 Rg5) (1. Bg5+ $2 Ke6 $1 2. Bxd8 Nf2 3. Qxf2 h1=Q 4. Qf6+ Kd5 5. Kxf7 Qd1 6. Qf5 h2 7. e6+ Kc4 8. e7 h1=Q) 1... Ke8 (1... Kd7 2. Qxg4+ Be6 3. Qe4 Rg8+ 4. Kh7 Rg1 5. Qb7+ Ke8 6. Bb4 Bf5+ 7. Kh8 Kd8 8. Be7+ Ke8 9. Bf6 Bd7 10. Qc7 h1=Q 11. Qd8+ Kf7 12. Qxd7+ Kg6 13. Qh7#) 2. Bb4 (2. e6 $2 Bxe6 3. Qh5+ Kd7 4. Qb5+ Kc8 5. Qc6+ Kb8 6. Qb6+ Kc8 7. Qxe6+ Rd7+) (2. Qxh3 $2 Bd5 3. Qh5+ Kd7 4. Qxg4+ Kc6 5. Qg6+ Kb7 6. Qb1+ Ka7 7. Qa1+ Kb8) (2. Qh8+ $2 Kd7 3. Qxh3 Be6 4. Qf3 Rg8+ 5. Kh7 Rb8 6. Bf4 Rb1) 2... Rd7 (2... Kd7 3. Qxg4+ Kc7 4. Qxh3) 3. Qh8+ Bg8+ 4. Kg6 (4. Kxg8 $2 h1=Q) 4... Nh6 $1 (4... Kd8 5. Qxg8+ Kc7 6. Bd6+ Rxd6+ 7. exd6+ Kxd6 8. Qf8+ Ke6 9. Qf5+ Kd6 10. Qe4 Kc5 11. Kg5 Nf2 12. Qe5+ Kc4 13. Qxh2) 5. Qxh6 (5. Qf6 $2 Nf7 6. Qg7 Kd8 7. Qf8+ Kc7 8. Qc5+ Kd8 9. Ba5+ Ke8 10. Qc8+ Nd8 11. Bxd8 Rxd8 12. Qxh3 d3 13. Kf6 d2 14. Qa3 Rd7 15. Qa8+ Rd8 16. Qc6+ Rd7) 5... Rd6+ $1 (5... Re7 6. Bxe7 h1=Q 7. Qf8+ Kd7 8. Qd8+ Kc6 9. Qa8+) 6. exd6 $1 h1=Q (6... Bf7+ {main} 7. Kh7 $1 h1=Q 8. Qf8+ $1 Kxf8 9. d7#) 7. Qf8+ $1 Kxf8 (7... Kd7 8. Qe7+ Kc6 9. Qe8+ Kb6 10. d7 Qg2+ 11. Kh6 $1 Qc6+ 12. Kg7 Qg2+ 13. Kh8 $1) 8. d7# 1-0  

@@ -1,0 +1,10 @@
+[Event "Cs sach, comm {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Mikeska A, Vlasak E"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/1p6/1P2k3/2P1p3/5B2/5K2/2n5 w - - 0 1"]
+
+ 1. c5 $1 Nd3+ 2. Ke3 Nxc5 3. Bh1 $3 Kf5 4. Bg2 Ke5 5. Bh1 Kd5 6. Bg2 {Zugzwang. } Kc4 7. Bf1+ *  

@@ -1,0 +1,10 @@
+[Event "tf08 @3 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Hoppe O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/3k2P1/8/8/8/2r5/1p6/6R1 w - - 0 1"]
+
+ 1. Rb1 Rc2 (1... Rb3 2. Kf7 Rf3+ 3. Kg6 Rg3+ 4. Kf6 Rf3+ 5. Ke5 Rg3 6. Rxb2 Ke7 7. Rb7+ Ke8 8. Kf6) 2. Kf7 Rf2+ 3. Kg6 Rg2+ 4. Kf6 Rf2+ (4... Kd6 $1 {cook GM} 5. Rxb2 Rxb2 6. g8=Q Rf2+ 7. Kg6 Rg2+) 5. Ke5 Re2+ 6. Kf4 $1 (6. Kd5 $2 Rg2 7. Rxb2 Rg5+ $1 8. Ke4 Ke6) (6. Kf5 $2 Rf2+ 7. Ke4 Re2+ 8. Kf4 $1 (8. Kf3 $2 Re8 9. Rxb2 Rg8 10. Kf4 Ke6 $1)) 6... Rg2 7. Rxb2 1-0  

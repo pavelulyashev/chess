@@ -1,0 +1,10 @@
+[Event "tk21 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1bk2r2/1n2R3/4K3/1N3N2/8/8/8/8 w - - 0 1"]
+
+ 1. Rc7+ $1 1... Bxc7 2. Ne7+ Kb8 (2... Kd8 3. Nc6+ Ke8 (3... Kc8 4. Nba7#) 4. Nxc7#) 3. Nc6+ Ka8 (3... Kc8 4. Nba7#) 4. Nxc7# 1-0  

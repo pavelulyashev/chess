@@ -1,0 +1,10 @@
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4R3/3kP2n/K7/n7/8/2b5/5p2/8 w - - 0 1"]
+
+ 1. Rf8 Nf6 $1 2. e8=Q+ Nxe8 3. Rxf2 Nc7+ 4. Ka7 $1 Bd4+ 5. Kb8 Na6+ 6. Ka8 Nc7+ 7. Kb8 Nc6+ 8. Kb7 Na5+ 9. Kb8 Na6+ 10. Ka8 Bxf2 1/2-1/2  

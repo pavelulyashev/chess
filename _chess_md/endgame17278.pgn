@@ -1,0 +1,10 @@
+[Event "ts23#20 @3 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/5K1k/7N/3P4/3rrnR1 w - - 0 1"]
+
+ 1. Nf2 $1 (1. Rh1 $2 Re4+ $1) 1... Ne3 $1 2. Rxe1 $1 (2. Nxd1 $2 Nd5+ $1) 2... Ng2+ 3. Ke4 $1 Rxe1+ 4. Kf3 Rg1 5. Nd3 $1 Kh3 (5... Kg5 $1 {cook AU} 6. Kf2 Rd1 7. Kxg2 Rxd2+ 8. Nf2 Kf4 9. Kg1 Kf3 10. Nh1 Ra2) 6. Nf2+ Kh2 7. Ng4+ Kh3 8. Nf2+ Kh2 9. Ng4+ Kh3 10. Nf2+ Kh4 11. Nd3 $1 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "6 Prize, Kasparyan 100 MT {m}"]
+[Site "?"]
+[Date "2010.06.29"]
+[Round "?"]
+[White "Manvelyan A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4n3/PRP1Pk2/8/Kbn5/4q3/7B/8/8 w - - 0 0"]
+
+ 1. a8=Q $1 (1. c8=Q $2 Nxb7+ 2. Kb6 Qe3+ 3. Kxb7 Nd6+ $18) 1... Qa4+ (1... Nxb7+ 2. Qxb7 Qxb7 3. c8=Q Qa7+ 4. Kb4 Qd4+ 5. Ka5 Bc4 6. Bd7 Qc3+ 7. Kb6 $11) 2. Kb6 Qxa8 3. c8=Q Na4+ 4. Kxb5 Nd6+ 5. Kb4 $1 (5. Kc6 $2 Nxc8 $19) 5... Nxc8 6. Be6+ $1 (6. e8=Q+ $5 Kxe8 7. Bd7+ Kf8 8. Bc6 Qa6 {(Ne7)-+}) 6... Ke8 7. Bd7+ Kxe7 8. Bc6+ $1 Kd6 9. Rc7 $1 Qa6 10. Bb5 Qa8 11. Bc6 Qb8+ 12. Rb7 Qa8 13. Rc7 $11 1/2-1/2  

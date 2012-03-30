@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/4P3/P5b1/7p/7p/6kP/2P2p2/5B1K w - - 0 1"]
+
+ 1. e8=R $1 (1. e8=Q $2 1... Be4+ 2. Qxe4) 1... Bxe8 2. a7 Bg6 3. a8=B $1 (3. a8=Q $2 3... Be4+ 4. Qxe4) 1-0  

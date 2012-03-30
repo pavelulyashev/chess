@@ -1,0 +1,10 @@
+[Event "Polasek&Vlasak50JT_1stHM {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K1k2/5b1p/P5p1/3N4/6P1/8/r7/2B5 w - - 0 1"]
+
+ 1. Bh6+ Kg8 2. Nf6+ Kh8 3. Ke7 Rxa6 4. Kf8 $1 (4. Kxf7 Ra7+ 5. Kf8 g5 $1 (5... Rb7 $2 6. Ne8 Ra7 7. Bg7+ Rxg7 8. Nxg7 h5 9. Nxh5) 6. Bxg5 (6. Nd5 Rf7+ $1 7. Ke8 Ra7 8. Ne7 Ra6 9. Nf5 Re6+ 10. Kf7 Rxh6 11. Nxh6) 6... Ra8+ $1 7. Kf7 (7. Ne8 h5 8. gxh5 Ra5 9. Bf6+ Kh7 10. Ng7 Rxh5 11. Nxh5 Kg6) 7... Ra7+ 8. Ke6 Kg7) 4... Ra8+ 5. Ne8 $1 Rxe8+ 6. Kxf7 Rg8 7. g5 {Mutual zugzwang} 1-0  

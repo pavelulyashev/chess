@@ -1,0 +1,10 @@
+[Event "2 Prize tb01 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/2R5/2PK4/8/8/8/p7/r7 w - - 0 1"]
+
+ 1. Rd7+ Kc8 (1... Ke8 $144 2. Re7+ Kf8 3. Ra7 $11) 2. Rc7+ Kb8 3. Rb7+ Ka8 4. Rb6 $1 Ka7 5. Rb7+ (5. Kc7 $143 Rb1 6. Rb7+ Ka8 $19) 5... Ka6 6. Rb8 Ka7 (6... Rd1+ $144 7. Kc7 a1=Q 8. Ra8+ $11) 7. Rb7+ Ka8 8. Rb6 Rd1+ 9. Kc7 a1=R (9... a1=Q $144 10. Ra6+ $1 Qxa6 $11) 10. Rb8+ Ka7 11. Rb7+ Ka6 12. Rb6+ Ka5 13. Kb7 $1 Rab1 14. Rxb1 Rxb1+ 15. Ka7 $1 Rc1 16. Kb7 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "t001#095 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Platov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k7/b7/8/1K6/5R2/8/8 w - - 0 1"]
+
+ 1. Ka5 $1 Be2 (1... Bc4 2. Rc3 Be6 3. Rc7+ Kb8 4. Kb6) (1... Bc8 2. Rf7+ Kb8 3. Kb6) 2. Rf7+ Kb8 3. Kb6 Kc8 4. Kc6 $1 Kd8 (4... Kb8 5. Rc7 $1) 5. Kd6 Kc8 $1 6. Rc7+ Kb8 (6... Kd8 7. Rc2 Bd3 8. Rd2 Ba6 9. Ra2 Bb7 10. Rh2) 7. Kc6 Bf3+ 8. Kb6 1-0  

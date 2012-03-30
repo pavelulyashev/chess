@@ -1,0 +1,10 @@
+[Event "=2nd/3rd HM  Bent MT {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Slepjan G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "KN5r/B1P3pP/QPn2k2/5P2/3n4/8/6p1/5R1b b - - 0 1"]
+
+ 1... Nxb8 2. cxb8=B (2. Rg1 $2 Nxa6+ 3. Bb8 ({COOK (Josten)} 3. c8=Q Rxc8+ 4. Kb7 Rh8 5. Kxa6 Nc6 6. b7 $11) 3... Ne2 4. Ka7 Nxg1 5. Kxa6 (5. b7 Nxc7 6. Bxc7 Ne2 7. b8=Q g1=Q+ {-+}) 5... Ne2 6. b7 g1=Q 7. c8=Q Bxb7+ 8. Qxb7 Qa1+ {-+}) ( 2. cxb8=Q $2 gxf1=Q+ 3. b7+ Qxa6 4. Qxh8 Qxb7#) (2. b7+ $2 Nxa6+ 3. c8=Q Rxc8+ 4. bxc8=Q gxf1=Q+ {-+}) (2. c8=Q $2 Nxa6 3. Qxh8 gxf1=Q+ 4. b7 Bxb7+ 5. Kxb7 Qb5+ 6. Bb6 Nc5+ {-+}) 2... gxf1=B+ (2... gxf1=Q+ 3. b7+ Qxa6 {stalemate}) 3. b7+ (3. Qb7 $2 Bfg2 {-+}) 3... Bxa6 4. Bxd4+ Kxf5 (4... Kf7 5. Bxg7 Kxg7 6. Ka7 Rxh7 7. Kxa6 Kg8 8. Bc7 Bxb7+ 9. Kxb7 {=}) 5. Bxg7 Baxb7+ 6. Ka7 Rxh7 7. Bbe5 Rh4 8. Bd4 Re4 9. Bge5 Re2 10. Bb2 Rc2 11. Bec3 Rg2 12. Bg7 Rg6 13. Bbf6 Rg3 14. Bc3 Rd3 15. Bgd4 {=} 1/2-1/2  

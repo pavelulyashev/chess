@@ -1,0 +1,10 @@
+[Event "ts23 {te} {ph} @1 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/8/8/1Q6/8/2p5/kp6/8 w - - 0 1"]
+
+ 1. Qa4+ (1. Qa5+ Kb3 2. Qf5 $1 {cook}) 1... Kb1 2. Qd1+ Ka2 3. Qc2 1-0  

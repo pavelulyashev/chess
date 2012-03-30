@@ -1,0 +1,10 @@
+[Event "ts25 @3 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4K3/4R3/b2b4/5p2/8/3P4/1k6 w - - 0 1"]
+
+ 1. Re5 Bb4+ 2. Kd8 Bc4 3. Re4 Ba5+ $1 4. Ke7 $1 Bxd2 (4... f3 $1 {cook MI} 5. Rf4 (5. Rxc4 Bxd2 $1) 5... Be2 6. d4 Bd2 7. Rf7 Be3 8. d5 f2 9. d6 f1=Q) 5. Rd4 $1 (5. Rxc4 $2 f3) 1/2-1/2  

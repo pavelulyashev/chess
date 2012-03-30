@@ -1,0 +1,10 @@
+[Event "tp18 {c} {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p5/2P5/4k3/p1p3B1/PpP5/1P6/r1NK4 w - - 0 1"]
+
+ 1. Be2 $1 (1. Bh5 $2 Rb1 2. Bf7 Rxb2 3. Bxc4 Kd6 4. Bb5 Rb1 5. Kd2 b2 6. Nd3 Rd1+) 1... Kd5 (1... Rb1 2. Bxc4 Rxb2 $2 (2... Kd6 3. Bb5 Rxb2 4. Bxa4) 3. Nd3+ ) 2. Bf3+ $1 (2. Bxc4+ $2 Kxc4 3. Kd2 Rxa3 $1) 2... Kc5 (2... Kd6 3. Be4) 3. Be4 $1 Ra2 $1 4. Nxa2 $3 bxa2 5. Kc1 a1=Q+ 6. Bb1 1/2-1/2  

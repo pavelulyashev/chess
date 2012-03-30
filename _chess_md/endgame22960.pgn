@@ -1,0 +1,10 @@
+[Event "3.s.Hm.Tolush 100 MT {m}"]
+[Site "?"]
+[Date "2011.11.11"]
+[Round "?"]
+[White "Hlinka M, Kekely L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/pk1pPbpq/1pRK4/P1P3b1/3n4/2R5/8/Q7 w - - 0 0"]
+
+ 1. a6+ Kb8 2. Rc8+ Kxc8 3. cxb6+ Nc6 4. Rxc6+ (4. e8=Q+ $2 Bxe8 5. Rxc6+ dxc6 6. b7+ Kb8 7. Qe5 Bf4 8. Qxf4 g5 $19) 4... dxc6 5. b7+ Kb8 6. Qe5 Bf4 7. Qxf4 Qh6+ (7... g5 8. Qe5 $18) 8. Kc5+ Qxf4 9. e8=Q+ Bxe8 {stalemate} 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "The Independent {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n1b/p1p5/pP6/3K4/k7/5B2/1P6/8 w - - 0 1"]
+
+ 1. bxa7 (1. Kc4 $2 Nd7 2. Bc6+ Ka5 3. bxa7 Nb6+ 4. Kc5 Bxb2 $11) 1... Nd7 2. a8=Q Nb6+ 3. Kc5 Bd4+ (3... Nxa8 4. Bd1+ Ka5 5. b4#) 4. Kxd4 Nxa8 5. Kc3 (5. Bxa8 $2 Kb3 $11) 5... Nb6 (5... Kb5 6. Bxa8 Kc5 7. Bf3 a5 8. Kb3 $1 $18) (5... Ka5 6. Bxa8 Kb5 7. Bf3 Kc5 8. Kb3 $18) 6. Bc6+ Ka5 7. b4# 1-0  

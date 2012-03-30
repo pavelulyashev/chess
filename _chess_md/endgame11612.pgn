@@ -1,0 +1,10 @@
+[Event "1 Prize ts25 {tt} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kurjatnikov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N1k2r2/8/8/2P5/4R2K/8/4p3/8 w - - 0 1"]
+
+ 1. Re7 (1. Rxe2 $2 Kb7 2. Nb6 Rf5 3. Nd7 Kc6 4. Ne5+ Kxc5 5. Ng4 (5. Kg4 Rf1) 5... Rf1) (1. Nb6+ $2 Kb7 2. Kg3 Kc6 3. Na4 Kb5 $1) 1... e1=Q+ (1... Kd8 2. Rxe2 Kd7 3. Nb6+ Kc6 4. Re5 Rf1 5. Nc8 Rc1 6. Ne7+) (1... Rf4+ 2. Kg3 Rc4 3. Nb6+ Kd8 4. Nxc4 Kxe7 5. Kf2) 2. Rxe1 Kb7 3. Nb6 (3. Ra1 $2 Kc6 4. Ra5 Rf5 5. Ra6+ Kb7 6. Ra5 Kc6) 3... Rf5 4. Nd7 Kc6 (4... Rd5 5. Re6 Kc7 6. c6 Rd6 7. Rxd6 $1) 5. Ne5+ (5. Rd1 $2 Rd5 $1 6. Rxd5 Kxd5 7. Kg5 Kc6) 5... Kxc5 6. Kg4 $1 1-0  

@@ -1,0 +1,10 @@
+[Event "tb01 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Kaminer S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5B2/p6K/1P2P2p/7b/6k1/8/Br5P/8 w - - 0 1"]
+
+ 1. Bb3 (1. bxa7 $2 Rxa2 2. Kxh6 Be8 3. Bc5 Kf5 4. e7 Kf6) 1... Rxb3 2. bxa7 Rb7+ 3. Kxh6 Rxa7 4. h3+ Kh4 5. Be7+ Rxe7 (5... Kxh3 6. Bc5 Ra5 7. Kxh5 Rxc5+ 8. Kg6) 1/2-1/2  

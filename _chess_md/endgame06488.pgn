@@ -1,0 +1,10 @@
+[Event "tt06#1250 @3 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "nb1N4/8/1pPn4/1PP5/4k1K1/8/8/8 w - - 0 1"]
+
+ 1. cxb6 (1. cxd6 $2 1... Bxd6) (1. c7 $2 1... Bxc7 2. cxb6 2... Bxb6 $1) 1... Nxb6 (1... Nxb5 2. c7 Naxc7 3. Nc6) (1... Nc7 2. Nb7 Nxb7 3. bxc7 Bxc7 4. cxb7) 2. c7 $1 2... Bxc7 (2... Ba7 3. Nc6) 3. Ne6 Bb8 (3... Ne8 4. Nxc7 Nxc7) 4. Nc5+ Ke3 5. Na6 Ba7 6. Nb4 Nbc4 (6... Nd7 $1 7. b6 Nf6+ 8. Kg5 Nde4+ 9. Kf5 Bxb6) 7. b6 Nxb6 (7... Bxb6 8. Nd5+) 8. Nc6 1/2-1/2  

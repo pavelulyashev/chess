@@ -1,0 +1,10 @@
+[Event "tp61#031 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/5P1p/2Ppk3/4p3/4n1N1/5NnK w - - 0 1"]
+
+ 1. f6 $1 (1. Nfxe3 $2 dxe3 2. f6 Nf3 3. f7 Ng3#) (1. Ngxe3 $2 dxe3 2. f6 Nd4 3. f7 Ne6 4. Kxg1 e2 5. Ng3+ Ke5 6. Nxe2 Kf6 7. Nf4 Kxf7) 1... Nh3 2. f7 $1 (2. Ngxe3 $2 dxe3 3. f7 Nf2+ 4. Kh2 (4. Kg2 $2 Nf4+ 5. Kg3 Ng6 6. c5 h4+ 7. Kg2 Nd3 ) 4... Ng4+ 5. Kh1 Nf2+) 2... Nf2+ 3. Kh2 Ng4+ 4. Kh3 Ng1+ 5. Kh4 Nf3+ $1 (5... e2 $2 6. Nd2+ Kd3 7. f8=Q) 6. Kg3 (6. Kxh5 $2 Nf6+ 7. Kg6 Nd7) 6... Nf2 $1 7. Ngxe3 $1 (7. f8=Q $2 Nh1+ 8. Kh3 Nf2+) (7. Nfxe3 $2 Nh1+ 8. Kh3 Nf2+) 7... dxe3 8. Nxe3 (8. f8=Q $2 h4+ 9. Kg2 Ne1+ 10. Kh2 Nf3+) 8... Kxe3 (8... Nh1+ 9. Kg2 Nh4+ 10. Kxh1 Ng6 11. c5 Ke5 12. c6 Kd6 13. Nd5) 9. f8=Q h4+ 10. Kg2 h3+ (10... Ne1+ 11. Kf1) 11. Kg3 $1 (11. Kf1 $2 Nd2+ 12. Ke1 Nf3+) 11... Ne4+ 12. Kxh3 1-0  

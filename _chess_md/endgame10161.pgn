@@ -1,0 +1,10 @@
+[Event "td30 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/8/8/2K5/3N4/Pp6/r7/k7 w - - 0 1"]
+
+ 1. Kb4 b2 (1... Kb1 2. Nxb3) 2. Bf6 (2. Nc2+ $2 Kb1 3. Kb3 Kc1 4. Bg5+ Kd1 5. Ne3+ Kc1) 2... Rxa3 $1 3. Kxa3 b1=N+ 4. Kb3 Nd2+ 5. Kc2 Nc4 (5... Ne4 6. Be7 Ka2 7. Nb3 Nd6 8. Nc1+) 6. Kc3 Ne3 7. Bg5 Nd1+ 8. Kb3 Nb2 9. Nc2+ Kb1 10. Na3+ Ka1 11. Bh4 Nd3 12. Bf6+ Nb2 13. Bxb2# 1-0  

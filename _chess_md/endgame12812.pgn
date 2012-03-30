@@ -1,0 +1,10 @@
+[Event "tt06 {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Freeborough E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5k2/3P4/2p5/4K1pp/8/2P3P1/8 w - - 0 1"]
+
+ 1. Kf4 $1 (1. Kd5 $2 h3 2. Kc6 (2. gxh3 gxh3 3. Kc6 h2 4. d7 h1=Q+ 5. Kc7 Qh2+ 6. Kc8 Qh3 7. Kc7 Qg3+ 8. Kc8 Qg4 9. Kc7 Qf4+ 10. Kc8 Qf5 11. Kc7 Qe5+ 12. Kc8 Qe6 13. Kc7 Qe7 14. Kc8 Ke6 15. d8=Q Qxd8+ 16. Kxd8 Kd6 17. Kc8 c4 18. Kb7 Kc5 19. Kc7 c3 20. Kb7 Kb5) 2... hxg2 3. d7 g1=Q 4. d8=Q) 1... h3 2. gxh3 gxh3 3. Kg3 Ke6 4. Kxh3 Kxd6 5. Kg3 Ke5 6. Kf3 Kd4 7. Ke2 Kc3 (7... c4 8. Kd2) 8. Kd1 Kb2 9. c4 $1 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "New Statesman {and Nation} {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Cohen D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P2pP3/7p/b1KQ1rNP/2P5/8/3q3k w - - 0 1"]
+
+ 1. Nf2+ (1. Qxf4 $2 Qe2+) 1... Rxf2 2. Qxd1+ Bxd1 3. e7 Ba4 (3... Re2 4. a7 Re4+ 5. Kd3 (5. Kd5 $2 Rxe7) (5. Kb5 $2 Re5+)) 4. a7 Rf4+ 5. Kd3 (5. Kd5 $2 Rf5+) 5... Bb5+ 6. c4 $1 {Nowotny} Bxc4+ (6... Rxc4 7. a8=Q+) (6... Rf3+ 7. Ke2 Ra3 8. cxb5) 7. Kc3 1-0  

@@ -1,0 +1,10 @@
+[Event "ts72 {m} {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4N3/8/8/2k5/4p3/b7/1p4KR/7B w - - 0 1"]
+
+ 1. Rh5+ Kb6 $1 (1... Kb4 2. Kg3 b1=Q 3. Bxe4 Qxe4 4. Rh4) (1... Kc4 2. Kg3 b1=Q 3. Bxe4 Qxe4 4. Rh4) (1... Kc6 2. Re5 b1=Q 3. Rxe4 Qxe4+ 4. Kh2) 2. Rh6+ $1 Ka7 $1 (2... Ka5 3. Nc7 Bc5 (3... b1=Q 4. Ra6+ Kb4 5. Rb6+) 4. Ra6+ Kb4 5. Ra8 Bb6 6. Rb8 Kc5 7. Rxb6 Kxb6 8. Nd5+ Kc5 9. Nc3) (2... Kb7 3. Re6 b1=Q 4. Rxe4 Qxe4+ 5. Kh2) 3. Rh7+ Kb8 $1 (3... Ka6 4. Nc7+ Ka5 (4... Kb7 5. Nd5+ Kc6 6. Nc3) 5. Rh6 $1 Bc5 6. Ra6+ Kb4 7. Ra8) (3... Ka8 4. Rb7 Kxb7 5. Kf2 b1=Q 6. Bxe4+ Qxe4 7. Nd6+) 4. Rb7+ Kxb7 5. Kh3 b1=Q 6. Bxe4+ Qxe4 7. Nd6+ Bxd6 1/2-1/2  

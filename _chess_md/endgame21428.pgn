@@ -1,0 +1,10 @@
+[Event "tb10#0412 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6p1/8/N4PK1/1p6/3k4/8/8 w - - 0 1"]
+
+ 1. Kf4 $1 (1. Kg6 $2 Ke4 2. Nc6 (2. Kg5 Kd5 3. Kf4 Kd6 4. Ke4 Ke7 5. Nc6+ Kf7) 2... b3 3. Na5 b2 4. Nc4 b1=N $1 5. Nd6+ Kd5 6. Kxg7 Nd2 7. f6 Nf3 8. Nf7 (8. f7 Ng5) 8... Nd4 9. Nd8 Nf5+ 10. Kg6 Nd6 11. Nb7 Nc4 12. Kf5 Ne5 13. Nd8 Kd6) 1... Kc3 $1 (1... Kd4 2. Nc6+ Kc3 3. Nxb4 Kxb4 4. Kg5) (1... Kd2 2. Nc6 b3 3. Na5 b2 4. Nc4+) (1... Ke2 2. Nc6 b3 3. Nd4+) 2. Kg4 Kd3 3. Kg5 $1 Ke4 (3... Ke3 4. Nc6 b3 5. Na5 b2 6. Nc4+) (3... Kd4 4. Nc6+) 4. Kg6 $1 (4. Nb3 $2 Kf3 5. Kg6 (5. Nc5 Kg3 6. Kg6 Kg4) 5... Kf4 6. Nc5 Kg4) 4... Kf4 (4... Ke5 5. Nc6+) 5. Nb3 Ke5 (5... Ke4 6. Nc1) 6. Nc5 Kd5 (6... Kf4 7. Nd3+) 7. Kxg7 Kxc5 8. f6 1-0  

@@ -1,0 +1,10 @@
+[Event "ts18 @2 {m}"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/5P2/5r2/8/R1R5/3p2K1/8/7r w - - 0 1"]
+
+ 1. Rab4+ Ka7 2. Rc7+ Ka8 (2... Ka6 3. Rc6+ $1) 3. Rc8+ (3. Rd4 $1 {cook}) 3... Ka7 4. f8=Q Rxf8 5. Rxf8 d2 6. Rf2 $1 Rg1+ (6... d1=Q 7. Ra2+) 7. Kh2 (7. Kh4 $2 Rg4+ $1) 7... Rh1+ 8. Kg2 Rg1+ 9. Kxg1 $1 d1=Q+ 10. Rf1 $1 1-0  

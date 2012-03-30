@@ -1,0 +1,10 @@
+[Event "4 Honorable Mention 64 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K4B/1p6/2k1p3/P3P3/pP1p4/8/2PP4/8 w - - 0 1"]
+
+ 1. b5+ Kxb5 2. Kxb7 d3 $1 (2... a3 3. a6 a2 4. a7 a1=Q 5. a8=Q Qh1+ 6. Kb8) ( 2... Kxa5 3. Bf6 a3 4. Bd8+ Kb5 5. Bb6 Kc4 6. Kc6 a2 (6... d3 7. cxd3+ Kxd3 8. Ba5 a2 9. Bc3) 7. Ba5 a1=Q 8. d3#) 3. c4+ Kxa5 4. c5 a3 5. c6 a2 6. c7 a1=Q 7. c8=Q Qb2+ 8. Kc7 Qxd2 $11 1-0  

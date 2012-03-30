@@ -1,0 +1,10 @@
+[Event "Internet (ChessProblem.net) {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Hornecker S, Rusz A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1b5/Pp1p1ppp/1P1P1P1P/5p1K/5P2/3p1P2/8/2N5 w - - 0 1"]
+
+ 1. Nb3 $3 (1. hxg7 $2 d2 2. g8=Q dxc1=Q 3. Kh6 Qh1+ (3... Qxf4+ $2 4. Kg7 $1 Qg5+ 5. Kxf7 $18) 4. Kg7 Qh6+ $1 5. Kxf7 (5. Kxh6 {stalemate}) 5... Qg6+ 6. Qxg6 hxg6 7. Ke7 g5 8. f7 gxf4 $1 9. f8=Q {stalemate}) (1. Nxd3 $2 gxf6 $1 2. Ne5 fxe5 3. fxe5 f4 ({or} 3... f6 4. exf6 f4) 4. Kg5 f6+ $1 5. exf6 {stalemate} ) 1... d2 $1 (1... gxf6 2. Nd4 $1 d2 3. Nb5 d1=Q 4. Nc7#) 2. Nxd2 gxf6 $1 { Pickaninny} (2... gxh6 3. Kh4 $1 $18) (2... g5 3. fxg5 f4 4. g6 $18) (2... g6+ 3. Kh4 g5+ 4. fxg5 f4 5. g6 $18) 3. Ne4 $1 fxe4 4. fxe4 f5 5. e5 f6 6. Kh4 fxe5 7. fxe5 f4 8. Kh3 $1 (8. Kg4 $2 f3 9. Kxf3 {stalemate}) 8... f3 9. e6 $1 f2 ( 9... dxe6 10. Kg3 e5 11. Kxf3 $18) 10. Kg2 1-0  

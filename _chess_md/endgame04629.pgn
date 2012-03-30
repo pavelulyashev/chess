@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/4p1p1/2P5/7k/1P6/K5P1/8 w - - 0 1"]
+
+ 1. b4 $1 1... e5 2. b5 e4 3. b6 cxb6 4. g3+ $3 4... Kg5 (4... Kh5 5. c6 $1 5... e3 6. c7 e2 7. c8=Q e1=Q 8. Qh3+ Kg5 9. Qh4+ Kf5 10. g4+) 5. cxb6 e3 6. b7 e2 7. b8=Q e1=Q 8. Qf4+ Kh5 9. Qh4# 1-0  

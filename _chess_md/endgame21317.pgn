@@ -1,0 +1,10 @@
+[Event "ts70#1105 {ph} {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/5R2/8/8/b1K5/8/8/8 w - - 0 1"]
+
+ 1. Kc5 Kb8 2. Rf4 $1 (2. Kb6 $2 Kc8) 2... Bd1 (2... Bc2 3. Kb6 Kc8 4. Rc4+) ( 2... Bd7 3. Kb6) 3. Kb6 Kc8 4. Rc4+ Kb8 5. Rd4 1-0  

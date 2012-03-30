@@ -1,0 +1,10 @@
+[Event "us51 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Kasparjan G, Varov S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K3/k4n2/1p3B2/pP6/P7/8/8/b5N1 b - - 0 1"]
+
+ 1... Nd6+ (1... Bxf6 2. Kxf7 Bd4 3. Nf3 Bc5 4. Ke6 Kb7 5. Kd7 Be3 6. Ne5 Bd4 7. Nf7 Bc5 8. Nd6+ Kb8 9. Kc6 Bg1 10. Nc4 Ka7 11. Kc7 Bh2+ 12. Nd6 $1 Bg3 13. Kc6 Bf2 14. Nc8+) 2. Kd7 Nxb5 3. Bxa1 Na3 4. Kc6 $1 (4. Ne2 $2 b5 5. Bb2 Nc2 6. axb5 Kb6 7. Nc3 Nd4 8. Nd5+ Kxb5 9. Bxd4 Kc4) (4. Bd4 $2 Ka6 5. Kc6 Nc2 6. Bxb6 Nb4+ 7. Kc5 Nd3+ 8. Kd4 Nb2) 4... Nc2 $1 5. Ne2 $1 (5. Bc3 $2 Ka6 6. Ne2 Nb4+ 7. Bxb4 axb4) (5. Nf3 $2 Ka6 6. Nd4 Nxd4+ 7. Bxd4) 5... Nxa1 6. Nd4 $1 Ka6 7. Nb5 Nb3 8. Kc7 Nc5 9. Kb8 Nxa4 (9... Ne6 10. Ka8) 10. Nc7# 1-0  

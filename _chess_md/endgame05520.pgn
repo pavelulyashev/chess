@@ -1,0 +1,10 @@
+[Event "us37#0016 {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Sidorov B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4N3/8/2N5/2n5/n2Rp3/1k2b1K1 w - - 0 1"]
+
+ 1. Rb2+ Ka1 (1... Kc1 2. Nc5 Bf2+ 3. Kxf2 Nd1+ 4. Ke1 Nxb2 5. Na3 Nc4 6. Nd3#) 2. Nd4 (2. Nc5 $2 2... Nc1) 2... Bf2+ 3. Kxf2 Nd1+ 4. Ke1 (4. Kf3 $2 4... e1=N+ 5. Kg3 (5. Ke2 Nac3+) 5... Nc1) 4... Nxb2 5. Nb3+ Kb1 6. Na3# 1-0  

@@ -1,0 +1,10 @@
+[Event "2 Prize, tr11 {v} {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N3/3Pkp2/8/7K/1r6/4B3/pp4R1/8 w - - 0 1"]
+
+ 1. Rd2 (1. Nf6 $2 Rb5+) 1... Rb5+ 2. Kh6 $1 (2. Kg4 $2 Kd8 3. Bd4 Rb4) (2. Bg5+ $2 Rxg5+ 3. Kxg5 Kd8) 2... Kd8 3. Bf2 $3 (3. Bd4 $2 Kxd7 4. Nf6+ Ke6 $1 5. Rxb2 (5. Re2+ Kd6 6. Rxb2 a1=Q) 5... a1=Q 6. Re2+ Re5 $3 7. Rxe5+ Kxf6 8. Re4+ Kf5 9. Re5+ Kf6 10. Rd5+ Ke6 11. Re5+ Kf6 12. Bxa1) (3. Nd6 $2 Kxd7 4. Nxb5+ Ke7) 3... Rb4 (3... f6 4. Bg3 Rc5 5. Bc7+ Rxc7 6. Nxc7 b1=Q 7. Ne6+) 4. Bc5 $1 Rb8 5. Bd4 $1 Kxd7 6. Nf6+ Ke6 7. Rxb2 1-0  

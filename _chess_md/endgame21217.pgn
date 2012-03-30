@@ -1,0 +1,10 @@
+[Event "2 Prize, The Ural Problemist {m}"]
+[Site "?"]
+[Date "2009.12.04"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5Nkr/3Q1n2/1q5B/6P1/7K/8/7N/4n3 w - - 0 0"]
+
+ 1. Ng4 Nf3+ 2. Kh5 $1 (2. Kg3 $2 N3xg5 3. Qd5 Qg1+ 4. Kh4 Qf1 5. Qg2 Qa6 $19) 2... Nxh6 3. Nh7 $1 (3. Nxh6+ $2 Rxh6+ 4. gxh6 Qc5+ $19) (3. Nf6+ $2 Qxf6 4. gxf6 Nf7+ $19) 3... Nf7 4. Nh6+ Nxh6 5. Nf6+ Qxf6 6. Qe8+ (6. gxf6 $2 Nf5+ { (Nf7)-+}) 6... Kh7 7. Qxh8+ Qxh8 8. g6+ Kg8 9. g7 Qh7 {stalemate} 1/2-1/2  

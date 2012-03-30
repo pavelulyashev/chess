@@ -1,0 +1,10 @@
+[Event "ts23 {v} {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/K6P/8/8/7P/7k/6r1 w - - 0 1"]
+
+ 1. h7 Ra1+ 2. Kb7 Rb1+ 3. Kc7 Rc1+ 4. Kd7 Rd1+ 5. Ke7 Re1+ 6. Kf7 Rf1+ 7. Kg7 Rg1+ 8. Kh6 Rg3 9. h4 $1 (9. h8=Q $2 Rxh3+) 9... Rh3 10. h5 $1 (10. Kh5 $2 Kg3 11. h8=Q Rxh4+) 10... Kg3 11. h8=Q 1-0  

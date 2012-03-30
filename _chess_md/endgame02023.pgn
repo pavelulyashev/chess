@@ -1,0 +1,10 @@
+[Event "Dunazeitung {m}"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Behting C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N1b3/2P1P1K1/4k3/p7/4p1p1/r7/2B5/8 w - - 0 1"]
+
+ 1. Ba4 $1 Bxa4 {critical move} (1... Rxa4 2. Nb6 Rc4 3. Nxc4 Kd7 4. Nd6) 2. Na7 Rc3 3. Nc6 $1 {Nowotny} Bxc6 (3... Rxc6 4. e8=Q+) 4. c8=Q+ 1-0  

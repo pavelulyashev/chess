@@ -1,0 +1,10 @@
+[Event "us11 {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k4K/7p/8/8/4P3/6n1/7p/5B2 w - - 0 1"]
+
+ 1. Bg2 h5 $1 2. Kg7 $1 h4 3. Kf6 $1 (3. Kh6 $2 h3 $1 4. Bxh3+ Nf5+) (3. Kg6 $2 h3 $1 4. Bxh3+ Nf5 $1 5. Bg2 Nh4+) 3... h3 (3... h1=Q 4. Bxh1 Nxh1 5. Kg5 h3 6. Kh4 h2 7. Kh3) 4. Bxh3+ Nf5 $1 5. Bg2 $1 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention ts23#47 {m}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/PR6/1p6/2p1p3/2p3p1/K1P3P1/P1b1P2p/k7 w - - 0 1"]
+
+ 1. Rh7 $1 (1. a8=Q $2 1... h1=Q) 1... Bxh7 2. a8=Q e4 3. Qa4 (3. Qd5 h1=Q 4. Qd2 Qb1 5. e3 b5) 3... h1=Q 4. Qc2 Qb1 5. e3 $1 5... Bf5 (5... Qxc2) 6. Qd1 $1 6... Bc8 7. Qc2 Ba6 8. Qd1 b5 (8... Bb5 9. Qxb1+ Kxb1) 9. Qxb1+ Kxb1 1/2-1/2  

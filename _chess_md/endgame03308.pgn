@@ -1,0 +1,10 @@
+[Event "Matous60JT_1Pr {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Amann G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/2p5/k7/Bp4R1/1P3P2/3P4/1p3r2/3r4 w - - 0 1"]
+
+1. Kb8 (1. Bxc7 $2 Rc2) 1... Rxd3 (1... Rc1 {EV} 2. Rg6+ c6 3. Rg7) 2. Bxc7 Rd6$1 (2... Rfd2 3. Rg6+ Rd6 4. Bxd6 b1=Q 5. Rf6 $1 (5. Rh6 $2 Rg2 $1 6. f5 Qg1 $1(6... Qxf5 $2 7. Bg3+ $1 Qg6 8. Rxg6#) 7. Bc5+ Rg6 8. Rxg6+ Qxg6 9. fxg6 {stalemate}) 5... Qf5 6. Rxf5 Rxd6 7. Rf8 Kb6 8. f5 Kc6 9. Rc8+ Kd7 (9... Kb6 {EV} 10. Re8 Kc6 11. Re6) 10. Rc5 $18) 3. Rg3 (3. Bxd6 {EV} b1=Q 4. Rg7 Rh2)3... Rb6+ (3... b1=N 4. Bxd6 $18 Kb6 (4... Rh2 {EV} 5. Bf8) 5. Bc5+) 4. Bxb6 (4. Ka8 $2 b1=N $1 5. Bxb6 Kxb6 6. Kb8 Kc6) (4. Kc8 {EV} Ka7 5. Ra3+ Ra6 6. Bb8+Kb6 7. Bc7+ Kc6 (7... Ka7) 8. Rxa6+ Kd5) 4... Rf3 $1 (4... Rg2 $5 5. Rxg2 b1=Q6. Bd8 $1 (6. Bc5 $2 Qc2 {stalemate} 7. Rg1 Qb1 8. Rg7 Qh7 $11 {In Matous style}) 6... Qc2 7. Rg1 $1 (7. Rg7 $2 Qc8+ $1 8. Kxc8 {stalemate}) 7... Qb1 8. Rg7 {Mainline} Qh7 (8... Qg1 9. Rb7 Qd4 10. Rb6+) 9. Re7 $1 {In Matous style} Qf710. f5) (4... b1=Q 5. Bc5 (5. Bd8) 5... Rf3 6. Rg7 $1) (4... Kxb6 {EV} 5. Rg6#)5. Rg7 $1 (5. Rg6 $2 b1=Q 6. Rd6 (6. Rf6 Rxf4) 6... Qxb4) (5. Rxf3 $2 b1=Q 6.Bc5 Qb2 7. Rh3 Qe5+) 5... Rg3 $1 6. Rd7 $1 (6. Rxg3 $2 b1=Q 7. Bd8 Qd3 $1 $11)6... Rg7 $1 (6... Rg8+ 7. Bd8 Rxd8+ 8. Rxd8 b1=Q 9. Rd6#) (6... b1=Q 7. Bd8 Qg18. Rd6+ Qb6+ 9. Rxb6#) 7. Rxg7 b1=Q 8. Bd8 $1 (8. Bc5 $2 Qh7 $11) 8... Qh7 (8... Qg1 9. Rf7 $18) 9. Re7 $1 (9. Rc7 $2 Qd7 10. Be7 Qe8+ $11) 9... Qf7 10. f5Qxf5 11. Ra7# 1-0

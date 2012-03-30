@@ -1,0 +1,10 @@
+[Event "2 Commendation jd01 te03 {s} @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Benko P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/KP3Pk1/8/8/7n/8 w - - 0 1"]
+
+ 1. Kb6 $1 (1. b6 $2 Ng4 2. b7 Ne5 3. Kb6 Nd7+ 4. Kc7 Nc5) 1... Ng4 (1... Nf3 2. Kc7 Nd4 3. b6 Nb3 4. Kd6 Na5 5. Ke6 Nc6 6. f6) 2. Kc7 Ne3 (2... Nf6 3. Kd6 Ne4+ 4. Kc6 Nd2 5. Kd5 Nb3 6. b6 Na5 7. Ke6 Nc6 8. f6) 3. Kd7 Nd5 (3... Nc4 4. Ke6 Nb6 5. f6 Kg6 6. Ke7 $1 Nd5+ 7. Kd6 $1 Nb6 8. Ke6 Kh7 9. Ke7 (9. f7 $2 Kg7) (9. Kf7 $2 Nd5) 9... Nd5+ (9... Nc8+ 10. Kd7 Nb6+ 11. Ke8) 10. Kd6 Nb6 11. Kc6 $1 Nc4 12. Kd7 Kg6 13. Ke7) 4. Kd6 Nb6 5. Ke6 Kh6 6. f6 (6. Kf7 $1 {cook HH} Kg5 7. f6 Nd5 8. Ke6 $1 Nc7+ (8... Nxf6 9. b6) 9. Ke5) 6... Kg6 $1 7. Ke7 Nd5+ 8. Kd6 Nb6 9. Ke6 Kh7 10. Ke7 $1 Nd5+ 11. Kd6 Nb6 12. Kc6 $1 Nc4 13. Kd7 (13. Kc5 $1 {cook HH} Ne5 14. Kd6 Nc4+ 15. Ke7) 13... Kg6 14. Ke7 Nb6 15. f7 1-0  

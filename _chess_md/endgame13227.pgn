@@ -1,0 +1,10 @@
+[Event "tr19 @2 {m}"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "?"]
+[White "Molien T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/1b6/4KR2/8/8/8/8/8 w - - 0 1"]
+
+ 1. Kd7 $1 Bg2 (1... Bc8+ 2. Kc6 Ka7 3. Kc7) 2. Rb6+ Bb7 (2... Ka7 3. Kc7 Be4 4. Rb4 Bc2 5. Rb2) 3. Rb3 Ka7 4. Kc7 Be4 5. Rb4 (5. Ra3# $1 {cook JU}) 5... Bc2 6. Rb2 1-0  

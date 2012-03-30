@@ -1,0 +1,10 @@
+[Event "Schach, 2005/01. {m}"]
+[Site "?"]
+[Date "2005.01.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "6KR/1p2k2P/1P5p/7p/8/6p1/7r/8 w - - 0 1"]
+
+ {Remis     Leider grцЯtenteils vorweggenommen durch Kalandadze...     G(P)} 1. Kg7 g2 2. Re8+ $1 (2. Kxh6 $2 g1=Q 3. Rg8 (3. Re8+ Kxe8 4. h8=Q+ Kd7 $1 5. Qh7+ Kc6 6. Qc7+ Kb5 $19) 3... Qe3+ 4. Kg7 (4. Rg5 Rg2 $19) 4... Rg2+ 5. Kh8 Qe5+ 6. Rg7+ Qxg7#) 2... Kd7 (2... Kxe8 3. h8=Q+ Kd7 4. Qh7 $3 g1=Q+ 5. Kh8+ Ke6 6. Qg6+ Qxg6 $11) 3. Rd8+ $3 (3. h8=Q $2 g1=Q+ 4. Kh7 Qb1+ $3 5. Kxh6 Qxb6+ 6. Kh7 Rg2 $1 7. Rg8 Qb1+ $1 8. Kh6 Qc1+ 9. Kh7 Qc2+ 10. Kh6 Qd2+ 11. Kh7 Qd3+ 12. Kh6 Qe3+ 13. Kh7 Qe4+ 14. Kh6 Qf4+ 15. Kh7 Qf5+ 16. Kh6 Qe6+ $19) (3. Kf7 $2 g1=Q 4. Re7+ $1 Kd6 5. Re6+ Kd5 6. h8=Q Rf2+ 7. Rf6 Qf1 8. Qd8+ Kc5 9. Qe7+ Kb5 10. Qe5+ Ka6 $19) (3. Re1 $2 Rh1 4. h8=Q Rxe1 $19) (3. Kxh6 $2 g1=Q 4. h8=Q Qxb6+ 5. Kh7 Rg2 $1 $19) 3... Kxd8 (3... Kc6 4. Rd1 Rh1 5. h8=Q $11 (5. Rg1 $11)) ( 3... Ke7 $2 4. Rd1 Rh1 5. h8=Q Rxd1 6. Qf8+ Kd7 7. Qf7+ Kd8 (7... Kd6 8. Qg6+ $18) (7... Kc6 8. Qf3+ $18) 8. Qc7+ Ke8 9. Qc8+ Ke7 10. Qxb7+ $18) 4. h8=Q+ Kd7 5. Qh7 $3 g1=Q+ 6. Kh8+ Ke6 7. Qg6+ (7. Qe4+ $2 Kf6 8. Qf4+ Kg6 9. Qe4+ Kg5 10. Qe5+ Kh4 11. Qf4+ Kh3 12. Qf3+ Qg3 13. Qxh5+ Kg2 14. Qe2+ Qf2 15. Qg4+ Kf1 16. Qd1+ Qe1 17. Qf3+ Kg1 18. Qg4+ Rg2 19. Qd4+ Kh1 $19) 7... Qxg6 $11 *  

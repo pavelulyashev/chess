@@ -1,0 +1,10 @@
+[Event "Shakhmatny Listok {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/B3p3/2p1N3/p5p1/1k1P4/3P2P1/PK6/8 w - - 0 1"]
+
+ 1. a3+ Ka4 (1... Kb5 2. Nc7+) 2. Nc5+ Kb5 3. a4+ Kb4 4. Bb8 e5 (4... g4 5. Bf4) 5. Bd6 exd4 6. Nd7+ Kxa4 (6... c5 7. Bxc5+ Kxa4 8. Nb6+ Kb5 9. Nxa8 Kxc5 10. Nc7 $18) 7. Nb6+ 1-0  

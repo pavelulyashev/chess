@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky Sach 4/07 {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Aliev  I, Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/K7/1p6/k7/p2p4/3p4/P2P1P2/8 w - - 0 1"]
+
+ 1.f4 b5 2.f5 b4 3.f6 b3 4.f7 b2 $1 (4...bxa2 5.f8=Q a1=Q 6.Qc5#) 5.f8=Q b1=Q 6.Qc5+ $1 (6.Qd8+ $2 Kb4 $1 7.Qb6+ Ka3 8.Qxb1 {pat}) (6.Qd6 $6 Qb5 $1 {zz} 7.a3 Qd7+ $1 8.Qxd7 {pat}) 6...Qb5 7.Qd6 $1 {zz} Qb2 (7...Qc4 8.Qb6#) (7...Qb4 8.Qa6#) 8.a3 $1 Qb5 9.Qc7+ {(Qd8+)} Qb6+ 10.Qxb6#   1-0  

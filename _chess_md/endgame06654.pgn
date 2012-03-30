@@ -1,0 +1,10 @@
+[Event "b007#151 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b7/1q5p/2p3PB/3k1N2/8/8/2K5/5N2 w - - 0 1"]
+
+ 1. g7 Qf7 2. g8=Q (2. Ne7+ $2 2... Kd6 3. g8=Q Kxe7 4. Qg5+ (4. Bg5+ Ke6 5. Qc8+ Ke5 6. Qb8+ Kf5) 4... Kd7 5. Qg4+ Qe6 6. Qg7+ Qe7 7. Qd4+ Qd6 8. Qa7+ Ke6 9. Qxa8 Qc5+) 2... Qxg8 3. Ne7+ 3... Ke6 $1 4. Nxg8 Kf7 5. Nd2 $3 5... Kxg8 ( 5... c5 6. Nc4 Bd5 (6... Be4+ 7. Kc3) 7. Nd6+ (7. Ne5+ $2 7... Kxg8 8. Kd3 c4+ 9. Kd4 Bf7 10. Ke4 (10. Kc5 c3 11. Kd6 Bg6 12. Ke7 c2 13. Ng4 (13. Kf6 c1=Q) 13... c1=Q 14. Nf6+ Kh8 15. Bxc1 Kg7) 10... Be6 11. Kf4 c3 12. Kg5 c2 13. Kf6 Bd5 14. Ke7 c1=Q) 7... Kg6 8. Ne7+ Kxh6 9. Nxd5 9... Kg5 $1 (9... c4 10. Ne4 c3 11. Nf2) 10. Nc4 h5 11. Kd2 h4 12. Ke2 Kg4 13. Kf2 h3 14. Nde3+ Kf4 15. Kf1 Kg5 16. Kg1 Kh4 17. Kf2 Kh5 18. Kf3) 6. Ne4 c5 (6... Bb7 7. Nd6) (6... Kf7 7. Nc5 Kg6 8. Bf8 h5 (8... Kf5 9. Bd6 Kg4 10. Kd2 Kf3 11. Ke1 Kg2 (11... Ke3 12. Be5) 12. Ke2 h5 13. Be7 $1 13... Kg3 14. Kf1 h4 15. Kg1 h3 16. Bd6+ Kf3 17. Be5) 9. Kd2 Kf5 10. Bd6 Kg4 11. Ke2 h4 12. Kf2) 7. Nd6 $1 7... Bg2 (7... Bd5 8. Kd3 Be6 9. Ke4 c4 10. Ke5) (7... c4 8. Kc3 Bd5 9. Kd4 Be6 10. Ke5) 8. Kd3 Bd5 (8... Bf1+ 9. Ke4 c4 10. Ke5) 9. Ke3 Be6 (9... Bf7 10. Ke4 c4 11. Ke5 c3 12. Kf6 Bg6 13. Nc8 c2 14. Ne7+ Kh8 15. Bg7#) 10. Ke4 c4 11. Ke5 Bh3 (11... Bd7 12. Kf6 c3 13. Ke7 Bc6 14. Ke6 c2 15. Nf5 c1=Q 16. Ne7+ Kh8 17. Bxc1) 12. Kf6 c3 13. Ke7 $1 13... c2 14. Ne4 c1=Q 15. Nf6+ Kh8 16. Bxc1 Kg7 17. Nh5+ Kg6 (17... Kh8 18. Bh6) 18. Nf4+ 1-0  

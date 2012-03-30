@@ -1,0 +1,10 @@
+[Event "tn21 @2 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6R1/4r3/1B3bpk/6p1/p3P3/8/PP1n4/KB6 w - - 0 1"]
+
+ 1. e5 Rxe5 (1... Bxe5 {main} 2. Rxg6+ Kh5 3. Bd8 (3. Rxg5+ $1 {cook JT} Kxg5 4. Bd8 Kf6 5. a3 Nc4 (5... Nb3+ 6. Ka2) 6. Ba2 $1 Nxb2 7. Kb1 Nd3 8. Kc2 Nc5 9. Bd5 Ba1 10. Ba2 Bd4 11. Bc4 $1 (11. Bd5 $2 Ke5) (11. Bg8 $2 Kg7) 11... Nb7 12. Bxe7+ Kxe7 13. Kd3 Bb2 14. Bb5 Nc5+ 15. Kc4 Bxa3 16. Bxa4 Nxa4 17. Kb3) 3... a3 4. Rxg5+ Kxg5 5. Bxe7+ Kf4 6. Bxa3 Nc4 7. Bd6 $1) 2. Rxg6+ Kh5 3. Rxf6 Re1 4. a3 Rxb1+ 5. Ka2 Rh1 (5... Rc1 6. Be3) (5... Re1 6. Ba5) (5... Rd1 6. Rd6) 6. Rf8 (6. Rf7 $1 {cook JT}) 1/2-1/2  

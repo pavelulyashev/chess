@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7p/4k1p1/7P/5PK1/2b3P1/8/8 w - - 0 1"]
+
+ 1. Kg5 Kf7 2. Kh6 Bg7+ 3. Kg5 (3. Kxh7 $2 gxh5 4. f5 Kf6) 3... Bf8 4. hxg6+ (4. g4 $2 h6+ 5. Kh4 g5+ $1 6. fxg5 Be7) 4... hxg6 5. f5 Be7+ 6. Kf4 g5+ 7. Ke4 Bf6 8. g4 Ke7 9. Kd5 Kd7 10. Kc5 1/2-1/2  

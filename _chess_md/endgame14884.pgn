@@ -1,0 +1,10 @@
+[Event "tk45 @1 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Bosshard K"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7N/2p1pN2/1pPbkpp1/5rp1/K1P2p2/1P3P1B/8/8 w - - 0 1"]
+
+ 1. Bg4 (1. b4 $1 {cook JU}) (1. Nd8+ $1 {cook JU} Ke5 2. Nxg6+) 1... Be5 2. Kb5 Bd6+ 3. Ka6 Be5 4. Kb7 Bd6 5. Kc8 Be5 6. Kd8 Bd6 7. Ke8 Be5 8. Nxg6 Bd4 9. Nf8# 1-0  

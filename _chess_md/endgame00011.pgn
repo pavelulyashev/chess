@@ -1,0 +1,10 @@
+[Event "1 Prize tc19#1628 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K1k5/P3r3/P7/8/8/8/1N4B1/8 w - - 0 1"]
+
+ 1. Nc4 $1 Kc7 2. Nd6 $1 Rd7 $1 3. Nc8 $1 Rh7 4. Be4 $1 Rh5 (4... Rf7 $144 5. Bd5 Rf6 6. Be6 $3 Rxe6 7. Ne7 $1 Re5 $1 8. Nd5+ $1 Kc6 9. Nf6 Rb5 $1 10. Ng8 $3 Re5 11. Nf6 $11) 5. Bg6 (5. Bf3 $144 Rh4 $1 6. Bg4 $3 Rxg4 7. Ne7 $1 Rg5 8. Nd5+ Kc8 9. Nb6+ Kc7 10. Nd5+ $11) 5... Rg5 6. Nd6 $3 Rxg6 7. Ne8+ Kc8 8. Nd6+ Kc7 9. Ne8+ Kb6 10. Kb8 $1 Rg8 11. a8=N+ Kc6 12. Nac7 $1 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "t001 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3N4/8/kB6/3p4/K7/8 w - - 0 1"]
+
+ 1. Ba3 (1. Be1 $2 d2 2. Bxd2) (1. Bc5 $2 d2 2. Ne4 d1=N) (1. Bc3 $2 d2 2. Nc4 d1=N 3. Bd4 Kb4) 1... d2 2. Ne4 d1=N 3. Bc5 Kb5 4. Kb3 Kc6 5. Bg1 Kd5 6. Nd2 1-0  

@@ -1,0 +1,10 @@
+[Event "ts13#435 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P2Pr3/8/8/4k3/b2NN1P1/3K4 w - - 0 1"]
+
+ 1. d7 $1 (1. a7 $2 Re8) (1. Nf1+ $2 Kf2) 1... Rd6 (1... Bb3+ 2. Kc1 (2. Ke1 $2 Rd6 3. a7 Rxd2 4. Nc3 Rxg2) 2... Rc6+ 3. Kb2 Rd6 4. a7 Bd5 5. Nc4+) 2. a7 Bd5 ( 2... Rxd2+ 3. Kc1) (2... Rxd7 3. a8=Q Rxd2+ 4. Kc1) 3. Nc4+ Bxc4+ 4. Nd4 $1 Rxd4+ (4... Bd5 5. Nf5+) 5. Kc1 (5. Ke1 $2 Bb3) 5... Bd5 6. d8=Q 1-0  

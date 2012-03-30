@@ -1,0 +1,10 @@
+[Event "3.WCCT, {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Polasek J, Vlasak E"]
+[Black "*"]
+[Result "*"]
+[FEN "6n1/2B2P2/8/8/3k1K2/2p5/8/1Nn5 b - - 0 1"]
+
+ 1... Ne2+ 2. Kf3 c2 3. Nd2 Kd3 4. fxg8=Q c1=Q 5. Qd5+ Kc2 (5... Nd4+ 6. Qxd4+ $1) 6. Qe4+ Kxd2 7. Ba5+ Nc3 8. Qe2# *  

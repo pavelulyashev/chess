@@ -1,0 +1,10 @@
+[Event "HM as equal {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Horning G"]
+[Black "*"]
+[Result "*"]
+[FEN "2r2q2/kpP5/b7/PP6/p5Q1/P7/8/R3K3 w Q - 0 1"]
+
+1. b6+ $1 (1. Qxc8 $5 Qe7+ $1 (1... Qxc8 2. b6+ {main line}) 2. Kd1 (2. Kd2)2... Qd6+ $11) 1... Ka8 2. Qxc8+ $1 (2. O-O-O $5 Qxa3+ $11) 2... Qxc8 3. O-O-O$1 Bd3 $1 4. Rxd3 Qd7 5. Rd6 $1 (5. Rxd7 $5 {stalemate}) 5... Qxd6 6. c8=Q+ Qb87. Qxb8+ $18 {. Obviously, the impression is reduced a little due to theimmovable, technical pawns, but it is necessary to note the several surprisemoves.} *

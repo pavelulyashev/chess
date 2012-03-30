@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6bk/4p2p/p7/1P1P4/2p2p2/n3N3/K7/8 w - - 0 1"]
+
+ 1. b6 fxe3 2. b7 e2 3. b8=Q e1=Q 4. Qb2+ c3 (4... e5 5. dxe6+ c3 6. Qxc3+ Qxc3) 5. Qxc3+ Qxc3 1/2-1/2  

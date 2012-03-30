@@ -1,0 +1,10 @@
+[Event "t001 @2 @3 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1pR4R/1p3p2/1P2pKB1/4P3/5pp1/5ppb/6kq w - - 0 1"]
+
+ 1. Rc1+ (1. Be3 $2 Kf1 2. Rhd7 g1=Q) 1... f1=N (1... f1=Q {main} 2. Be3+ f2 3. Rhc7 $1) (1... f1=B {main} 2. Be3+ f2 3. Bc5 $1 bxc5 4. b6 c4 5. Rh8 c3 6. Ra8 c2 7. Ra6 $1 bxa6 8. b7 a5 9. b8=N $1 a4 10. Na6 a3 11. Nc5 a2 12. Nb3 a1=Q 13. Rxa1 c1=Q 14. Nxc1 Bc4 15. Ne2#) 2. Be3+ f2 3. Bc5 $1 (3. Bf4 $1 {cook} exf4 4. Rhc7 f3 5. R7c6 bxc6 6. bxc6 b5 7. c7 b4 8. c8=N b3 9. Rb1 b2 10. e5 fxe5 11. Nd6 e4 12. Nb5 e3 13. Nd4 e2 14. Nxf3#) (3. Kg4 $1 {cook JI/KC} f5+ 4. exf5 e4 5. Bd4 e3 6. Re7 $1 e2 7. Re3 $1 e1=Q 8. Rcxe1 fxe1=Q 9. Rxe1#) 3... bxc5 4. b6 c4 5. Rh8 $1 c3 6. Ra8 c2 7. Ra6 $1 bxa6 8. b7 a5 9. b8=B $3 (9. b8=N $1 { cook JD} a4 10. Nc6 a3 11. Ke6 a2 12. Kd6 f5 13. Kxe5 fxe4 14. Nd4 e3 15. Nf3#) 9... a4 10. Ba7 a3 11. Be3 a2 12. Ke6 $1 f5 13. Kxe5 fxe4 (13... a1=Q+ $1 { cook SA} 14. Rxa1 c1=Q 15. Bxc1 f4 $1 16. Kxf4 Nd2 17. Bxd2+ f1=Q+) 14. Kxe4 a1=Q 15. Rxa1 c1=Q 16. Bxc1 Nd2+ 17. Bxd2+ f1=Q 18. Be3# 1-0  

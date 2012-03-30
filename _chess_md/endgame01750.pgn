@@ -1,0 +1,10 @@
+[Event "1 Prize Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4bb2/8/7R/8/6kB/3p4/8/7K w - - 0 1"]
+
+ 1. Re6 d2 2. Re4+ Kh3 3. Be1 $1 (3. Rd4 $143 Bc6+ 4. Kg1 Bc5 $19) 3... Bc6 4. Kg1 $1 (4. Bxd2 $143 Bc5 5. Be3 Bxe4+ 6. Kg1 Bxe3+ $19) 4... Bc5+ (4... d1=Q $143 5. Rh4# $18) 5. Kf1 Bb5+ 6. Re2 d1=N $1 (6... d1=Q $144 $11) (6... d1=B $144) 7. Ba5 Bf2 8. Be1 Bd4 9. Bd2 (9. Ba5 $143 Bc3 10. Bc7 Kg4 11. Bb6 Kf3 $19 ) 9... Bc3 10. Ke1 $11 1/2-1/2  

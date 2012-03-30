@@ -1,0 +1,10 @@
+[Event "tc06#006 {v} {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2RR4/8/8/4k1K1/8/r2n4/8 w - - 0 1"]
+
+ 1. Rc8 $1 Ke5 (1... Ke3 2. Re8+ Kf2 (2... Ne4 3. Rde7 Ra4 4. Kf5 Ra5+ 5. Re5 Kf3 6. Rxa5 Nd6+ 7. Ke5) 3. Rf7+ Kg1 4. Re1+ Kg2 5. Re2+ Kg1 6. Rf4 Rb2 7. Rd4) 2. Re8+ Kf6 3. Rd4 Nb3 4. Rf4+ Kg7 5. Re7+ Kg6 6. Re6+ Kg7 7. Rb4 Na5 (7... Nc5 8. Rc6 Ra5 9. Rbb6 Kf8 10. Rc7 Na6 11. Ra7) 8. Ra6 1-0  

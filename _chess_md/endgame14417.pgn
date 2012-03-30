@@ -1,0 +1,10 @@
+[Event "tt23#275 @2 {m}"]
+[Site "?"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Leenhouts J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/1bK4P/1P6/8/7k/8/8 w - - 0 1"]
+
+ 1. Kd5 $1 Ba5 (1... Bd8 2. b6 axb6 $1 3. Ke6) 2. b6 axb6 3. Kd4 $1 (3. Kc4 $2 b5+) 3... Bd2 (3... Bb4 4. h7 Ba3 5. Kc3) 4. h7 Bc1 5. h8=Q+ (5. Kc3 $1 { cook JL}) 1-0  

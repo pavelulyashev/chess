@@ -1,0 +1,10 @@
+[Event "Schakend Nederland {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Nio_Bertholee R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4r3/8/1p6/7b/6P1/4P1N1/pNp5/k1K5 w - - 0 1"]
+
+ 1. Nf5 (1. Nxh5 Rxe3 2. Na4 Re1+ 3. Kxc2 Re7) 1... Bg6 (1... Rd8 2. Nd4 Rxd4 3. exd4 b5 4. Nd3 Bf7 5. Nb4 Bb3 6. d5) (1... Bf7 2. Nd4 Rc8 3. Nc4 $1 {Nowotny} Rxc4 (3... Bxc4 4. Nxc2#) 4. Nb3#) (1... Rf8 2. Nc4 Rd8 3. Nd4 (3. gxh5 b5 4. Na5 Rd1+ 5. Kxc2 Rb1 6. Nd4 Rb2+) 3... Rxd4 4. exd4) 2. Nd4 Rxe3 3. Nd3 $1 { Nowotny} Rxd3 (3... Bxd3 4. Nb3#) 4. Nxc2# 1-0  

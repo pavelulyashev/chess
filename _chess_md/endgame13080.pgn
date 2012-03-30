@@ -1,0 +1,10 @@
+[Event "td20#0856 @1 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Sticher M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2kp1K2/6N1/3P4/p6P/8/8/8 w - - 0 1"]
+
+ 1. d6+ (1. Nf4 $1 {cook LB} a3 2. Ne6+ Kd6 (2... dxe6 3. dxe6 a2 4. e7 a1=Q 5. e8=Q) 3. Nd4 Kxd5 4. Nc2 a2 5. h5 Kc4 6. h6 Kc3 7. Na1 Kb2 8. h7 Kxa1 9. h8=Q+ Kb1 10. Qb8+ Kc2 11. Qa7 Kb2 12. Qb6+ Kc2 13. Qa5 Kb2 14. Qb4+ Kc2 15. Qa3 Kb1 16. Qb3+ Ka1 17. Qc2 d5 18. Qc1#) 1... Kxd6 (1... Kb7 2. Ne5 a3 3. Nd3 a2 4. Nc5+ Kc6 5. Nb3) (1... Kc8 2. h5 a3 3. h6 a2 4. h7 a1=Q 5. h8=Q+) 2. Ne5 Kc7 3. Nc4 d5 4. Na3 Kc6 5. Nc2 1-0  

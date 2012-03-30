@@ -1,0 +1,10 @@
+[Event "ts23#23 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2bk4/Pp1pr3/3K3N/2P5/2P5/8/8/8 w - - 0 1"]
+
+ 1. Kd5 $1 (1. a8=Q $2 Re6+ 2. Kd5 Rxh6) 1... Re6 2. Nf7+ Kc7 3. Nd6 (3. a8=Q $2 Ra6) (3. a8=N+ $2 Kb8 4. Nb6 Kc7 5. Na4 b6) 3... Rxd6+ 4. cxd6+ Kb6 5. a8=N+ $1 (5. a8=Q $2) 5... Ka7 6. Kc5 $1 (6. Nc7 $2 b6 7. Ke5 Bb7 8. Kf6 Bg2 9. Ke7 Bh3 10. Ne8 Kb7 11. Nf6 Kc6 12. Ne4 Be6 13. Nf6 Bh3) 6... Kxa8 (6... b5 7. Nb6 bxc4 8. Nxc8+ Kb7 (8... Kb8 9. Nb6 c3 10. Nxd7+ Kc8 11. Ne5) 9. Nb6 c3 10. Nc4 c2 11. Na5+ Ka6 12. Nb3) 7. Kb6 Kb8 8. c5 $1 Ka8 9. Kc7 b5 10. Kxc8 b4 11. c6 1-0  

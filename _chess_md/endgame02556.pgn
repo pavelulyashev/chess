@@ -1,0 +1,10 @@
+[Event "Polasek&Vlasak50JT_3rdHM {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kB1N4/8/1P6/7Q/N7/qp1K4/p7/8 b - - 0 1"]
+
+ 1... b2+ 2. Ke2 (2. Kd2 $2 Qb4+ 3. Nc3 Qd4+ 4. Kc2 b1=Q+ 5. Nxb1 Qe4+) 2... Qd3+ (2... Qe7+ 3. Be5) (2... Qxa4 3. b7+ Kxb8 4. Qe5+ Ka7 5. b8=Q+) 3. Kxd3 $1 (3. Kf2 Qd2+ (3... b1=Q 4. Qa5+) 4. Kg3 Qe3+ 5. Kh2 Qd2+ 6. Kh3 Qd7+ 7. Ne6 Qxe6+ 8. Kh2 a1=Q $1 (8... Qc6 9. Qa5+ Kxb8 10. Qa7+ Kc8 11. Nxb2 Qd6+) 9. Qf3+ Kxb8 10. Qg3+ Kb7 11. Qc7+ Ka6 12. Nc5+ Kb5 13. Nxe6 b1=Q) 3... b1=Q+ 4. Kd2 $1 (4. Kc4 {a try} Qe4+ 5. Kb3 $1 (5. Kb5 a1=Q 6. b7+ Kxb8 7. Qh2+ Qae5+) 5... Qxa4+ 6. Kxa4 a1=Q+ 7. Kb5 $1 (7. Kb3 Qb1+ 8. Kc4 Qxb6) (7. Kb4 Qd4+ 8. Kb5 Qe5+) 7... Qe5+ $1 {this is draw, see later}) 4... Qb4+ 5. Nc3 Qb2+ (5... Qxc3+ 6. Kxc3 {see later}) (5... Qd4+ 6. Ke2 Qxb6 7. Qd5+ Kxb8 8. Nxa2 Qb2+ 9. Kd3 Qb1+ 10. Kc3 Qe1+ 11. Kb3 Qb1+ 12. Ka3) 6. Kd3 Qxc3+ 7. Kxc3 a1=Q+ 8. Kc4 $1 ( 8. Kb4 $6 {An interesting try.} Qd4+ 9. Kb5 Qe5+ 10. Kc6 (10. Ka6 Qa1+ 11. Qa5 Qf1+) 10... Qc7+ $3 11. Kd5 Qxb6) 8... Qa4+ 9. Kc5 Qa5+ (9... Qc2+ 10. Kd5 (10. Kd6 Qc7+) 10... Qd3+ 11. Kc6 Qc4+ 12. Qc5 Qa4+ {see later}) 10. Kc6 Qxh5 (10... Qa4+ 11. Qb5 (11. Kd6 Qb4+ 12. Qc5 Qf4+ 13. Ke6 Qh6+ 14. Kd7 Qh7+ 15. Kc6 Qc7+ 16. Kb5 Qxd8 17. Qa3+) 11... Qc2+ 12. Kd6 Qc7+ 13. Ke6 Qxb6+ $1 14. Qc6+ $3 { a nice picture, but unfortunately it is not only way to win this line}) 11. b7+ Kxb8 12. Kb6 $1 1-0  

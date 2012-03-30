@@ -1,0 +1,10 @@
+[Event "tn10 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Moller J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4b3/1p6/8/1p1P4/1p6/7P/1P3K1p/7k w - - 0 1"]
+
+ 1. b3 $3 (1. d6 $2 b3 $1 2. h4 b4 3. h5 Ba4 4. h6 b5 5. d7) 1... Bd7 2. h4 Bg4 3. d6 b6 4. h5 Bxh5 5. d7 1-0  

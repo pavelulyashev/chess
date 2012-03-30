@@ -1,0 +1,10 @@
+[Event "2 Prize ws05 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Shmulenson G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N1k5/p2p4/3pp3/3P4/4K3/3B4/8/8 w - - 0 1"]
+
+ 1. Ke3 $1 (1. Kd4 $2 exd5 2. Ba6+ Kb8 3. Kxd5 Kxa8 4. Kxd6 Kb8) (1. Bb5 $2 exd5+ 2. Kd4 $1 Kb7 $1 3. Kxd5 a6 $1) 1... exd5 2. Ba6+ Kb8 3. Kd4 Kxa8 4. Kxd5 Kb8 5. Kxd6 Ka8 6. Kc7 d5 7. Bb7# 1-0  

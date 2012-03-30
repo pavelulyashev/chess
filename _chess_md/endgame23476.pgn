@@ -1,0 +1,10 @@
+[Event "on01 {c} {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3k4/3p4/8/1r3N2/1P6/R3K3 w Q - 0 1"]
+
+ 1. Nd2 $1 Rxb2 2. Nc4+ $1 dxc4 3. O-O-O+ 1-0  

@@ -1,0 +1,10 @@
+[Event "ts25#310 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1k6/3PP3/2Kp1Bp1/1p6/8/3b4 w - - 0 1"]
+
+ 1. Bc1 $1 g3 2. Kxd4 b2 $1 (2... g2 3. Be3 $1 b2 4. Kc3+) 3. Bxb2 g2 4. Kd3 (4. Kc4 $2 Be2+ $1 5. Kc3 g1=Q) (4. Ke4 $2 Bc2+ $1 5. Ke3 g1=Q+) 4... Bc2+ (4... Be2+ 5. Ke4 Bf3+ 6. Kd3 Be2+ 7. Ke4) 5. Kc4 $1 Bb3+ 6. Kd3 Bc2+ 7. Kc4 1/2-1/2  

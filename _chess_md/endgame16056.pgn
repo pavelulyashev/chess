@@ -1,0 +1,10 @@
+[Event "Uralsky Problemist, 2 prize {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r6k/3P4/1qP2PpK/6P1/5P2/6P1/3NB3/8 w - - 0 1"]
+
+ 1. f5 $1 (1. Nf3 $2 Qxc6 2. Nh4 Qe6 3. Nxg6+ Kg8 4. Bf3 Qh3+ 5. Bh5 Qe6 $1 6. Ne7+ (6. Bg4 Qf7 7. Ne7+ Kh8) 6... Kh8 7. f5 Qxd7 8. Bf7 Rg8 $1 {draw.}) 1... gxf5 2. c7 $1 Qxc7 3. g6 Rf8 (3... Qxd7 4. g7+ Kg8 5. Bc4+ Qf7 6. Kg5 $1 (6. Bxf7+ $2 Kxf7 7. Kg5 Ra3 $1 8. g4 Ra6 $1 {draw.}) 6... Ra3 7. g4 Ra5 (7... Ra6 8. Bxa6 Kh7 9. Bc4 Qg6+ 10. Kf4 {wins.}) 8. Bxf7+ Kxf7 9. Nc4 Rd5 10. Ne3 $1 { win.}) 4. g7+ Kg8 5. Bc4+ Rf7 6. Bxf7+ (6. Nf3 $2 Qd8 7. Bxf7+ Kxf7 8. Ne5+ Kxf6 9. Kh7 Kxe5 {draw.}) 6... Kxf7 7. Nc4 $1 Qxg3 (7... Qd8 8. Nd6+ Kxf6 9. Ne8+ Kf7 10. Kh7 {win.}) 8. Ne5+ $1 Qxe5 9. d8=N+ Kxf6 (9... Kg8 10. f7#) 10. g8=N# 1-0  

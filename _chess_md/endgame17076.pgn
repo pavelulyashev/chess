@@ -1,0 +1,10 @@
+[Event "tc39 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/3n4/8/8/2R5/5K2/r1n5/8 w - - 0 1"]
+
+ 1. Rc8+ Kg7 2. Rc7 Ne1+ (2... Nd4+ 3. Ke4) 3. Ke3 Ng2+ 4. Kd3 $1 (4. Kf3 $2 Rd2 $1) 4... Nf4+ 5. Kc3 $1 Ra3+ (5... Nd5+ 6. Kb3 $1) 6. Kc2 Rd3 7. Rc4 $1 Rf3 8. Rc7 Rd3 (8... Rf2+ 9. Kd1) 9. Rc4 1/2-1/2  

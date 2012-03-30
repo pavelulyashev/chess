@@ -1,0 +1,10 @@
+[Event "HM, Kozhakin 50 JT {m}"]
+[Site "?"]
+[Date "2006.08.05"]
+[Round "?"]
+[White "Akobia Y, Becker R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5pB1/1P3N2/p1bNr3/8/1K1k4/8 w - - 0 1"]
+
+ 1. Nf3+ Kd1 $1 (1... Kd3 2. Nd6 {(Ng3)+-}) (1... Ke2 2. b6 {(N5d4+)+-}) 2. N5d4 f5 $1 {Ejection of a material for achievement of a stalemate.} ({main} 2... a3+ 3. Kxa3 Re3+ (3... f5 4. b6 Re7 5. Kb4 $18) 4. Kb2 (4. Kb4 $5 Bxb5 $11) 4... Bd3 (4... Bxb5 5. Bc2#) (4... f5 5. b6 $18) 5. Bxd3 $1 (5. Bf7 $5 Bxb5 $11) 5... Rxd3 6. b6 $18 {(no stalemate as in line of the thematic try 4.Kxa3!?)}) 3. Bxf5 (3. b6 $5 Re7 4. Bxf5 a3+ 5. Kxa3 Rb7 $11) (3. Bh5 $2 a3+ 4. Kxa3 Re3+ 5. Kb2 Bxb5 6. Nxb5 Ke2 $11) 3... a3+ 4. Kb1 $3 ({Thematic try} 4. Kxa3 $5 Re3+ 5. Kb2 (5. Kb4 Bxb5 {=}) 5... Bd3 6. Bxd3 Rxd3 {zz} 7. b6 Re3 8. b7 (8. Ng5 Re7 $11) 8... Re7 $1 (8... Re8 $2 9. Nc6 $18) 9. b8=Q Rb7+ $1 10. Qxb7 {stalemate}) 4... a2+ ({main} 4... Bd3+ 5. Ka1 $1 (5. Ka2 $5 Bc4+ 6. Kb1 Bd3+ {repeating}) 5... Re3 6. Bxd3 Rxd3 7. b6 Re3 {(7...Ra3+ impossible)} 8. b7 Re8 9. Nc6 $18) 5. Kb2 $1 a1=Q+ 6. Kxa1 Re3 7. Kb1 $1 ({Thematic try} 7. Kb2 $5 Bd3 8. Bxd3 Rxd3 {zz and known draw}) 7... Bd3+ 8. Bxd3 Rxd3 9. Kb2 {zz} Re3 10. b6 Re7 11. Nb5 Rb7 ({main} 11... Ke2 12. Nfd4+ Kd3 13. Nc7 Kxd4 14. b7 $18) ({main} 11... Re2+ 12. Kb1 Re3 13. Nfd4 Re8 14. Nc6 $18) 12. Nc3# 1-0  

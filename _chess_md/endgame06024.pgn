@@ -1,0 +1,10 @@
+[Event "us21 @3 {m}"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7B/8/1P2K3/8/3p4/2p1k1p1/1P5n/8 w - - 0 1"]
+
+ 1. Bxd4+ $1 (1. b7 $2 1... c2 2. Bxd4+ Kd3) 1... Kxd4 2. b7 c2 (2... g2 3. b8=Q g1=Q (3... Nf3 $1 4. Qb4+ (4. Qf4+ Kc5 5. Qe3+ Kb4 6. Qxc3+ (6. bxc3+ Ka4 7. Qb6 Ka3 8. Qb4+ Ka2 9. Qc4+ Ka3 10. Qa6+ Kb3) (6. Qb6+ Ka4 7. bxc3 Ka3) 6... Kb5 7. Qd3+ Ka5 (7... Kb4 8. Qe4+ Ka5 9. b4+) 8. b4+ (8. Qd5+ Kb6 9. Qd8+ Kb5) 8... Kb6 9. Qd8+ Kc6 10. Qd5+ Kb6 11. Qa5+ Kb7 12. Qb5+ Ka7) 4... Ke3 5. Qxc3+ Kf2 6. Qc5+ (6. b4 g1=Q 7. Qc5+ Kf1 8. Qxg1+ Kxg1 9. b5 Nd4+) 6... Kf1 7. Qe3 g1=Q 8. Qxf3+ Ke1 9. Qc3+ 9... Kd1 $1) 4. Qb6+) 3. b8=Q c1=Q 4. Qd8+ Ke4 5. Qd5+ Kf4 6. Qf5+ 1-0  

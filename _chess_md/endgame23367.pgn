@@ -1,0 +1,10 @@
+[Event "1 Prize, tp16 {v} {m}"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B4R2/5p1r/K7/6k1/8/5R1n/5P2/5r2 w - - 0 1"]
+
+ 1. Rg8+ Kh4 $1 2. Rxh3+ Kxh3 3. Bg2+ Kh2 4. Bxf1 Rh6+ $1 5. Ka5 $1 Rf6 6. Rg2+ Kh1 7. Kb5 $1 Rf4 8. Kc5 Rf6 (8... f6 9. Kd5 Rf5+ 10. Kd4 $1) (8... f5 9. Kd5 Rb4 10. Ke5 Re4+ 11. Kf6 Rf4 12. Kg5 Rf3 13. Kh4) 9. Kd5 1-0  

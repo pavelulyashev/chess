@@ -1,0 +1,10 @@
+[Event "Best problems 2004-06, Comm {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "7n/1k1K1R2/8/7p/8/P4n1R/6p1/8 w - - 0 1"]
+
+ 1. Rg7 g1=Q 2. Rxg1 Nxg1 3. Rxh5 (3. Rb3+ $5 Ka6 $11) 3... Ng6 (3... Nf7 4. Ke7 $18) 4. Rb5+ $3 ({Thematic try} 4. Rg5 $5 Nf3 $1 5. Rxg6 (5. Rb5+ Ka6 $11) 5... Ne5+ $11) 4... Ka6 (4... Ka7 5. Kc7 $1 $18) 5. Rg5 Nf8+ 6. Ke8 $1 ({ Thematic try} 6. Ke7 $5 Nf3 $1 (6... Nh3 7. Rg3 $5 Nf4 8. Kxf8 $18) 7. Rg7 (7. Rf5 Ng6+ $11) (7. Rg3 Nd4 8. Kxf8 Nb5 $11) 7... Nd4 8. Kxf8 Ne6+ $11) ({ Thematic try} 6. Kd6 $5 Ne2 7. Rg8 Nh7 8. Kc5 Nc3 9. Kc6 Nb5 10. Ra8+ Na7+ 11. Kc7 Nf6 $1 (11... Ng5 $5 12. Kb8 $18) 12. a4 Nd5+ {(Ne4)=}) 6... Nf3 $1 (6... Ne2 7. Kxf8 $18) 7. Rf5 ({Thematic try} 7. Rg3 $5 Nd4 $1 8. Kxf8 Ka5 $11) 7... Nd4 8. Rxf8 Nb5 (8... Ka5 {(Ke7,Kf7)} 9. Kd7 Nb5 10. Ra8+ $18) 9. Kd7 {(Ke7)} ( 9. Kf7 $5 Kb7 {(Kb7)=}) 9... Ka5 10. Ra8+ $18 *  

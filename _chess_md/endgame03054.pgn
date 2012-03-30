@@ -1,0 +1,10 @@
+[Event "July 1892 {m}"]
+[Site "?"]
+[Date "1892.07.??"]
+[Round "?"]
+[White "Locock C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/3p4/3p4/3P4/4P1p1/6P1/8/K7 w - - 0 1"]
+
+ 1. Kb1 $1 (1. Kb2 $2 Kh8 $1 $11) (1. Ka2 $2 Kg7 $1 $11 (1... Kh7 $1 $11)) 1... Kg7 (1... Kh8 2. Kb2 $1 Kg8 3. Kb3 $1 Kf8 4. Kc2 $1 Kf7 5. Kd2 $1 Kf6 6. Ke2 $1 Kg6 7. Kd3 $1) 2. Kc1 $1 Kg6 3. Kd1 $1 Kg5 4. Kc2 $1 Kh6 5. Kd2 $1 Kh5 6. Kc3 $1 Kg6 7. Kd3 $1 Kf6 (7... Kg5 8. Ke3 $1 Kh5 9. Kf4 $18) (7... Kf7 8. Ke3 Kf6 9. Kf4 $18) (7... Kh6 8. Kd4 $1 Kg6 9. e5 Kf5 10. exd6 Kf6 11. Ke4 $18) 8. Kd4 $1 {und gewinnt} Kg6 (8... Ke7 9. e5 dxe5+ 10. Kxe5 Kf7 {usw.}) (8... Kf7 9. Ke3 $1 (9. e5 dxe5+ 10. Kxe5 Ke7 11. d6+ Ke8 12. Kf4 Kf7 13. Kf5 $1 Kg7 14. Kxg4 Kf6 15. Kh5 Ke6 16. g4 Kxd6 17. g5 Ke7 18. Kh6 $1 (18. Kg6 $2 d5 19. Kf5 Kf7 $11) (18. g6 $2 Kf8 19. Kh6 Kg8 $1 20. Kg5 Kg7 21. Kf5 d6 $11)) 9... Kf6 10. Kf4 $1 Kg7 11. Kxg4 Kg6 12. Kf4 Kf6 13. g4 Kg6 14. g5 Kf7 15. Kf5 Kg7 16. g6 Kg8 17. Kf6 Kf8 18. g7+ Kg8 19. Ke7 Kxg7 20. Kxd7 Kf6 21. Kxd6 $18) 9. e5 dxe5+ (9... Kf5 10. exd6 Kf6 11. Ke4 $1 Kg5 12. Ke5 Kg6 13. Kf4 $1 Kh5 14. Kf5 $18) 10. Kxe5 Kf7 11. Kf5 $1 (11. Kf4 $2 Kf6 $1 12. Kxg4 Ke5 13. Kh4 Kxd5 14. g4 Ke5 15. g5 d5 $11) 11... Ke7 12. Kxg4 Kd6 (12... Kf6 13. Kf4 (13. Kh5 Ke5 ( 13... d6 14. Kh6 $18) 14. g4 $18) 13... d6 14. g4 $1 $18) 13. Kf5 $1 Kxd5 14. g4 Kd6 15. Kf6 $1 $18 1-0  

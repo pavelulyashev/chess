@@ -1,0 +1,10 @@
+[Event "tn34#2449 {c} {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n2/8/6P1/8/5B1P/8/3K1p2/6k1 w - - 0 1"]
+
+ 1. g7 (1. Be3 $2 Nxg6 $1 2. h5 Ne5 3. Ke2 Kg2 4. Bxf2 Kh3 5. h6 Kg4 6. h7 Nf7 7. Bd4 Kh5) 1... f1=Q (1... Ng6 2. Be3 Ne7 3. Ke2) 2. gxf8=Q Qf2+ (2... Qg2+ 3. Kd3 Qd5+ 4. Ke3 Qe6+ 5. Kd4 Qd7+ 6. Ke5) 3. Kd3 $1 Qxh4 (3... Qf1+ 4. Ke4) 4. Qf5 $1 Qd8+ (4... Qe1 5. Qg4+ Kf1 (5... Kf2 6. Bg3+) (5... Kh1 6. Qh3+ Kg1 7. Be3+ Qxe3+ 8. Qxe3+ $1 (8. Kxe3 $2)) 6. Qh3+) (4... Qh8 5. Be3+ Kh1 (5... Kg2 6. Qg4+ Kh2 7. Qg1+ Kh3 8. Qh1+) (5... Kh2 6. Qf2+ Kh3 7. Qf3+ Kh2 8. Bf4+ Kg1 9. Qd1+ Kg2 10. Qe2+ Kg1 11. Be3+ Kh1 12. Qf1+ Kh2 13. Bf4#) 6. Qf1+) (4... Qe7 5. Qg4+ Kf2 6. Qg3+ Kf1 7. Qh3+ Kf2 8. Be3+) 5. Ke2 Qe8+ (5... Qh8 6. Qg4+ Kh1 7. Qf3+) (5... Qh4 6. Be3+ Kg2 7. Qf3+) (5... Qe7+ 6. Be5) 6. Be3+ Kh2 7. Kf2 Qh8 8. Bf4+ 1-0  

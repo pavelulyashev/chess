@@ -1,0 +1,10 @@
+[Event "1 Prize wg03 {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k4K2/2p5/4R3/3P4/1P2p3/p2bP3/6p1/6B1 w - - 0 1"]
+
+ 1. b5 $1 (1. Rc6 $143 a2 2. Rc5 a1=Q 3. Ra5+ Qxa5 4. bxa5 $11) 1... Bxb5 2. d6 $1 cxd6 (2... a2 $144 3. d7 a1=Q 4. d8=Q+ Kb7 5. Qd5+ $18) (2... Kb7 $144 3. Re7 $18) 3. Rxd6 a2 (3... Kb7 $144 4. Bh2 $1 a2 5. Rd1 Bd3 6. Ke7 Bb1 7. Be5 Bd3 8. Kf6 Kc6 9. Kg5 Kc5 10. Rg1 Kb4 11. Rxg2 $18) 4. Rd1 Bd3 5. Ra1 Bb1 6. Ke7 Kb7 7. Kd6 Kb6 8. Ke5 Kb5 9. Kf4 Kb4 10. Kg3 Kb3 11. Kxg2 Kb2 12. Bh2 Kxa1 13. Be5# 1-0  

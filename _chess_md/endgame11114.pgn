@@ -1,0 +1,10 @@
+[Event "ts23#794 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Petrov D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/pp6/k7/2P5/pPp1B3/P1K5/PR1P4/q7 w - - 0 1"]
+
+ 1. b5+ Ka5 2. Bb1 a6 3. c6 $1 (3. b6 $2 Qxb1 4. Rxb1) 3... bxc6 4. b6 c5 5. Kc2 c3 6. dxc3 c4 7. Rb5+ $1 Kxb5 8. b7 Ka5 9. b8=B $1 (9. b8=Q $2 Qxb1+ 10. Kxb1) 1-0  

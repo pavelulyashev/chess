@@ -1,0 +1,10 @@
+[Event "Dvoreckij JT 2008, 7. Lob {m}"]
+[Site "?"]
+[Date "2007.02.13"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "2k1K3/8/4P3/5P2/8/4pp2/8/8 w - - 0 0"]
+
+ {Remis} 1. f6 $1 (1. e7 $2 e2 $1 (1... f2 $2 2. Kf8 f1=Q 3. e8=Q+ $11) 2. f6 $1 (2. Kf7 e1=Q 3. e8=Q+ Qxe8+ 4. Kxe8 f2 5. f6 f1=Q 6. f7 Qb5+ 7. Kf8 Qg5 8. Ke8 Qd8#) 2... f2 $3 (2... e1=Q $2 3. f7 f2 4. f8=Q f1=Q 5. Qxf1 Qxf1 $11) 3. f7 f1=Q 4. f8=Q Kb7 $1 $19 (4... e1=Q $2 5. Qxf1 Qxf1 $11)) {main} 1... e2 ({main } 1... f2 2. f7 f1=Q 3. f8=Q Qxf8+ 4. Kxf8 e2 5. e7 e1=Q 6. e8=Q+ Qxe8+ 7. Kxe8 $11) 2. f7 (2. e7 $2 f2 $3 3. f7 f1=Q 4. f8=Q Kb7 $1 $19) 2... e1=Q 3. e7 $1 f2 (3... Qb1 4. f8=Q Qg6+ 5. Qf7 Qc6+ 6. Kf8) 4. f8=Q f1=Q 5. Qxf1 Qxf1 $11 *  

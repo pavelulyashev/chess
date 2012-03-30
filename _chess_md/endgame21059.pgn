@@ -1,0 +1,10 @@
+[Event "3 hm, Nona 2009 {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Kratz J, Minski M"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/8/4rp2/2K1kp2/4r1Q1/5P2/8 w - - 0 1"]
+
+ 1. f3+ $1 (1. Qg1 $2 Kf3 $1 2. fxe3 fxe3 $11) (1. Qg7 $2 Kf3 2. fxe3 Rxe3 $11) (1. Qg2+ $2 f3 $1 2. Qh3 Rd3 $1 $11) 1... Rxf3 2. Qe1+ Re3 3. Qh1+ $1 (3. Qb1+ $4 Kf3 $1) 3... Rf3 ({main} 3... f3 4. Qh4+ f4 5. Qh7+ Rf5 6. Qb7+ Ke5 (6... Rd5 7. Qxd5# {echo mate B}) 7. Qe7# {echo mate A}) 4. Qb1+ Ke3 (4... Rd3 5. Qxd3# {echo mate B}) 5. Qe1# {echo mate A} (5. Qb6+ $2 Ke2 6. Qb2+ Ke1 7. Qxe5+ (7. Qa1+ Ke2 8. Qxe5+ Re3 $11 {EGTB}) 7... Re3 $11 { EGTB.  Nice study with the finales which causes a smile.}) *  

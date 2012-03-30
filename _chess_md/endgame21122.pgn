@@ -1,0 +1,10 @@
+[Event "1 Prize, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Mikitovics J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r1B2N1/1P6/7K/8/8/8/3P1k2/8 w - - 0 1"]
+
+ 1. Ba5 $3 (1. Nf6 $5 Rxd8 $11 (1... Ke2 $2 2. Ba5 $1 (2. d4 $2 Rxd8 $11 (2... Kd3 $2 3. Bc7 $1 Rxb7 4. Be5 Rb4 5. d5 $18)) 2... Rxb7 3. d4 $1 $18 {main line} )) 1... Rxb7 (1... Rxg8 2. Bc7 $18) 2. Nf6 Ke2 3. d4 Ra7 (3... Kd3 4. d5 Kc4 5. d6 Kb5 6. Bd8 $1 Kc6 7. Be7 Rb1 8. d7 Rd1 9. d8=Q {(or d8R) +-, Excelsior}) 4. Bd8 $1 ({Thematic try} 4. Bb6 $5 Ra6 {Halfpin} 5. Nd5 (5. Nd7 Kd2 6. Kg5 Kc3 7. Bc5 Ra4 8. d5 Kc4 $11) 5... Kf3 (5... Kd3 $2 6. Nb4+ $18) 6. Kg6 Ke4 7. Nf6+ Kd3 8. Bc5 Kc4 9. Kf5 Ra5 $1 {Pin} 10. Nd7 Kd5 $1 {Unpin} 11. Nf6+ Kc4 {Pin} 12. Nd7 Kd5 {Unpin, positional draw.}) 4... Ke3 5. d5 (5. Bb6 $2 Ra6 $11 { Halfpin} (5... Rb7 $2 6. Bc5 Kd3 7. Kg5 Kc4 8. Kf4 $1 Rb5 9. Ne4 $18)) 5... Ra6 $1 {Pin} (5... Kf4 6. Kg6 Ke5 7. Bb6 Rb7 (7... Ra6 8. Bc7+ Kd4 9. d6 $18) 8. Ba5 $1 Kd6 9. Bd2 $1 Ke5 10. Bc3+ Kd6 11. Kf5 $18) 6. Be7 $1 (6. Kg5 $2 Kd4 $1 $11 {thr. 7...Rxf6=}) 6... Kf4 7. d6 {Halfpin} (7. Kg6 $2 Ke5 $1 $11 { thr. 8...Rxf6=}) 7... Ke5 8. d7 $1 ({Thematic try} 8. Ne8 $2 Rb6 {(Rc6)! Pin} 9. Kg6 Ke6 $1 $11 {Unpin} (9... Rb7 $2 {Unpin} 10. Kf7 $1 Rd7 {Pin} 11. Kf8 $1 Ke6 12. Nc7+ Ke5 13. Nb5 $1 Ke6 14. Ke8 $18)) 8... Ke6 {Unpin} 9. d8=Q $1 { wins, Excelsior} (9. Ng8 $2 Kxd7+ $11) (9. d8=R $2 Kxe7 $11 {Pin.  .  An excellent thematic study. The thematic tries (except for the one on the first move, which is only a try in this particular tourney) are really excellent because the pinning/unpinning moves are a real festival including halfpins both as "pinning" and unpinning moves.  Also in the main line 7.d6 is an unpinning move, but also a halfpin, and 8.d7 is a selfpin, with 8...Ke6 as an unpinning move. All of it is crowned by a very natural excelsior. It must be said, however, that this study lacks surprise, a prerequisite of studies in non-thematic tourneys. But here I do not care.  HvH}) 1-0  

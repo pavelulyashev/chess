@@ -1,0 +1,10 @@
+[Event "tt22 {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/8/8/4k1N1/7n/2bK4/N7/8 b - - 0 1"]
+
+ 1... Be1 (1... Bb2 2. Nh7 $1) (1... Ba1 2. Ne4 Nf3 3. Bf6+ Kd5 4. Bxa1 Ne5+ 5. Ke3) (1... Bd4 2. Nf7+ Ke6 3. Kxd4 (3. Bxh4 $2 Bf6)) 2. Ke2 Bg3 3. Nf3+ Nxf3 4. Kxf3 Be1 5. Ke2 $1 Bg3 6. Bc7+ 1-0  

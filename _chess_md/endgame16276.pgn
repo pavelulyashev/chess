@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P1P5/8/1ppp4/ppkrp3/nbprp3/q1nbK3 w - - 0 1"]
+
+ 1. c7 (1. a7 $2 Qb1 2. a8=N Ba1 3. Nb6 b2 4. Na4+ Kb3 5. Nc5+ Kc3 6. c7 b3 7. Na6 Nb4) 1... Qb1 2. c8=N $1 Ba1 3. Nb6 $1 b2 4. Na4+ Kb3 5. Nc5+ Kc3 6. a7 $1 b3 7. Na6 Nb4 8. Nc7 Nc6 9. Nd5# 1-0  

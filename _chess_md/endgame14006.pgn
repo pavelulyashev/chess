@@ -1,0 +1,10 @@
+[Event "tr11#0198 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6Kn/6p1/5PkP/6Bp/8/b7/1n6/8 w - - 0 1"]
+
+ 1. fxg7 Nf7 2. h7 Nxg5 (2... Nc4 3. h8=N+ $1) 3. h8=B $3 (3. h8=Q $2 Nc4 4. Qh6+ Kxh6 5. Kh8 Bb2) (3. Kh8 $2 Nf7+) (3. h8=N+ $2 Kf6 4. Nf7 Ne6 $1) 3... Kf5 1/2-1/2  

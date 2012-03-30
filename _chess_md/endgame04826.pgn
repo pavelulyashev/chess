@@ -1,0 +1,10 @@
+[Event "1 Prize tb28 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1N4rk/2R2Q2/3PPnPq/3PP3/4r2b/5R1p/6PK/8 w - - 0 1"]
+
+ 1. g7+ (1. Rxf6 $2 1... Bg3+ 2. Kxg3 (2. Kg1 Re1+ 3. Rf1 Qe3+ 4. Kh1 hxg2+ 5. Kxg2 Re2+) 2... Qg5+) (1. Qxf6+ $2 1... Bxf6 2. Rxh3 (2. Rh7+ Qxh7 3. gxh7 Bxe5+) 2... Bxe5+ 3. Kg1 Qxh3) 1... Kh7 2. exf6 (2. Rxf6 $2 2... Bg3+) 2... Bg3+ 3. Rxg3 hxg2+ 4. Rh3 (4. Kxg2 $2 4... Qd2+ 5. Kh3 Qh6+) 4... g1=Q+ 5. Kxg1 Qxh3 6. Qxg8+ Kg6 7. Qh7+ Kxh7 (7... Qxh7 8. g8=Q+ Qxg8 9. Rg7+) 8. g8=Q+ Kxg8 9. f7+ Kg7 10. f8=Q+ Kxf8 11. e7+ Kf7 12. e8=Q+ Kxe8 13. d7+ Qxd7 14. Nxd7 Kd8 15. Ra7 (15. Nf6 $2 15... Re1+ 16. Kf2 Kxc7 17. Kxe1 Kd6 18. Kd2 Ke5 19. Kc3 Kxf6 20. Kc4 Ke7 21. Kc5 Kd7) 15... Re7 16. d6 Rxd7 (16... Re6 17. Nc5 Rxd6 18. Nb7+) 17. Ra8# 1-0  

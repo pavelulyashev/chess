@@ -1,0 +1,10 @@
+[Event "tt23 @2 {m}"]
+[Site "?"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Olland A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/PP2n1p1/5k1N/1Np2P2/8/KnP2BP1/3q4 w - - 0 1"]
+
+ 1. Nd5 $1 (1. axb7 $2 Qd8 2. Nc6 Qxb6 3. b8=Q Qxb8 4. Nxb8 Nd1 $1) 1... Qd2 $1 (1... Qxd5 2. g4+ Ke4 3. Nf6+) (1... Qxh5 2. g4+ Qxg4 3. Ne3+) 2. Ng3+ (2. Ne7+ $1 {cook MC} Ke4 (2... Kg4 3. Nf6+ Kxf4 4. Ned5+) 3. Nf6+ Kxf4 4. Ned5+ Kf5 5. g4+ Ke5 6. axb7 Qxf2 7. b8=Q+ Kd4 8. Qd6) 2... Kg4 3. Nf6+ Kxf4 4. Be3+ Qxe3 ( 4... Kxe3 5. Nf1+) 5. Nd5+ 1-0  

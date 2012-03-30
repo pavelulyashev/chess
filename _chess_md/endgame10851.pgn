@@ -1,0 +1,10 @@
+[Event "3 Honorable Mention tn20 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K2k4/P2P4/r1P5/1P1n4/NP2r3/8/8/8 w - - 0 1"]
+
+ 1. Nc5 Rb6 2. Nb7+ Rxb7 3. cxb7 (3. Kxb7 $2 Nc7 4. a8=Q+ (4. b6 Rxb4) 4... Nxa8 5. Kxa8 Rxb4) 3... Nc7+ 4. Kb8 Nxb5 (4... Kxd7 5. a8=N $3 (5. a8=B $2 Re6 6. b6 Rxb6) 5... Nxb5 6. Nb6+ Kc6 7. Ka8 Re1 8. Nc4 $1 (8. b8=Q $2 Ra1+) 8... Nc7+ 9. Ka7) 5. a8=B $3 (5. a8=Q $2 Kxd7) (5. a8=N $2 Re6 6. Nc7 (6. Nb6 Rxb6) 6... Nxc7) 5... Nd4 6. Ka7 (6. b5 $2 Re6) 6... Nc6+ 7. Kb6 Re6 8. b5 Nb8+ 9. Ka7 Nxd7 10. b8=Q+ Nxb8 11. Kxb8 Rb6+ 12. Ka7 (12. Bb7 $2 Rxb5) 1/2-1/2  

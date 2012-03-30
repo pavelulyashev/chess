@@ -1,0 +1,10 @@
+[Event "ts20 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K6/8/2R5/4p1p1/p7/5P2/7k w - - 0 1"]
+
+ 1. Kc6 (1. Re5 $2 a2 $1 2. Ra5 Kg2 3. Rxa2 Kf3 4. Kc6 e3) (1. Rc2 $2 e3 (1... Kg2 $2 2. f4+ Kf1 3. f5 e3 4. Rc1+ Ke2 5. f6 Kd2 6. Ra1 e2 7. f7) 2. fxe3 g3) 1... Kg2 (1... e3 2. fxe3 g3 3. Rc1+ Kh2 (3... Kg2 4. e4 Kf3 5. e5) 4. Kb5 g2 5. Kb4) (1... g3 2. fxg3 e3 3. Rc1+ Kg2 4. Kd5) 2. Kd5 $1 (2. Rc2 $2 e3 $1 3. fxe3+ (3. f4+ Kf3 4. f5 e2 5. Rc1 Kf2) 3... Kf3 4. Kd5 (4. Rc3 a2 5. Ra3 g3 6. e4+ Kxe4) 4... Kxe3 5. Ke5 (5. Rc3+ Kf4 6. Rc4+ Kf3 7. Ke5 a2 $1 8. Ra4 g3 9. Ra3+ Kf2 10. Kf4 g2 11. Rxa2+ Kg1) 5... a2 $1 6. Rxa2 g3 7. Ra3+ Kf2 8. Kf4 g2 9. Ra2+ Kg1 $1 10. Kg3 Kh1 11. Rxg2) 2... Kxf2 (2... g3 3. fxg3 e3 4. Kd4) ( 2... e3 3. fxe3 g3 4. e4 Kf2 5. Rc1 g2 6. e5) 3. Kxe4 g3 (3... Ke2 4. Kf4) ( 3... a2 4. Rc2+) 4. Rc2+ Kg1 5. Kf3 a2 6. Rxa2 1-0  

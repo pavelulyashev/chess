@@ -1,0 +1,10 @@
+[Event "tp17 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Prokop F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1N6/1r1B3b/5P2/3K4/7B/8/6p1/6k1 w - - 0 1"]
+
+ 1. f7 Rxb8 (1... Rxd7+ {main} 2. Nxd7 Kh1 3. Bf2 g1=Q 4. Bxg1 Bg8 5. fxg8=B (5. fxg8=Q $2)) 2. Be8 Rb5+ 3. Bxb5 Kh1 4. Bf2 g1=Q 5. Bxg1 Bg8 6. fxg8=N (6. fxg8=Q $2) (6. fxg8=B $2 Kxg1) 1-0  

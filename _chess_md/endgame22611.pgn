@@ -1,0 +1,10 @@
+[Event "us46#2456 @2 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/2R2P2/2N5/1K1P4/1P4p1/4q1p1/2P3P1/5r2 w - - 0 1"]
+
+ 1. Re7 (1. c4 $2 Rxf7 2. Rxf7 Qb6+ 3. Ka4 Qb5+ 4. cxb5) 1... Qg1 2. Re1 (2. Ka6 $2 Ra1+ 3. Na5 Qf1+ 4. Kb6 Qf6+ 5. Nc6 Ra6+) (2. Re8+ $2 Kb7 3. f8=Q Rxf8 4. Rxf8 Qb6+) (2. c4 $2 Rxf7 3. Rxf7 Qb6+) 2... Qf2 (2... Kb7 3. Na5+ Kc7 4. d6+ Kxd6 5. f8=Q+ Rxf8 6. Rxg1) 3. Re8+ Kb7 4. Re7+ Kc8 5. d6 Qf5+ 6. Kb6 (6. Ne5 $1 {cook} Qxc2 7. Rc7+ Qxc7 8. dxc7 Rf6 9. Kc5 Kxc7 10. b5 Kb7 11. Kd5 Kc7 12. b6+ Kb7 13. Nc4 Ka6 14. b7 Kxb7 15. Nd6+ Kb6 16. Ke5) 6... Qf2+ 7. Ka6 Ra1+ 8. Kb5 Qf1+ 9. c4 Qf5+ 10. Ne5 1-0  

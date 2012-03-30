@@ -1,0 +1,10 @@
+[Event "Cs. sach_09/97 No._64_2 Commendationom {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/5K2/2n4N/8/8/p5B1/5N2/8 w - - 0 1"]
+
+ 1. Bh4 Kh7 { For solver hard to choose from two continuations, but that shall transpose.} ( 1... a2 $1 {stalemate defence} 2. Bf6+ (2. Nfg4 a1=Q 3. Bf6+ Qxf6+ 4. Kxf6 Ne5) 2... Kh7 3. Nfg4 (3. Nhg4 Ne5+ 4. Bxe5 a1=Q 5. Nf6+ Kh8) 3... Ne5+ (3... Nd4 4. Bg7 $1 (4. Bxd4 a1=Q 5. Nf6+ Kh8 6. Kg6 Qg1+)) 4. Bxe5 a1=Q 5. Nf6+ Kh8 6. Kg6 $3 Qxe5 7. Nf7#) (1... Ne5+ $2 2. Ke6 a2 3. Bf6+ Kh7 4. Bxe5) 2. Nfg4 a2 (2... Ne5+ 3. Nxe5 a2 4. Nhg4 a1=Q 5. Nf6+ Kh6 6. Neg4#) 3. Bf6 Ne5+ (3... Nd4 4. Bg7 (4. Bxd4 $2 a1=Q 5. Nf6+ Kh8 6. Kg6 Qg1+)) 4. Bxe5 a1=Q 5. Nf6+ Kh8 6. Kg6 { Solution in 12/97.} 1-0  

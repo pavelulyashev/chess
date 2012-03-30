@@ -1,0 +1,10 @@
+[Event "ts36#1.6 @2 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R7/4p3/P7/4k3/4p3/2rP4/8/3K4 w - - 0 1"]
+
+ 1. d4+ Ke6 2. d5+ (2. a7 $1 {cook JU} Ra3 3. d5+ Kd7 4. d6) 2... Ke5 3. a7 Rc7 4. d6 Rd7 5. Re8 Rxa7 6. Rxe7+ 1-0  

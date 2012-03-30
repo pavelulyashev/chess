@@ -1,0 +1,10 @@
+[Event "te03 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Kalashnikov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4p1B1/n3pN1q/1R6/R3K3/2p5/6k1 w - - 0 1"]
+
+ 1. Ra1+ Qd1 2. Rg4+ Kh2 (2... Kf1 3. Ng3+ Ke1 4. Ne2 Nc4+ 5. Rxc4 Qxa1 6. Rxc2) 3. Rh4+ Kg2 4. Rg4+ Qxg4 5. Nh4+ Qxh4 (5... Kh3 6. Rh1+ Kg3 7. Rg1+ Kh3 8. Rh1+ Kg3 9. Rg1+) 6. Be4+ Qxe4+ 7. Kxe4 Nb3 8. Re1 Kf2 9. Rh1 Kg2 (9... Nd2+ 10. Kd3 Nf1 (10... Nf3 11. Rc1) 11. Kxc2 e4 12. Rh6) 10. Re1 1/2-1/2  

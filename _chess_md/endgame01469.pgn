@@ -1,0 +1,10 @@
+[Event "3 Prize Shakhmaty {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/4p2p/8/3PK2k/1p6/pp4pP/3B2P1/8 w - - 0 1"]
+
+ 1. d6 exd6+ (1... a2 2. Bc3 bxc3 3. dxe7 a1=Q 4. e8=Q+ {M4}) 2. Kf6 a2 (2... b2 3. Ne6 b1=Q 4. Ng7+ Kh4 5. Bg5#) 3. Bc3 bxc3 4. Ne6 a1=Q 5. Ng7+ Kh4 6. Nf5+ Kh5 7. Nxg3+ Kh4 8. Nf5+ Kh5 9. g4# 1-0  

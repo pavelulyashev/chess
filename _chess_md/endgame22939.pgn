@@ -1,0 +1,10 @@
+[Event "2 Prize, Tolush 100 MT {m}"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "Ryabinin N"]
+[Black "*"]
+[Result "*"]
+[FEN "3N2k1/8/5PBP/1bp1n3/1p1p4/1K2p2P/pP2P3/8 w - - 0 1"]
+
+ 1. f7+ Nxf7 2. h7+ $1 (2. Bxf7+ $2 Kh7 3. Kxa2 $19) ({Thematic try} 2. Nxf7 $2 a1=N+ 3. Ka2 Bc4+ 4. Kxa1 Bxf7 5. h7+ Kh8 6. Bxf7 d3 7. Bc4 d2 8. Bb3 c4 9. Bc2 b3 10. Kb1 Kg7 11. h4 Kh8 12. h5 Kg7 13. h6+ Kh8 {zz} 14. Bd1 Kxh7 $19) 2... Kg7 3. Nxf7 a1=N+ $1 4. Ka2 Bc4+ 5. Kxa1 Bxf7 6. Bxf7 d3 7. Bc4 d2 8. Bb3 c4 9. Bc2 b3 10. Kb1 Kh8 11. h4 Kg7 12. h5 Kh8 13. h6 {zz} bxc2+ 14. Kxc2 Kxh7 15. Kd1 Kg6 16. h7 (16. Kc2 $2 Kxh6 17. Kd1 Kg5 18. b4 Kf5 $19) 16... Kxh7 17. b4 $1 (17. b3 $2 Kg6 $19) 17... cxb3 {stalemate} *  

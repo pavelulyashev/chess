@@ -1,0 +1,10 @@
+[Event "Kцnig und Turm, Mai 2007 {m}"]
+[Site "?"]
+[Date "2007.05.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "8/1q3p1p/2p1P1kP/1pP3Pp/1P5P/8/P6P/4K2R w K - 0 1"]
+
+ {Gewinn     (dreifache Umwandlung im Valladao, D+T+S)     7 nachweisbare Schlagfдlle durch Bauern (6+1)     #} 1. O-O (1. Rf1 $2 f5 2. Rf2 $1 (2. gxf6 Qc8 $1 $19) 2... Qe7 3. Re2 f4 4. Kf2 f3 5. Kxf3 Qf8+ 6. Kg2 Qf5 7. e7 Qg4+ $11 ) 1... f5 (1... Qe7 2. Rxf7 Qxe6 3. Rf6+ Qxf6 4. gxf6 $18) 2. gxf6 Qc8 $1 {main } (2... Qc7 $1 {main} 3. f7 Qe5 4. f8=R $1 $18 (4. f8=R {eg} Qe3+ 5. Kg2 Qe4+ 6. R8f3 Kxh6 7. h3 Qxb4 8. Rf5 Qxh4 9. Re5 Qe7 10. Rff5 h4 11. Rh5+ Kg7 12. Rxh4 Kg6 (12... Kf8 13. Rg4 Ke8 14. Rg8+ $18) (12... Qxh4 13. e7 $18) 13. a3 Kg7 14. Rg4+ Kh8 15. Rgg5 h6 16. Rgf5 Kg8 17. Rf7 Qe8 18. Re4 h5 19. Re5 h4 20. Re4 Kh8 21. e7 Qg8+ 22. Kh1 $18)) (2... Qa8 $1 {main} 3. f7 Qxa2 4. Rf6+ $1 Kxf6 5. f8=Q+ Kxe6 6. Qg8+ $18) 3. f7 Qxe6 4. f8=N+ $18 *  

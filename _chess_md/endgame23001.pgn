@@ -1,0 +1,10 @@
+[Event "2nd Spec. Prize, 2World Cup {m}"]
+[Site "?"]
+[Date "2011.05.12"]
+[Round "?"]
+[White "Aliev I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6kn/2r1q3/4P3/7K/4N3/R7/B1p2R2/8 w - - 0 0"]
+
+ 1. Nf6+ $1 (1. Rg3+ $2 Kh7 2. Nf6+ Qxf6 3. Rxf6 Rc5+ $1 (3... c1=Q $2 4. Bb1+ Ng6 5. Rfxg6 $11) 4. Kh4 c1=Q $19) (1. Rg2+ $2 Kh7 2. Ng5+ Qxg5+ 3. Rxg5 c1=Q $19) 1... Qxf6 (1... Kg7 2. Rg3+ $18) 2. e7+ $1 ({Thematic try} 2. Rxf6 $2 Rc5+ $1 (2... c1=Q $2 3. e7+ {main line}) 3. Kg4 c1=Q 4. e7+ Rc4+ 5. Bxc4+ Qxc4+ $11 ) 2... Kh7 3. Rxf6 (3. Bg8+ $2 Kg7 4. Rg3+ (4. Rxf6 Rxe7 $11) 4... Ng6 5. e8=N+ Kh8 $11) {main} 3... c1=Q ({main} 3... Rc5+ 4. Kg4 c1=Q 5. Rh3+ (5. Bg8+ $2 Kg7 6. e8=Q Qg1+ 7. Kh4 Qg5+ 8. Kh3 Qh5+ 9. Qxh5 Rxh5+ 10. Kg4 Rh2 11. Kg3 Rh5 $11) 5... Kg7 6. e8=N#) 4. Bg8+ Kg7 (4... Kxg8 5. e8=Q+ $18) 5. e8=N+ $1 (5. e8=Q $2 Qxa3 $11) 5... Kxg8 6. Rg3+ Kh7 7. Rf7+ Rxf7 ({or also} 7... Nxf7 8. Nf6+ Kh8 9. Rg8#) 8. Rg7+ Rxg7 9. Nf6# 1-0  

@@ -1,0 +1,10 @@
+[Event "tt21#0289 @2 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3p4/8/3K2p1/5B2/4P1NP/2n4k w - - 0 1"]
+
+ 1. Bd5 $1 (1. Bxg4 $2 Kxg2 $1 2. h4 (2. e4 $2 Kxh2 3. Kd5 Nd3 4. Kxd6 Nf2) 2... Kg3 3. h5 Kxg4 4. h6 Nxe2+ 5. Kd5 Nf4+ 6. Kxd6 Ng6) (1. Be4 $2 Nxe2+ 2. Kd3 d5 3. Bxd5) (1. Bb7 $2 Nxe2+ 2. Kd3 Ng1 3. h4 gxh3 4. Ne3+ d5 $1 5. Bxd5+ Nf3 6. Bxf3+ Kg1 7. Nf5 h2 8. Ng3 Kf2) 1... Nxe2+ $1 (1... Kxh2 2. Ke3) 2. Kd3 $1 Ng1 $1 (2... Nc1+ 3. Kc2 $1 Ne2 4. Nf4+) 3. h4 gxh3 4. Ne3+ (4. Nh4+ $1 {cook JN} Kh2 5. Nf5) 4... Kh2 (4... Nf3 5. Bxf3+ Kg1 6. Ke2 $1 h2 $1 7. Bh1 $1 d5 $1 8. Nf5 d4 9. Ng3 d3+ 10. Kxd3 Kf2 11. Ne2) 5. Nf1# 1-0  

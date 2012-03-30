@@ -1,0 +1,10 @@
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/3k4/P6P/8/pr1P4/p6b/P2N4/8 w - - 0 1"]
+
+ 1. a7 (1. h7 $2 1... Rb8+ 2. Kg7 Kc6) 1... Bg2 2. h7 Rxd4 (2... Rb5 3. d5 $1 3... Rxd5 (3... Bxd5 4. Kg7 Rb2 5. h8=Q Rxd2 6. Qh3+ Kd8 7. Qxa3) 4. a8=Q Rxd2 5. Qxa4+) (2... Rb3 3. Nf3 $1 3... Rxf3 (3... Bxf3 4. Kg7 Rb2 5. h8=Q) 4. a8=Q) (2... Rb6 3. Kg7) 3. Ne4 Rxe4 (3... Bxe4 4. Kg7 Rd2 5. h8=Q Rxa2 6. Qh3+ $1 6... Kd6 7. Qg3+ 7... Ke6 $1 8. Qe3 8... Kf5 $1 9. Qc5+ Kf4 (9... Ke6 10. Qc4+ Bd5 11. Qxa2) 10. Qc4 Rg2+ 11. Kf7 a2 (11... Kf3 12. Qxe4+ $1) 12. a8=Q) 4. a8=Q Re8+ 5. Qxe8+ Kxe8 6. Kg7 1-0  

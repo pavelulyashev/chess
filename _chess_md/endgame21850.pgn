@@ -1,0 +1,10 @@
+[Event "tc06#283 @3 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3P4/6B1/pP4K1/3k4/4r1N1 w - - 0 1"]
+
+ 1. Nf3+ Ke2 (1... Kc3 $1 {cook HH}) 2. Nxe1+ Kxe1 3. d6 a2 4. d7 a1=Q 5. d8=Q Qc3+ 6. Kh4 Qxb3 7. Qd4 $1 Kf1 (7... Qa3 8. Qd1+ Kf2 9. Qe2+ Kg1 10. Qe1+) 8. Qf4+ Ke1 9. Qc1+ Kf2 10. Qd2+ Kg1 11. Qe1+ Kg2 12. Bf5 Qf3 13. Be4 Kh2 14. Qd2+ 1-0  

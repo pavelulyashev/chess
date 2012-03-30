@@ -1,0 +1,10 @@
+[Event "3-4 prize {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5R2/3p1P2/1p3k2/3K4/4P3/1B1b4/4p3/r7 w - - 0 1"]
+
+ 1. Rg8 Kxf7 2. Ke5+ Ke7 (2... d5 3. Bxd5+ Ke7 4. Rg7+ Ke8 5. Kd6 Rf1 6. Rg8+ Rf8 7. Bc6+ Kf7 8. Bd5+ Ke8 $11 {йchec perpйtuel}) (2... Bc4 3. Bxc4+ d5 4. Bxd5+ (4. Rg2 dxc4 5. Rxe2 Rd1 $11) (4. Bxe2 Kxg8 5. Kxd5 $11) 4... Ke7 5. Rg7+ Kf8 6. Rg8+ Ke7) 3. Rg7+ Kd8 (3... Ke8 4. Rg8+ Ke7 5. Rg7+ $11 {etc.}) (3... Kf8 4. Rg8+ Ke7 $11) 4. Kd6 Bc4 $1 5. Bxc4 Rd1+ 6. Bd5 Rxd5+ $1 7. exd5 (7. Kxd5 $2 e1=Q 8. Rg8+ Kc7 $19) 7... e1=Q 8. Rg8+ Qe8 9. Rh8 (9. Rxe8+ $2 Kxe8 10. Ke5 Kd8 11. Kd6 Kc8 12. Ke5 Kc7 $19) 9... Qxh8 {pat} 1/2-1/2  

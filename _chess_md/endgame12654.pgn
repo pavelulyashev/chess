@@ -1,0 +1,10 @@
+[Event "tr19 {v} {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Platov V, Platov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/2p2p2/B1b4P/P4k2/8/2P4K/8 w - - 0 1"]
+
+ 1. h6 Bf8 (1... Bd4 2. c3 Be5 3. Bc7 Bxc7 4. h7) 2. Bb4 Bxh6 (2... c5 3. h7 Bg7 4. Bxc5 a6 5. c4) 3. Bd2+ Kf3 4. Bxh6 Ke2 5. a5 a6 6. Kg3 c5 (6... Kd1 7. c4 c5 8. Kf4) 7. Kf4 Kd2 8. Ke4+ Kxc2 9. Kd5 Kd3 10. Kxc5 Ke4 11. Kb6 Kd5 12. Kxa6 Kc6 13. Bf4 1-0  

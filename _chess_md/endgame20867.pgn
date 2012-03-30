@@ -1,0 +1,10 @@
+[Event "2 Honorable Mention, us93#0007b {tw} {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Aliev I"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/4P3/1B4Pk/7p/3Nq2P/8/8/8 w - - 0 1"]
+
+ 1. Ne6 $1 Qxe6 (1... Qxg6 2. Be3+) (1... Qa8+ 2. Bd8 $1) 2. g7 Qe5 (2... Qc8+ 3. Bd8 $1 Qc6 (3... Qe6 $2 4. Bc7 $1)) 3. Be3+ $1 Qxe3 (3... Kg6 4. e8=Q+) 4. g8=N+ $1 (4. e8=Q $2 Qxe8+ 5. g8=N+ Qxg8+ 6. Kxg8 Kg6 7. Kf8 Kf5) 4... Kg6 5. e8=Q+ Qxe8 1/2-1/2  

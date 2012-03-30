@@ -1,0 +1,10 @@
+[Event "ARVES Solving 2002 {m}"]
+[Site "?"]
+[Date "2002.11.17"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K1k187p82p53p1R26P18 w - - 0 1"]
+
+ 1. Rg3+ Kh7 2. Kf7 d2 3. Rg7+ Kh8 4. Rg8+ {Unfortunately there is a dual with:} (4. Rg6 Kh7 5. Rd6 c3 6. g4 c2 7. g5 {Threatening Rxh6#} hxg5 8. Rxd2 c1=Q+ 9. Rh2#) {1-0} 4... Kh7 5. Rd8 c3 6. g4 c2 7. g5 hxg5 {or} (7... h5 8. Rd6 d1=Q 9. Rh6#) {or} (7... d1=Q 8. g6#) 8. Rxd2 c1=Q 9. Rxh2# 1-0  

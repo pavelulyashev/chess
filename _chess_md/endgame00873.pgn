@@ -1,0 +1,10 @@
+[Event "Hlinka JT_50_3rdHm {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Pallier A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "b7/8/p3R2N/P2PP2Q/q7/4p2p/4Kn1k/4n1N1 w - - 0 1"]
+
+ 1. Nf3+ $1 (1. Kf1 $2 Bxd5 2. Ng4+ Qxg4 3. Qxg4 Nxg4 4. Rd6 Bc4+ 5. Kxe1 Kxg1) (1. Kxe3 Qe4+ 2. Kd2 Qc2+ 3. Ke3 Ng2+ 4. Kd4 Qb2+ 5. Kc4 Ne3+ 6. Kc5 Ne4#) (1. Kxe1 Nd3+ 2. Kf1 Qa1+ 3. Ke2 Nf4+) 1... Nxf3 (1... Kh1 2. Rg6 Qd1+ 3. Kxe3 Nxf3 4. Qxf3+ Qxf3+ 5. Kxf3) 2. Qxf3 Qa2+ (2... Qd1+ 3. Kxe3 Qxf3+ 4. Kxf3 Bxd5+ 5. Ke2 $1 Bc4+ $1 6. Kf3 $1 Bd5+ 7. Ke2 $11) 3. Kxe3 Bxd5 $1 4. Qe2 $3 (4. Qxf2+ $6 Qxf2+ 5. Kxf2 Bxe6 {MZ}) (4. Qf4+ $2 Kg2 5. Rg6+ Kf1 6. Ng4 Qe2+ 7. Kd4 Qc4+ 8. Ke3 Qc3#) 4... Qxe2+ (4... Bxe6 5. Qxf2+ $1 (5. Qxa2 $6 Bxa2 6. Kxf2 Be6 {MZ }) 5... Qxf2+ 6. Kxf2 {MZ}) 5. Kxe2 Bc4+ $1 (5... Bxe6 6. Kxf2 {MZ}) 6. Kf3 $3 Bd5+ $1 7. Ke2 $1 {positional draw} Bxe6 $6 8. Kxf2 $22 Kh1 9. Kf1 Bc4+ 10. Kf2 Be6 11. Kf1 $11 1/2-1/2  

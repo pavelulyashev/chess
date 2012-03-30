@@ -1,0 +1,10 @@
+[Event "tt23#270 @2 {m}"]
+[Site "?"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Seilberger J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7p/b4ppk/1p1Rn1N1/4PR1B/2p3P1/p4P1K/n1r5 w - - 0 1"]
+
+ 1. Rxe5 Bc8 (1... fxe5 2. Rf7 Kh5 3. f3 h6 (3... Rc2+ 4. Kh3) 4. Ne6) (1... fxg5 2. Bxg5+ Kg7 3. Re7+ Kg8 4. Bh6) (1... Kg7 2. Ne6+ Kf7 (2... Kg8 3. Rxf6 h5 4. Rf8+ Kh7 5. Bf6 g5 6. Rxg5) 3. Rxf6+ Ke7 4. Nc5+) (1... Kh5 2. g4+ Kxh4 ( 2... Kh6 3. Nf7+) 3. Nf3#) 2. Nf7+ Kg7 3. Bxf6+ Kxf7 (3... Kf8 4. Nd8 Bd7 5. Bh8+) 4. Bh8+ Bf5 5. exf5 Re1 6. fxg6+ (6. Rxe1 $1 {cook JU}) 6... Kxg6 7. Rf6# 1-0  

@@ -1,0 +1,10 @@
+[Event "tb28 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Sviridenko N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/8/KP2P3/B7/r7/4b3/8/8 w - - 0 1"]
+
+ 1. b7 Bf4 2. e7 Re4 3. Bc3+ Kh7 4. Be5 $1 {Nowotny} Rxe5 (4... Bxe5 5. e8=Q) 5. b8=Q Re6+ 6. Qb6 Rxe7 7. Qf6 1-0  

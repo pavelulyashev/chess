@@ -1,0 +1,10 @@
+[Event "te03 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2R5/8/8/3np3/1kp5/8/K7 w - - 0 1"]
+
+ 1. Kb1 Ne2 (1... e3 2. Kc1 e2 3. Re7 Kc4 4. Re3) (1... c2+ 2. Kc1 e3 3. Rc3+ Kxc3) 2. Rc6 $1 (2. Rc8 $2 e3 3. Rc7 Nf4 4. Rb7+ Kc4 5. Re7 Nd5) (2. Rc5 $2 Nf4 3. Rb5+ Kc4 4. Re5 Kd3) 2... e3 (2... Nf4 3. Kc1 e3 4. Kd1 e2+ 5. Ke1) 3. Rc8 ( 3. Rc7 $2 Nf4 4. Rb7+ Kc4 5. Kc2 Ne6 6. Re7 Nd4+) 3... Nd4 (3... Ng3 4. Rb8+ Kc4 5. Rc8+ Kd3 6. Rd8+) (3... Nf4 4. Rb8+ Kc4 5. Kc2 e2 (5... Nd5 6. Kd1 Kd3 7. Re8 c2+ 8. Kc1) 6. Re8 Kd4 7. Re7) 4. Kc1 e2 (4... c2 5. Rc3+ Kxc3) 5. Re8 Kc4 6. Re3 Kd5 7. Kb1 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "td23#0232 {m}"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Caro H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k2r4/p6p/Pp4n1/1N6/8/R1R5/3r1P1K/8 w - - 0 1"]
+
+ 1. Rc7 R2d7 (1... Rxf2+ {main} 2. Kg1 Rdf8 3. Rxa7+ Kb8 4. Rb7+ Kc8 5. Rc3+ Kd8 6. Rd3+ Ke8 7. Nd6+ Kd8 8. Nf7+ Kc8 9. Kxf2 Ne5 10. Rd8+ Rxd8 11. Nxd8) 2. Rd3 $1 Ne5 3. Rxa7+ Kb8 4. Rb7+ Ka8 5. Nc7+ Rxc7 6. Rxd8+ Rc8 7. Rxc8# 1-0  

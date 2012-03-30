@@ -1,0 +1,10 @@
+[Event "2nd prize,  Nona 2007, main {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4pB2/4p3/4P1P1/2K1k1P1/Npp5/p7/2B5 w - - 0 1"]
+
+1. Bg6+ $1 (1. Kxc3 $2 a1=Q+ 2. Bb2 Qe1+ 3. Kxb3 Qd1+ 4. Kb4 Qe2 5. Bc3 Qxg4$11) (1. g6 $2 a1=Q 2. g7 Qxc1 3. g8=Q Qxa3 $11) 1... Kf3 (1... Kxe5 $4 2. Kc5a1=Q 3. Nc4#) 2. Bb2 $1 (2. Kxb3 $2 a1=Q 3. Kc2 Qa2+ 4. Kxc3 Qa1+ 5. Kc2 Qd4 6.Bd3 Qa4+ 7. Kc3 Qd1 8. Bb2 Qe1+ 9. Kc4 Qd2 $11) 2... cxb2 3. Bb1 a1=Q 4. Kb4 $3({Thematic try} 4. Kxb3 $2 Kf4 5. g6 Kg5 6. g7 Kh6 7. g8=N+ (7. g8=B Kg5 8.Bxe6 Kf4 9. Bc4 e6 $1 10. Kb4 Qxa3+ $1 11. Kxa3 Kxg4 $11 {with two useless white bishops.}) 7... Kg5 8. Nxe7 Kxg4 9. Nd5 $1 Kf3 $1 10.Kb4 (10. Nb6 Ke3 11. Nbc4+ Kd4 $11) 10... Ke2 $1 {(f2)} 11. Nf4+ Ke3 {(Kf3)}12. Nxe6 Qxb1 $1 13. Nxb1 Ke4 $11 {with two useless white knights.}) 4... Kf4$1 5. g6 Kg5 6. g7 Kh6 7. g8=B $1 (7. g8=R Qxa3+ 8. Kxa3 {stalemate.}) 7... Kg58. Bxe6 Kf4 9. Bxb3 e6 10. B3a2 $1 (10. Bxe6 $2 Kxe5 11. Bea2 Kf4 $1 $11) 10...Kxe5 11. g5 {win. .A new interpretation of a known idea (V.Smislov) with abeautiful thematic try.} 1-0

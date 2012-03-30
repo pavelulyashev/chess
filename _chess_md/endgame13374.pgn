@@ -1,0 +1,10 @@
+[Event "ts25#084 @3 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k2Br2/5P2/1P6/P3p3/2b1K3/4P3/8/7n w - - 0 1"]
+
+ 1. a6 (1. Kxe5 $2 Bxf7 2. Bc6 Bc4 $1) 1... Rxf7 (1... Bxf7 2. Bc6) (1... Bxa6 $1 {cook} 2. Kxe5 Kc8) 2. a7+ Ka8 3. Bc6+ Rb7 4. Kf3 $1 Bb5 5. Bd5 Bf1 6. Be4 Bh3 7. Bc6 Bd7 8. Bd5 1/2-1/2  

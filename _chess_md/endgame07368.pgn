@@ -1,0 +1,10 @@
+[Event "1/2 Prize ts22#186 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/3R4/8/3K4/n3p2b/1k6 w - - 0 1"]
+
+ 1. Kd2 $1 Nc1 $1 (1... Bf4+ $144 2. Kxe2 Nc3+ 3. Kf3 Nxd5 4. Ke4 $11) (1... Nc3 $144 2. Rd3 $11) 2. Rb5+ Ka2 3. Ra5+ Kb3 (3... Kb2 $144 4. Ra4 $1 (4. Rf5 $143 Nb3+ $1 5. Kxe2 Nd4+ $19) 4... Bc7 5. Rb4+ Ka3 6. Re4 $11) 4. Rf5 $1 Bc7 5. Rf3+ Kb2 (5... Ka4 $144 {main} 6. Re3 $1 Bf4 7. Ke1 $1 Bxe3 $11) 6. Rf2 $1 Ba5+ 7. Ke3 Bb6+ 8. Kd2 Bxf2 $11 1/2-1/2  

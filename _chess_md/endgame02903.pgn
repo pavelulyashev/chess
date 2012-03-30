@@ -1,0 +1,10 @@
+[Event "2/3 Prize Tbilisi Ty {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Katsnelson L, Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k5B1/p6R/3p4/3K4/rP6/p7/p7/2B5 w - - 0 1"]
+
+ 1. Bb2 $1 (1. Kxd6 $2 a1=Q 2. Bd5+ Kb8 3. Bf4 Rxb4 4. Be5 Rb6+) 1... axb2 2. Kxd6 (2. Kc6 $2 Rxb4 3. Bd5 a5) 2... Ra6+ 3. Kc7 Rc6+ $1 4. Kxc6 b1=Q $1 (4... a1=Q 5. Bd5) 5. Rh8 $1 (5. Bd5 $2 Qxh7) 5... a1=Q 6. Bd5+ Qxh8 7. Kc7# 1-0  

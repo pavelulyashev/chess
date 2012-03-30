@@ -1,0 +1,10 @@
+[Event "=1st/2nd Comm  Bent MT {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6p1/6Qp/3k4/7b/p5p1/P7/K3n1n1 w - - 0 1"]
+
+ 1. Qf5+ (1. Qh5+ $2 Ke4 2. Qxh4+ Kf3 3. Qa4 {(Kb1)} Kg2 {-+}) (1. Qf7+ $2 Ke4 2. Qe6+ Kf3 3. Qxe1 Bf6+ 4. Kb1 Kg2 {(Ne2) -+}) 1... Kd4 2. Qf4+ Kd3 3. Qxh4 Nc2+ (3... Ne2 4. Qa4 Nc2+ (4... g2 5. Qxa3+ Nc3 (5... Kd2 6. Qb4+ Kd1 7. Qd6+ Kc2 8. Qc5+ Kd2 9. Qb4+ Ke3 10. Qe7+ Kf3 11. Qb7+ Kf2 12. Qa7+ Kf1 13. Qf7+ Kg1 14. Qxg7 {=}) 6. Qd6+ Kc2 7. Qg3 Kd1 8. Kb2 Nd5 (8... Ne4 9. Qg4+ {(Qxg7) =}) 9. a4 g5 (9... Ke2 10. Qg4+ Kd2 11. Qg3 Ke2 12. Qg4+ {=}) 10. a5 Ke2 11. Kc1 Kf1 12. Kd2 g1=Q 13. Qxe1+ Kg2 14. Qe4+ {=}) (4... Ke3 5. Qxa3+ Nd3 6. Qa7+ Kf3 7. a4 g2 8. a5 Ne5 9. a6 (9. Qb7+ $2 Kf2 10. Qb6+ Kg3 11. a6 g1=Q+ 12. Qxg1+ Nxg1 {-+}) 9... Nd7 10. Qb7+ Kg3 11. Qc7+ Kf2 12. Qa7+ Ke1 13. Qxd7 g1=Q 14. a7 {=}) 5. Qxc2+ Kxc2 {stalemate}) 4. Kb1 Ne2 5. Qxh6 Nc3+ 6. Kc1 Nxa2+ 7. Kd1 Ne3+ 8. Ke1 Ng2+ 9. Kd1 Nc3+ 10. Kc1 Ne2+ 11. Kd1 Ne3+ 12. Ke1 Nc2+ 13. Kd1 gxh6 {stalemate} 1/2-1/2  

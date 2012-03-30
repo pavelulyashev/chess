@@ -1,0 +1,10 @@
+[Event "2nd comm,  Nona 2007, miniatures {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/6k1/5q2/4p3/1R1r4/7K/7Q w - - 0 1"]
+
+1. Qg2+ $1 (1. Qg1+ $2 Kh5 $1 2. Rxd3 exd3 $19) (1. Rxd3 $2 exd3 (1... Qf2+ $22. Qg2+ Qxg2+ 3. Kxg2 $11) 2. Qg2+ Kf6 $1 3. Qa8 Ke5 $19) 1... Kh5 $1 2. Rxd3exd3 3. Kh1 $1 (3. Qa8 $2 Kg4 4. Qg2+ Kh4 $19) 3... Kh4 (3... Qf4 4. Qd5+ $11)4. Qf2+ $1 Qxf2 {stalemate} *

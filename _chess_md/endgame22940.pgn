@@ -1,0 +1,10 @@
+[Event "3 Prize, Tolush 100 MT {m}"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/8/1K4P1/5kp1/2p4R/4Pr2/3B4 w - - 0 1"]
+
+ 1. Rh5 $1 (1. Rxc3 $2 g3 2. g6 g2 3. Rc4+ Kg3 4. Rc5 g1=Q $11) 1... g3 (1... Rf1 2. g6 Rxd1 3. g7 Rd8 4. Rh8 Rd5+ 5. Kb4 $1 Rg5 6. g8=Q Rxg8 7. Rxg8 c2 8. Rc8 $18) 2. g6 g2 3. Rg5 $1 c2 4. Bxc2 Rxe2 5. g7 Re5+ $1 6. Rxe5 g1=Q 7. Re4+ (7. Rf5+ $2 Ke3 8. Rf7 Qg3 $11) 7... Kf3 8. Rg4 Qf1+ 9. Rc4 Qg1 10. Bd1+ Ke3 11. Rg4 $18 *  

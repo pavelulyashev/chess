@@ -1,0 +1,10 @@
+[Event "1st prize Tamkov 70 JT {m}"]
+[Site "?"]
+[Date "2008.08.09"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "2N5/4p3/8/b5P1/k7/5p2/8/3n1K2 w - - 0 1"]
+
+ 1. g6 (1. Nxe7 $2 Bd8 2. g6 Bxe7 3. g7 Ne3+ 4. Kf2 Ng4+ 5. Kxf3 Nh6 $19) 1... Ne3+ (1... Bc3 2. Nxe7 $11) (1... Bd8 2. g7 Ne3+ 3. Kf2 Ng4+ 4. Kxf3 Nh6 5. Kf4 $11) (1... Bb4 2. Nb6+ Kb3 3. Nd5 Bc3 4. Nxe7 $11) 2. Kf2 (2. Kg1 $4 Be1 $19) 2... Ng4+ 3. Kxf3 Ne5+ 4. Kf4 $1 ({Thematic try} 4. Ke4 $5 Nxg6 5. Kf5 e5 $1 { zz} 6. Nd6 Bc7 7. Nf7 Ne7+ 8. Ke6 Nc6 $1 9. Kd7 Nb4 $1 10. Kxc7 e4 11. Ng5 e3 12. Nf3 e2 13. Kd6 Nc2 14. Ke5 Kb3 15. Kf4 Kb2 $1 (15... Kc3 $2 16. Kg3 Kd3 17. Kf2 $11) 16. Kg3 Kc1 17. Kf2 Kd1 $19) 4... Nxg6+ 5. Kg5 $3 ({Same thematic try } 5. Kf5 $5 e5 {zz -+}) 5... e5 6. Kf5 $3 {zz} ({Thematic try} 6. Kxg6 $5 e4 7. Nd6 e3 8. Ne4 e2 {and impossible Nc3+, Black's win.}) 6... Bc7 $1 (6... Bc3 7. Kxg6 e4 8. Nb6+ $11) 7. Kxg6 e4 8. Ne7 e3 9. Nd5 e2 10. Nc3+ $11 *  

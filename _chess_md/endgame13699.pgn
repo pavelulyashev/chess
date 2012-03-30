@@ -1,0 +1,10 @@
+[Event "tl20#0560 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7p/2p2PP1/p1P5/p1K5/k2P4/8 w - - 0 1"]
+
+ 1. Kc2 h5 (1... hxg5 {main} 2. f6 g4 3. f7 g3 4. f8=B $1 (4. f8=Q $2 g2 5. Qxc5 g1=Q 6. Qxg1) 4... g2 5. Bxc5) 2. g6 $1 h4 3. g7 h3 4. g8=B $1 (4. g8=Q $2 h2 5. Qd5 h1=Q 6. Qxh1) 4... h2 5. Bd5 1-0  

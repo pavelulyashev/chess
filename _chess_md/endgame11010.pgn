@@ -1,0 +1,10 @@
+[Event "tc71 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kajev L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2B5/2n5/2q4k/8/3Q2K1/8 w - - 0 1"]
+
+ 1. Qh6+ (1. Bf3 $2 Qg8+ 2. Kh1 Qf8) 1... Kg4 2. Qg6+ Kf4 $1 (2... Kh4 3. Qg3+) 3. Qf6+ Ke3 4. Qf2+ Kd3 5. Bb5 Qxb5 6. Qf1+ 1-0  

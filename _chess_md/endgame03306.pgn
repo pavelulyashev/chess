@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Zinar M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p2p3/p7/2P5/8/K1p1P1P1/7k/8 w - - 0 1"]
+
+ 1. g4 (1. c6 $143 bxc6 2. g4 Kg2 3. g5 Kf3 4. Kb3 Ke4 $1 5. g6 Kd3 6. g7 c2 7. g8=Q c1=Q $11) 1... Kg3 2. g5 Kf3 3. Kb3 $1 (3. g6 $143 Kxe3 4. Kb3 Kd2 5. g7 $11) 3... Ke4 $1 4. Kxc3 Kf5 5. Kb4 Kxg5 6. Ka5 Kf6 7. Kb6 a5 8. Kxb7 a4 9. c6 a3 10. c7 a2 11. c8=Q a1=Q 12. Qh8+ $18 1-0  

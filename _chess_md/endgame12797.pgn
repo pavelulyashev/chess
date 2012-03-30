@@ -1,0 +1,10 @@
+[Event "tl20#0796 @2 {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Galitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p3K2/bp1pN3/rk1N4/p7/P7/P2PP3/8 w - - 0 1"]
+
+ 1. Ke7 Kc4 (1... Kc6 2. Nb4+ Kb5 3. d3 d5 4. Nc2 Kc6 (4... d4 5. Ncxd4#) 5. Ncd4#) 2. Ne3+ Kb5 3. Kd7 d5 4. Nf5 (4. Kd6 $1 {cook JU} d4 5. Kd5 dxe3 6. Nc7# ) 4... Kc4 (4... d4 5. Nd6#) 5. Nd6# 1-0  

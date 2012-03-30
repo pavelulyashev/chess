@@ -1,0 +1,10 @@
+[Event "1st/2nd Prize Corus {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n1n3/3Qp1RP/2Kb1k1P/8/3q4/6B1/8/8 w - - 0 1"]
+
+ 1. Bh4+ (1. Qxc8 $143 Qa4+ 2. Kd5 Nc7+ 3. Qxc7 Qd1+ 4. Kc6 Qc2+ 5. Kb5 Qb3+ 6. Ka6 Bxc7 $11) (1. Be5+ $143 Qxe5 $11) (1. Rf7+ $143 Kxf7 2. Qf5+ Nf6 3. h8=N+ Kf8 4. Qxc8+ Ne8 5. Ng6+ Kf7 6. Qf5+ Qf6 $11) 1... Qxh4 2. Rf7+ Kxf7 3. Qf5+ Qf6 (3... Nf6 $144 4. h8=N+ Kf8 5. Ng6+ $18) 4. Qxf6+ exf6 (4... Nxf6 $144 5. h8=Q Bf4 6. Qg7+ Ke6 7. h7 Nxh7 8. Qxh7 Nd6 9. Qg6+ Ke5 10. Kd7 $18) 5. h8=Q Bf8 (5... Bf4 $144 6. h7 Ne7+ 7. Kd7 Ng7 8. Qd8 $18) 6. h7 (6. Qh7+ $143 Bg7 7. hxg7 Nxg7 8. Qe4 Ne7+ $11) 6... Ne7+ 7. Kd7 Ng7 8. Qg8+ (8. Qxf8+ $143 Kxf8 9. h8=Q+ Kf7 $11) 8... Nxg8 9. h8=N# 1-0   

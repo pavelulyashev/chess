@@ -1,0 +1,10 @@
+[Event "1 Prize tm05#092 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/8/7P/p7/6P1/5K1b/1kP5/4r3 w - - 0 1"]
+
+ 1. Rb8+ $1 Kxc2 2. h7 Rh1 (2... Bxg4+ $144 {main} 3. Kg2 $1 Bf3+ 4. Kxf3 Rh1 5. h8=Q Rxh8 6. Rxh8 a4 7. Ra8 Kb3 8. Ke2 $18) 3. Rb2+ $1 (3. h8=Q $143 Bxg4+ 4. Kxg4 Rxh8 5. Rxh8 a4 $11) 3... Kc1 4. Rh2 $3 (4. Kg3 $143 Bg2 $1 $11) 4... Rxh2 5. Kg3 $1 $18 1-0  

@@ -1,0 +1,10 @@
+[Event "Neue Leipziger Zeitung {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/3p1p2/KpPP1Pp1/4r2P/1p4r1/6P1/2PNP3/8 w - - 0 1"]
+
+ 1. c7 Rc5 (1... Ra5+ $2 2. Kb7 (2. Kxb6 $2 2... Ra8 3. Kb7 Rd8)) 2. h6 Rxg3 3. Ne4 Ra3+ 4. Kb7 $1 (4. Kxb6 Rc6+ 5. Kb5 Rh3) 4... Rxc2 $1 5. Nc3 $1 1-0  

@@ -1,0 +1,10 @@
+[Event "ts22#299 {v} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1p2K3/8/8/8/k5P1/8 w - - 0 1"]
+
+ 1. Kd5 $1 Ka3 (1... b5 2. Kc5 Kb3 3. Kxb5 Kc3 4. Kc5 Kd3 5. Kd5 Ke3 6. Ke5) 2. Kc4 Ka4 3. g4 $1 b5+ 4. Kd3 b4 5. g5 Ka3 6. g6 b3 7. g7 b2 8. Kc2 Ka2 9. g8=Q+ 1-0  

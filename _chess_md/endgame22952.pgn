@@ -1,0 +1,10 @@
+[Event "3 Commendation,.Tolush 100 MT {m}"]
+[Site "?"]
+[Date "2011.04.13"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r2k4/P2N1b2/3R4/1p6/1K6/8/8/r1B4n w - - 0 1"]
+
+ 1. Ne5+ $1 (1. Nb6+ $2 Kc7 2. Nxa8+ (2. Bb2 R1xa7 3. Be5 Re8 4. Rd7+ Kxb6 5. Bd4+ Kc6 6. Rxa7 Re4 7. Kc3 Ng3 {etc, thechnical win of Black}) 2... Kxd6 3. Nb6 Bd5 4. Bb2 (4. Nxd5 Rxa7 5. Nf4 Kc6 {etc, a technical win of Black}) 4... Ra2 5. Nxd5 Rxa7 6. Ne3 Ng3 7. Nc2 Ne2 {etc, a technical win of Black}) (1. Bb2 $2 R1xa7 2. Nb6+ Kc7 3. Be5 Re8 4. Rd7+ Kxb6 5. Bd4+ Kc6 6. Rxa7 Re4 7. Kc3 Ng3 $19) 1... Ke7 (1... Ke8 2. Be3 Ng3 3. Rh6 Bd5 (3... Rb1+) 4. Bc5 Rb1+ 5. Ka5 $11) 2. Rd1 Ra4+ (2... Ke6 3. Nxf7 Rb1+ 4. Kc5 Kxf7 5. Rxh1 b4 6. Kb6 Ra1 7. Rh4 $11) 3. Kxb5 Be8+ (3... Nf2 4. Rd7+ Ke6 5. Nxf7 $11) 4. Nc6+ $1 (4. Kb6 $2 Nf2 5. Bg5+ Ke6 $19) 4... Bxc6+ 5. Kxc6 Nf2 (5... Ng3 6. Be3 Nf5 7. Bc5+ Ke6 8. Kc7 Ra5 9. Bb6 $11) 6. Bg5+ $1 (6. Re1+ $2 Ne4 7. Kd5 Rd8+ 8. Kc6 Rd6+ $19) 6... Ke8 (6... Ke6 7. Rd6+ Ke5 8. Be3 Ng4 9. Bd4+ Kf5 (9... Ke4 10. Kb7 $11) 10. Kb7 $11) (6... Kf7 7. Rd7+ Ke8 8. Re7+ Kf8 9. Kb6 Ne4 10. Rb7 Rb4+ 11. Kc7 Rc4+ 12. Kb6 Rac8 13. Be7+ $11) 7. Re1+ Ne4 (7... Kf7 8. Re7+ Kg6 9. Be3 Ne4 10. Rd7 Re8 11. Bb6 Re6+ 12. Kc7 Nf6 13. Rd4 $11) 8. Rxe4+ $1 Rxe4 9. Kb7 Kd7 10. Bd2 $3 {zz} ({try} 10. Kxa8 $5 Kc6 $1 (10... Kc7 11. Bf4+ Rxf4 {stalemate}) 11. Kb8 Re8+ 12. Bd8 Rxd8#) 10... Rg4 ({main} 10... Ree8 11. Bf4 Rac8 12. Bb8 $11) 11. Bc3 $1 ({Thematic try} 11. Kxa8 $5 Kc6 $1 12. Bf4 Rxf4 (12... Rg8+ 13. Bb8 Rh8 {stalemate}) 13. Kb8 Rf8#) 11... Re4 12. Bd2 ({try} 12. Kxa8 $5 Kc6 13. Be5 Rxe5 14. Kb8 Re8#) 12... Kd6 13. Bb4+ $3 ({try} 13. Bf4+ $5 Rxf4 14. Kxa8 Kc6 $1 (14... Kc7 {stalemate}) 15. Kb8 Rf8#) 13... Kd5 ({main} 13... Rxb4+ 14. Kxa8 Kc7 {stalemate}) 14. Kxa8 Kc6 (14... Rxb4 {stalemate}) 15. Bd6 $3 Re8+ 16. Bb8 Rh8 {stalemate} 1/2-1/2  

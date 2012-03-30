@@ -1,0 +1,10 @@
+[Event "jk06 ts21 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4Nq2/P4p1k/2K4P/7P/8/4P3/7B/3b4 w - - 0 1"]
+
+ 1. a8=Q $1 Bf3+ 2. Kc7 $1 (2. Kd7 $2 Bxa8 3. Nf6+ Kh8 4. Bd6 Bc6+ 5. Kxc6 Qa8+) 2... Bxa8 3. Nf6+ Kxh6 (3... Kh8 {main} 4. Bd6 Qxh6 5. Be5 Qg5 6. Nd7+ Kg8 7. Nf6+ Kg7 8. Nd7+ Kh7 9. Nf6+) 4. Bd6 Qh8 5. Be5 Qf8 6. Bd6 1/2-1/2  

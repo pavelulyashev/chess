@@ -1,0 +1,10 @@
+[Event "1-й приз {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5Pr1/3R4/pp6/8/k2B4/2K5 w - - 0 1"]
+
+ 1. Bg5 (1. Rf5 $2 Rg1+ 2. Kc2 b3+ 3. Kc3 b2 4. f7 Rc1+) 1... b3 2. Rd2+ Ka1 3. f7 (3. Be3 $2 b2+ 4. Rxb2 Rxf6 5. Bd4 Rf1+ 6. Kc2 a3 7. Rb1+ Ka2 8. Rxf1) 3... Rxg5 (3... a3 4. Rd1 Rd6 5. f8=Q b2+ 6. Kc2+ Rxd1 7. Qxa3#) 4. f8=Q Rg1+ 5. Rd1 Rg2 6. Qa3+ Ra2 7. Rd2 $1 (7. Qc5 $2 Rh2 (7... b2+ $2 8. Kd2+ b1=Q+ 9. Ke1) 8. Rd2 Rh1+ 9. Rd1 Rh2) 7... Rxa3 (7... b2+ 8. Qxb2+ Rxb2 9. Rxb2 a3 10. Rb1+ Ka2 11. Rb8 Ka1 12. Kc2 a2 13. Kb3) 8. Rb2 Ra2 9. Rb1# 1-0  

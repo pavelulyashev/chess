@@ -1,0 +1,10 @@
+[Event "64 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Somov-Nasimovitch E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/5B2/4N1Np/2p1p3/2p3K1/3P3P/3b2k1 b - - 0 1"]
+
+ 1... c2 2. Nd3 $1 cxd3 3. Bb2 e3 4. Bc1 h4+ (4... e2 5. Nf3+ Kf1 6. Ne1 $1 Kxe1 (6... h4+ 7. Kh3 Kxe1 8. Kg2 h3+ 9. Kg1 {stalemate with blocked B}) 7. Kg2 h4 8. h3 {stalemate with blocked B} (8. Kg1 $2 h3 { mutual zugzwang - virtual stalemate})) ({but} 4... Bg4 $1 $19) (4... Kf1 $1 $19 ) 5. Kh3 e2 ({but} 5... Kf1 $1 $19) (5... Kf2) 6. Nf3+ Kf2 7. Ne1 Kxe1 8. Kg2 h3+ 9. Kg1 {stalemate with blocked B} 1/2-1/2  

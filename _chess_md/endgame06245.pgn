@@ -1,0 +1,10 @@
+[Event "tt06#0405 {v} @1 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n5/8/Pp6/5N2/8/5k2/3P4/5K2 w - - 0 1"]
+
+ 1. d4 (1. Nd4+ $1 1... Ke4 2. Nb5 Kd5 (2... Kd3 3. Ke1) 3. Ke2) 1... Kf4 2. Ne7 Na7 3. Nc6 (3. d5 $2 3... Ke5 4. Nc6+ Kxd5 5. Nxa7 b5 6. Nxb5 Kc6 7. Ke2 Kb6 8. a7 Kb7) 3... Nb5 (3... Nc8 4. d5 Kf5 (4... Kg5 5. d6 Kf6 6. d7) 5. Ne7+) 4. d5 Kf5 5. Nd4+ 1-0  

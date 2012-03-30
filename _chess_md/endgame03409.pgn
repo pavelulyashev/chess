@@ -1,0 +1,10 @@
+[Event "3rd prize, Istvбn Bilek 75 JT, {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Akobia Y, Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/N2bp3/p7/2P3R1/n1K2k2 w - - 0 1"]
+
+1. Rd2 (1. Rh2 $2 {(Rg4?)} a2 {-+}) (1. Rg8 $2 Nxc2 (1... a2 2. Rf8+ Ke1 3. Nc5Bxc5 4. Ra8 Bd4 5. Rxa2 e3 6. Ra8 e2 7. Rf8 {=}) 2. Nc5 $1 Bxc5 (2... Nb4 3.Nxe4 $11) (2... a2 3. Rf8+ Ke2 4. Ra8 a1=Q+ 5. Rxa1 Nxa1 6. Nxe4 $11) 3. Kxc2e3 $19) 1... a2 (1... Be3 2. Nc3 a2 3. Kb2 Bxd2 4. Nxe4 {=}) 2. Nc5 $1 ({Thematic.} 2. Rxd4 $2 Nb3+ {-+}) (2. Rd1+ $2 Ke2 $19) 2... Nxc2 ({Thematic.}2... Bxc5 3. Kb2 Ke1 4. Rh2 $1 (4. Rg2 $2 Bd4+ 5. Kxa2 e3 {-+}) 4... Bd4+ 5. c3Bxc3+ 6. Kxc3 {=}) 3. Nb3 ({Thematic.} 3. Kxc2 $2 a1=Q 4. Rd1+ Qxd1+ 5. Kxd1Bxc5 $19) (3. Rd1+ Ne1 4. Nb3 Bc3 $19) 3... a1=Q+ ({Main} 3... Be3 4. Kxc2 Bxd25. Nxd2+ Kg2 (5... Ke1 6. Nb3 e3 7. Kb2 {=}) (5... Kg1 6. Kb2 e3 7. Nf3+ {=})6. Kb2 e3 7. Nc4 e2 8. Ne3+ Kf2 9. Nc2 {=}) 4. Nxa1 Nxa1 5. Kd1 ({Thematic.} 5.Rxd4 $2 Nb3+ {-+}) 5... e3 ({Main} 5... Nb3 6. Rd3 e3 (6... exd3 {stalemate})7. Rxb3 e2+ 8. Kc2 e1=Q 9. Rb1 {=}) 6. Rb2 {zz} ({Thematic.} 6. Rxd4 $2 e2+ 7.Kc1 Nb3+ {-+}) 6... Bc5 ({Thematic.} 6... Bxb2 {stalemate}) (6... Nb3 7. Rxb3e2+ 8. Kc2 e1=Q 9. Rb1 {=}) 7. Rb1 Bd4 8. Rb2 Be5 9. Re2 Bf4 10. Rxe3 (10. Rb2$2 Bg5 {(Bh6) -+}) 10... Bxe3 {stalemate. We may see many delicate originalmoves during the solution, but this is very labyrinthine, and therefore theharmony incomplete.} 1/2-1/2

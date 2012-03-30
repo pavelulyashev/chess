@@ -1,0 +1,10 @@
+[Event "Die Schwalbe, 2005/Oktober {m}"]
+[Site "?"]
+[Date "2005.10.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "8/1p6/2pp4/2k1p3/2P5/3K4/p2P4/1N2B3 w - - 0 1"]
+
+ {Remis} 1. Na3 Kb4 (1... a1=Q $2 2. Bf2+ (2. Nc2 $2 e4+ $1 $19) 2... Qd4+ (2... Kb4 3. Nc2+ $18) 3. Bxd4+ exd4 4. Nc2 $16) 2. Nc2+ Kb3 3. Na1+ Kb2 4. Bg3 $3 ( 4. Bh4 $2 e4+ 5. Kxe4 Kxa1 6. Bf6+ Kb1 7. Kd3 b5 8. cxb5 cxb5 9. Bd4 d5 $19) ( 4. Bf2 $2 b5 5. cxb5 cxb5 6. Bb6 e4+ 7. Kxe4 Kxa1 8. Bd4+ Kb1 9. Kd3 d5 $19) 4... b6 (4... b5 $2 5. c5 $18) (4... e4+ 5. Kxe4 Kxa1 6. Bxd6 $11) 5. Bh2 $1 e4+ $1 (5... b5 $2 6. c5 $18) (5... Kxa1 $4 6. Kc2 $18) 6. Kxe4 Kxa1 7. Bxd6 Kb1 8. Be5 Kc2 9. Ba1 $3 (9. d4 $2 a1=Q $19) (9. d3 $2 b5 $19) (9. Bc3 $2 b5 10. cxb5 cxb5 11. Kd5 b4 12. Bxb4 a1=Q $19) (9. Ke3 $2 b5 10. cxb5 cxb5 11. Ba1 b4 12. d4 b3 13. d5 b2 14. Bxb2 Kxb2 15. d6 a1=Q $19) 9... Kxd2 (9... b5 10. d4 (10. cxb5 cxb5 11. d4 b4 12. d5 b3 13. d6 b2 14. Bxb2 Kxb2 15. d7 a1=Q 16. d8=Q $11) 10... b4 11. d5 cxd5+ 12. cxd5 b3 13. d6 b2 14. Bxb2 Kxb2 15. d7 a1=Q 16. d8=Q $11) 10. Ke5 (10. Kd4 $2 Kc2 11. c5 b5 12. Ke5 b4 13. Kd6 b3 14. Kxc6 b2 15. Bxb2 Kxb2 16. Kb7 a1=Q 17. c6 Qh1 $1 18. Kb6 Kc3 19. c7 Qa8 $1 $19) (10. Kf5 $2 Kc2 11. Ke6 b5 12. cxb5 cxb5 13. Kd5 b4 14. Kc4 b3 $19) 10... Kd3 (10... b5 11. Kd4 (11. cxb5 $11) 11... b4 12. Kc5 b3 13. Kb4 Kc2 14. Ka3 Kb1 15. Kxb3 Kxa1 16. Kc2 c5 17. Kc1 $11) 11. Kd6 c5 12. Kd5 $1 $11 (12. Kc6 $2 Kxc4 13. Kxb6 Kb4 $19) *  

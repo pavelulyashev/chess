@@ -1,0 +1,10 @@
+[Event "2 Commendation, Ch {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "Nk6/pP6/P1K5/1P1P4/8/8/4p3/4b3 w - - 0 1"]
+
+ {EG#06146} 1. Nb6 $1 (1. d6 $2 Ba5) 1... axb6 2. d6 $1 Bg3 3. d7 Bh4 4. a7+ $1 Kxa7 5. Kc7 Bg3+ 6. Kc8 e1=Q (6... e1=R {<main>} 7. b8=Q+ $1 Bxb8 8. d8=Q Rc1+ 9. Kd7 Rd1+ 10. Kc6 $1 Rxd8) 7. d8=N $1 Qe8 8. b8=Q+ Bxb8 1/2-1/2  

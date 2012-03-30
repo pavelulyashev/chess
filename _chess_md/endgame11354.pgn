@@ -1,0 +1,10 @@
+[Event "4/5 Honorable Mention ts23#21 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4R3/2k1P1PK/5P2/7P/8/1b6/4q3/6b1 w - - 0 1"]
+
+ 1. h6 (1. Rc8+ $143 Kxc8 2. h6 Qe6 $19) 1... Qe4+ 2. Kh8 Qg6 3. Rc8+ (3. h7 $143 Qxe8+ 4. g8=Q Bd4 5. Qxe8 Bxf6#) 3... Kxc8 4. h7 Kb7 (4... Kd7 $144 5. e8=Q+ Qxe8+ 6. g8=Q Qxg8+ (6... Bd4 $143 7. Qxe8+ Kxe8 8. Kg7 $18) 7. hxg8=Q Bxg8 8. Kxg8 $11) 5. g8=R (5. g8=Q $143 Qxf6+ 6. Qg7 Bd4 7. e8=N+ Qf7 8. Qxd4 Qf8#) 5... Qxf6+ 6. Rg7 Bd4 7. e8=N+ Qe7 (7... Kb6 $144 8. Nxf6 Bxf6 $11) 8. Nf6 Bf7 9. Rxf7 Qxf7 $11 (9... Bxf6+ $144 10. Kg8 $11) 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event " Prize tc13 @3 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2b5/3R4/3PP3/1p6/1k1K4/1P2P3/1P2r3/n7 w - - 0 1"]
+
+ 1. Re7 $1 Nc2+ (1... Nxb3+ $1 {cook} 2. Kd5 Na5 3. d7 Rd2+ 4. Ke4 Bb7+ 5. Kf4 Bc6) 2. Kd3 Rxe3+ 3. Kxc2 Bxe6 4. d7 $1 Bf5+ 5. Re4+ $1 (5. Kd2 $2 Rd3+ 6. Ke2 Rxd7) 5... Rxe4 (5... Bxe4+ {main} 6. Kc1 Rd3 7. d8=Q Rxd8) 6. d8=Q Rd4+ 7. Kc1 Rxd8 1/2-1/2  

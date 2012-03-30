@@ -1,0 +1,10 @@
+[Event "td20#153 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K1k/8/1r4r1/3R4/p5P1/R6p/8/8 w - - 0 1"]
+
+ 1. Rh5+ $1 (1. Rxh3+ $2 Rh6 2. Rxh6+ (2. Rdh5 Rbf6+) 2... Rxh6 3. g5 (3. Rf5 a3 4. Rf1 (4. g5 Ra6) 4... a2 5. g5 Rh2 6. g6 a1=Q 7. Rxa1 Rf2+) 3... Ra6 4. g6 ( 4. Rd4 Ra8+ 5. Kf7 Ra7+ 6. Kg6 Ra6+ 7. Kh5 a3) 4... Rf6+ 5. Ke7 Kg7) 1... Rh6 2. Rxh6+ Rxh6 3. g5 $1 Rh5 (3... h2 4. g6 Rh7 5. Rh3 $1 Rxh3 (5... h1=Q 6. g7#) 6. g7+) (3... Rh4 4. Rf3 h2 (4... a3 5. g6) (4... Kh7 5. Rf6 $1 (5. Kf7 $2 h2 6. g6+ Kh6) 5... h2 6. g6+ Kh6 7. g7+ Kg5 8. Rf7 $1) 5. g6) 4. Rf3 Kh7 (4... h2 5. g6) (4... a3 5. g6) 5. Kf7 h2 6. g6+ Kh6 7. g7 Rf5+ 8. Rxf5 h1=Q 9. Rf6+ Kh5 10. g8=Q Qd5+ 11. Re6 1-0  

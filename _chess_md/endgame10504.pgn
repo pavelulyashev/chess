@@ -1,0 +1,10 @@
+[Event "ts23#05 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/bp6/2P5/2P5/BK6/r7/8/8 w - - 0 1"]
+
+ 1. c7 Rxa4+ $1 (1... Bxc5+ $2 2. Kb5 $1) 2. Kxa4 (2. Kb5 $2 Ra5+ $1 3. Kxa5 Bb6+ $1 4. Kxb6 (4. cxb6)) 2... b5+ $1 3. cxb6 Bb8 $1 4. c8=R $1 (4. c8=Q $2) 4... Kb7 5. Rd8 $1 (5. Re8 $2 Ka6 $1 6. Kb4 Bd6+) 5... Ka6 $1 6. Kb4 $1 (6. Rxb8 $2) 6... Bg3 7. Kc5 Bf2+ 8. Kc6 Bxb6 9. Ra8+ Ba7 10. Kc7 1-0  

@@ -1,0 +1,10 @@
+[Event "b056#131 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Olimpiev B"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2q5/4bk1P/2p1b1NK/8/1N6/8/8/8 w - - 0 1"]
+
+ 1. h8=Q Qxh8+ $1 (1... Bxb4 2. Qg7+ Ke8 3. Qh8+ Kd7 4. Qg7+ Kd6 $1 5. Qd4+ Bd5 $1 6. Qxb4+ c5 $1 7. Qf4+ Kd7 $1 8. Ne5+ $1 Ke8 $1 9. Qa4+ Ke7 10. Ng6+ (10. Qh4+ $2 Kd6 $1 11. Qf6+ Qe6 $1) 10... Kd8 $1 11. Qh4+ Kc7 12. Qe7+ Kb6 13. Ne5 $1 Qh3+ 14. Kg5 Kb5 15. Qd6 $1 Qg3+ 16. Kf5 Qf2+ 17. Kg5 Be4 18. Qb8+ Ka4 19. Qa7+ Kb4 20. Qb6+ Kc3 21. Qd6 $1) 2. Nxh8+ Kg8 3. Nxc6 (3. Nd3 $2 Kxh8 4. Nf4 Bf8+ 5. Kg5 Bd5) 3... Bf8+ $1 4. Kg6 $1 (4. Kg5 $2 Kxh8 5. Nd8 Bd5) 4... Kxh8 ( 4... Bd5 {main} 5. Ne5 $1 (5. Nd8 $2 Be4+ 6. Kh5 Kxh8) 5... Kxh8 (5... Be4+ 6. Kh5 Kxh8 7. Ng6+) 6. Nf7+ Kg8 7. Nh6+ $1 Kh8 8. Nf7+) 5. Nd8 $1 Bd5 6. Nf7+ Kg8 7. Nh6+ $1 Kh8 8. Nf7+ 1/2-1/2  

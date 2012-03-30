@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky sach_06/69 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Sindelar M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2R1p1K1/2P5/4P3/8/7b/2p5/k7 w - - 0 1"]
+
+ {6/69} 1. Ra7+ Kb2 2. Rb7+ Kc3 (2... Kc1 3. Rb5 Kd2 4. Rc5) 3. c7 c1=Q (3... Kd4 4. c8=Q Bxc8 5. Rc7 Bf5 6. Kf7 e6 7. Rxc2) (3... Bc8 $6 4. Rb6 c1=Q (4... Kd4 5. Rc6 Kxe5 6. Kf7) 5. Rc6+ Kd2 6. Rxc1 Kxc1 7. e6) 4. c8=Q+ Bxc8 5. Rc7+ Kd2 6. Rxc1 Kxc1 7. e6 Bxe6 8. Kf8 1/2-1/2  

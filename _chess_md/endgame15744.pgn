@@ -1,0 +1,10 @@
+[Event "wi04 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Garcia M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/1p6/P2P1N2/b2K4/6N1/6p1/5n2/4n1B1 w - - 0 1"]
+
+ 1. Nd7+ (1. Nxf2 $2 gxf2 2. Nd7+ Kc8 3. Bxf2 bxa6 4. Nc5 Nf3 5. d7+ Kd8 6. Nb7+ Kxd7 7. Nxa5 Ng5) 1... Ka8 (1... Ka7 2. Nxf2 Nf3 3. axb7 Kxb7 4. Nh3 Nxg1 5. Nxg1 Bb4 6. Nc5+ Kb6 7. Na4+ Kb7 8. d7 Kc7 9. Ke6 g2 10. Nf3) 2. Nxf2 (2. axb7+ $2 Kxb7 3. Nc5+ Kb8 4. Nxf2 gxf2 5. Bxf2 Nf3 6. d7 Ng5) 2... gxf2 3. Bxf2 Nd3 ( 3... Nc2 4. Bb6 Bc3 5. a7 Bb2 6. Ne5 Nb4+ 7. Ke6 Bxe5 8. Kxe5) 4. Bb6 (4. Nb6+ $2 Bxb6 5. Bxb6 Nb4+ 6. Ke6 Nxa6 7. d7 Nb8 8. d8=Q) 4... Bb4 (4... Be1 {main} 5. Ke4 Nb2 (5... Nb4 6. Ba5 bxa6 7. Ne5 Kb7 8. d7 Bh4 9. Bxb4) (5... bxa6 6. Kxd3 Kb7 7. Bc7 Bg3 8. Nb8 Bh2 9. Kc4) 6. Nf6 Nc4 7. d7 Nd6+ 8. Kd5 Nf7 9. Ne8) 5. Nc5 Nxc5 (5... Nf4+ 6. Ke5 Ng6+ 7. Kf6 Bxc5 8. Bxc5 Nf8 9. Bd4) 6. Bxc5 Ba5 7. a7 Bd8 (7... b6 8. Be3 Kb7 9. Kc4 Kxa7 10. Kb5) (7... Bb6 8. d7 Bd8 9. Ke6 b5 10. Kf7 b4 (10... Ba5 11. Ke8 Bc7 12. Be7 Bb6 13. Bd8) 11. Ke8 Bc7 12. Bd6 Bb6 13. Bxb4 Kxa7 14. Bc5) 8. Ke6 b6 9. Bb4 b5 (9... Bh4 10. d7 Bd8 11. Be7 Bc7 12. Kd5) 10. Kd7 Bb6 11. Kc8 Bd4 12. d7 Bf6 13. Ba5 b4 14. Bd8 1-0  

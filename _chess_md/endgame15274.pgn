@@ -1,0 +1,10 @@
+[Event "2/3 Honorable Mention js10 ts98 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Rezvov N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/2p2p2/1P3p2/k2P1P2/8/1P1K3P/1b6 w - - 0 1"]
+
+ 1. b6 $1 (1. d5 $2 Kxb5 $1) 1... cxb6 2. d5 $1 cxd5 (2... Ba2 3. d6 $1 Be6 4. h4) 3. b3+ $1 Kxb3 4. h4 b5 5. h5 b4 6. h6 Ka2 7. h7 b3 8. h8=Q b2 9. Qa8+ $1 ( 9. Kc3 $2 d4+ $1 10. Kxd4 Be4 11. Qg8+ Ka1) 1-0  

@@ -1,0 +1,10 @@
+[Event "1/2 Special Prize tb25#28 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/p4p1B/8/2p5/2P5/P7/pP1K1P1P/8 w - - 0 1"]
+
+ 1. Kc1 $1 f5 $1 2. Bxf5 a1=Q+ 3. Bb1 Kb7 $1 4. h4 $1 (4. f4 $2 Kb6 5. f5 Ka5 6. f6 Ka4 7. f7 Kb3 8. f8=Q Qxb2+) 4... Kb6 5. h5 Ka5 6. h6 Ka4 7. h7 a5 $1 8. h8=B $1 (8. h8=Q $2 Qxb2+ 9. Qxb2 (9. Kxb2)) 8... Qxb2+ (8... Kb3 9. Be5 a4 ( 9... Kxc4 10. b3+) 10. f4) 9. Bxb2 1-0  

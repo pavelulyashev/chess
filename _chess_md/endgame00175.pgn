@@ -1,0 +1,10 @@
+[Event "4 Prize  {m}"]
+[Site "?"]
+[Date "2004.07.07"]
+[Round "?"]
+[White "Rjabinin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/p7/P2p2K1/1R2p2p/1Pk1P3/8 w - - 0 1"]
+
+ 1. Rb7 $3 (1. Ra3 $2 d3 $3 (1... h2 $2 2. Ra1 $18) (1... Kd2 $2 2. Kf3 $18) ( 1... Kxb2 $2 2. Rd3 h2 3. Rd1 $18) 2. Rc3+ (2. exd3 $2 Kxb2 $19) 2... Kd2 (2... Kd1 $2 3. exd3 e2 {/h2} 4. Ra3 $18) 3. Rxd3+ (3. Kf3 dxe2 4. Rxe3 e1=Q 5. Rxe1 Kxe1 $11) 3... Kxe2 4. Rd5 (4. Ra3 Kf2 $11) 4... h2 $1 (4... Kf2 $2 5. Rxa5 h2 (5... e2 6. Rf5+ Ke3 {/g2/g1} 7. Re5+ $18) 6. Rh5 Kg2 7. Rxh2+ Kxh2 8. Kf3 $18) (4... Kf1 $2 5. Rxa5 h2 6. Rh5 e2 7. Rxh2 $18) 5. Rh5 Kd1 6. Rxh2 e2 7. Rh1+ e1=Q 8. Rxe1+ Kxe1 9. Kf3 Kd2 10. Ke4 Kc2 11. Kd4 Kb3 $1 $11) (1. Rb5 {/b6/b8 ? } d3 $1 2. exd3 e2 $1 (2... Kxd3 $2 3. Rd5+ $1 Kc2 4. Kf3 $18) 3. Re5 {/e6/e8} Kxd3 4. Kg3 $1 (4. Kxh3 Kd2 5. b4 axb4 6. a5 b3 7. a6 b2 8. a7 b1=Q $11) 4... h2 $1 5. Kxh2 Kd2 6. b4 axb4 7. a5 b3 8. a6 b2 9. a7 b1=Q 10. a8=Q Qh7+ $11) 1... d3 $1 (1... Kd2 2. Kf3 $18) (1... h2 2. Rh7 d3 3. exd3 e2 4. Rxh2 Kxd3 5. Rh1 $18) 2. exd3 e2 (2... h2 3. Rh7 $18) (2... Kxd3 3. Kf3 e2 {/h2} 4. Rd7+ $18 ) 3. Re7 Kxd3 4. Kg3 $3 (4. Kxh3 $2 Kd2 5. b4 axb4 6. a5 b3 7. a6 b2 8. a7 b1=Q $11) (4. Kf3 $2 h2 $11) 4... h2 5. Kxh2 Kd2 6. b4 $1 axb4 7. a5 b3 (7... e1=Q 8. Rxe1 Kxe1 9. a6 b3 10. a7 b2 11. a8=Q $18) 8. a6 b2 9. a7 b1=Q 10. a8=Q { wins.} Qd3 (10... Qb5 11. Qa2+ Kd1 12. Qa1+ Kd2 13. Qd4+ Ke1 14. Re5 Qb3 15. Qg1+ Kd2 16. Qg5+ Ke1 17. Rc5 $18) 11. Qa5+ Kd1 12. Qb4 $18 {)} 1-0  

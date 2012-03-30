@@ -1,0 +1,10 @@
+[Event "td27 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Reiners J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6pp/1p1p2p1/PP4kP/8/8/4KPp1/8 w - - 0 1"]
+
+ 1. f4+ Kh4 (1... Kf5 2. Kf2 Ke6 3. a6 (3. axb6 Kd7)) 2. Kf2 Kh3 3. Kg1 (3. hxg6 $2 Kh2) 3... Kg3 4. a6 (4. hxg6 $2 h5) (4. axb6 $2 gxh5 5. b7 h4 6. b8=Q h3) 4... gxh5 5. a7 h4 6. a8=Q h3 7. Qa3+ 1-0  

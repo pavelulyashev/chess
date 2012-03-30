@@ -1,0 +1,10 @@
+[Event "us59 {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2N5/7r/8/2K5/8/1p6/kn2N2R w - - 0 1"]
+
+ 1. Nc2+ Ka2 2. Nb4+ (2. Rxh6 $2 Nd2+ 3. Kc3 Nc4) 2... Ka1 (2... Ka3 3. Rxh6 $1 (3. Nb5+ $2 Ka4 4. Rxb1 Rc6+ 5. Kd5 Rc8 6. Rxb2 Kxb5 7. Nc6+ Ka4)) 3. Ncd5 (3. Kb3 $2 Rh3+ 4. Ka4 Ra3+ 5. Kb5 Ra5+ 6. Kxa5 (6. Kb6 Rb5+) (6. Kc4 Rc5+) (6. Kc6 Rc5+)) 3... Rh4+ (3... Rxh1 4. Nc2+ Ka2 5. Ndb4#) 4. Kb3 Rh3+ 5. Rxh3 $1 Nd2+ 6. Ka4 (6. Kc3 $2 Ne4+) 6... b1=Q 7. Ra3+ Kb2 8. Nd3+ Kc2 9. Ne3# 1-0  

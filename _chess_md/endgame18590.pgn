@@ -1,0 +1,10 @@
+[Event "1 Commendation, ts23#06 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2R3r1/3p4/7b/k7/2K5/8/1P3R1r/8 w - - 0 1"]
+
+ 1. Rf5+ (1. Rc5+ $2 Kb6 2. Rxh2 Rg4+) 1... d5+ $1 2. Rxd5+ Ka4 (2... Ka6 3. Rxg8 Rxb2 4. Rd6+ Rb6 5. Rxb6+ Kxb6 6. Rg6+) 3. Rxg8 Rc2+ 4. Kd3 Rd2+ (4... Rxb2 5. Ra8+) 5. Kc3 $1 (5. Ke4 $2 Rxb2) 5... Rxd5 6. Kc4 $1 Ra5 7. Rg3 $1 Bf8 8. Ra3+ $1 Bxa3 9. b3# 1-0  

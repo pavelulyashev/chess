@@ -1,0 +1,10 @@
+[Event "2 Prize tt22 {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3Nk1b1/3n4/p4P2/p7/3P4/1BK5 w - - 0 1"]
+
+ 1. f5+ (1. Bxg6 $2 Nxf4 $11) 1... Bxf5 (1... Kxd6 2. fxg6 Ke7 (2... Ne7 3. g7 { suivi de 4. Ba2 +-}) 3. g7 (3. Ba2 $2 Nb4 $11 {avec la suite :} 4. Bc4 Kf6 5. Bf7 a2 6. Kb2 a3+ 7. Ka1 Kg7 8. d4 Nc2+ 9. Kxa2 Nxd4) 3... Kf7 4. Ba2 $18) 2. Nxf5 Nb4 3. Nd4+ ({dual de type c :} 3. Ne3 $5 a2 (3... Ke5 4. Nc4+ Kd4 5. Nxa3 Nd5 6. Nc2+ Kc5 7. Kb2 $18) (3... Kd6 4. Nc4+ Kc5 5. Nxa3 Nd5 6. Kb2 $18) (3... Kd7 4. Nc2 Nd3+ 5. Kd1 $18) 4. Bf5+ $1 Kf6 (4... Kd6 5. Kb2 Ke5 6. Nc2 a1=Q+ 7. Kxa1 Kxf5 8. Nxb4 $18) 5. Kb2 Ke5 6. Bg6 Ke6 7. Be8 a3+ 8. Ka1 Ke5 9. Ba4 Ke4 10. Nc2 Nd5 11. Bb5 (11. Nxa3 $2 Kd3 $1 $11) 11... Nc7 12. Bf1 Ke5 13. Kxa2 Kd5 14. Kxa3) ({Kasparyan indique :} 3. Be4 $2 Ke5 4. d3 a2 5. Kb2 a3+ 6. Ka1 Kf4 7. Nh4 Ke3 8. Nf5+ Kf4 $11) 3... Ke5 {ce coup semble moins bon que 3... Kf6 ce d'autant qu'il provoque un dommage noir car il obstrue la diagonale a1-h8, cf. infra 5... a1=Q. C'est toutefois le seul qui soit efficace contre le dommage blanc : 5.Bxa2} (3... Kf6 $5 4. Nc2 a2 (4... Nd3+ 5. Kd1 Nb2+ 6. Ke2) 5. Bxa2 Nxa2+ 6. Kb2 $18 {blocus !}) (3... Kd5 $5 4. Nc2 Nd3+ (4... a2 $2 5. Nxb4+) 5. Kd1 Kc5 (5... Nc5 6. Nxa3 Kd4 7. Bc2 Nb3 8. Bxb3 axb3 9. Ke2 $18) 6. Nxa3 Ne5 7. Bf5 Nc6 8. Nc2 Kd6 9. Kc1 Ne7 10. Be4 Nc8 11. Kb2 Kc5 12. Ka3 Nb6 13. Bd3 Kd5 14. Kb4 Kd6 15. Be4 Ke5 16. Bh1 $18) 4. Nc2 (4. Nf3+ $2 Kf4 $11 { avec la suite :} 5. Ne1 a2 6. Bxa2 Nxa2+ 7. Kb2 Nb4 {etc.}) 4... a2 {ce coup n' est nullement forcй ; c'est celui qui procure aux Noirs la plus courte dйfense. } ({le meilleur coup semble :} 4... Nd3+ 5. Kd1 a2 6. Bxa2 Kd6 7. Bg8 Kc6 8. Ke2 Nf4+ 9. Ke3 Nh5 $18) ({ou encore :} 4... Nd5 5. Nxa3 Kd4 6. Nc2+ Kc5 7. Kb2 Nb6 8. Ne3 $18) 5. Nxb4 $1 (5. Bxa2 Nxa2+ 6. Kb2 (6. Kd1 Ke4 7. Ne1 Kd4 8. Kc2 Nb4+ $11) 6... Ke4 $1 $11) 5... a1=Q 6. Nc2 { blocus ! avec comme suite possible :} Qxb1+ 7. Kxb1 Ke4 8. Kb2 Kd3 9. Kc1 $1 1-0  

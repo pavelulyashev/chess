@@ -1,0 +1,10 @@
+[Event "t001 {c} {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1Bp5/2p5/8/4N3/pp1K4/k7 w - - 0 1"]
+
+ 1. Nc2+ Kb1 2. Na3+ Ka1 3. Ba5 $1 (3. Bxc5 $2 b1=Q 4. Bd4+ Qb2+ 5. Kd3 Qxd4+ 6. Kxd4 Kb2) 3... b1=Q (3... c4 4. Bc3 c5 5. Nxc4 Kb1 6. Na3+ Ka1 7. Kc2 c4 8. Bxb2#) (3... b1=N+ 4. Kc1 Nxa3 5. Bc3#) 4. Bc3+ Qb2+ 5. Kd3 c4+ 6. Kd4 $1 c5+ 7. Kxc4 Qxc3+ 8. Kxc3 c4 9. Kc2 c3 10. Kc1 c2 11. Nxc2# 1-0  

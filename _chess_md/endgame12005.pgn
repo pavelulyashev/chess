@@ -1,0 +1,10 @@
+[Event "ts04#6011 @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Amirjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P1PR4/8/2p1P3/p4k1p/7p/1p4p1/6K1 w - - 0 1"]
+
+ 1. Rd1 Kg3 (1... b1=Q $1 {cook} 2. Rxb1 Kg3) 2. Rd3+ Kf4 3. Rf3+ Kxe5 (3... Kg5 4. Rf5+ Kg4 5. c8=Q b1=Q+ 6. Rf1+ $1) 4. Re3+ Kf4 5. Re4+ Kf3 6. a8=Q b1=Q+ 7. Re1+ 1-0  

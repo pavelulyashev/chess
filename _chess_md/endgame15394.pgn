@@ -1,0 +1,10 @@
+[Event "tb28#363 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k1N/1p1p4/1P1r3P/8/1P6/4K3/8/8 w - - 0 1"]
+
+ 1. h7 Kg7 (1... Re6+ 2. Kd4 Kg7 3. Nf7) (1... Rh6 2. Ng6+ Kg7 3. h8=Q+) 2. Nf7 Re6+ (2... Kxf7 3. h8=Q) 3. Kd4 (3. Kf4 $2 Rf6+) 3... Kxh7 4. Ng5+ Kg6 5. Nxe6 dxe6 6. Ke5 (6. Kc5 $2 e5) 6... Kf7 7. Kd6 e5 (7... Kf6 8. Kc7 e5 9. Kxb7 e4 10. Ka8) 8. Kc7 (8. Kxe5 $2 Ke7) 8... e4 9. Kxb7 e3 10. Ka8 (10. Ka7 $2 e2 11. b7 e1=Q 12. b8=Q Qa1+) (10. Kc6 $2 e2 11. b7 e1=Q 12. b8=Q Qc3+) (10. Kc8 $2 e2 11. b7 e1=Q 12. b8=Q Qe8+) 10... e2 11. b7 e1=Q 12. b8=Q Kf6 (12... Ke7 13. Qa7+) 13. Qb5 (13. Qb6+ $2 Kf5) (13. b5 $2 Qa5+) 1-0  

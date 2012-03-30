@@ -1,0 +1,10 @@
+[Event "Sevcik JT-60 _7+7] {m}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Polasek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1K3B2/N3p3/P7/k4n2/7r/8/8 w - - 0 1"]
+
+ 1. Nc5+ (1. Nc7 $2 Rh7 2. a6 Nd5 $1 3. a7 Nxc7) 1... Kxa5 (1... Kb5 2. Nxe6 Nxe6 3. Bxe6 Rh7+ 4. Kc8 Kc6 5. Kb8 $11) 2. Bxe6 $1 (2. Nxe6 $5 {Thematic try} Rh7 3. Nxf4 (3. Nd8 Nd3 4. Kc8 Ne5 5. Bd5 Kb6 6. Be6 Rh8 7. Bd5 Kc5 {with next Nf7 or Nc6}) 3... Rxf7+) (2. Kc6 $143 e5 3. Kd6 Re3 4. Bd5 Kb4 5. Be4 Ne2 $1 6. Nd3+ Kc4 7. Bf5 e4 8. Ne5+ Kd4 9. Nc6+ Kc3 10. Ke5 Ng3 11. Bg6 Re1 12. Kf4 e3 13. Kxg3 Rg1+ 14. Kf3 Rxg6) 2... Rh7+ 3. Kc6 $1 (3. Bd7 $5 {Thematic try} Nd3 $1 4. Nxd3 Rxd7+) 3... Rh6 4. Kd7 $1 (4. Kd6 $2 Kb5 $19 {mutual zugzwang}) 4... Kb6 5. Na4+ $1 Ka5 6. Nc5 Kb5 7. Kd6 {mutual zugzwang} Rg6 8. Ke5 Kxc5 9. Bf5 1/2-1/2  

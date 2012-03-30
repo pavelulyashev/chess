@@ -1,0 +1,10 @@
+[Event "Deutsches Wochenschach {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6kB/3K3p/7p/8/6N1/3p2P1/3Pp1P1/8 w - - 0 1"]
+
+ 1. Ke8 $1 (1. Ke7 $2 e1=Q+ 2. Be5 Qh1 3. Ke8 Qh5+ $19) 1... e1=Q+ (1... Kxh8 2. Kf8 e1=Q 3. Nxh6 Qf1+ 4. Nf7+ Qxf7+ 5. Kxf7 $18) 2. Be5 Qh1 (2... Qxd2 3. Nf6+ Kg7 4. Ne4+ $18) 3. Ke7 $3 Qh5 4. Nf6+ 1-0  

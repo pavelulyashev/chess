@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention us37#0079 @3 {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Razumenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/k7/2P5/K3Q3/5n2/1q6/4pN2/8 w - - 0 1"]
+
+ 1. c7 Nd5 $1 (1... Qd5+ $1 {cook} 2. Qxd5 (2. Ka4 Qxe5 3. c8=Q e1=Q) 2... e1=Q+ 3. Kb5 Nxd5 4. c8=Q Qb4+ 5. Kc6 Ne7+) 2. Nd3 $1 (2. c8=N+ $2 Ka8 3. Nd3 Qa3+ 4. Kb5 Qxd3+ 5. Ka4 Qc2+ 6. Kb5 Qb3+ 7. Kc5 Qc3+) 2... Qa3+ (2... Qb6+ $1 {cook} 3. Ka4 Qa6+ 4. Kb3 Qxd3+) 3. Kb5 Qxd3+ 4. Kc5 Nb6 $1 (4... Kb7 5. c8=Q+ $1 Kxc8 6. Qe8+ Kc7 7. Qd7+ $1 Kxd7) (4... Qa6 $1 {cook}) 5. c8=N+ $1 Nxc8 6. Qc7+ Ka6 7. Qxc8+ Ka5 8. Qa8+ Qa6 9. Qb8 $1 e1=Q 10. Qd8+ Ka4 11. Qd1+ $1 Qxd1 1/2-1/2  

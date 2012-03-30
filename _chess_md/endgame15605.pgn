@@ -1,0 +1,10 @@
+[Event "ts98#0956 {c} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Kaljagin V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4K1k1/5N2/4N2R/7n/7n/8/7p/8 b - - 0 1"]
+
+ 1... Ng7+ $1 (1... Nf6+ 2. Rxf6 h1=Q 3. Nh6+ Kh7 4. Nf7) 2. Nxg7 h1=Q 3. Nd6 $1 Qa8+ $1 (3... Qc6+ 4. Ke7 Qc7+ 5. Ke6) 4. Kd7 $1 (4. Ke7 $2 Qa7+ 5. Ke8 (5. Ke6 Qe3+) (5. Kf6 Qxg7+) 5... Qa4+ 6. Kd8 Kxg7 7. Rxh4 Qxh4+) 4... Qa7+ 5. Kc6 $1 ( 5. Kc8 $2 Qxg7 6. Rxh4 Qe7 7. Rg4+ Kh7 8. Ne4 Kh6 $1 9. Kb8 (9. Ng5 Kh5) (9. Rf4 Qe5) 9... Qd8+) (5. Ke6 $2 Qe3+) (5. Ke8 $2 Qa4+) (5. Kd8 $2 Qxg7) 5... Qa4+ 6. Kc7 $1 (6. Kc5 $2 Qa3+ 7. Kd5 (7. Kc6 Qc1+) (7. Kb6 Qe3+) (7. Kb5 Kxg7) 7... Qb3+ 8. Ke4 Kxg7 9. Rxh4 Qe6+) (6. Kb7 $2 Qd7+) (6. Kb6 $2 Qd4+) 6... Qa5+ (6... Qf4 7. Rh5) 7. Kd7 $1 (7. Kc8 $2 Qc3+ 8. Kb8 Qb2+ 9. Nb7 Qxg7 10. Rxh4 Qg3+) (7. Kb7 $2 Qb4+ 8. Kc6 Qc3+ 9. Kb6 Qxg7 10. Rxh4 Qg5) 7... Qa7+ 8. Kc6 Qa4+ 9. Kc7 Kxg7 (9... Qa5+ 10. Kd7 Qg5 11. Rh8+ $1 Kxg7 (11... Kxh8 12. Nf7+) 12. Rxh4 $1 Qxh4 13. Nf5+) 10. Rxh4 Qxh4 11. Nf5+ 1/2-1/2  

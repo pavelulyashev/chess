@@ -1,0 +1,10 @@
+[Event "6th Commendation, Nunn-50JT {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/K3p3/2p5/8/8/5R2/8/k3r3 w - - 0 1"]
+
+ {A database position with a very surprising 4th move. However, similar ideas have been seen before.} 1. Kb6 e5 2. Kxc6 e4 3. Ra3+ $1 {It is essential to lure Black's king to the second rank so that the pawn may be pinned later.} (3. Rh3 $2 {loses to} 3... e3 4. Kd5 e2) 3... Kb2 (3... Kb1 { gives White a free tempo which allows him to draw by} 4. Kd5 e3 5. Ke4) 4. Rg3 $3 {The key move.} (4. Rh3 $2 {loses to} 4... Kc2 (4... e3 5. Kd5 Kc3 { transposes}) 5. Kd5 e3 6. Ke4 Kd2 { and we have a reciprocal zugzwang with White to play. After} 7. Rg3 (7. Kd4 Ra1 {wins}) 7... Rh1 {Black wins because White cannot take the pawn.}) 4... e3 5. Kd5 Kc2 ({Or} 5... e2 6. Ke4 Rd1 (6... Kc2 7. Re3 {draws}) 7. Rg2 { this pin was prepared by the preliminary check at move 3} 7... Rd2 8. Rg1 { and Black must repeat moves or lose his pawn to Re1 followed by Ke3.}) 6. Ke4 Kd2 7. Rh3 $1 {Now it is Black to play in the reciprocal zugzwang.} 7... Re2 ( 7... Rg1 {may be met by} 8. Rxe3 { as Black doesn't have enough checking distance.}) 8. Kd4 Re1 9. Ke4 e2 10. Rd3+ Kc2 11. Re3 $1 (11. Ke3 $2 Rd1 {wins for Black.}) 11... Kd2 12. Rd3+ 1/2-1/2  

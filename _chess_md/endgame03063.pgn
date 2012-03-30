@@ -1,0 +1,10 @@
+[Event "Fйvrier 1917 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/4B3/4P3/8/8/8/k1p5/2b5 w - - 0 1"]
+
+ 1. Kd7 $1 (1. Bf6 $2 Bf4 $1 2. e7 c1=Q 3. e8=N $18 {M1 si e8Q}) (1. Bh4 $2 { Bf4! etc.}) (1. Kc8 $2 Bf4 2. Ba3 Kxa3 $19) (1. Ke8 $2 Bf4 {cf. supra -+}) 1... Bf4 (1... Bh6 2. Ba3 $1 Kxa3 3. e7 c1=Q 4. e8=Q $11) 2. Ba3 $1 (2. Bc5 $2 { ou Bb4?} c1=Q 3. e7 Qd1+ 4. Ke6 Qg4+ $19) 2... Bg5 (2... Kxa3 3. e7 c1=Q 4. e8=Q Qc7+ 5. Ke6 Qe5+ 6. Kf7 Qh5+ 7. Ke7 $11) 3. Bc1 (3. e7 $2 Bxe7 4. Bc1 Kb1 (4... Ba3 5. Bd2 (5. Kc6 Bxc1) 5... Kb1 6. Ke6 Bc1 $19) 5. Bh6 Ba3 6. Kc6 Bc1 7. Bf8 Ka2 $19) 3... Bxc1 4. e7 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tb04#148 {m}"]
+[Site "?"]
+[Date "1893.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k3q2/5pp1/1K6/N7/5P2/p4P2/P3P3/5B2 w - - 0 1"]
+
+ 1. Nc6+ Ka8 $1 (1... Kc8 2. Bh3+ f5 3. Bxf5+ Qxf5 4. Ne7+) 2. e4 $1 f6 $1 (2... Qc8 3. Ba6 Qd7 4. e5 g6 5. f5 $1 gxf5 6. f4 f6 7. e6) 3. Ba6 Qf7 4. e5 fxe5 5. fxe5 g5 6. e6 Qg7 7. e7 Qb2+ 8. Kc7 Qh2+ 9. Kd7 $1 Qh7 10. Kd8 Qd3+ 11. Kc7 1-0  

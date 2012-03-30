@@ -1,0 +1,10 @@
+[Event "1 Prize, tc03#17 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1nBB1K2/8/2p5/8/5n2/1k2b3/8 w - - 0 1"]
+
+ 1. Bc6 Nd8+ $1 2. Bxd8 Ne5+ 3. Ke6 Nxc6 4. Bf6+ Kb3 5. Kd6 Nb8 $1 6. Kc7 Na6+ 7. Kb6 Ka4 8. Be7 Kb4 9. Bf8 $1 (9. Bd6 $2 Kc4 $1 10. Kxa6 Kd5+) 9... Bb5 10. Be7 $1 (10. Bd6 $2 Kc4 $1 11. Bf8 Nb8 12. Be7 Nd7+ 13. Ka5 Bc6) 10... Kc4 11. Bd6 Nb4 12. Bxc5 Nd5+ 13. Ka5 Kxc5 1/2-1/2  

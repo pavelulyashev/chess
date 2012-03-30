@@ -1,0 +1,10 @@
+[Event "ts23#795 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "Bk6/1P2p3/1Pn5/4p3/Np2PB2/pP4pb/K4p1p/8 w - - 0 1"]
+
+ 1. Nc5 f1=B $1 (1... f1=Q 2. Nd7+ Bxd7 3. Bxe5+ Nxe5) 2. Bxg3 h1=B (2... h1=Q 3. Na6+ Bxa6 4. Bxe5+ Nxe5) (2... h1=N 3. Bh4) 3. Bh2 Bf3 4. Bg3 B3e2 5. Bh2 Bc4 6. Bg3 (6. bxc4 $2 Bxc4+ 7. Kb1 b3 8. Bg3 b2 9. Bh2 Bhe6 10. Kc2 Nd4+ 11. Kd2 Nf3+) 6... Bhe6 7. Ka1 $1 Bxb3 8. Nd3 $1 Bxd3 9. Bxe5+ Nxe5 1/2-1/2  

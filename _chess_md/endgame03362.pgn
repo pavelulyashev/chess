@@ -1,0 +1,10 @@
+[Event "HM as equal (Main section) {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Josten G"]
+[Black "*"]
+[Result "*"]
+[FEN "7k/4p3/7N/2p4P/K7/3p4/P4n2/8 w - - 0 1"]
+
+1. Nf5 d2 (1... e5 2. Kb3 $11) (1... e6 2. Ne3 d2 3. Kb3 d1=Q+ 4. Nxd1 Nxd1 5.Kc4 $11) 2. Ne3 d1=Q+ 3. Nxd1 Nxd1 4. Kb3 e5 5. a4 e4 6. a5 Ne3 (6... e3 7. a6e2 8. a7 $11) 7. a6 Nd5 8. Kc4 Nc7 9. a7 Na8 10. h6 Kh7 11. Kxc5 e3 12. Kc6 e213. Kb7 e1=Q 14. Kxa8 Kh8 15. h7 $11 *

@@ -1,0 +1,10 @@
+[Event "us46#1855 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/5bb1/6k1/4pp2/8/3Q1K2 w - - 0 1"]
+
+ 1. Qd4+ (1. Qa4+ $2 Kg3) (1. Kg1 $2 Kg3 2. Qd6+ Bf4) 1... Bf4 (1... Kg3 2. Qe5+ ) 2. Kg1 (2. Qg7+ $2 Kh3 3. Qh8+ Kg3 4. Qg7+ Bg4) 2... Kg3 (2... f2+ 3. Kg2) ( 2... e2 3. Kf2) 3. Kh1 (3. Qg7+ $2 Bg4) 3... e2 (3... f2 4. Qxe3+ Bxe3) 4. Qg7+ (4. Qa1 $2 Bg4 5. Qb1 (5. Qe1+ Kh3 6. Qf2 Bh5 7. Qh2+ Kg4) (5. Qg1+ Kh4 6. Qf2+ Bg3) 5... Bh5 6. Qe4 Bf7 7. Qb1 Bd2) 4... Kh3 (4... Bg4 5. Qa1) 5. Qh8+ (5. Qa1 $2 Bg3 6. Qh8+ Bh4) 5... Kg3 (5... Kg4 6. Qg7+) 6. Qg7+ (6. Qa1 $2 Bg4) 6... Bg4 7. Qa1 (7. Qc3 $2 Kf2 8. Qd4+ Be3) (7. Qe7 $2 Kf2 8. Qc5+ Be3) 7... Be3 ( 7... f2 8. Qa3+ Bf3+ (8... Kh4 9. Qe7+) (8... Be3 9. Qd6+ (9. Qxe3+ $2 Bf3+)) 9. Qxf3+ Kxf3) 8. Qe5+ Kf2 (8... Bf4 9. Qa1) 9. Qg3+ (9. Qh2+ $2 Ke1) 9... Kxg3 1/2-1/2  

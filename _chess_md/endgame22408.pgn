@@ -1,0 +1,10 @@
+[Event "ts21 {m}"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/K2PN1N1/8/8/5nq1/8/6k1 w - - 0 1"]
+
+ 1. Ngf4 Nd4 (1... Qg8 2. d7 Qa8+ 3. Kb6 Qb8+ 4. Kc5 Qa7+ 5. Kd6 Qb6+ 6. Kd5 Qa5+ 7. Ke4 Nd2+ 8. Kd3 Qb5+ 9. Kxd2 Qxd7+ 10. Ke3) 2. Nxd4 Qa3+ 3. Kb6 $3 Qxd6+ 4. Kb5 $1 Kf1 5. Nde6 $1 Kf2 6. Nc5 $1 Ke3 (6... Qxf4 7. Nd3+) 7. Nfe6 1/2-1/2  

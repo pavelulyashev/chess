@@ -1,0 +1,10 @@
+[Event "Euwe100_2ndPr {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Banaszek M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "Bn1r4/K1R3P1/2P5/8/8/4r3/4P1kb/4B3 w - - 0 1"]
+
+ 1. Rf7 Bg1 $1 (1... Ra3+ 2. Kb6 (2. Kb7 Rb3+ 3. Ka7 Ra3+) 2... Rxa8 3. Rf8 Rxf8 4. gxf8=Q Nd7+ 5. cxd7 Rxf8 6. Bh4) 2. c7+ (2. Rf2+ $5 Kh3 (2... Bxf2 3. c7+ Rf3+ 4. Bxf2) 3. c7 Re7 4. Kb7 Bxf2 5. Bxf2 Rxg7 6. Bb6 Na6 7. Kxa6 Rxa8+) 2... Rf3+ 3. Bf2 (3. e3 Bxe3+) (3. Kb7 Rxf7) 3... Bxf2+ 4. e3 $1 (4. Kb7 Rb3#) 4... Bxe3+ 5. Kb7 Rxf7 6. g8=Q+ Rxg8 1/2-1/2  

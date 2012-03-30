@@ -1,0 +1,10 @@
+[Event "tt20#861 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6pk/1P5p/6PP/8/1b4r1/7K/6B1 w - - 0 1"]
+
+ 1. g6+ $1 (1. Kxg3 $2 Bd5 2. Be3 hxg5 3. Bxg5 Kg8 4. Bd2 Kf7 5. Bc3 Bc6 6. Kf4 Bd5 7. Ke5 Bb7 8. Kd6 Be4 9. Kc7 g5 $1) 1... Kh8 2. b7 (2. Kxg3 $2 Bd5) 2... Rg2+ $1 (2... Bg8 3. Bb6 $1 Rg2+ 4. Kh1 Rb2 5. b8=Q) 3. Kh1 Rf2 $1 4. b8=Q+ Bg8 5. Bh2 $1 Rf1+ (5... Rxh2+ 6. Qxh2 $1) 6. Kg2 Rf2+ 7. Kh3 $1 (7. Kg3 $2 Rxh2 $1 ) 1-0  

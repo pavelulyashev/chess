@@ -1,0 +1,10 @@
+[Event "tl10#347 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/8/8/1Kpp1P1p/1p5P/k3p2Q/5Nn1 w - - 0 1"]
+
+ 1. Qg2 $1 Ka1 (1... Kb1 2. Qxg1 e1=Q+ 3. Nd2+) (1... Kb2 2. Kxc4 Ka3 3. Qf2 exf1=Q+ 4. Qxf1 Ka2 5. Qxg1 b2 6. Qg2) (1... b2 2. Nd2 b1=Q+ 3. Nxb1) (1... c3 2. Qa8+ Kb2 3. Qa3+ Kc2 4. Qxb3+ Kd3 5. Qb1+ c2 6. Qb3+ Ke4 7. Qxc2+ d3 8. Qc1) (1... d3 2. Kxc4 b2 3. Nd2 b1=Q 4. Nxb1 d2 5. Nc3+ Ka3 6. Qa8+ Kb2 7. Qb7+) 2. Ka3 b2 3. Nd2 b1=N+ 4. Nxb1 Kxb1 5. Qxg1+ Kc2 6. Qe1 1-0  

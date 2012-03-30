@@ -1,0 +1,10 @@
+[Event "150 Endspielstudien  {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K2k2/5B2/5pP1/4p2p/8/7P/8/8 w - - 0 1"]
+
+ 1. Kd7 (1. Bd5 $2 f5 2. Kd7 Kg7 3. Ke6 Kxg6 4. h4 e4 $11) 1... e4 2. Ke6 Kg7 ( 2... e3 3. Kxf6 e2 4. g7#) 3. Kf5 e3 4. Bc4 h4 5. Bd3 Kh6 6. Kxf6 e2 7. g7 (7. Bxe2 $2 {pat}) 7... e1=Q 8. g8=N+ Kh5 9. Bg6# 1-0  

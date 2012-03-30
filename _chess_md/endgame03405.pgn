@@ -1,0 +1,10 @@
+[Event "1/2 HM, Neidze 70 JT -THEME {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/3pk3/6K1/3P2P1/6p1/8/8/8 w - - 0 1"]
+
+1. d6+ $1 Kxd6 (1... Ke6 2. Nc7+ Ke5 3. Nb5 g3 4. Nc3 g2 5. Ne2) 2. Nb6 g3 3.Nc4+ Kd5 (3... Kc5 4. Nd2 g2 5. Nf3 d5 6. Kf5 d4 7. Ke4) 4. Ne3+ $1 (4. Nd2 $2g2 5. Nf3 Ke4 6. Ng1 d5 $1 $11) 4... Ke4 5. Ng2 d5 (5... Kf3 6. Nh4+ Kg4 7. Nf5g2 8. Ne3+) 6. Kf7 $1 ({Thematic try} 6. Kf6 $2 d4 7. g6 d3 8. g7 d2 9. g8=Qd1=Q 10. Qh7+ Kd4 11. Qd7+ Ke4 $1 12. Qxd1 {stalemate.}) (6. Kh6 $2 d4 7. g6 d38. g7 d2 9. g8=Q d1=Q 10. Qh7+ (10. Qg6+ Ke5 $1) 10... Kf3 $1 $11) 6... d4 7.g6 d3 8. g7 d2 9. g8=Q d1=Q 10. Qg6+ $1 (10. Qh7+ $2 Kd4 $11) 10... Kd5 (10...Kf3 11. Qh5+) (10... Kd4 11. Qd6+) 11. Ne3+ $18 {. The ending is known, but the technical play in this miniature is worthy.} 1-0

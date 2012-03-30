@@ -1,0 +1,10 @@
+[Event "3p. Shakhmatnaya kompozitsiya {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Visokosov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4r2B/1KP5/2pp4/2P5/2p5/8/8/2k5 w - - 0 1"]
+
+ 1. Bb2+ $1 (1. cxd6 $143 Rxh8 2. d7 c3 3. d8=Q Rxd8 4. cxd8=Q c2 5. Kb6 c5 6. Kxc5 Kb2 $11) (1. Bf6 $143 dxc5 2. Bd8 c3 3. c8=Q Rxd8 (3... Rg8 $143 4. Qh3 $18) 4. Qxd8 c2 5. Ka6 c4 $1 6. Qb6 (6. Ka5 $144 Kb1 $11) 6... Kd2 (6... c3 $143 7. Qc5 $18) 7. Qd4+ Kc1 8. Qxc4 (8. Ka5 $144 Kb1 $11) 8... c5 $1 9. Ka5 Kb2 $11) 1... Kxb2 {An idea worthy of note in the treatises: blocking his P, bKc 1 is less useful to White than on b2} 2. cxd6 c3 3. d7 Re7 4. d8=Q Rxc7+ 5. Qxc7 c2 {Now White can make a beeline for the b-line "with tempo" .} 6. Qb6+ Kc3 (6... Kc1 $144 7. Ka6 c5 8. Ka5 Kd2 9. Qh6+ Kd1 10. Qd6+ Kc1 11. Ka4 $18) 7. Qa5+ (7. Ka6 $143 c5 8. Ka5 c1=Q 9. Qxc5+ $11) (7. Qe3+ $143 Kb2 8. Qd4+ (8. Qb6+ $142 {same position than after 6.Qb6+}) 8... Kc1 9. Kb6 c5 10. Qc3 Kd1 ( 10... c4 $143 11. Kb5 Kb1 12. Qb4+ Ka2 13. Qe1 Kb2 14. Qe2 Kb1 15. Kxc4 $18) 11. Qd3+ Kc1 12. Kb5 Kb2 13. Qe2 Kb1 14. Kc4 c1=Q+ 15. Kb3 c4+ $11) 7... Kb2 8. Qb4+ Kc1 9. Kb6 (9. Ka6 $143 c5 $11) 9... c5 (9... Kd1 $144 10. Qd4+ Ke2 11. Qc3 Kd1 12. Qd3+ Kc1 13. Ka5 $18) 10. Kxc5 $18 Kd1 11. Qd4+ Kc1 12. Kc4 Kb1 13. Qb6+ Ka2 14. Qb3+ $18 {"This study realises the classic ' roman' theme, persuading bK to occupy b2, with the paradoxical and far from obvious sacrifice of wB. Andrei is a violent opponent of the use of 5-man *c. databases, but in this case he shows the direction we are being forced  to take. "} 1-0  

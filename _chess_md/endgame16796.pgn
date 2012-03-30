@@ -1,0 +1,10 @@
+[Event "3 Commendation ja07 tc40 {m} {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3k4/2R5/2P5/2p5/p1K1N3/Rnn3r1 b - - 0 1"]
+
+ 1... Na3+ (1... Kxc5 2. Nxg1) (1... Nxe2 $2 2. Rd5+ Kc6 3. Rxa2 Rc1+ 4. Kb3) 2. Kxc3 Nxe2+ 3. Kb2 (3. Kb3 $2 Rg3+ 4. Kb4 (4. Kxa2 Kxc5) 4... Nc2+) 3... Rb1+ $1 4. Kxa2 (4. Kxa3 $2 Rxa1 5. Rd5+ (5. Kb2 Rh1 6. Rd5+ Kc6 7. Ra5 Nc3 $1) 5... Kc6 6. Kb2 Rb1+ 7. Kxa2 Nc3+) 4... Nc3+ (4... Nc1+ 5. Kxa3 Rxa1+ 6. Kb2 Ra2+ 7. Kc3 $1 Ra3+ (7... Kxc5) 8. Kb2 Rb3+ 9. Ka1 $1 Ra3+ (9... Kxc5) 10. Kb2) (4... Rxa1+ 5. Kxa1 Kxc5 6. Kb2 Kb4 7. c5 $1) 5. Kxa3 Rxa1+ 6. Kb2 Ra2+ 7. Kc1 $1 Ra1+ (7... Kxc5) (7... Ne2+ 8. Kb1) 8. Kb2 Rb1+ 9. Ka3 $1 Ra1+ (9... Kxc5) 10. Kb2 1/2-1/2  

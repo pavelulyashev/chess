@@ -1,0 +1,10 @@
+[Event "ts23#042 @3 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kajev L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3b4/2k5/8/4R3/8/4n3/1Pb5/2B1K3 b - - 0 1"]
+
+ 1... Ng2+ (1... Bh4+ $1 {cook} 2. Ke2 Nf5 3. Rc5+ Kb6 4. Rxc2 Nd4+) 2. Kf2 Kd6 3. Re2 Bd3 4. Rd2 Ne1 $1 (4... Nf4 5. Rd1) 5. Kxe1 $1 Ba5 6. b4 $1 Bxb4 7. Ba3 $1 Bxa3 8. Rxd3+ 1-0  

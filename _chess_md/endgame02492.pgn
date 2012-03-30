@@ -1,0 +1,10 @@
+[Event "1 Prize Leninskoye Znamja {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2q5/7Q/8/k7/8/1p6/P1p5/K7 w - - 0 1"]
+
+ 1. Qh5+ $1 (1. Qa7+ $143 Kb5 2. a4+ Kc4 3. Qf7+ Kb4 4. Qe7+ Qc5 5. Qxc5+ Kxc5 6. Kb2 Kb4 $19) 1... Ka4 $1 (1... Kb6 $144 2. Qh6+ Kb7 (2... Kb5 $144 3. Kb2 $11) 3. Kb2 bxa2 4. Qc1 Qc4 5. Ka1 Qb3 6. Qxc2 $11) 2. Qh4+ Qg4 $1 (2... Ka3 $144 3. Qe7+ Ka4 4. Qh4+ $11) (2... Kb5 $144 3. Qh5+ Kb6 4. Qh6+ Kb7 (4... Qc6 $144 5. Qe3+ Kc7 6. Kb2 $11) 5. Kb2 $11) 3. axb3+ $1 (3. Qxg4+ $143 Ka3 4. Qa4+ $1 Kxa4 5. Kb2 (5. axb3+ $144 Ka3 $19) 5... bxa2 6. Kxa2 c1=R $19 (6... c1=Q $143 $11)) 3... Kxb3 4. Qg3+ Qxg3 $11 1/2-1/2  

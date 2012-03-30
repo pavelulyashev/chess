@@ -1,0 +1,10 @@
+[Event "Europa Rochade, 2005/10. {m}"]
+[Site "?"]
+[Date "2005.11.??"]
+[Round "?"]
+[White "Hornecker S"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/4p3/2k2b2/Rb3K2/6R1/4p3/8 w - - 0 1"]
+
+ {Remis     (G)(F)} 1. Ra1 $1 (1. Rg1 $2 e1=Q 2. Rxe1 Bxe1 $19) 1... Bd2+ $1 ( 1... e1=Q 2. Rxe1 Bxe1 3. Rg5 $3 Bd2+ 4. Ke5 Bxg5 $11) 2. Ke5 $1 e1=Q+ {main} ( 2... Kc4 {main} 3. Rgg1 $3 (3. Ra4+ $2 Kb5 $1 4. Ra1 e1=Q+ 5. Rxe1 Bxe1 6. Rg5 Bc3+ 7. Kf4 Bd2+ 8. Ke5 Bxg5 $19) 3... Bc3+ 4. Kf4 Bxa1 5. Rxa1 Kd3 6. Kf3 Kd2 7. Ra2+ (7. Kf2 $2 Bc2 $1 8. Re1 Bd1 9. Rg1 e5 10. Rh1 e4 11. Rg1 e3+ $19) 7... Bc2 8. Rxc2+ Kxc2 9. Kxe2 $11) 3. Rxe1 Bxe1 4. Rg5 $3 (4. Rf3 $2 Bg4 $19) 4... Bc3+ 5. Kf4 Bd2+ 6. Ke5 Bxg5 $11 *  

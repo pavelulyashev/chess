@@ -1,0 +1,10 @@
+[Event "tr19 @2 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Platov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6q1/6p1/8/3p2P1/3P1K1k/7p/7N/5N2 w - - 0 1"]
+
+ 1. Nf3+ Kh5 2. Ng3+ Kg6 3. Ne5+ Kh7 4. g6+ Kh6 (4... Kh8 5. Nf7+) 5. Kg4 Qe6+ 6. Nf5+ Qxf5+ 7. Kxf5 Kh5 8. Nf3 (8. Ng4 $1 {cook VS} Kh4 9. Kf4 Kh5 10. Kg3 Kxg6 (10... h2 11. Nxh2 Kxg6 (11... Kg5 12. Ng4 Kf5 13. Kf3) 12. Kf4 Kf6 13. Ng4+ Ke6 14. Kg5) (10... Kg5 11. Kxh3 Kf4 (11... Kf5 12. Kg3 Ke4 13. Nf6+ Kxd4 14. Kf4) (11... Kxg6 12. Ne3) 12. Nf6 Ke3 13. Ne8 Kxd4 14. Nxg7 Ke5 15. Nf5 Kf6 16. g7 Kf7 17. Kg3) 11. Ne3) 8... Kh6 9. Nh2 Kh5 10. Nf1 Kh4 (10... Kh6 11. Ke6 Kxg6 12. Kxd5 Kf5 13. Kc6 Kf4 14. d5 Kf3 15. d6 Kf2 16. d7 Kxf1 17. d8=Q h2 18. Qh4 Kg2 19. Qg4+ Kf2 20. Qh3 Kg1 21. Qg3+ Kh1 22. Qf2 g5 23. Qf1#) 11. Ke6 Kg4 12. Kf7 Kf3 13. Kxg7 Kg2 14. Nh2 Kxh2 15. Kf6 Kh1 16. g7 h2 17. g8=B $1 (17. g8=Q $2) (17. Kf5 $1 {cook JU}) 1-0  

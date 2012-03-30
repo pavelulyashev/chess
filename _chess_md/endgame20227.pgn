@@ -1,0 +1,10 @@
+[Event "tc06#2474 @3 {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B3/8/8/4P3/8/3p3k/8/1b1K4 w - - 0 1"]
+
+ 1. e6 Ba2 (1... d2 2. e7 Bf5 3. Bf7 Bd7 4. Be6+) 2. e7 Be6 (2... Kh4 $1 {cook} 3. Bg6 Bb3+ 4. Kd2 Ba4) 3. Bg6 Bd7 (3... Bb3+ $1 {cook SH} 4. Kd2 Ba4) 4. Bf5+ 1-0  

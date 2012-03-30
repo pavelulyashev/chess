@@ -1,0 +1,10 @@
+[Event "tk06 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B1K1/8/2N4k/8/2p3P1/1P6/6p1/8 w - - 0 1"]
+
+ 1. Ne5 g1=Q (1... cxb3 2. Nf3 b2 3. g5#) 2. Bh5 Qa7 (2... cxb3 3. Nf7#) 3. Nf7+ Qxf7+ 4. Kxf7 cxb3 5. Kf6 b2 6. Bg6 b1=Q 7. g5# 1-0  

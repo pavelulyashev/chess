@@ -1,0 +1,10 @@
+[Event "ts70#1958 {m}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6K1/3p3p/3p2Pk/5p1b/5Pp1/6Pp/8/8 w - - 0 1"]
+
+ 1. g7 $1 (1. gxh7 $2 Bf7+ 2. Kh8 Bg6) 1... h2 2. Kf8 h1=Q (2... Bf7 3. Kxf7 h1=Q 4. g8=N+ (4. g8=Q Qd5+ 5. Kf8 Qxg8+ 6. Kxg8) 4... Kh5 5. Nf6+ Kh6 6. Ng8+) 3. g8=N+ (3. g8=Q $2 Qa8+) 3... Kg6 4. Ne7+ Kf6 5. Nd5+ Ke6 6. Nc7+ Kf6 7. Nd5+ Kg6 8. Ne7+ Kh6 9. Ng8+ 1/2-1/2  

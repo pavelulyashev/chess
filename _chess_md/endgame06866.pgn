@@ -1,0 +1,10 @@
+[Event "Schach {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Hlinka M, Vlasak E"]
+[Black "*"]
+[Result "*"]
+[FEN "1k1r4/8/R1BpP3/3pP3/7r/3p4/8/4K3 w - - 0 1"]
+
+ 1. e7 Re8 $1 2. Ra8+ (2. exd6 Rxe7+ 3. dxe7 Re4+) 2... Kc7 3. Bxe8 $1 Re4+ 4. Kd2 Re2+ $1 5. Kc3 $3 d4+ 6. Kxd3 Re3+ 7. Kc4 $1 Rxe5 8. Ra7+ Kb6 9. Rd7 Kc6 $1 10. Kxd4 {The mysterious manoevre ends with Zugzwang. BR have to move and W can break the positional draw.} Re1 (10... Re6 11. Ra7+ Kb6 12. Bf7) 11. Ra7+ Kb6 12. Bg6 $1 Re5 13. Rd7 *  

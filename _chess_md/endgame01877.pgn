@@ -1,0 +1,10 @@
+[Event "Internet(ruszchessstudies.blogspot Commendationom) {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4q3/2Q1Rr1p/3n3P/Np2P3/kPp5/P7/KP6/1BrbR3 b - - 0 1"]
+
+ 1... Bb3+ 2. Nxb3 $1 (2. Ka1 $2 Rxe1 $19) 2... cxb3+ 3. Ka1 Rxc7 4. exd6 $1 (4. Rxe8 $2 Nxe8 $19) (4. Rxc7 $2 Nc4 $1 $19) 4... Rfxe7 $1 (4... Rcxe7 5. dxe7 $1 Qxe7 $1 6. Rf1 $3 {caching the R} Rxf1 {stalemate}) (4... Qxe7 5. dxe7 $11) 5. Rxe7 $1 (5. dxe7 $2 Qxe7 $3 6. Rxe7 Rxe7 $19) 5... Qxe7 $3 6. dxc7 $3 (6. dxe7 $2 Rxe7 7. Bd3 Rc7 8. Be4 Rc1+ 9. Bb1 Rc2 10. Bxc2 bxc2 11. Ka2 c1=N+ $19) 6... Qxc7 7. Bxh7 $1 Qc1+ (7... Qxh7 {stalemate}) 8. Bb1 Qxh6 9. Bd3 Qc1+ 10. Bb1 Qc2 $1 11. Bxc2 bxc2 12. Ka2 c1=N+ 13. Kb1 Ne2 14. Kc2 Nf4 15. Kc3 Ne6 16. Kc2 {mutual zugzwang} Nd8 17. Kc3 Nc6 18. Kc2 {positional draw - blockade} 1/2-1/2  

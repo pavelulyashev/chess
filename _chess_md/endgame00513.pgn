@@ -1,0 +1,10 @@
+[Event "cs.sach {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Husak K"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4k3/n1K1Pp1p/8/8/8/2N5 w - - 0 1"]
+
+ {78 11/99} 1. Nd3 (1. Kb5 $2 h4 2. Kxa5 h3 3. Nd3 h2 4. Nf2 Kxe5 $19) 1... h4 2. Nf4+ $1 (2. Kb5 $2 Nb3 3. Nf4+ Kxe5 4. Ng6+ Ke4 5. Nxh4 f4 6. Kc4 Nd4 7. Kc3 Nf5 8. Ng6 f3 9. Kd2 Ng3 10. Ke1 Ke3 $19) 2... Kxe5 3. Ng6+ Ke4 4. Nxh4 f4 5. Kd6 $1 Nc4+ 6. Ke7 $1 (6. Ke6 $2 Ne3 7. Kf6 Ng2 8. Nf5 Kd3 9. Ke5 (9. Nh6 Ne3 10. Nf7 Ng4+ {v tom je pointa}) 9... f3 10. Ng3 f2 11. Kf5 Ke3 12. Kg4 Ne1 13. Nf1+ Ke2 14. Ng3+ Kd1 15. Nf1 Nd3 16. Kf3 Ke1 17. Nh2 Ne5+ 18. Kg2 Ke2 19. Nf1 Nd3 20. Nh2 Nf4+ 21. Kg3 Ng6 22. Kh3 Ne5 23. Kg2 Nf3 24. Nf1 Nh4+ $19) 6... Ne3 7. Ke6 $1 {zugzwang} Ng2 8. Nf5 $1 (8. Ng6 $2 f3 9. Ne5 f2 10. Nc4 Kd3 11. Ne5+ Ke2) 8... f3 (8... Kd3 9. Nh6 $1 Ne3 10. Nf7 $1 Ng4 11. Ng5 $11) 9. Ng3+ Ke3 10. Nh1 $1 $11 (10. Kf5 $2 f2 11. Kg4 Ne1) 1/2-1/2  

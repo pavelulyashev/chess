@@ -1,0 +1,10 @@
+[Event "tb25 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3q4/8/1p1k1p2/1P3P2/2P3P1/R3K3 w Q - 0 1"]
+
+ 1. Rd1+ $1 (1. O-O-O+ $2 1... Kc3 $1 2. g4 Qd2+ 3. Rxd2) 1... Ke3 2. g4 $1 (2. Rxd6 $2) 1-0  

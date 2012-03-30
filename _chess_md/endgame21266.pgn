@@ -1,0 +1,10 @@
+[Event "2 Prize, Zadachy i Etiudy {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Zakharov S"]
+[Black "*"]
+[Result "*"]
+[FEN "1Q6/2P3k1/3p4/3p4/q7/6p1/8/4n2K w - - 0 1"]
+
+ 1. Qh8+ $1 Kxh8 2. c8=Q+ Kg7 3. Qc7+ Kf6 (3... Kg8 4. Qb8+ Kf7 5. Qa7+ Qxa7 { stalemate}) (3... Kf8 4. Qxd6+ Ke8 5. Qe5+ Kd8 6. Qxd5+ $11) 4. Qxd6+ Kf5 5. Qxd5+ Kg4 6. Qd4+ $1 (6. Qe6+ $2 Kf3 $19) 6... Kh3 $1 (6... Qxd4 {stalemate}) 7. Qh8+ Qh4 8. Qc8+ Qg4 9. Qh8+ $11 *  

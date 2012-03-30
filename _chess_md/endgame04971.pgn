@@ -1,0 +1,10 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k6/1p1R4/P2K4/8/8/8/p7/8 w - - 0 1"]
+
+ 1. Rd8+ $1 (1. Rxb7+ $2 1... Ka8) (1. axb7 $2 1... a1=Q) 1... Ka7 2. Kc7 2... b5 $1 (2... a1=Q 3. Ra8+ Kxa8 4. axb7+ Ka7 5. b8=Q+ Ka6 6. Qb6#) 3. Rd1 b4 4. Kc6 b3 5. Rd7+ $1 5... Kxa6 6. Rd8 $1 6... Ka7 7. Rd7+ Kb8 8. Rd8+ Ka7 9. Rd7+ Ka6 10. Rd8 Ka5 11. Kc5 $1 11... Ka6 12. Kc6 1/2-1/2  

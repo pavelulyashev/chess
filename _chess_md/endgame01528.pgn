@@ -1,0 +1,10 @@
+[Event "VTSPS Trud {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kubbel L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kr2B3/ppK3B1/1P2p3/5P2/8/8/8/8 w - - 0 1"]
+
+ 1. Bf7 exf5 2. bxa7 Kxa7 3. Bd4+ b6 (3... Ka8 4. Bd5 f4 5. Bf2 (5. Bf3 $2 Rc8+ 6. Kxc8) 5... f3 6. Kb6 Rc8 7. Bxb7+ Kb8 8. Bg3+ Rc7 9. Bxc7#) 4. Bd5 f4 (4... Re8 5. Bxb6+ Ka6 6. Bc4#) 5. Bf3 (5. Bg1 $2 f3 6. Bxf3 Rb7+ 7. Bxb7 {pat}) 5... Re8 (5... Rf8 6. Bxb6+ Ka6 7. Be2#) 6. Bxb6+ Ka6 7. Bb7+ Kb5 8. Bc6+ 1-0  

@@ -1,0 +1,10 @@
+[Event "tb10 @3 {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Queckenstadt W"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/2p5/2P3pP/1k1Pb3/1B3p2/8/5K2 w - - 0 1"]
+
+ 1. h6 (1. Bf7 $2 Kc3 2. Bg6 (2. d5 Kd4) 2... Bd5 3. h6 Bg8 4. d5 Kd4 5. d6 (5. h7 Bxh7 6. d6 Bxg6 7. d7 Ke3) 5... Ke3 6. d7 Bc4+) 1... Kxb3 (1... Kb5 2. Ba4+ Kb4 3. Bxc6 Bh7 4. Be4) (1... Bb1 2. Ba4 Kc4 3. Bxc6 Kxd4 4. Be4 $1 Kxe4 5. h7) (1... Kc3 $1 {cook} 2. d5 (2. Bd5 Bd3+ 3. Kf2 Kxd4) 2... Kd4 3. dxc6 Ke3 4. Bc4 g4 5. c7 g3 6. c8=Q g2+) 2. d5 cxd5 3. c6 d4 4. c7 d3 5. c8=Q d2 6. Qd7 Kc2 ( 6... Kc3 7. Kf2 a5 (7... Bc2 8. Qc6+ Kb2 9. Qxf3) 8. Ke3) 7. h7 d1=Q+ 8. Qxd1+ Kxd1 9. h8=Q 1-0  

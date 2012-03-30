@@ -1,0 +1,10 @@
+[Event "Olthof40_hm {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Elkies N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1p6/1pp1P3/8/8/2Nb4/3P4/5k1K w - - 0 1"]
+
+ 1. e7 (1. Na4 b5 2. Nc5 Bg6 3. Nxb7 Ke2 4. d4 (4. Na5 $1 Kxd2 $1 (4... Be8 5. Nb3 Kd3 6. Kg2 Kc2 7. Nc5 Kxd2 8. Kf3 Kc3 9. Ke4) 5. Kh2 (5. Nxc6 Be4+) 5... Be8 6. Kg3 b4 7. Kf4 Kc3 8. Ke5 b3 9. Nxb3 Kxb3 10. Kd6 Kb4 11. Ke7 Bh5 12. Kd6 Kb5 {van der Heijden}) 4... Ke3 5. Na5 Be8 6. Nb3 Ke4 7. Nc5+ Kxd4) 1... Bg6 2. d4 b5 3. d5 b4 (3... cxd5 4. Nxd5 Kf2 5. Kh2 Kf3 6. Kg1 Ke4 7. Nc3+ Ke5 8. Nxb5 ) 4. d6 $1 (4. dxc6 bxc6) (4. Nd1 cxd5 5. Ne3+ Ke1 6. Nxd5 b3) 4... bxc3 (4... Be8 5. Ne4 b6 (5... b3 6. Nd2+) 6. d7 Bxd7 7. Nf6 b3 8. Nxd7 b2 9. e8=Q b1=Q) 5. d7 c2 6. e8=Q $1 (6. d8=Q c1=Q 7. Qf8+ Ke2+ 8. Kg2 Qe3) 6... c1=Q $5 (6... Bxe8 7. d8=Q $1 c1=Q 8. Qd2 {The same position see Neuenschwander 1990.} Qc4 ( 8... Qa3 9. Qg2+ Ke1 10. Qg3+) (8... Qb1 9. Qg2+ Ke1 10. Qg1+) (8... Qc5 9. Qd1+ Kf2 10. Qg1+) 9. Qf4+) 7. Qxg6 (7. Qf8+ Ke2+ 8. Kh2 Qg5 $3 (8... Qe3 9. Qf6) 9. d8=Q Qe5+ 10. Kg2 Be4+ 11. Kh3 Bf5+ 12. Kg2 Qe4+ 13. Kh2 Qf4+ 14. Kg2 Qg4+ 15. Kh2 Qh3+ 16. Kg1 Qg3+ 17. Kh1 Be4+) 7... Kf2+ 8. Kh2 Qf4+ 9. Kh3 Qe3+ 10. Kh4 $1 (10. Kg4 Qd4+) (10. Kh2 Qe5+ 11. Kh3 Qh8+ 12. Kg4 Qd4+) 10... Qe7+ ( 10... Qd4+ 11. Qg4) 11. Qg5 Qxd7 12. Qf5+ Qxf5 1/2-1/2  

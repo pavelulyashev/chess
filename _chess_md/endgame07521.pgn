@@ -1,0 +1,10 @@
+[Event "ts23#46 @3 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/1R6/1P3p1k/8/2b3K1/7P/1p1b4/8 w - - 0 1"]
+
+ 1. Rh7+ Kxh7 2. Be4+ f5+ $1 (2... Kg7 $1 {cook WV} 3. b7 Be2+ 4. Kf5 (4. Kg3 Bc3) 4... Bf1 5. Kg4 (5. b8=Q $4 Bxh3#)) 3. Bxf5+ Kh6 4. b7 Be2+ 5. Kg3 Be1+ 6. Kg2 Bf1+ 7. Kh2 Bd3 $1 8. Bxd3 b1=Q 9. Bxb1 Bc3 10. b8=B (10. b8=Q $2 Be5+ 11. Qxe5) 1-0  

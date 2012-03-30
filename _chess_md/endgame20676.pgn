@@ -1,0 +1,10 @@
+[Event "tc06#433 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R7/P7/4p3/k6q/p5p1/4N3/P1KP4/8 w - - 0 1"]
+
+ 1. Rf8 $1 Qc5+ (1... Qh7+ 2. Rf5+ $1) 2. Nc4+ $1 Qxc4+ 3. Kd1 1-0  

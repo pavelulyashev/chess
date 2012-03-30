@@ -1,0 +1,10 @@
+[Event "2 Prize ws05 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1N6/3p1r1b/7p/P4P2/7K/4R3/8/7k w - - 0 1"]
+
+ 1. a6 Rxf5 (1... d6 2. Nc6 Rf8 3. a7 Ra8 4. f6) 2. a7 (2. Kg3 $2 Rg5+ 3. Kf2 Rg2+ 4. Kf3 Ra2) 2... Ra5 3. Kg3 (3. Nc6 $2 dxc6 4. Kg3 Rg5+ 5. Kf2 Rg2+ 6. Kf3 Rg8 7. Kf2 Kh2) (3. Na6 $2 Be4 $1 4. Rxe4 Rxa6 5. Kg3 Ra3+) 3... Rg5+ 4. Kf2 ( 4. Kf3 $2 Be4+ 5. Rxe4 Ra5 6. Kg3 Ra3+) 4... Rg2+ 5. Kf3 Ra2 (5... Be4+ 6. Rxe4 Ra2 7. Re1+ Kh2 8. Re2+) 6. Nc6 Ra1 (6... dxc6 7. Re1+ Kh2 8. Re2+) 7. Kg3 Rg1+ 8. Kf2 Rg2+ 9. Kf3 Ra2 10. Re1+ Kh2 11. Re2+ Rxe2 12. Kxe2 1-0  

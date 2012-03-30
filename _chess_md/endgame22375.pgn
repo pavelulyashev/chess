@@ -1,0 +1,10 @@
+[Event "tu18#1854 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/R7/8/8/4RK2/2p3pp/8 b - - 0 1"]
+
+ 1... Kb7 2. Rf6 g1=N+ 3. Kf2 $1 (3. Kg2 $2 c1=Q 4. Re7+ Qc7 5. Rff7 Qxe7 6. Rxe7+ Kb6 7. Kxh2 Nf3+) 3... h1=N+ 4. Kg2 c1=Q 5. Re7+ Qc7 6. Rff7 (6. Rfe6 $2 Nh3 $1 7. Kxh3 Nf2+ 8. Kg2 Nd3) 6... Qxe7 7. Rxe7+ Kc6 8. Re3 (8. Re6+ $2 Kd5 $1 9. Re3 Kd4 $1) 1-0  

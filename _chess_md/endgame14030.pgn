@@ -1,0 +1,10 @@
+[Event "1 Prize tb28#384 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/4R3/3K2P1/r7/8/6N1/4b3/8 w - - 0 1"]
+
+ 1. g7+ Kg8 2. Ne4 Ra6+ (2... Rf5 3. Ke6 Rf7 4. Nf6+ Kxg7 5. Rxf7+) 3. Ke5 Ra5+ 4. Kf4 $1 (4. Kf6 $2 Bh5 5. Rd7 Ra6+ 6. Nd6 (6. Kg5 Rg6+ 7. Kxh5 Rxg7) 6... Be8 7. Rd8 Kh7 $1) 4... Ra4 5. Kg5 Ra5+ 6. Kg6 Bh5+ 7. Kh6 Ra6+ (7... Rf5 8. Re6 $1 (8. Rc7 $2 Be8 9. Rc5 Rf4 10. Re5 Rh4+)) 8. Kxh5 Rg6 (8... Rh6+ 9. Kg4 $1 Rg6+ 10. Ng5 Rxg7 11. Re8#) 9. Ng5 (9. Kxg6 $2) 9... Rh6+ 10. Kg4 Rh4+ 11. Kf3 $1 Rf4+ 12. Ke3 $1 (12. Ke2 $2 Rf2+ 13. Ke1 Rf1+ 14. Kd2 Rd1+ 15. Kxd1) 12... Rf5 13. Ne6 1-0  

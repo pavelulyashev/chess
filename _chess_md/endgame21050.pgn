@@ -1,0 +1,10 @@
+[Event "1 Commendation, MatPlus 2009 {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Hlinka M, Kekely L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1R3n2/P1P2N2/P3R3/5b2/k1K5/8/3q4/8 w - - 0 1"]
+
+ 1. Rd6 (1. c8=Q $2 Bxe6+ 2. Qxe6 Nxe6 3. Rd8 Qc2+ 4. Kd5 Nxd8 5. a8=Q Qg2+ $19) 1... Be6+ 2. Kc5 (2. Rxe6 $2 Nxe6 3. Rd8 Qc2+ 4. Kd5 Nxc7+ 5. Kd6 Nb5+ 6. Ke6 Nxa7 $19) 2... Qc3+ 3. Kb6 Nd7+ $1 (3... Qb4+ 4. Kc6 Qe4+ 5. Kb6 Nd7+ 6. Rxd7 Qb4+ 7. Kc6 Qc4+ {etc..as main line, black only waste time}) 4. Rxd7 (4. Kb7 $2 Qf3+ 5. Rc6 Nc5+ 6. Ka8 Qxc6+ 7. Rb7 Nxa6 8. Nd8 Nxc7+ 9. Kb8 Na6+ $19) 4... Qb4+ 5. Kc6 Qc4+ 6. Kb7 $1 (6. Kd6 $2 Qd5+ 7. Ke7 Qxd7+ 8. Kf6 Qxf7+ 9. Ke5 Qxc7+ 10. Kxe6 Qxa7 $19) 6... Qb5+ 7. Ka8 Qc6+ 8. Rb7 Qxd7 9. Nd6 $1 Qxd6 10. c8=Q $1 Bxc8 11. Rb4+ $1 Ka5 (11... Ka3 12. Rb3+ (12. Ra4+ $11)) 12. Rb5+ Kxb5 {pat} (12... Kxa6 13. Rb6+ Kxb6 {stalemate}) 1/2-1/2  

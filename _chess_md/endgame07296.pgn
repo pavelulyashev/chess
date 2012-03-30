@@ -1,0 +1,10 @@
+[Event "2 Prize wm03 {tt} {m}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5B2/1P3N2/1kp5/1p2p3/8/1n1K4 w - - 0 1"]
+
+ 1. b6 Nc3+ 2. Bxc3+ Kxc3 3. b7 e2+ 4. Ke1 (4. Kxe2 $143 b2 5. b8=R Kc2 6. Nd4+ Kc1 7. Nb3+ cxb3 8. Rc8+ Kb1 9. Kd2 Ka1 10. Ra8+ Kb1 11. Kc3 Kc1 12. Re8 b1=N+ $11) 4... b2 5. b8=R (5. b8=Q $143 b1=Q+ 6. Qxb1 $11) 5... Kc2 6. Nd4+ Kc1 7. Nxe2+ Kc2 8. Nc3 Kxc3 9. Kd1 $18 1-0  

@@ -1,0 +1,10 @@
+[Event "1 Commendation, Kasparyan 100 MT {m}"]
+[Site "?"]
+[Date "2010.07.02"]
+[Round "?"]
+[White "Zhukov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/8/3p3p/2np3k/6R1/8/5PR1/2q3N1 w - - 0 0"]
+
+ 1. f3 $1 (1. R4g3 $2 Ne6+ $1 2. Ke7 Ng5 3. Rh2+ Kg6 $11) 1... Ne6+ $1 2. Kf7 ( 2. Ke7 $5 Ng5 3. Rxg5+ hxg5 $19) 2... Ng5+ 3. Rxg5+ Qxg5 (3... hxg5 4. Rh2#) 4. Rh2+ Qh4 5. Nh3 $1 d4 $1 6. Nf4+ Kg5 7. Ne6+ Kh5 8. Rg2 $18 1-0  

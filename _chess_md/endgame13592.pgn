@@ -1,0 +1,10 @@
+[Event "2 Prize tt27 {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Birnov Z"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P1k5/3p4/8/2K3Rb/8/2p5/8 w - - 0 1"]
+
+ 1. Rg7+ $1 (1. Rg1 $2 Bf2 2. Ra1 c1=Q+ 3. Rxc1 Bxa7) 1... Kb6 2. a8=N+ $1 Ka6 ( 2... Kc6 3. Rc7#) (2... Ka5 3. Ra7#) 3. Nc7+ Ka5 (3... Kb7 4. Ne6+ Kc6 5. Rg1) (3... Kb6 4. Nd5+ Ka6 5. Nb4+) 4. Rg1 Bg5 5. Rxg5+ $1 d5+ $1 6. Rxd5+ Ka4 (6... Kb6 7. Rb5+ Kxc7 8. Rc5+) 7. Nb5 $1 c1=Q+ 8. Nc3+ Ka3 9. Ra5+ Kb2 10. Ra2# 1-0  

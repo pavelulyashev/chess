@@ -1,0 +1,10 @@
+[Event "tl08 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Mouterde A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1q4kn/rp3ppp/p7/6Q1/3N4/B7/nPP4P/5R1K w - - 0 1"]
+
+ 1. Bf8 $1 Kxf8 (1... Ng6 2. Bxg7 Kxg7 (2... b5 3. Nf5 Qb7+ 4. Kg1 Qb6+ 5. Bd4 Qb8 6. Qf6 Qf8 7. Bc5 Re7 8. Bxe7) 3. Qf6+ Kg8 (3... Kh6 4. Nf5+ Kh5 5. h4 Nxh4 6. Qh6+ Kg4 7. Qxh4#) 4. Qxf7+ Kh8 5. Qf6+ Kg8 6. Nf5 $1 Qf8 7. Nh6+ $3 Qxh6 8. Qf7+ Kh8 9. Qe8+ Nf8 10. Rxf8+ Kg7 11. Qf7#) (1... Qxf8 2. Ne6 f6 (2... fxe6 3. Rxf8+ Kxf8 4. Qc5+) 3. Qg3 $1 Qe7 (3... Ra8 4. Nxf8 Rxf8 5. Qb3+) 4. Qb8+ Kf7 5. Re1 b5 6. Nd8+) (1... g6 2. Qf6 Qxf8 3. Ne6 Ra8 (3... Qh6 4. Qd8+) 4. Nxf8 Rxf8 5. Qb6) 2. Ne6+ Ke8 3. Nxg7+ Kd7 4. Rd1+ Kc6 (4... Qd6 5. Qg4+ f5 6. Rxd6+ Kxd6 7. Qd4+) 5. Qf6+ Kc5 6. Qe7+ Kc6 (6... Kc4 7. Qe4+ Kb5 8. Rd5+ Kb6 9. Qd4+ Kc6 10. Qc5#) 7. Nf5 b6 (7... b5 8. Rd6+ Qxd6 9. Qxd6+ Kb7 10. Ne7 Ra8 11. Qc6+ ) (7... Qc7 8. Rd6+ Qxd6 9. Qxd6+ Kb5 10. b3 Nc3 11. Qd3+) (7... Nb4 8. Nd4+ Kb6 9. Qxb4+ Kc7 10. Qe7+) 8. Nd4+ Kd5 9. Nb5+ Kc6 10. Nxa7+ Qxa7 11. Qxa7 1-0  

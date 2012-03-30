@@ -1,0 +1,10 @@
+[Event "ts23#783 {c} {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k5/5R2/n7/8/1pN5/1P2p3/1K2p3/8 w - - 0 1"]
+
+ 1. Nb6+ (1. Nd6+ $2 Kb8 2. Rf8+ Ka7) 1... Kd8 (1... Kb8 2. Nd7+ Ka8 (2... Kc7 3. Nc5+) 3. Nb6+) 2. Rf8+ Ke7 (2... Kc7 3. Rc8+ (3. Nd5+ $2 Kd6 4. Rd8+ Kc5) 3... Kxb6 4. Rc1 Nc5 5. Kc2) 3. Rf3 e1=Q 4. Rxe3+ Qxe3 5. Nd5+ 1/2-1/2  

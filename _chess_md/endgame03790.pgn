@@ -1,0 +1,10 @@
+[Event "2 Prize wk03 {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5b2/8/5B2/5p2/1p6/4pK2/B1pN4/6k1 w - - 0 1"]
+
+ 1. Nb3 Kf1 2. Nc1 b3 3. Bxb3 Ba3 4. Bc4+ Ke1 5. Be2 $1 5... Bxc1 6. Be7 $3 (6. Bd8 $2 6... f4 7. Be7 7... Ba3 $3 8. Bxa3 c1=Q 9. Bxc1) 6... f4 7. Bd8 $1 7... Bb2 (7... Kd2 8. Ba5#) (7... Bd2 8. Bh4#) 8. Ba5+ 1-0  

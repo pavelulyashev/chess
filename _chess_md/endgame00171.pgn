@@ -1,0 +1,10 @@
+[Event "France-йchecs {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Iglesias J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2R5/8/b7/8/8/p6K/P3pRpp/7k w - - 0 1"]
+
+ 1. Rc1+ e1=Q 2. Rxe1+ Bf1 3. Rfxf1+ (3. Rexf1+ $143 g1=N+ 4. Kg4 $11 {pat}) (3. Rb1 $143 g1=B+ $11) 3... g1=N+ 4. Kg4 Kg2 5. Rf5 h1=Q 6. Rh5 $18 1-0  

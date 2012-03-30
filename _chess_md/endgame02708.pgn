@@ -1,0 +1,10 @@
+[Event "MT Schneider {m}"]
+[Site "?"]
+[Date "2006.05.22"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5n2/7k/5p1n/5N2/4q3/6P1/Q6K w - - 0 1"]
+
+ 1. Qa6+ Kg5 2. Nh3+ (2. Ne6+ $5 Kg4 $19) 2... Kg4 3. Qc4+ Nf4 4. Qxf7 (4. Nxf4 $5 Ne5 $19) 4... Qe1+ 5. Ng1 (5. Kh2 $5 Qg3+ $19) 5... Qh4+ 6. Nh3 Nxh3 7. gxh3+ Kxh3 8. Qb3+ $1 (8. Kg1 $5 Qe1#) (8. Qxf5+ $5 Kg3+ 9. Kg1 Qd4+ 10. Kf1 Qd1#) 8... Qg3 9. Qe3 $1 Qxe3 {stalemate} 1/2-1/2  

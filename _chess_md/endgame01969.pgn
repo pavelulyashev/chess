@@ -1,0 +1,10 @@
+[Event "2nd spec. prize, NONA 2008 JT {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6K1/2b2p2/5P2/1q2n2k/1p6/1Q1R4/8/8 w - - 0 1"]
+
+ 1. Rd4 $1 (1. Rh3+ $2 Kg5 $1 (1... Kg6 $2 2. Qc2+ Kxf6 3. Qxc7 {=}) (1... Kg4 $2 2. Rh6 Kg5 3. Qe3+ Kf5 4. Qh3+ Ke4 5. Rh4+ Kd5 6. Qb3+ Kc5 7. Qe3+ Kc6 8. Qe4+ Kd7 9. Qxb4 {=}) 2. Kg7 Ng4 {(Qc5) -+}) (1. Rd1 $2 Kh6 $1 2. Rh1+ Kg5 3. Kg7 Ng4 4. Qxf7 Be5 5. Rh5+ Kf4 6. Qe6 Qd3 {-+}) (1. Rd2 $2 Kh6 $1 2. Qh3+ Kg6 3. Qh7+ Kxf6 4. Qh6+ Kf5 5. Rf2+ Ke4 6. Qh1+ Kd4 7. Rd2+ Nd3 {-+}) 1... Kh6 ( 1... Qb6 2. Qh3+ Kg6 3. Qh7+ {(Qg3+)} Kxf6 4. Qh4+ Ke6 5. Kg7 {=}) (1... Qc6 2. Qg3 Ng6 3. Qh3+ Kg5 4. Rg4+ Kxf6 5. Qf1+ Ke5 6. Qxf7 {=}) (1... Qb7 2. Qg3 Ng6 3. Qh3+ Kg5 4. Rg4+ Kxf6 5. Qf1+ Bf4 6. Rxf4+ Nxf4 7. Qxf4+ {=}) 2. Qxb4 $1 (2. Rh4+ $2 Kg6 $1 (2... Kg5 $2 3. Rxb4 Qc6 4. Qg3+ Kxf6 5. Rf4+ Ke7 6. Qg5+ Ke8 7. Qg7 {=}) 3. Qc2+ Qd3 $1 (3... Kg5 $2 4. Rd4 Qc6 5. Qxc6 Nxc6 6. Rd7 {=}) 4. Qxc7 Qg3 $1 5. Rc4 (5. Rh7 Kxf6+ 6. Kf8 Ng6+ {-+}) 5... Kxf6+ 6. Kf8 Qg7+ 7. Ke8 Qg8#) (2. Qe3+ $2 Kg6 3. Qe4+ {(Qg3+)} Kxf6 4. Qh4+ Ke6 5. Qh6+ Ng6 6. Qe3+ Kf6 7. Qf3+ Bf4 8. Rxf4+ Nxf4 9. Qxf4+ Qf5 10. Qd6+ Qe6 11. Qf4+ Kg6 {-+}) 2... Qe8+ {main C} ({Main A)} 2... Qxb4 3. Rxb4 Kg6 4. Rb7 Ba5 5. Rb5 Bc7 (5... Bc3 6. Rc5 Bd4 7. Rd5 {=}) 6. Rb7 (6. Rc5 $2 Bb8 7. Rb5 Nd7 8. Rb7 Nxf6+ 9. Kh8 Be5 10. Rxf7 Ng4+ 11. Kg8 Nh6+ {-+}) 6... Bd8 7. Rb8 Bc7 (7... Bxf6 8. Rb6 {=}) 8. Rb7 Bd6 9. Rxf7 $1 Nxf7 {stalemate}) 3. Qf8+ Qxf8+ 4. Kxf8 Kg6 5. Ke8 $1 (5. Rd5 $2 Nf3 6. Rd1 (6. Ke7 Be5 {-+}) (6. Ke8 Bf4 {-+}) (6. Rd3 Ng5 {-+}) 6... Bf4 {(Bb6) -+}) 5... Kxf6 6. Rd5 {zz} Bb8 7. Rd8 (7. Rb5 $2 Bd6 {-+}) 7... Ba7 8. Rd5 Bb8 9. Rd8 Bc7 10. Rd5 Ke6 11. Rd7 $1 Nxd7 {stalemate} ({Main B} 11... Bd6 12. Rxf7 $1 Nxf7 {stalemate. The author has found an interesting position of connection of three known stalemates. Such synthesis is not easy to realize. }) 1/2-1/2  

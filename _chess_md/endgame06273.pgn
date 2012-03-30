@@ -1,0 +1,10 @@
+[Event "tt22#039 @3 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4k3/2n5/5P2/7N/4pp1R/6PK/4p3/8 w - - 0 1"]
+
+ 1. f7+ (1. Nxf4 $2 1... e1=Q 2. f7+ Kf8 3. Rh8+ Kxf7 4. Rh7+ Kf6 5. Rxc7 Qh1+ 6. Kg4 Qf3+ 7. Kh3 e3) 1... Kf8 $1 2. Nxf4 e1=Q 3. Rh7 $3 3... Qh1+ (3... Qf1+ 4. Kg4 Qa6 5. Kh5 $1 5... Qa5+ $1 6. Kh6 Qd2 7. Kh5) 4. Kg4 Qxh7 (4... Qf3+ 5. Kh4 $1 5... Qh1+) 5. Ne6+ Ke7 (5... Nxe6) (5... Kxf7 $1 6. Ng5+ Kg7 7. Nxh7 7... Ne6 $3) 6. f8=Q+ Kxe6 7. Qh6+ $1 7... Qxh6 1/2-1/2  

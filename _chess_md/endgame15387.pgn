@@ -1,0 +1,10 @@
+[Event "tb10 {cr} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Bent C"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K1n3B1/8/3k4/1P6/P7/8/8/3b4 b - - 0 1"]
+
+ 1... Kc7 2. b6+ (2. Bd5 $2 Nb6+ 3. Ka7 Nxd5 4. a5 Ne7 5. b6+ Kd8 $1 6. b7 (6. a6 Nc8+ 7. Kb7 Bf3+) 6... Nc6+ 7. Kb6 Nb8 8. a6 Nd7+ 9. Kc6 Be2 10. a7 Bf3+) 2... Nxb6+ 3. Ka7 Nc8+ 4. Ka6 Be2+ 5. Ka5 Ne7 6. Bd5 $1 Nxd5 1/2-1/2  

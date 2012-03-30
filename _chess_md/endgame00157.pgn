@@ -1,0 +1,10 @@
+[Event "tc32 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Cheron A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r1Q5/P1p2p2/5P1p/2p2K1k/2n1nR2/8/8/7b w - - 0 1"]
+
+ 1. Rh4+ $1 Kxh4 2. Qxa8 $3 Ng3+ 3. Kf4 Nh5+ 4. Kf5 Nd6+ 5. Ke5 Nc4+ 6. Kf5 Ne3+ 7. Ke5 Ng4+ 8. Kf5 Ng3+ 9. Kf4 Ne2+ 10. Kf5 Nd4+ 11. Kf4 Ne6+ 12. Kf5 Ne3+ 13. Ke5 Nc4+ 14. Kf5 Nd6+ 15. Ke5 Nc4+ 16. Kf5 Nd4+ 17. Kf4 Ne2+ 18. Kf5 Nd6+ 19. Ke5 Nc4+ 20. Kf5 Ne3+ 21. Ke5 Ng4+ 22. Kf5 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "ts04#149 @2 {m}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/4k3/8/4pppP/8/5P2/6K1/8 w - - 0 1"]
+
+ 1. h6 Kf6 (1... Kf7 2. Bd5+ Kg6 3. Be6 e4 4. Bxf5+) (1... Kf8 2. Bd5) 2. Bc6 ( 2. Bd5 $2 g4 $1 3. fxg4 fxg4 4. Be4 Kf7 5. Bh7 Kf6) 2... e4 (2... Kg6 3. Bd7) ( 2... g4 {main} 3. fxg4 (3. Be8 $1 {cook} gxf3+ 4. Kxf3) 3... fxg4 4. Be8 e4 5. Kf2) 3. fxe4 (3. Be8 $1 {cook} exf3+ 4. Kxf3) 3... fxe4 4. Bxe4 Kf7 5. Bh7 Kf6 6. Kf3 Kf7 7. Kg4 Kf6 8. Kh5 1-0  

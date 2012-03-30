@@ -1,0 +1,10 @@
+[Event "td19#048 {v} @2 {m}"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Sackmann F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/8/7k/b7/1p6/8/3R4/8 w - - 0 1"]
+
+ 1. Rd6+ Kh7 2. Ra6 (2. Rd5 $1 {cook FS} Bb6 3. Rd7+ Kh8 4. Kf7) 2... Bd8 3. Rd6 Ba5 (3... Bg5 4. Kf7) 4. Rd5 (4. Kf7 $2 Bc7) 4... Bb6 5. Kf7 1-0  

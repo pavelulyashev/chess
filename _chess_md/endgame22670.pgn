@@ -1,0 +1,10 @@
+[Event "tt20#653 {m}"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Osintsev S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N4k1/3P4/3p2K1/8/4p1R1/8/2b2n2 w - - 0 1"]
+
+ 1. Rg2 e2+ 2. Kh5+ (2. Kf5+ $2 Kh6 3. Rxe2 Ng3+ 4. Kg4 Nxe2 5. d7 Bg5) 2... Kf7 3. Rf2+ Kg7 4. Rxe2 Ng3+ 5. Kg4 (5. Kh4 $2 Nxe2 6. d7 Bb2 7. d8=Q Bf6+) 5... Nxe2 6. d7 Bg5 7. Kxg5 Nd4 8. Nd8 $3 Kf8 (8... Nb5 9. Ne6+) 9. Kf6 Kg8 10. Ke5 Kf8 11. Ne6+ 1-0  

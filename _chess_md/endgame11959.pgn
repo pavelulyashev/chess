@@ -1,0 +1,10 @@
+[Event "tp21#392 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Jamnicki B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r3k2r/qpp3pp/2p1P3/bp2Q3/2p5/P1P5/nP1P1PP1/4K2R w Kk - 0 1"]
+
+ 1.O-O Rf8 (1...Qc5 2.Qxc5 (2.Qxg7 $2 Qe7) 2...Rd8 3.Qe5 Rd6 4.Qxg7 Rf8 5.Re1 Bb6 6.e7 Rxf2 7.Kh1) 2.Qxg7 Rd8 3.e7 Rxf2 (3...Rf5 4.exd8=Q+ Kxd8 5.Qg8+ Kd7 6.Qxh7+ Ke6 7.Re1+ Kf6 8.Qe7+ Kg6 9.Re6+) 4.Rxf2   1-0  

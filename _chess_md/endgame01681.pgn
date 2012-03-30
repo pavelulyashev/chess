@@ -1,0 +1,10 @@
+[Event "1 Prize Dagestaner Committee Fizkultura i S {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3N4/n5Pk/q2NP3/ppp5/8/2K5/1P6/8 w - - 0 1"]
+
+ 1. e7 b4+ 2. Kb3 (2. Kc2 Qe2+ $19) (2. Kd2 $143 Qxd6+ $19) 2... a4+ 3. Ka2 b3+ 4. Ka3 Nb5+ (4... Qxd6 $144 5. g8=Q+ Kxg8 6. e8=Q+ $11) 5. Nxb5 Qxb5 6. Nc6 $3 Qe2 (6... Qxc6 $144 7. g8=Q+ Kxg8 8. e8=Q+ Qxe8 $11) 7. Ne5 $1 Qh5 (7... Qxe5 $144 8. g8=Q+ Kxg8 9. e8=Q+ Qxe8 $11) 8. Ng6 $1 (8. Nf7 $143 Qg4 $1 9. g8=Q+ Qxg8 10. Nd6 Qb8 $19) 8... Qe2 9. Ne5 Qb5 10. Nc6 $11 1/2-1/2  

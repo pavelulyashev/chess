@@ -1,0 +1,10 @@
+[Event "2 Prize wq02 te01 {tt} {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4R2K/3qb1p1/2p3kP/2P1p1p1/4p3/4P2P/2P5/6Q1 w - - 0 1"]
+
+ 1. Rg8 (1. hxg7 $2 Qxh3+) 1... Kxh6 (1... Bf8 2. Qf1) 2. Qg4 $1 (2. h4 $2 g4) 2... Qxg4 3. hxg4 Bf8 $1 4. c3 $1 (4. c4 $2 g6 5. Rg7 Bxg7+ 6. Kg8 Bf6 7. Kf7 Bd8 8. Ke6 Ba5 9. Kd6 Bd2) 4... g6 5. Rg7 $1 Bxg7+ 6. Kg8 Bf6 7. Kf7 $1 (7. Kf8 $2 Kh7 $1) 7... Bd8 8. Ke6 Ba5 9. Kd6 Bxc3 10. Kxc6 Bd4 11. Kb5 Bxe3 12. c6 Bb6 13. Kxb6 e3 14. c7 e2 15. c8=Q e1=Q 16. Qh8# 1-0  

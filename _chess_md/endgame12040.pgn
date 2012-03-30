@@ -1,0 +1,10 @@
+[Event "ts10#09623 {c} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Novikov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k3r/8/5K1B/1P2p2b/8/8/2R5/7n w - - 0 1"]
+
+ 1. Bg5 $1 Rg8 (1... Re8 2. Rc5 e4 (2... Nf2 3. Rxe5 Ne4+ (3... Ng4+ 4. Kf5+) 4. Kf5+ Nxg5 5. Rxe8+) 3. Bh4 Bf3 4. Kf7+ Kd7 5. Rd5+) 2. Rh2 (2. b6 $2 Kd7 3. b7 (3. Be3 Re8 4. b7 Bf3 5. Bb6 Ng3) 3... Rg6+ 4. Kf5 Ng3+) 2... Bf3 3. Kxe5+ Rxg5+ 4. Kf4 Rh5 5. Rd2+ Rd5 6. Rh2 Rd3 7. Rh3 Be4 8. Rh8+ 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "td20#322 {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q5r1/3p4/1pb3r1/N1p3B1/kpP4p/1R5P/KP2p1Q1/8 w - - 0 1"]
+
+ 1. Nb7 $1 (1. Bd2 $2 Rg3 $1) (1. Qf3 $2 Kxa5 2. Ra3+ Ba4 $1) (1. Qxe2 $2 Kxa5 $1) (1. Nxc6 $2 Qxc6 2. Bd2 (2. Qxe2 Ka5) 2... Rg3) 1... Bxb7 (1... Qxb7 2. Qf3 Ka5 3. Ra3+ Ba4 4. Qxb7 b3+ 5. Rxb3 Bxb3+ 6. Kxb3) (1... Rxg5 2. Qxe2 Rg3 (2... Qxb7 3. Ra3+) 3. Qc2) 2. Qf3 Bxf3 3. Bd2 e1=Q 4. Ra3+ bxa3 5. b3# 1-0  

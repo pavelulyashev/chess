@@ -1,0 +1,10 @@
+[Event "ts70#2021 @2 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Vandiest J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4k3/2P5/1K6/2B1p3/2p5/8/8 w - - 0 1"]
+
+ 1. c7 (1. Bb3 $2 e3 2. c7 e2 3. c8=Q e1=Q 4. Qc7+ Kf6 5. Qf7+ Kg5) 1... c2 2. c8=Q c1=Q 3. Qe6+ (3. Qc7+ Kf6) 3... Kd8 4. Qf6+ (4. Kc6 $8 Qd2 5. Qg8+) 4... Kc8 (4... Ke8 $1 5. Bf7+ Kd7 6. Be6+ Kd6 (6... Kc7 7. Qe7+ Kb8 8. Qd8+ Kb7 9. Qb6+) 7. Bf5+ Kd5 (7... Kc7 8. Qb6# $2) 8. Qe6+ Kd4 9. Qxe4+ Kc3 10. Qb4# {#}) (4... Kd7 {#} 5. Be6+) 5. Be6+ Kb7 6. Qe7+ Qc7 7. Bd5+ Kb8 $2 (7... Kc8 8. Qe8+ Qd8 9. Be6+ Kc7 10. Qc6+ Kb8 11. Bd5 Qe7 12. Qb6+ Kc8 13. Be6+) 8. Qf8+ $1 Qc8 9. Qb4 $1 Qd7+ (9... Ka7 $1 10. Qa5+ Kb8 11. Qb6+) (9... Kc7 10. Qc5+ Kd8 11. Qf8+ Kc7 12. Qf4+ Kd8 13. Qf6+ Kc7 14. Qb6+ Kd7 15. Be6+) (9... Qf5 10. Qd6+ Kc8 11. Kc6 $2) (9... Qe8+ 10. Kc5+ Kc8 11. Qb7+ Kd8 12. Qb8+ Ke7 13. Qd6# $1) (9... Qc7 10. Ka6+ Kc8 11. Be6+ Kd8 12. Qf8# {#}) 10. Kb6 {#} Kc8 $1 (10... Qa7+ 11. Kc6+ Ka8 12. Kd6+) (10... Qc7+ 11. Ka6+ Kc8 12. Be6+ Kd8 13. Qf8# $1) 11. Qc5+ Kd8 12. Qf8+ Qe8 13. Qd6+ Qd7 14. Qb8+ Qc8 15. Qe5 {#} Qd7 (15... Qg4 16. Qf6+ Kc8 17. Be6+) (15... Qc2 16. Qf6+ Kc8 17. Be6+ Kb8 18. Qd8+) 16. Be6 $1 (16. Bc6 Qf7 $1) 16... Qa4 17. Qf6+ Ke8 18. Qf7+ Kd8 19. Qf8+ Qe8 20. Qd6+ 1-0  

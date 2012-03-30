@@ -1,0 +1,10 @@
+[Event "Hlinka JT_50_4thPr {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Akobia Y, Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k6K/p7/8/8/4p3/r1R5/3R1p2/8 w - - 0 1"]
+
+ 1. Rc7 $1 (1. Rc8+ $2 Kb7 2. Rc1 e3 3. Rb2+ Ka6 $1) 1... Rh3+ 2. Kg7 Rg3+ 3. Kh6 Rh3+ 4. Kg5 Rg3+ 5. Kh4 Rh3+ $1 6. Kg4 $1 (6. Kxh3 $2 f1=Q+) 6... Rg3+ $1 7. Kxg3 f1=N+ $1 8. Kf2 (8. Kf4) 8... Nxd2 9. Ke3 Nb3 (9... Nb1 10. Kxe4 Na3 11. Kd5) (9... Nf1+ 10. Kxe4 Nd2+ 11. Ke3 Nb1 12. Kd4 $18) 10. Rc3 $1 (10. Kxe4 $2 a6 $1 11. Kd5 Kb8) 10... Na5 11. Rc5 $1 Nb7 (11... Nb3 12. Rb5 Nc1 13. Kxe4 Ne2 14. Rb3 a5 15. Re3 Nc1 16. Ra3 Ka7 17. Ke3 $18) 12. Rc8# 1-0  

@@ -1,0 +1,10 @@
+[Event "us50 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Neustadtl H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1kPN1pp1/3pP2B/8/7K/8/r7/8 w - - 0 1"]
+
+ 1. Nb6 $1 Kxc7 (1... Rc2 2. exf7 Rh2+ 3. Kg3) 2. Nd5+ Kd8 (2... Kb7 3. exf7 Rf2 4. Nf4 $1) 3. exf7 Rf2 4. Bg5+ Kd7 5. Nf6+ $1 gxf6 6. Bh6 Rh2+ 7. Kg3 1-0  

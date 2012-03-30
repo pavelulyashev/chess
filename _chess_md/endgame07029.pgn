@@ -1,0 +1,10 @@
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1888.??.??"]
+[Round "?"]
+[White "Steinitz W"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/p7/Pr6/5P1k/R6P/4K3 w - - 0 1"]
+
+ 1. Kf2 $1 Kxh2 2. Ra1 Rb3 (2... Rc4 3. Ke3 Kg3 4. Rg1+ Kh3 5. f4 $1 Rxa4 6. f5 Rb4 7. f6 Rb8 8. Kf4) 3. Re1 Ra3 4. Re4 Kh3 5. Rg4 Ra2+ 6. Ke3 Ra3+ 7. Ke2 Ra2+ 8. Kd3 Ra3+ 9. Kc2 Rxf3 10. Rg5 Rf4 11. Rxa5 Kg4 12. Ra8 $1 Kg5 13. a5 Kf6 14. a6 Ra4 $1 15. Kd3 $1 1-0  

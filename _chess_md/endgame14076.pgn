@@ -1,0 +1,10 @@
+[Event "1 Prize tr11 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1b6/8/1K6/R7/4p3/8/4rP2/2k5 w - - 0 1"]
+
+ 1. Kc5 (1. Ra4 $2 Bg3 2. fxg3 e3 3. g4 Rb2+ 4. Kc6 e2 5. Re4 Rd2 6. g5 Kd1) 1... Rxf2 2. Kd4 Rf4 (2... Re2 {main} 3. Kc3 Rc2+ 4. Kd4 Re2 5. Kc3 Re3+ (5... Kb1 6. Rb5+) 6. Kd4 Re2 (6... Re1 7. Ra1+) 7. Kc3) 3. Ke3 (3. Kc3 $2 Kd1) (3. Ra2 $2 Rh4 4. Ke3 Bd6 5. Ra5 Bf4+) (3. Ra1+ $2 Kd2 4. Ra2+ Kd1 5. Ke3 Rh4 6. Rd2+ Kc1 7. Rd7 Bh2) 3... Rh4 4. Rc5+ Kd1 5. Rd5+ Ke1 6. Rd4 Ba7 1/2-1/2  

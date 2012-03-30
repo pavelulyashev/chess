@@ -1,0 +1,10 @@
+[Event "ARVES Solving 2002 {m}"]
+[Site "?"]
+[Date "2002.11.17"]
+[Round "?"]
+[White "Heuacker P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1n1K48p1R5k7N74p388 w - - 0 1"]
+
+ 1. Rc4! (1. Re6? Kxa4 2. Kc7 Kb4 3. Kxb8 a5 4. Kb7 a4 5. Kb6 a3 6. Re4+ Kc3 7. Rxe3+ Kb2) {only draws} 1... e2 2. Nb2!! (2. Re4 e1=Q 3. Rxe1 Kxa4 4. Kc7 a5 5. Kxb8 Kb3) {again only draws} 2... e1=Q (2... Nc6+ 3. Kc7 e1=Q 4. Rc5+ Kb4 5. Nd3+) {is also not good enough for Black} 3. Rc5+ Kb6 (3... Kb4 4. Nd3+) {also wins for White} 4. Na4+ Kb7 5. Rc7+ Ka8 6. Nb6# 1-0  

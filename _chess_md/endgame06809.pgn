@@ -1,0 +1,10 @@
+[Event "2 Prize Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/2N5/1P6/8/k7/6Rp/3p4/3r4 w - - 0 1"]
+
+ 1. Rg4+ $1 (1. b7 $2 Rb1 2. Rg4+ Ka3 $1) 1... Ka5 $1 (1... Ka3 2. Nb5+) 2. b7 Rb1 3. Rg5+ Ka4 4. Nb5 $1 (4. Rb5 $2 d1=Q) 4... Rxb5 $1 (4... d1=Q 5. Nc3+ Ka3 6. Nxb1+ Qxb1 7. Ra5+) 5. Rxb5 d1=Q (5... Kxb5 6. b8=Q+ Kc4 7. Qc8+ Kd4 8. Qc2 Ke3 9. Qd1 h2 10. Qh1 $1) 6. b8=Q Qg1+ $1 (6... h2 7. Qe8 $1) (6... Qg4+ 7. Kf8 Qf3+ 8. Ke7 h2 (8... Qa3+ 9. Ke8 h2 10. Qb6) 9. Qe8 h1=Q 10. Rb7+ $1 Qc6 11. Qa8+) 7. Kh7 $1 h2 8. Rb4+ Ka3 9. Rb3+ Ka2 10. Rb2+ Ka1 11. Qh8 $1 h1=Q+ 12. Rh2+ Kb1 13. Qb2# 1-0  

@@ -1,0 +1,10 @@
+[Event "tc36#207 {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Cumpe J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/b6Q/8/2q1k2p/2b1B1P1/3P1K2/8/8 w - - 0 1"]
+
+ 1. d4+ Qxd4 (1... Kxd4 2. Qg7+ Qe5 3. Qxa7+ Kc3 (3... Qc5 4. Qa1#) 4. Qa1+) 2. Qe7+ Be6 3. Qc7+ Kf6 (3... Qd6 4. Qg7#) 4. g5+ Kxg5 5. Qf4# 1-0  

@@ -1,0 +1,10 @@
+[Event "jp01 @3 {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2N5/4p3/2p1P3/2P5/k4p2/B7/1K6 w - - 0 1"]
+
+ 1. Nb5+ Kb4 2. Na3 Kxa3 3. Ka1 f2 (3... Kb4 4. Bb1 Kxc4 5. Be4 f2 6. Bg2 Kd4 7. Kb2 Kxe5 8. Kc3 Kf4 9. Kc4 e5 10. Kxc5 e4 11. Kd4 e3 12. Kd3) 4. Bb1 f1=Q (4... f1=B $1 {cook GH/GJ} 5. Bd3 Bh3 6. Kb1 Kb3 7. Kc1 Kc3 8. Be2 Bf5 9. Bf1 Bd3 10. Bg2 Bxc4 11. Bf3 Kd4 12. Kd2 Bb3 13. Bh5 c4) 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "500 Endspielstudien {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/8/n1P5/5p2/7P/5K1P/8/7n w - - 0 1"]
+
+ 1. Kf4 $1 (1. Kg2 $2 1... Nc7 2. Kxh1 Ne6 3. Kg2 Kg7 4. Kf3 Kg6 5. Kg3 Kf6 6. Kf3 Nd4+) (1. h5 $2 1... Kg7 2. Kf4 Kf6 3. h6 Nb4 4. h7 Nd5+ 5. Kf3 Kg7 6. c7 Nxc7 7. Kf4 Ng3 8. Kxg3 Ne6) 1... Nb4 $1 (1... Nf2 2. Kxf5 Nd3 3. Ke6 $1 3... Ndb4 4. Kd6) 2. c7 $3 (2. Kxf5 $2 2... Nxc6 3. Kf4 Nf2 4. Ke3 Nd1+ 5. Kd2 Nb2 6. Kc3 Na4+ 7. Kc4 Nd8 8. Kb4 Nb6 9. Kc5 Nc8) 2... Nd5+ 3. Kxf5 Nxc7 4. Kf4 4... Nf2 $1 5. Ke3 Nd1+ (5... Nxh3 6. h5) 6. Kd2 Nb2 7. Kc3 Na4+ 8. Kb4 Nb6 9. Kc5 $1 9... Na4+ (9... Nbd5 10. Kc6) (9... Ncd5 10. Kc6) 1/2-1/2  

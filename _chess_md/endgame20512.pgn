@@ -1,0 +1,10 @@
+[Event "ts01#060 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/2P5/6k1/8/3K4/1rP3r1/7R w - - 0 1"]
+
+ 1. c7 (1. Rg1 $2 Rxg1 2. c7 Rg3+ 3. Kd2 Rg2+ 4. Kd3 Rbxc2) 1... Rgxc2 (1... Rbxc2 2. Rg1) (1... Rg3+ 2. Kd2 Rg2+ 3. Kd3) 2. Rh2 $1 (2. Rb1 $2 Ra2 3. Ra1 Rxa1 4. Kxc2 Ra8) 2... Rxh2 3. c8=Q 1/2-1/2  

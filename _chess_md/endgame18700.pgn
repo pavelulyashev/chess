@@ -1,0 +1,10 @@
+[Event "3 Prize, t001#452 {c} {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/3P1rN1/PP1r4/8/k1P5/8/8/8 w - - 0 1"]
+
+ 1. Ne6 $1 Rfxd7 (1... Rf6 2. a7 (2. c5 $2 Rxd7 3. c6 Re7 4. c7 Rfxe6 5. c8=Q Re8 6. b7 Rxa6+ 7. Kb8) 2... Rfxe6 3. b7 Rxd7 4. b8=Q Ree7 5. Qb5+ Ka3 6. Qxd7 $1 Rxd7 7. c5) 2. Nc5+ Ka5 3. Nxd7 Rxd7 (3... Kxa6 4. b7 Rxd7 5. b8=N+) 4. b7 Rd8+ 5. b8=R $1 (5. b8=Q $2 Kxa6 6. Qxd8) (5. Ka7 $2 Rd6 6. b8=N Kb4 7. Kb7 Rxa6) 5... Rd7 (5... Rxb8+ 6. Kxb8 Kxa6 7. Kc7) 6. Rb7 Rd8+ 7. Ka7 Rc8 8. Rb5+ Ka4 9. Kb7 1-0  

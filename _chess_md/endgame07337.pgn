@@ -1,0 +1,10 @@
+[Event "tl28#16 {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Lazard F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R7/4p1pq/4Ppp1/8/p2N1K1k/1p6/6P1/8 w - - 0 1"]
+
+ 1. Nf3+ Kh5 2. g4+ Kh6 3. Ng5 fxg5+ 4. Ke5 b2 (4... a3 $144 5. Rxa3 Qh8 6. Rxb3 Kh7 7. Rh3+ Kg8 8. Rxh8+ Kxh8 9. Kd5 Kg8 10. Kc6 Kf8 11. Kd7 Kg8 12. Kxe7 $18) 5. Rb8 Qg8 (5... a3 $144 6. Rb3 $18) 6. Rxb2 $18 (6. Rxg8 $143 Kh7 7. Rb8 a3 $19) 1-0  

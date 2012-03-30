@@ -1,0 +1,10 @@
+[Event "tm05#576 @2 {m}"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7P/1B6/8/2K5/k3pN2/3b1p2/8 w - - 0 1"]
+
+ 1. Nh2 f1=Q+ (1... e2 2. Bxf2) 2. Nxf1 e2 3. Nxd2 (3. Ne3 $1 {cook}) 3... e1=Q 4. h8=Q Qxd2 5. Qa8+ (5. Bc5+ $2 Ka2 6. Qa8+ Kb1 7. Qb7+ Kc1) 5... Kb2 6. Bd4+ Kc1 7. Qh1+ (7. Qa1+ $2 Kc2) 7... Qd1 8. Be3+ Kc2 9. Qe4+ (9. Qg2+ $1 {cook} Kb1 10. Qb7+ Ka2 11. Qa6+ Kb1 12. Qb5+ Ka2 13. Kc3 $1 Qa1+ 14. Kc2 $1) 9... Kb2 10. Bd4+ Kc1 11. Qf4+ Kc2 12. Qf2+ Qd2 13. Qf3 1-0  

@@ -1,0 +1,10 @@
+[Event "2 Prize mb09 tl10#036 {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Lazard F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "q7/8/2p5/B2p2pp/5pp1/2N3k1/6P1/7K w - - 0 1"]
+
+ 1. Ne4+ $1 Kh4 (1... dxe4 $143 2. Be1#) 2. Ng3 $3 Qf8 (2... fxg3 $144 3. Bb6 $11) 3. Be1 $1 fxg3 4. Bf2 $3 d4 (4... Qa3 $144 5. Bd4 c5 6. Bxc5 $11) 5. Bxd4 c5 6. Bxc5 Qf1+ 7. Bg1 Qf2 8. Bxf2 gxf2 9. g3+ Kxg3 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tc36#194 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Vancura J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1kr5/4P1Pp/8/8/8/B7/7K/8 w - - 0 1"]
+
+ 1. e8=Q Rxe8 2. Bf8 Re2+ 3. Kh3 $1 (3. Kg3 $2 Re6 4. g8=Q Rg6+ 5. Qxg6 hxg6) 3... Re3+ 4. Kh4 Re4+ 5. Kh5 Re5+ 6. Kh6 Re1 7. Bc5 $1 (7. g8=Q $2 Rh1+ 8. Kg7 Rg1+) 7... Re8 8. Kxh7 Rd8 9. Be7 $1 (9. Bf8 $2 Rd7) 9... Rc8 10. Bf8 Rc7 11. Bd6 1-0  

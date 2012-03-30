@@ -1,0 +1,10 @@
+[Event "ts22#519 {c} {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2B5/8/7k/2K4b/1P6/8 w - - 0 1"]
+
+ 1. b4 Bf1 (1... Kg5 2. b5 Kf6 3. b6 Bc8 4. Kb4 Ke7 5. Kb5 Kd6 6. Bf3 Ke7 7. Kc6 Kd8 8. Be2) 2. Bd5 Kg5 3. Bc4 Bh3 (3... Bg2 4. b5 Kf6 5. Kb4 $1 Ke7 6. Ka5) 4. b5 Kf6 5. b6 Bc8 (5... Bg2 6. Kd4 Ke7 7. Bd5) 6. Kd4 Ke7 7. Kc5 Kd7 8. Bb5+ $1 Kd8 9. Kc6 $1 (9. Kd6 $2 Bb7 10. Bd7 Bf3 11. Be6 Bb7 $1) 9... Bd7+ 10. Kd6 Bc8 11. Bc4 $1 Bb7 12. Be6 1-0  

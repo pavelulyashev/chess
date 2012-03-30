@@ -1,0 +1,10 @@
+[Event "2 Prize FIDE Ty {m} {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/1k6/2N5/7B/5B2/8/1p4p1/3K4 w - - 0 1"]
+
+ 1. Na5+ $1 Ka6 2. Nc7+ Kxa5 3. Bd2+ Ka4 4. Be8+ Kb3 (4... Ka3 $144 5. Nb5+ Ka2 6. Nc3+ Ka1 7. Be3 b1=Q+ 8. Nxb1 Kxb1 9. Bd4 $18) 5. Bf7+ Ka4 6. Kc2 b1=Q+ 7. Kxb1 g1=Q+ 8. Ka2 Qg8 9. Bd5 $1 Qf7 10. Ne6 Kb5 11. Nd4+ Ka4 12. Bb3+ Qxb3+ 13. Nxb3 $18 1-0  

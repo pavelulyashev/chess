@@ -1,0 +1,10 @@
+[Event "Schach {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Minski M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N2K/5k2/3P1P1b/6P1/8/8/1B1r3P/8 w - - 0 1"]
+
+ 1. g6+ (1. Bc1 Bg7+ 2. fxg7 Rxh2#) (1. Be5 Bxg5) (1. gxh6 Rxb2) (1. h4 Rxb2) 1... Kxg6 (1... Kxe8 2. Bc1 Rxh2 (2... Rxd6 3. f7+) 3. Bxh6) 2. Bc1 Rxh2 (2... Rxd6 3. Nxd6 Bxc1 4. f7 Bh6 5. Kg8 Kf6 6. Ne8+) 3. Kg8 Bxc1 4. d7 Rd2 5. f7 Ba3 6. Nd6 $1 {Nowotny} Bxd6 (6... Rxd6 7. f8=Q Rxd7 8. Qe8+) 7. d8=Q 1-0  

@@ -1,0 +1,10 @@
+[Event "HM  Problemist Ukraine {m}"]
+[Site "?"]
+[Date "2008.11.18"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "8/3k3p/2p5/1P5P/8/3K2PP/2p5/8 w - - 0 0"]
+
+ 1. bxc6+ (1. Kxc2 $5 cxb5 $11) 1... Kc7 $1 (1... Kxc6 2. Kxc2 $18) 2. Kd2 $1 ({ Thematic try} 2. Kxc2 $5 Kxc6 3. Kd3 Kd5 4. Ke3 Ke5 5. Kf3 Kf5 $11) 2... c1=Q+ 3. Kxc1 Kxc6 4. Kc2 $1 ({Thematic try} 4. Kd2 $5 Kd6 $1 (4... Kd5 $5 5. Kd3 Ke5 6. Ke3 Kf5 7. Kf3 $18) 5. Kd3 Kd5 6. Ke3 Ke5 7. Kf3 Kf5 $11) 4... Kd6 5. Kd2 ( 5. Kd3 $5 Kd5 $11) 5... Ke6 6. Ke2 Kf6 7. Kd3 $1 Ke5 8. Ke3 $18 *  

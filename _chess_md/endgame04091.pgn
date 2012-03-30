@@ -1,0 +1,10 @@
+[Event "5 Prize ts23#43 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4N3/8/1P6/8/4kN2/3p4/1Kb2p2/8 w - - 0 1"]
+
+ 1. Nf6+ $1 (1. b7 $2 1... f1=Q 2. b8=Q Qb1+) 1... Kf3 $1 (1... Kxf4 2. b7) 2. Ng4 $1 2... Kxg4 3. Nd5 $1 3... Kf3 (3... d2 4. b7 $1 4... f1=Q 5. Ne3+ Kg5 6. Nxf1 d1=Q 7. Nd2 $1 7... Qxd2 8. b8=Q) 4. b7 f1=Q 5. Nc3 $1 5... d2 6. b8=Q Qc1+ 7. Ka2 $1 7... Bb1+ 8. Qxb1 Qxc3 9. Qf1+ 1/2-1/2  

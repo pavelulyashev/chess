@@ -1,0 +1,10 @@
+[Event "tt20#809 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Zimmer E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5b1q/2p1p3/7k/3P1K2/8/2P5/R4N2/8 w - - 0 1"]
+
+ 1. Ng4+ $1 (1. Ra6+ $2 Kh5 2. Ne4 Qg8 3. Kf4 Bh6+) 1... Kg7 2. Rh2 $1 Qg8 3. Nf6 $1 exf6 (3... Qf7 $2 4. Rh7#) 4. Rg2+ Kf7 5. Rxg8 Kxg8 6. Kxf6 Bd6 (6... Bg7+ 7. Ke6 Bxc3 8. d6 $1) 7. Ke6 (7. c4 $2 Kf8 $1 8. Ke6 Ke8) 7... Kg7 8. c4 $1 (8. Kd7 $2 Kf6 9. c4 Ke5 10. Kc6 Ke4 11. c5 Ke5 12. Kb5 Kxd5 13. cxd6 cxd6) 8... Kg6 9. Kd7 Kf6 10. c5 1/2-1/2  

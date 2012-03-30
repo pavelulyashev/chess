@@ -1,0 +1,10 @@
+[Event "tp16 {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1B6/7b/8/3p1P2/4pP1k/6N1/2p1PPK1/8 w - - 0 1"]
+
+ 1. Bd6 c1=Q 2. Be7+ Kg4 3. f3+ Kxf4 (3... exf3+ $2 4. exf3+ Kxf4 5. Ne2+) 4. e3+ (4. Bd6+ $2 Ke3) 4... Qxe3 (4... Kxe3 5. Bg5+) (4... Ke5 $2 5. f4#) 5. Bd6+ Kg5 6. Be7+ Kh6 7. Bf8+ 1/2-1/2  

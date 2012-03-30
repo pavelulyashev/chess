@@ -1,0 +1,10 @@
+[Event "Shakhmaty (Riga) {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2N5/8/2p4r/7b/p1p1P2N/k1K2B1n w - - 0 1"]
+
+ 1. Ng4 $1 {Nowotny} (1. Nb4 Bf5 2. Nf3 Rf4 3. Nd2 Ng3) (1. Nf3 Ng3 2. Ncd4 (2. Nb4 Bf5 3. Nxh4 Be4 4. Nf3 Nxf1 5. Nd4 Ne3 6. Nd3 Bf5 (6... Bg6 7. Ne5) (6... Bd5 7. Ne1 Be4 8. Nef3 Nf5 9. Nxf5 Bxf5 10. Nd2 Be6 11. e4) 7. Nc5) 2... Bf5 ( 2... Rxd4 3. Nxd4 Bf5 4. e4 Bxe4 5. Bxc4)) 1... Bxg4 (1... Rxg4 2. Nb4) 2. Nd4 Bf5 3. e4 $1 {Nowotny} Bxe4 (3... Rxe4 4. Nxc2#) 4. Bxc4 Rh3 5. Bd3 $1 {Nowotny } Bxd3 (5... Rxd3 6. Nxc2#) 6. Nb3# 1-0  

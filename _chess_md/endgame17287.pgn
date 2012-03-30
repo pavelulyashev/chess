@@ -1,0 +1,10 @@
+[Event "vs11#41 @2 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/r7/3Q4/7K/1r6/3Rn3/p6R/2q5 w - - 0 1"]
+
+ 1. Qf8+ (1. Qxb4 $2 Rh7+ 2. Kg6 (2. Kg5 Nd5+) 2... Rg7+ 3. Kh5 (3. Kxg7 a1=Q+) 3... Rh7+) (1. Qd8+ $2 Rb8) 1... Rb8 (1... Kb7 2. Qxb4+) 2. Qf3+ Nd5 $1 (2... Rab7 3. Rxa2+) (2... Rbb7 3. Rd8+) 3. Qxd5+ Rbb7 4. Qg8+ $1 (4. Rg3 $2 Qh6+ 5. Kxh6 Ra6+ 6. Kh5 a1=Q 7. Rg8+ Ka7 8. Qc5+ Rab6) (4. Rxa2 $2 Rxa2 5. Qxa2+ Kb8 6. Rd8+ Kc7 7. Qd5 $1 Rb5 $1 8. Rd7+ Kc8 9. Qxb5 Qh6+ 10. Kxh6) 4... Rb8 5. Qg2+ Rab7 6. Qxa2+ Ra7 7. Qd5+ Rbb7 8. Rg3 $1 (8. Ra2 $2 Rxa2 9. Qxa2+ Kb8 10. Rd8+ Kc7 11. Qd5 $1 Rb5 $1 12. Rd7+ Kc8 13. Qxb5 Qh6+ 14. Kxh6) 8... Ra6 (8... Kb8 9. Qe5+ Rc7 (9... Kc8 10. Rc3+) 10. Rb2+ Rab7 11. Rg8+ Ka7 12. Qa5#) (8... Ra4 9. Ra2 Rxa2 10. Rg8+ Ka7 11. Qxa2+ Kb6 12. Qb3+ Ka7 13. Qa4+ Kb6 14. Qb4+) 9. Rg8+ (9. Rg6 $2 Rxg6 $1 10. Ra2+ Kb8 11. Qd8+ Qc8 12. Ra8+ Kxa8 13. Qxc8+ Rb8 $1) 9... Ka7 10. Qd4+ Rbb6 11. Rg7+ (11. Kg4 $1 {cook MC}) 11... Ka8 (11... Kb8 12. Qe5+ Rd6 13. Rb2+) 12. Qd8+ Rb8 13. Qd5+ Rc6 14. Qxc6+ Qxc6 15. Ra2+ 1-0  

@@ -1,0 +1,10 @@
+[Event "2 Prize, jk02 {c} @2 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/2Q5/8/5r2/8/8/1K6/2n5 b - - 0 1"]
+
+ 1... Nd3+ 2. Ka1 $1 (2. Kb1 $2 Rb5+ 3. Ka2 Ne5 4. Qd8+ Kf7) (2. Kb3 $2 Nc5+) ( 2. Ka2 $2 Rd5) (2. Ka3 $2 Rd5 3. Qc6 Rd8 4. Qf6+ Ke8 5. Qe6+ Kf8 6. Ka2 Ra8+ 7. Kb1 Rd8 $1) 2... Rd5 (2... Rf1+ 3. Ka2 Nc1+ (3... Ke8 4. Qc6+) (3... Rf3 4. Qc8+) (3... Rf2+ 4. Ka3 Ke8 5. Qc6+) (3... Nf4 4. Qc4 Rf2+ 5. Kb1 Ke8 6. Qa4+) 4. Ka3 Ke8 (4... Rf3+ 5. Ka4 Rf1 6. Qc5+ Kg7 7. Qc4 Rh1 8. Qc7+) (4... Rd1 5. Qc2 Rf1 6. Qc5+ Kg7 7. Qc4 Rf3+ 8. Ka4) (4... Re1 5. Qc3 Rf1 6. Qc5+) 5. Qc4 Re1 (5... Rg1 6. Qa4+) 6. Kb2 Kd7 (6... Ne2 7. Qb4) (6... Rg1 7. Qa4+) 7. Qc3 Rd1 8. Kc2 Rd6 9. Qg7+) 3. Qc6 Rd8 (3... Ra5+ 4. Kb1 Ne5 5. Qc8+) 4. Qf6+ $1 ( 4. Qe6 $2 Ra8+ 5. Kb1 Rd8 $1) 4... Ke8 5. Qe6+ Kf8 6. Kb1 $1 Rb8+ 7. Kc2 Nb4+ ( 7... Rd8 8. Kc3) 8. Kc3 Rb6 9. Qd7 $1 Nc6 10. Kd2 $1 (10. Qc7 $2 Ne7) (10. Kc2 $1 {cook HH} Nb4+ 11. Kc1 Ra6 12. Qf5+) 10... Rb2+ 11. Kc1 Rb6 12. Qc8+ (12. Qc7 $1 {cook HH}) 1-0  

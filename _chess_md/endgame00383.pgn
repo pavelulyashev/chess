@@ -1,0 +1,10 @@
+[Event "Magyar Sakkйlet {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p1p1p1P1/P1P1P2p/3b4/7P/p2P1N2/rpp3K1/qkn1R3 w - - 0 1"]
+
+ 1. g8=N $1 (1. g8=Q $143 Bxf3+ 2. Kh2 Bd1 $1 $19) 1... h5 $1 2. Nf6 $1 exf6 3. e7 Bxf3+ (3... f5 $144 4. e8=N f4 5. Nd6 cxd6 6. c7 Bc6 7. c8=N (7. c8=Q $144 Bxf3+ (7... Bd5 $144 8. Qc4 {par exemple} Ba8 9. Qe4 Bxe4 10. dxe4 d5 11. Nd2#) 8. Kxf3 d5 9. Qb7 d4 10. Qb6 $18) 7... Bd5 8. Nb6 axb6 9. Kf2 Bxf3 10. Kxf3 $18 ) 4. Kxf3 f5 5. e8=N f4 6. Nd6 cxd6 7. c7 d5 8. c8=N d4 9. Nb6 axb6 10. a7 b5 11. a8=N b4 12. Nb6 b3 13. Ke4 $1 f3 14. Nc4 f2 15. Nd2# 1-0  

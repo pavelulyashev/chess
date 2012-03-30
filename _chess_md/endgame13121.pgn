@@ -1,0 +1,10 @@
+[Event "2 Prize tl20#465 @2 {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "De_Limburg_Stirum H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3Pk1p1/1p2P1K1/1P1Bb3/7p/7P/6P1/8 w - - 0 1"]
+
+ 1. g4 $1 (1. Bc4 $2 Bf6 2. g4 hxg3 3. Bd5 g2 4. Bxg2 Kxe6 5. Bc6 Ke7 6. h4 Kf8 7. h5 Bd8) 1... hxg3 2. h4 Bf6 3. h5 g2 4. Bxg2 Kxe6 5. Bh3+ $1 (5. Bc6 $1 { cook JU}) (5. Bd5+ $1 {cook JU}) 5... Ke7 6. h6 gxh6 7. d8=Q+ Kxd8 8. Kxf6 1-0  

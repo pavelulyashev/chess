@@ -1,0 +1,10 @@
+[Event "tl56 {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/b2p4/P7/KP1P4/8/8/8/8 w - - 0 1"]
+
+ 1. b6 Bb8 2. a7 Bxa7 3. Ka6 d6 $1 (3... Bb8 4. b7#) (3... Kb8 4. bxa7+ Ka8 5. Kb6) (3... Bxb6 4. Kxb6 Kb8 5. d6 Kc8 6. Ka7) 4. Kb5 $1 (4. bxa7 $2) 4... Bb8 5. Kc6 $1 (5. Ka6 $2 Bc7 $1 6. bxc7 (6. Kb5 Bd8 7. Kc6 Kb8)) 1-0  

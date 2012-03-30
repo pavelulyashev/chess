@@ -1,0 +1,10 @@
+[Event "tc06#138 @4 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7B/4P3/8/5p2/1p3p2/kp3K2/4n3 w - - 0 1"]
+
+ 1. e7 (1. Kxe1 $1 {cook JN}) 1... Nc2 2. Bxc2 bxc2 3. e8=Q c1=Q (3... b1=Q 4. Qa4+ Kb2 5. Qb4+ Kc1 6. Qe1+ Kb2 7. Qb4+ Ka1 8. Qa3+ Qa2 9. Qc1+ Qb1 10. Qa3+) 4. Qa4+ Kb1 5. Qd1 $1 Ka2 6. Qa4+ Kb1 7. Qd1 $1 Qxd1 1/2-1/2  

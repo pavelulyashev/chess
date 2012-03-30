@@ -1,0 +1,10 @@
+[Event "ti05 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6K1/3p4/3P4/3P3p/1P6/1kP5/8 w - - 0 1"]
+
+ 1. b4 (1. c4 $2 h3 2. c5 (2. Kf6 h2 3. Ke6 h1=Q 4. Kxd6 Kxb3 5. c5 Kc4 6. c6 Qxd5+) 2... h2 3. cxd6 h1=Q 4. Kf6 Qxd5) 1... h3 2. b5 h2 3. b6 h1=Q 4. b7 Qg1+ 5. Kh7 (5. Kf7 $2 Qf1+) 5... Qh1+ 6. Kg7 (6. Kg8 $2 Qxd5+) 6... Qg2+ 7. Kh8 $1 (7. Kh7 $2 Qxc2+) 7... Qh3+ 8. Kg8 Qg4+ 9. Kf8 Qf5+ 10. Ke8 Qg6+ 11. Kd8 (11. Kf8 $2 Qf6+ 12. Ke8 Qh8+) (11. Kd7 $2 Qh7+ 12. Kc6 Qxc2+ 13. Kb6 (13. Kxd6 Qh2+ ) 13... Qb3+ 14. Kc7 Kc3) 11... Qg8+ 12. Kc7 Qh7+ 13. Kb6 Qh8 14. Kc7 (14. Ka7 $2 Qxd4+ 15. Ka6 Qc4+ 16. Kb6 Qc5+ 17. Ka6 Qc7 18. Ka7 Kxc2) 14... Qg7+ 15. Kc8 Qf8+ 16. Kc7 Qe7+ 17. Kc8 1/2-1/2  

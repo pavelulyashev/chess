@@ -1,0 +1,10 @@
+[Event "td20#2117 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Wotawa A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p3p1/2p3p1/2P4p/1p6/8/PPP5/3k3K w - - 0 1"]
+
+ 1. a4 (1. a3 $2 Kxc2 2. a4 b3 3. a5 Kxb2) (1. c3 $2 b3 2. axb3 Ke2 $1) 1... bxa3 2. bxa3 Ke2 3. Kg1 $3 (3. Kg2 $2 g5 4. a4 h4 5. a5 g4 6. a6 h3+ 7. Kg3 h2 8. Kxh2 Kf2 9. a7 g3+ 10. Kh3 g2 11. a8=Q g1=Q) 3... Ke3 4. a4 Kd4 5. a5 Kxc5 6. c4 g5 7. Kg2 g4 $1 8. Kg3 g5 9. Kh2 h4 10. Kg2 g3 11. Kh3 g4+ 12. Kg2 1-0  

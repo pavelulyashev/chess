@@ -1,0 +1,10 @@
+[Event "1er prix {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/6b1/Pr5N/1P6/8/8/3P4/4K3 w - - 0 1"]
+
+ 1. Nf7+ (1. a7 Re6+ 2. Kd1 Re8 3. Nf7+ Kh7 4. Ng5+ (4. Nd6 Rd8 5. b6 Bd4 6. Nc8 Rxc8 7. b7 Rc1+ $11) 4... Kg8 5. Nf3 Bf8 6. d4 $1 Ra8 7. b6 Bd6 8. Ne5 Bb8 $11) 1... Kg8 (1... Kh7 2. Ng5+ Kg6 3. a7 $18) 2. a7 Re6+ 3. Kd1 Re8 4. Nd6 $1 (4. Nh6+ $2 Kf8 $1 5. Nf5 Be5 6. b6 Ra8 7. Ne3 Ke8 8. Nc4 Bh2 9. d4 Kd7 $11) 4... Rd8 $1 (4... Rf8 5. Nf5 $1 Be5 6. b6 Ra8 7. Ne7+ Kg7 8. Nc6 Bf4 9. b7 Rxa7 10. Nxa7 $18) 5. Nf5 $1 (5. b6 $2 {essai thйmatique} Bd4 6. Nc8 Rxc8 7. b7 Rc1+ 8. Kxc1 Bxa7 $11 {voir aussi aprиs 1. a7 suivi de 4. Nd6 supra}) 5... Bf8 { dйviation romaine} (5... Ra8 6. b6 Be5 7. Ne7+ Kf7 8. Nc6 Bh2 9. b7 Rxa7 10. Nxa7 Ke8 11. Nc6 $18) (5... Be5 6. b6 Ra8 7. Ne7+ Kg7 8. Nc6 $18) 6. b6 (6. d4 Bc5 7. a8=Q Rxa8 8. dxc5 $11) (6. Nd4 $2 Re8 7. Ne6 Bd6 8. b6 Ra8 9. Nc5 Kf8 10. d4 Ke7 11. d5 Bb8 12. axb8=Q Rxb8 13. Ne4 Rxb6 $19 14. Ke2 $11) 6... Bc5 { rejet noir forcй} 7. Ne7+ $1 Kh8 (7... Bxe7 $2 8. b7 $18) 8. Nc8 Rxc8 9. b7 $18 1-0  

@@ -1,0 +1,10 @@
+[Event "comm. The Ural Problemist {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Kalyagin V"]
+[Black "*"]
+[Result "*"]
+[FEN "5b2/8/8/N1q1n3/7K/3ppp2/1R2rP2/5RNk w - - 0 1"]
+
+ 1. Kg3 Re1 $1 2. Rxe1 exf2 3. Rxf2 Qxf2+ 4. Kxf2 Bc5+ 5. Kf1 (5. Kg3 $2 f2 $19) 5... f2 6. Nh3 fxe1=Q+ 7. Kxe1 Kh2 8. Nf2 Bb4+ 9. Kf1 Bxa5 10. Ng4+ Nxg4 { stalemate} *  

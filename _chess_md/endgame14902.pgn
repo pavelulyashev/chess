@@ -1,0 +1,10 @@
+[Event "tp43 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Heathcote G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3p4/N2P4/p1p5/k1K5/b7 w - - 0 1"]
+
+ 1. Nb6 Bb2 2. Nxd5 Bc1 (2... Ka1 3. Nb4 a2 4. Nc6 Ba3 5. Na5) 3. Nb4+ Ka1 4. Kxc1 c2 5. d5 (5. Nxc2+ $1 {cook JU}) 5... a2 6. Nxc2# 1-0  

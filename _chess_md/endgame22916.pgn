@@ -1,0 +1,10 @@
+[Event "3 Prize, Zadachy i Etiudy {m}"]
+[Site "?"]
+[Date "2010.11.11"]
+[Round "?"]
+[White "Didukh S"]
+[Black "*"]
+[Result "*"]
+[FEN "8/2P5/3Pb3/6p1/1N1P4/7P/5k1P/7K w - - 0 0"]
+
+ 1. h4 $1 (1. c8=Q $2 Bxc8 2. h4 Bh3 3. Nd3+ Kf1 4. Ne1 Kxe1 5. d7 Kf1) 1... Bh3 2. Nd3+ Kf1 3. Ne1 gxh4 (3... Kxe1 4. c8=Q Bxc8 5. hxg5 Bh3 6. Kg1 $18) 4. d7 $1 (4. c8=Q $2 Bxc8 5. Ng2 Bb7 6. d5 Bxd5 7. h3 Bxg2+ 8. Kh2 Bc6 $19) 4... Bxd7 5. c8=Q Bxc8 6. Ng2 Bb7 7. d5 Bxd5 8. h3 Bxg2+ 9. Kh2 $11 { the positional stalemate} *  

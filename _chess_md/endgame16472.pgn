@@ -1,0 +1,10 @@
+[Event "4 Prize ts23#836 {v} {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/P2P4/8/3Q2r1/1p6/kP6/8/K6B w - - 0 1"]
+
+ 1. Qa5+ $1 Rxa5 2. Bxa8 Rd5 $1 3. d8=R $1 (3. d8=Q $2 Rd1+ 4. Qxd1) (3. Kb1 $2 Rxd7 4. Bb7 Kxb3 $1 5. Kc1 Rd8) 3... Rxd8 4. Bd5 $1 Rf8 5. Kb1 Rc8 6. Bb7 Rf8 7. Kc2 Rf2+ 8. Kd3 Rf8 9. Kc4 Rf4+ 10. Kb5 Rf8 11. Bd5 1-0  

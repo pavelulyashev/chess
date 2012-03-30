@@ -1,0 +1,10 @@
+[Event "3 Prize wf01 {c} {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6nk/5K2/3B4/5pp1/2P5/4p3/4P3/6b1 w - - 0 1"]
+
+ 1. c5 f4 2. c6 f3 3. exf3 (3. c7 $143 f2 4. Kg6 {(Menace Be5+)} Bh2 $1 5. c8=Q f1=Q 6. Qc3+ Qf6+ 7. Qxf6+ Nxf6 8. Bxh2 $11) 3... Ne7 4. Bxe7 Bh2 5. f4 $1 Bxf4 6. Bxg5 e2 7. Bxf4 e1=Q 8. c7 Qc3 9. Be5+ Qxe5 10. c8=Q+ Kh7 11. Qg8+ Kh6 12. Qg6# 1-0  

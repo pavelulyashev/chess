@@ -1,0 +1,10 @@
+[Event "tw04 {m}"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Kosek V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/4KP2/8/2k5/2p5/1pP5/1P6/8 w - - 0 1"]
+
+ 1. f8=N $1 (1. f8=Q $2 Ng6+) 1... Kd5 2. Kf6 Ke4 3. Nd7 Kd3 4. Ne5+ Kc2 5. Nxc4 1-0  

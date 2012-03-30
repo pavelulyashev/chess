@@ -1,0 +1,10 @@
+[Event "64-Shakhmatnoe obozrenie {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3kB3/5K2/7P/6P1/6r1/2n3r1/3B4/8 w - - 0 1"]
+
+ 1. h7 $1 Rh4 2. g6 Rf3+ (2... Ne4 3. Be1) 3. Kg8 $1 (3. Ke6 $2 Re4+ 4. Kd6 Rf6+ 5. Kc5 Rf5+ 6. Kd6 Rd5+ 7. Kc6 Re6+ 8. Kb7 Rxe8 9. Bxc3 Rh5 {wins.}) 3... Kxe8 4. g7 Ne4 (4... Nd5 5. Bg5 $1 Rh5 6. Kh8 $1 Rf8+ 7. g8=Q $11) (4... Rfh3 5. Bh6 $1 (5. h8=Q $2 Nd5 6. Bg5 Rh5 7. Bh4 Nf4 $1 8. Bg5 Ng6 9. Bh6 Ke7 10. Bg5+ Ke6 {win.}) 5... Rxh6 6. h8=Q Nd5 7. Qxh6 Ne7+ 8. Kh7 $11) 5. Bg5 Nxg5 (5... Rhh3 6. Kh8 $1 (6. h8=Q $2 Rfg3 $1 7. Bh4 Nf6+ 8. Bxf6 Rxh8+ 9. Kxh8 Kf7) 6... Rf8+ 7. g8=Q {draw.}) 6. h8=B $1 (6. h8=Q $2 Nh7) 6... Rxh8+ 7. gxh8=Q Rf8+ 8. Kg7 Ne6+ 9. Kh7 Ng5+ 10. Kg7 $11 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Gorgiev T, Preuyt G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1B2k3/p4n2/2P5/2R5/5p2/2p2p1K/6p1/2n5 w - - 0 1"]
+
+ 1. c7 Nd6 2. c8=Q+ Nxc8 3. Rxc8+ Kd7 4. Rc7+ Kd8 5. Rg7 Nd3 6. Bxa7 c2 7. Bb6+ Ke8 8. Rc7 Nc5 $1 {Nowotny} 9. Rxc5 g1=Q 10. Rc8+ Kd7 11. Rc7+ Kd6 12. Bxg1 Kxc7 ({but} 12... f2 $3 $19) 13. Bh2 c1=B $1 (13... c1=Q 14. Bxf4+ Qxf4 { stalemate}) 14. Bg3 $3 1/2-1/2  

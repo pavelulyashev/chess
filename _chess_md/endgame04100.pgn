@@ -1,0 +1,10 @@
+[Event "tl41 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K1k/5B1b/8/7p/2N5/4p3/8/8 w - - 0 1"]
+
+ 1. Ne5 e2 2. Be6 Bg6 (2... e1=Q 3. Nf7#) (2... Be4 3. Bg8 e1=Q 4. Nf7#) 3. Nxg6+ Kh7 4. Ne5 e1=Q 5. Bf5+ Kh6 (5... Kh8 6. Nf7#) 6. Nf7# 1-0  

@@ -1,0 +1,10 @@
+[Event "Hm. Zhigulovskie Zori - 4 {m}"]
+[Site "?"]
+[Date "2011.06.27"]
+[Round "?"]
+[White "Skripnik A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4bK1n/3R4/5kr1/8/3n4/8/4R2p/8 w - - 0 0"]
+
+ 1. Rd6+ Kg5 2. Rd5+ Nf5 3. Rg2+ $1 ({Thematic try} 3. Rxh2 $2 Re6 $1 4. Rxh8 Bg6 5. Rxf5+ Kxf5 6. Kg7 Re7+ 7. Kh6 Rf7 $19) 3... Kf6 4. Rxh2 (4. Rxf5+ $2 Kxf5 $19) 4... Bf7 5. Rxf5+ Kxf5 6. Rh5+ (6. Rxh8 $2 Ke6 $1 {zz}) 6... Kf6 7. Rh6 $1 Ke6 8. Rxh8 {zz} Kf6 9. Rh6 Rxh6 {stalemate} 1/2-1/2  

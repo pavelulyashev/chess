@@ -1,0 +1,10 @@
+[Event "ts70#1828 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Smit A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k1B/8/7P/2N3P1/2b4b/7p/8/7K w - - 0 1"]
+
+ 1. Be5 $1 (1. h7 $2 Bg3) (1. Kh2 $2 Bxg5 2. h7 Bg8 $1 3. Ne6+ (3. Nd7+ Kf7 4. Ne5+ Kf8 5. Ng6+ Kf7) 3... Bxe6 4. Ba1 Bf4+) 1... Bxg5 2. h7 Bd5+ 3. Kg1 $1 (3. Kh2 $2 Bf4+ 4. Bxf4 Kg7 5. Nd7 Be4 6. h8=Q+ Kxh8 7. Nf6 Bf5 8. Bh6 Bc8) 3... h2+ (3... Be3+ 4. Kf1 Bc4+ 5. Ke1) 4. Kxh2 Bf4+ 5. Bxf4 Kg7 6. Nd7 Be4 7. h8=Q+ (7. Be5+ $2 Kxh7 8. Nf6+ Kg6 9. Nxe4 Kf5) 7... Kxh8 8. Nf6 Bg6 9. Bh6 1-0  

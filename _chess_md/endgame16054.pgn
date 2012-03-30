@@ -1,0 +1,10 @@
+[Event "Birnov MT, HM {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/1p6/5K2/np3B2/8/4rp2/8/1R4bN b - - 0 1"]
+
+ 1... f2 2. Ra1 $1 (2. Nxf2 $2 Bxf2 3. Rh1+ Kg8 4. Be6+ (4. Bh7+ Kf8 5. Bf5 Rg3 6. Rd1 {three good defences are available 6...Bb6, 6...Nc6 and 6...Ke8.}) 4... Rxe6+ 5. Kxe6 b4 6. Kd5 b3 {wins.}) 2... b6 (2... Re1 3. Rxa5 Re6+ 4. Kf7 $1 Re7+ 5. Kf6 $1 Re6+ 6. Kf7 {positional draw or} Ra6 7. Rxa6 bxa6 8. Nxf2 $11) 3. Rc1 $1 Nc4 4. Nxf2 (4. Rd1 $2 Re8 5. Nxf2 Rf8+ $1 6. Ke7 Rxf5 {wins.}) 4... Bxf2 5. Rh1+ Kg8 6. Bh7+ $1 Kf8 7. Bf5 Rg3 8. Rd1 $1 Re3 {(Bb6? Nc6?)} 9. Rh1 Rg3 10. Rd1 {positional draw or} Ke8 11. Bd7+ Kd8 12. Bxb5+ {draw.} 1/2-1/2  

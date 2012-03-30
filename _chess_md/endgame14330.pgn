@@ -1,0 +1,10 @@
+[Event "b006#22 {m}"]
+[Site "?"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r7/7K/4BkP1/5P2/p7/p7/8/8 w - - 0 1"]
+
+ 1. g7 $1 Ra7 2. Bf7 $1 Rxf7 3. Kh8 $1 a2 (3... Ke7 $2 4. g8=Q Rf8 5. f6+ Ke8 6. f7+ Ke7 7. Kg7 $1) 4. g8=Q a1=Q 5. Qg7+ $1 Rxg7 1/2-1/2  

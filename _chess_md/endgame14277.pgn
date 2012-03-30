@@ -1,0 +1,10 @@
+[Event "tk01#26 @2 {m}"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Gunst J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Nb6/8/q2p4/4k3/p5p1/1N2K3/Q7/8 w - - 0 1"]
+
+ 1. Nc5 Qc8 (1... dxc5 {main} 2. Qh2+ Kd5 3. Qh1+ Ke5 4. Qh5+ Kd6 5. Qh6+) 2. Qb2+ Kd5 3. Qd4+ (3. Nb6+ $1 {cook JU}) 3... Kc6 4. Qxa4+ Kd5 5. Qe4+ Kxc5 6. Qc2+ 1-0  

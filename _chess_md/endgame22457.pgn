@@ -1,0 +1,10 @@
+[Event "1 Prize, ts23#12 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3BK1k1/1b1PP3/8/7n/8/6P1/8/3n4 w - - 0 1"]
+
+ 1. Bb6 $1 Ng7+ 2. Kd8 Ne6+ 3. Ke8 Bc6 (3... Nc3 4. d8=N $1) 4. Bd4 $1 Bb5 5. g4 Bc6 6. g5 Bb5 7. g6 Ba4 8. Bh8 $1 Ne3 9. g7 Bd1 10. d8=R $1 (10. d8=Q $2 Ba4+ 11. Qd7 Nd5 12. Qxa4 Nf6#) 10... Ba4+ 11. Rd7 Nd5 1/2-1/2  

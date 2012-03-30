@@ -1,0 +1,10 @@
+[Event "1 Prize Selivanov-30 JT {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Rezvov N, Tkachenko S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/6N1/3P4/4p3/1r3k2/8/4P3/8 w - - 0 1"]
+
+ 1. d7 (1. Ne6+ $2 Ke3 2. d7 Ra4+ 3. Kb7 Rb4+ 4. Kc7 Rc4+ 5. Kd6 Rc1 6. Nc5 Rd1+ 7. Nd3 Kxe2) 1... Ra4+ (1... Rd4 2. Ne6+) 2. Kb7 Rb4+ 3. Kc6 (3. Kc7 $2 Rc4+ 4. Kd6 Rd4+) 3... Rb8 (3... Rc4+ 4. Kb5 $1 Rd4 5. Ne6+) 4. Kc7 Ra8 $1 5. Kb7 Rh8 $1 (5... Rd8 6. Ne6+) (5... Rf8 6. Ne6+) (5... Rg8 6. Ne8) 6. e4 $1 (6. Ne8 $2 Rh7 7. Kc6 Rxd7 8. Kxd7 Ke3) 6... Kf3 (6... Ke3 {main} 7. Kc7 Ra8 $1 8. Nf5+ $1 Kxe4 9. Nd6+ Kf3 10. Nc8) (6... Kxe4 7. Ne8 Rh7 8. Nf6+) (6... Kg5 7. Ne8 Rh7 8. Kc6 Rxd7 9. Kxd7 Kf4 10. Nd6) 7. Kc6 $1 (7. Kc7 $2 Ra8 8. Nf5 $1 Ra7+ $1 9. Kc6 Rxd7 10. Kxd7 Kxe4) 7... Rd8 (7... Ra8 8. Nf5 Kxe4 9. Nd6+) 8. Ne6 $1 Rxd7 9. Ng5+ Kf4 10. Kxd7 Kxg5 11. Ke6 $1 Kf4 12. Kd5 1-0  

@@ -1,0 +1,10 @@
+[Event "tt22#012 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Barca E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/1p4p1/3P4/P1P4p/3P4/8/6k1/4K3 w - - 0 1"]
+
+ 1. Ke2 $1 (1. d7 $2 Bc7 2. c6 Bxa5+) (1. c6 $2 Bxd6 2. cxb7 h4) (1. d5 $2 h4 2. d7 Bc7 3. a6 bxa6 4. d6 Ba5+ 5. Ke2 h3) (1. a6 $2 bxa6) 1... h4 2. d7 Bc7 3. c6 bxc6 (3... b5 4. a6 h3 5. a7 h2 6. d8=Q Bxd8 7. c7 Bxc7 8. a8=Q+) (3... h3 4. cxb7 h2 5. b8=Q Bxb8 6. d8=Q h1=Q 7. Qd5+) 4. a6 h3 5. a7 h2 6. a8=Q h1=Q 7. Qxc6+ Kg1 8. Qc1+ Kg2 9. Qg5+ Kh2 (9... Kh3 10. Qh5+ Kg2 11. Qg4+ Bg3 12. Qf3+) 10. Kf2 1-0  

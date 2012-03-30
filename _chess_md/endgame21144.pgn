@@ -1,0 +1,10 @@
+[Event "Hm. Problem Online 2004-2006 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/8/8/6p1/5nr1/R2R4/N2K3k w - - 0 1"]
+
+ 1. Rdb2 $1 (1. Rf2 $5 Rg1+ 2. Ke2 g3 $11) 1... Rg1+ 2. Ke2 g3 (2... Nh2 3. Nc2 g3 4. Ne3 g2 5. Kd3 Rd1+ 6. Nxd1 g1=Q 7. Nf2+ Kg2 8. Ng4+ Kg3 9. Nxh2 $18) 3. Kxf3 g2 4. Ra8 Rf1+ 5. Ke4 Re1+ 6. Kd5 (6. Kd3 $5 Re3+ 7. Kc4 Rh3 $11) 6... Rd1+ 7. Kc6 Rc1+ 8. Kb7 Rf1 9. Rh8+ $18 (9. Rg8 $5 Rxa1 $11) *  

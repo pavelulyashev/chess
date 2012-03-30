@@ -1,0 +1,10 @@
+[Event "3 Prize ms01 {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/8/p2K2p1/P7/4p3/Q7/1n1p4/8 w - - 0 1"]
+
+ 1. Ke6+ (1. Kd7+ $2 Kg8 2. Qb3+ Kh7 3. Qf7+ Kh8) 1... Kg8 2. Qa2 $1 (2. Qb3 $2 d1=Q) 2... d1=Q (2... Kh7 3. Kf6) 3. Kf6+ Kh8 4. Qxb2 $1 Kh7 5. Qh2+ Kg8 6. Qb8+ Kh7 7. Qc7+ Kh6 8. Qh2+ Qh5 9. Qf4+ g5 10. Qxe4 1-0  

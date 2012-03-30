@@ -1,0 +1,10 @@
+[Event "ts76 @1 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r6/8/3K4/5k2/8/1P2R3/8/8 w - - 0 1"]
+
+ 1. Kc5 (1. Rh3 $1 {cook HC}) (1. Rg3 $1 {cook HC}) (1. Kc7 $1 {cook HC}) 1... Kf4 (1... Rc8+ 2. Kd4 Rb8 3. Kc3 Rc8+ 4. Kb2 Kf6 5. Re4 $3 Kf5 6. Re3 $1 Kf4 7. Re1 Kf5) 2. Rh3 Ke5 3. Rh5+ $1 (3. b4 $2 Rc8+ 4. Kb6 Rb8+) 3... Ke6 4. Rh6+ Kd7 5. Rh7+ Ke6 6. b4 Rc8+ 7. Kb6 Rb8+ 8. Rb7 Rh8 9. b5 1-0  

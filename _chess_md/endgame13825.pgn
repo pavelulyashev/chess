@@ -1,0 +1,10 @@
+[Event "bs15 @3 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Timman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3R4/8/4p1kb/3B2n1/1p1KP3/8/1P6/8 w - - 0 1"]
+
+ 1. Ba2 (1. Bc4 $2 Bg7+ 2. e5 Bxe5+ 3. Kxe5 Nf7+ 4. Kxe6 Nxd8+ 5. Kd7 Nb7 6. Kc6 Na5+ 7. Kc5 Nb7+) 1... Bg7+ 2. e5 Bxe5+ (2... Kf5 3. Bb1+ (3. Kc4 Bxe5 4. Rd2 Nf3 5. Rf2 Ke4 6. Kxb4 Ke3) 3... Kf4 4. Kc4 Bxe5 5. Rd2 Ke3 6. Rg2 Nf3 7. Kxb4 Ne1 8. Rg1 Nf3) 3. Kxe5 Nf7+ 4. Kxe6 Nxd8+ 5. Kd7 b3 $1 (5... Nf7 6. Bxf7+) ( 5... Nb7 6. Kc6 Na5+ (6... Nd8+ 7. Kc7) (6... b3 7. Bb1+) 7. Kb6) 6. Bxb3 (6. Bb1+ $2 Kg5 7. Kxd8 Kf4) 6... Nb7 7. Bf7+ $1 (7. Bc2+ $2 Kf6 8. b4 Ke5 9. b5 Kd5 10. Kc7 Kc5) (7. Bd5 $2 Nc5+ 8. Kd6 Na4 9. b4 Nc3 10. Ke5 Kg7 11. Bc4 (11. Kd4 Nb5+ 12. Kc5 Na3 13. Be4 Kf6 14. Bh7 (14. Bd3 Ke5) 14... Ke6 15. Bg6 Kf6 16. Bd3 Ke5 17. Kb6 Kd4) 11... Kf8 12. Kd4 Nd1 13. Bb3 Nf2 14. Kd5 Ke7 15. Kc6 Kd8 16. Be6 Nd3 17. b5 Ne5+ 18. Kd6 Nd7) 7... Kf6 $1 (7... Kxf7 8. b4) 8. b4 Ke5 9. b5 (9. Kc7 $2 Nd6) 9... Kd4 (9... Nd6 $1 {cook} 10. b6 Nb7 11. Kc6 Na5+ 12. Kc7 Kf6 $1 13. Ba2 Ke5 14. Bg8 Kd4 15. Kd6 Nb7+ 16. Kc6 Na5+ 17. Kb5 Nb7 18. Be6 Nd8 19. Bb3 Nb7 20. Kc6 Na5+ 21. Kc7 Nxb3 22. b7 Nc5) 10. Kc6 $1 Nd8+ 11. Kc7 Kc5 12. b6 Kb5 13. Be8+ Ka5 14. Bd7 Ka6 15. Bf5 Ka5 16. Bg4 Kb5 17. Be2+ Kc5 18. Bc4 Nc6 19. b7 1-0  

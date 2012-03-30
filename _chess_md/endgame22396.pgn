@@ -1,0 +1,10 @@
+[Event "sp Prize, tc13 {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4N2K/5k2/8/7n/4n3/8/4P3/8 w - - 0 1"]
+
+ 1. Nc7 (1. Nd6+ $2 Nxd6 2. e4 Kg6 3. Kg8 Nf7 4. e5 Ng5 5. e6 Nh7 6. e7 N5f6+ 7. Kh8 Ne8) 1... Nhf6 2. e3 Nd6 (2... Ng5 3. Nb5 Nf3 4. Nd6+ Kf8 5. Nc4 Nh4 6. Ne5 ) 3. Nd5 (3. Nb5 $2 Nxb5 4. e4 Kg6 5. e5 Nh7 6. e6 Nd6 7. e7 Ne8) 3... Nxd5 4. e4 Nc7 5. e5 Nde8 6. e6+ Kg6 7. Kg8 Nd5 8. Kf8 Nec7 9. Kg8 (9. e7 $2 Ne6+ 10. Ke8 Nf6#) 1/2-1/2  

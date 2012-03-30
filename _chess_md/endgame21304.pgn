@@ -1,0 +1,10 @@
+[Event "5 HM, Olimpiya dunyasi {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Micu N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7B/N5R1/4p3/k7/P4n2/3p4/K2p4/6N1 w - - 0 1"]
+
+ 1. Rg5+ e5 (1... Kxa4 2. Bc3 $18) 2. Rxe5+ Ka6 (2... Kxa4 3. Nc6) 3. Ra5+ $1 Kxa5 4. Bc3+ Kxa4 5. Bxd2 Nh3 $1 6. Nb5 $1 (6. Nxh3 $2 {stalemate}) (6. Nf3 $2 Ng1 $1 7. Ne5 Nf3 $1 $11) 6... Nxg1 7. Nc3+ Kb4 8. Ne2+ Kc4 9. Nxg1 1-0  

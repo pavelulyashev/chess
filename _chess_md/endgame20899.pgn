@@ -1,0 +1,10 @@
+[Event "2 Prize, A.Guljaev & R.Kofman MT {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Katsnelson L, Razumenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/p4K2/P1p1P3/2P3r1/b7/8/1p5p/RB4R1 w - - 0 1"]
+
+ 1. e7 Bb3+ 2. Kf8 Re5 3. e8=Q+ Rxe8+ 4. Kxe8 hxg1=Q (4... bxa1=Q {main} 5. Bf5+ Kc7 6. Rxa1 Bd5 7. Rb1 h1=Q 8. Rb7#) 5. Bf5+ Be6 6. Bxe6+ Kc7 7. Rxg1 b1=Q 8. Rg7+ Kb8 9. Ke7 $1 Kc7 10. Kf6+ Kd8 11. Rg8+ Kc7 12. Rc8# 1-0  

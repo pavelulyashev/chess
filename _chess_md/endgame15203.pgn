@@ -1,0 +1,10 @@
+[Event "1 Commendation wc11 wi04 {v} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Roxlau M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k5b1/5p2/2K5/1p1B3N/3rp1p1/1pRp4/8/7n w - - 0 1"]
+
+ 1. Kb6+ $1 (1. Nf6 $2 Ka7 $1 (1... Rxd5 $2 2. Nxd5 Ka7 3. Rxb3 f5 4. Kc7 b4 5. Rxb4 Ka6 6. Nc3) 2. Rxb3 Bh7 $1 3. Rxb5 Bf5 4. Rb7+ (4. Ne8 Bc8) 4... Ka6 5. Rb1 Ka7 $1 6. Kc7 Ka6 $1 7. Bc6 $2 (7. Kc6 Ka7) 7... Ka5 8. Rb5+ Ka4 9. Rd5+ Kb3 $1 10. Rxd4 e3) 1... Kb8 2. Nf6 Rxd5 3. Nxd5 f6 $1 (3... f5 4. Ne7 Bc4 5. Rc1 Ng3 6. Ra1 Bd5 7. Ra7 b2 8. Rc7) 4. Ne7 Bc4 5. Rc1 Ng3 $1 6. Ra1 Bd5 $1 7. Ra7 $1 (7. Nxd5 $2 b2) 7... Nf5 $1 8. Nxf5 Kc8 $1 (8... b2 9. Rd7) 9. Ne7+ Kd8 10. Nxd5 b2 $1 (10... d2 11. Kc6 Ke8 12. Nxf6+ Kf8 13. Kd6 $1 d1=Q+ 14. Ke6) ( 10... Ke8 11. Nxf6+ Kf8 12. Ra1 e3 13. Ne4) 11. Nxf6 $1 (11. Kc6 $2 Ke8 12. Nxf6+ Kf8 13. Kd6 b1=Q 14. Nh7+ Kg8) 11... d2 $1 (11... b1=Q 12. Rd7+ Kc8 13. Rc7+ Kd8 14. Kb7 $1) 12. Rd7+ Kc8 13. Rd5 $1 (13. Rd6 $2 b1=Q 14. Rc6+ Kd8 15. Re6 Qg1+ 16. Kb7 Qa7+ 17. Kxa7 Kc7 $1 18. Ne8+ Kd7 19. Rd6+ Kxe8 20. Rxd2 Kf7) 13... b1=Q 14. Rc5+ Kd8 15. Re5 $1 Qg1+ 16. Kb7 Qa7+ 17. Kxa7 d1=Q (17... Kc7 18. Rc5+) 18. Kb7 1-0  

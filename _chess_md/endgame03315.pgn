@@ -1,0 +1,10 @@
+[Event "Matous60JT_3hm {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Akobia Y, Becker R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/8/4Q3/1k6/r7/3Rp3/q3r3/6B1 w - - 0 1"]
+
+1. Rb3+ ({Good try} 1. Qe5+ $2 Kb4 2. Qc3+ (2. Rd4+ {EV} Ka3 (2... Kb3 3. Qb5+Kc3 4. Qd3+ Kb2 5. Qxe2+) 3. Qc5+ Kb2 (3... Kb3 4. Rd3+ Kb2 5. Qc3+ Kb1 6. Rd1#) 4. Qb5+ Qb3 5. Qxe2+ {see next line}) 2... Kb5 3. Qe5+ Kb4 4. Rd4+ Ka3 5.Rd3+ Kb4 6. Rd4+ Ka3 7. Qc5+ Kb2 8. Qb5+ Qb3 9. Qxe2+ Ka3 10. Rd3 Rc4+ $1 11.Kd7 Rc3 {=}) 1... Rb4 (1... Kc5 2. Bxe3+ Rxe3 3. Qxe3+ {+-}) (1... Qxb3 2.Qxb3+ Rb4 3. Qd5+ {+-}) 2. Qd7+ (2. Qd5+ $2 Ka4 {=}) 2... Kc5 (2... Ka5 3. Qa7+Kb5 4. Qb7+ {+-}) (2... Ka6 3. Qd3+ Ka5 4. Ra3+ Qxa3 5. Qxa3+ Kb5 6. Bxe3 {+-})3. Qe7+ (3. Qf5+ $2 Kc6 4. Qf3+ Kd6 5. Qf6+ Kc5 6. Qe5+ Kc6 7. Qe8+ {transposes with loss of time}) 3... Kc6 4. Qe8+ Kc5 (4... Kd5 5. Rd3+ Kc4 6.Qe4+ Kb5 7. Qb7+ Kc5 8. Qc7+ Kb5 9. Qd7+ Kc5 10. Qd6+ Kb5 11. Rd5+ Ka4 12. Qa6+Kb3 13. Rd3+ Kc2 (13... Kb2 14. Qf6+ Kb1 15. Qf1+ Kb2 16. Qxe2+) 14. Qxa2+ Kxd315. Qa3+ {+-}) 5. Bxe3+ Rxe3 6. Qxe3+ Kb5 7. Qe8+ ({Thematic try} 7. Qd3+ $2Ka4 {zz} 8. Kd7 Rd4+ {=}) 7... Ka5 8. Qd8+ Ka4 9. Qd3 {zz} Qxb3 10. Qa6# 1-0

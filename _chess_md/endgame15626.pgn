@@ -1,0 +1,10 @@
+[Event "tt22#3141 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Heiskanen R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/1k6/1P1P2pR/1P4P1/7P/3p4/P6r/4K3 w - - 0 1"]
+
+ 1. Rh7+ $1 (1. d7 $2 d2+ 2. Kd1 Bxa2) 1... Bxh7 (1... Kxb6 2. d7 Kc7 3. b6+ Kd8 4. b7) 2. d7 d2+ 3. Kd1 Bg8 4. d8=Q Bb3+ 5. axb3 Rh1+ 6. Ke2 $1 Re1+ 7. Kf2 1-0  

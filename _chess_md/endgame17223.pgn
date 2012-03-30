@@ -1,0 +1,10 @@
+[Event "t001#222 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Somov-Nasimovitch E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1n6/qp6/2P5/pPN5/8/4P3/pK1k4/8 w - - 0 1"]
+
+ 1. Nb3+ Kxe3 (1... Ke1 2. c7) 2. c7 a1=Q+ $1 3. Kxa1 (3. Nxa1 $2 Qd4+) 3... a4 4. c8=N $1 (4. c8=Q $2 axb3+) 4... Qa8 (4... axb3+ 5. Nxa7 Kd3 6. Kb2 Kc4 7. Nc8) 5. Nb6 Qa7 6. Nc8 1/2-1/2  

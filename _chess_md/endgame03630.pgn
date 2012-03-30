@@ -1,0 +1,10 @@
+[Event "ts22#486 {c} {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7B/2k2pKB/3p2p1/3p4/2P3P1/2pN3P/4b3 w - - 0 1"]
+
+ 1. Nb3 d3 2. Bxg5 $3 (2. Kxf6 $2 2... c1=Q 3. Nxc1 d2 4. Nd3 (4. Nb3 d1=Q 5. Bc2 Bxc3+) 4... d1=Q 5. Nxe1 Qxe1 6. Kxg5 Qxc3) (2. Kg7 $2 2... c1=Q 3. Nxc1 d2 4. Nb3 d1=Q 5. Bc2 Qh5) 2... fxg5 3. Kh6 $3 3... c1=Q 4. Nxc1 4... d2 $1 5. Nb3 d1=Q 6. Bc2 $3 6... Qg4 7. Bf5 $3 7... Qd1 8. Bc2 1/2-1/2  

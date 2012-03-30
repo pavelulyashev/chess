@@ -1,0 +1,10 @@
+[Event "c Mat Plus 2007 {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Hoerning G, Josten G"]
+[Black "*"]
+[Result "*"]
+[FEN "3K1k1B/8/7P/1P1p3b/1p5p/pq2p1p1/1P4P1/2n2BQ1 w - - 0 1"]
+
+ 1. h7 Qc2 (1... d4 2. Bc4 Qxc4 3. Qf1+ Qxf1 4. Bxd4 Kf7 5. h8=Q $18) (1... Bg6 2. Bc4 Qa4 3. Qf1+ Bf7 4. Bd4 $18) 2. Bd3 Qxd3 3. Qf1+ Qxf1 (3... Bf7 4. Qxd3 $18) 4. Bd4 Kf7 (4... Qf7 5. h8=Q+ Qg8 6. Qf6+ $18) 5. h8=Q Kg6 6. Qg8+ Kf5 7. Qxd5+ Kg6 (7... Kf4 8. Qe5+ Kg4 9. Qg7+ $18) 8. Qg8+ Kf5 9. Qf8+ Ke4 10. Qxf1 axb2 (10... Kxd4 11. Qxc1 $18) 11. Bxb2 $18 { Not obvious sacrifices of white pieces} *  

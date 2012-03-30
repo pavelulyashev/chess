@@ -1,0 +1,10 @@
+[Event "4 Prize wg08 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2R5/4P3/4Pk2/7n/3K4/8/6p1/8 w - - 0 1"]
+
+ 1. Rg8 $1 (1. e8=Q $2 g1=Q+) (1. Rc1 $2 Kxe7) 1... Ng7 2. Kd5 $1 g1=Q 3. e8=N+ $1 Kf5 $1 (3... Nxe8 4. Rxg1 Nc7+ 5. Kd6 Nxe6 6. Rf1+) 4. Nxg7+ Kf4 5. Nh5+ $1 Kf5 $1 6. Ng3+ $1 (6. Rxg1 $2) 6... Kf4 (6... Kf6 7. Ne4+) 7. Ne2+ 1-0  

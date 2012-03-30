@@ -1,0 +1,10 @@
+[Event "2 Prize, tv36 {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Osintsev S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6Pb/3PK3/1k2P3/8/4n3/8/6b1 w - - 0 1"]
+
+ 1. d7 Bg8+ 2. Ke7 Nf5+ 3. Kf8 Be6 (3... Nxg7 4. Kxg7 $1 (4. Kxg8 $2 Ne6 5. Kf7 Nd8+ 6. Ke7 Bb6) (4. d8=N $2 Ne6+ 5. Nxe6 Bxe6)) 4. g8=Q $1 (4. d8=Q $2 Bc5+ 5. Ke8 (5. Qd6 Nxd6 $1 (5... Nh6 $2 6. Ke8 Bxd6 7. exd6 Kc6 8. Ke7 Bf5 9. Kf8 Bh7 10. g8=Q)) 5... Nxg7#) 4... Bc5+ 5. Ke8 Bxg8 6. d8=Q Ng7+ 7. Kd7 Be6+ 8. Kc7 Bb6+ 9. Kd6 Bxd8 (9... Bc5+ 10. Kc7 Bb6+ 11. Kd6) 1/2-1/2  

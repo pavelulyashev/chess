@@ -1,0 +1,10 @@
+[Event "td23#1594 {m}"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/5b2/3p4/3p4/4PR1p/5K1k w - - 0 1"]
+
+ 1. e4 $1 Bh3+ (1... Bxe4 $143 2. Rd2 Bf3 3. Kf2 Be2 4. Ra2 $18) 2. Ke1 Bg2 3. Rf4 Kg1 4. Rh4 Bxe4 (4... h1=Q $144 5. Rxh1+ Kxh1 6. e5 Bc6 7. e6 Kg2 8. Kd2 Bb5 9. e7 Kf3 10. e8=Q Bxe8 11. Kxd3 $11) 5. Rxe4 h1=Q 6. Rg4+ Kh2+ 7. Kf2 Kh3 8. Rh4+ Kxh4 $11 1/2-1/2  

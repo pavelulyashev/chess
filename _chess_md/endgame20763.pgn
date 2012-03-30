@@ -1,0 +1,10 @@
+[Event "ts23#029 @3 {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1p6/1P2bp1N/Pk3p2/5P2/Kp3P2/1P6/8 w - - 0 1"]
+
+ 1. a6 Kxa6 (1... Kxb6 2. axb7 Kxb7 3. Kb4) 2. Kb4 Kxb6 3. Kc3 Kc5 4. Kd2 Kd4 5. Ke2 Kc5 6. Kd2 Kd6 7. Kc1 Ke7 8. Kb1 Kf8 (8... Bd7 $1 {cook VG/FB} 9. Ka1 (9. Kc1 Kf8) 9... Ke6 10. Kb1 Bc6 11. Ka1 Bxf3 12. Kb1 Kd5 (12... Bh5 13. Ka1 (13. Kc1 Bg6 14. Kd2 Bh7 15. Ke3 Kd5 16. Nf7 Bg8 17. Nd8 Kd6 18. Nxb7+ Kc6 19. Nd8+ Kc7) 13... Bg6 14. Kb1 Bh7 15. Ka1 b6 16. Kb1 Kd5 17. Nf7 Ke4 18. Nd6+ Kxf4) 13. Nxf5 Ke4) 9. Ka1 Kg7 10. Nxf5+ Bxf5 1/2-1/2  

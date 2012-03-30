@@ -1,0 +1,10 @@
+[Event "tp25#1019 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2N5/3K4/8/8/2pp4/6P1/1k4N1 w - - 0 1"]
+
+ 1. Nb5 c2 2. Na3+ Kc1 (2... Kb2 3. Nxc2 dxc2 4. Ne2) 3. Nxc2 dxc2 4. Ne2+ Kd2 ( 4... Kd1 5. Nc3+ Kd2 6. Na2 Ke3 7. Ke5) 5. Nd4 c1=N (5... c1=Q 6. Nb3+ Ke3 7. Nxc1) 6. g4 Nd3 7. g5 Nf4 8. Ke5 Ke3 9. Kf5 Nd5 (9... Ng2 10. Nc2+ Kd2 11. Ke4 Nh4 12. Nd4 Kc3 13. Nf3 Ng6 14. Kf5 Ne7+ 15. Kf6 Nd5+ 16. Ke5 Ne7 17. Nh4 Kc4 18. Ke6 Nd5 19. Ng2 Nc7+ 20. Kf7) 10. Ne6 Kf3 11. Ke5 Ne7 12. Kf6 Nd5+ 13. Kf7 Ne3 14. g6 Nf5 15. Nd4+ Nxd4 16. Kf6 1-0  

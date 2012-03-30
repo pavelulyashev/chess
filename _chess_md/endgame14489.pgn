@@ -1,0 +1,10 @@
+[Event "tt23#250 @1 {m}"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Muller J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6Np/6p1/3B4/4KP2/8/6p1/6k1 w - - 0 1"]
+
+ 1. Ke3 (1. Ne6 $1 {cook BV} Kh2 (1... Kf1 2. Bc4+ Ke1 3. Ng5 g1=Q 4. Nf3+) 2. Ng5 g1=Q 3. Nf3+ Kh1 4. Nxg1 Kxg1 5. Bg8) 1... h5 (1... Kf1 2. Bxg2+ Kxg2 3. Nh5 h6 $1 4. Ke2 $1 Kh3 5. Kf3 Kh4 6. Nf6 Kh3 7. Ng8 h5 8. Ne7) 2. Nxh5 gxh5 3. f5 h4 4. Bxg2 $1 Kxg2 5. f6 h3 6. f7 h2 7. f8=Q h1=Q 8. Qg7+ Kh3 9. Qh6+ Kg2 10. Qg5+ Kh3 11. Qh5+ Kg2 12. Qg4+ Kh2 13. Kf2 1-0  

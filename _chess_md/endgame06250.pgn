@@ -1,0 +1,10 @@
+[Event "tt22#026 {c} @2 {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P6n/6Pp/6p1/1b6/6P1/k3bN1K w - - 0 1"]
+
+ 1. Ne3 (1. gxh6 $2 1... Bc2 2. a7 Be4 3. h7 Bc3) 1... Ba4 (1... Bf2 2. a7 Bd5 3. Nxd5 Bxa7 4. gxh6 g3 (4... Kb2 5. Nf6) (4... Bd4 5. h7 Kb2 6. Nf4) 5. h7 Bd4 6. Ne3 Kb2 7. Nf5) (1... Nf5 2. a7 Nxe3 (2... Ng3+ 3. Kg1 Ne2+ 4. Kf1) 3. a8=Q+ Kb2 4. Qe4) 2. gxh6 (2. a7 Bc6 3. Nc2+ Kb2 4. Nxe1 Ng8) 2... Bg3 $1 (2... Bc3 3. Nd5 Bd4 4. Nb4) (2... Bh4 3. Nd5 Bg3 (3... Bc2 4. a7) 4. Nb4) 3. Nc4 Bh4 ( 3... Bf2 4. h7 Bd4 5. Na5 Bc2 6. a7 Be4 7. Nb3+) (3... Be1 4. Ne5 Bc2 5. a7) 4. Ne5 Bb3 (4... Bc2 5. a7 $1 (5. Nd7 $2 5... Bf2) 5... Be4 6. Nd7 Bf2 (6... Be1 7. Nf6) 7. h7 $1 (7. Nf6 $2 7... Bd4 8. Nxe4 Bxa7) 7... Bd4 8. Nc5 $3 8... Bd5 9. Nb3+ Bxb3 10. a8=Q+) 5. a7 $1 (5. Nd7 $2 5... Bf2 $1 6. h7 (6. Nf6 6... Bc2 $1) 6... Bd4 7. Nb6 Bc2) 5... Bd5 6. Nd7 Bf2 7. Nf6 Bd4 (7... Be4 8. h7) 8. Nxd5 Bxa7 9. Nb4 (9. Nf6 $1 9... Bd4 10. Nxh5) 9... Bb8 (9... Bd4 10. Nc2+) 10. Nc6 1-0  

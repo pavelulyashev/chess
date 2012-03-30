@@ -1,0 +1,10 @@
+[Event "t001#325 {v} @3 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Birnov Z"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6p1/6p1/1K2p3/8/3N2Np/k3B3 w - - 0 1"]
+
+ 1. Ka3 h1=Q 2. Ne3 Qh3 3. Bf2 g4 (3... Qc8 4. Nc2+ Qxc2 5. Bd4+) 4. Kb3 g5 5. Ka3 g3 (5... Qg3 $1 {cook VK} 6. Bxg3) 6. Nc2# 1-0  

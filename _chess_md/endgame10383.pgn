@@ -1,0 +1,10 @@
+[Event "1 Prize wm15 {tt} {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/k7/2K3p1/8/7P/5P1P/8 b - - 0 1"]
+
+ 1... b6+ 2. Kd5 (2. Kc4 $2 Kb7 3. Kb5 (3. Kd5 Kc7) 3... Kc7) (2. Kc6 $2 b5 3. Kc5 Ka5 4. h4 b4 5. Kc4 Ka4 6. hxg5 b3 7. Kc3 Ka3 8. g6 b2 9. g7 b1=Q 10. g8=Q Qb2+ 11. Kd3 Qxf2) 2... b5 3. h4 gxh4 4. Kc5 Ka5 5. f4 b4 6. Kc4 Ka4 7. f5 b3 8. Kc3 Ka3 9. f6 b2 10. f7 b1=Q 11. f8=Q+ Ka2 12. Qa8# 1-0  

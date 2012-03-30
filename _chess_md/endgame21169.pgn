@@ -1,0 +1,10 @@
+[Event "sp Commendation, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Gargolin P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K6/7p/4P3/k1p1N3/8/1pP1P3/rpN5/8 w - - 0 1"]
+
+ 1. Na3 $1 (1. Nc4+ $2 Kb5 2. N2a3+ (2. e7 Kxc4 3. e8=Q b1=Q) 2... Rxa3 3. Nxa3+ Kc6) 1... Rxa3 2. e7 (2. Nc4+ $2 Kb5 3. Nxa3+ Kc6) 2... b1=Q 3. Nc4+ Ka6 4. e8=N $1 (4. e8=Q $2 Qg6 5. Qc8+ Kb5 6. Nxa3+ Ka4 7. Nc4 Kb5 8. Nb2 Qb6+ 9. Qb7 Qxb7+ 10. Kxb7 h5) 4... Kb5 (4... Qg6 5. Nc7#) 5. Nxa3+ Ka4 6. Nxb1 1-0  

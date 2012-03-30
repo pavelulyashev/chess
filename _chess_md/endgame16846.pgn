@@ -1,0 +1,10 @@
+[Event "ts61 {m}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/1K2R3/8/4p3/1R4p1/k5r1 w - - 0 1"]
+
+ 1. Re2 Rb1+ 2. Kc4 Rb4+ $1 (2... Rb2 3. Re1+ Rb1 4. Ra5+) 3. Kxb4 g1=Q 4. R2xe3 Qb1+ (4... Qg4+ 5. R5e4) 5. Rb3 $1 1-0  

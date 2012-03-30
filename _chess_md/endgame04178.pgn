@@ -1,0 +1,10 @@
+[Event "3 Commendation tc13 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/8/1K2P3/2N2n1P/8/7r/B7/8 w - - 0 1"]
+
+ 1. e7 Re3 (1... Nxe7 2. Be6+ Kd8 3. Bxh3 Ng8 4. Ne4 Ke7 5. Bf5 Nf6 6. h6 Kf7 7. h7) 2. Be6+ Rxe6+ 3. Nxe6 Kd7 (3... Nxe7 4. h6 Ng6 5. h7 (5. Kc6 $2 5... Ne5+ 6. Kd5 Ng4 7. h7 Nf6+) 5... Kd7 6. Nf8+ Nxf8 7. h8=Q) 4. e8=Q+ $1 (4. Ng7 $2 4... Nxe7) 4... Kxe8 5. Ng7+ $1 5... Nxg7 6. h6 Kf8 7. h7 1-0  

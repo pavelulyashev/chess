@@ -1,0 +1,10 @@
+[Event "Chervoni Girnik {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Kotov A, Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k2K4/N7/8/1Pp5/4p3/8/4p2R/2r5 w - - 0 1"]
+
+ 1. Kc8 (1. Rxe2 Kb7 2. Nc6 Kb6 3. Rb2 e3) 1... e1=Q (1... Kxa7 2. Rh6 Ra1 3. b6+ Ka6 4. b7+ Ka5 5. b8=Q) 2. Nc6 Ra1 3. b6 Qb1 {Bristol} 4. Rh1 $1 ({dual} 4. Kc7 $1 $18) 4... e3 5. Rf1 e2 6. Nb4 $1 exf1=Q 7. b7+ Ka7 8. b8=Q# 1-0  

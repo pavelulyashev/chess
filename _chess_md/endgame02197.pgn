@@ -1,0 +1,10 @@
+[Event "Shakhmaty Moskva {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Kuznetsov AG, Sacharov B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/r2p4/1pk5/2PR4/8/1K3B1b/8/8 w - - 0 1"]
+
+ 1. Rd6+ $1 (1. Rh5+ $2 Kc7 2. Rxh3 bxc5) 1... Kb5 $1 (1... Kc7 2. cxb6+ Kxd6 3. bxa7) (1... Kxc5 2. Rd5+ Kc6 3. Ra5+) 2. cxb6 Be6+ 3. Rxe6 $1 (3. Kb2 $2 Ra2+ 4. Kb1 Rh2 5. b7 Rh8) 3... Rb7 4. Re5+ d5 $1 {Nowotny} 5. Bxd5 $1 Rxb6 (5... Rb8 6. b7 $18) 6. Bb7# 1-0  

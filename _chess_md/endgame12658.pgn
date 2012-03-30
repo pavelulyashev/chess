@@ -1,0 +1,10 @@
+[Event "tr36 @2 {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p3P2/6p1/k4rp1/8/8/6PP/4R2K w - - 0 1"]
+
+ 1. Re5+ $1 Rxe5 2. g4 $1 Re1+ 3. Kg2 Re2+ 4. Kg3 $1 (4. Kf1 $2 Re4 5. f8=Q Rf4+ 6. Qxf4 gxf4 7. h4 b5 8. h5 gxh5 9. gxh5 b4 10. h6 b3 11. h7 b2 12. h8=Q b1=Q+) 4... Re3+ 5. Kf2 Re4 6. f8=Q Rf4+ 7. Qxf4 gxf4 8. h4 b5 9. h5 gxh5 10. gxh5 ( 10. g5 $1 {cook JU}) 10... b4 11. h6 b3 12. h7 b2 13. h8=Q b1=Q 14. Qa8+ Kb6 15. Qb8+ 1-0  

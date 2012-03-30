@@ -1,0 +1,10 @@
+[Event "6 Prize Selivanov-30 JT @2 {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Manveljan A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2B5/1P5K/8/p7/8/1P2k3/2r5 w - - 0 1"]
+
+ 1. b7 Rc6+ (1... Rh1+ 2. Kg7 Rg1+ 3. Kf7 Rf1+ 4. Ke7) 2. Kg5 Rc5+ 3. Kf6 $3 (3. Kf4 Rb5 4. b8=Q Rxb8 5. Bxb8 a3 $1 6. bxa3 (6. b3 $1 {cook AR/MG}) 6... Kd3 $1 7. Ke5 Kc4 $1 8. Ke6 $1 Kc5 $1 9. Kd7 Kb5 $1 10. Kd8 Kc6 11. Kc8 Kb6) 3... Rb5 4. b8=Q Rxb8 5. Bxb8 a3 $1 6. bxa3 (6. b4 $2 Kd3 $1 7. b5 Kc4 8. b6 Kb5 9. b7 Kb6) (6. b3 $1 {cook MC}) 6... Kd3 $1 7. Ke7 $1 Kc4 $1 8. Kd8 $1 Kb5 $1 9. Kd7 $1 Kb6 10. Kc8 Ka6 11. Kc7 1-0  

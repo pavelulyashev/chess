@@ -1,0 +1,10 @@
+[Event "2 Prize Magyar Sakkйlet {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/q2pp3/p6r/ppN5/1Rp5/k1P5/P3PPPP/K7 w - - 0 1"]
+
+ 1. Ra4+ $1 bxa4 2. Bxe7 (2. Nd3 $143 Qd4 $3 3. cxd4 cxd3 4. Bxe7+ (4. exd3 $144 Re6 $19) 4... d6 5. exd3 Re6 $19) 2... Rd6 $1 (2... Qb6 $144 3. Nd3+ d6 4. Bg5 $18) 3. Nd3 $3 (3. Bxd6 $143 Qb6 4. Nb3+ Qxd6 5. Nd4 Qg6 $1 6. f3 d5 $1 7. g3 $1 (7. e4 $143 Qxg2 $19) 7... Qb1+ $3 8. Kxb1 $11) 3... Qc5 $1 4. Nb2 $1 Rd1+ $1 5. Nxd1 Qxe7 6. Ne3 $1 Qe4 7. h3 $3 (7. h4 $143 d6 $1 8. h5 d5 9. h6 Qg6 10. f3 Qh7 11. g4 Qg6 12. g5 Qh7 $19) 7... d6 $1 8. h4 d5 9. h5 Qh7 10. f3 $18 1-0  

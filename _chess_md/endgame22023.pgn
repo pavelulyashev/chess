@@ -1,0 +1,10 @@
+[Event "ts04#2118 {c} @3 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5nk1/3p3p/P1pPp2P/4P2P/2P1K3/1p6/4n3/8 w - - 0 1"]
+
+ 1. Kd3 b2 2. Kc2 Nc3 3. Kxb2 Na4+ 4. Ka3 Nb6 5. Kb4 Kf7 (5... Nc8 $1 {cook} 6. Ka5 Kf7 7. a7 Nxa7 8. Kb6 Nc8+ 9. Kc7 Na7) 6. a7 Ke8 7. Ka5 Na8 8. Ka6 Kd8 9. Kb7 c5 10. Kb8 Nb6 11. a8=Q Nxa8 12. Kxa8 Kc8 13. Ka7 Kd8 14. Kb8 Ke8 15. Kc8 Kf7 16. Kd8 Kg8 17. Ke8 Kh8 18. Kf7 1-0  

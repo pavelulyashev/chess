@@ -1,0 +1,10 @@
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6P1/k2P4/p3r3/7N/2P1PB1K/2b5 w - - 0 1"]
+
+ 1. d6 Ba3 (1... Bb2 2. c3 Bxc3 3. Be1 Bxe1 4. d7 Bh4 5. g7 Rg4 6. Ng5) 2. d7 Be7 3. g7 Rg4 4. Bh4 $1 Bxh4 {critical move} 5. Ng5 $1 {Nowotny} Rxg5 (5... Bxg5 6. g8=Q) 6. d8=Q+ 1-0  

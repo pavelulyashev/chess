@@ -1,0 +1,10 @@
+[Event "3 Prize ts15#128 {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/4p3/3p2pk/1R3P2/6P1/1p2p1Pp/1P2P3/7b w - - 0 1"]
+
+ 1. f6 $1 (1. Ra5 $2 Bg2 2. Ra1 h2) 1... exf6 2. g5+ $1 fxg5 3. g4 $1 h2 4. Rb8 Bd5 (4... Bf3 5. exf3 h1=Q 6. Rb7) (4... Bg2 5. Rg8 h1=Q 6. Rg7) 5. Rf8 $1 (5. Re8 $2 h1=Q 6. Re7 Bf7 $1 7. Rxf7 Qa8+) 5... h1=Q 6. Rf7 $1 Bxf7 1/2-1/2  

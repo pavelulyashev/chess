@@ -1,0 +1,10 @@
+[Event "tt20#554 @3 @2 {m}"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7n/7P/4b2P/8/1pP5/8/n3k3/1K2B3 w - - 0 1"]
+
+ 1. Bg3 $1 (1. Bh4 $2 Nc3+ 2. Kc2 Ne4) 1... Bxc4 (1... Nc3+ 2. Kc1 $1 Bxc4 (2... Na4 $1 {cook HH} 3. Be5 Bf5 4. Bxh8 Bxh7 5. c5 (5. Bf6 Kd3 6. c5 Nxc5 7. Kb2 Kc4) 5... Nxc5 6. Kb2 Kd3) 3. Be5 Nf7 4. h8=Q Nxh8 5. Bxh8 Bd3 (5... Na4 6. h7 Bd3 7. Bc3) 6. Bxc3 bxc3 7. h7 Bxh7) 2. Be5 Nf7 3. h8=Q Nxh8 4. Bxh8 Kd1 $1 ( 4... Kd2 5. h7 Nc3+ 6. Ka1 $1) 5. h7 (5. Ka1 $1 {cook HH} b3 6. Kb2 Nc1 7. h7 Bd3 (7... Nd3+ 8. Ka1 Nf4 9. Be5) 8. Bd4 Bxh7 9. Be3) 5... Nc1 $1 6. Ba1 $1 (6. Bc3 $2 bxc3 7. h8=Q c2+ 8. Ka1 (8. Kb2 Nd3+) 8... Nb3+ 9. Ka2 Nd2+) (6. Ka1 $1 {cook HH}) 6... Bd3+ 7. Kb2 Bxh7 1/2-1/2  

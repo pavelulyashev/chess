@@ -1,0 +1,10 @@
+[Event "3 Prize, tn20#30 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r5n1/Nr6/Rp3k2/8/P5K1/8/6R1/3B4 w - - 0 1"]
+
+ 1. Bf3 Rbxa7 (1... Nh6+ 2. Kf4 Rbxa7 3. Rxb6+ Kf7 4. Bxa8 Rxa4+ 5. Be4) (1... Raxa7 2. Bxb7 Rxb7 3. a5) (1... Rg7+ 2. Kf4 Rgxa7 (2... Raxa7 3. Rxb6+ Kf7 4. Bd5+ Ke8 5. Rb8+) 3. Rxb6+ Ke7 4. Bxa8 Rxa4+ 5. Be4) 2. Rxb6+ (2. Bxa8 $2 Rxa6) 2... Kf7 (2... Ke5 3. Re2+ Kd4 4. Bxa8 Rxa4 5. Bf3) (2... Ke7 3. Re2+ Kd7 4. Bxa8 Rxa4+ 5. Be4) (2... Kg7 3. Kf5+ Kf7 4. Bxa8) 3. Bd5+ (3. Bxa8 $2 Rxa4+ 4. Be4 Rxe4+ 5. Kf3 Re7) 3... Kf8 (3... Ke7 4. Re2+ Kf8 5. Bxa8 Rxa4+ 6. Be4) ( 3... Kg7 4. Bxa8 Rxa4+ 5. Kf3+) 4. Bxa8 (4. Rf2+ $2 Kg7 5. Bxa8 Rxa4+ 6. Kf5 ( 6. Be4 Rxe4+ 7. Kf5 Re7) 6... Nh6+ 7. Kg5 Ra5+ 8. Kh4 Rxa8) 4... Rxa4+ 5. Be4 ( 5. Kf3 $2 Rxa8 6. Rbg6 Ne7) 5... Rxe4+ 6. Kf3 (6. Kf5 $2 Re8 7. Rbg6 Ne7+) 6... Re8 (6... Re5 7. Rb8+) 7. Rbg6 Ne7 (7... Kf7 8. Rg7+) 8. Rf6# 1-0  

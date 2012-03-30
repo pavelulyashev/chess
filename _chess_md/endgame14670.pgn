@@ -1,0 +1,10 @@
+[Event "td20#1530 {v} @2 {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1r6/1P3P1k/p5p1/7N/B7/Kp6/8 w - - 0 1"]
+
+ 1. f7 $1 Rxf7 2. Be7 Rh7 3. b7 Rh8 4. Nf5+ Kg6 5. Nd6 Rb8 6. Bd8 (6. Kxb2 $1 { cook JF} Kh5 (6... g4 7. Bh4) 7. Bf6 Kg4 (7... g4 8. Be5) 8. Bd4) 6... Rxd8 7. Nc8 b1=Q+ 8. Kxb1 Rd4 9. Ne7+ Kf7 10. Nc6 1-0  

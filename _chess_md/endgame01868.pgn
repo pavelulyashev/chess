@@ -1,0 +1,10 @@
+[Event "Die Schwalbe {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Rusz A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K1k5/R7/8/p2n4/6p1/n1p5/8/5B2 w - - 0 1"]
+
+ 1. Rxa5 Nb5 $1 (1... c2 2. Rc5+ Kd7 3. Bd3 $1 (3. Rxd5+ $2 Kc6 4. Bg2 Kb6 5. Rd6+ Kb5 6. Bf1+ Nc4 7. Bxc4+ Kc5 $1 $19) 3... g3 (3... Kd6 4. Rxc2 Nxc2 5. Bxc2 Nc3 6. Bf5 g3 7. Bh3 Ne2 8. Bg2 $11) 4. Bxc2 Kd6 5. Ra5 g2 6. Ra6+ Ke5 7. Rg6 $11) 2. Bxb5 (2. Rxb5 $2 Nc7+ $19) 2... Nc7+ 3. Ka7 c2 4. Ba6+ $1 (4. Ra1 $2 Nxb5+ 5. Kb6 Nd4 6. Kc5 Nb3+ 7. Kc4 Nxa1 $19 (7... c1=Q+ $2 8. Rxc1 Nxc1 9. Kd4 $11)) 4... Nxa6 5. Kxa6 $1 ({Thematic try:} 5. Rxa6 $2 c1=R $1 (5... c1=Q $2 6. Rc6+ $1 Qxc6 {stalemate}) 6. Rg6 Rg1 $1 (6... Rc4 $2 7. Kb6 (7. Ka6) 7... Kd7 8. Kb5 Rf4 9. Kc5 Ke7 10. Kd5 Kf7 11. Ke5 $1 $11) 7. Kb6 $1 {Rйti-manoeuvre } g3 $1 (7... Kd7 $2 8. Kc5 $11) 8. Kc6 $1 Kd8 9. Kd6 Ke8 10. Ke6 Kf8 11. Kf6 g2 $19) (5. Ra1 $2 Nb4 6. Kb6 Nd3 $1 $19 (6... Na2 $2 7. Kc5 c1=Q+ 8. Rxc1 Nxc1 9. Kd4 $11)) 5... c1=R $1 (5... c1=Q 6. Rc5+ $1 Qxc5 {stalemate}) 6. Rg5 Rg1 7. Kb6 (7. Kb5) 7... g3 8. Kc6 Kd8 9. Kd6 Ke8 10. Ke6 Kf8 11. Kf6 (11. Kf5) 11... g2 12. Kg6 $1 1/2-1/2  

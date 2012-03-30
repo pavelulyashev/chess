@@ -1,0 +1,10 @@
+[Event "Matous60JT_3comm {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Kalandadze V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k3N/R6p/6p1/5N2/rr6/2K5/8/8 w - - 0 1"]
+
+1. Nf7+ Ke8 (1... Kc8 2. Ne7+ Kb8 3. Nc6+ Kc8 4. Nd6#) 2. Ng7+ Kf8 3. Ne6+ Kg8(3... Ke8 4. Nd6#) 4. Nh6+ Kh8 5. Rg7 $1 Rc4+ 6. Kd3 (6. Kd2) 6... Rd4+ 7. Ke3(7. Ke2) 7... Re4+ 8. Kf3 (8. Kf2) 8... Rf4+ 9. Kg3 $1 (9. Kg2 Ra8) 9... Rf8 (9... Rg4+ 10. Nxg4 Ra3+ 11. Kf2 Ra2+ 12. Ke3 Ra6 13. Re7) 10. Rg8+ Rxg8 11.Nf7# 1-0

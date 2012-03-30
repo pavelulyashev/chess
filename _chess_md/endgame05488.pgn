@@ -1,0 +1,10 @@
+[Event "6 Commendation tc13 {m}"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Sidorov B"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/b5N1/p2pR3/P2B4/3k1p2/K2p1P2/8 w - - 0 1"]
+
+ 1. Nf4+ (1. Rxd5 $2 1... Bc4+) 1... Kc2 (1... Kxd4 2. Rxd5+ Kc3 3. Kb1) (1... Kc4 2. Nxd5 d1=Q 3. Ne3+) 2. Nxd5 Bc4+ 3. Ka3 Bxd5 4. Bc3 d1=Q (4... Kxc3 5. Rxd5 Kc2 6. Rc5+ (6. Rxa5 $2 6... d1=Q 7. Rc5+ Kb1 8. Rb5+ Ka1) 6... Kd3 7. Rxa5 Ke2 8. Rd5 d1=Q 9. Rxd1 Kxd1 10. a5) 5. Re1 Qd3 6. Rc1+ Kxc1 1/2-1/2  

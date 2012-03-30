@@ -1,0 +1,10 @@
+[Event "Bohemia {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/5p2/3N1R2/p2k4/6K1/1p6/8 w - - 0 1"]
+
+ 1. Nc7 $1 1... b1=Q (1... Kc4 2. Nb5 Kb4 3. Nd4) 2. Nb5+ Kd3 3. Rf3+ Kd2 4. Rf2+ Ke1 (4... Ke3 5. Rf3+) 5. Re2+ $1 5... Kf1 6. Rf2+ Kg1 7. Rg2+ 1/2-1/2  

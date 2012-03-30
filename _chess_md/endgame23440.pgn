@@ -1,0 +1,10 @@
+[Event "ts04#312 @3 {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/nnP5/8/7K/8/8/8/7R w - - 0 1"]
+
+ 1. Rb1 Nc8 2. Ra1+ Na5 3. Rxa5+ Kb7 4. Rc5 Nd6 (4... Na7 $1 {cook JJ} 5. Kg5 Kc8 6. Kf5 Kd7 7. Ke5 Nc8 8. Kd5 Na7 9. Kc4 Kc8 10. Kb4 Kb7) 5. Kg4 (5. Kg6 $2 Kc8 $1 6. Kf6 $2 Ne4+) 5... Kc8 6. Kf4 Ne8 (6... Kd7 $1 {cook HC}) 7. Ke5 Nxc7 8. Kd6 1-0  

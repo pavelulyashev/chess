@@ -1,0 +1,10 @@
+[Event "Le Temps {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Henneberger M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6K1/p7/P1r5/2B5/pR1P4/k7 w - - 0 1"]
+
+ 1. Bh8 $1 {Indian} (1. Bf6 $2 Rg4+ 2. Kf7 Rg7+ $1 3. Ke6 (3. Kxg7 {stalemate}) 3... Rg6 4. Ke7 Rg7+ {positional draw}) 1... Rg4+ 2. Kf7 Rg7+ 3. Kxg7 1-0  

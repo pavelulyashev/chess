@@ -1,0 +1,10 @@
+[Event "ok02 {v} {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K1k1/8/6Pp/6p1/6Bp/7P/8/8 w - - 0 1"]
+
+ 1. Ke7 Kg7 2. Ke6 (2. Bf5 $2 g4 3. hxg4 h3 4. Be4 h2 5. Ke6 h1=Q 6. Bxh1 Kxg6) 2... Kxg6 3. Bh5+ Kxh5 4. Kf5 g4 5. hxg4# 1-0  

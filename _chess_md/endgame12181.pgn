@@ -1,0 +1,10 @@
+[Event "tt21#3782 @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pachman V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3RNrp1/3Rr1p1/7k/3n4/4P1P1/6K1 w - - 0 1"]
+
+ 1. g3+ Kg4 (1... Kh3 2. Rxe5 Nxe5 3. Nxg5+) 2. Rd4+ Nf4 3. gxf4 Rexe6 4. f5+ Kxf5 5. e4+ Kf4 (5... Ke5 $1 {cook} 6. R6d5+ Kf4 7. e5+ Kg3 8. exf6 $4 (8. Rd3+ Rf3) 8... Re1#) 6. e5+ Kxe5 7. R6d5# 1-0  

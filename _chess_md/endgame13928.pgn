@@ -1,0 +1,10 @@
+[Event "tm04 {tw} @3 {m}"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Farago P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k5/8/P2K4/8/3N4/8/B2pp2p/8 w - - 0 1"]
+
+ 1. Be6+ Kd8 (1... Kb8 $2 2. Nc6+ Ka8 3. Bc8 d1=Q+ 4. Kc7 Qd6+ 5. Kxd6 e1=Q 6. Bb7#) 2. a7 h1=Q 3. Nc6+ Qxc6+ 4. Kxc6 d1=Q (4... e1=Q $1 {cook JN} 5. a8=Q+ Ke7) 5. a8=Q+ Ke7 6. Qa3+ Kxe6 7. Qe3+ 1/2-1/2  

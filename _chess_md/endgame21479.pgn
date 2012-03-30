@@ -1,0 +1,10 @@
+[Event "tl20#1904 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/6P1/4k2P/7K/8/5p2/8 w - - 0 1"]
+
+ 1. g7 f1=Q (1... f1=R 2. h6 (2. Kg5 $2 Rg1+ 3. Kh6 Kf6) 2... Kf6 (2... Rh1+ 3. Kg3 $1 Kf6 4. Kg2 (4. g8=N+ $2 Kf7 5. Kg2 Rh5 6. h7 Rxh7)) 3. g8=N+ (3. g8=Q $2 Rh1+ 4. Kg3 Rg1+) 3... Kf7 (3... Kg6 4. Ne7+ $1 Kf6 5. Ng8+ Ke6 6. h7 Rh1+ 7. Kg5 Rxh7 8. Nh6) 4. h7 Rh1+ 5. Kg5 Rxh7 6. Nh6+) 2. g8=Q Qh1+ 3. Kg5 Qg2+ 4. Kh6 Qxg8 1/2-1/2  

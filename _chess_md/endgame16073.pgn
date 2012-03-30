@@ -1,0 +1,10 @@
+[Event "V.Korolkov-100 MT, 7 prize {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/4kp1P/rPrp4/7N/2p4p/8/6N1/8 w - - 0 1"]
+
+ 1. b7 Rab6 (1... Rcb6 2. Kg7 d5 3. Nf6 Rxf6 4. b8=Q {win.}) 2. Kg7 d5 3. Ngf4 $3 ({Thematic try} 3. Nxh4 $2 Rg6+ 4. Nxg6+ Rxg6+ 5. Kh8 Rb6 6. Kg8 $1 Rxb7 7. Kg7 Rb8 8. Nf6 Rh8 $1 9. Kxh8 c3 10. Kg7 (10. Nxd5+ Kf8 {theoretic draw.}) 10... c2 11. h8=Q c1=Q 12. Qf8+ Ke6 13. Qxf7+ Ke5 14. Qxd5+ Kf4 15. Nh5+ Kg4 16. Qg2+ Kf5 17. Qd5+ Kg4 $11) 3... Rg6+ 4. Nxg6+ Rxg6+ 5. Kh8 Rb6 6. Kg8 $1 ( 6. Nf6 $2 Kxf6 7. Kg8 Rxb7 8. h8=Q+ Ke6 {draw.}) 6... Rxb7 7. Kg7 Rb8 8. Nf6 Rh8 $1 (8... c3 9. Ng8+ Kd6 10. h8=Q {win.}) 9. Kxh8 (9. Nxd5+ Ke8 10. Nf6+ Ke7 {waste of time.}) 9... c3 (9... Kf8 10. Nd7+) 10. Kg7 c2 11. h8=Q c1=Q 12. Qf8+ $1 Ke6 13. Qxf7+ Kd6 14. Qd7+ Ke5 15. Qxd5+ Kf4 16. Nh5+ Kg4 (16... Ke3 17. Qg5+) 17. Qe4+ Kxh5 (17... Kh3 18. Nf4+ Kg3 19. Ne2+) 18. Qg6# { Deep 15-move forsight.} 1-0  

@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention tp31#088 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/1P1P4/8/3p4/p2pN3/1P2n3/k2K4 w - - 0 1"]
+
+ 1. Nc4 axb2 (1... Nc3+ 2. bxc3 $1 (2. Kc1 $2 d2+ 3. Nxd2 (3. Kxd2 axb2 4. Nxb2 Ne4+) 3... axb2+ 4. Kc2 Ne4) 2... dxc3 (2... a2 3. cxd4 $1 Kb1 4. b7 a1=Q 5. b8=Q+) 3. Nxa3 $1 Kb2 4. Nc4+ Kb1 5. Nd2+ $1 Kb2 6. Nb3 $1) (1... a2 2. b7 Nc3+ 3. Kc1 d2+ 4. Nxd2) 2. Nxb2 Nc3+ 3. Kc1 $1 (3. Kd2 $2 Ne4+ 4. Kxd3 Nxd6 5. Nc4 Nb7) (3. Ke1 $2 d2+ 4. Kxd2 Ne4+) 3... d2+ (3... Na2+ 4. Kd2 Nb4 5. b7 Nc6 6. Nxd3 Nb8 (6... Ka2 7. Nb4+) 7. Nc5 Kb2 8. Kd3 Ka3 9. Kc4 d3 10. Nxd3 Ka4 11. Kc5 Ka5 12. Nb4 Ka4 13. Kb6) 4. Kc2 d1=Q+ $1 5. Nxd1 Ne4 6. b7 (6. Kd3 $2 Nxd6 7. Kxd4 Ka2) 6... d3+ 7. Kc1 Nc5 $1 8. b8=R $1 (8. b8=Q $2 Nb3+ 9. Qxb3 d2+ 10. Kxd2) 1-0  

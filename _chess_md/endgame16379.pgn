@@ -1,0 +1,10 @@
+[Event "bi05#063 {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/3Pn3/2P5/Pb6/4B3/P7/1K6/4n3 w - - 0 1"]
+
+ 1. a6 $1 (1. Kc3 $2 Bxc6 2. Bxc6 Nxc6 3. a6 Na7 4. Kb4 Kxd7 5. Kc5 Kc7) 1... Bxa6 (1... Nxc6 2. Kc3 Na7 3. Kd2) (1... Bxc6 2. Bxc6 Nxc6 3. a7 $1 Nxa7 4. Kc3 $1 Nc6 (4... Nb5+ 5. Kc4 Nc7 6. a4 Nc2 (6... Nf3 7. a5 Ne5+ 8. Kc5) 7. Kc3 Ne3 (7... Na1 8. Kb2) (7... Ne1 8. Kc4) 8. Kd4 Nf5+ 9. Kc5) 5. a4 Nb8 6. Kc4 Nc2 7. Kc3 Ne3 (7... Na3 8. Kb3 Nb1 9. Kb2) 8. Kd4 Nf5+ 9. Kc5 Nxd7+ 10. Kb5) 2. Kc3 Ng8 (2... Bf1 3. Kd2 Ng2 4. Bd3) 3. Bd5 (3. Kd2 $2 Nf6) 3... Nf6 $1 4. Bc4 Ne4+ (4... Bxc4 5. Kxc4) 5. Kd4 (5. Kb3 $2 Nd2+) (5. Kb4 $2 Nc2+ 6. Kb3 Nd2+) 5... Nc2+ (5... Bxc4 6. Kxc4) (5... Nf3+ 6. Kd5 $1 Nc3+ 7. Kc5) 6. Kd3 $1 (6. Kd5 $2 Ne3+) 6... Nc5+ (6... Ne1+ 7. Kd4 Nf3+ 8. Kd5 $1 Nf6+ 9. Kc5 Ne4+ 10. Kb4) ( 6... Nf2+ 7. Kc3 Nd1+ 8. Kb3 Nd4+ 9. Kb4 Nxc6+ 10. Kc5 Bxc4 11. Kxc4 Nb8 (11... Ne3+ 12. Kb5 Nd4+ 13. Ka6) (11... Nb2+ 12. Kb5 Nd4+ 13. Kb4) 12. a4) 7. Kc3 Na4+ (7... Bxc4 8. Kxc4 Na6 9. Kb5 Nc7+ 10. Kb6 Ne3 11. a4 Ned5+ 12. Kb7 Nb4 13. a5 Nba6 14. Kb6) 8. Kb3 (8. Kd3 $2 Nb2+) 8... Na1+ 9. Kb4 Nc2+ 10. Kb3 $1 Nd4+ 11. Kb4 Nxc6+ (11... Bxc4 12. Kxc4 Ne6 13. Kb4 Nec5 14. Kb5) 12. Kxa4 $1 Bxc4 1/2-1/2  

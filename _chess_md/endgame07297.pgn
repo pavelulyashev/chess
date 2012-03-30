@@ -1,0 +1,10 @@
+[Event "1 Prize wm03 {tt} {m}"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p1NKpk1/1p6/5PP1/1P6/4p1p1/8/8 w - - 0 1"]
+
+ 1. f6+ Kg6 $1 (1... Kg8 $144 2. g6 $18) 2. Ne5+ Kxg5 3. Nf3+ Kf4 (3... Kg4 $144 4. Ng1 $1 (4. Ne1 $143 e2 5. Kxf7 Kh3 6. Kg7 g2 $11) 4... g2 5. Kxf7 Kg3 (5... e2 $144 6. Nxe2 Kf3 7. Ng1+ Kf2 8. Ke7 Kxg1 9. f7 Kh2 10. f8=Q g1=Q 11. Qh6+ Kg2 12. Qg7+ Kf2 13. Qxg1+ Kxg1 14. b5 $1 $18) 6. Ke8 $1 (6. Kg8 $143 e2 $1 7. Nxe2+ Kf2 8. f7 Kxe2 9. f8=Q g1=Q+ $11) 6... Kf2 7. f7 e2 8. f8=Q+ Kxg1 9. Qe7 $18) 4. Ne1 $1 (4. Ng1 $143 g2 5. Kxf7 Ke4 $1 6. Kg8 Kd3 7. Nf3 Kc3 8. f7 e2 9. f8=Q g1=Q+ 10. Nxg1 e1=Q 11. Nf3 Qg3+ 12. Kh7 Qh3+ 13. Kg6 Qg4+ 14. Ng5 Qxb4 $11) 4... e2 5. Kxf7 Ke3 6. Kg8 $1 (6. Ke8 $143 g2 7. Nxg2+ Kf2 8. f7 Kxg2 9. f8=Q e1=Q+ $11) 6... Kf2 7. f7 Kxe1 8. f8=Q g2 9. Qg7 $18 1-0  

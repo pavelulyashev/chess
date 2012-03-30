@@ -1,0 +1,10 @@
+[Event "4 Prize tb28#381 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7N/R7/4r2P/6p1/8/5k2/7K/3n4 w - - 0 1"]
+
+ 1. Rf7+ $1 (1. Nf7 $2 Re2+ 2. Kg1 Re1+ 3. Kh2 Re2+ 4. Kg1 (4. Kh3 $2 Nf2+ 5. Kh2 Ng4+) 4... Re1+) (1. Ra3+ $2 Re3 $1 2. Rxe3+ Nxe3 3. h7 Ng4+ 4. Kg1 Nf6) 1... Kg4 2. h7 Rh6+ (2... Re2+ 3. Kg1 Kg3 (3... Ne3 4. Rf2 $1) 4. Kf1 $1 (4. Ng6 $2 Ne3 5. Rf3+ Kxf3 6. h8=Q Re1+ 7. Kh2 Ng4+) 4... Nc3 5. Ng6 Rd2 6. Re7) 3. Kg1 Kh5 4. Rg7 $1 (4. Re7 $2 Nc3 5. Re3 Kg4 $1) (4. Rd7 $2 Ne3 $1 5. Rd2 Nf5 $1 (5... Ng4 $2 6. Rd3 Rxh7 7. Rh3#) 6. Rh2+ Nh4) 4... g4 (4... Nc3 5. Nf7 $1 ( 5. Ng6 $2 Rxh7 6. Rxh7+ Kxg6) 5... Rxh7 6. Rxh7+ Kg6 7. Rh3 Ne2+ 8. Kf2 (8. Kf1 {or} Nf4 9. Ne5+)) (4... Nb2 5. Nf7 $1 Rxh7 6. Rxh7+ Kg6 7. Rh2) 5. Ng6 $1 (5. Nf7 $2 Rxh7 6. Rxh7+ Kg6) 5... Rxh7 6. Nf4+ Kh6 7. Rg6# 1-0  

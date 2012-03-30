@@ -1,0 +1,10 @@
+[Event "tl04#078 {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1B1rpP1k/1K5b/4P1p1/1p1P2P1/pP2P2p/P7/8 w - - 0 1"]
+
+ 1. f8=N+ $1 1... Bxf8 2. Be4+ Kh8 3. Kc6 Rd8 4. Kc7 Re8 5. Kd7 Rb8 6. Kc7 Rb5 7. Kc6 Ra5 8. Kb6 Ra4 9. Kb5 $1 (9. bxa4 $2 9... b3 10. axb3 a2) 9... Ra7 10. Kb6 Rd7 11. Kc6 1/2-1/2  

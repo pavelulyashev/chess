@@ -1,0 +1,10 @@
+[Event "5 Prize ws27 tp25 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/N7/3k4/4p3/K7/pp1N4/1B6 b - - 0 1"]
+
+ 1... a1=Q+ 2. Ba2+ Kd4 3. Nb1 e3 4. Nb4 e2 5. Nc2+ Kd3 6. Ne1+ $1 (6. Kb3 $2 Qxa2+ 7. Kxa2 Kxc2) 6... Ke3 7. Kb3 $1 (7. Nc2+ $2 Kf2 8. Kb3 e1=Q 9. Nxe1 Kxe1 10. Ka3 Kd1 11. Kb3 Kc1) 7... Kf2 8. Nd3+ Kf1 9. Nd2+ Kg2 10. Nb1 Kg1 $1 11. Ka3 $1 (11. Ne1 $2 Kf1 $1) 11... Kf1 12. Nd2+ Kg2 13. Nb1 Kg1 14. Kb3 $1 1/2-1/2  

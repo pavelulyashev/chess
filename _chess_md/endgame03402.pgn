@@ -1,0 +1,10 @@
+[Event "1st prize, Neidze 70 JT -THEME {m}"]
+[Site "?"]
+[Date "2007.07.06"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/B7/8/7R/4kr1R/4b1p1/4K3 w - - 0 1"]
+
+1. Re4+ $1 ({Thematic try} 1. Rxf3+ $2 Bxf3 $1 2. Rg4 Bxg4 3. Bf1 g1=B $1 (3...g1=Q {stalemate}) 4. Bb5 Bf2+ 5. Kf1 Bh3# {(Idea of I.Fritz,1933)}) 1... Kxe42. Kxe2 ({Thematic try} 2. Rxf3 $2 g1=Q+ 3. Kxe2 Qh2+ $1 (3... Qg2+ $2 4. Rf2$1 (4. Ke1 $2 Qg1+ $19) 4... Qg4+ 5. Kf1 {and impossible 5...Qh1+}) 4. Rf2 Qh5+5. Kf1 Qh1+ 6. Ke2 Qb1 $1 $19) 2... g1=N+ $1 (2... g1=Q 3. Bb7+ $11) 3. Ke1Rxh3 4. Kf2 Nf3 5. Bf1 Rh2+ 6. Kg3 Rh8 7. Bg2 Rf8 8. Kf2 {and draws - (De Villeneuve-Esclapon, 1923.). Brilliant synthesis!} 1/2-1/2

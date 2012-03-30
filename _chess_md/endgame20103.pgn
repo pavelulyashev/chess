@@ -1,0 +1,10 @@
+[Event "ts12 {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R7/4k3/4p2R/4K3/8/5r2/8/5r2 w - - 0 1"]
+
+ 1. Ra7+ (1. Rh7+ $2 Rf7 2. Ra7+ Kf8 3. Rh8+ Kg7) 1... Ke8 $1 2. Rh8+ Rf8 3. Ra8+ Ke7 4. Rhxf8 Rxf8 5. Ra7+ Kd8 6. Kd6 Ke8 7. Kxe6 1-0  

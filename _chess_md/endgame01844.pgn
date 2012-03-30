@@ -1,0 +1,10 @@
+[Event "MT Schneider  {m}"]
+[Site "?"]
+[Date "2006.05.22"]
+[Round "?"]
+[White "Rusz A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/pN3k2/PP6/2Pn4/2b5/8/8/6b1 w - - 0 1"]
+
+ 1. bxa7 (1. Nd6+ $2 Ke6 $11) 1... Nb6 $1 2. cxb6 (2. Nd6+ $2 Ke6 3. Nxc4 Bxc5 $11) 2... Bxb6+ 3. Kc8 $1 ({Thematic try:} 3. Kd7 $2 Bb5+ 4. Kc8 (4. Kd6 Bxa7 $11) 4... Ke7 $1 (4... Bc6 $2 5. a8=N $1 Bf2 6. Nd8+ $18) 5. a8=Q Bc6 6. Kb8 Kd7 7. Nc5+ Bxc5 $11) 3... Ke7 $3 (3... Bxa7 4. Nd6+ Ke6 5. Nxc4 Kd5 6. Kb7 Bf2 7. Nb6+ $18) 4. a8=Q Bd5 $1 (4... Be6+ 5. Kb8 Bd5 6. Na5 $1 Bxa8 7. Kxa8 Kd6 ( 7... Bxa5 8. Kb7 $18) 8. Kb7 Kc5 9. Nc4 $1 $18) 5. Kb8 (5. Qb8 $4 Be6#) 5... Ke6 $1 (5... Kd7 6. Nc5+ $18) 6. Nd8+ (6. Nc5+ $2 Bxc5 $11) (6. Qa7 $2 Bxa7+ 7. Kxa7 Bc4 $11) 6... Kd6 7. Nf7+ Ke6 (7... Kc5 8. Qb7 $1 Bxb7 9. Kxb7 Kb5 10. Nd6+ Ka5 11. Nc4+ $18) 8. Ng5+ Ke5 (8... Kd6 9. Ne4+ $18) 9. Qb7 $1 (9. Nf3+ $2 Kd6 10. Qb7 Bxb7 11. Kxb7 Be3 $1 (11... Kc5 $2 12. Nd4 $1 $18) (11... Bf2 $2 12. Ne1 $1 Kd5 13. Nd3 Bd4 14. Nb2 $1 $18) 12. Ne1 Kd5 13. Nd3 Kc4 $11) 9... Bxb7 10. Kxb7 Be3 11. Kc6 $1 1-0  

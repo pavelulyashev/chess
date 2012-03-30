@@ -1,0 +1,10 @@
+[Event "1 Honorable Mention ta02 @3 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5p2/3p2p1/3P4/2P5/7k/4P2p/4n2K w - - 0 1"]
+
+ 1. c5 dxc5 (1... Nc2 $1 2. c6 Ne3 3. c7 Nd1 4. c8=Q+ Kg3) 2. d6 Ng2 3. d7 Nf4 4. d8=Q Nh5 5. Qh8 (5. Qc8+ $2 5... f5 6. Qh8 c4 7. e4 c3 8. exf5 c2 9. Qc3+ Ng3+) 5... c4 6. e4 c3 7. e5 c2 8. Qc8+ f5 9. exf6+ 1-0  

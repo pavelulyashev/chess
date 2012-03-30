@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky sach_122005_Nr95_6thPr {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Polasek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1pp5/b7/8/8/8/1K6/2N3k1 w - - 0 1"]
+
+1. Nb3 $1 b6 (1... Kf2 {the second thematic line} 2. Nc5 $1 (2. Kc3 b6 (2...Ke3 3. Nc5 c6) 3. Nd4 c5) 2... Ke3 3. Kb3 $3 (3. Kc3 c6 4. Kb4 Kd4 5. Nd7 Bc46. Ka5 Be6) 3... c6 (3... Kd4 4. Ne6+) 4. Kc3 {mutual zugzwang} Kf4 5. Kd4 (5.Kb4 Ke5 6. Ka5 Kd4 7. Kb6 Kd5 8. Nb3) 5... Kf5 6. Na4 (6. Ne4) 6... Ke6 7. Kc5)(1... Bc4 2. Nc5) 2. Nd4 $1 (2. Kc3 c5) 2... Kf2 (2... c5 3. Ne6 Kf2 4. Nc7) 3.Ne6 $1 (3. Kc3 c5 4. Ne6 Kf3 (4... Ke3 $2 5. Nc7 Bb7 6. Kc4 Ke4 7. Kb5 Kd4 8.Ne6+ Kd5 9. Kxb6) 5. Nc7 Bf1 6. Nd5 b5 7. Nc7 b4+ 8. Kb3 Ke4) 3... c5 (3... c64. Nc7 (4. Kc3 {prehozeni tahu} Ke3 5. Nc7 Bf1 (5... Bb7 6. Ne8) 6. Na8 b5 7.Nc7) 4... Bb7 (4... Be2 5. Na8 b5 6. Kc3 Ke3 (6... c5 7. Nc7 b4+ 8. Kb3 Ke3 9.Ne6 (9. Nd5+)) 7. Nc7 $1) 5. Kc3 Ke3 6. Ne8 Bc8 (6... Ba8 7. Nc7 Bb7 8. Ne8) 7.Nc7 Ke4 (7... c5 8. Nd5+ Ke4 9. Nxb6) 8. Na8 b5 9. Kb4 Kd5 10. Nb6+ (10. Nc7+Kd6 11. Nxb5+) 10... Kd6 11. Nxc8+) 4. Nc7 $1 (4. Kc3 Kf3 $1 {see 3.Kc3}) 4...Bc4 (4... Bb7 5. Kc3 (5. Kb3) 5... Ke3 6. Kc4 Ke4 7. Kb5) (4... Be2 5. Na8 (5.Kc3) (5. Kc2) (5. Nd5) 5... b5 6. Nc7 Ke3 7. Ne6 c4 8. Kc3) 5. Kc3 $1 (5. Na8b5 6. Kc3 (6. Nc7 b4) 6... Bf7 7. Nc7 b4+) 5... Bf7 (5... Be2 6. Na8 b5 7. Nc7b4+ 8. Kb3) 6. Kd2 $1 (6. Na8 b5 7. Nc7 b4+ $1) 6... Bc4 $1 7. Kc3 Bf7 8. Kd21/2-1/2

@@ -1,0 +1,10 @@
+[Event "tc06#35 {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/p3n3/4P3/8/6bk/5pp1/6Q1/6K1 w - - 0 1"]
+
+ 1. Qh1+ (1. Qf1 $2 f2+ 2. Kg2 Bh3+ 3. Kh1 Nd5 4. Qc4+ Bg4 5. e7 Ne3) 1... Kg5 2. Qh7 (2. Qh8 $2 f2+ 3. Kg2 (3. Kf1 Nf5 4. Qd8+ Kg6 5. Qg8+ Ng7 6. Qf7+ Kh7 7. e7 Bh3+) 3... Bf3+ 4. Kf1 Nf5 5. Qg8+ Kf4 6. Qb8+ Kg4 7. Qg8+ Kh3 8. Qh7+ Nh4 9. e7 Bg2+) 2... f2+ (2... Nf5 3. Qg8+ Kf6 4. Qf7+ Ke5 5. Qc7+ Kxe6 6. Qc8+) 3. Kg2 (3. Kf1 $2 Nf5) 3... Ng6 (3... Nf5 4. Qg8+) 4. e7 (4. Qxa7 $2 Be2 5. Qe3+ Nf4+ 6. Kxg3 f1=N+) 4... Bd7 (4... Bf3+ 5. Kf1 Bc6 6. e8=Q Bxe8 7. Qb7 a6 8. Qd5+ Kh6 9. Qh1+) 5. e8=Q Bxe8 6. Qxa7 (6. Qb7 $2 Nh4+ 7. Kf1 Nf5 8. Qd5 Bf7 9. Qxf7 Ne3+) 6... Bc6+ (6... Nf4+ 7. Kxg3 f1=Q 8. Qc5+ Kf6 9. Qd4+) 7. Kxg3 (7. Kf1 $2 Bb5+ 8. Kg2 f1=Q+) 7... f1=Q 8. Qc5+ (8. Qa5+ $2 Qf5 9. Qd8+ Kh6 10. Qd2+ Qg5+) 8... Qf5 9. Qxc6 Qf4+ (9... Nh4 10. Qc1+ (10. Qb7 $2 Qf4+ 11. Kh3 Qg4+) 10... Kh5 11. Qd1+ Kg5 12. Qc1+) (9... Qg4+ 10. Kf2) 10. Kh3 (10. Kg2 $2 Nh4+ 11. Kg1 (11. Kh3 Qg4+ 12. Kh2 Nf3+ 13. Kh1 Qg1#) 11... Nf3+ 12. Kg2 Qh2+ 13. Kxf3 Qh1+) 10... Qh4+ 11. Kg2 Nf4+ 12. Kf1 1/2-1/2  

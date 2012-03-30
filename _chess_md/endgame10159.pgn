@@ -1,0 +1,10 @@
+[Event "tr18 {v} {m}"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R7/8/B7/8/8/8/2pk4/K2N4 w - - 0 1"]
+
+ 1. Rd8+ Ke1 2. Re8+ Kd2 (2... Kxd1 3. Be2+ Kd2 4. Rd8+) 3. Nc3 $1 c1=Q+ (3... Kxc3 4. Rc8+) 4. Nb1+ Kd1 5. Rd8+ $1 Ke1 6. Rf8 1-0  

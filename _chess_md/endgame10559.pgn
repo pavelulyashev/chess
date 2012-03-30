@@ -1,0 +1,10 @@
+[Event "ts25#004 {v} {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Kralin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n7/2p3p1/p1k2N2/8/6P1/6rp/7R/5B1K w - - 0 1"]
+
+ 1. Nh5 $1 Rxg4 2. Bxh3 Rb4 $1 3. Bg2+ Kd7 4. Bxa8 Rb1+ 5. Kg2 c6 6. Nxg7 Rb8 7. Rh7 $1 Rxa8 8. Ne8+ $1 Kd8 (8... Kc8 9. Nd6+ Kb8 10. Rb7#) 9. Nc7 Rb8 (9... Rc8 10. Na8 $1 a5 11. Rh8+ Kd7 12. Nb6+) 10. Ne6+ Kc8 11. Rc7# 1-0  

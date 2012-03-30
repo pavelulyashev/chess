@@ -1,0 +1,10 @@
+[Event "ts23#01 @2 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/PP1K4/1k2r3/b7/8/8/8 w - - 0 1"]
+
+ 1. a7 $1 (1. b7 $2 Kxa6 2. b8=Q Re8 3. Qc7 Re2) 1... Kxb6 2. a8=Q Ra5 3. Qb8+ ( 3. Qd8+ $2 Kb5 $1) 3... Ka6 4. Qc8+ (4. Qb4 $2 Bb5 $1 5. Kc7 Ra4 6. Qd6+ Ka5) 4... Kb5 5. Qc5+ Ka6 6. Qc4+ $1 Kb6 (6... Bb5 7. Qc8+ Kb6 8. Qb8+ Ka6 9. Kc7) 7. Qb4+ $1 Ka6 $1 (7... Bb5 8. Qc5+ Kb7 9. Qc7+ Ka6 10. Qc8+ Ka7 11. Kc7) 8. Qb8 $1 (8. Kc7 $1 {cook JN}) 8... Rg5 (8... Bd1 9. Qc8+ Kb5 10. Qc5+ Ka6 11. Qc6+ Ka7 12. Kc7) 9. Qa8+ Kb5 10. Qe8+ Kb4 (10... Ka5 11. Qd8+) 11. Qe1+ Kb5 12. Qe2+ Ka5 13. Qd2+ 1-0  

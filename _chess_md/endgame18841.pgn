@@ -1,0 +1,10 @@
+[Event "ts23 @1 @3 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1N6/2k5/7r/8/5K2/5b1N/8 w - - 0 1"]
+
+ 1. Nd8+ (1. Na5+ Kb5 2. Ng4 (2. Kxf2 Rxh2+ 3. Kg3 Rd2) (2. Nf1 $1 {cook AS} Bb6 3. Nb3 Rf5+ 4. Ke2 Rf2+ 5. Ke1 Kc4 6. Nfd2+ Kd3 7. Kd1 $1 Be3 (7... Rh2 8. Nc1+ Kc3 9. Ne2+) 8. Nc1+ Kd4 9. Ne2+) 2... Bb6 3. Nb3 Rh3+) 1... Kd7 2. Nf7 $1 Rf5+ (2... Rxh2 3. Ne5+ Ke6 4. Ng4) 3. Kg2 $1 Rxf7 (3... Be3 $1 {cook HC}) (3... Kc6 $1 {cook HC}) (3... Ke6 $1 {cook HC}) (3... Bb6 $1 {cook HC}) (3... Ba7 $1 { cook HC}) 4. Nf3 $1 1/2-1/2  

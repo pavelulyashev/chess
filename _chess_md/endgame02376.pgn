@@ -1,0 +1,10 @@
+[Event "Schach {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Minski M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3RK3/8/3Bn1k1/p1p2p2/8/8 w - - 0 1"]
+
+ 1. Ra6 $1 f2 2. Bxf2 c2 3. Rc6 a2 4. Bd4 Nc3 $1 {Nowotny} 5. Rc4 $1 (5. Bxc3 $143 c1=Q $19) (5. Rxc3 $143 a1=Q $19) 5... c1=Q 6. Bf6+ Kh5 (6... Kf3 $2 7. Rxc3+ $11) 7. Rh4+ Kg6 8. Rg4+ Kh7 9. Rh4+ Qh6 10. Rxh6+ Kxh6 11. Bxc3 $18 1/2-1/2  

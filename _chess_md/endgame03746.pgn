@@ -1,0 +1,10 @@
+[Event "wl11 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6k1/1p6/p2P4/4b3/1P6/PrP5/R3K3 w Q - 0 1"]
+
+ 1. d6 Bf5 (1... Kf6 2. d7 Ke7 3. d8=Q+ Kxd8 4. O-O-O+ Kc7 5. Kxb2) 2. d7 Bxd7 3. O-O-O Rxa2 4. Rxd7+ Kf6 5. Kb1 Ra3 6. Kb2 1-0  

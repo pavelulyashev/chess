@@ -1,0 +1,10 @@
+[Event "tc31 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Halberstadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5RBB/6P1/2q5/8/8/2k5/8/2K5 w - - 0 1"]
+
+ 1. Rc8 $1 (1. Kd1 $2 Qh1+ 2. Ke2 Qg2+ 3. Ke3 (3. Rf2 Qe4+ 4. Kf1 Qh1+ 5. Ke2 Qe4+ 6. Kd1 Qh1+) 3... Qd2+ 4. Kf3 Qd1+ 5. Kg2 Qg4+ 6. Kf1 Qd1+) (1. Bd5 $2 Qh6+) 1... Qxc8 2. Be6 $1 Qxe6 3. g8=B+ $1 (3. g8=Q+ $2 Kd3 4. Qxe6) 1-0  

@@ -1,0 +1,10 @@
+[Event "t001#585 @1 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7r/1P5B/k2Pr3/1n1K4/8/2R5/8/8 w - - 0 1"]
+
+ 1. b8=N+ $1 (1. Rc8 $1 {cook}) 1... Rxb8 2. Rc6+ Kb7 3. Rc7+ $1 Nxc7+ 4. dxc7 Rbe8 5. c8=Q+ Kxc8 6. Bf5 1/2-1/2  

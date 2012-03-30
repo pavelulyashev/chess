@@ -1,0 +1,10 @@
+[Event "tb85 {v} {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Lewitt M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/5p2/3K1Pkp/3P4/8/7P/8 w - - 0 1"]
+
+ 1. Ke4 $1 (1. Kc5 $2 a5) (1. Ke6 $2 a5) 1... Kh6 (1... a5 2. d5 a4 3. d6 a3 4. d7 a2 5. d8=Q a1=Q 6. Qg8+ Kh4 (6... Kh6 7. Qg6#) 7. Qg3#) 2. d5 Kg7 3. d6 Kf7 4. Kd5 Ke8 (4... a5 5. Kc6) 5. Ke6 $1 a5 6. Kxf6 Kd7 (6... a4 7. Ke6 a3 8. f6) 7. Kg6 $1 (7. Kg7 $2 a4) 7... a4 8. f6 a3 9. f7 a2 10. f8=Q a1=Q 11. Qe7+ Kc6 12. Qc7+ Kb5 (12... Kd5 13. d7) 13. d7 Qg1+ (13... Qa6+ 14. Kh7) (13... Qb1+ 14. Kh6) 14. Kh7 Qb1+ 15. Kh6 1-0  

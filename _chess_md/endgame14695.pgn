@@ -1,0 +1,10 @@
+[Event "tl20#0525 {v} {m}"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k1B5/8/3K4/1PP4p/6pP/6P1/2bp4/8 w - - 0 1"]
+
+ 1. Kc7 (1. b6 $2 Kb8 $1) 1... Be4 (1... d1=Q 2. Bb7+ Ka7 3. b6#) 2. c6 (2. b6 $2 Bc6 $1 3. Kxc6 Kb8 $1) 2... Bxc6 3. b6 Bf3 4. Ba6 d1=Q 5. Bb7+ Bxb7 1/2-1/2  

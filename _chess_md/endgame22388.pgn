@@ -1,0 +1,10 @@
+[Event "4 Prize, tu18#0947 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2N4B/1P1r4/8/8/5p2/k1p5/8/K7 w - - 0 1"]
+
+ 1. b8=Q (1. Kb1 $2 Rxb7+ 2. Kc2 Rb8 3. Bxc3 Rxc8 4. Kd3 f3) (1. b8=R $2 Rd1+ 2. Rb1 c2 3. Bb2+ Kb3 4. Rc1 Rd5 $1) 1... Rd1+ 2. Qb1 c2 3. Bb2+ Kb3 4. Qc1 f3 5. Nd6 f2 6. Ne4 f1=Q 7. Nd2+ Rxd2 8. Qxf1 Rd1+ 9. Bc1 $1 Rxf1 1/2-1/2  

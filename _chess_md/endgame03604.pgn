@@ -1,0 +1,10 @@
+[Event "2 Prize ws04 {c} @2 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Korolkov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3b2B1/6PP/n3P3/p6p/P3p3/p1Npp3/P1P5/Nn2K1k1 w - - 0 1"]
+
+ 1. Ne2+ dxe2 2. e7 (2. Bf7 $1 2... Bh4+ 3. Kxe2 Nc3+ 4. Kxe3 Bg5+ 5. Kd4 Bf6+ 6. Kc4 Bxg7 7. e7 Nc7 8. Nb3 h4 9. Nd4 h3 10. Ne6 h2 11. Nxc7 h1=Q 12. e8=Q) 2... Bxe7 3. Bb3 Bh4+ 4. Kxe2 Nc3+ 5. Kxe3 Bg5+ 6. Kd4 Bf6+ 7. Kc4 Bxg7 8. h8=Q Bxh8 1/2-1/2  

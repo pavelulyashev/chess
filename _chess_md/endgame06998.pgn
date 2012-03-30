@@ -1,0 +1,10 @@
+[Event "00340 10+6 Mate en 3 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Nabokov V"]
+[Black "*"]
+[Result "*"]
+[FEN "8/B5p1/6R1/4p3/4B3/2p1P1P1/1PKP3p/4RnkN w - - 0 1"]
+
+ 1. Rb1 cxd2 (1... cxb2 2. Kd1 Nxd2 (2... Nxe3+ 3. Ke2#) (2... Nxg3 3. Kc2#) 3. Kxd2#) 2. Kd1 Nxe3+ (2... Nxg3 3. Kxd2#) 3. Kxd2# *  

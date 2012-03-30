@@ -1,0 +1,10 @@
+[Event "2nd HM, Tamkov 70 JT {m}"]
+[Site "?"]
+[Date "2008.10.13"]
+[Round "?"]
+[White "Gurinovich S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2b5/Bp6/1R6/5N2/kpPr3p/p1pp3P/PPp3K1/8 w - - 0 0"]
+
+ 1. Ra6+ $1 bxa6 2. b3+ Ka5 3. Nxd4 Bb7+ 4. Kf2 c1=Q (4... c1=R 5. c5 Rc2+ 6. Kf1 Rc1+ 7. Kf2 $11) 5. Nc6+ Bxc6 6. Bb6+ Kxb6 7. c5+ Kxc5 {stalemate} 1/2-1/2  

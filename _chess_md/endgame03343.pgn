@@ -1,0 +1,10 @@
+[Event "Prize, Springaren 2005-2006 {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/4p1R1/6P1/8/1K1R1p2/1p4r1/2k5 w - - 0 1"]
+
+1. Rc3+ Kb1 2. Rxf3 (2. Rc8 $5 f2 $11) 2... Ka1 3. Rf1+ b1=Q+ 4. Rxb1+ Kxb1 5.Kc3 $1 (5. Kc4 $5 Rg4+ 6. Kd3 Kc1 $1 7. Ke3 Kc2 8. Kf3 Rg1 9. Kf2 Rg4 10. Kf3Rg1 {positional draw}) 5... Kc1 6. Kd4 $1 (6. Kd3 $5 Rg4 $1 7. Ke3 Kc2 {(e5)}8. Kf3 Rg1 $11) (6. Rg8 $5 Rg4 7. Kd3 Kd1 8. Ke3 e5 $1 9. Kf3 Rf4+ 10. Kg3 Ke211. Re8 Rf3+ 12. Kg4 Rf4+ 13. Kh5 e4 14. g6 Kf3 15. g7 Rg4 $11) 6... Kd2 7. Rg7$3 {zz BTM} ({Thematic try} 7. Rg8 $5 Rg1 $1 {zz WTM} 8. Ke5 Re1+ 9. Kf6 e5 10.g6 e4 $11) 7... Rg1 8. Rg8 $1 {zz BTM} (8. Ke5 $5 Re1+ 9. Kf6 e5 10. g6 e4 11.Rd7+ Ke3 12. Rd5 Ra1 13. g7 Ra8 $11) (8. g6 $5 Rg5 9. Rg8 Ke2 $11) 8... Re1 (8... Ra1 9. g6 Ra5 10. Re8 Rg5 11. Rxe6 $18) 9. g6 $1 (9. Re8 $5 Rg1 10. Rg8 {loss of time}) 9... e5+ 10. Kd5 e4 11. Kd4 $1 (11. Ke5 $5 Ke3 $11) 11... e3 12.Ra8 $1 (12. Rb8 $5 e2 13. Rb2+ Kc1 $11) 12... Ke2 (12... e2 13. Ra2+ Kc1 14.Kd3 $18) 13. Ke4 Rg1 14. Ra2+ Kf1 15. Ra1+ $18 *

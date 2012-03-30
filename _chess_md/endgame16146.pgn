@@ -1,0 +1,10 @@
+[Event "wa05 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Gurvitch A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/r7/p5N1/1k6/2p4R/2K2n1B/8/7b w - - 0 1"]
+
+ 1. Rh5+ Kc6 (1... Ne5 2. Rxe5+ Kc6 3. Re1 Bd5 4. Kd4) 2. Bf5 $1 (2. Bg4 $2 Rxa8 3. Rxh1 Ng5 $1 4. Rh5 Ne4+ 5. Kd4 Nd2) 2... Ng1 $1 3. Rxh1 Ne2+ 4. Kxc4 Ng3 5. Rh6 $1 Nxf5 (5... Rxa8 6. Ne5+ Kb7 (6... Kc7 7. Kc5 Nxf5 8. Rh7+ Kc8 9. Nc6 Ne3 10. Rh8+ Kb7 11. Na5+ Ka7 12. Rh7+ Kb8 13. Kb6) 7. Be6 Re8 8. Bd5+ Kb8 9. Rb6+ Kc7 10. Rc6+ Kd8 11. Be6 Ne4 12. Ng6 $1) 6. Ne7+ (6. Ne5+ $2 Kb7 7. Rb6+ Kc8 $1 ) 6... Kb7 7. Rb6+ Kxa8 8. Nc6 $1 Nd6+ 9. Kd3 $1 Nb7 10. Kc3 a5 11. Kb2 $1 a4 12. Ka3 Ra5 13. Nxa5 Nxa5 14. Ra6+ 1-0  

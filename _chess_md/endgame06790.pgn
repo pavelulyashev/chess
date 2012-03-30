@@ -1,0 +1,10 @@
+[Event "Mor.slez. sach [5_4+6] {m}"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Desensky J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7R/3p2r1/8/1K4P1/3N4/8/6B1/3k4 b - - 0 1"]
+
+ 1... Rxg5+ 2. Bd5 Rxd5+ 3. Kc4 Rd6 (3... Re5 4. Kd3 Kc1 5. Rb8 Rd5 6. Rb6) ( 3... Rg5 4. Rh1+ Kd2 5. Nf3+) (3... Ra5 4. Rh1+ Kd2 5. Nb3+) 4. Kd3 Ke1 $144 ( 4... Kc1 $144 5. Rb8 $1 (5. Kc3 $2 Kb1 6. Rh1+ Ka2 7. Rh2+ Kb1 8. Rb2+ Kc1 9. Rd2 Kb1 $11) 5... Rd5 6. Rb6 {or Rb7, Rb4, Rb3} d6 7. Rb8 Rh5 8. Ne2+ Kd1 9. Rb1# {#}) 5. Rf8 Rd5 6. Rf6 {or Rf7, Rf4, Rf3} d6 7. Rf8 Ra5 8. Nc2+ Kd1 9. Rf1# {#} 1-0  

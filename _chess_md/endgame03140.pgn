@@ -1,0 +1,10 @@
+[Event "2 Prize The Problemist {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Miller A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/8/2p5/8/5n2/8/p2K4/k7 w - - 0 1"]
+
+ 1. Kc2 (1. Kc1 $2 Ne2+ 2. Kc2 Nd4+) 1... Nd5 2. Kc1 (2. Ba5 $2 c5 3. Kc1 Nb4 $11) (2. Bg5 $2 Nb4+ 3. Kc1 Nd3+ 4. Kc2 Ne1+ 5. Kc1 Nd3+ 6. Kc2 Nb4+ $11) 2... c5 3. Bg5 (3. Bh4 $2 c4 4. Be1 c3 5. Bf2 (5. Bh4 Nf4 6. Kc2 Nd3 7. Bf6 Ne1+ 8. Kc1 Nd3+ 9. Kc2 Nb4+ 10. Kc1 Nd3+ 11. Kc2 Nb2 $11) 5... Nb4 6. Bd4 Nd3+ 7. Kc2 Nb2 $11) 3... c4 4. Bd2 (4. Bh6 $2 Nc3 5. Bg7 {pat}) (4. Bh4 $2 Nc3 5. Bg5 Ne2+ 6. Kc2 c3 7. Be3 Nd4+ 8. Kc1 Nf3 9. Bc5 Nd2 10. Bb4 Nb3+ 11. Kc2 Nd4+ 12. Kc1 Ne2+ $11) 4... c3 5. Be1 c2 6. Bd2 1-0  

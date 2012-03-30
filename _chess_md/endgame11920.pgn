@@ -1,0 +1,10 @@
+[Event "te03 @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Vandiest J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3p2p1/2p5/k4P2/8/8/2PK4/8 w - - 0 1"]
+
+ 1. Ke3 Kb6 (1... Kb4 2. Kf4 Kc3 3. Kg5 Kxc2 4. Kg6 d5 (4... c5 5. Kxg7 c4 6. f6 c3 7. f7 Kb2 8. f8=Q) 5. Kxg7 d4 6. f6 d3 7. f7 d2 8. f8=Q d1=Q 9. Qc5+) 2. Kf4 (2. Kd4 $2 d6) 2... Kc7 (2... Kc5 $1 {cook PB} 3. Kg5 Kd4 4. Kg6 Ke5) 3. Ke5 ( 3. Kg5 $2 Kd6 4. Kg6 Ke5) 3... Kd8 (3... Kb6 4. f6 gxf6+ 5. Kxf6) (3... d5 4. Ke6) (3... d6+ 4. Ke6) 4. Kd6 Ke8 5. c3 $1 (5. c4 $2 Kd8 6. c5 Ke8 7. Kc7 Ke7 8. Kb6 d6 9. Kxc6 dxc5 10. Kxc5 Kf6 11. Kd4 Kxf5) 5... Kd8 6. c4 Ke8 7. c5 Kd8 8. f6 gxf6 1/2-1/2  

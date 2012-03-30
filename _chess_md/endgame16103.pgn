@@ -1,0 +1,13 @@
+[Event "L'Italia Scacchistica {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "Win"]
+[Result "*"]
+[FEN "6q1/5p1k/8/6B1/6B1/6N1/8/5K2"]
+
+1.Bf5+ Kg7 (1...Kh8 2.Bf6+) 
+2.Nh5+ Kf8 3.Bf6 Ke8 4.Kf2 Kf8 (4...Qf8 5.Ng7+) 
+5.Nf4 Ke8 6.Nd5 Qf8 (6...Kf8 7.Ne7)
+7.Nc7#

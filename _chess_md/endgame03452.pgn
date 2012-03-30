@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky sach_072005_Nr51 {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Klemanic E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1r1N4/5R2/7k/4P3/2n2P2/p7/5K2/8 w - - 0 1"]
+
+{#} 1. Ne6 $1 (1. Nb7 Ra8 2. Nc5 Nd2 $19) 1... a2 2. Ra7 (2. Nf8 Kh5 $1 3. Ra7Rb2+ 4. Kg3 Rb3+ 5. Kf2 Ra3 $19) 2... Rb2+ 3. Kg3 $1 Rb3+ (3... Kh5 4. Nd4) 4.Kh4 (4. Kg4 $6 Ra3 5. Rf7 Ne3+ (5... Ra8 6. Nf8 Nxe5+ 7. fxe5 Ra4+ 8. Kf5) 6.Kh4 Ng2+ (6... Ra8 7. Nf8 Nf5+ 8. Kg4 Ng7 9. Rf6#) 7. Kg4 Ra8 8. Nf8 Rxf8 9.Ra7 Rg8+ 10. Kf5 (10. Kh3 Nxf4+ 11. Kh4 Rg2) (10. Kf3 Ne1+ 11. Ke4 (11. Ke2 Nc212. Rxa2 Rg2+) 11... Rg2 12. f5 (12. e6 Kg6 13. f5+ Kf6 14. Rf7+ Kg5 15. Rg7+Kh6 16. Ra7) 12... Re2+ 13. Kf4 Nd3+ 14. Kf3 Nc1 15. e6 Kg5 16. Ra5 Re1) 10...Ne3+ (10... Nh4+ 11. Ke4 Rg2 12. f5 Re2+ 13. Kd3 Rf2 14. Ke3 Rc2 15. Kd3 Rh216. Ke4 Kg5 17. Rg7+ Kh5 18. Ra7 Kg4 19. Rg7+ Kh3 20. Ra7 Re2+ 21. Kd3 Rg2 22.Ke4 Rb2 23. e6 Kg4 24. f6 Re2+ 25. Kd5 Kf5 26. f7 Ng6 27. e7) 11. Ke4 Nd1 12.Ra6+ Kh7 13. e6 Rg2 (13... Kg7 14. Kd3 Rd8+ 15. Kc2 Ne3+ 16. Kb3) (13... Nc3+14. Kd4 Rc8 15. e7) 14. e7 Re2+ 15. Kd4) 4... Ra3 (4... Na3 5. Nf8) 5. Rf7 $1Ra8 $1 (5... a1=Q 6. Rf6+ Kh7 7. Rf7+ Kg8 8. Rf8+ Kh7 9. Rf7+ Kg6 10. Rf6+ $11)(5... Nd6 6. Rf6+ Kh7 7. Ng5+ Kg8 8. Rxd6 a1=Q 9. Rd8+ Kg7 10. Rd7+ Kg6 11.Rd6+ Kg7 12. Rd7+ Kf8 13. Nh7+ Ke8 14. Nf6+ Kf8 15. Nh7+ Kg8 16. Nf6+ $11) 6.Nf8 $1 (6. Nd4 a1=Q 7. Nf5+ Kg6 8. Rf6+ Kh7 9. Rf7+ Kg8 10. Rg7+ Kf8) 6... Rxf8(6... a1=Q $2 7. Rh7#) 7. Ra7 $1 Rxf4+ 8. Kg3 $11 1/2-1/2

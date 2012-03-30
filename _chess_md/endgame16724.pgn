@@ -1,0 +1,10 @@
+[Event "cs19#58 @2 {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5kB1/2PKpP2/4P3/5P2/6n1/B2n2N1/4p3/8 b - - 0 1"]
+
+ 1... Nde5+ 2. Kc8 e1=Q 3. Kb7 (3. f6 $1 {cook} Nxf6 4. Kb7 Qb1+ 5. Ka7 Qc2 ( 5... Nc6+ 6. Ka8) (5... Qg1+ 6. Ka6) 6. Bxe7+ Kxe7 7. Nf5+ Qxf5 8. c8=N+ Kxe6 9. f8=N#) 3... Qb1+ 4. Ka8 Qc2 5. Bxe7+ Kxe7 6. f6+ Nxf6 7. Nf5+ Qxf5 8. c8=N+ Kxe6 9. f8=N# 1-0  

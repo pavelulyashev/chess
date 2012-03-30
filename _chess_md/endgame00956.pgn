@@ -1,0 +1,10 @@
+[Event "64 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/8/7B/8/3K4/1p1B4/p7/k7 w - - 0 1"]
+
+ 1. Bd2 $1 b2 (1... Kb2 2. Bc3+ Kc1 3. Bc4 $18) 2. Bh7 $3 {Indian} b1=Q 3. Bc3+ Qb2 4. Ng6 Kb1 (4... Qxc3+ 5. Kxc3 Kb1 6. Nf4+ (6. Ne5+) 6... Ka1 7. Nd3 $18) 5. Ne5+ (5. Nf4+ $2 Qc2 6. Bxc2+ Kxc2 $11) 5... Ka1 (5... Qc2 6. Bxc2+ Kxc2 7. Nc4 Kb1 8. Na3+ $18) 6. Nd3 Qxc3+ 7. Kxc3 1-0  

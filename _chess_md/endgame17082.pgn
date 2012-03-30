@@ -1,0 +1,10 @@
+[Event "ts27 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K3k2r/8/1P3p2/5P1P/8/8/8/8 w k - 0 1"]
+
+ 1. b7 O-O+ (1... Kf7+ 2. b8=Q Rxb8+ 3. Kxb8 Kg7 4. Kc7 Kh6 5. Kd7 Kxh5 6. Ke7 Kg5 7. Ke6) 2. b8=R $1 (2. b8=Q $2 Kh7 $1 3. Qxf8 (3. Kb7 Rxb8+ 4. Kxb8 Kh6 5. Kc7 Kxh5 (5... Kg5 $2 6. h6 Kxh6 7. Kd6 Kh5 8. Ke7 Kg5 9. Ke6) 6. Kd6 Kg4 $1 7. Ke6 Kg5)) 2... Rxb8+ 3. Kxb8 Kg7 4. Kc7 Kh6 5. Kd6 Kxh5 6. Ke7 $1 (6. Ke6 $2 Kg5) 6... Kg5 7. Ke6 1-0  

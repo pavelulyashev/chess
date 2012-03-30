@@ -1,0 +1,10 @@
+[Event "1 Prize Drosha Ty {c} @2 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K6/3B1kp1/7p/P5p1/4P3/4n1P1/3p4/8 w - - 0 1"]
+
+ 1. Ba4 Ng4 $1 (1... Nc4 2. a6 Nb6 3. Bb3+ Ke7 4. a7 Kd6 5. Kb7 Kc5 6. e5) 2. Bd1 $1 (2. a6 $2 Kg6 $1 3. a7 Kh5 4. a8=Q g6 5. Qd5 d1=Q 6. Qxd1) 2... Nf2 $1 ( 2... Kg6 3. Bxg4 h5 4. Be2 h4 5. gxh4 gxh4 6. a6 h3 7. a7 h2 8. a8=Q h1=Q 9. Qc6+) (2... Ne3 3. Be2) 3. Bb3+ (3. Bc2 $2 Nd3 4. Kc7 Ke7) 3... Kg6 $1 4. a6 $1 (4. e5 $1 {cook JF} Nd3 (4... Ng4 5. e6 Kh5 6. e7 g6 7. e8=N) 5. Kc7 Nc5 6. Bc2+ Kf7 7. Kc6 Na6 8. Kd6) (4. g4 $1 {cook PP} Nd3 5. Kc7 $1 Nc5 (5... h5 6. gxh5+ Kh7 $1 (6... Kh6 7. a6 Nc5 8. a7 Nxb3 9. a8=Q d1=Q (9... Kh7 10. Qd5) 10. Qh8#) (6... Kxh5 7. a6 Nc5 8. Bd1+ Kh6 9. a7) 7. e5 $1 g4 (7... Nxe5 8. a6) 8. e6 Nf4 (8... g3 9. e7 g2 10. Bd5 g1=Q 11. Be4+ Kh6 12. e8=Q Qc1+ (12... Kg5 13. Qc6) 13. Kd8) 9. e7 Nd5+ 10. Bxd5 d1=Q 11. Be4+) 6. Bc2 Kf6 7. Kc6 Na6 8. Kd6 h5 9. e5+ Kf7 10. e6+) 4... Ng4 5. a7 Kh5 6. a8=R $1 (6. a8=Q $2 g6 7. Qa1 d1=Q 8. Qxd1) 6... g6 7. Ra1 d1=Q 8. Rxd1 1-0  

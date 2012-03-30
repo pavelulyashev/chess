@@ -1,0 +1,10 @@
+[Event "td23#0671 @2 {m}"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Moll K"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k1K5/p1p2p2/p1P2R2/5p2/1p1P1P2/q7/8/5Bb1 w - - 0 1"]
+
+ 1. Rd6 cxd6 (1... b3 2. Rd8 Qe7 3. Rg8 Qd6 4. d5 b2 5. Bxa6 b1=Q 6. Bb7+) (1... Qa5 2. Rd8 Qb6 3. Kd7+ Qb8 4. Rc8) (1... Qa4 2. Rd8 Qxc6 3. Bg2) 2. c7 (2. Bg2 $2 Qa2 3. Bh1 (3. Bf3 Qe6+ 4. Kd8 d5 5. c7 Kb7) 3... Qh2) 2... Qa2 3. Kd8 Qa5 4. Bg2+ (4. Kd7 $1 {cook AM} Qa4+ 5. Kd8 Qa5 6. Kd7) 4... d5 5. Kc8 b3 6. Bxd5+ Qxd5 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "3 Prize, ts23#30 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2p5/pk6/N2P4/rP6/2K5/B7 w - - 0 1"]
+
+ 1. Nc3+ (1. Bc3 $2 Rxa4 2. bxa4+ Kc4 3. Bxa5 c5) 1... Kb4 2. Nd5+ $1 cxd5 3. Bc3+ Kb5 4. Kb2 Ra4 $1 5. bxa4+ Kc4 6. Bxa5 $1 (6. Kc2 $2) 6... Kxd4 7. Bb6+ Kc4 (7... Ke5 8. a5 $1 Kd6 9. a6 Kc6 10. Ba5) 8. Ka3 d4 9. Bxd4 $1 Kd5 (9... Kxd4 10. Kb4) 10. a5 Kc6 11. a6 Kc7 12. Ba7 1-0  

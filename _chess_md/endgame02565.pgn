@@ -1,0 +1,10 @@
+[Event "Polasek&Vlasak50JT_SpecPrizeRomantic {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Slepjan G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7r/1R4P1/2b5/8/6n1/2n2p2/5r1R/k5BK w - - 0 1"]
+
+ 1. Ra7+ $1 (1. gxh8=Q $2 Rxh2+ 2. Qxh2 f2+ 3. Qg2 f1=Q 4. Qxc6 Qh3+ 5. Bh2 Qxh2#) (1. gxh8=R $6 {premature promotion} Rxh2+ 2. Rxh2 f2+ 3. Rg2 Bxb7 $1 { black has too many wood, for example} 4. Bxf2 Ne2 5. Bd4+ Kb1 6. Be5 Nxe5 7. Kh2 Nf3+ 8. Kh3 Nf4+) 1... Kb1 $1 {not allowing pin on 2nd row} (1... Kb2 2. gxh8=R Rxh2+ 3. Rxh2+ f2+ 4. Rg2) 2. gxh8=R Rxh2+ 3. Rxh2 f2+ 4. Rg2 f1=B $1 { how to guard mate?} (4... f1=N 5. Bd4 Ng3+ 6. Kg1 Nce2+ 7. Rxe2 Nxe2+ 8. Kf1) ( 4... Ne4 5. Bxf2 Nexf2+ 6. Kg1 Nh3+ 7. Kf1 Ne3+ 8. Ke2 Nxg2 $11) 5. Ra1+ $3 (5. Re7 Bcxg2#) 5... Kxa1 6. Bd4 $3 Bfxg2+ 7. Kg1 Kb2 8. Bxc3+ Kxc3 {stalemate} ( 8... Kc2 {EGTB tested draw}) 1/2-1/2  

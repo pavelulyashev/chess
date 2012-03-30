@@ -1,0 +1,10 @@
+[Event "ts23#11 {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7P/PBppp3/5p1K/5kp1/8/4P3/2q5 w - - 0 1"]
+
+ 1. e3+ $1 (1. a7 $2 Qh1+ 2. Kg6 c5 3. e4 Qh4 4. a8=Q Qg5+ 5. Kf7 Qh5+) 1... Kg3 2. a7 (2. Bd4 $2 e5 3. a7 exd4 4. a8=Q dxe3 5. h8=Q e2) 2... Qh1+ 3. Kg6 c5 4. e4 $1 Qa1 5. e5 $1 Qh1 6. exd6 Qa8 7. d7 1-0  

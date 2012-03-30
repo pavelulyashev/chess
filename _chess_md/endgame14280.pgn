@@ -1,0 +1,10 @@
+[Event "tk01#29 {m}"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Havasi A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/2Q4p/k7/5q1p/6b1/8/1K1P3P/8 w - - 0 1"]
+
+ 1. Qc6+ Ka5 2. h3 $1 Bxh3 (2... Bf3 {main} 3. Bc7+ Kb4 4. Qc3+ Kb5 5. Qa5+) ( 2... Qe6 {main} 3. Bc7+ Kb4 4. Bd6+ Ka5 5. Ka3) (2... Qd7 3. Bc7+ Kb4 4. Qd6+ Kb5 5. hxg4 Qxg4 6. Qd5+ Kb4 7. Ba5+ Ka4 8. Bc3) (2... Qf3 3. Bc7+ Kb4 4. Qc3+ Kb5 5. hxg4 Qxg4 6. Qe5+ Kc6 7. Qd6+ Kb7 8. Qb6+ Kc8 9. Be5 Qc4 10. d3 Qf7 11. Qc6+ Kd8 12. Bf6+) 3. Kc3 Qb5 4. Bc7+ Ka4 5. Qa8+ 1-0  

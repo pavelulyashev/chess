@@ -1,0 +1,10 @@
+[Event "ts30#5 {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Diakonov A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1p6/1Pp4p/p1p5/8/2P5/P6k/3K4 w - - 0 1"]
+
+ 1. c4 $1 Kg2 2. Kc2 h5 (2... a4 3. Kb2 a3+ 4. Kxa3) (2... Kf3 3. Kb3 Ke4 4. Ka4 Kd4 5. Kxa5 Kxc4 6. a4 h5) 3. Kb3 h4 4. Ka4 h3 5. Kxa5 h2 6. a4 h1=Q 1/2-1/2  

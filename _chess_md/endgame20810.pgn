@@ -1,0 +1,10 @@
+[Event "tl20#0925 {m}"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/R1p5/6pP/6r1/1P2p3/p3P1p1/1kPK2P1/5N1n w - - 0 1"]
+
+ 1. Ra5 Rg4 (1... c5 2. Rxc5 a2 3. h7 a1=Q 4. h8=Q+) (1... a2 2. h7 Rxa5 (2... Rh5 3. Rxh5 gxh5 4. h8=Q+ Kb1 5. Qa1+) 3. h8=Q+ Re5 4. Qxe5+ Kb1 5. c4) 2. Rh5 gxh5 (2... a2 3. h7 a1=Q 4. h8=Q+ Kb1 5. Qxa1+ Kxa1 6. Rxh1) 3. h7 a2 4. h8=Q+ Kb1 5. Qa1+ Kxa1 6. Kc1 c5 7. Nd2 (7. b5 $2 c4) (7. bxc5 $2 Rg8 8. Nd2 Rb8 9. Nb3+ Rxb3 10. cxb3 Nf2) 7... c4 8. Nxc4 Rg5 9. Nd2 1-0  

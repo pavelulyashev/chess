@@ -1,0 +1,10 @@
+[Event "? {m}"]
+[Site "?"]
+[Date "19??.??.??"]
+[Round "?"]
+[White "Kasparjan G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/7k/6n1/8/2K1p3/6r1/R7 w - - 0 1"]
+
+ 1. Kd3 $1 e2 2. Ke3 $1 Nh3 (2... Kg6 3. Re1 $1 Kf5 4. Rxe2 Rg1) 3. Kf3 $1 Rf2+ 4. Ke3 Rg2 5. Kf3 Rh2 6. Re1 ({dual par :} 6. Kg3 $1 Rf2 7. Ra6+ Kg5 8. Re6 Kf5 9. Re8 $11) 6... Kg5 7. Rxe2 $1 Ng1+ 8. Kg3 Rxe2 {pat} 1/2-1/2  

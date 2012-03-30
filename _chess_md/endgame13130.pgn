@@ -1,0 +1,10 @@
+[Event "tb10 @1 {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Prikryl B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/2p5/4p3/2K1B3/8/p7/pr1N4/k7 w - - 0 1"]
+
+ 1.Nb6 (1.Bc3 $1 {cook} e5 (1...c6 2.Nb6 e5 3.Nbc4 e4 4.Nxa3 e3 5.Nc2#) 2.Nxc7 e4 3.Nb5 e3 4.Nb3+ Kb1 5.Nxa3#) (1.Kc4 $1 {cook} c5 2.Kd3 c4+ 3.Ke2 c3 4.Bxc3 e5 5.Kd1 e4 6.Kc1 e3 7.Nb3#) 1...cxb6+ (1...c6 2.Bc3 e5 3.Nbc4 e4 4.Nxa3 e3 5.Nb3#) 2.Kc6 b5 3.Kb6 b4 4.Ka5 b3 5.Bc3 e5 6.Ka4 e4 7.Kxa3 e3 8.Bxb2# 1-0  

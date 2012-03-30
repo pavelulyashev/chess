@@ -1,0 +1,10 @@
+[Event "tn21 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Smyslov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K1k/2p3pp/4p3/2p2p1P/2p5/6P1/8/3N4 w - - 0 1"]
+
+ 1. Ne3 c3 2. h6 gxh6 3. g4 c2 (3... fxg4 4. Nxg4 h5 5. Nh6) 4. Nc4 h5 5. g5 c1=Q 6. Ne5 h6 7. g6 1-0  

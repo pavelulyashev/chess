@@ -1,0 +1,10 @@
+[Event "1 Prize Problemist 2004-2005 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Rusinek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "b1r5/4Bp2/3R2p1/2np1NPn/3PR3/2p2K2/k3P2P/8 w - - 0 1"]
+
+ 1. Re3 c2 2. Rc3 Kb2 3. Rxc2+ Kxc2 4. Ne3+ Kc3 (4... Kb2 $144 5. dxc5 $11) 5. dxc5 d4+ (5... Rxc5 $144 6. Rd8 $11) 6. Nd5+ Kc4 7. c6 (7. Ke4 $143 Rxc5 $19) ( 7. e4 $143 dxe3 $19) 7... Bxc6 (7... Rxc6 $144 8. Rd8 Bb7 9. e4 $11) 8. Ke4 Ba8 {Threat Rc5} 9. Rd7 Rc6 {Threat Re6+} 10. Bd6 Rc8 11. Be7 Bc6 12. Rd6 $11 { Commentaire dans EG 168 "White activates a perpetual mechanism in wich a magnificent Grimshaw is demonstrated by both sides,inattackanddefence"} 1/2-1/2  

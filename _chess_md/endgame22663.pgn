@@ -1,0 +1,10 @@
+[Event "1 Prize, td25 {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Osintsev S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6k1/q7/6P1/8/1p6/6pK/1nQ5/7b w - - 0 1"]
+
+ 1. Qb3+ (1. Qxb2 $2 Qe3 2. Qa2+ b3) 1... Nc4 $1 (1... Kg7 2. Qxb2+ Kxg6 3. Qxb4 ) (1... Kf8 2. Qxb4+ Ke8 3. Qxb2) (1... Bd5 2. Qxd5+ Kg7 3. Qe5+ Kh6 4. Qf4+ Kxg6 5. Qxg3+ Kf5 6. Qg4+) 2. Qxc4+ Kg7 3. Qxb4 (3. Kxg3 $2 Qb7) (3. Qh4 $2 Qd7+ 4. Kxg3 Qd3+ 5. Kf2 (5. Kh2 Qd2+ 6. Kxh1 Qh6) 5... Qf3+ 6. Ke1 Qe4+) 3... Qe3 (3... g2 4. Qc3+) 4. Qf4 $1 (4. Qg4 $2 g2+ (4... Bg2+ $2 5. Kh4 $1) 5. Kh2 Qe5+ 6. Kh3 (6. Kg1 Qe1+) 6... Qd6 $1 7. Qg5 Qe6+ 8. Kh2 Qe1 $1 9. Qg4 g1=Q+ $1 10. Qxg1 Qh4#) (4. Qb2+ $2 Kxg6 5. Qc2+ Be4) 4... Bg2+ (4... Qxf4 {main}) 5. Kg4 (5. Kxg2 $2 Qxf4) 5... Bh3+ (5... Qxf4+ {main} 6. Kxf4 Bf1 7. Kxg3) 6. Kh5 $1 Bg4+ $1 (6... Qxf4) 7. Kh4 $1 (7. Qxg4 $2 Qh6#) (7. Kxg4 $2 Qxf4+ 8. Kxf4 g2 ) 7... Qxf4 1/2-1/2  

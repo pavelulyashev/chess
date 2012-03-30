@@ -1,0 +1,10 @@
+[Event "Tidskrift fцr Schack {m}"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5p2/P6P/7p/b5p1/8/6P1/k3bN1K w - - 0 1"]
+
+ 1. Ne3 $1 1... Bg3 $1 (1... Bh4 2. Nd5 Bg3 3. h7 Be5 4. Nb4) (1... Bc3 2. Nd5 Bd4 3. h7 Bc6 4. Nb4) (1... Kb1 2. Nd5) 2. Nc4 (2. Nd5 $2 2... Bc6) (2. Nf5 $2 2... Be5 3. Ne7 3... Bd4 $1 4. h7 Bc2 5. Nc6 Bxh7 6. Nxd4 Be4) (2. a7 $2 2... Bc6 3. Nc2+ 3... Kb1 $1 4. Na3+ Kc1 5. Nc4 Bh4) 2... Bh4 (2... Be1 3. Ne5) ( 2... Bf2 3. h7 Bd4 4. Na5 $1 4... Bc2 5. a7 Be4 6. Nb3+) 3. Ne5 Bc2 (3... Bb3 4. a7 $1 4... Bd5 5. Nd7 Bf2 6. Nf6 Bd4 7. Nxd5 Bxa7 8. Nb4 $1) 4. a7 $1 4... Be4 5. Nd7 (5. Nxf7 $2 5... Bf6 6. h7 h4 7. Kh2 7... g3+ $1) 5... Bf2 (5... Be1 6. Nf6) 6. h7 Bd4 7. Nc5 $1 1-0  

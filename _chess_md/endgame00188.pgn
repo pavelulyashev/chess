@@ -1,0 +1,10 @@
+[Event "2 Prize tm04#1823 {m}"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Benko P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/6pB/6K1/8/8/5Pn1/1P6/8 w - - 0 1"]
+
+ 1. b4 Ne2 (1... Ne4 2. Kf5 Nd2 3. Bg6 Nxf3 4. Ke4) 2. b5 Nd4 (2... Nf4+ 3. Kf5 Ne2 4. Ke5) 3. b6 Nc6 (3... Nxf3 4. b7 Ne5+ 5. Kf5 Nd7 6. Bg6 Kg8 7. Be8 Nb8 8. Ke6 g5 9. Bh5) 4. b7 Nd8 (4... Nb8 5. f4 Nd7 6. f5 Nb8 7. f6 gxf6 8. Kh6) 5. b8=B Nc6 (5... Ne6 6. Bd6 (6. Be5 $2 Nf8+ 7. Kf7 Ng6 (7... Nxh7 $2 8. Bxg7#)) ( 6. Bg3 $2 Nf4+ (6... Nf8+ $2 7. Kf7 Nxh7 8. Bh4) 7. Kg5 Ne6+ (7... Ne2 $2 8. Bd3 Nxg3 9. Kg4 Nh1 10. Be2) 8. Kf5 Nd4+ 9. Ke4 Ne2 10. Bg6 Nxg3+ 11. Ke3 Nf1+) (6. Kf5 $2 Nd4+ 7. Ke5 (7. Ke4 Nc6) 7... Nxf3+ (7... Nc6+ $2 8. Kd6 Nxb8 9. Bd3 ))) 6. Bg3 (6. Bc7 $2 Ne7+ 7. Kf7 Nd5) (6. Bh2 $2 Ne5+ 7. Kf5 Nxf3) 6... Ne7+ 7. Kf7 Ng6 8. Bg8 Ne5+ 9. Ke8 (9. Ke7 $2 Ng6+) (9. Ke6 $2 Nxf3) 1-0  

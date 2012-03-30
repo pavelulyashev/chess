@@ -1,0 +1,10 @@
+[Event "te16 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4K3/n7/3k2r1/8/8/3n4/4R3 w - - 0 1"]
+
+ 1. Re6 $1 Rg7+ 2. Kf8 $1 (2. Kf6 $2 Rh7 3. Rxa6 (3. Kg6 Ra7) 3... Rh6+) 2... Ra7 3. Re7 $1 Ra8+ (3... Nc7 4. Rd7+) 4. Re8 Nb8 (4... Ra7 5. Re7 Nc7 6. Rd7+) 5. Rd8+ 1/2-1/2  

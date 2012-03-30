@@ -1,0 +1,10 @@
+[Event "o000 {te} @3 {m}"]
+[Site "?"]
+[Date "1792.??.??"]
+[Round "?"]
+[White "Smyslov V, Lowenfisch G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3K4/1k1P4/8/8/6r1/7R b - - 0 1"]
+
+ 1... Rg6+ 2. Ke7 Kc5 3. d6 Rg7+ 4. Kf6 Rg8 (4... Rd7 $1 5. Ke5 Kc6 6. Rc1+ Kb7 7. Ke6 (7. Kd5 Rh7 8. Rb1+ Kc8 9. Kc6 Rc7+ 10. dxc7) 7... Rh7) 5. Kf7 Ra8 6. Rd1 1-0  

@@ -1,0 +1,10 @@
+[Event "tn57 {m}"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6q1/Q1K1kpPp/1p6/8/3p1P2/8/8/8 w - - 0 1"]
+
+ 1. Qb8 $1 (1. Qa3+ $2 Kf6 2. Qf8 Qxg7 3. Qd8+ Kf5 $1) 1... Qxg7 2. Qd8+ Ke6 3. Qd7+ Kf6 4. Qxd4+ Kg6 5. f5+ Kh6 6. Qh4# 1-0  

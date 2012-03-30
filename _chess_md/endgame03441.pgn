@@ -1,0 +1,10 @@
+[Event "Ceskoslovensky sach_122005_Nr93_hm {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Polasek J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3R4/2r5/8/3Kp3/4pNk1/2r5/2B5 w - - 0 1"]
+
+1. Ng5 (1. Kxe4 Re6+ 2. Kd5 Rxc1 3. Kxe6 Kxf3) 1... R6c4+ (1... Rxc1 2. Nxe4+ (2. Kxe3 {the other way to draw} Re1+ (2... Kg4 3. Nxe4 Re1+ 4. Kd3 Rd1+ 5. Nd2)3. Kd2) 2... Kf4 (2... Kf3 3. Rf7+ Ke2 4. Ng3+ Kd2 5. Ne4+) 3. Rf7+ Kg4 4. Kxe3Re1+ 5. Kd4) (1... e2 2. Nxe4+ Kg4 3. Rg7+ Kf5 4. Ng3+ Kf6 5. Nh5+ Ke6 6. Nf4+)2. Kxe3 R2c3+ 3. Kd2 (3. Ke2 Rxc1 4. Ke3 R1c3+ 5. Kd2 Kf4) 3... Kf4 $5 (3...Rxc1 4. Nxe4+) (3... e3+ 4. Ke2 Rxc1 5. Kxe3) 4. Nxe4 $1 (4. Ne6+ Ke5 5. Bb2Kxe6 6. Bxc3 Kxd7) 4... Kxe4 5. Rd4+ $3 {White cannot lose time} (5. Re7+ Kd56. Re5+ Kd6 $3 7. Bb2 Rc2+ 8. Kd3 Rxb2 9. Kxc4 Kxe5) 5... Kxd4 6. Bb2 {Positional draw} 1/2-1/2

@@ -1,0 +1,10 @@
+[Event "td20 @1 {m}"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Amelung F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5k1n/4N3/5K2/1B6/8/8/8 w - - 0 1"]
+
+ 1. Ba3 $1 (1. Bc5 $1 {cook} Ke8 2. Kg6 Kd7 3. Ng7) 1... Nf6 (1... Ke8 2. Kg6 Kd7 3. Nc5+) 2. Ng5+ Kg7 3. Bb2 1-0  

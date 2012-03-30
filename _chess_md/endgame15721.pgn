@@ -1,0 +1,10 @@
+[Event "wc11 wi04 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Grondijs H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k2q3/8/1P6/KQ1q4/4q3/6pQ/7Q/8 w - - 0 1"]
+
+ 1. Q3xg3+ (1. Q2xg3+ $2 Ka8 2. b7+ Qxb7 3. Qxb7+ (3. Qxe8+ Qxe8) 3... Qxb7 4. Qd3 (4. Qf5 Qd8+ 5. Ka4 Qd4+ 6. Ka3 Qbb2#) 4... Qe5+ 5. Ka4 Qf4+ 6. Ka3 Qfb4+ 7. Ka2 Qb2#) 1... Ka8 2. b7+ Qxb7 3. Qb8+ (3. Qxe8+ $2 Qxe8 4. Qe5 Qa7+ 5. Kb4 Qaa4+ 6. Kc3 (6. Kc5 Qec6#) 6... Qxe5+ 7. Qxe5 Qa1+) (3. Qxb7+ $2 Qxb7 4. Qe5 Qa7+ 5. Kb4 Qaa4+ 6. Kc3 Qxe5+ 7. Qxe5 Qa1+) 3... Qexb8 (3... Qbxb8 4. Qhxb8+ Qxb8 5. Qc6+ Qxc6) 4. Qxb8+ Qxb8 (4... Kxb8 5. Qe8+ Qxe8 (5... Ka7 6. Qb8+ Qxb8 )) 5. Qc6+ Qb7 (5... Qxc6) 6. Qe8+ Ka7 (6... Qxe8) (6... Qb8 7. Qxe4+) 7. Qb8+ Kxb8 (7... Qxb8) 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "tk01 @3 {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B2K2/7k/P7/8/8/p1r5/8/8 w - - 0 1"]
+
+ 1. Bf5+ Kh8 2. a7 a2 3. a8=R $3 (3. a8=Q a1=Q 4. Qxa1 (4. Qb8 Rc7 5. Qxc7 Qf6+) (4. Qd8 Rc8) (4. Qd5 Rc8+ 5. Bxc8 Qg7+) (4. Qe4 Rc8+ 5. Bxc8 Qf6+ 6. Ke8 Qg6+ 7. Qxg6)) 3... a1=Q (3... Rc7 4. Ra6 (4. Rxa2 $2 4... Rf7+)) 4. Rxa1 Rc1 5. Ra8 Rc7 (5... Ra1 $1) 6. Bg4 Rg7 (6... Kh7 7. Ra6 Kh8 8. Bh5) 7. Be6 Rc7 (7... Rg8+ $1 8. Bxg8) 8. Bf7 1-0  

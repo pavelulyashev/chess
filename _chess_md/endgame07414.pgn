@@ -1,0 +1,10 @@
+[Event "tm16 {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Maksimovskikh A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4k3/p7/8/6K1/8/8/4b3/8 w - - 0 1"]
+
+ 1. Kf4 $1 (1. Kf5 $2 a5 2. Ke5 a4 3. Kd4 a3 4. Kc3 Bd1) 1... a5 2. Ke3 a4 3. Kd2 a3 4. Kc2 $1 (4. Kc1 $2 Bd3) (4. Kc3 $2) 4... Bd3+ 5. Kb3 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "bi11#136a {ph} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Liburkin M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1B6/1K6/8/P6b/3r3b/8/4P3/k7 w - - 0 1"]
+
+ 1. Be5 Bf2 2. a6 Bg6 (2... Bxe2 3. a7 Bf3+ 4. Kb8) (2... Bf7 3. e4 (3. e3 $2 Bxe3 4. a7 Bd5+) 3... Bg6 4. a7 Bxe4+ 5. Kb8) 3. e3 $1 Bxe3 4. a7 Be4+ 5. Kb8 ( 5. Kc8 $2 Ka2 6. Bxd4 Bxd4 7. Kb8 Be5+) 5... Bf4 $1 6. Kc8 Be3 (6... Bxe5 7. a8=Q+ Bxa8) 7. Kb8 Bf4 1/2-1/2  

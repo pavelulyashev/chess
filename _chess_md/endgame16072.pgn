@@ -1,0 +1,10 @@
+[Event "Birnov MT, 1st HM {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7B/4P3/8/2N5/4r3/1KP2r2/p2Pp3/k7 w - - 0 1"]
+
+ 1. Kc2 e1=N+ $1 (1... e1=Q 2. Nb3#) 2. Kc1 Nd3+ 3. Nxd3 Rxd3 4. c4+ Rdd4 5. e8=R $1 (5. e8=Q $2 Re5 $1 6. Kc2 Rxc4+ 7. Kd1 (7. Kb3 $2 Rc3+) 7... Rc1+ 8. Kxc1 {stalemate.}) (5. Bxd4+ $2 Rxd4 6. e8=Q Rxc4+ 7. Kd1 Rc1+ 8. Ke2 Kb2 $11) 5... Re5 (5... Rh4 6. Kc2 Rxh8 7. Re1#) (5... Re1+ 6. Kc2 Rxe8 7. Bxd4#) 6. Rxe5 Rxc4+ 7. Kd1 Rc1+ 8. Ke2 {win.} 1-0  

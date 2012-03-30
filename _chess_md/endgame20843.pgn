@@ -1,0 +1,10 @@
+[Event "sp Commendation,omm, tu18#2796 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Aliev I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7N/3k1pP1/r7/8/8/8/5K2 w - - 0 1"]
+
+ 1. g7 Ra1+ (1... Rf5+ 2. Ke2) (1... Ra8 2. Nf8 Ra5 3. g8=Q Rf5+ 4. Ke2 $1) 2. Kf2 $1 (2. Kg2 $2 Ra8 3. Nf8 Ra5 4. Ne6 Ra8 5. Nf8 Ra5 6. g8=Q Rg5+) 2... Ra2+ 3. Kf3 $1 Ra3+ 4. Kf4 $1 Ra4+ 5. Kf5 Ra5+ 6. Kxf6 $1 (6. Kg6 $2 Ra8 7. Nf8 Ra1 8. Kxf6 Rf1+ $1 9. Kg6 Rg1+) 6... Ra1 (6... Ra8 {main} 7. Nf8 Ra2 8. g8=Q Rf2+ 9. Kg7 Rg2+ 10. Ng6) 7. g8=Q Rf1+ 8. Kg6 Rg1+ 9. Ng5 1-0  

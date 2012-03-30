@@ -1,0 +1,10 @@
+[Event "tm04#1695 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/5N2/3N2K1/3p1P2/5pp1/8/6n1/8 w - - 0 1"]
+
+ 1. f6 Nh4+ 2. Kh5 $1 (2. Kh7 $2 Nf5 $1) (2. Kg5 $2 g3 3. Nd8 g2 4. Ne6+ Kg8 5. f7+ Kh7 6. f8=Q g1=Q+) 2... Nf5 3. Kxg4 f3 $1 4. Kxf3 d4 $1 5. Kf2 $1 Kg8 6. Ke1 Kf8 7. Kd2 Kg8 8. Kc1 $3 Kf8 9. Kb2 Kg8 10. Kb1 Kf8 11. Kc1 Kg8 12. Kd2 Kf8 13. Kd3 $1 Kg8 14. Ke4 Ng3+ 15. Ke5 $1 (15. Kxd4 $2 Nh5 16. Nh6+ Kf8 17. f7 Nf4 $1 18. Ke5 Ng6+) 15... Nh5 16. Nh6+ Kf8 (16... Kh7 17. f7 Kg7 18. Nhf5+) 17. f7 d3 (17... Ng7 18. Nc8 d3 19. Nb6 Ke7 20. Nd5+ Kf8 21. Nf4) 18. Ne4 $1 Ng7 19. Ng5 Ke7 20. Ng8+ Kf8 21. Nf6 Ke7 22. Nd5+ Kf8 23. Nf4 d2 24. Ng6# 1-0  

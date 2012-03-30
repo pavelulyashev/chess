@@ -1,0 +1,10 @@
+[Event "te01#025 @2 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Caputto Z"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k5/7b/7P/4R3/8/8/r2b4/3K4 w - - 0 1"]
+
+ 1. Re2 $1 Bd3 $1 2. Rf2 $1 (2. Rg2 $2 Ra1+) (2. Re6 $2 Bc2+ 3. Ke2 Bf5) (2. Re8+ $2 Kd7 3. h7 Bc3) 2... Rb2 $1 3. h7 (3. Rf3 $1 {cook FJ} Bb5 (3... Be4 4. Rf8+ Kd7 5. h7) 4. Rf8+ Kc7 5. h7 Ba4+ 6. Ke2 Bh6+ 7. Kd3 Bc2+ 8. Kc4 $1 Bxh7 9. Rf7+ Kd6 10. Rxh7) 3... Bc3 (3... Bxh7 4. Rxd2) 4. h8=Q+ $1 Bxh8 5. Rf8+ 1/2-1/2  

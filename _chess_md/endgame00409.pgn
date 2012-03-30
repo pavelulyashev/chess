@@ -1,0 +1,10 @@
+[Event "2 Prize Chavchavadze MT {m}"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Matous M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N2K4/8/8/6P1/2N3Bn/3k4/8/2b5 w - - 0 1"]
+
+ 1. Ne5+ Ke4 (1... Kd4 $144 2. g6 Bh6 3. Nf3+ $1 $18 Nxf3 4. Bxf3 $18) 2. g6 (2. Nf7 $143 Bxg5+ 3. Nxg5+ Kf4 $11) 2... Bh6 3. Nf7 Bg7 (3... Bf8 $144 4. Bd1 Kf5 5. Bc2+ Kf6 6. Nc7 Nxg6 7. Ne8+ Kxf7 8. Bb3#) 4. Bd1 Kf5 5. Bc2+ Kf6 6. Nb6 Nxg6 7. Nd7+ Kxf7 (7... Ke6 $144 8. Bxg6 $18) 8. Bb3# {"The parallel synthesis of a pair of pure mates brilliantly realised in a light setting. A masterly study."} 1-0  

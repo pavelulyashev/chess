@@ -1,0 +1,10 @@
+[Event "ts17#303 {v} {m}"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Simkovitch F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5p2/7P/1p1p2r1/1P1k1p2/3P2P1/4PK2/6B1 w - - 0 1"]
+
+ 1. Ke1+ (1. Kf3+ $2 Kc3 2. Bc5 fxg3 3. Bf8 Rh5 4. Kxg3 d4) 1... Kc3 2. Bd4+ $1 Kxd4 3. gxf4 Rh5 4. Kd2 Rh3 5. h7 f6 6. h8=Q Rxd3+ 7. Ke1 1-0  

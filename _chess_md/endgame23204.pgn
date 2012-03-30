@@ -1,0 +1,10 @@
+[Event "tt22#1083 @2 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5k2/2n2P2/2K5/p7/2B2N2/4N1n1 w - - 0 1"]
+
+ 1. Bb1 a2 $1 2. Bxa2 Nb7 $1 3. Kd5 $1 Ne2 4. Kc6 (4. Bc4 $1 {cook JN} Ng3 5. Ba6 Nd8 6. Ne4+ Nxe4 7. Kxe4) 4... Nd8+ 5. Kd7 Nf7 $1 6. Be6 Ne5+ 7. Ke8 $1 Ng3 8. Ng2 $1 Nxf5 9. Ne4+ Kxe6 10. Nf4# 1-0  

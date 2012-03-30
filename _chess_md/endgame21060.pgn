@@ -1,0 +1,10 @@
+[Event "Comm. Nona 2009 {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Poisson C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/8/8/k7/rr6/2Q3N1/8/8 w - - 0 1"]
+
+ 1. Ka7 Kb5+ 2. Kb7 Rc4 3. Qf6 Rab4 (3... Rc5 4. Nf5 Rb4 5. Qa6# {echo mate}) ( 3... Rcb4 4. Qf3 Ra5 5. Qc6# {echo mate}) 4. Qa6+ Kc5+ 5. Kc7 Rb5 6. Qd6# { echo mate} 1-0  

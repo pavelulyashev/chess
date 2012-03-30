@@ -1,0 +1,10 @@
+[Event "ts23#21 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Evreinov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/5K1k/6pP/3P3p/8/8/6n1/8 w - - 0 1"]
+
+ 1. Ne6 (1. d6 $2 Ne3 2. d7 Nc4 3. Nc6 Nd6+ 4. Kf6 Nb7 5. Na5 (5. Kg5 Nc5) 5... Nd8 6. Ke7 h4) 1... Ne3 2. Ng5+ (2. d6 $2 Nc4 3. Ng5+ Kh8 $1) 2... Kxh6 3. d6 Nc4 4. d7 Ne5+ 5. Kg8 Nxd7 6. Nf7# 1-0  

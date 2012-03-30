@@ -1,0 +1,10 @@
+[Event "tp31#067 @2 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/1P6/pr6/8/5R2/1k6/p7/6K1 w - - 0 1"]
+
+ 1. Rf1 $1 Rf6 (1... Re6 2. Ra8 Rb6 3. Rxa6 (3. Rd8 $2 Rxb7 4. Rf3+ Kb2 5. Rf2+ Ka1)) 2. Rg8 $1 (2. Ra1 $1 {cook}) 2... Rxf1+ 3. Kxf1 a1=Q+ 4. Kg2 $1 Qb2+ 5. Kh3 Qc3+ (5... Ka2 6. Rg2) (5... Ka3 6. b8=Q Qxb8 7. Rxb8 a5 8. Kg3 a4 9. Kf3 Ka2 10. Ke3 a3 11. Kd3 Ka1 12. Kc3 a2 13. Rd8) 6. Rg3 1-0  

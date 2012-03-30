@@ -1,0 +1,10 @@
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Belenky A, Kuznetsov AG"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K2k3/8/6R1/2r4b/1P5p/4P3/8/8 w - - 0 1"]
+
+ 1. Re6+ $1 Kd7 (1... Kf7 2. Re4 Rb5+ 3. Kc7 h3 4. Rh4 Bg4 5. Rxg4 Rh5 6. Rg1 h2 7. Rh1 Ke6 8. b5 Kd5 9. e4+ Kc5 10. e5) 2. Re4 Rb5+ 3. Ka7 Rb7+ $1 (3... h3 4. Rh4 Bg4 5. Rxg4 Rh5 6. Rg1 h2 7. Rh1 Kc6 8. Ka6 Rh8 9. b5+) 4. Ka8 $1 (4. Ka6 $2 Be2+ $19) 4... Bf3 5. Rxh4 Rxb4+ 6. e4 $1 {Nowotny} Bxe4+ 7. Ka7 Kc7 (7... Kc6 8. Rh6+ Kc5 9. Rb6 $1 Rxb6 {stalemate}) 8. Ka6 Bb7+ (8... Bd3+ 9. Ka5 Rxh4 {stalemate}) (8... Ra4+ 9. Kb5 Bc6+ 10. Kc5 Rxh4 {stalemate}) 9. Ka7 $1 Be4 ( 9... Rxh4 {stalemate}) 10. Ka6 {positional draw - perpetual stalemate} 1/2-1/2  

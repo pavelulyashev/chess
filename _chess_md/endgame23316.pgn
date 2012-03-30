@@ -1,0 +1,10 @@
+[Event "tn23#047 {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4k3/4p3/3PP1K1/q7/3b4/8/2B5/2R5 w - - 0 1"]
+
+ 1. Ba4+ $1 Kd8 $1 (1... Qxa4 2. Rc8#) 2. Rc8+ $3 Kxc8 3. dxe7 $1 Qxa4 4. Kf7 $1 Qa7 $1 5. Kg8 $3 Qxe7 1/2-1/2  

@@ -1,0 +1,10 @@
+[Event "t001#90 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Grigoriev N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/8/8/5P1k/p7/7P/2K5 w - - 0 1"]
+
+ 1. h3 $1 c5 2. Kb1 c4 3. Ka2 c3 $1 4. Kb3 $3 (4. Kxa3 $143 Kg3 5. f5 Kf4 6. f6 Ke3 7. f7 c2 8. f8=Q c1=Q+ $11) 4... a2 5. Kxa2 Kg3 6. f5 Kf4 7. f6 Ke3 8. f7 c2 9. f8=Q c1=Q 10. Qh6+ $18 1-0  

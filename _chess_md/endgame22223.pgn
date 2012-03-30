@@ -1,0 +1,10 @@
+[Event "ts23#35 {c} {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Ryabinin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3R2p1/6Np/3p4/2b4K/2B2pr1/2N3k1 w - - 0 1"]
+
+ 1. Ne2+ Kh1 2. Ng3+ Rxg3+ 3. Kxg3 d3 $1 4. Ba4 $1 (4. Kxf2 $2 dxc2 5. Rd3 Be1+ 6. Kf1 Bg3 7. Rc3 Bf4) (4. Bxd3 $2 Be5+ 5. Kxf2 Bxd6 6. Be4+ Kh2 7. Nf3+ Kh1 8. Bd3 g5) 4... Be5+ 5. Kxf2 Bxd6 6. Bc6+ Kh2 7. Nf3+ Kh1 8. Nd2+ Kh2 9. Nf1+ Kh3 10. Bd7+ Kh4 11. Nd2 Bc5+ 12. Kg2 Kg5 (12... Be3 13. Nf3#) 13. Ne4+ 1-0  

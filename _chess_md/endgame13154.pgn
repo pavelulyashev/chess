@@ -1,0 +1,10 @@
+[Event "tn04 {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Hamlisch E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3b4/p5p1/7p/1Pk1PP2/P3K1P1/8/1P5P/8 w - - 0 1"]
+
+ 1. a5 $1 Bxa5 (1... Kxb5 2. Kd5) 2. f6 gxf6 3. exf6 Bd8 4. f7 Be7 5. Ke5 Bd6+ 6. Ke6 1-0  

@@ -1,0 +1,10 @@
+[Event "jh01 ts53#09762 @2 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Tkachenko SI"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/1p6/k7/p3p3/P3p3/3PP3/3P3P/8 w - - 0 1"]
+
+ 1. h4 (1. dxe4 $2 b5 2. d4 bxa4 3. dxe5 Kb6 4. Kb8 Kc6) (1. d4 $2 exd4 $1) 1... b5 2. h5 bxa4 (2... b4 3. h6 b3 4. h7 b2 5. h8=Q b1=Q 6. Qc8+) 3. h6 a3 4. h7 a2 5. h8=Q a1=Q 6. Qb8 $1 (6. Qc8+ $2 Kb6 $1) (6. Qh7 $2 Kb6 7. Qxe4 a4) 6... a4 7. Qb7+ Ka5 8. Ka7 a3 9. Qb6+ (9. Qd5+ $1 {cook} Ka4 10. Ka6 a2 11. Qb5+ Ka3 12. Ka5) 9... Ka4 10. Ka6 a2 (10... Qb2 {main} 11. Qc6+ Kb3 12. Qc4#) 11. Qb5+ Ka3 12. Ka5 Qb1 (12... Qd4 13. exd4 a1=Q 14. Qa4+ Kb2 15. Qxa1+ Kxa1 16. dxe5) 13. Qc5+ Kb2 14. Qc3# 1-0  

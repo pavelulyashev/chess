@@ -1,0 +1,10 @@
+[Event "te01 {m}"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1B6/1k6/2RP4/3Prp2/6b1/2P5/7K w - - 0 1"]
+
+ 1. Bc6 f3 2. Rb5+ Ka6 3. Rb1 Bf2 4. Ra1+ Kb6 5. Rb1+ Ka7 6. Ra1+ (6. Rb7+ $2 Ka6 7. Rh7 Bg3) 6... Kb8 7. Ra8+ Kc7 8. Rh8 $1 (8. Ra7+ $2 Kb6 9. Rh7 (9. Rb7+ $2 Ka6) 9... Re1+ 10. Kh2 Bg1+ 11. Kg3 f2 12. Rb7+ Ka6) 8... Bg3 9. Rh7+ Kb8 10. Rh8+ (10. Rb7+ $2 Kc8 11. Rb1 Bf2) 10... Ka7 11. Ra8+ Kb6 12. Ra1 Bf2 13. Rb1+ Kc7 14. Rb7+ Kc8 (14... Kd8 15. Rb8+ Ke7 16. Re8+) 15. Rh7 Bg3 16. Rh8+ Kc7 17. Rh7+ Kb6 18. Rb7+ Ka6 (18... Ka5 19. Ra7+ Kb4 20. Ra4+ Kc3 21. Ra3+) 19. Rb1 Bf2 20. Ra1+ 1-0  

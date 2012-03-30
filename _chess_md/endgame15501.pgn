@@ -1,0 +1,10 @@
+[Event "tp25#0209 {m}"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Kekely L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5kbQ/3p2p1/K2P2Pp/1p5P/1p6/8/8/8 w - - 0 1"]
+
+ 1. Ka5 b3 2. Kb4 b2 3. Ka3 b1=N+ (3... b1=Q 4. Qxg8+ Kxg8) (3... b1=R 4. Qxg7+ Kxg7) (3... b1=B 4. Kb4 Bd3 5. Kc5 Be2 6. Kb4 Bxh5 7. Kxb5 Bxg6 8. Kc5 B6h7 9. Kd4) 4. Kb4 Nd2 5. Kxb5 Ne4 6. Kb6 Nxd6 7. Kc7 Nf5 (7... Ne8+ 8. Kxd7 Nf6+ 9. Kd6 Nxh5 10. Ke5) 8. Kxd7 Ng3 9. Kd6 Nxh5 10. Ke5 1/2-1/2  

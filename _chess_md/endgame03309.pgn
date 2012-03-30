@@ -1,0 +1,10 @@
+[Event "Matous60JT_2Pr {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Keith D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3n4/1Pk5/8/2B5/8/1p1K1p2/8/8 w - - 0 1"]
+
+1. b8=Q+ (1. Bd4 Kxb7 2. Ke3 (2. Kc3 Nc6 3. Bf2 Na5) 2... Ne6 3. Bf6 Ng5) (1.Kc3 Nxb7 2. Bd4 Na5 3. Kd2 Nc4+ 4. Ke1 Kc6 $1 {tempo} 5. Kf2 Kd5) 1... Kxb8 2.Kc3 (2. Ba3 Ne6 (2... Nf7) 3. Ke3 (3. Kc3 f2) 3... Ng5 4. Bb2 Kb7) 2... Nb7 3.Bd4 $1 (3. Bf2 Na5) 3... Na5 4. Kd2 $1 (4. Kd3 Nc4) 4... Nc6 (4... Nc4+ 5. Ke1Ne3 $5 6. Kf2 Nf5 7. Be5+ $1 (7. Bf6 Nh4)) 5. Bh8 $3 (5. Bg7 Ne7 {tempo} 6. Bh8Nf5 {nejjednodussi}) (5. Ba1 Nb4 $1 6. Ke1 Nc2+) (5. Bb2 Nb4 6. Ke3 f2 7. Ke2Nd3) (5. Bf6 Nb4) 5... Nd8 {switchback} (5... Ne7 6. Ke3 Ng6 7. Bd4 Nh4 8. Kd2)6. Ke3 (6. Kc3 f2) (6. Be5+ Kb7 7. Ke3 Nf7) (6. Bd4 Kb7 7. Ke3 Ne6) 6... Nf7 7.Bd4 Ng5 8. Kd2 {switchback} Ne6 (8... Ne4+ 9. Kc1 Kb7 10. Kb2 Nd2 11. Kc3) 9.Be3 (9. Bf2 Nf4 10. Kc3 b2) 9... Nf4 (9... Nc7 10. Kc1 (10. Bd4 {tohle je jediny dualek a jeste ve vedlejsi variante}) (10. Bf2) (10. Bg1) 10...Nd5 11. Bg1 $1) 10. Bxf4+ 1/2-1/2

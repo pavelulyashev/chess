@@ -1,0 +1,10 @@
+[Event "1 Prize, wm03 {tt} @2 {m}"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5P2/6N1/8/2K3N1/rp4P1/4k3 w - - 0 1"]
+
+ 1. Kc2 b1=Q+ $1 (1... Kf2 2. f7 Ra8 3. N3e4+ Kxg2 4. Ne6 Ra1 (4... Kf3 5. Nf6 $1) 5. Nf4+ $1 Kf3 6. Nd2+) 2. Kxb1 Rxg2 3. Nf3+ (3. N5e4 $2 Rh2 $1 4. f7 Rh8) (3. N3e4 $2 Rg4 $1 4. Nf3+ Ke2 5. Nd4+ Ke1 6. Nf3+ Ke2) 3... Kd1 $1 4. Ne2 $1 ( 4. f7 $2 Rb2+ $1 5. Kxb2) (4. Ne4 $2 Rc2 $1 5. f7 Rc1+ 6. Kb2 Rc2+ 7. Kb3 Rc8) (4. Nd4 $1 {cook OP} Rh2 5. f7 Rh8 6. Ne6 Rb8+ 7. Ka2 Kc2 8. Ka3 Kd3 (8... Rb3+ 9. Ka4 Rf3 10. Nd4+) 9. Nf5 Rh8 10. Nd6 Ke3 11. Kb4 Kf3 12. Ne8 Kg3 13. Nf6 $1) 4... Rxe2 5. f7 Re8 $1 6. fxe8=B $1 1-0  

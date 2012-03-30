@@ -1,0 +1,10 @@
+[Event "tt23#240 @3 {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2bN4/6KR/1P6/8/5k2/8/6p1/8 w - - 0 1"]
+
+ 1. Ne6+ (1. Rh4+ $2 Kf3 $1 2. b7 (2. Rg4 Kxg4 3. b7 Bxb7) 2... g1=Q+) 1... Bxe6 (1... Ke5 2. Rh5+) (1... Kg3 2. Rh6 Bxe6 3. Rg6+ Bg4 4. b7) (1... Kf3 2. Rh3+ Kg4 3. Rh6) (1... Ke3 2. Rh3+ Kf2 3. Rh2) (1... Ke4 2. Rh4+ Kf5 (2... Kf3 3. Nd4+ Kg3 (3... Ke3 4. Nc2+ Kd3 (4... Kf2 5. Rh2) 5. Ne1+) 4. Rh6 Bg4 5. b7) 3. Rf4+ Kxe6 4. Rg4) 2. Rh4+ Kf3 (2... Kg5 3. b7) (2... Ke5 3. Rg4 Bxg4 4. b7) 3. Rg4 Kxg4 4. b7 g1=Q 5. b8=Q Kf5+ (5... Kh5+ $1 {cook} 6. Kh8 Qd4+ 7. Kh7 Qe4+ 8. Kh8 Qh4 $1) 6. Kf8 (6. Kh8 $2 Qd4+ 7. Kh7 Qh4+ 8. Kg7 Qf6+ 9. Kh7 Qg6+ 10. Kh8 Qh6#) 6... Qg8+ 7. Ke7 Qxb8 1/2-1/2  

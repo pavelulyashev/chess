@@ -1,0 +1,10 @@
+[Event "ts68#28 @3 {m}"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/2K2p1N/2N5/2k1PP2/8/3p4/4p3/8 w - - 0 1"]
+
+ 1. e6 fxe6 (1... e1=Q 2. exf7 Qg3+ (2... d2 3. f8=Q+ Kc4 4. Na5+) 3. Kc8 Qd6 4. f8=Q d2 5. Qxd6+ Kxd6 6. f6 d1=Q 7. f7 Qg4+ 8. Kb8) 2. f6 $1 (2. Ne5 $2 d2) 2... e1=Q (2... d2 3. f7 d1=Q 4. f8=Q+ Kd5 (4... Kc4 5. Ne5+) 5. Ne5+) 3. f7 Qg3+ 4. Kc8 $1 (4. Kb7 $2 Qg7) (4. Kd7 $2 Qd6+) 4... Qf3 (4... Kb6 $1 {cook}) 5. f8=Q+ Qxf8+ 6. Nxf8 d2 7. Nd7+ $1 Kd6 (7... Kb5 8. Na7+) (7... Kd5 8. Nce5+) 8. Nce5 $1 (8. Kd8 $2 e5 $1) 8... d1=Q 9. Kd8 Qf1 10. Be4 $1 1-0  

@@ -1,0 +1,10 @@
+[Event "ts24 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Mitrofanov L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7n/4k3/2R5/4K3/8/8/3p4/8 w - - 0 1"]
+
+ 1. Rc7+ Kd8 2. Rc5 $1 (2. Rc4 $2 Nf7+ $1 3. Ke4 Nd6+ $1) 2... Ng6+ 3. Ke4 Nf4 $1 4. Rc4 Ne6 $1 5. Rc3 Ke7 $1 6. Rd3 Nc5+ 7. Ke3 Nxd3 8. Kxd2 1/2-1/2  

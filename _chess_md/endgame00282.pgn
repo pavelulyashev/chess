@@ -1,0 +1,10 @@
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7p/7P/p1K5/8/p1B5/pn1N4/k7 w - - 0 1"]
+
+ 1. Bh8 $1 {Indian} a4 2. Kd4 Nc4 3. Kd5+ Nb2 4. Ke5 Nc4+ 5. Ke6+ Nb2 6. Kf6 Nc4 7. Kf7+ Nb2 8. Kg7 {pseudo-Bristol} Nd3 9. Kxh7+ ({dual} 9. Ne4 $1 Kb1 10. Kxh7 Kc2 11. Ba1 Kb1 12. Kg8 Kxa1 13. h7 Kb1 14. Nd2+ Kc2 15. h8=Q Nb2 16. Qh1 $18) 9... Nb2 10. Kg7 Nc4 11. Kf7+ Nb2 12. Kf6 Nc4 13. Ke6+ Nb2 14. Ke5 Nc4+ 15. Kd5+ Nb2 16. Kd4 Nd1 17. Kd3+ Nb2+ 18. Kc3 Nd1+ 19. Kb4+ Nb2 20. Nc4 Kb1 21. Nxa3+ Kc1 22. Bxb2+ Kxb2 23. h7 a1=Q 24. h8=Q+ Ka2 25. Qg8+ Kb2 26. Qg2+ Kc1 27. Qc2# 1-0  

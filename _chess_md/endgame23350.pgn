@@ -1,0 +1,10 @@
+[Event "tn23 {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p5/r4k2/1K1R4/1P6/1b6/8/8 w - - 0 1"]
+
+ 1. Rd7 (1. Rd3 $2 Rb6+) (1. Kxa6 $2 Bxd5) (1. Rc5 $2 Ra7) 1... Ba4+ (1... Ra7 2. Kc6 Ba4+ 3. b5) (1... Rb6+ 2. Kc5 Rb7 3. Kc6) 2. Kxa6 Bxd7 3. b5 (3. Kb7 $2 c6) 3... Bc8+ 4. Ka7 Ke7 5. Kb8 Kd7 6. Ka8 (6. Ka7 $2 Kd8 7. b6 (7. Kb8 Bd7) 7... c5) 6... Kd8 7. Ka7 Ke8 8. Kb8 Kd8 9. Ka7 Bd7 10. b6 (10. Ka6 $2 Kc8 11. b6 c5 12. Ka5 Bc6 13. b7+ Kb8 $1) 1/2-1/2  
