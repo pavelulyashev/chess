@@ -1,20 +1,22 @@
 #! /bin/bash
 
 
-path=$1
-total=`ls $path | wc -l`
+source_path=$1
+dest_path=$2
+total=`ls $source_path | wc -l`
 
 
-for id in {00001..23571..100}
+for id in $(seq -w 1 100 $total)
 do
-    next=`expr $id + 100`
-    new_dir=`echo $path$id - $next`
-    mkdir $new_dir
+    new_file=`echo $dest_path'endgames'$id'.pgn'`
+    touch `echo $new_file`
     for j in {0..99}
     do
-        _id=$id+$j
-        fname=`echo endgame$_id.pgn`
-        mv $path$fname $new_dir
+        _id=`expr $id + $j`
+        __id=`printf '%05d' $_id`
+        cat `echo $source_path'endgame'$__id'.pgn'` >> $new_file
+        echo -e '' >> $new_file
     done
+    echo $id
 done
 

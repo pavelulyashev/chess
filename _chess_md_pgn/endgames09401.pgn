@@ -1,0 +1,1100 @@
+[Event "tc06 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k2B2/2Np4/6KN/8/2b4P/8/6n1/8 w - - 0 1"]
+
+ 1. Ne8 Nxh4+ 2. Kh5 Nf5 3. Nxf5 Bf7+ 4. Kg5 Bxe8 5. Nd6+ Kd8 6. Kh6 1-0  
+
+[Event "ts82 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R6N/8/8/6r1/3p4/3P4/7K/4k3 w - - 0 1"]
+
+ 1. Nf7 Rh5+ 2. Kg3 Kd2 3. Ra3 Rc5 4. Kf4 Rc3 5. Ra2+ Kxd3 6. Ne5# 1-0  
+
+[Event "1 Prize ts69 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7K/3P1k1N/3P4/8/8/4r1P1/8 w - - 0 1"]
+
+ 1. Ng8+ Kf7 2. d7 Rxg2 3. d8=R Rh2+ 4. Nh6+ Ke7 5. Ra8 Kd6 6. Ra5 Rh5 7. Ra6+ Kxd5 8. Ra5+ 1-0  
+
+[Event "1/2 Prize tn20 {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/6N1/6P1/N7/4k3/bB6/3pP3/3K3n w - - 0 1"]
+
+ 1. Bc2+ Kd4 2. Kxd2 Bb4+ 3. Kc1 Nxg6 4. Nc6+ Ke3 5. Nxb4 Nf4 6. Nf5+ Kxe2 7. Be4 Nf2 8. Ng3+ Ke3 9. Nc2# {#} 1-0  
+
+[Event "1 Prize mf03 ts70 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4k3/8/B3KB2/2P2R2/5b2/7p/2n4p/1r6 w - - 0 1"]
+
+ 1. Bb5+ Rxb5 2. Rh5 Nd4+ 3. Bxd4 Kd8 4. Rh8+ Kc7 5. Rxh3 Rb1 6. Be3 Re1 7. Kf5 Bg3 8. Bf2 Rf1 9. Kg4 Be5 10. Kf5 Bg3 11. Kg4 1/2-1/2  
+
+[Event "1/2 Prize ts70 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4k3/1Pb5/n7/1n1P4/8/8/B3K3/8 w - - 0 1"]
+
+ 1. Bc4 Nc3+ 2. Kd3 Na4 3. b8=Q+ Bxb8 4. Bxa6 Nc5+ 5. Kc4 Nxa6 6. Kb5 Nc7+ 7. Kc6 Kd8 8. Kb7 1/2-1/2  
+
+[Event "2 Prize ts20 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2N5/8/k6B/5B2/8/1p4p1/3K4 w - - 0 1"]
+
+ 1. Bd2+ Ka4 2. Be8+ Kb3 3. Bf7+ Ka4 4. Kc2 b1=Q+ 5. Kxb1 g1=Q+ 6. Ka2 Qg8 7. Bd5 Qf7 8. Ne6 Kb5 9. Nd4+ Ka4 10. Bb3+ Qxb3+ 11. Nxb3 1-0  
+
+[Event "3 Prize tp16 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3K4/3Nn3/6p1/3N2nk/8/4p3/5B2 w - - 0 1"]
+
+ 1. N4f5+ Kh5 2. Ng3+ Kh6 3. Ndf5+ Kg6 4. Bxe2 Nc5+ 5. Kd6 Ne4+ 6. Nxe4 Kxf5 7. Ng3+ Kf4 8. Nh5+ Kf5 9. Bd3# 1-0  
+
+[Event "1 Prize mc05 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/8/2r2PP1/2b5/3p2k1/4B3/6P1/2K5 w - - 0 1"]
+
+ 1. g7 Bf8+ 2. Kd1 Bxg7 3. fxg7 Rg6 4. Bxd4 Kh5 5. Ke2 Rxg2+ 6. Kf3 Rg6 7. Nc7 Kg5 8. Nd5 Kh6 9. Ne7 Rxg7 10. Nf5+ 1-0  
+
+[Event "1 Prize tn09 mi01 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/P7/8/8/5K2/2N1rpB1/P1P2p2/5n2 w - - 0 1"]
+
+ 1. Nd1 Re4+ 2. Kxf3 Re1 3. Kxf2 Rxd1 4. Ke2 Rc1 5. Bf4 Rb1 6. Bb8 Kb7 7. a3 Ka8 8. a4 Ra1 9. Be5 Rc1 10. Bf4 Rb1 11. Bb8 Kb7 12. a5 Rc1 13. a6+ Ka8 14. Bf4 Ra1 15. Be5 Ra5 16. Bb8 Rf5 17. c4 Rf7 18. c5 Rf5 19. c6 Rf6 20. c7 Ng3+ 21. Kd3 Rf3+ 22. Kd4 Ne2+ 23. Kd5 Rc3 24. Kd6 Nf4 25. Kd7 Nd5 26. c8=N 1/2-1/2  
+
+[Event "1 Prize tn20 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1b2P1n1/8/1Pp5/8/4P3/1K6/3k4 w - - 0 1"]
+
+ 1. Kc3 Bg2 2. Kc4 Kc2 3. e4 Bxe4 4. Kxc5 Kc3 5. Kd6 Kb4 6. b6 Kb5 7. e8=Q+ Nxe8+ 8. Ke7 Ng7 9. Kf6 Nh5+ 10. Kg5 Ng7 11. Kf6 Ne8+ 12. Ke7 1/2-1/2  
+
+[Event "1 Prize tt21 jc01 {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/B7/6P1/4k3/2K5/7r/8/5N2 w - - 0 1"]
+
+ 1. g7 Rh4+ 2. Kd3 Rg4 3. Ne3 Rg5 4. Bd4+ Ke6 5. Ke4 Kf7 6. Nf5 Kg8 7. Bf6 Rg1 8. Ke5 Rg2 9. Ke6 Rg1 10. Ke7 Re1+ 11. Kd7 Kh7 12. Bb2 Re2 13. Bc3 Rg2 14. Ke7 Kg8 15. Ke8 Rg1 16. Be5 Rg2 17. Bd4 Rg5 18. Nh6+ Kh7 19. Kf8 Kxh6 20. Be3 1-0  
+
+[Event "1/2 Honorable Mention wd02 {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/3n4/3B1P2/1P3p2/k6n/8/7K/8 w - - 0 1"]
+
+ 1. b6 Kb5 2. b7 Kc6 3. b8=Q Nxb8 4. Bxb8 Kd7 5. Ne7 Ke6 6. Kg3 Kxf6 7. Nd5+ Kg5 8. Bf4+ Kh5 9. Nf6+ Kg6 10. Ne8 Kh5 11. Ng7+ Kg6 12. Be5 Kg5 13. Ne6+ Kh5 14. Bf4 Ng6 15. Ng7# 1-0  
+
+[Event "1 Honorable Mention mr04 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/P7/P3p3/4P1p1/p5k1/7R/5P2/1r6 w - - 0 1"]
+
+ 1. Ra3 Kf5 2. Ra1 Rb2 3. Rxa4 Kxe5 4. Ra2 Rxa2 5. Kb7 Rb2+ 6. Kc7 Rc2+ 7. Kd7 Rd2+ 8. Ke7 1-0  
+
+[Event "1 Honorable Mention ts70 {v} {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/8/3p2b1/8/P1k5/8/1K4N1/B5n1 w - - 0 1"]
+
+ 1. Ka3 Be4 2. Nb6+ Kc5 3. Nf4 Kxb6 4. Bd4+ Ka5 5. Bxg1 Bc6 6. Bf2 Bxa4 7. Be1+ Kb5 8. Ne2 Bc2 9. Nd4+ 1-0  
+
+[Event "1 Prize mr04 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1r6/3n4/4K2b/8/N7/8/1p1k4/5R2 w - - 0 1"]
+
+ 1. Rf2+ Kc1 2. Nxb2 Nf8+ 3. Kf7 Rxb2 4. Rf1+ Kd2 5. Rf6 Rb7+ 6. Kg8 Bg7 7. Rf2+ Kd3 8. Rd2+ Kc4 9. Rc2+ Kd5 10. Rc7 Rb8 11. Rb7 Rxb7 1/2-1/2  
+
+[Event "2 Commendation tk04 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4bBn1/8/1N2n2P/8/p3K3/8/1k6/8 w - - 0 1"]
+
+ 1. h7 Ng5+ 2. Kf5 Nxh7 3. Nxa4+ Bxa4 4. Bg7+ Kb1 5. Kg6 Bc2+ 6. Kf7 Bb3+ 7. Kg6 Bc2+ 8. Kf7 1/2-1/2  
+
+[Event "3 Prize o000 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3N4/5rPk/8/3r2Pb/2K2P2/8/8/5B2 w - - 0 1"]
+
+ 1. g8=Q+ Kxg8 2. Nxf7 Bxf7 3. g6 Be6 4. Bh3 Re5+ 5. Kd3 Re1 6. Kd2 Re4 7. Kd3 Re1 8. Kd2 1/2-1/2  
+
+[Event "3 Prize tn20 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/pk1Bp3/4p3/P3N3/1P6/Kp2n3/3b4/8 w - - 0 1"]
+
+ 1. Nc6 Bxb4+ 2. Nxb4 Nc4+ 3. Kxb3 Nxa5+ 4. Ka4 Nc4 5. Bxe6 Nb6+ 6. Ka5 Kxb8 7. Na6+ Ka8 8. Kb4 Kb7 9. Kb5 Nc8 10. Bd5# 1-0  
+
+[Event "4 Prize jb01 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/1p1pB2p/7K/2R1P2p/8/1p6/7p/4n3 w - - 0 1"]
+
+ 1. e6 dxe6 2. Bd6 e5 3. Rc7 h1=Q 4. Rg7+ Kh8 5. Rxh7+ Kg8 6. Rg7+ Kh8 7. Bxe5 Nd3 8. Bd4 Qe4 9. Rg4+ Qe5 10. Bxe5+ Nxe5 11. Re4 Nf7+ 12. Kg6 Nd6 13. Ra4 1-0  
+
+[Event "4 Prize jc01 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/7P/7p/6P1/Np2p2K/8/2k5 w - - 0 1"]
+
+ 1. h7 e2 2. h8=Q hxg4+ 3. Kg2 e1=Q 4. Qa1+ Kd2 5. Nc4+ Ke2 6. Qe5+ Kd1 7. Nb2+ Kd2 8. Qa5+ Ke2 9. Qb5+ Kd2 10. Qb4+ Ke2 11. Qxe7+ Kd2 12. Qb4+ Ke2 13. Qxg4+ Ke3 14. Qg5+ Kd4 15. Qd8+ Ke3 16. Qe7+ Kd2 17. Qb4+ Ke2 18. Qf4 1-0  
+
+[Event "ts70#1114 @2 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/8/6b1/8/P1k5/8/1K4N1/B5n1 w - - 0 1"]
+
+ 1. Ka3 Be4 2. Nb6+ Kc5 3. Nf4 Kxb6 4. Bd4+ Ka5 5. Bxg1 Bc2 6. Bf2 Bxa4 7. Be1+ Kb5 8. Ne2 Bc2 9. Nd4+ 1-0  
+
+[Event "2 Prize mb03 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6B1/3p2P1/5n1b/8/p2p4/K1P5/2P5/1k2N3 w - - 0 1"]
+
+ 1. Ba2+ Kc1 2. g8=Q Nxg8 3. Bxg8 Kd2 4. Nf3+ Kxc2 5. cxd4 d5 6. Kxa4 Kd3 7. Kb4 Ke4 8. Nh4 Be3 9. Bh7+ Kxd4 10. Nf3# 1-0  
+
+[Event "tn20 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/Kp6/1p6/8/p1p5/q7/2r1B2Q/8 w - - 0 1"]
+
+ 1. Bg4+ Kd8 2. Qh8+ Ke7 3. Qg7+ Ke8 4. Bd7+ Kd8 5. Bb5 Qd6 6. Qg5+ Kc7 7. Qg8 Qd8 8. Qg7+ Kd6 9. Qd4+ Ke7 10. Qh4+ 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3Pp3/K2k4/6N1/1p4B1/4r3/8 w - - 0 1"]
+
+ 1. d7 Ra2+ 2. Kb6 Ra8 3. Be5 b2 4. Bxb2 Kd6 5. Kb7 Rd8 6. Ba3+ Kxd7 7. Nf6# 1-0  
+
+[Event "1 Prize jl03 te03 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2B1n3/1p1N4/3Pk3/7b/4K2P/4p3/4P3/5n2 w - - 0 1"]
+
+ 1. Nc5+ Kxd6 2. Nxb7+ Kc7 3. Bh3 Ng3+ 4. Kxe3 Kxb7 5. Kf4 Nxe2+ 6. Kg5 Ng3 7. Kf4 Ne2+ 8. Kg5 Ng7 9. Kf6 Ne8+ 10. Kg5 Ng3 11. Kf4 Ne2+ 12. Kg5 Ng7 13. Kf6 Ne8+ 14. Kg5 1/2-1/2  
+
+[Event "2 Commendation tk04 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K4B2/1p6/1kPP4/p7/P2p4/5P2/8/1b2q3 w - - 0 1"]
+
+ 1. d7 Qh4 2. cxb7 Ka6 3. Bc5 Be4 4. fxe4 Qxe4 5. d8=N d3 6. Be3 Qd5 7. Bg5 d2 8. Bxd2 Qxd8+ 9. b8=N+ Kb6 10. Be3+ Kc7 11. Bb6+ Kxb6 1/2-1/2  
+
+[Event "4 Honorable Mention tc06 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5b2/7R/8/1k1K4/7B/8/8/5b2 w - - 0 1"]
+
+ 1. Rb7+ Ka6 2. Rf7 Bg2+ 3. Kc4 Ba3 4. Bf2 Bf1+ 5. Kb3 Bc1 6. Ra7+ Kb5 7. Ra1 Bc4+ 8. Kc3 Bh6 9. Rb1+ 1-0  
+
+[Event "4 Honorable Mention tt21 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/2K5/8/k6B/3N4/2Pq4/8 w - - 0 1"]
+
+ 1. Nb2+ Kb4 2. Be1 Qc3+ 3. Kd5 e6+ 4. Kd6 e5 5. Nd3+ Kc4 6. Bxc3 Kxc3 7. Ne1 e4 8. Ke5 e3 9. Ke4 Kd2 10. c4 1-0  
+
+[Event "4 Prize ws05 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k6r/Pp6/2Pp3p/7R/1K6/8/5N2/8 w - - 0 1"]
+
+ 1. c7 Kxa7 2. Ne4 Kb6 3. Rxh6 Rc8 4. Nxd6 Rxc7 5. Nc8# 1-0  
+
+[Event "4 Prize ws05 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3r3b/kp6/2Pp3p/7R/1K6/8/5N2/B7 w - - 0 1"]
+
+ 1. c7 Rc8 2. Bxh8 Rxh8 3. Ne4 Kb6 4. Rxh6 Rc8 5. Nxd6 Rxc7 6. Nc8# 1-0  
+
+[Event "1 Honorable Mention ts70 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k1K4/1p1p4/1P6/P4pR1/3P3p/5q2/5P1P/8 w - - 0 1"]
+
+ 1. Rg8 Qd5 2. Rf8 Qd6 3. Re8 h3 4. f3 Ka8 5. f4 Kb8 6. d5 Ka8 7. Kc8 Qg6 8. Kxd7+ 1-0  
+
+[Event "1 Prize mg02 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/B2B4/6q1/5RpR/4p3/rb6/3K1P2/5k2 w - - 0 1"]
+
+ 1. Bb5+ Bc4 2. Bxc4+ Rd3+ 3. Bxd3+ exd3 4. Rh1+ Kg2 5. Rg1+ Kxg1 6. Rxg5+ Kf1 7. f4 Qb6 8. Rg1+ 1-0  
+
+[Event "2 Commendation mf01 tr11 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/4p3/3b1P2/7P/5P2/2B1P2K/4pr2/8 w - - 0 1"]
+
+ 1. f7 e5 2. h6 Rf1 3. Kg2 exf4 4. exf4 Rxf4 5. h7 e1=N+ 6. Bxe1 Be5 7. Bh4+ Kd7 8. Bf6 Rxf6 9. h8=Q Rg6+ 10. Kh1 Bxh8 11. f8=Q Be5 12. Qf7+ 1-0  
+
+[Event "3 Prize tt20 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2pq4/7P/5p1k/5P2/5P2/1P5K/2R2N2 w - - 0 1"]
+
+ 1. h7 Qxh7 2. Rc6 Qg7 3. Re6 Kh4 4. b4 c6 5. Rd6 c5 6. b5 c4 7. b6 c3 8. b7 c2 9. b8=Q c1=Q 10. Qd8+ Kh5 11. Qe8+ Kh4 12. Qe7+ Qxe7 13. Rh6# 1-0  
+
+[Event "4 Prize mh01 tt21 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3kB3/5K2/7p/3p4/3pn3/4NN2/8/1b4B1 w - - 0 1"]
+
+ 1. Nf5 Ng5+ 2. Nxg5 Bxf5 3. Nf3 Bg4 4. Nxd4 Bh5+ 5. Kf8 Bxe8 6. Ne6+ Kd7 7. Nf4 h5 8. Bf2 d4 9. Bh4 d3 10. Nxd3 1-0  
+
+[Event "ts70#1259 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k1K4/1p1p4/8/PP3pR1/3P3p/5P1q/5P1P/8 w - - 0 1"]
+
+ 1. b6 Qxf3 2. Rg8 Qd5 3. Rf8 Qd6 4. Re8 h3 5. f3 Ka8 6. f4 Kb8 7. d5 Ka8 8. Kc8 Qxf4 9. Kxd7+ 1-0  
+
+[Event "1 Honorable Mention tm04 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/p3pP2/2P1p3/1p5P/1p1r1r1P/1p6/2p5/K3R2R w - - 0 1"]
+
+ 1. c7 Rc4 2. Re4 c1=Q+ 3. Rxc1 Rxc1+ 4. Kb2 Rff1 5. Re1 Rc2+ 6. Kxb3 Rff2 7. Re2 Rc3+ 8. Kxb4 Rff3 9. Re3 Rc4+ 10. Kxb5 Rff4 11. Re4 1-0  
+
+[Event "2 Honorable Mention tb24 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k2K4/2p5/p1p5/1P6/8/8/7P/8 w - - 0 1"]
+
+ 1. bxc6 Kb8 2. h4 a5 3. h5 a4 4. h6 a3 5. h7 a2 6. h8=B 1-0  
+
+[Event "3 Prize tt21 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1K6/8/k1p5/PR6/8/p7/r1N5 w - - 0 1"]
+
+ 1. Rb5+ Kxa4 2. Rxc5 Rb1+ 3. Ka6 a1=Q 4. Ra5+ Kb4 5. Nd3+ Kc3 6. Nc5 Qb2 7. Na4+ 1/2-1/2  
+
+[Event "4 Honorable Mention ws05 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3B4/b7/8/4k3/3p4/6p1/8/6K1 w - - 0 1"]
+
+ 1. Bc7+ Ke4 2. Bxg3 Kf3 3. Bf2 d3 4. Kf1 d2 5. Be1 1/2-1/2  
+
+[Event "ts70 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/B6B/1Nb5/6K1/6p1/8/2Ppk3/8 w - - 0 1"]
+
+ 1. Na4 Bxa4 2. Bd3+ Ke1 3. Bb8 Kf2 4. Ba7+ Ke1 5. Bb8 d1=Q 6. Bg3+ Kd2 7. Bf4+ Kc3 8. Be5+ Kb4 9. Bd6+ Ka5 10. Bc7+ Kb4 11. Bd6+ 1/2-1/2  
+
+[Event " Commendation tb28 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k1p5/1N6/2p3p1/N1B3K1/8/1P6/7r w - - 0 1"]
+
+ 1. Nc8+ Kb8 2. Ne7 Rh4+ 3. Kxg5 Rxc4 4. Nc6+ Ka8 5. Nc3 Kb7 6. Na5+ 1-0  
+
+[Event "1 Commendation tr11 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n2/q1pk2K1/2p2p2/2P5/8/3B4/3R4/8 w - - 0 1"]
+
+ 1. Bf5+ Ke7 2. Re2+ Ne6+ 3. Rxe6+ Kd8 4. Kf7 Qa2 5. Kf8 Qe2 6. Re4 Qe3 7. Kf7 Qb3+ 8. Be6 Qd3 9. Rh4 1-0  
+
+[Event "1 Commendation ts69 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/np4K1/1P6/3qPp2/2R5/6B1/6P1/1b6 w - - 0 1"]
+
+ 1. e6+ f4 2. Bxf4+ Ka8 3. Ra4 Qxg2+ 4. Kf8 Qa2 5. Rxa2 Bxa2 6. e7 Bf7 7. Kxf7 Nc8 8. e8=N Nxb6 9. Nc7+ Kb8 10. Nd5+ Ka7 11. Be3 1-0  
+
+[Event "1 Honorable Mention tr11 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/4k3/2n5/6b1/6N1/7K w - - 0 1"]
+
+ 1. Kg1 Ke4 2. Kf1 Nd2+ 3. Ke2 Nf3 4. Kd1 Kd3 5. Nf4+ Bxf4 1/2-1/2  
+
+[Event "2 Honorable Mention tw04 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/bp1P2N1/1p2p3/1P1pP1p1/KP3Pp1/1N1P4/k7 w - - 0 1"]
+
+ 1. Nh4 g2 2. Nxg2 gxf3 3. Ne3 dxe3 4. dxe3 f2 5. d7 f1=N 6. d8=R Nxe3 7. Rc8 Kb1 8. Nd3 1-0  
+
+[Event "3 Honorable Mention ts70 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6B1/p7/2p3N1/8/2K5/7k/4n3 w - - 0 1"]
+
+ 1. Kd2 Ng2 2. Be5+ Kg1 3. Bg3 Kf1 4. Ne4 c4 5. Nc3 a5 6. Na4 Kg1 7. Ke2 c3 8. Nxc3 Kh1 9. Kf2 a4 10. Nd1 a3 11. Kf1 a2 12. Nf2# 1-0  
+
+[Event "3 Prize o000 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1q6/5P2/4N2k/2p5/5R2/8/2b2n2/6K1 w - - 0 1"]
+
+ 1. f8=Q+ Qxf8 2. Rh4+ Kg6 3. Nxf8+ Kg7 4. Ne6+ Kf7 5. Nd8+ Ke7 6. Nc6+ Kd7 7. Nb8+ Kc7 8. Na6+ Kb7 9. Nxc5+ Kb6 10. Nd7+ Kc6 11. Nf6 1-0  
+
+[Event "5 Honorable Mention tn20 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/8/P1B2P2/r5k1/8/8/8/8 w - - 0 1"]
+
+ 1. f7 Kf6 2. Bb5 Ra1 3. Bc4 Rh1 4. Ke8 Re1+ 5. Kd7 Kg7 6. Kc6 Ra1 7. Kb6 Rb1+ 8. Bb5 Ra1 9. Be8 Kf8 10. a7 Ke7 11. Kb7 Rb1+ 12. Bb5 Rxb5+ 13. Ka6 Rb1 14. f8=Q+ 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6B1/8/1p4N1/8/2K5/7k/4n3 w - - 0 1"]
+
+ 1. Kd2 Ng2 2. Be5+ Kg1 3. Bg3 b4 4. Nf3+ Kh1 5. Nd4 Kg1 6. Kd3 Kh1 7. Ke4 Kg1 8. Nf3+ Kf1 9. Kd3 b3 10. Nd2+ Kg1 11. Nxb3 1-0  
+
+[Event " Honorable Mention wl01 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4r3/P1P5/n2P2K1/B3r2p/7P/8/7P/7k w - - 0 1"]
+
+ 1. d7 R5e6+ 2. Kf5 Re5+ 3. Kf4 Re4+ 4. Kf3 Re3+ 5. Kf2 Re2+ 6. Kf1 Nxc7 7. Bxc7 R2e7 8. dxe8=Q Rxe8 9. Kf2 Re4 10. a8=R 1-0  
+
+[Event "1 Commendation ts69 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k3K1n1/8/P1R4P/2N5/pr6/7P/2b5/8 w - - 0 1"]
+
+ 1. h7 Bxh7 2. Rc8+ Ka7 3. Rc7+ Kb8 4. a7+ Ka8 5. Nxa4 Rxa4 6. Kf7 Rh4 7. Kg7 Rxh3 8. Rf7 Rh4 9. Rc7 Rh1 10. Rf7 1/2-1/2  
+
+[Event "13 Prize wa08 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/N2N4/6K1/5P2/8/2Pb4/1n5k/8 w - - 0 1"]
+
+ 1. Ne5 Be4 2. Kg5 Bxf5 3. Kxf5 Nd1 4. Ng4+ Kg3 5. c4 Nb2 6. c5 Nd3 7. c6 Nb4 8. c7 Nd5 9. c8=N 1-0  
+
+[Event "3 Honorable Mention t001 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3k4/P7/7K/b7/1B1r4/8/4B3 w - - 0 1"]
+
+ 1. a7 Bc6 2. Ba4 Rd5+ 3. Kh6 Ra5 4. Bxa5 Kc8 5. Bb5 Be4 6. Ba6+ 1-0  
+
+[Event "3 Honorable Mention tm04 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6B1/3p2b1/6pr/5P2/3p4/R1p3p1/8/Bk1K4 w - - 0 1"]
+
+ 1. Ba2+ Kxa1 2. Bd5+ Kb2 3. Rb3+ Ka2 4. Rxc3+ Ka1 5. Ra3+ Kb2 6. Rb3+ Ka2 7. Rxg3+ Kb2 8. Rb3+ Ka2 9. f6 Bxf6 10. Rh3+ 1-0  
+
+[Event "3 Prize wa06 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7b/7b/8/5P2/k1P3K1/8/r7/6R1 w - - 0 1"]
+
+ 1. Rh1 Rg2+ 2. Kf4 Rg7 3. Ra1+ Kb4 4. Ra8 Rg8 5. Ra7 Rg7 6. Ra8 Rg8 7. Ra7 Bg7 8. Ke4 Kc5 9. Rf7 Kd6 10. c5+ Kxc5 11. Kf3 Kd5 12. Ke2 Kd4 13. Kf2 Ke5 14. f6 1/2-1/2  
+
+[Event "5 Honorable Mention ts70#1435 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/7b/5b1B/8/1K6/N7/1k6/N7 w - - 0 1"]
+
+ 1. Nb3 Be7+ 2. Ka4 Bxa3 3. Bc1+ Ka2 4. Bxa3 Be4 5. Nc1+ Ka1 6. Ne2 Bxa8 7. Nc3 Bc6+ 8. Kb3 Bf3 9. Bb2# {#} 1-0  
+
+[Event "te03 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4r3/K7/p2k4/p1r1NR2/b7/3B4/8/8 w - - 0 1"]
+
+ 1. Nc4+ Kc6 2. Nxa5+ Rxa5 3. Rxa5 Bb5 4. Rxa6+ Bxa6 5. Bb5+ Bxb5 1/2-1/2  
+
+[Event "1 Prize ja06 ts41 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "n7/8/8/4b2k/K2RP2r/8/RPp2Pn1/5B2 w - - 0 1"]
+
+ 1. Rc4 Nb6+ 2. Kb3 Nxc4 3. Kxc2 Nge3+ 4. fxe3 Rh2+ 5. Be2+ Rxe2+ 6. Kd3 Rxb2 7. Ra5 Rb4 8. Rc5 Nb2+ 9. Ke2 Nc4 10. Kd3 1/2-1/2  
+
+[Event "3 Honorable Mention tm04 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kN6/pn2R3/p7/3p4/8/3p4/Kp6/n7 w - - 0 1"]
+
+ 1. Nc6 d2 2. Re8+ Nd8 3. Rxd8+ Kb7 4. Na5+ Kb6 5. Rxd5 Nc2 6. Rxd2 Nb4+ 7. Kb1 Kxa5 8. Rd6 Ka4 9. Kxb2 a5 10. Rd4 a6 11. Rd6 1-0  
+
+[Event "3 Honorable Mention tt22 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/8/8/p7/8/8/3R2R1/5q1k w - - 0 1"]
+
+ 1. Rh2+ Kg1 2. Rhe2 Kh1 3. Rc2 Kg1 4. Kg7 a4 5. Kg8 a3 6. Kg7 a2 7. Rxa2 Kh1 8. Rf2 Qg2+ 9. Kf8 Qg1 10. Rab2 Qg2 11. Rb1+ 1-0  
+
+[Event "3 Prize jk02 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1B6/p7/k7/8/2p3n1/3NP3/2K5 w - - 0 1"]
+
+ 1. Nb3+ Kb4 2. Nd4 Kc4 3. e3 Kd3 4. Nc2 Nf5 5. Bxa6+ Ke4 6. Bb7+ Kd3 7. e4 Nd6 8. Bc6 Nxe4 9. Bb5# 1-0  
+
+[Event "4 Prize jk02 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3Bn3/7p/P6p/4Pr1P/8/8/3Kp3/7k w - - 0 1"]
+
+ 1. a7 e1=Q+ 2. Kxe1 Rxe5+ 3. Kf2 Nc7 4. Bxc7 Re8 5. Bb8 Re4 6. a8=R Ra4 7. Ra7 Rxa7 8. Bxa7 Kh2 9. Kf3 Kh3 10. Bf2 1-0  
+
+[Event "sp Commendation ts70#1501 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b5/3R4/8/K7/8/k7/6N1/6n1 w - - 0 1"]
+
+ 1. Rd3+ Kb2 2. Nf4 Bb7 3. Re3 Kc2 4. Re1 Nf3 5. Re7 Ba8 6. Re8 Bc6 7. Rc8 Ne5 8. Ng6 Nxg6 9. Rxc6+ Kd3 10. Rxg6 1-0  
+
+[Event "te03 {m}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k5/8/K7/P6b/1P1R4/8/6p1/8 w - - 0 1"]
+
+ 1. Rc4+ Kb8 2. Rc1 Be2+ 3. b5 Bf1 4. Rc5 g1=Q 5. Rc8+ Kxc8 1/2-1/2  
+
+[Event " Commendation mg02 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6N1/5k2/5P2/5P2/7N/3K1pP1/7n/1n2b3 w - - 0 1"]
+
+ 1. Nh6+ Kxf6 2. Nxf3 Nxf3 3. Ke2 Nbd2 4. Ng4+ Kg5 5. Nf2 Kxf5 6. Nh1 Ke4 7. Nf2+ Kf5 8. Nh1 Kg4 9. Nf2+ Kf5 10. Nh1 1/2-1/2  
+
+[Event " Commendation tc13 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2r5/6P1/8/8/6bK/R1P5/B1pPk3/8 w - - 0 1"]
+
+ 1. g8=Q Rxg8 2. Bc4+ Kxd2 3. Ra2 Ra8 4. Rxc2+ Kxc2 5. Bd5 Ra4 6. Bc6 Rf4 7. Kg3 Rc4 8. Bd5 Ra4 9. Bc6 1/2-1/2  
+
+[Event " Commendation ts23 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/2PP1B1N/7k/3r3b/2pB4/2P5/4q1P1/6K1 w - - 0 1"]
+
+ 1. d8=Q Rxd8 2. cxd8=B Bxf7 3. Bg5+ Kh5 4. Bde3 Qe1+ 5. Kh2 Kg4 6. Nf6+ Kf5 1-0  
+
+[Event " Honorable Mention tt27 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/8/1N3ppp/pP5k/8/7K/6P1/8 w - - 0 1"]
+
+ 1. Nd5 Nf7 2. b6 Ne5 3. b7 Nc6 4. Nf4+ Kg5 5. Ne6+ Kf5 6. Nd4+ Nxd4 7. b8=Q 1-0  
+
+[Event " Honorable Mention tt27 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4nB2/6NB/7b/N2k4/b3p3/8/5K2 w - - 0 1"]
+
+ 1. Bg7+ Ke4 2. Nc3+ Kf3 3. Ne5+ Kf4 4. Bxh5 Nf5 5. Bh8 Ng3+ 6. Kg2 Nxh5 7. Nb5 Bc1 8. Nd3+ 1-0  
+
+[Event " Honorable Mention tt27 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n2r2/1RP5/3PP3/1p3k2/8/7p/bP4pP/6K1 w - - 0 1"]
+
+ 1. e7 Nxe7 2. dxe7 Rc8 3. b3 Bxb3 4. Rxb5+ Kf4 5. Rb4+ Kf5 6. Rxb3 Rxc7 7. Rf3+ Kg4 8. Rg3+ Kh4 9. e8=R 1-0  
+
+[Event "1 Commendation jk03 ts20 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2QR2RP/kP1P4/p1p5/p1b5/2P1p2p/pPP1P2P/4K3 w - - 0 1"]
+
+ 1. Qa7+ Kb5 2. Qxa5+ Kxa5 3. Ra7+ Ba6 4. Rxa6+ Kxa6 5. Ra7+ Kb5 6. c4+ Kb4 7. Rxa4+ Kxa4 8. b3+ Kb4 9. h8=B 1-0  
+
+[Event "4 Honorable Mention tm05 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k1K5/4p2R/4p2P/2N2b2/1P6/2p5/8/1r6 w - - 0 1"]
+
+ 1. Rh8 Rxb4 2. Kc7+ Ka7 3. h7 Bxh7 4. Rxh7 c2 5. Rh1 Rb1 6. Rh4 Rb7+ 7. Kc6 Rb6+ 8. Kc7 Rb7+ 9. Kc6 c1=Q 10. Ra4+ Kb8 11. Ra8+ Kxa8 1/2-1/2  
+
+[Event "5 Honorable Mention ts70#1581 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/1k3K2/2p5/2p5/8/B4N2/8/3b4 w - - 0 1"]
+
+ 1. Nd6+ Kc7 2. Ne8+ Kd8 3. Ng5 Bh5+ 4. Kf8 Bxe8 5. Ne6+ Kd7 6. Nxc5+ Kd8 7. Ne6+ Kd7 8. Nf4 c5 9. Bb2 Kd8 10. Bf6+ Kd7 11. Bg5 c4 12. Bf6 c3 13. Bxc3 Kd8 14. Bf6+ Kd7 15. Bg5 1-0  
+
+[Event "sp Commendation jk03 ts20 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4n3/1b6/3p4/B2P1K2/3N4/kP6/1b6 w - - 0 1"]
+
+ 1. Nb4+ Kxb2 2. Ke5 Be4 3. Nxd5 Bxd5 4. Kd6 Ka3 5. Bb5 Kb4 6. Be8 Bd8 7. Kd7 Nc6 8. Kd6 Ne7 9. Kd7 Nc6 10. Kd6 1/2-1/2  
+
+[Event " Honorable Mention t001 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3R4/5pp1/5Pr1/1K1PP3/6k1/8/6b1/8 w - - 0 1"]
+
+ 1. e6 fxe6 2. f7 Rf6 3. dxe6 Kf5 4. f8=Q Rxf8 5. e7 Re8 6. Rxe8 Ke6 7. Kb6 Kf7 8. Rg8 Kxe7 9. Rxg7+ 1-0  
+
+[Event "1 Commendation ms02 ts70#1671 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5r2/NqP2P2/7B/8/2pkpR2/8/3K4 w - - 0 1"]
+
+ 1. Nb4+ Qxb4 2. Bg6+ Qe4 3. Bxe4+ Kxe4 4. c7 c2+ 5. Kc1 Rxc7 6. f7 e2 7. Rf4+ Ke5 8. Rf5+ Ke6 9. Rf6+ Kd7 10. f8=N+ Ke8 11. Re6+ Re7 12. Rxe2 Rxe2 13. Ng6 Re4 14. Kxc2 Kf7 15. Kd3 1/2-1/2  
+
+[Event "1 Special Honorable Mention ts20 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/5p2/1P4k1/8/7P/1n6/5n2/8 w - - 0 1"]
+
+ 1. h5+ Kf6 2. Ke8 Ne4 3. h6 Nd6+ 4. Kf8 Nc5 5. h7 Nd7+ 6. Kg8 Ke7 7. b7 Nf6+ 8. Kg7 Nf5+ 9. Kh8 Nd7 10. Kg8 Nf6+ 11. Kh8 Nd7 12. Kg8 1/2-1/2  
+
+[Event "2 Prize ts69 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "b7/p7/pP4P1/8/Kpk1P3/P1B1Rn2/6p1/8 w - - 0 1"]
+
+ 1. b7 Bxb7 2. Bxb4 g1=Q 3. Rc3+ Kd4 4. Bc5+ Kxc3 5. Bxg1 Ne5 6. Bd4+ Kxd4 7. g7 Bc6+ 8. Kb4 Bxe4 9. g8=Q Nc6+ 10. Kb3 Bd5+ 11. Ka4 Bxg8 1/2-1/2  
+
+[Event "4 Honorable Mention ms02 ts70#1634 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1b2k3/7R/5P2/N7/2nP1pK1/8/8/1r6 w - - 0 1"]
+
+ 1. f7+ Kf8 2. Rh8+ Kg7 3. Rg8+ Kxf7 4. Rxb8 Ne3+ 5. Kxf4 Nd5+ 6. Ke5 Rxb8 7. Nc6 Rb5 8. Na7 Ra5 9. Nc6 Rb5 10. Na7 Rb7 11. Nc6 Rd7 12. Nb8 Rd8 13. Nc6 1/2-1/2  
+
+[Event "5 Commendation ms05 tt21 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n5/4N3/b3N3/5K2/8/1Pk5/4R3/2n5 w - - 0 1"]
+
+ 1. Nd5+ Kxb3 2. Nc5+ Kc4 3. Rc2+ Kxd5 4. Nxa6 Nd6+ 5. Kf4 Nd3+ 6. Ke3 Ne5 7. Nc7# {#} 1-0  
+
+[Event "6 Commendation jr01 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/8/2B2K2/2r5/7R/2P5/3p1k2/8 w - - 0 1"]
+
+ 1. Ba4 Rxc3 2. Rh2+ Ke1 3. Ne6 Rc1 4. Bd1 Kxd1 5. Nd4 Ke1 6. Nf3+ Kf1 7. Nxd2+ Ke1 8. Nf3+ Kd1 9. Rd2# {#} 1-0  
+
+[Event "te03 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/6PP/8/6p1/3b4/2k5/B1P1p3/K7 w - - 0 1"]
+
+ 1. Bb1 Kb4+ 2. Ka2 Bxg7 3. h8=Q Bxh8 4. Bxg5 e1=Q 5. Bd2+ Qxd2 1-0  
+
+[Event "tm05 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3r2P1/7B/4k3/6Kp/4P3/8 w - - 0 1"]
+
+ 1. g7 Rd8 2. Bf7 Ke3 3. Bc4 Rc8 4. Kh2 Rd8 5. Kxh3 Rc8 6. Kg3 Rd8 7. Kg4 Rd1 8. Kf5 Rg1 9. Kf6 Rf1+ 10. Ke7 Rg1 11. Kf8 Rf1+ 12. Bf7 Rg1 13. Bh5 Rf1+ 14. Bf3 1-0  
+
+[Event "ts20 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/4p1R1/P3PP2/k2K3n/5r2/8/1N6 w - - 0 1"]
+
+ 1. a6 bxa6 2. Rg4 Nxf5+ 3. Kc5+ Ka5 4. Rg2 Rf4 5. Ra2+ Ra4 6. Na3 Ne3 7. Ra1 Nd5 8. Nc4# 1-0  
+
+[Event "ts70#1655 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "b7/8/2n5/P1p5/8/K4Nb1/8/1k5B w - - 0 1"]
+
+ 1. Nd2+ Kc2 2. Ne4 Be1 3. Nxc5 Bb4+ 4. Ka4 Bxc5 5. Be4+ Kc3 6. Kb5 Nd4+ 7. Ka6 Bxe4 1/2-1/2  
+
+[Event " Prize tg02 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/K7/1n1n1b2/B7/8/3RP1k1/6Pp/8 w - - 0 1"]
+
+ 1. e4+ Kxg2 2. Rd2+ Kg3 3. Rxh2 Nbc8+ 4. Ka6 Kxh2 5. e5 Bxe5 6. Bc3 Bf4 7. Bd2 Bg3 8. Be1 Bxe1 1/2-1/2  
+
+[Event "1 Commendation mp09 tm04 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K6R/8/3P1n2/1p6/3kP3/N2b4/1P6/6r1 w - - 0 1"]
+
+ 1. e5 Kxe5 2. d7 Nxd7 3. Nxb5 Bxb5 4. Rh5+ Kd6 5. Rxb5 Ra1+ 6. Kb7 Nc5+ 7. Kc8 Kc6 8. Rb4 Re1 9. Rd4 Ra1 10. Rb4 1/2-1/2  
+
+[Event "4 Honorable Mention tm04 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7R/k3pBP1/P2P4/P4r2/8/8/3Kpp1B/8 w - - 0 1"]
+
+ 1. Ra8+ Kxa8 2. g8=Q+ Ka7 3. Qb8+ Kxb8 4. dxe7+ Ka7 5. Bb8+ Ka8 6. Bd5+ Rxd5+ 7. Kxe2 Rd1 8. Kxf2 Rd8 9. exd8=N 1-0  
+
+[Event "wa05 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1P5n/7r/2B4p/7k/3b2NP/5K2 w - - 0 1"]
+
+ 1. b7 Rf5+ 2. Kg1 Rf8 3. Be6+ Ng4 4. Bc8 Bf4 5. Nxf4+ Rxf4 6. b8=R Rb4 7. Ba6 Rxb8 8. Bf1# 1-0  
+
+[Event "1 Prize mg02 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2R5/2R5/8/1K6/2n5/p2N4/1p5k/5q2 w - - 0 1"]
+
+ 1. Rh7+ Kg1 2. Rg7+ Qg2 3. Rxg2+ Kxg2 4. Rg8+ Kf1 5. Nxb2 axb2 6. Ka4 b1=Q 7. Rg1+ Kxg1 1/2-1/2  
+
+[Event "2 Prize mm01 tp22 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1P6/7k/5p2/1R1r1P2/4p2P/r4PKn/8 w - - 0 1"]
+
+ 1. b8=Q Rxf2+ 2. Kg3 Nf1+ 3. Kh4 Rfxf4+ 4. Qxf4+ Rxf4+ 5. Rxf4 e2 6. Rf2 Ng3 7. Rxe2 Nxe2 1/2-1/2  
+
+[Event "2 Prize ts21 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2n2K2/8/kPP5/8/3b4/8/b4pNR/8 w - - 0 1"]
+
+ 1. Ne3 Bxe3 2. Rxf2 Bd5 3. b7 Bh6+ 4. Ke8 Bxc6+ 5. Kd8 Kxb7 6. Rf7+ Kb8 7. Rf6 Nd6 8. Ke7 Nc8+ 9. Kd8 Bg5 1/2-1/2  
+
+[Event "3 Honorable Mention ts04 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/3R4/1p5r/qB1p1k1P/Q1b2P1K/8 w - - 0 1"]
+
+ 1. Rxd3+ Bxd3 2. Qd2 Rxh3+ 3. Kxh3 Bf1+ 4. Kh4 Qxb3 5. Qd5+ Qxd5 1/2-1/2  
+
+[Event "4 Prize ja01 ts71 {m}"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/8/6P1/1P5r/4r3/4P1P1/Kp3R2/8 w - - 0 1"]
+
+ 1. g7 b1=Q+ 2. Kxb1 Rxb5+ 3. Kc2 Rc4+ 4. Kd2 Rg4 5. Rf8+ Rb8 6. Rf7 Rxg3 7. Kd3 Rg4 8. Kc3 Rgb4 9. Rf8 Rg4 10. Rf7 Rg3 11. Kd3 Rg4 12. Kc3 Rg3 13. Kd3 1/2-1/2  
+
+[Event "2 Prize ml02 ts21 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/K7/3p4/3n2k1/N7/8/1B3P2/n2b4 w - - 0 1"]
+
+ 1. Nb6 Nxb6 2. Kxb6 Nb3 3. Kc6 Na5+ 4. Kb5 Nb7 5. Kc6 Bf3+ 6. Kc7 Kf5 7. Bg7 Ke6 8. Bf8 Ke5 9. Bg7+ Kf5 10. Bh6 Ke5 11. Bg7+ Ke6 12. Bf8 1/2-1/2  
+
+[Event "5 Honorable Mention lg03 ts69 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2b3k1/8/3P2KP/7p/1B1n3N/1r6/8/8 w - - 0 1"]
+
+ 1. h7+ Kh8 2. Kh6 Nf5+ 3. Nxf5 Bxf5 4. d7 Bxd7 5. Bc5 Rd3 6. Bf8 Rg3 7. Bc5 Rg4 8. Ba3 Rg2 9. Bc5 1/2-1/2  
+
+[Event "6 Honorable Mention md01 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/8/8/2N1B3/P1k5/5P1r/5p1N/8 w - - 0 1"]
+
+ 1. Ne4 f1=N 2. Nxf1 Rxf3+ 3. Kg7 Kb4 4. Nfd2 Rf5 5. Bd6+ Kxa4 6. Kg6 Ra5 7. Nc3# 1-0  
+
+[Event " Commendation ts21 {m}"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1r1n1K1B/N2p4/2P5/8/3p4/4k3/8/8 w - - 0 1"]
+
+ 1. Bxd4+ Kxd4 2. c7 Ne6+ 3. Ke7 Nxc7 4. Kxd7 Rb7 5. Nc6+ Kc5 6. Nd8 Ra7 7. Nc6 Ra6 8. Nb8 Ra7 9. Nc6 Rb7 10. Nd8 1/2-1/2  
+

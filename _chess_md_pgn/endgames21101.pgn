@@ -1,0 +1,1100 @@
+[Event "3 Prize, Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.05.09"]
+[Round "?"]
+[White "Akobia I, Garcia M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3pR3/2kn4/8/pP1b4/4p3/8/1R2K3 w - - 0 1"]
+
+ 1. Rc1+ $1 ({Thematic try} 1. Ke2 $5 a3 $1 ({not} 1... Nb5 $2 2. Rc1+ Kb6 3. Rxd7 {main thematic line}) 2. Rc1+ Kb5 {/Kb6 and easy draw=}) 1... Kb6 $1 2. Rxd7 (2. Ke2 $2 a3 $11) 2... Nb5 3. Ke2 $1 ({The interesting try} 3. Rd8 $5 { There is "a study in a study". BTM, draw:} 3... Be5 4. Rc5 Bd6 5. Rc4 a3 6. Ra8 Nc7 $1 7. Rxa3 Kb5 8. Rac3 Nd5 9. Rc5+ (9. Rc1 Nf4 $1 10. Kf1 e2+ $11) 9... Kxb4 10. R3c4+ ({or also} 10. Rxd5 Bg3+ $11) 10... Kb3 11. Rc6 Bb4+ 12. Ke2 Ne7 {draws}) 3... a3 4. Kd3 $1 (4. Rh1 $5 Kc6 $1 ({not} 4... Be5 $2 5. Rh6+ Nd6 6. Rdxd6+ Bxd6 7. Rxd6+ Kb5 8. Rd8 $18) 5. Rd8 a2 6. Ra8 a1=Q 7. Raxa1 Bxa1 8. Rxa1 Kd5 $1 9. Kd3 e2 10. Rc1 Nd4 $1 $11) 4... Bb2 5. Rg1 $3 { important choice of the move by wR} ({Thematic try} 5. Rh1 $5 Kc6 $1 6. Rd8 a2 7. Ra8 Na3 $1 8. Ra5 Kb6 9. Rh6+ Kb7 {/Kc7} 10. Rf5 a1=Q 11. Rf7+ Kb8 { /Kc8/Ka8 and Black's win, because impossible Rh8 such in line 6/a2 (see below) }) 5... Kc6 6. Rd8 e2 $1 (6... a2 7. Ra8 Na3 8. Ra5 Kb6 9. Rg6+ Kb7 10. Rf5 $1 a1=Q 11. Rf7+ Kb8 12. Rg8#) 7. Kxe2 Nc7 $1 {to get on a6} 8. Rd2 Kb5 9. Kd3 $1 (9. Rg5+ $2 Kxb4 10. Kd1 Bc3 11. Rc2 Bb2 12. Rh2 Ne6 13. Rg8 (13. Rxb2+ axb2 $11) 13... a2 14. Rxb2+ Ka3 15. Rxa2+ Kxa2 16. Kc2 Ka3 $11) 9... Na6 (9... Kxb4 10. Kc2 Ne6 11. Rg4+ Kc5 12. Kb3 Nd4+ 13. Ka2 $18) 10. Rg5+ {The Black interfer e with a strong move Nxb4 compelling to capture a pawn the wK -} 10... Kxb4 11. Rg6 Nc5+ 12. Kc2 a2 13. Rg4+ Kb5 14. Kxb2 a1=Q+ 15. Kxa1 Nb3+ 16. Kb2 Nxd2 17. Kc3 $18 1-0  
+
+[Event "4 Prize, Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Arestov P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4n1K1/7P/2r3P1/2q2P1p/2p1B3/2p1k3/1QP5/3R3r w - - 0 1"]
+
+ 1. Qc1+ $1 ({Thematic try} 1. Qxc3+ $5 Kxe4 2. Re1+ Rxe1 3. Qxe1+ Kxf5 4. Qf1+ Kxg6 5. Qg2+ Qg5 6. Qxg5+ Kxg5 7. h8=Q Ng7 $3 8. Qh7 Rc8+ 9. Kf7 Rc7+ 10. Kf8 Ne6+ 11. Ke8 Rxh7 {no stalemate}) 1... Kxe4 2. Re1+ $1 Kxf5 3. Rf1+ $1 Rxf1 ( 3... Kxg6 $4 4. h8=N#) 4. Qxf1+ Kxg6 5. Qg2+ Qg5 6. Qxg5+ Kxg5 7. h8=Q Ng7 $1 8. Qh7 $1 Rc8+ 9. Kf7 Rc7+ 10. Kf8 $1 Ne6+ 11. Ke8 Rxh7 {stalemate} 1-0  
+
+[Event "sp Prize, Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "*"]
+[Result "*"]
+[FEN "3K3n/7b/7N/3Nk3/8/3R3n/8/8 w - - 0 1"]
+
+ 1. Ng4+ ({Thematic try} 1. Rxh3 Kxd5 2. Ng4 Nf7+ 3. Ke7 Bf5 4. Ne3+ Ke5 5. Rh5 (5. Nxf5 Ng5 6. Rh5 Kxf5 $11) 5... Nd6 6. Nxf5 Nxf5+ 7. Kf7 Kf4 $11) 1... Kd6 2. Rxh3 Nf7+ 3. Ke8 Bg6 4. Kf8 (4. Rg3 $5 Ng5+ 5. Kf8 Ne6+ 6. Kg8 Kxd5 7. Ne3+ (7. Nf6+ Ke5 8. Rxg6 Kf5 9. Kf7 Ng5+ 10. Kg7 Ne6+ 11. Kh6 Nf4 12. Rg3 Kxf6 $11) 7... Ke4 8. Rxg6 Nf4 9. Rg3 Ne2 10. Rh3 Nf4 11. Rg3 Ne2 $11) 4... Kxd5 5. Kg7 Bf5 6. Ne3+ Ke5 7. Rh5 $1 (7. Nxf5 $2 Ng5 8. Rh5 Ne6+ $1 9. Kf7 Nf4 10. Rg5 Ne6 11. Rh5 Nf4 12. Rg5 Ne6 13. Rg6 Nf4 14. Rf6 Nd5 15. Rd6 Nf4 16. Rf6 Nd5 { positional draw}) 7... Nd6 8. Nxf5 Nxf5+ 9. Kg6 $18 *  
+
+[Event "sp Prize, Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Zinar M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/p1p1p1p1/P1P1P2p/2P3kP/6P1/2p2p2/2P2P1p/R3K3 w Q - 0 1"]
+
+ 1. O-O-O $1 Kh4 $1 (1... Kxg4 2. Rh1 Kh3 3. Kd1 Kg2 4. Ke1 Kxh1 5. Kf1 g5 6. hxg6 h5 7. g7 h4 8. g8=N h3 9. Nf6 exf6 10. e7 f5 11. e8=Q $18) 2. Rh1 $1 Kh3 3. Kd1 Kg2 4. Ke1 Kxh1 5. Kf1 g5 6. hxg6 h5 7. g7 h4 8. g8=N h3 9. Nf6 exf6 10. e7 f5 11. e8=N $1 f4 $1 12. Nd6 cxd6 13. c7 dxc5 14. c8=N $1 c4 15. Nb6 $18 1/2-1/2  
+
+[Event "Hm.Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.25"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "n7/8/3p4/6P1/N2K4/5p2/k1pB4/1b6 w - - 0 1"]
+
+ 1. g6 c1=Q (1... Ka3 2. Nc3 $1 f2 3. Bc1+ Kb4 4. Nd5+ Kb5 5. Ne3 Nc7 6. Nf1 Ne6+ (6... Ba2) 7. Ke3 Nc5 8. Bd2 Ba2 9. Kxf2 c1=Q 10. Bxc1 Nd3+ 11. Ke3 Nxc1 12. Ng3 Be6 13. g7 d5 14. Nf5 Kc5 15. Ne7 $11) (1... f2 2. g7 f1=Q 3. g8=Q+ Ka3 4. Qxa8 Qf2+ 5. Kc3 Qf6+ 6. Kc4 $11) 2. Bxc1 f2 3. Nc3+ $1 ({try} 3. g7 $5 Bh7 4. Nc3+ Ka1 $1 (4... Kb3 5. Ne4 $11) 5. Bb2+ $1 Kxb2 6. Nd1+ Kb3 $1 { bK must control the square c3} (6... Kc1 $2 7. Nxf2 Nc7 8. Ng4 Ne8 9. Kd5 Bg8+ 10. Kc6 d5 11. Kc5 $11) 7. Nxf2 Nc7 8. Ng4 Ne8 9. Kd5 Bg8+ 10. Kc6 d5 11. Kc5 Kc3 {result of the move 6...Kb3!)} 12. Nh6 Be6 $19) 3... Ka1 4. Bb2+ $1 Kxb2 5. Nd1+ Ka1 $1 6. Nxf2 Nc7 7. Ne4 $1 (7. Nd3 $2 Ka2 8. Nf4 Kb3 9. g7 Bh7 10. Nh5 Ne8 11. Kd5 Bg8+ 12. Kc6 d5 13. Kc5 Kc3 $19) 7... Ne8 8. Kd5 Ba2+ 9. Kc6 d5 10. Nf2 $1 Ng7 11. Kd6 ({try} 11. Kc5 $5 Nf5 $1 12. Nd3 d4 13. Nb4 Bb3 $1 $19) 11... Kb2 12. Nd1+ Kb3 13. Kc5 $1 (13. Ke5 $2 Kb4 $1 14. Kd4 Nf5+ 15. Ke5 Ne7 16. g7 Bb3 17. Ne3 Kc5 18. Nf5 Nc6+ 19. Kf4 d4 $19) 13... Ne6+ 14. Kd6 Ng7 15. Kc5 Ne6+ 16. Kd6 {positional draw} *  
+
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Becker R"]
+[Black "*"]
+[Result "*"]
+[FEN "8/p4P2/1p2k3/1P6/3P4/8/p1K5/8 w - - 0 1"]
+
+ 1. f8=N+ $1 Kf7 2. Kb2 Kxf8 3. Kxa2 Ke7 4. Kb2 $1 (4. Kb3 $2 Kd7 $1 5. Kb4 Ke7 $1 6. Kc4 Ke6 $1 $11) 4... Kd7 5. Kb3 $1 Ke7 6. Kc2 $1 Kd6 7. Kc3 $1 Ke6 8. Kd2 $1 Kd6 9. Ke3 $1 Kd5 10. Kd3 $1 Kd6 11. Ke4 Ke6 12. d5+ Kd6 13. Kd4 Kd7 14. Ke5 Ke7 15. d6+ Kd7 16. Kd5 $18 *  
+
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Campioli M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1R6/7p/1Qb5/6p1/1N6/K5p1/1p6/nkq5 w - - 0 1"]
+
+ 1. Qd4 $1 g2 2. Qd3+ Qc2 $1 (2... Nc2+ 3. Nxc2 Ba4 4. Nd4+ Ka1 5. Kxa4 g1=Q 6. Qa3+ Kb1 7. Qd3+ $11) 3. Nxc2 Nxc2+ 4. Kb3 Ba4+ $1 5. Kxa4 g1=Q 6. Kb3 Qe3 7. Qxe3 Nxe3 8. Rb7 $1 (8. Rh8 $2 h5 $1 9. Rxh5 Ka1 {(Kc1)-+}) 8... h6 9. Rb6 $1 h5 10. Rb5 $1 Nd1 11. Rxg5 h4 12. Rd5 $1 Nf2 13. Rf5 $1 Ka1 14. Ra5+ Kb1 15. Rf5 Nd1 (15... Nd3 16. Kc3 Nc1 17. Rf2) (15... Kc1 16. Rc5+ Kd1 17. Ka2 $11) 16. Rd5 Kc1 17. Rc5+ Kd2 18. Rd5+ Ke2 19. Re5+ Kd2 20. Rd5+ Kc1 21. Rc5+ Kb1 22. Rd5 Nf2 23. Rf5 $11 1/2-1/2  
+
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Zakharov S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2K1k1N1/1p6/8/P1R1p2P/p4b2/5p2/6b1/8 w - - 0 1"]
+
+ 1. h6 $1 Bxh6 2. a6 $1 bxa6 3. Rxe5+ Kf8 4. Nxh6 Bh3+ 5. Ng4 Bxg4+ 6. Kd8 $1 f2 (6... Bh3 7. Re4 Kg7 8. Rf4 Bg2 9. Rg4+ Kh7 10. Rh4+ $1 Kg6 11. Rxa4 f2 12. Rxa6+ $1 $11) 7. Re4 f1=R $1 (7... f1=Q 8. Rf4+ Qxf4 {stalemate}) 8. Rxg4 a3 9. Ra4 $1 Ra1 10. Rd4 $1 Kf7 11. Kd7 Rb1 12. Ra4 Ra1 13. Rd4 Kf6 14. Kd6 Rb1 15. Ra4 Ra1 16. Rd4 Kf5 17. Kd5 a2 18. Rd2 Kf4 19. Kd4 a5 20. Rf2+ $1 Kg3 21. Rd2 Kf3 22. Kd3 a4 23. Kd4 a3 24. Kd3 Kf4 25. Kd4 Kf5 26. Kd5 {positional draw} 1/2-1/2  
+
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Mikitovics J"]
+[Black "*"]
+[Result "*"]
+[FEN "8/2b4K/8/8/1R5n/8/4PPP1/3b2k1 b - - 0 1"]
+
+ 1... Bc2+ 2. e4 $1 Be5 3. f4 Bxf4 4. Rc4 Bd3 5. Rd4 Be2 6. e5 $1 Bg5 7. e6 $1 ( {Thematic try} 7. Ra4 $5 Kxg2 8. e6 Kg3 $1 (8... Kf3 $2 9. Kg7 $1 Bd1 10. Ra1 Bc2 11. Rf1+ Kg4 12. Rg1+ Kf5 13. Rxg5+ Kxg5 14. e7 Ba4 15. Kf7 Nf5 16. e8=N $11 {excelsior}) 9. Kg7 Bf3 $1 10. Ra7 Kf4 11. e7 Nf5+ 12. Kf8 Bd5 $1 13. Ra4+ Kf3 14. Ra3+ Kf2 15. Ra7 Be6 16. Ke8 Ke3 17. Ra6 Bd5 $19) 7... Kxg2 8. Rd5 $1 Bf6 9. Kg8 $1 ({Thematic try} 9. Rd2 $5 Kf2 $1 10. Rd7 Kg3 $1 11. e7 Bh5 12. Kg8 Nf5 13. Kf8 Bg7+ $19 (13... Bg5 $2 14. e8=N $1 $11 {excelsior})) 9... Bc4 10. Rd2+ $1 Kg3 11. Kf7 Nf3 12. Kxf6 ({Cook--(M.Campioli)-->>} 12. Rc2 $1 Bb3 13. Re2 Be5 14. Re3 Bd5 15. Kg6 {etc draws}) 12... Nxd2 13. e7 Bb5 14. Kf7 Ne4 15. e8=N $11 *  
+
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Pallier A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/6R1/3k1P1p/2R4n/3K3P/5pb1/8 w - - 0 1"]
+
+ 1. Rd4+ $1 (1. Rc1 $2 f1=Q+ 2. Rxf1 Bxf1+ 3. Ke3 Nxg6 4. fxg6 Ke5 5. g7 Bc4 $19 ) 1... Kc5 2. Rc4+ Kd5 (2... Kb5 3. Rc1 f1=Q+ 4. Rxf1 Bxf1+ 5. Ke4 Nxg6 6. fxg6 $11) 3. Rd4+ Ke5 4. Re6+ Kxf5 5. Rf6+ $1 Kxf6 6. Rf4+ Kg5 7. Rxf2 Bxh3 8. Ra2 $3 (8. Rb2 $2 Kf4 9. Ke2 Kg3 10. Rb3+ Kh2 11. Kf2 Nf5 $1 12. Kf3 $2 Nd4+ $19) 8... Kf4 9. Ke2 Kg3 10. Ra3+ Kh2 11. Kf2 Bg4 12. Rg3 Nf5 13. Rg2+ Kh1 14. Rg1+ Kh2 15. Rg2+ Kh3 16. Rg1 Kh2 17. Rg2+ {positional draw} 1/2-1/2  
+
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "*"]
+[Result "*"]
+[FEN "r3k3/3p2n1/3Kp3/1P6/8/8/8/2R3B1 w q - 0 1"]
+
+ 1. b6 $1 (1. Kc7 $2 e5 2. b6 Ne6+ 3. Kd6 Nd8 4. Rb1 Nf7+ 5. Kc7 Nd8 6. Rb5 Ne6+ 7. Kd6 O-O-O $11) 1... Kd8 2. b7 Ne8+ $1 3. Ke5 Rb8 4. Rc8+ Rxc8 5. Bb6+ Nc7 6. Kd6 e5 7. Ba5 $1 (7. Bxc7+ $2 Rxc7 8. b8=Q+ Rc8 9. Qb6+ Ke8 10. Kxe5 Rc6 $1 $11 ) 7... e4 8. Bb6 e3 9. Bxc7+ $1 (9. Ba5 $2 Rb8 $1 10. Bxc7+ Ke8 11. Bxb8 e2 $11 ) 9... Rxc7 10. b8=Q+ Rc8 11. Qb6+ Ke8 12. Qxe3+ $18 *  
+
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Razumenko V"]
+[Black "*"]
+[Result "*"]
+[FEN "7B/8/8/8/6R1/pK3p1k/6R1/5r1q w - - 0 1"]
+
+ 1. R4g3+ $1 (1. R2g3+ $2 Kh2 2. Be5 Rb1+ 3. Ka2 Rb2+ 4. Bxb2 axb2 5. Rh4+ Kxg3 6. Rxh1 $11) 1... Kh4 2. Bf6+ Kh5 3. Rg5+ Kh6 4. Rg6+ Kh7 5. Rg7+ Kh6 6. R2g6+ Kh5 7. Rg5+ Kh6 8. R7g6+ $1 (8. Rg8 $2 Rb1+ 9. Ka2 Rb7 $11) 8... Kh7 9. Rg8 Rb1+ 10. Ka2 $1 Rb8 $1 (10... Rb2+ 11. Bxb2 axb2 12. R5g7+ Kh6 13. Rh8+ $18) 11. R5g7+ Kh6 12. Bg5+ Kh5 13. Rh7+ Kg4 14. Bd8+ $18 *  
+
+[Event "Hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Rossi P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p5/Q7/p5p1/8/1b5K/r3p1R1/4kq1R w - - 0 1"]
+
+ 1. Kg3 $1 (1. Kh2 $2 Bd5 2. Rgg1 Bxh1 3. Qe6 Kd1 4. Qb3+ Kc1 5. Qc3+ Kb1 6. Qb3+ Rb2 7. Qd3+ Ka2 8. Qc4+ Ka1 $19) 1... Qxh1 2. Rxe2+ $1 Rxe2 3. Qxa5+ Rd2 4. Qe5+ $1 Kf1 5. Qb5+ $1 (5. Qf5+ $2 Ke2 6. Qe6+ Kd1 (6... Bxe6 $11) 7. Qxb3+ Ke1 8. Qb1+ Rd1 $19) 5... Re2 6. Qf5+ Ke1 7. Qa5+ Rd2 8. Qe5+ Kf1 9. Qb5+ Kg1 10. Qc5+ Kf1 11. Qb5+ $11 {.. This study was published in "Magyar Sakkvilag", 2006 (authors P.Rossi & M.Campioli)} 1/2-1/2  
+
+[Event "sp Honorable Mention,. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Hlinka M, Kekely L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r1k1K3/1NP1pn1b/PP5q/p7/7p/5BBP/7P/8 w - - 0 1"]
+
+ 1. Bg4+ e6 2. Nd8 $1 (2. Nc5 $2 hxg3 3. b7+ Kxc7+ 4. bxa8=Q Nd6+ 5. Ke7 Qg5+ 6. Kxe6 Bg8+ $19) 2... Nd6+ 3. Bxd6 Qg6+ 4. Ke7 Qg5+ 5. Kxe6 Bg8+ 6. Nf7 Rxa6 7. b7+ Kxb7 8. Bf3+ $1 Kc8 9. Bb7+ $1 Kxb7 10. c8=Q+ Kxc8 {stalemate} 1/2-1/2  
+
+[Event "sp. hm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Kalashnikov V"]
+[Black "*"]
+[Result "*"]
+[FEN "k6n/3K4/4P3/8/8/8/8/3b4 w - - 0 1"]
+
+ 1. Ke7 $1 (1. e7 $2 Ba4+ 2. Kd8 Nf7+ $19) 1... Ng6+ 2. Kd8 Ne5 3. e7 Nf7+ 4. Ke8 $1 Bh5 5. Kd7 Ne5+ 6. Kd8 (6. Kd6 $2 Ng4 $19) (6. Ke6 $2 Ng4 $19) 6... Nc6+ 7. Kd7 Ne5+ 8. Kd8 {positional draw} *  
+
+[Event "comm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "*"]
+[Result "*"]
+[FEN "7k/8/8/8/p2p3p/3KN2p/5N2/8 w - - 0 1"]
+
+ 1. Nc2 a3 ({main} 1... h2 2. Na3 Kg7 3. Kxd4 Kf6 4. Ke4 Ke6 5. Kf3 Kd5 6. Kg2 Kc5 7. Nd3+ $18) 2. Nxh3 a2 3. Kxd4 Kg7 4. Kc3 Kf6 5. Kb2 Kf5 6. Ne3+ $18 *  
+
+[Event "comm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Gonzales L"]
+[Black "*"]
+[Result "*"]
+[FEN "8/1NK1p3/8/4PP2/7r/7k/8/6n1 w - - 0 1"]
+
+ 1. e6 $1 Rh7 $1 2. Kd8 $1 Nf3 3. f6 Ne5 $1 4. Na5 $1 Ng6 $1 5. f7 Rh8+ 6. Kd7 Ra8 7. Nc6 Ra6 8. Nxe7 $1 Nf8+ 9. Kd8 Nxe6+ 10. Ke8 Ra8+ 11. Nc8 Kg4 12. Ke7 Nf4 13. Nd6 Ra6 14. f8=N $1 $11 *  
+
+[Event "comm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Malyshev A"]
+[Black "*"]
+[Result "*"]
+[FEN "6q1/4k3/8/3pnB1K/4N3/8/8/R7 w - - 0 1"]
+
+ 1. Ra7+ Kf8 2. Ng5 $1 Qh8+ 3. Nh7+ Kg8 4. Be6+ Nf7 5. Bxf7+ Kxh7 6. Bg8+ $1 Kxg8+ 7. Kg6 $18 *  
+
+[Event "comm. OOsintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Poisson C"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/1K4k1/4R3/8/2n1R3/7b/8 w - - 0 1"]
+
+ 1. Kc5 $1 Nd1 $1 (1... Bxe5 2. Rxe5 Nd1 3. Re2 Kf5 4. Kd4 Kf4 5. Rd2 Ne3 6. Rf2+ $18) (1... Bg1 2. Kc4 $18) 2. Re6+ Kf5 3. Re1 Bg3 4. Kc4 $1 (4. Kd4 $2 Bf2+ $1 5. Kc4 Nb2+ $1 $11) 4... Nb2+ 5. Kd4 Bf2+ 6. R6e3 $1 Kg4 7. Rc1 $1 (7. Rf1 $2 Bxe3+ 8. Kxe3 Nc4+ $11) 7... Kf4 8. Rf1 Nd1 9. Kd3 Nxe3 10. Rxf2+ $18 *  
+
+[Event "comm. Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Skrinnik A"]
+[Black "*"]
+[Result "*"]
+[FEN "2n5/8/P3PK2/1r6/1P3N2/8/8/7k w - - 0 1"]
+
+ 1. Nd5 $1 Rxd5 2. a7 Nxa7 3. e7 Rd6+ 4. Kf5 Rd5+ 5. Kf4 Rd4+ 6. Ke3 {(Kf3)} 6... Re4+ $1 7. Kxe4 Nc8 8. e8=N $1 (8. e8=Q $2 Nd6+ 9. Ke5 Nxe8 10. b5 Nc7 11. b6 Na6 $1 $11) 8... Kg2 9. Kd4 Nb6 10. Nd6 Kf2 11. Nc4 Na4 12. Kd3 Ke1 13. Kc2 Ke2 14. Kb3 $18 *  
+
+[Event "sp. comm.Osintsev 50 JT {m}"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "Amiryan H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Q7/4B3/6b1/2p5/7K/8/p7/kq6 w - - 0 1"]
+
+ 1. Bf6+ Qb2 2. Qh1+ Bb1 3. Qf1 ({Cook--(IA)} 3. Kg5 Qxf6+ 4. Kxf6 Kb2 5. Qb7+ Ka3 6. Qa7+ Kb2 7. Qb8+ Kc2 8. Qh2+ Kb3 9. Qg3+ Bd3 10. Qe5 {etc win}) 3... c4 4. Kh3 c3 5. Qe1 c2 6. Bc3 c1=Q 7. Qxc1 Qxc3+ 8. Qxc3# 1-0  
+
+[Event "1 Prize, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Mikitovics J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r1B2N1/1P6/7K/8/8/8/3P1k2/8 w - - 0 1"]
+
+ 1. Ba5 $3 (1. Nf6 $5 Rxd8 $11 (1... Ke2 $2 2. Ba5 $1 (2. d4 $2 Rxd8 $11 (2... Kd3 $2 3. Bc7 $1 Rxb7 4. Be5 Rb4 5. d5 $18)) 2... Rxb7 3. d4 $1 $18 {main line} )) 1... Rxb7 (1... Rxg8 2. Bc7 $18) 2. Nf6 Ke2 3. d4 Ra7 (3... Kd3 4. d5 Kc4 5. d6 Kb5 6. Bd8 $1 Kc6 7. Be7 Rb1 8. d7 Rd1 9. d8=Q {(or d8R) +-, Excelsior}) 4. Bd8 $1 ({Thematic try} 4. Bb6 $5 Ra6 {Halfpin} 5. Nd5 (5. Nd7 Kd2 6. Kg5 Kc3 7. Bc5 Ra4 8. d5 Kc4 $11) 5... Kf3 (5... Kd3 $2 6. Nb4+ $18) 6. Kg6 Ke4 7. Nf6+ Kd3 8. Bc5 Kc4 9. Kf5 Ra5 $1 {Pin} 10. Nd7 Kd5 $1 {Unpin} 11. Nf6+ Kc4 {Pin} 12. Nd7 Kd5 {Unpin, positional draw.}) 4... Ke3 5. d5 (5. Bb6 $2 Ra6 $11 { Halfpin} (5... Rb7 $2 6. Bc5 Kd3 7. Kg5 Kc4 8. Kf4 $1 Rb5 9. Ne4 $18)) 5... Ra6 $1 {Pin} (5... Kf4 6. Kg6 Ke5 7. Bb6 Rb7 (7... Ra6 8. Bc7+ Kd4 9. d6 $18) 8. Ba5 $1 Kd6 9. Bd2 $1 Ke5 10. Bc3+ Kd6 11. Kf5 $18) 6. Be7 $1 (6. Kg5 $2 Kd4 $1 $11 {thr. 7...Rxf6=}) 6... Kf4 7. d6 {Halfpin} (7. Kg6 $2 Ke5 $1 $11 { thr. 8...Rxf6=}) 7... Ke5 8. d7 $1 ({Thematic try} 8. Ne8 $2 Rb6 {(Rc6)! Pin} 9. Kg6 Ke6 $1 $11 {Unpin} (9... Rb7 $2 {Unpin} 10. Kf7 $1 Rd7 {Pin} 11. Kf8 $1 Ke6 12. Nc7+ Ke5 13. Nb5 $1 Ke6 14. Ke8 $18)) 8... Ke6 {Unpin} 9. d8=Q $1 { wins, Excelsior} (9. Ng8 $2 Kxd7+ $11) (9. d8=R $2 Kxe7 $11 {Pin.  .  An excellent thematic study. The thematic tries (except for the one on the first move, which is only a try in this particular tourney) are really excellent because the pinning/unpinning moves are a real festival including halfpins both as "pinning" and unpinning moves.  Also in the main line 7.d6 is an unpinning move, but also a halfpin, and 8.d7 is a selfpin, with 8...Ke6 as an unpinning move. All of it is crowned by a very natural excelsior. It must be said, however, that this study lacks surprise, a prerequisite of studies in non-thematic tourneys. But here I do not care.  HvH}) 1-0  
+
+[Event "2 Prize, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Skripnik A, Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3b4/8/N7/8/R7/6pb/3p4/B3k2K w - - 0 1"]
+
+ 1. Bc3 {(white pinning move)} (1. Re4+ $2 Kf1 2. Rf4+ Ke2 3. Re4+ Kf3 {win.}) 1... Bb6 2. Bxd2+ Ke2 $1 (2... Kf2 3. Be1+) 3. Ra1 $1 (3. Nc5 $2 Bxc5 4. Ra1 Kxd2 5. Rd1+ Ke2 $1 (5... Kxd1 $2 {correct stalemate 1.}) 6. Rd2+ Kf3 7. Rd3+ Be3) 3... Bf1 4. Nc5 (4. Re1+ $2 Kf2) 4... g2+ 5. Kh2 Bxc5 6. Be3 Bxe3 7. Ra2+ Bd2 (7... Kf3 8. Rxg2 Bf4+ (8... Bxg2 {model stalemate 2.}) 9. Kg1 Bxg2 { model stalemate 3.}) 8. Kg1 Kd3 9. Ra3+ Ke4 (9... Bc3 10. Kh2 Kc4 11. Ra4+ Bb4 12. Ra6 $1 {(unpinning move)} Kd5 13. Rg6 {draw.}) 10. Rg3 $1 (10. Kf2 $2 Bf4) (10. Ra4+ $2 Kf3) 10... Be3+ 11. Kh2 Bf4 {(black pinning move)} 12. Kg1 Bxg3 { correct stalemate 4.  .  An excellent study involving three stalemates (and another one in a sub-subline) and a positional draw based on a systematic manoeuvre involving pinning and unpinning, although the line ends abruptly. Also, the pinning/unpinning moves feel a bit coincidental. The composer compensated for this by adding an introduction also involving the thematic pinning and a B-sac. An almost perfect achievement. HvH} 1/2-1/2  
+
+[Event "3 Prize, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.11.02"]
+[Round "?"]
+[White "Afek Y"]
+[Black "*"]
+[Result "*"]
+[FEN "4R3/4K3/1rk5/1N1p1P1R/8/8/6q1/8 w - - 0 1"]
+
+ 1. Nd4+ Kc5 $1 (1... Kc7 2. Kf7 Qg4 3. Re7+ Kd6 4. Rh6+ Kc5 5. Rc7+ Kxd4 6. Rxb6 Qxf5+ 7. Ke8 $11) 2. Ne6+ $1 Rxe6+ $1 3. fxe6 Qg7+ 4. Kd8 Kd6 5. e7 Qf6 6. Rxd5+ Kxd5 7. Rg8 $3 (7. Rf8 $2 Qd6+ 8. Ke8 Ke6 $19) (7. Rh8 Kd6 $1 8. Rh6 Qxh6 9. e8=Q Qg7 $19) 7... Kd6 8. Rg7 $3 {zz} 8... Ke6 9. Rg6 $1 Qxg6 10. e8=Q+ $11 {. . Excellent study. Good introduction. Nice rook-sac. Nice thematic try (unpinning move). And fully original! HvH...................................... ..................................................."...and full original!" You can see the study of P.Rossi here No12 and No.13 - (IA)} *  
+
+[Event "1 Honorable Mention, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.06.02"]
+[Round "?"]
+[White "Akobia Y, Mikitovics J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4K3/8/4P1Pb/1n3k2/5P2/8/2b5/6R1 b - - 0 1"]
+
+ {As is known KBBN against of KR wins without problems. However, here White have "indemnification" - three pawns. But, except one they are not protected and besides, the white king has not so good position. Also turn of a move of the black. It gives them the initiative. Black have two strongest continuations here 1...Sc7+ and 1...Kf6 . In the first variant we are quickly convinced - white have a draw faster} 1... Kf6 (1... Nc7+ 2. Kf7 $1 (2. Ke7 $2 Nxe6 3. Rh1 Bxf4 $19) 2... Bb3 $1 {Pin} 3. Kg8 $3 {Selfpin} (3. g7 $2 Bxe6+ 4. Kf8 {Selfpin} 4... Kf6 $19) 3... Nxe6 4. Kh7 Bg7 5. Rb1 Bc2 6. Rb7 Bf6 7. Kh6 $11) 2. g7 $1 ({try} 2. e7 $2 Nd4 $1 3. Ra1 $1 Bd3 $1 (3... Bxg6+ $2 4. Kd7 Bf5+ 5. Kd6 Bxf4+ 6. Kd5 Ne6 7. e8=N+ $3 $11) 4. Ra5 $1 (4. Kd7 Bb5+ $19) 4... Nc6 5. g7 (5. Rd5 Bxg6+ 6. Kd7 Nxe7 7. Rd6+ Kf7 $19) 5... Nxe7 6. Rd5 Bg6+ $19 (6... Bc4 $2 7. Rd6+ Be6 {Selfpin} 8. f5 $1 $11)) 2... Bxg7 3. f5 $1 Bxf5 4. e7 Bh6 (4... Nd4 5. Rd1 $1 $11) 5. Rf1 $1 {Pin} ({try} 5. Kd8 $2 Be3 6. Rf1 {Pin} (6. e8=N+ Kf7 7. Rg7+ Kf8 $19) (6. e8=Q Bb6#) 6... Bb6+ 7. Ke8 Nd4 8. Kf8 Bc5 $1 $19 {Pin}) 5... Nd4 6. Rd1 {Unpin} 6... Ne6 ({Main B} 6... Be3 7. Rf1 {Pin} 7... Bg5 (7... Bh6 8. Rd1 {Unpin} 8... Ne6 9. Rf1 $11 {Pin, draws as in Main B} ) 8. Kf8 Bh6+ 9. Ke8 Bd2 10. Rd1 {Unpin} (10. Kf8 $2 Bb4 $1 $19 {Pin}) 10... Bc3 11. Rc1 (11. Kf8 $2 Ne6+ $19) (11. Rf1 $2 {Pin} 11... Bb4 $19) 11... Ba5 12. Rc5 Bb6 (12... Bd2 13. Rd5 Be3 14. Rd6+ Be6 {Selfpin} 15. Kd8 $11) 13. Rd5 Be6 (13... Ke6 14. Kf8 $1 Kxd5 15. e8=Q $11) 14. Rd6 {Pin} 14... Bc5 15. Kd8 $1 Bxd6 16. e8=Q $11 (16. e8=N+ $2 Ke5 $19)) 7. Rf1 $1 {Pin} ({try} 7. Rd6 $2 {Pin } 7... Bc2 8. Ra6 {Pin} (8. Rc6 {Pin} 8... Ba4 $19 {Pin}) 8... Bd3 9. Rb6 {Pin} (9. Rc6 {Pin} 9... Bb5 $19 {Pin}) 9... Be3 10. Rc6 {Pin} 10... Bb5 $19 {Pin}) ( 7. Rd5 $2 Bg4 $1 (7... Nc7+ $2 8. Kd8 Nxd5 9. e8=Q Bg5 10. Qh5 $1 (10. Qg8 $2 Be6 11. Qh7 Ke5+ 12. Ke8 Nf6+ $19) 10... Be6 11. Ke8 $1 $11) 8. Rd6 {Pin} 8... Ke5 9. Kd7 Nd4+ $1 10. Kc7 Nb5+ $19) 7... Bf4 $1 {Selfunpin/Halfpin} (7... Nf4 {Selfunpin/Halfpin} 8. Kd8 $1 $11 (8. Rf3 $5 Bg5 $1 (8... Ke6 $2 9. Kd8 Kd6 10. e8=N+ $11) 9. Rxf4 {Pin} 9... Bxf4 10. Kd8 Be3 11. e8=Q Bb6#)) 8. Rf2 $3 { Halfpin} 8... Bd3 {Selfpin} 9. Rb2 $1 {Unpin} 9... Bc1 10. Rf2+ Bf4 {Selfpin} 11. Rb2 {Unpin/Positional draw, or} 11... Be5 12. Rf2+ Bf4 {Selfpin} 13. Rb2 { Unpin/Positional draw, or} 13... Ng7+ (13... Ng5 14. Rb4 $11 {e.g.} 14... Bd6 15. Rb6 $1 $11 {Pin}) 14. Kd8 (14. Kf8 $2 Bd6 $1 $19 {Pin}) 14... Bg6 15. Rb6+ (15. Rf2 $2 {Pin} 15... Kf5 $19 {Selfpin}) 15... Kf5 16. Rxg6 {draws. ......... ... "All Black & White men get a pin in the play at least one times with the exception of the f4wP. . Task (Matous & Polasek also show a lot of pinned pieces); the author correctly claims that almost all pieces (n=6) that are present in the initial position (except wPf4 and the kings of course) are pinned. The first main line (1/Sc7+) is not very interesting. Two correct pawn sacs, but the author forgets to explain (4...Sd4 5.Rd1!), BTM. Points awarded for the task, the study lacks artistic value". HvH..................... ...............................................You can compare this study with the study Matous & Polasek - No.11-What connections do you find between these studies?-- (IA)} 1/2-1/2  
+
+[Event "2 Honorable Mention, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Hornecker S, Minski M"]
+[Black "*"]
+[Result "*"]
+[FEN "8/4k3/3R2KB/P5P1/8/P7/2pp4/1b3R2 w - - 0 1"]
+
+ {contents: theme: pinning and unpinning moves. Systematic manoeuvre by white Rooks, black Queen and black King.} 1. Rb6 $1 (1. Rff6 $2 c1=Q+ 2. Kg7 Qc3 3. a6 Ba2 4. Kh7 Qc4 $11) (1. Rxd2 $2 c1=Q+) (1. Bf8+ $2 Ke8 2. Rb6 d1=Q 3. Rb8+ Kd7 $11) 1... d1=Q (1... c1=Q+ 2. Rxb1 $18) 2. Rf7+ $1 Ke8 3. Rb8+ Qd8 { self-pin} 4. Rf8+ Ke7 {unpin} 5. Rb7+ $1 Qd7 {self-pin} 6. Rf7+ Ke6 {unpin} 7. Rb6+ Qd6 {self-pin} 8. Rf6+ Ke5 {unpin} 9. Rb5+ Qd5 {self-pin} 10. Rf5+ Ke6 { unpin} 11. Rbxd5 $1 (11. Rfxd5 $2 c1=Q+ 12. Kh5 Qh1+ $11) 11... c1=Q {pin} 12. Rde5+ Kd7 (12... Kd6 13. Kg7 Qc3 14. Kg8 Qb3+ 15. Kh8 Bxf5 16. Rxf5 $18) 13. Kg7 {unpin} 13... Bxf5 14. Rxf5 Qc3+ 15. Kg8 Qxa3 16. g6 Qh3 17. Rf7+ $18 { . . Syst ematic manoeuvre by wRs, bQ and bK involving pinning and unpinning. The finish of the study is unsatisfactorily.HvH} *  
+
+[Event "3 Honorable Mention, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.11.02"]
+[Round "?"]
+[White "Gonzales L"]
+[Black "*"]
+[Result "*"]
+[FEN "4r3/8/1p6/1p6/pP6/K7/5p2/k2b1N1Q b - - 0 0"]
+
+ 1... Rc8 (1... Re2 2. Qd5 Bb3 3. Qd4+ Kb1 4. Qd3+ Rc2 5. Qd1+ $18) 2. Qh3 Rc2 3. Qh8+ Kb1 4. Qh7 {pin} Ka1 {unpin} 5. Qg7+ Kb1 6. Qg6 Ka1 7. Qf6+ Kb1 8. Qf5 Ka1 9. Qe5+ Kb1 10. Qe4 Bf3 $1 11. Qf5 (11. Qg6 $2 Kc1 12. Qf6 Kb1 13. Qf5 { loss of time}) (11. Qh7 Kc1 $11) (11. Qd3 Be2 12. Nd2+ Kc1 13. Qxe2 Rc3+ 14. Nb3+ Rxb3+ $11) 11... Bg4 $1 12. Qg6 Bh5 $1 13. Qh7 Bd1 (13... Bg6 14. Qxg6 { etc}) 14. Ne3 (14. Ng3 $2 Be2 $11) 14... f1=Q (14... Kc1 15. Qd3 f1=Q 16. Nxf1 Be2 17. Qd4 $18) 15. Nxf1 Ka1 16. Qg7+ Kb1 17. Qg6 Ka1 18. Qf6+ Kb1 19. Qf5 Ka1 20. Qe5+ Kb1 21. Qe4 Ka1 22. Qd4+ $18 {.  .  Q-staircase manoeuvres show the required pinning and unpinning moves. Here we have a double Q-staircase, but with a beautiful sacrificial B-manoeuvre in between, forcing the wQ back. Surprisingly, it seems to be original. It is a pity that the study has BTM, especially since this is not necessary at all! I would prefer the setting with wRc8 instead of wRe8 and WTM (1.Qh3). The extra black move is hardly interesting.  HvH} *  
+
+[Event "1 Commendation, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.11.02"]
+[Round "?"]
+[White "Timman J"]
+[Black "*"]
+[Result "*"]
+[FEN "1R6/2B2r1k/p4p2/pP6/3b2p1/1P5p/1P3P1P/4K3 w - - 0 0"]
+
+ 1. b6 Be5 (1... Re7+ 2. Kf1 Be5 3. Rc8 Kg7 4. b7 Rxc7 5. b8=Q Rc1+ 6. Rxc1 Bxb8 7. Kg1 $18) 2. Bxe5 Re7 {pin} 3. f4 $1 (3. Rb7 Rxb7 4. Bc7 Kg6 $11) 3... gxf3 ( 3... fxe5 4. b7 exf4+ 5. Kd2 $18) (3... g3 4. b7 gxh2 5. Rh8+ Kxh8 6. b8=Q+ Kg7 7. Qa8 $18) 4. Rb7 $1 {pin-unpin} Rxb7 5. Bc7 Kg6 6. Kf2 Kg5 7. Kg3 $1 Kf5 8. Kxf3 $18 {zz.  .  The composer indicated that 4.Rb7 is both a pinning and an unpinning move, which is not correct. Nice study, the B/R-combination is partly anticipated.  HvH} *  
+
+[Event "2 Commendation, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.11.02"]
+[Round "?"]
+[White "Sobrecases G"]
+[Black "*"]
+[Result "*"]
+[FEN "3Nk1K1/5p2/1RP5/6P1/6n1/1Bq5/5P2/8 w - - 0 0"]
+
+ 1. Nxf7 $3 {threats 2.Rb8+ Ke7 3.Rb7+ Ke8 4.Nd6+ Kd8 5.Rd7} Nf6+ 2. gxf6 Qxb3 { pin} 3. Rb8+ $3 {The WR sacrifices to unpin the WSf7 and prevents Qg3+} Qxb8 { unpin} 4. c7 $3 Qxc7 5. Ne5 $3 Qb8 $5 6. f3 {zz} Qa8 7. Kg7 { threats 8.f7+ Ke7 9.Ng6+ +-} Qb7+ 8. f7+ Kd8 9. f4 {the BQ cannot find another square on the 7th rank to keep the WPc7 pinned. The BK is forced to play on c8 where it will be immobilized by the WNc6, and then will be checked by the WNe7, unpinning the WPf7 at the end of the line.} Kc8 10. f5 {zz} Qa7 11. f6 Qb7 ( 11... Qg1+ 12. Ng6 Qa7 {pin} 13. Ne7+ {unpin}) 12. Nc6 $3 {The BKc8 cannot escape from the check to come from the WNe7, as it would unpin the WPf7 if it plays on the 7th rank. The WN sacrifices to close the line b7-g2, and its capture by the BQ would unpin the WPf7.  [12.Ng6? Kb8 13.Ne7 Qg2+ 14.Ng6 Qb7! 15.Kg8 Qb3= 16.Ne5 Qg3+ 17.Kh7 Qh4+ 18.Kg7 Qg3+! 19.Ng6 Qc7! pinning]} Qc7 13. Ne7+ $18 {.  .  Very good tactical study with excellent introduction involving many sacrifices by both White and Black, also related to pinning (2..Qxb3) and unpinning (3.Rb8+).  Then an original reciprocal zugzwang position occurs after a festina lente move (6.f3), also related to pinning since bQ cannot play and keep the pin on wpf7. The final play is crowned with a sacrifice of the wS with an unpinning pointe (13.Se7+). The only serious drawback is the capturing key move.  HvH} *  
+
+[Event "3 Commendation, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.05.28"]
+[Round "?"]
+[White "Akobia Y"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/8/k1r5/7Q/5np1/1P6/3K4 w - - 0 1"]
+
+ 1. Qd8+ $1 ({try} 1. Qe4 $5 g2 $1 ({not} 1... Ng5 $2 2. Qb7 $1 Rb5 3. Qc7+ Ka6 4. Qc6+ Rb6 5. Qa8+ Kb5 6. Qd5+ $18) 2. b4+ Kb5 3. Qb7+ Ka4 {(Kc4)=}) ({try} 1. Qg4 $5 Rd5+ $1 ({not} 1... g2 $2 2. b4+ Kb5 3. Qxg2 Rc3 4. Qg4 $18) 2. Ke2 Nd4+ $11) (1. Qe7 $5 Rd5+ 2. Kc1 g2 $11) 1... Kb4 2. Qb8+ $1 ({try} 2. Qb6+ $5 Kc4 3. b3+ Kd5 $1 ({not} 3... Kd4 $2 {selfpin} 4. b4 $18) 4. Qb7+ (4. b4 Rc3 $1 $11 ) 4... Rc6 {selfpin} 5. Qb5+ {unpin} Rc5 {selfpin} 6. Qb7+ Rc6 { selfpin - positional draw, or} 7. Qf7+ (7. Qb5+ {unpin} Rc5 8. Qd7+ {unpin} Ke5 {draw}) (7. Qd7+ {unpin} Rd6 {selfpin - draw}) 7... Ke4 $11) 2... Kc4 3. b3+ ( 3. Qf4+ $2 Nd4 {selfpin - draws.}) (3. Qg8+ $2 Rd5+ {selfpin} 4. Ke2 Nd4+ { draws.}) 3... Kd5 $1 (3... Kd4 4. Qf4+ Kd5 5. Qxf3+ $18) 4. Qg8+ $1 (4. Qb7+ $5 {and play is same as 2.Qb6!? line} Rc6 5. Qb5+ {etc - draws.}) 4... Kd4 5. Qg4+ $1 ({Thematic try} 5. Qxg3 $5 Ke3 $1 {zz - selfpin} 6. Qh3 Rc6 $1 {zz} 7. Qg3 Rc5 {zz - positional draw, or} 8. Qd6 Rf5 $1 9. Qe7+ (9. Qe6+ Kf4 $11) (9. b4 Nd4 $1 10. Qe7+ Kd3 $11) 9... Re5 10. Qd6 (10. Qa7+ Nd4 {selfpin =}) 10... Rf5 {positional draw}) 5... Ke3 6. Qxg3 {zz - pin} Rc3 (6... Rf5 7. Kc2 Rg5 8. Qh3 $18) (6... Rg5 7. Qh3 $1 Rg1+ 8. Kc2 $18) 7. Qb8 $1 {unpin} ({Try} 7. Qg8 $5 Rd3+ 8. Kc1 Nd4 9. Qg5+ Ke4 10. Qg6+ Ke3 11. Qg3+ Ke4 {positional draw} (11... Ke2 12. Qe5+ Kf3 13. b4 $18)) 7... Rd3+ 8. Kc1 $1 (8. Kc2 $2 Nd4+ $11) 8... Rd5 ({main} 8... Nd4 9. Qe5+ $1 (9. Qg3+ Ke4 10. Qg6+ Ke3 11. Qg5+ Ke4 { positional draw}) 9... Kf3 10. b4 $18) 9. Qg3 {pin} Rg5 10. Qh3 {wins.  .  The pinning/unpinning is connected with a an interesting reciprocal zz} *  
+
+[Event "4 Commendation, PCCC 50th ACF {m}"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Didukh S, Skripnik A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5r2/1P4r1/8/8/5N1p/3B2pR/1P4K1/k7 w - - 0 1"]
+
+ 1. Rh1+ (1. Be4 $2 Rxb7) 1... Ka2 (1... Kxb2 2. Rb1+) 2. Rc1 $1 h3+ $1 (2... Rxb7 3. Bc4+ Rb3 4. Nd3) 3. Kxh3 Rh8+ 4. Kg2 Rh2+ 5. Kg1 $1 (5. Kf3 $2 Rf2+ $1 6. Ke4 (6. Ke3 Re7+ $1 7. Be4 Rxb2 $11) 6... Rxf4+ $1 7. Kxf4 Rxb7 $11) 5... Rxb7 6. Bc4+ Rb3 $1 {selfpin} (6... Kxb2 7. Nd3+ Ka3 8. Ra1+) 7. Nd3 (7. Bxb3+ $2 Kxb2) 7... Rh1+ $1 8. Kg2 $1 (8. Kxh1 $2 g2+ 9. Kxg2 {stalemate.}) 8... Rh2+ (8... Rxc1 9. Nxc1+ Kxb2 10. Nxb3) 9. Kf3 $1 {selfpin} (9. Kxg3 $2 Rh3+) 9... Rhxb2 10. Kxg3 Ka3 {selfunpin} 11. Bxb3 {selfunpin} Rxb3 {Pin} 12. Ra1# { .  .  Study with nice stalemate/mate points, with a couple of thematic pins/ unpins.  HvH} 1-0  
+
+[Event "1 Honorable Mention, tp36 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Kuznetsov AP"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/8/k6q/3R4/1P6/8/8/8 w - - 0 1"]
+
+ 1. b5+ Ka5 (1... Kb6 2. Rd6+ Qxd6 {stalemate}) 2. b6+ Ka6 3. b7 Qc6 4. Rd7 Qxd7 5. b8=N+ $11 1/2-1/2  
+
+[Event "1-2.Prize, Problem Forum 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Sochnev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1r2k3/8/2P1K3/1P6/8/8/8/6n1 w - - 0 1"]
+
+ 1. Kd6 Rd8+ 2. Kc7 Ne2 3. b6 Nf4 4. Kb7 Nd5 5. c7 Rd7 6. Ka7 {Main A} Nxc7 ({ Main B} 6... Ke7 7. b7 Rxc7 8. Ka6 $1 Nb4+ 9. Kb6 Nd5+ 10. Ka6 Rc6+ 11. Ka7 Rc7 12. Ka6 $11) 7. b7 Nd5 8. Ka8 $1 Nb6+ 9. Ka7 Nd5 10. Ka8 Nc7+ 11. Ka7 $11 { Judge: Michael Schlosser (Germany)} 1/2-1/2  
+
+[Event "1-2.Prize, Problem Forum 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Bruch W"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/7p/4k3/8/2p3pK/B5P1/2b5 w - - 0 1"]
+
+ 1. Kg4 $1 {Main A} Be3 ({Main B} 1... Bd2 2. Bb1 Be1 3. Kf3 h5 4. Bh7 $1 Bf2 5. Bg6 Kd4 6. Ke2 Be3 7. Kd1 h4 8. Bf5 $11) 2. Bb3 Bf2 3. Kf3 h5 4. Ke2 h4 5. Ba4 $1 Kd6 6. Bc2 Ke5 7. Ba4 Kd6 8. Bc2 Kc5 9. Bf5 Kb4 10. Kd1 Kb3 11. Kc1 Be3+ 12. Kb1 h3 13. Be6+ $11 1/2-1/2  
+
+[Event "1.HM, Problem Forum 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Gurgenidze D, Akobia I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/6P1/8/3n3k/2R5/2b5/5nPP/4r3 w - - 0 1"]
+
+ 1. g8=Q Re8+ 2. Kxe8 Nf6+ 3. Kf7 Nxg8 4. Rc5+ $1 (4. Rxc3 $5 Nh6+ $11) 4... Kh4 5. Rxc3 Nh6+ 6. Kg6 Nhg4 7. Rh3+ $1 Nxh3 8. g3# 1-0  
+
+[Event "1.Com, Problem Forum 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Minski M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/BK6/3P4/8/r5P1/8/8/1N6 w - - 0 1"]
+
+ 1. Nc3 $1 Rb4+ 2. Kc6 Rc4+ 3. Kd5 Rxc3 4. Ke6 Rd3 5. Bf2 $1 Kc8 6. Ke7 Rd2 7. Be3 Rd3 8. Bf4 Rd4 9. Be5 $1 Rd5 10. Ke6 Rd2 11. g5 {wins.} 1-0  
+
+[Event "3.Com, Problem Forum 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Schmidt P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K3/8/3p4/2P5/4B3/8/8/k1N2r2 w - - 0 1"]
+
+ 1. Nb3+ $1 {Main A} Kb2 ({Main B} 1... Ka2 2. cxd6 $1 Rd1 3. Nc1+ $1 Rxc1 4. Bd5+ Ka1 5. d7 Rb1 $1 6. Bb3 $1 (6. d8=Q $2 Rb8 $1 7. Qxb8 {stalemate})) 2. Nd2 Rd1 3. Nc4+ Kc3 4. c6 $1 Rd4 5. Nxd6 Rxd6 6. c7 {wins.} 1-0  
+
+[Event "4.Com, Problem Forum 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Minski M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1KR5/8/1nP2B2/k7/8/8/5b2/1r6 w - - 0 1"]
+
+ 1. Bd8 $1 Ka6 2. Bxb6 {Main A} Bg3+ ({Main B} 2... Kxb6 3. Rg8 $1 Kxc6+ 4. Kc8 Bc5 5. Rg7 $1 Bd6 6. Rc7+ Bxc7 {stalemate}) 3. Ka8 $1 Kxb6 4. Rb8+ Bxb8 5. c7 Ra1+ (5... Kxc7) (5... Bxc7 {stalemate}) 6. Kxb8 $11 1/2-1/2  
+
+[Event "5.Com, Problem Forum 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r3k3/4P3/1P3K2/8/1N6/8/8/8 w q - 0 1"]
+
+ 1. Nd5 $1 Rb8 2. Nc7+ Kd7 3. Kf7 Rh8 4. Ne6 Rh7+ 5. Ng7 Rh8 6. b7 Kc6 7. Ne6 Kxb7 8. Nf8 {wins.} 1-0  
+
+[Event "6.Com, Problem Forum 2005-2006 {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Kratz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6N1/3P4/P2r2k1/8/B3b2K/8/8/8 w - - 0 1"]
+
+ 1. a7 Ba8 2. Bc6 $1 Kg7 3. Ne7 Kf7 4. Ng6 $1 Kf6 5. Bxa8 Rxd7 6. Bb7 Rd4+ 7. Kh5 {wins.} 1-0  
+
+[Event "p, Problem Online 2004-2006 (C) {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1b6/1n1n4/5N2/8/2p2p2/2R5/3k2K1 w - - 0 1"]
+
+ 1. Ne3+ (1. Rxc3 $2 f2+ 2. Kf1 Ba6+ 3. Kxf2 Ne4+ {-+}) 1... Ke1 2. Ng2+ fxg2 3. Rxc3 Nd5 (3... Nf5 4. Rc1+ Kd2 5. Rb1 Nd4 6. Kf2 Ne2 7. Rb2+ Kd3 8. Rd2+ Kxd2 { Stalemate}) 4. Rf3 Bc6 5. Kxg2 Ne3+ 6. Kg3 Ndf5+ 7. Kf4 Ng2+ 8. Kg4 Nfe3+ 9. Kg3 Nf1+ 10. Kh3 Bd7+ (10... Bxf3 {Stalemate}) 11. Kxg2 Bc6 12. Kg1 Bxf3 { Stalemate} 1/2-1/2  
+
+[Event "p. Problem Online 2004-2006 {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Gurgenidze D, Neidze V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7q/1pk5/1p2K3/2P4R/8/1pp3P1/2P5/6B1 w - - 0 1"]
+
+ 1. cxb6+ (1. Rxh8 $5 b2 2. cxb6+ Kc6 3. Rc8+ Kb5 4. Rxc3 b1=Q 5. Rb3+ Kc6 6. Rxb1 {stalemate}) 1... Kc6 2. Rc5+ Kxb6 3. Rh5+ $1 (3. Rc8+ $5 Ka5 {(Kb5)} 4. Rxh8 b2 5. Bb6+ (5. Ra8+ Kb4 $1 6. Ra7 b1=Q {(b6)} 7. Rxb7+ Kc4 8. Rxb1 { stalemate}) 5... Ka6 6. Rh1 b1=Q 7. Rxb1 {stalemate}) 3... Kc7 (3... Ka6 4. Rxh8 b2 5. Ra8+ Kb5 6. Ra3 $18) 4. Rxh8 b2 5. Rh7+ (5. Bb6+ $5 Kc6 6. Rh1 b1=Q 7. Rxb1 {stalemate}) 5... Kc6 6. Rd7 b1=Q 7. Rd6+ Kb5 8. Rb6+ Kc4 9. Rxb1 $18 1/2-1/2  
+
+[Event "p. Problem Online 2004-2006 {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Sochnev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4K3/5p2/5P2/1r2k1PP/8/8/2N5/6n1 w - - 0 1"]
+
+ 1. Nd4 $1 (1. Kxf7 $5 Nf3 2. h6 Kf5 3. Kg7 Rb7+ 4. f7 Nxg5 5. Nd4+ Kg4 $19) 1... Kxd4 2. Kxf7 Nf3 ({main} 2... Ke5 3. Kg7 Nf3 4. g6 Nd4 5. f7 Rb8 6. Kh7 ( 6. f8=N $5 Nf5+ 7. Kf7 Ra8 8. Nd7+ Kf4 9. Nf8 Kg5 10. Ne6+ Kh6 $19) 6... Kf6 7. g7 Kxf7 8. h6 Ne6 9. g8=Q+ Rxg8 {stalemate}) 3. g6 Ng5+ 4. Kg7 Ne6+ 5. Kf7 Ng5+ 6. Kg7 Ke5 7. f7 Ne6+ ({main} 7... Rb8 8. f8=N Rb7+ 9. Kg8 $1 (9. Kh8 $5 Kf6 10. Kg8 Ne4 $19) 9... Kf6 10. h6 Ra7 11. g7 Rb7 12. Kh8 Nf7+ 13. Kh7 Nxh6 14. Kxh6 Rxg7 15. Nh7+ Kf7 16. Ng5+ $11) 8. Kh6 Kf6 9. f8=Q+ Nxf8 10. g7 Kf7 11. g8=Q+ Kxg8 {stalemate} 1/2-1/2  
+
+[Event "Hm. Problem Online 2004-2006 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/8/8/6p1/5nr1/R2R4/N2K3k w - - 0 1"]
+
+ 1. Rdb2 $1 (1. Rf2 $5 Rg1+ 2. Ke2 g3 $11) 1... Rg1+ 2. Ke2 g3 (2... Nh2 3. Nc2 g3 4. Ne3 g2 5. Kd3 Rd1+ 6. Nxd1 g1=Q 7. Nf2+ Kg2 8. Ng4+ Kg3 9. Nxh2 $18) 3. Kxf3 g2 4. Ra8 Rf1+ 5. Ke4 Re1+ 6. Kd5 (6. Kd3 $5 Re3+ 7. Kc4 Rh3 $11) 6... Rd1+ 7. Kc6 Rc1+ 8. Kb7 Rf1 9. Rh8+ $18 (9. Rg8 $5 Rxa1 $11) *  
+
+[Event "hm, Problem Online 2004-2006 (C) {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3R4/1pp5/8/P2P2K1/8/1r6/2b3k1/7N w - - 0 1"]
+
+ 1. Kf4 (1. Rc8 $2 Be4 2. Rxc7 Bxd5 {-+}) (1. Kf6 $2 Be4 2. Ke5 Bf3 {-+}) 1... Rf3+ (1... Rb4+ 2. Ke3 Kxh1 3. d6 cxd6 4. Rxd6 Bb3 5. a6 {(Kf2) =}) 2. Ke5 Re3+ (2... Rf5+ 3. Kd4 Kxh1 4. Rb8 Bd1 5. Ke4 Bc2+ 6. Kd4 {=}) 3. Kd4 Rd3+ 4. Kc5 ( 4. Kc4 $2 Rd1 5. Rd7 Be4 {-+}) (4. Ke5 Bb3 5. Rd7 Rc3 6. Kd4 (6. d6 cxd6+ 7. Rxd6 Bc4 {-+}) 6... Rc4+ 7. Kd3 Ra4 8. Kc3 Bc4 9. a6 Bxa6 10. Rxc7 Rh4 {-+}) 4... Bd1 (4... Bb3 5. Rd7 {(Rc8) =}) (4... Ra3 5. Rc8 Rxa5+ 6. Kb4 Ra4+ 7. Kb5 Ra1 8. Rxc7 Rb1+ (8... Bd3+ 9. Kb6 Rb1+ 10. Ka7 b5 11. d6 {=}) 9. Kc5 Ba4 10. d6 {=}) 5. a6 (5. Rd7 $2 Bf3 6. Rxc7 Rxd5+ 7. Kb6 Rd6+ {-+}) 5... bxa6 6. d6 cxd6+ 7. Rxd6 Rc3+ 8. Kb4 Rb3+ 9. Kc4 Rb1 10. Kc3 a5 11. Rd2+ Kxh1 12. Ra2 a4 13. Ra1 Rxa1 14. Kb2 {=. Intro is longer and more thematic.} 1/2-1/2  
+
+[Event "hm, Problem Online 2004-2006  {m}"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/1p1p4/1b1R4/2p4p/k5K1/6N1 w - - 0 1"]
+
+ 1. Kh1 $1 (1. Kxh3 $5 Bc5 2. Rd3 b4 3. Ne2 d4 4. Kg2 Kb3 5. Kf3 Kc4 6. Ke4 b3 $19) 1... Bc5 2. Rxd5 Bxg1 3. Rxb5 c2 4. Rb4 c1=Q 5. Ra4+ Kb2 6. Rb4+ Kc3 7. Rc4+ Kxc4 {stalemate} 1/2-1/2  
+
+[Event "comm, Problem Online 2004-2006  {m}"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Josten G"]
+[Black "*"]
+[Result "*"]
+[FEN "1b6/4R1K1/P7/8/8/4pP1k/4r2P/8 w - - 0 0"]
+
+ 1. a7 Bxa7 2. Rxa7 Rf2 3. Rf7 Rxh2 4. Re7 Re2 5. Kf6 Kg3 6. Ke5 Rd2 7. f4 Rd1 8. f5 e2 9. Kf6 e1=Q 10. Rxe1 $11 *  
+
+[Event "2p Problemaz {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/1R1B4/K7/n6b/8/2P5/1pNP4/1rr5 w - - 0 1"]
+
+ 1. Rc7 Be2+ (1... Nc6 2. Kb6 Ne7 3. Ra7+ Kb8 4. Rb7+ Ka8 5. Ra7+ $11) 2. d3 $1 (2. c4 $2 Bxc4+ 3. Kb6 Ba6 $1 4. Kxa6 Rxc2 5. Rxc2 Nc4 $1 6. Bc6+ Kb8 7. Rxc4 Ra1+ 8. Ba4 b1=Q $19) 2... Bxd3+ 3. c4 $1 Bxc4+ 4. Kb6 Ba6 5. Kxa6 Rxc2 6. Rxc2 Nc4 (6... Nc6 7. Bxc6+ Kb8 8. Kb6) 7. Bc6+ $1 (7. Rxc4 $2 Ra1+ $19) 7... Kb8 8. Rxc4 Ra1+ 9. Ba4 b1=Q (9... Rxa4+ 10. Rxa4 b1=Q 11. Rb4+ Qxb4 {stalemate}) 10. Rb4+ Qxb4 {stalemate. Combination of two economical stalemates. Regardless of multiple captures this study, due to its rich content, leaves a good impression. Correction of the author's cooked study (Schakend Nederland, HHdbIII#9443, 1993).} 1/2-1/2  
+
+[Event "3p Problemaz (C) {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/p7/7B/r7/4P2k/P1P5/7K w - - 0 1"]
+
+ 1. Bf7 (1. Kg1 $2 Rxa2 {-+}) 1... Kg3 2. Kg1 (2. Bb3 $2 Rg4 3. Kg1 Kf3+ {-+}) 2... Rb4 (2... Kf3 3. e4 Rd4 (3... Kxe4 4. Kf2 {=}) 4. e5 Kg3 5. Bh5 Re4 6. Kf1 Rxe5 7. Be2 {=}) 3. Bb3 (3. Kf1 $2 Kf3 4. Ke1 Kxe3 {-+}) 3... a5 (3... Rg4 4. Bd5 {=}) (3... Kf3 4. e4 Kxe4 5. Kf2 {=}) 4. a3 (4. Kf1 $2 Kf3 5. c3 Rh4 {-+}) (4. c3 $2 Re4 5. Kf1 Rxe3 {-+}) (4. a4 $2 Rg4 5. Kf1 Kf3 6. e4 Rh4 7. Kg1 Kxe4 8. Kf2 Rh2+ {-+}) 4... Rb6 (4... Rg4 5. Bd5 Ra4 6. Kf1 Rxa3 7. Ke2 {=}) (4... Re4 5. Kf1 Rxe3 6. a4 Re4 7. c3 Re3 8. Bd5 Kf4 9. c4 {=}) (4... Rh4 5. Bd5 Rh2 6. c4 a4 7. Kf1 Ra2 8. Ke1 {=}) 5. Kf1 (5. a4 $2 Rd6 6. Kf1 Kf3 7. Ke1 Kxe3 {-+ }) 5... Kf3 6. Ke1 Kxe3 (6... Rd6 7. e4 Kxe4 8. Ke2 {=}) 7. Kd1 a4 8. Ba2 Rb2 9. Kc1 Rxa2 10. Kb1 Rxa3 11. Kb2 {=. Better play and better economy.} 1/2-1/2  
+
+[Event " Prize, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Gromov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4NN2/4r3/1B6/K1p1p2k/p7/5P2/8/8 w - - 0 1"]
+
+ 1. Nf6+ Kg5 2. Ne4+ Kh6 (2... Kf5 3. Nd6+ Kf4 4. Ng6+) 3. Bxc5 a3 (3... Rf7 4. Nd2 Kg7 5. Kxa4 Rxf8 6. Bxf8+ Kxf8 7. Kb5) 4. Bxa3 Ra7+ 5. Kb4 Rf7 6. Bc1+ (6. Kc4 $2 Rxf3 7. Bc1+ Kg7) 6... Kh5 (6... Kg7 7. Ne6+) 7. Nd7 $1 (7. Ne6 $2 Rxf3 8. Kc4 Kg4 9. Kd5 Rf5 10. N6g5 Rf1 11. Bd2 Rb1) 7... Rxf3 8. Nxe5 Rh3 (8... Rf8 9. Ng3+) 9. Bf4 Kh4 (9... Rh4 10. Ng3#) 10. Ka4 $1 Kh5 (10... Rh1 11. Ng6+) 11. Nf6+ Kh4 12. Ng6# 1-0  
+
+[Event " Prize, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Katsnelson L, Kondratev V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3n4/1p6/k7/6P1/1PK5/2n2PQ1/1p6/8 w - - 0 1"]
+
+ 1. Qd6+ (1. b5+ $2 Nxb5 2. Qe1 b1=Q) (1. Qc7 $2 b5+ 2. Kxc3 b1=Q 3. Qxd8 Qc1+) 1... Nc6 (1... Ka7 2. Qxd8 b1=Q 3. Qa5+ Kb8 4. Qe5+ Ka7 5. Qxc3) 2. Qg6 (2. Kxc3 $2 b1=Q 3. Qd3+ Qxd3+ 4. Kxd3 Nxb4+ 5. Ke4 b5 6. f4 Nc6 7. g6 Ne7 8. f5 b4 $1 9. g7 b3 10. Kd3 Ng8) 2... b1=Q 3. Qxb1 Nxb1 4. b5+ Kb6 (4... Ka7 5. bxc6 bxc6 6. g6) 5. bxc6 Nd2+ 6. Kd5 $1 (6. Kb4 $2 Nxf3 7. g6 Ne5 8. cxb7 Kxb7 9. g7 Nc6+ 10. Kc5 Ne7) 6... Nxf3 7. g6 Nh4 8. g7 Nf5 9. g8=Q (9. g8=N $2 bxc6+) 9... Ne7+ 10. Kd6 Nxg8 11. c7 Ne7 12. Kd7 (12. Kxe7 $2 Kxc7) 1-0  
+
+[Event " Prize, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Ryabinin N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/2p2K2/3p4/r4n2/2r4p/5B2/5R2/5R2 w - - 0 1"]
+
+ 1. Bd5 $1 (1. Be2 $2 Rcc5 2. Rf4 Re5 3. Bc4 Ng3 4. Rxh4+ Rh5 5. Rxh5+ Rxh5) 1... Rxd5 (1... Nh6+ {<main>} 2. Kg6 Rxd5 3. Kxh6 Rg4 4. Rf8+ Rg8 5. R1f7 Rd1 6. Rh7#) 2. Rxf5 c6 (2... Rxf5+ 3. Rxf5 Rc5 4. Rf4 $1 Rh5 5. Kg6) (2... Rc1 3. R1f4 $1 Rc4 $1 4. Rf6 $1 Rxf4 $1 5. Rxf4 Rh5 6. Kg6) 3. Rf6 (3. R5f4 $2 Rd1 $1 4. R1f2 Rd2 $1 5. R2f3 Rd3) 3... Kh7 4. Rg1 Rh5 5. Rg7+ Kh8 6. Rg5 $1 Rh7+ ( 6... Rxg5 7. Rh6#) 7. Kf8 Ra7 8. Rh6+ Rh7 9. Rg8# 1-0  
+
+[Event " Prize, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Kalashnikov V, Osintsev S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/5Bp1/2N3P1/K2p1q2/2p4b/2R5/8/B7 w - - 0 1"]
+
+ 1. Re3 $1 d4+ 2. Re5 Be1+ 3. Ka4 $1 (3. Kb5 $2 Qxe5+ 4. Nxe5 Bc3 5. Bxc3 dxc3 6. Bg8 $1 Kxg8 7. Kxc4 c2 8. Nd3 Kf8 9. Kd5 (9. Kc3 Ke7 10. Kxc2 Kf6 11. Nf4 Kf5) 9... Ke7 10. Ke5 Kd7) 3... Qxe5 (3... Qc2+ 4. Kb5 Qb3+ 5. Ka6 Qa4+ 6. Na5) 4. Nxe5 Bc3 $1 5. Bxc3 (5. Kb5 $2 Bxa1 6. Kxc4 d3) 5... dxc3 6. Bg8 $1 (6. Bxc4 $2 c2 7. Nd3 c1=Q 8. Nxc1) 6... c2 (6... Kxg8 7. Ka3 $1 Kf8 8. Ka2 Ke7 9. Nf7 $1 Kf6 10. Nh8 Ke5 11. Kb1 Ke4 12. Kc2 Kd4 13. Nf7 Kc5 14. Kxc3) 7. Bh7 c1=Q 8. Nf7# 1-0  
+
+[Event " Prize, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Pervakov O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5Q2/8/6B1/4p2p/3P4/8/nK1p4/3kbN1q w - - 0 1"]
+
+ 1. Qa8 $1 (1. Qf7 $2 Bh4 2. Bxh5+ Ke1 3. Ne3 d1=Q 4. Bxd1 Qg1) 1... Qh3 $1 2. Qc8 $1 (2. Qa6 $2 Qc3+ 3. Kxa2 Bh4 4. Ne3+ Kc1 5. Qf1+ Be1 6. Qb5 d1=Q 7. Nxd1 Kxd1) 2... Qf3 (2... Qc3+ 3. Qxc3 Nxc3 4. Bxh5+ Ne2 5. Ne3#) 3. Qc4 $1 Bf2 $1 ( 3... Bh4 4. Bxh5 Qxh5 5. Ne3+ Ke1 6. Qf1#) (3... Qb7+ 4. Ka1) 4. Ne3+ $1 (4. Bxh5 $2 Bxd4+ $1 5. Kxa2 Qxh5 6. Ne3+ Bxe3 7. Qf1+ Kc2) 4... Bxe3 5. Bxh5 Bxd4+ 6. Kxa2 Qxh5 7. Qf1+ Kc2 8. Qb1+ Kc3 9. Qb3# 1-0  
+
+[Event " Prize, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Rezvov N, Tkachenko SN"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/8/3q2N1/8/1b1Bk3/1b6/4BP2/5N2 w - - 0 1"]
+
+ 1. Ng3+ Kd5 $1 2. Ne7+ $1 (2. Bf3+ $2 Ke6 $1 3. Bg4+ Kf7 4. Ne5+ Kf8 5. Nd7+ Ke8 6. Nf6+ Kd8) 2... Qxe7 (2... Ke6 3. Bg4+ Kf7 4. Bh5+) 3. Bf3+ Kc4 4. Be2+ Kd5 5. Bf3+ Ke6 6. Bg4+ Kf7 7. Bh5+ Kf8 8. Nf5 Qg5 9. Bg7+ Qxg7+ 10. Nxg7 Bg8 $1 11. Ne6+ Bxe6 12. Kh7 Bd2 $1 13. f4 $1 Bxf4 14. Kg6 $1 Bf7+ 15. Kf5 $1 1/2-1/2  
+
+[Event " Prize, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Sochniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5N2/8/B7/3n3K/3p1k2/4p3/1p1p4/3R4 w - - 0 1"]
+
+ 1. Ne6+ $1 (1. Ng6+ $2 Ke4 2. Rg1 Nc3 3. Bb7+ Kd3 4. Ba6+ Kc2) (1. Rf1+ $2 Ke4 2. Ne6 Nc3) 1... Ke5 $1 2. Nc5 Kd6 (2... Kf6 3. Na4 d3 4. Bxd3 Nf4+ 5. Kg4 Nxd3 6. Kf3 e2 7. Kxe2 Nc1+ 8. Kxd2 $1 b1=Q 9. Rf1+ Ke5 10. Re1+ Kd4 11. Rd1) 3. Na4 $1 (3. Ne4+ $2 Ke7 4. Nxd2 exd2) 3... d3 $1 (3... Nf4+ 4. Kg4 d3 5. Nxb2 e2 6. Kxf4 e1=Q 7. Bxd3 Qe5+ 8. Kf3 Qxb2 9. Ke2) 4. Bxd3 (4. Nxb2 $2 e2 5. Rxd2 e1=Q 6. Bxd3 Nf4+) 4... Nf4+ 5. Kg4 Nxd3 6. Kf3 e2 (6... b1=Q {<main>} 7. Rxb1 Nc1 8. Nc3 d1=Q+ 9. Nxd1 e2 10. Rxc1 e1=Q 11. Rb1 $1 (11. Ra1 $2 Ke5 12. Kg2 Kf5 13. Kf3 Kg5) 11... Kc5 12. Ra1 Qe6 13. Rc1+ Kd4 14. Ra1 Kc5 15. Rc1+ Kd4 16. Ra1) 7. Kxe2 Nc1+ 8. Ke3 $1 (8. Kxd2 $2 b1=Q 9. Nc3 Qb2+) 8... b1=Q 9. Kxd2 Ke5 (9... Ke7 10. Re1+ Kd8 11. Rd1) (9... Qa1 10. Kc2+ Kc6 11. Nc3) 10. Re1+ Kf5 11. Rf1+ Kg5 12. Rg1+ Kh5 13. Rh1+ Kg5 14. Rg1+ Kf5 15. Rf1+ Ke5 16. Re1+ Kd4 17. Rd1 Ke5 18. Re1+ Kf4 19. Rxc1 $1 Qa2+ 20. Kd3 Qxa4 21. Rc4+ 1/2-1/2  
+
+[Event "sp Prize, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Gromov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/3n4/1RR5/2P5/N4K2/8/q7/8 w - - 0 1"]
+
+ 1. Rc8+ (1. Ra6+ $2 Kb7) 1... Ka7 (1... Nb8 2. Rbxb8+ Ka7 3. Ra8+ Kb7 4. c6#) 2. Rc7+ Ka8 3. Ra6+ Kb8 4. Rc8+ $1 Kb7 $1 (4... Kxc8 5. Nb6+ Nxb6 6. Rxa2) 5. c6+ Kxc8 (5... Kxa6 6. Ra8+ Kb5 7. Nc3+) 6. cxd7+ (6. Nb6+ $2 Nxb6 7. Rxa2 Nd5+ 8. Ke5 Nb4) 6... Kc7 7. Ra7+ Kc6 8. d8=N+ $1 (8. d8=Q $2 Qf2+) 8... Kd6 9. Nf7+ Kc6 10. Ne5+ Kd6 11. Rd7+ Ke6 12. Nc5+ Kf6 13. Ne4+ Ke6 14. Ng5+ Kf6 15. Nh7+ Ke6 16. Nf8+ Kf6 17. Ng4# 1-0  
+
+[Event " Honorable Mention, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Afek Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B3/r7/7P/8/8/3K4/p3R3/7k w - - 0 1"]
+
+ 1. Bc6+ (1. Re1+ $2 Kh2 2. Ra1 Rh7 3. Rxa2+ Kg3 4. Ra6 Kf4 5. Kd4 Kg5) 1... Kg1 2. Re1+ (2. Rg2+ $2 Kf1 3. Rh2 a1=Q 4. Rh1+ Kf2 5. Rxa1 Rxa1) 2... Kf2 (2... Kh2 3. Ra1 Rh7 4. Rxa2+ Kh3 5. Ra6 $1) 3. Ra1 Rh7 4. Rxa2+ Kg3 5. Rg2+ Kh4 ( 5... Kf4 6. Rg6 Kf5 7. Be4+) 6. Rg6 (6. Be8 $2 Rxh6 7. Bg6 Kh3 8. Rg1 Kh2 9. Rg5 Rh3+) 6... Kh5 7. Be8 $1 Rxh6 8. Rg1+ $1 Kh4 9. Bg6 $1 1-0  
+
+[Event " Honorable Mention, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Maksaev V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/B3K3/p7/7k/R7/1B5p/8/8 w - - 0 1"]
+
+ 1. Bd1+ (1. Bf7+ $2 Kg5 $1 2. Be3+ Kf5 3. Be6+ Kg6 4. Rg4+ Kh5 $1 5. Rg5+ Kh4 6. Rg4+ Kh5 7. Rf4 (7. Rb4 Kg6 $1 8. Rg4+ Kh5) 7... Qb7+ 8. Kf6 Qc6 $1 9. Rf5+ Kg4 10. Rc5+ Qxe6+ $1 11. Kxe6 h2 12. Rc1 Kf3 13. Bb6 Kg2 14. Rc2+ Kh3 $1) 1... Kg5 (1... Kg6 {<main>} 2. Rxa6+ $1 Kf5 3. Ra5+ (3. Bc2+ $2 Kg4 4. Bd1+ Kf5) 3... Ke4 4. Ra4+ Kd3 5. Ra3+ Kc4 6. Be2+ (6. Bb3+ $2 Kb5 $1 7. Ba4+ Kb4) 6... Kb4 7. Bc5+ $1 Kxc5 8. Rxa8) 2. Be3+ Kg6 3. Bc2+ Kh5 4. Be4 Qxe4+ (4... Qc8 5. Bf3+ Kg6 6. Rg4+ Kf5 7. Rg5#) 5. Rxe4 h2 6. Re6 Kg4 7. Rh6 Kg3 8. Bf4+ Kxf4 9. Rxh2 1-0  
+
+[Event " Honorable Mention, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/8/2P1p3/2n4p/6k1/4p3/3b2P1/7K w - - 0 1"]
+
+ 1. c7 e2 2. Rb1 Ne4 3. c8=Q Ng3+ 4. Kh2 $1 (4. Kg1 $2 Be3+ 5. Kh2 Nf1+ 6. Rxf1 exf1=N+ 7. Kh1 Ng3+ 8. Kh2 Nf1+ 9. Kh1 Ng3+) 4... Nf1+ 5. Rxf1 exf1=Q 6. Qg8+ Bg5 7. Qxe6+ Qf5 8. Qe2+ Kf4 9. g3# 1-0  
+
+[Event " Honorable Mention, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Gonzalez L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4r3/4P3/1P3P1P/1r6/p3Ppk1/P4p1p/5P1B/7K w - - 0 1"]
+
+ 1. f7 (1. Bxf4 $2 h2 $1 2. Kxh2 Rh5+ 3. Kg1 Rb5 4. Kh2 Rh5+) 1... Rb1+ 2. Bg1 h2 $1 3. Kxh2 Rxb6 4. f8=Q $1 (4. f8=B $2 Rb5 5. Kh1 Rh5+ 6. Bh2 Rc8) 4... Rxf8 5. exf8=B $1 (5. exf8=Q $2 Rxh6+ 6. Qxh6) 5... Rb5 6. Kh1 Rh5+ 7. Bh2 Kg5 (7... Rh3 8. Bg7 Rh5 9. Kg1 Rb5 10. Bxf4 Kh3 11. Bc1 Rb1 12. Bgb2) 8. Kg1 Kg4 9. Bg7 $1 (9. e5 $2 Rxe5 10. Bxf4 Rh5 $1 11. Be3 Kf5 12. Bg7 Kg6 13. Bc3 Kh7) 9... Rh4 10. e5 Kf5 11. Bxf4 (11. e6 $2 Kxe6 12. Bxf4 Kf7 $1 13. Be3 Kg6) 11... Kxf4 ( 11... Kg6 12. h7 Rxh7 13. Bfh6) 12. e6 Rg4+ 13. Kf1 Rh4 14. Ke1 Ke4 15. Kd2 $1 1-0  
+
+[Event " Honorable Mention, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Becker R, Akobia Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2R5/n7/8/4bP2/7n/2p1K3/8/6k1 w - - 0 1"]
+
+ 1. Rc5 (1. Rc4 $2 Ng2+ $1 2. Kd3 Nb5 3. Rc5 Ne1+ 4. Ke4 Bd6 5. Rc4 c2 6. f6 Bb4 ) 1... Ng2+ (1... Bf6 2. Kd3 Nf3 3. Rxc3) 2. Kd3 Ne1+ 3. Ke2 Bd4 4. Rc4 Nc2 $1 5. Kd3 (5. Kd1 $2 Ne3+) 5... Nb5 6. f6 $1 (6. Kxc2 $2 Na3+) 6... Bxf6 (6... Ne1+ 7. Ke2 Ng2 8. f7 Bg7 (8... Nf4+ 9. Kd1) 9. Rc8 Nd4+ 10. Kd3) 7. Rg4+ Kf2 ( 7... Kh2 8. Kxc2 Na3+ 9. Kd1 Kh3 10. Rg6) 8. Rf4+ $1 (8. Kxc2 $2 Na3+ 9. Kd1 ( 9. Kd3 c2) 9... Ke3) 8... Ke1 (8... Kg3 9. Rxf6) 9. Kxc2 $1 (9. Rxf6 $2 Nb4+ 10. Ke4 c2 11. Rh6 Nc3+ 12. Kf3 Ne2 13. Rh1+ Kd2) 9... Na3+ (9... Nd4+ 10. Kd3 c2 11. Re4+) 10. Kc1 (10. Kd3 $2 c2) (10. Kb3 $2 c2) 10... Bg7 (10... Bg5 { <main>}) (10... Bd8 {<main>} 11. Rf5 (11. Re4+ $2 Kf2 12. Re2+ Kf3) (11. Rf6 $2 Ke2) 11... Bb6 12. Rf3) 11. Re4+ (11. Rf6 $2 Ke2 $1 (11... Bxf6 $2)) (11. Rh4 $2 Ke2) 11... Kf2 (11... Kf1 {<main>} 12. Re2 $1 (12. Re6 $2 Kf2 $1 13. Ra6 Nc4 14. Kc2 Ke2 15. Rc6 Ne3+) 12... Bh6+ (12... Kxe2) 13. Kd1 Nc4 14. Re6 Ne3+ 15. Kc1 Bf4 16. Re4 (16. Rf6 $2 Nd5+) 16... Bg5 17. Re5 Bh6 18. Re6) 12. Re6 $1 Bd4 13. Kd1 $1 Bc5 14. Rc6 Bd4 15. Re6 Kf3 16. Re8 $1 (16. Re7 $2 Bb6 17. Re6 Bc7 18. Rc6 Be5) 16... Kf2 17. Re6 $1 (17. Re7 $2 Bc5 18. Re2+ Kf3 19. Re6 Be3 20. Rc6 Bd4) 17... Bg7 18. Kc1 (18. Re2+ $2 Kg3 19. Re6 (19. Ra2 Bf8 20. Re2 Kf3 21. Re6 Bc5) 19... Kf3 20. Kc1 Bd4 21. Kd1 Kf4 22. Re8 Kf5 23. Re2 Be5) 18... Kf3 19. Kd1 $1 (19. Ra6 $2 Nc4 20. Rg6 Be5 $1 21. Kc2 Ne3+ 22. Kd3 Ng2 $1 23. Kc2 Ne1+ 24. Kb3 Ke4 $1 25. Rg1 Nf3 26. Rd1 Nd2+ 27. Kc2 Nc4 28. Rd8 Na3+ 29. Kb3 c2 30. Rc8 Kd3) 19... Bd4 20. Re8 Be3 21. Rc8 Bd4 22. Re8 Bg7 23. Re6 Bh8 24. Re7 (24. Re8 $2 Bd4 $1 25. Re6 Kf4) (24. Re1 $2 c2+ 25. Kc1 Bd4 26. Kd2 Bb2 27. Re3+ Kf4 28. Re1 Kf5) 24... Kf2 25. Re2+ (25. Re8 $2 Bg7 $1 26. Re2+ Kg3 $1 (26... Kf3 $2 27. Re6)) (25. Re4 $2 Bg7 $1 26. Re6 Kf3) 25... Kf3 26. Re7 Bd4 27. Re8 1/2-1/2  
+
+[Event " Honorable Mention, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Ryabinin N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6k1/3PK3/4n3/1n6/8/3P3b/4B3 w - - 0 1"]
+
+ 1. d4 (1. d7 $2 Nf7 2. Bh4 Nc6) 1... Nec6 (1... Ned3 2. d7 Bc7 3. Bh4 Nc6 4. d8=Q Nxd8+ 5. Kd7) 2. Bc3 $1 (2. d5 $2 Nd4+ 3. Kd7 Nxd5) 2... Kf8 3. d5 Nd8+ 4. Kd7 Na2 (4... Nxd5 5. Kxd8 Nxc3 6. d7 Na4 7. Kc8 Nb6+ 8. Kd8 Nc4 (8... Kf7) 9. Kc8 Nd6+ 10. Kc7 Nf7+ 11. Kc8 Ke7 12. d8=Q+ $1 Nxd8) 5. Kxd8 Nxc3 6. d7 Na4 $1 (6... Nb5 7. Kc8 (7. d6 $2 Be5 8. Kc8 Nxd6+) 7... Nd6+ 8. Kc7 Nf7+ 9. Kc8 Ke7 10. d8=Q+ Nxd8 11. d6+ $1 Ke8 12. d7+ Ke7) 7. d6 $1 (7. Kc8 $2 Nb6+ 8. Kd8 Kf7 9. d6 Ke6) 7... Bxd6 8. Kc8 Nb6+ 9. Kd8 Ba3 10. Kc7 Nd5+ {<eg>} 11. Kc8 Ne7+ 12. Kc7 1/2-1/2  
+
+[Event "sp Honorable Mention, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Sidorov B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3kr3/R2p1p2/4p2q/8/8/4N1B1/8/1R2K3 w - - 0 1"]
+
+ 1. Rb8+ $1 (1. Ra8+ $2 Ke7 2. Rxe8+ Kxe8 3. Rb8+ Ke7 4. Bd6+ Kxd6 5. Nf5+ Kc7 $1) (1. Bc7+ $2 Ke7 2. Bd6+ Kxd6) 1... Ke7 2. Rxe8+ (2. Bd6+ $2 Kxd6 3. Nf5+ exf5+ 4. Rxe8 Qc1+) 2... Kxe8 3. Ra8+ Ke7 4. Bd6+ Kxd6 5. Nf5+ exf5 6. Ra6+ 1-0  
+
+[Event " Commendation, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Rossi P"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3kb3/3r3r/7B/bK6/8/6N1/8/4R3 w - - 0 1"]
+
+ 1. Bg5+ Rhe7 $1 (1... Rde7+ 2. Kxa5) (1... Kc7 2. Bf4+ Kb7 3. Rxe8) 2. Rxe7 (2. Bxe7+ $2 Rxe7+ 3. Kxa5 Rxe1) 2... Rd5+ (2... Ra7+ 3. Kc5 Rxe7 4. Nf5) 3. Ka6 $1 (3. Kc4 $2 Rxg5) 3... Rxg5 4. Rxe8+ $1 (4. Ne4 $2 Rg6+ 5. Kxa5 Kxe7) (4. Re3 $2 Bc7) 4... Kxe8 5. Ne4 Re5 (5... Rf5 6. Nd6+) (5... Rd5 6. Nf6+) (5... Rg4 6. Nf6+) (5... Rh5 6. Nf6+) 6. Nd6+ (6. Nf6+ $2 Kd8) 6... Kd7 7. Nc4 $1 1/2-1/2  
+
+[Event " Commendation, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Fomichev E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1N6/8/2K2b2/8/k3P1R1/1r6/8/8 w - - 0 1"]
+
+ 1. e5+ Ka5 2. exf6 (2. Nd7 $2 Bxe5) 2... Rb6+ (2... Rxb8 3. f7) 3. Kc5 Rxf6 4. Nc6+ Ka6 5. Ra4+ Kb7 6. Ra7+ Kc8 7. Kb6 Rf7 $1 8. Ra8+ (8. Rxf7 $2) (8. Ne7+ $2 Kd8 9. Nc6+ Kc8) 8... Kd7 9. Ne5+ 1-0  
+
+[Event " Commendation, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Topko L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1P6/8/2n3r1/4k2b/5b2/5PnK/6BB w - - 0 1"]
+
+ 1. b8=Q Bg3+ 2. Qxg3 Rh5+ 3. Qh3 Rxh3+ 4. Kxh3 Nf4+ 5. Kg3 $1 (5. Kh2 $2 Ncd3 6. Bxf3+ Kxf3 7. Kh1 Ne2 8. Bh2 (8. Kh2 Ndf4 9. Kh1 Nh3 10. Kh2 Nhxg1) 8... Nxf2#) 5... Ne2+ (5... Bxh1 6. f3+) 6. Kh2 Nd3 7. Bxf3+ (7. Bg2 $2 Ne5 8. Bh3 Kf4) 7... Kxf3 8. Kh1 1/2-1/2  
+
+[Event " Commendation, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/7N/6p1/4K3/2k5/p7/8/8 w - - 0 1"]
+
+ 1. Rb1 Kc3 2. Ke4 g5 $1 3. Nf8 $1 (3. Nxg5 $2 a2 4. Ra1 Kb2) 3... g4 4. Ne6 a2 5. Ra1 Kb2 6. Kd3 g3 7. Nd4 Kxa1 8. Kc2 g2 9. Nb3# 1-0  
+
+[Event "sp Commendation, Razumenko-70 JT Zadachy i Etyudy {m}"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Gargolin P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K6/7p/4P3/k1p1N3/8/1pP1P3/rpN5/8 w - - 0 1"]
+
+ 1. Na3 $1 (1. Nc4+ $2 Kb5 2. N2a3+ (2. e7 Kxc4 3. e8=Q b1=Q) 2... Rxa3 3. Nxa3+ Kc6) 1... Rxa3 2. e7 (2. Nc4+ $2 Kb5 3. Nxa3+ Kc6) 2... b1=Q 3. Nc4+ Ka6 4. e8=N $1 (4. e8=Q $2 Qg6 5. Qc8+ Kb5 6. Nxa3+ Ka4 7. Nc4 Kb5 8. Nb2 Qb6+ 9. Qb7 Qxb7+ 10. Kxb7 h5) 4... Kb5 (4... Qg6 5. Nc7#) 5. Nxa3+ Ka4 6. Nxb1 1-0  
+
+[Event "1 Prize, Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Amann G"]
+[Black "*"]
+[Result "*"]
+[FEN "4kq2/pK3p2/p2Rp3/P3P1N1/8/8/6P1/8 w - - 0 1"]
+
+ 1. Nh7 $1 Qe7+ (1... Qh6 2. Nf6+ Kf8 3. Rd8+ Kg7 4. Rg8#) 2. Kc8 f6 3. Ng5 $3 ( 3. Nxf6+ $2 Kf8 4. Rd8+ Kg7 5. Rd7 Kh8 6. Rxe7 {stalemate}) 3... fxg5 4. g4 $1 Kf8 5. Rd8+ Kf7 6. Rd7 $18 *  
+
+[Event "2 Prize, Shach 2008-2009 {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "*"]
+[Result "*"]
+[FEN "1kn3R1/2p5/8/1NP5/7P/8/4r3/2K5 w - - 0 1"]
+
+ 1. Nd6 $3 (1. Nd4 $2 Re4 2. Nc6+ Kb7 3. Nd8+ Ka6 4. h5 Kb5 5. c6 Ne7 6. Re8 Rc4+ 7. Kd2 Nxc6 $11) 1... cxd6 2. cxd6 Re1+ 3. Kc2 (3. Kd2 $2 Re6 $11) 3... Re2+ 4. Kc3 Re3+ 5. Kc4 Re4+ 6. Kc5 (6. Kd5 $2 Re1 7. h5 Rd1+ 8. Kc5 Rc1+ 9. Kd4 Rd1+ 10. Ke5 Re1+ 11. Kf6 Rd1 12. Rd8 Kb7) 6... Re5+ 7. Kc6 Re6 8. Rd8 Rf6 $1 (8... Rh6 9. h5 {zz}) 9. Kc5 $3 (9. h5 $2 Rh6 {zz}) (9. Kd5 $2 Kb7 10. Ke5 Rh6 11. d7 Nd6 12. Rf8 Nf7+ 13. Rxf7 Kc7 $11) 9... Rf5+ 10. Kd4 (10. Kb4 $2 Kb7 11. d7 Ne7 12. Rb8+ Ka7 $11) 10... Kb7 11. d7 Ne7 12. Rb8+ $18 *  
+
+[Event "3 Prize, Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Prusikin M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4P3/kp6/1p1RN2b/3pNr2/Pp6/3P1P2/4K3 w - - 0 0"]
+
+ 1. d3 $1 Rxe4+ $1 2. Kd2 $1 Re1 $1 3. Nf3 $1 Bxf3 4. Kxe1 b2 5. Rxb5 Kxb5 6. e8=Q+ Ka5 7. Kd2 b1=Q 8. Qa4+ Kxa4 {stalemate} 1/2-1/2  
+
+[Event "1 Honorable Mention, Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Prusikin M"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/6R1/2k1p3/6PK/2p1bP2/8/8 w - - 0 0"]
+
+ 1. Rg8 $1 Kc4 2. Rc8+ Bc5 3. Ra8 c2 4. Ra1 Be3 5. g5 Kd5 6. Kg4 Ke6 7. Ra6+ Kf7 8. Rf6+ $1 (8. Rc6 $5 c1=Q 9. Rxc1 Bxc1 10. Kf5 Bf4 11. g6+ Kg7 {zz-+}) 8... Kg7 9. Rc6 c1=Q 10. Rxc1 Bxc1 11. Kf5 Bf4 12. g6 {zz} Bg3 13. Kg4 Bh2 14. Kg5 Bg1 15. Kf5 Bh2 16. Kg5 $11 *  
+
+[Event "2 Honorable Mention, Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Sonntag G"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/5p1P/8/8/5k2/1K6/5Bb1 w - - 0 0"]
+
+ 1. Be2+ $1 (1. Kc3 $5 Bh2 $1 2. Be2+ Ke3 $1 $11) (1. Bg2+ $5 Kg4 $1 2. Kc3 Bh2 $11) 1... Ke4 (1... Kxe2 2. Kc3 Bh2 3. Kd4 Be5+ 4. Ke4 Bb2 5. Kf5 $18) 2. Kc2 Bd4 ({main} 2... f5 3. Bf3+ $1 Kxf3 4. Kd3 Bh2 5. Kd4 Bf4 6. h7 Bc1 7. Kc3 $18) 3. Bd3+ Kf4 4. Bf5 $1 Kxf5 5. h7 $18 *  
+
+[Event "3 Honorable Mention, Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Eilazyan E"]
+[Black "*"]
+[Result "*"]
+[FEN "7N/1Q6/4q3/1n1p2B1/3P4/5k2/K3p2P/5N2 w - - 0 1"]
+
+ 1. Nd2+ Kg4 2. h3+ $1 (2. Bh4 $2 Qe3 3. Qxb5 Qxd2+ 4. Qb2 Qxb2+ 5. Kxb2 Kxh4 6. Ng6+ Kg5 7. Ne5 e1=N $11) 2... Kxh3 3. Ng6 $1 Qxg6 (3... e1=Q 4. Nf4+ Kg4 5. Nxe6 Qxe6 6. Qxb5 Kxg5 7. Nf3+ $18) 4. Qd7+ $1 Kg3 (4... Kh2 5. Qxb5 Qc2+ 6. Ka3 $1 Qc3+ $1 7. Qb3 $1 Qa1+ 8. Qa2 $1 Qc3+ 9. Nb3 $18) 5. Qxb5 Qc2+ 6. Qb2 ( 6. Ka3 $5 e1=Q (6... Qc3+ $2 7. Qb3 $1) 7. Bh4+ Kxh4 8. Nf3+ Kg4 9. Nxe1 Qc3+ 10. Ka2 Qxd4 $11) 6... Qa4+ 7. Qa3+ Qxa3+ 8. Kxa3 Kg4 9. Bh4 $1 (9. Nf3 $5 Kxf3 10. Bd2 Ke4 $11) 9... Kxh4 10. Nf3+ Kg3 11. Ne1 Kf4 12. Kb4 $3 Ke3 ({main} 12... Ke4 13. Kc5 ({thematic try} 13. Kc3 $5 Ke3 14. Nc2+ Ke4 $11) 13... Ke3 14. Kxd5 $18) 13. Kc3 Ke4 14. Nc2 {zz} Kf3 15. Kd3 {(d2) +-} *  
+
+[Event "c  Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Sizonenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/8/8/6N1/6p1/1N5p/3K1p2/6k1 w - - 0 0"]
+
+ 1. Nxh3+ gxh3 2. Ke2 h2 3. Nd2 h1=Q 4. Rg8+ Kh2 5. Nf1+ Kh3 6. Rh8+ Kg2 7. Ne3+ Kg1 8. Rg8+ Kh2 9. Ng4+ (9. Kxf2 $2 Qa1 $11) 9... Kg1 10. Ne5+ Kh2 11. Kxf2 Qa1 12. Rh8# 1-0  
+
+[Event "c  Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Prusikin M"]
+[Black "*"]
+[Result "*"]
+[FEN "8/8/2P3p1/1R1BPbk1/1p6/4r3/8/6K1 w - - 0 0"]
+
+ 1. e6 Kf6 2. Rb8 $1 Rc3 3. Rf8+ Ke7 4. Rf7+ Kd6 5. Rd7+ Kc5 6. e7 Re3 7. Be6 $1 Rxe6 8. c7 Re1+ 9. Kf2 Bxd7 10. Kxe1 $18 *  
+
+[Event "c  Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Melnichenko E"]
+[Black "*"]
+[Result "*"]
+[FEN "4B3/6rk/5Kp1/6P1/3p4/1pp5/ppp2R2/8 w - - 0 0"]
+
+ 1. Bf7 Kh8 2. Rh2+ Rh7 3. Re2 Rg7 4. Re8+ Kh7 5. Re4 Kh8 6. Rh4+ Rh7 7. Rxd4 Rg7 8. Rh4+ Rh7 9. Rc4 Rg7 10. Rc8+ Kh7 11. Rxc3 Kh8 12. Rc8+ Kh7 13. Rc4 Kh8 14. Rh4+ Rh7 15. Rb4 Rg7 16. Rb8+ Kh7 17. Rxb3 Kh8 18. Rh3+ Rh7 19. Rd3 {(e3)} Rg7 20. Rd8+ Kh7 21. Rd2 Kh8 22. Rh2+ Rh7 23. Rxc2 $18 *  
+
+[Event "c  Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "????.09.07"]
+[Round "?"]
+[White "Mikitovics J"]
+[Black "*"]
+[Result "*"]
+[FEN "2k5/8/P6P/Q7/3qprN1/8/4n1R1/5K2 w - - 0 0"]
+
+ 1. Nf2 Ng3+ 2. Kg1 Ne2+ 3. Kf1 Ng3+ (3... Rxf2+ 4. Rxf2 Qd1+ 5. Qe1 Ng3+ 6. Kg2 Qxe1 7. a7 Kb7 8. Rf7+ Ka8 9. h7 $11) 4. Kg1 e3 5. Nh3 e2+ 6. Kh2 Rf3 7. Rxg3 Qd6 $1 8. Nf4 $1 Rxf4 9. Qc3+ Kd7 10. Qg7+ Ke8 11. Qg8+ Rf8 12. a7 Qxh6+ 13. Rh3 Qd6+ 14. Rg3 $11 *  
+
+[Event "c  Schach 2008-2009 {m}"]
+[Site "?"]
+[Date "????.09.07"]
+[Round "?"]
+[White "Amann G"]
+[Black "*"]
+[Result "*"]
+[FEN "8/4p1B1/2p5/k7/Nq4P1/6K1/1P1n4/R7 w - - 0 1"]
+
+ 1. Bc3 Ne4+ 2. Kf3 Nxc3 3. bxc3 Qb5 (3... Qb8 4. Nc5+ Kb5 5. Rb1+) (3... Qd6 4. Nb2+ Kb5 5. Ra5+ $1 $18) 4. c4 $1 Qg5 5. Nc5+ Kb6 6. Ra6+ Kxc5 7. Ra5+ $18 *  
+
+[Event "Prize, Shakhmatnaja kompozitsija {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Shupletsov V, Maksimovskikh A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2k2b2/P7/3P4/1r1B1N2/5n2/6K1/8 w - - 0 1"]
+
+ 1. d6+ Kb8 $1 (1... Kxd6 2. Bc5+ $1 Kxc5 3. Nd3+) (1... Kc6 2. a7 Kb7 3. Bc3 $1 Rxf4 4. d7 Nh4+ 5. Kg1 Rg4+ 6. Kf2 Rg2+ 7. Ke3 Nf5+ 8. Ke4 Nd6+ 9. Kf4 Rg8 10. Bf6 $11) 2. a7+ Ka8 3. Bc3 $1 Rxf4 4. d7 Nh4+ 5. Kg1 $1 Rg4+ (5... Nf3+ 6. Kh1 $1) 6. Kf2 Rg2+ (6... Rg8 7. Bf6) 7. Ke3 Nf5+ $1 8. Kd3 Bc4+ 9. Kxc4 Nd6+ 10. Kd5 Nb7 11. Ke6 Kxa7 12. Ba5 Rg8 13. Bc7 $1 (13. Kf7 $2 Ra8 $1 14. Bc7 Ka6 15. Ke6 Kb5 16. Ke7 Kc5 $1 17. d8=Q Nxd8 18. Bxd8 Kc6 $19) 13... Ra8 14. Ke7 $11 { Judge: O.Pervakov.} 1/2-1/2  
+
+[Event "Sp prize, Shakhmatnaja kompozitsija  {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Eilazjan E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/1r6/2b5/3k4/8/5N2/7P/7B w - - 0 1"]
+
+ 1. Ne5+ $1 Kxe5 2. Bxc6 Rb6 3. Bb7 Kd6 4. Kb8 Kd7 5. h4 $1 {zz} (5. h3 $2 Kd8 6. h4 Kd7 7. h5 Kd8 8. Ka7 Kc7 9. Be4 Rb4 $1 10. Bc2 Rb2 $19) 5... Kd8 6. h5 Kd7 7. h6 Rxh6 8. Bc8+ Kc6 9. Bg4 $1 Rf6 10. Bd1 $1 Rf4 11. Ka7 $11 1/2-1/2  
+
+[Event "1 HM, Shakhmatnaja kompozitsija  {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Markov E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K2Nk2/7n/8/6Rb/3P4/4p3/3n1B2 w - - 0 0"]
+
+ 1. Rf4+ Bf6 $1 2. Bxe2 Nc3 $1 3. Nf5 Nxf5 (3... Nxe2 4. Nxh6+ Kg6 5. Rf2) 4. Bh5+ Ke6 5. Bg4 Nb5 $1 6. Bxf5+ Ke5 7. Rb4 $1 ({Try} 7. Ra4 $2 Kxf5 8. Ra5 Kf4 9. Rxb5 Ke3 10. Rb3 Kd4 $11) 7... Nd6+ 8. Kc6 Nxf5 9. Re4# 1-0  
+
+[Event "2HM, Shakhmatnaja kompozitsija {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Kaljagin V, Kudelich E, Olimpiev V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/2kP2p1/5P2/b3nN2/5p1B/5n2/b4R1r/8 w - - 0 1"]
+
+ 1. d8=Q+ $1 Kxd8 2. fxg7+ Rxh4+ $1 (2... Nxh4 3. Rxh2 Nf7+ 4. Kh7 Ng5+ 5. Kh6 Nxf5+ 6. Kxg5 Nxg7 7. Rxa2 Bc7 8. Kg4 Kd7 9. Rb2 Ne6 10. Kf5 Nc5 11. Rf2 Kc6 12. Rxf4 $11) 3. Nxh4 Nf7+ 4. Kg8 Nh6+ 5. Kh7 $1 (5. Kh8 $2 Nxh4 6. Rxa2 Bc3 7. Ra3 Bf6 8. Kh7 N4f5 9. g8=Q+ Nxg8 10. Kxg8 Ke7 $19) 5... Bg8+ 6. Kxh6 Nxh4 7. Kg5 Be1 8. Rxf4 Bd2 9. Kf6 Bc3+ 10. Kg5 Bd2 11. Kf6 Bxf4 {stalemate.} 1/2-1/2  
+
+[Event "3HM,Shakhmatnaja kompozitsija {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Vlasenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4K3/7n/7p/2P5/k2P4/8/4N2b w - - 0 1"]
+
+ 1. Kf6 h4 2. Kg5 h3 3. Kh4 h2 4. Kh3 $1 Ng4 5. Ng2 Kb4 6. Kg3 Kc5 7. Kh3 Kd4 8. Kg3 Kxd3 9. c5 $11 1/2-1/2  
+
+[Event "Sp HM,Shakhmatnaja kompozitsija {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Zinar M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/pp4p1/1pP3Pp/kp6/1P4pp/3P3P/6P1/6K1 b - - 0 1"]
+
+ 1... Ka6 2. c7 g3 3. c8=N $1 h5 4. Nxa7 Kxa7 5. Kf1 Kb8 6. Ke2 Kc7 7. Kf3 (7. Ke3) 7... Kd6 8. Kf4 $1 Kd5 $1 9. Kf5 $1 Kd4 10. Ke6 Ke3 11. Kf7 Kf2 12. Kxg7 Kxg2 13. Kh6 Kxh3 14. g7 g2 15. g8=R $1 Kh2 16. Kxh5 h3 17. Kh4 g1=Q 18. Rxg1 Kxg1 19. Kxh3 Kf2 20. d4 Ke3 21. d5 Kd4 22. d6 Kd5 23. d7 Kc6 24. d8=R (24. d8=B) 1-0  
+
+[Event "comm, Shakhmatnaja kompozitsija {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Zinar M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6p1/pP3pP1/P4P2/p1P4p/Pp1p2pP/1k4P1/4K3 w - - 0 1"]
+
+ 1. Kd2 $1 Kxa3 2. b7 b2 3. b8=R $1 Ka2 4. c5 b1=Q 5. Rxb1 Kxb1 6. c6 a3 7. c7 a2 8. c8=Q a1=Q 9. Qc1+ $1 Ka2 10. Qxa1+ Kxa1 11. Kxd3 Kb2 12. Ke4 (12. Kc4) ( 12. Kd4) 12... Kc2 13. Kd5 $1 Kd3 14. Ke6 Ke3 15. Kf7 Kf2 16. Kxg7 Kxg2 17. Kxf6 $1 (17. Kh6 $2 Kxh3 18. g7 g2 19. g8=R Kh2 20. Kh5 h3 $11) 17... Kxh3 18. g7 g2 (18... Kg2 19. g8=Q h3 20. Ke5 h2 21. f6 h1=Q 22. Qd5+) 19. g8=R $1 Kh2 20. Ke6 $1 g1=Q 21. Rxg1 Kxg1 22. f6 h3 23. f7 h2 24. f8=Q h1=Q 25. Qc5+ $1 1-0  
+
+[Event "comm, Shakhmatnaja kompozitsija {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Kalashnikov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k4n2/7B/3B4/3pK3/P7/1P6/7p/8 w - - 0 1"]
+
+ 1. Bg8 Nd7+ 2. Kd4 h1=Q 3. Bxd5+ Qxd5+ 4. Kxd5 Nb6+ 5. Kc6 Nxa4 6. Be5 $1 { Domination No1} (6. bxa4 $2 $11) 6... Nb6 7. Bd4 Nc8 8. Bc5 Kb8 9. b4 Ka8 10. Kc7 $1 {Domination No2} Na7 11. Bxa7 Kxa7 {A.Hildebrand 1954} 12. b5 Ka8 13. Kb6 Kb8 14. Ka6 Ka8 15. b6 Kb8 16. b7 1-0  
+
+[Event "comm, Shakhmatnaja kompozitsija {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Dubrovskij V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/4P3/4P3/5N1p/8/8/1K6/n7 w - - 0 1"]
+
+ 1. Kc3 $1 (1. Kxa1 $2 h4 2. Nxh4 Kxe7 $11) 1... h4 2. Kc4 Nc2 (2... Nb3 3. Kxb3 h3 4. Kc4 h2 5. Ng3 Kxe7 6. Kd5) 3. Kd5 Na3 4. Ke5 $1 Nc4+ 5. Kf6 h3 6. Ng7# 1-0  
+
+[Event "Sp comm, Shakhmatnaja kompozitsija {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5K2/8/5p2/5r2/5k2/8/5B2/8 w - - 0 1"]
+
+ 1. Kf7 $1 Kg4 (1... Ke4 {main} 2. Bh4 $1 Ke5 3. Bg3+ Ke4 4. Bh4 Ke5 5. Bg3+ Kd5 6. Bh4 Ke5 7. Bg3+) 2. Bd4 $1 Kg5 3. Be3+ Kg4 4. Bd4 Kg5 5. Be3+ Kh5 6. Bd4 $1 Kg5 7. Be3+ 1/2-1/2  
+
+[Event "Prize, Sredba na Solidarnosta 2008-009 {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "*"]
+[Result "*"]
+[FEN "1b6/r2p1k2/8/1R1b3R/8/1n1K4/8/1nB5 w - - 0 1"]
+
+ 1. Bb2 $1 (1. Be3 $2 Ra3 2. Rhxd5 Na1+ 3. Kc4 Rc3+ 4. Kd4 Nc2+ $19) (1. Bh6 $2 Nc5+ 2. Rxc5 Ra3+ 3. Kd4 Be6 $19) 1... Ra2 2. Rh7+ (2. Rhxd5 $2 Rxb2 3. Rxd7+ Ke6 4. Rdb7 Nc1+ 5. Ke3 Re2+ 6. Kd4 Rd2+ 7. Ke3 Rd3+ 8. Kf2 Bg3+ $19) 2... Ke6 3. Rh6+ Kf7 4. Rh7+ (4. Rxd5 $2 Rxb2 5. Rxd7+ Ke8 $19) 4... Kg6 5. Rxd7 Be6 6. Rg7+ Kh6 7. Rg2 Bd6 8. Bg7+ Kh7 9. Rh5+ (9. Rxa2 $2 Nc1+ 10. Kc2 Nxa2 11. Bb2 Na3+ $19) 9... Kg8 10. Rxa2 Nc1+ 11. Kc2 Nxa2 12. Ba1 $3 (12. Rh6 $2 Na3+ 13. Kb2 Bd5 14. Rxd6 Nc4+ $19) 12... Na3+ 13. Kb2 Bf8 14. Rh8+ $1 (14. Rg5+ $2 Kf7 {zz}) 14... Kxh8 {stalemate. The unconditional leader of the given tournament. The stalemate with lock-out of the bishop is known, but here this idea is realized crystal-clear!} *  
+
+[Event "1 Honorable Mention, Sredba na Solidarnosta 2008-009 {m}"]
+[Site "?"]
+[Date "2009.07.24"]
+[Round "?"]
+[White "Pagani M, Campioli M"]
+[Black "*"]
+[Result "*"]
+[FEN "8/6Pk/7p/8/8/5KRn/4pp1N/5r2 b - - 0 1"]
+
+ 1... Ng1+ $1 (1... Kg8 2. Kxe2 Rh1 3. Nf1 $11) 2. Kg2 Kg8 3. Ng4 Kxg7 4. Nxf2+ Kf8 $1 5. Nd3 Rd1 (5... h5 6. Re3 Rd1 7. Kf2 {main line}) 6. Kf2 Rf1+ 7. Kg2 h5 8. Re3 (8. Kh2 $2 Nf3+ $19) 8... Rd1 9. Kf2 Rf1+ 10. Kg2 Rd1 11. Kf2 { positional draw, or} 11... h4 12. Ne1 $11 {The sympatic positional draw} *  
+
+[Event "2 Honorable Mention, Sredba na Solidarnosta 2008-009 {m}"]
+[Site "?"]
+[Date "2009.07.24"]
+[Round "?"]
+[White "Mihajloski Z"]
+[Black "*"]
+[Result "*"]
+[FEN "k7/N4qp1/P7/3b3p/2p2N2/2P2p1B/2P2K2/4R3 w - - 0 1"]
+
+ 1. Nb5 Bc6 2. Re8+ (2. Nd5 $2 Bxb5 3. Be6 Qa7+ 4. Kxf3 Bc6 $11) 2... Bxe8 3. Be6 Qf6 4. Bd5+ Bc6 5. Bxc6+ Qxc6 6. Ne6 $1 (6. Nd5 $2 Qc5+ $1 7. Kf1 g5 $1 8. Ndc7+ Kb8 9. a7+ Qxa7 $1 10. Nxa7 Kxc7 $11) 6... Qb6+ 7. Kxf3 Kb8 8. a7+ Kb7 9. Nec7 Qf6+ 10. Ke2 $1 (10. Ke4 $2 Qc6+ 11. Ke3 Qc5+ 12. Ke2 Qe7+ {loss of time}) 10... Qe7+ 11. Kd1 $1 Qd8+ 12. Kc1 h4 13. a8=Q+ Qxa8 14. Nxa8 h3 15. Nd6+ $18 { Sharp enough play. It is necessary to note accurate moves of wK.} *  
+
+[Event "s Honorable Mention, Sredba na Solidarnosta 2008-009 {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Mihajloski Z"]
+[Black "*"]
+[Result "*"]
+[FEN "k3K3/6p1/8/8/6p1/4pp2/7p/7R w - - 0 1"]
+
+ 1. Kd7 Kb8 2. Rb1+ Ka7 3. Kc7 Ka6 4. Kc6 Ka5 5. Kc5 Ka4 6. Kc4 Ka3 7. Kc3 Ka2 8. Rb2+ Ka1 9. Rxh2 g3 (9... f2 10. Rh1+ Ka2 11. Kd3 {as in main line}) 10. Rh1+ ({try} 10. Rh8 $5 e2 (10... Kb1 $2 11. Rb8+ Kc1 12. Ra8 Kb1 13. Rb8+ $11) 11. Kc2 e1=N+ $1 $19) 10... Ka2 11. Kd3 f2 12. Kxe3 g2 13. Ra1+ $1 $11 { Very known idea, but the author has added with its fresh moments e1N! and Ra1+! } *  
+
+[Event "1 Commendation, Sredba na Solidarnosta 2008-009 {m}"]
+[Site "?"]
+[Date "2009.07.24"]
+[Round "?"]
+[White "Pagani M, Campioli M"]
+[Black "*"]
+[Result "*"]
+[FEN "K1nN4/2P1P1n1/7b/k7/1p6/3P4/8/8 w - - 0 1"]
+
+ 1. Kb7 $1 (1. Kb8 $2 Nxe7 2. Nc6+ Nxc6+ 3. Kb7 Ne7 $19) 1... Nd6+ (1... Nxe7 2. Nc6+ $11) 2. Kc6 Nc8 3. Kb7 $1 (3. Kd7 $2 Nb6+ 4. Kc6 Ka6 5. Ne6 Ne8 6. Nc5+ Ka7 7. Na4 Nc8 8. Kd7 Ned6 9. Nc5 Bf4 $19) 3... Nxe7 4. Nc6+ Kb5 5. Nxe7 Ne8 6. c8=Q Nd6+ 7. Kc7 Nxc8 8. Nxc8 $1 Bf8 ({main} 8... Bf4+ 9. Kb7 Be3 10. Nd6+ Kc5 11. Nc4 $11) 9. Nb6 Bd6+ 10. Kb7 $1 b3 11. Nc4 $11 *  
+
+[Event "2 Commendation, Sredba na Solidarnosta 2008-009 {m}"]
+[Site "?"]
+[Date "2009.07.24"]
+[Round "?"]
+[White "Pagani M, Campioli M"]
+[Black "*"]
+[Result "*"]
+[FEN "8/2p1p2p/p6p/p1k1PPK1/P3p3/8/3N2P1/6n1 w - - 0 1"]
+
+ 1. Kf4 $1 (1. Kxh6 $2 e3 $19) 1... Ne2+ 2. Ke3 $1 (2. Kxe4 $2 Nc3+ 3. Kf4 Kd5 4. Nf1 Nd1 5. e6 c5 $19) 2... Nc3 3. Nxe4+ Nxe4 4. Kxe4 h5 5. f6 $1 exf6 6. exf6 Kd6 7. f7 Ke7 8. Kd5 Kxf7 9. Kc6 Ke6 10. Kxc7 Kd5 11. Kb6 Kc4 12. Kxa5 Kb3 13. g3 $11 *  
+
+[Event "3 Commendation, Sredba na Solidarnosta 2008-009 {m}"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "*"]
+[Result "*"]
+[FEN "1R6/1N3R2/4p3/p3N3/5K2/8/2pppp2/2rkqr2 w - - 0 1"]
+
+ 1. Nc4 e5+ 2. Ke4 $1 Rb1 3. Nc5 $1 Rxb8 4. Nd3 Rb4 5. Nxb4 Kc1 ({main} 5... Rh1 6. Ne3+ Kc1 7. Nd3+ Kb1 8. Rb7+ Ka1 (8... Ka2 9. Rb2+ Ka1 10. Nxc2#) 9. Nxc2+ Ka2 10. Rb2#) 6. Na2+ Kb1 7. Nc3+ Ka1 ({main} 7... Kc1 8. Rb7 d1=Q 9. Na2#) 8. Ra7 d1=Q 9. Rxa5# *  
+
+[Event "1.Prize, Uralsky Problemist -15 JT  {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Bazlov Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K2k3/4n3/2pp4/8/6R1/8/1Q3pr1/8 w - - 0 1"]
+
+ 1. Qh8+ Kd7 2. Qh3 $1 f1=Q (2... Rh2 3. Qf1 (3. Qf3 $2 f1=Q 4. Qxf1 Rb2+ 5. Ka8 Ra2+ 6. Kb7 Rb2+ 7. Ka6 Ra2+ 8. Kb6 Nd5+ 9. Kb7 Rb2+ $11)) 3. Rf4+ Kd8 4. Rxf1 Rb2+ 5. Ka8 (5. Ka7 $2 Kc7 6. Qe6 Nc8+ 7. Ka6 Rb6+ 8. Ka5 Rb5+ 9. Ka4 Nb6+ 10. Ka3 Ra5+ 11. Kb3 Rb5+ 12. Kc2 Rc5+ 13. Kd3 Rd5+ $11) 5... Kc7 6. Qe6 Rb8+ 7. Ka7 Nc8+ 8. Qxc8+ $1 Rxc8 9. Rf7+ Kd8 10. Kb7 Ke8 11. Rh7 Rd8 12. Kc7 d5 13. Rh8+ 1-0  
+
+[Event "2.Prize, Uralsky Problemist -15 JT  {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Tkachenko SN"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N6/Q7/6k1/K2p4/4r3/p1P1R3/2q5 w - - 0 1"]
+
+ 1. Rg2+ Rg3 $1 2. Rxg3+ Kh4 3. Rh3+ $1 (3. Rg4+ $2 Kh3) 3... Kxh3 4. Qe6+ Kg3 $1 5. Qg8+ $1 (5. Qxa2 $2 d3 6. Qg8+ Kf2 7. Qf7+ Ke2 8. Qe6+ Qe3) (5. Qb3+ $2 d3 $1 6. Qxd3+ Kf2 7. Qf5+ Ke1 8. Qe6+ Kd1) 5... Kf2 6. Qxa2 d3 7. cxd3+ Ke3 8. Kb5 $1 Kxd3 9. Nc5+ Ke3 10. Qe6+ Kf3 $1 11. Qh3+ Ke2 12. Qh5+ $1 Kd2 (12... Kf2 13. Nd3+) (12... Ke3 13. Qg5+) (12... Ke1 13. Nd3+) (12... Kf1 13. Qh1+) 13. Nb3+ 1-0  
+
+[Event "4.Prize, Uralsky Problemist -15 JT  {m}"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1q6/8/7N/5B2/1pR5/p2K4/Qb4k1 b - - 0 1"]
+
+ 1... b2 2. Rc1+ bxc1=Q+ 3. Kxc1 Qc8+ 4. Kb2 Qh8+ 5. Ng7 Qxg7+ 6. Kc1 Qxa1 7. Be3+ Kf1 8. Bd4 Qxd4 {stalemate} 1/2-1/2  
+

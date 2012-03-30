@@ -1,0 +1,1100 @@
+[Event "Le Temps {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/2P5/P4kp1/1p6/7K/p7/3P2P1/1br5 w - - 0 1"]
+
+ 1. a7 Be4 2. Nc6 $1 {Nowotny} Rh1+ (2... Rxc6 3. a8=Q) (2... Bxc6 3. c8=Q) 3. Kg4 (3. Kg3 $1 $18) 3... Rh8 (3... Bf5+ $1) 4. Nd8 a2 5. a8=Q Bxa8 6. c8=Q Rh4+ 7. Kxh4 a1=Q 8. Qe6+ Kg7 9. Kg5 Qb1 10. Qd7+ Kg8 11. d3 Qc1+ 12. Kxg6 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1K5/p7/3pp2P/1P3p1R/2Pr4/8/1b1P4/8 w - - 0 1"]
+
+ 1. c5 dxc5 2. h7 Rg4 3. d4 $1 {Nowotny} Bxd4 (3... Rxd4 4. h8=Q) 4. b6 axb6 5. Rh2 Rg7 6. h8=Q Rc7+ 7. Kxc7+ Bxh8 8. Ra2# 1-0  
+
+[Event "Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/7N/Pp2P1p1/7k/8/1r6/3P4/5b1N w - - 0 1"]
+
+ 1. Ng3+ Rxg3 2. Nf6+ Kh4 3. d3 $1 {Nowotny} Rxd3 (3... Bxd3 4. a7) 4. e7 Re3 5. a7 Bg2 6. Ne4 $1 {Nowotny} Rxe4 (6... Bxe4 7. e8=Q) 7. a8=Q 1-0  
+
+[Event "British Chess Magazi-ne {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N3/8/1P3P2/3k4/8/8/3B2r1/K5b1 w - - 0 1"]
+
+ 1. b7 (1. f7 $2 Bd4+ 2. Kb1 Rf2 3. b7 Ba7) 1... Bh2 (1... Ba7 2. Be3 $1 Bb8 ({ but} 2... Bxe3 $1 3. b8=Q Bd4+ 4. Kb1 Rb2+ 5. Qxb2 Bxb2 6. f7 Ba3 $11) 3. f7 Be5+ 4. Kb1 Rb2+ 5. Kc1 $18) (1... Bd4+ 2. Kb1 Be5 3. Bc3 $1 Bb8 4. f7 $18) 2. f7 Rf2 3. Bf4 $1 {Nowotny} Bxf4 (3... Rxf4 4. Nc7+ $1 ({dual} 4. b8=Q $1 Rf1+ 5. Qb1 $18) 4... Ke4 5. b8=Q $18) 4. Nf6+ $1 Kd4 5. f8=Q 1-0  
+
+[Event "British Chess Magazi-ne {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5N2/1P4P1/2p5/2P1k3/8/4P1rb/3KB3 w - - 0 1"]
+
+ 1. Bg3 $1 {Nowotny} Rxg3 (1... Bxg3 2. Ng5+ Ke3 3. g7 $18) 2. Nd6+ Ke5 (2... Ke3 3. Nf5+ $18) 3. b7 1-0  
+
+[Event "Neue Leipziger Zeitung {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Herland S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/KpPN2P1/1P4p1/p2b2p1/6r1/8/2Bb4 w - - 0 1"]
+
+ 1. Bb2 $1 Bxb2 2. c7 Rc3 3. g7 Bb3 4. Nc4 $1 {Nowotny} Rxc4 (4... Bxc4 5. c8=Q# ) 5. g8=Q# 1-0  
+
+[Event "Magyar Sakkvilбg {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/3p4/P2P2P1/p1p1P3/K3p3/3P3B/P3p2P/3N3b w - - 0 1"]
+
+ 1. Nc3 $1 1... e1=Q 2. g7 (2. a7 $2 2... exd3 3. g7 Bc6+ 4. Kb3 Qg1) 2... Qg1 3. a7 3... exd3 $1 (3... Qd4+ 4. Kb5 $1 4... Qb4+ 5. Ka6) 4. Bg2 $1 4... Qd4+ $1 5. Kb5 $1 5... Qb4+ 6. Ka6 Qc4+ 7. Kb6 $1 7... Bxg2 8. Nd5 $1 1-0  
+
+[Event "Nieuwe Rotterdamse Courant {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B3/P1P5/4p2N/7K/3k1P2/8/4P1b1/2r5 w - - 0 1"]
+
+ 1. e3+ (1. Bc6 $5 Bxc6 2. Nf7) 1... Kxe3 2. Bc6 $1 {Nowotny} Rxc6 (2... Bxc6 3. Ng4+ $1 (3. c8=Q $2 Bf3+ 4. Ng4+ Bxg4+ 5. Kxg4 Rxc8 $19) 3... Kxf4 4. c8=Q $18) 3. Nf5+ $1 (3. a8=Q $2 Rc5+ 4. Nf5+ Rxf5+ 5. Kg6 Bxa8 $11) 3... exf5 4. a8=Q Bf3+ 5. Kg5 Rxc7 6. Qa3+ Kf2 7. Kxf5 1-0  
+
+[Event "Nieuwe Haagse Courant {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P1p1k3/p6P/r7/3N4/2N5/1PK3b1/8 w - - 0 1"]
+
+ 1. Nd5+ $1 {Nowotny} Bxd5 (1... Rxd5 2. Nc6+ $1 (2. a8=Q $2 Rc5+ $19) 2... Kf7 3. a8=Q) 2. Nf5+ $1 (2. h7 $2 Be4+ $19) 2... Kf6 3. h7 1-0  
+
+[Event "Residentiebode {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/P1NP2Kp/B3p3/7k/8/1p6/3r4/7b w - - 0 1"]
+
+ 1. Be2+ Kh4 2. Bd3 Rxd3 3. Nd5 $1 {Nowotny} Rxd5 (3... Bxd5 4. d8=Q+) 4. a8=Q Rxd7+ 5. Kh6 Bxa8 {stalemate} 1/2-1/2  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2N5/3P4/1P6/8/K7/2p4p/1k6/2br1N2 w - - 0 1"]
+
+ 1. Nd2 $1 {Nowotny} Rxd2 (1... Bxd2 2. d8=Q) 2. b7 Rd4+ 3. Ka5 $1 (3. Kb5 $2 Bf4 4. Nd6 $1 {Nowotny} Rxd6 $1 (4... Bxd6 5. d8=Q) 5. b8=Q Rd5+ 6. Kc6+ Bxb8 7. Kxd5 Bc7) 3... Bf4 4. Nd6 $1 {Nowotny} Bxd6 (4... Rxd6 5. b8=Q+) ({or} 4... Rd5+ $1 5. Ka4 Bxd6 6. d8=Q Rd4+ 7. Kb5 Rb4+ 8. Ka6 Bg3 $19) 5. d8=Q Bb4+ 6. Ka4 $1 Rxd8 7. b8=Q Rxb8 {stalemate} ({but} 7... Rd4 $1 $19) 1/2-1/2  
+
+[Event "Residentiebode {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7b/5P2/1P6/3N4/2K5/8/4Pr2/7k w - - 0 1"]
+
+ 1. Nf6 $1 {Nowotny} (1. b7 Be5) 1... Rxf6 (1... Bxf6 2. f8=Q) 2. b7 Rf4+ 3. Kd5 Rd4+ 4. Ke6 Rd8 5. Ke7 Rb8 6. f8=Q Rxf8 7. Kxf8 Be5 8. Ke7 Kg2 9. Ke6 Bb8 10. e4 Kf3 11. Kf5 1-0  
+
+[Event "Residentiebode {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3P4/PN6/8/pK6/4P3/3rbk2/8 w - - 0 1"]
+
+ 1. a7 Bf3 2. e4 Bxe4 3. Nd5 $1 {Nowotny} Rxd5 (3... Bxd5 4. d8=Q) 4. a8=Q Rxd7 5. Qxe4 1-0  
+
+[Event "Maas- en Scheldebode {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P2P2/1k1B4/8/8/K1P5/3br3 w - - 0 1"]
+
+ 1. f7 Rf1 2. Bf3 $1 {Nowotny} Bxf3 (2... Rxf3 3. c7) 3. c4+ Ka4 4. f8=Q Rf2+ 5. Ka1 Rf1+ 6. Kb2 Rf2+ 7. Kc3 1-0  
+
+[Event "Avondpost {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2PN4/5P2/8/8/3k1P2/5K2/b1rN4 w - - 0 1"]
+
+ 1. Nc3 $1 {Nowotny} (1. f7 $5) 1... Rxc3 (1... Bxc3 2. Nc5+ $18) 2. Ne5+ $1 (2. f7 $2 Rc2+ 3. Kg3 Bg7 $11) 2... Kc2 3. f7 1-0  
+
+[Event "Avondpost {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2PN4/7P/8/5K2/3k4/2r1N3/b7 w - - 0 1"]
+
+ 1. Nc3 $1 {Nowotny} Rxc3 (1... Bxc3 2. Nc5+ $1 $18) 2. Ne5+ $1 Ke2 3. h7 Rxc7 4. h8=Q 1-0  
+
+[Event "De Maasbode {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5p2/p1P2N1P/2p1P3/r7/P3k3/b1P5/3K4 w - - 0 1"]
+
+ 1. c4 $1 {Nowotny} Rxc4 (1... Bxc4 2. Ng4+ Kd3 3. h7 Rxa3 4. Nf2+ Kc3 5. Ke1 Ra1+ 6. Nd1+) 2. Nd5+ Kd3 3. c7 Rg4 4. Ke1 Rg8 5. Ne7 Rh8 6. c8=Q Rxc8 7. Nxc8 1-0  
+
+[Event "Deutsche Schachblдt-ter {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Hufendiek E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/K1P5/1Bp3P1/1p6/k7/pN5b/PP6/2r5 w - - 0 1"]
+
+ 1. g7 Rg1 2. Nc5+ Kb4 3. Nd3+ Kc4 4. Ne5+ Kd5 5. Ng4 $1 {Nowotny} 1-0  
+
+[Event "Revista Romana de Sah {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Barbieri V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3P4/5P1p/b7/8/k4KB1/8/3r4 w - - 0 1"]
+
+ 1. f7 Bb4 2. Bd6 $1 {Nowotny} Rxd6 $1 3. f8=Q Rd3+ 4. Ke4 ({minor dual} 4. Ke2) 4... Bxf8 5. Kxd3 1/2-1/2  
+
+[Event "Munchen Olimpiad {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7P/PN5k/p5N1/6PK/7P/1rb5 w - - 0 1"]
+
+ 1. h7 Bb2 2. a6 Rc1 (2... Rd1 3. Nd4 $1 {Nowotny} ({dual} 3. Ne3 $1 Rd8 4. Nc4 $18) 3... Bxd4 (3... Rxd4 4. h8=Q+) 4. a7) (2... Re1 3. Ne5 $1 {Nowotny} Bxe5 ( 3... Rxe5 4. h8=Q+) 4. a7) (2... Rf1 3. Nf6+ $1 {Nowotny} Bxf6 (3... Rxf6 4. h8=Q+) 4. a7) 3. Nc3 $1 {Nowotny} Bxc3 (3... Rxc3 4. h8=Q+) 4. a7 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Marwitz J, Veurman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/5p1P/p6p/P1P5/P7/4k1rP/5N2/b7 w - - 0 1"]
+
+ 1. c6 Rg1 (1... Rg6 2. Ng4+ Kf4 3. Nf6 $1 {Nowotny} Bxf6 (3... Rxf6 4. h8=Q) 4. c7) (1... Rg5 2. Ng4+ Ke2 3. Ne5 $1 {Nowotny} (3. Nxh6 $1) 3... Bxe5 (3... Rxe5 4. h8=Q) 4. c7 Bxc7 5. h8=Q Bf4 6. Qf6 Bd2) 2. c7 Rc1 3. Nd1+ Kd3 4. Nc3 $1 { Nowotny} Bxc3 (4... Rxc3 5. h8=Q) 5. c8=Q 1-0  
+
+[Event "ts23#831 {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Neistadt V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b7/8/1P4Pr/8/3P4/5N2/4k3/K6B w - - 0 1"]
+
+ 1. g7 Rg6 2. Nh4 Rg1+ {critical move} 3. Ka2 $1 (3. Kb2 $2 Bxh1 4. Ng2 {Nowotny } Rxg2 5. b7 Rxg7 6. b8=Q Rb7+) 3... Bxh1 {critical move} 4. Ng2 $1 {Nowotny} Rxg2 5. b7 Ke3+ (5... Ke1+ 6. Ka1 $1) 6. Ka3 $1 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/P1P2B1k/4p2p/3b3P/7K/8/8/2r5 w - - 0 1"]
+
+ 1. Bg6+ (1. Nc6 $2 {Nowotny} Rxc6 2. a8=Q Rc4+) (1. Nxe6 $1 Ba8 2. Be8) 1... Kg7 2. Be4 $1 Bxe4 3. Nc6 $1 {Nowotny} Rxc6 (3... Bxc6 4. c8=Q) 4. a8=Q 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/5B1k/4p2p/P1P4P/7K/8/b3r3/8 w - - 0 1"]
+
+ 1. Bg6+ (1. c6 $2 Re4+ 2. Kg3 Ra4 3. c7 Ra3+ 4. Kf4 Rc3) 1... Kg7 2. c6 Re1 ( 2... Rd2 3. Nb7 $1 Rd4+ 4. Kg3 Rc4 5. Be8 $1) (2... Bc4 3. c7 Ba6 4. Bd3) 3. a6 Bd5 4. a7 Ra1 5. c7 Rc1 (5... Ra4+ 6. Kg3 Rc4 7. Bd3 $1 Rc3 8. Nc6 $1 {Nowotny} ) (5... Rh1+ 6. Kg4 $1 Rc1 7. Nxe6+ Kf6 8. Bf5 Ke5 9. Nc5 $1 Rxc5 10. c8=Q Rxc8 11. Bxc8) 6. Be4 $1 Bxe4 7. Nc6 $1 {Nowotny} Rxc6 (7... Bxc6 8. c8=Q) 8. a8=Q 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/6k1/2P1p1Bp/P6P/7K/8/b7/4r3 w - - 0 1"]
+
+ 1. a6 Bd5 2. a7 Ra1 3. c7 Rc1 4. Be4 Bxe4 5. Nc6 $1 {Nowotny} Rxc6 (5... Bxc6 6. c8=Q) 6. a8=Q 1-0  
+
+[Event "Schackvдrlden {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Van Hensbergen P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k6K/p1p4p/Pp2P1P1/6p1/2Nr2B1/8/p7/3b4 w - - 0 1"]
+
+ 1. e7 Re4 (1... a1=Q 2. Ne5 Qa4 3. g7 Bb3 (3... Qe8+ 4. g8=Q Qxg8+ (4... Ba4 5. Bf3+ Kb8 6. Nc6+ Bxc6 7. Bxc6 Qxg8+ 8. Kxg8) 5. Kxg8 Ba4 6. Bf3+ Kb8 7. Nc6+ Bxc6 8. Bxc6) 4. Nd7 Re4 5. Be6) 2. Ne5 Rxe5 3. g7 Bb3 4. Be6 $1 {Nowotny} Bxe6 (4... Rxe6 5. g8=Q#) 5. e8=Q+ 1-0  
+
+[Event "Suomen Shakki {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Terho J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/5p2/P1bP4/p6p/5N1K/1r6/1P2P2P/8 w - - 0 1"]
+
+ 1. a7 Rb4 2. e3 Rxb2 3. e4 Bxe4 4. d7 Rxh2+ 5. Kg3 Rd2 6. Nd5 $1 {Nowotny} Bxd5 (6... Rxd5 7. a8=Q+ Kg7 8. Qxd5 Bxd5 9. d8=Q) 7. d8=Q+ Kh7 $1 (7... Kg7 8. Qg5+ ) 8. Kf4 Rf2+ 9. Ke5 Re2+ 10. Kd4 1-0  
+
+[Event "WLKSM-20 JT {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Shapovalov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/P2N4/6pP/p7/6k1/8/7P/r6b w - - 0 1"]
+
+ 1. h7 Rc1 (1... Rd1 2. Nf6+ Kg5 3. Nd5 $1 {Nowotny} Bxd5 4. Kg7) (1... Re1 2. Nf6+ Kg5 3. Ne4+ $1 {Nowotny} Bxe4 4. Kg7) (1... Ra3 2. Ne5+ Kg5 3. Nf3+ $1 { Nowotny} Bxf3 4. Kg7) (1... Ra2 2. h3+) 2. Ne5+ Kg5 3. Nc6 $1 {Nowotny} Bxc6 ( 3... Rxc6 4. a8=Q) 4. Kg7 Be4 5. h4+ Kg4 6. h8=Q Rc7+ 7. Kh6 Rxa7 8. Qe5 Kf3 9. Qc3+ Ke2 10. Qc4+ Bd3 11. Qg4+ Kd2 12. Qg5+ Ke2 13. Qg2+ 1-0  
+
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3p2P1/1P6/7r/2bP4/4k3/2K5/8 w - - 0 1"]
+
+ 1. d5 $1 {Nowotny} Rxd5 ({but} 1... Bd3+ $1 2. Kb3 Rg5 3. b7 Rg1 4. Ka2 Bb1+ 5. Kb3 Be4 $19) (1... Bxd5 2. b7) 2. g8=Q Rd2+ 3. Kc1 Bxg8 4. b7 Rd3 5. b8=Q Rc3+ 6. Kb2 Rb3+ 7. Ka1 Rxb8 {stalemate} 1/2-1/2  
+
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1B6/8/Kp3P2/2pP4/7b/2k2P1r/8/8 w - - 0 1"]
+
+ 1. Be5+ Kc4 2. d6 Rxf3 3. d7 Rd3 4. f7 Ra3+ 5. Kb7 Rf3 6. Bf6 $1 {Nowotny} Rxf6 (6... Bxf6 $2 7. f8=Q) 7. d8=Q Rxf7+ 8. Ka6 Bxd8 {stalemate} 1/2-1/2  
+
+[Event "Residentiebode {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4b2N/4P1P1/8/1k1K4/1p6/4PB2/8/6r1 w - - 0 1"]
+
+ 1. Bh5 Bxh5 2. Ng6 $1 {Nowotny} Bxg6 (2... Rxg6 $2 3. e8=Q+) 3. g8=Q Be4+ 4. Kd4 Rxg8 5. e8=Q+ Rxe8 {stalemate} 1/2-1/2  
+
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/2p5/P3P3/6N1/6P1/2K5/5k2/3r4 w - - 0 1"]
+
+ 1. e7 Re1 2. Ne6 $1 {Nowotny} Rxe6 (2... Bxe6 3. e8=Q) 3. a7 Re3+ 4. Kd4 c5+ 5. Kxc5 Rc3+ 6. Kd6 Rd3+ (6... Rc8 7. Kd7) 7. Ke5 Re3+ 8. Kd4 Rxe7 9. a8=Q 1-0  
+
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2pK3p/6kP/P2p2Pp/4pP1P/8/4P3/Nb2r3 w - - 0 1"]
+
+ 1. a6 Rxe2 2. Ke6 e3 3. Nc2 $1 {Nowotny} Bxc2 (3... Rxc2 $2 4. f5#) 4. a7 Bf5+ 5. Ke7 Ra2 6. a8=Q Rxa8 {stalemate} 1/2-1/2  
+
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/Pb6/3P3K/4p3/k1p4p/4N2P/1r3N2/8 w - - 0 1"]
+
+ 1. d7 Rb6+ (1... Rd2 2. Ne4 Bxe4 3. Nd5 $1 {Nowotny} Rxd5 (3... Bxd5 4. d8=Q) 4. a8=Q+) 2. Kg5 Rd6 3. Nxc4 Rd4 4. Ne4 Bxe4 5. Nb6+ Ka3 6. Nd5 $1 {Nowotny} Rxd5 (6... Bxd5 7. d8=Q) 7. a8=Q+ 1-0  
+
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3RB3/5p1k/8/8/1n4K1/5pP1/2p5/8 w - - 0 1"]
+
+ 1. Rc8 Nc6 $1 {Nowotny} 2. Bxc6 (2. Rxc6 $2 f2) 2... f5+ 3. Kh5 c1=Q 4. Rc7+ Kh8 5. Kg6 Qc4 6. Rc8+ 1-0  
+
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/2P1P3/8/4r3/4P1bp/6k1/3NP2p/7K w - - 0 1"]
+
+ 1. Nf1+ Kh3 2. Ne6 $1 {Nowotny} Rxe6 (2... Bxe6 3. e8=Q) 3. c8=R $1 (3. c8=Q $2 Bf3+ 4. exf3 {stalemate}) 3... Bxe2 4. Nxh2 Bf3+ 5. Nxf3 Rxe7 6. e5 1-0  
+
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6P1/k2P4/p3r3/7N/2P1PB1K/2b5 w - - 0 1"]
+
+ 1. d6 Ba3 (1... Bb2 2. c3 Bxc3 3. Be1 Bxe1 4. d7 Bh4 5. g7 Rg4 6. Ng5) 2. d7 Be7 3. g7 Rg4 4. Bh4 $1 Bxh4 {critical move} 5. Ng5 $1 {Nowotny} Rxg5 (5... Bxg5 6. g8=Q) 6. d8=Q+ 1-0  
+
+[Event "Eindspelen en Proble-men {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3N3P/2P5/B7/4k3/4P3/6K1/b1r5 w - - 0 1"]
+
+ 1. Bc3 $1 {Nowotny} Rc2+ (1... Bxc3 2. Nc5+) 2. Kh3 Rxc3 3. Nf6+ 1-0  
+
+[Event "Schackvдrlden {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Selman J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4K2b/7r/7p/3N1pkp/6P1/1p3P1P/1P3B2/8 w - - 0 1"]
+
+ 1. h4+ Kg6 2. gxh5+ Kg7 (2... Kxh5 $2 3. Nf4#) 3. Bd4+ (3. Be3 Kg8 4. Ne7+ Rxe7+ 5. Kxe7 Bxb2 6. Ke6) 3... Kg8 4. Bg7 $3 {Nowotny} (4. Ne7+ $2 Rxe7+) (4. Bxh8 $2 Kxh8) 4... Kxg7 (4... Bxg7 5. Ne7+ Kh8 6. Ng6+ Kg8 7. Ne7+ { perpetual check}) (4... Rxg7 $2 5. Nf6#) (4... f4 5. Nf6+ Kxg7 6. Ke7 { stalemate}) 5. f4 Kg8 6. Nf6+ Bxf6 {stalemate} (6... Kg7 7. Ke7 (7. Nd5 $1 Kg8 8. Nf6+ Bxf6)) 1/2-1/2  
+
+[Event "Schackvдrlden {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Selman J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4K2b/7r/3p3p/3N1pkp/6P1/1p3P1P/1P3B2/8 w - - 0 1"]
+
+ 1. h4+ Kg6 2. gxh5+ Kg7 (2... Kxh5 $143 3. Nf4#) 3. Bd4+ Kg8 4. Bg7 $1 {Novotny } (4. Ne7+ $143 Rxe7+ $19) (4. Bxh8 $143 Kxh8 $19) 4... Kxg7 (4... Rxg7 $143 5. Nf6#) (4... Bxg7 $144 5. Ne7+ Kh8 6. Ng6+ $11) (4... f4 $144 5. Nf6+ Kxg7 6. Nd5 Kg8 7. Nf6+ Bxf6 $11) 5. f4 $1 Kg8 6. Nf6+ Bxf6 $11 (6... Kg7 $144 7. Nd5 Kg8 8. Nf6+ $11) 1/2-1/2  
+
+[Event "64 {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Mutsenko S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1P2P3/3qp1K1/4p3/b1p1pk2/8/2P1P3/r2N2B1 w - - 0 1"]
+
+ 1. Bh2+ Kg4 2. Nf2+ Kh4 3. Bg3+ Kxg3 4. Nxe4+ Kf4 5. Nxd6 Rb1 6. Nb5 $1 { Nowotny} 1-0  
+
+[Event "Bulletin Ouvrier des Йchecs {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Korn M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/p6r/2Pb1pp1/5pqp/8/5P1Q/5PP1/1R3K2 w - - 0 1"]
+
+ 1. f4 (1. c7 $2 Rxc7 2. f4 Qxf4 3. Qb3 Rc1+ $1) 1... Qxf4 (1... Qh6 2. Qb3 Qg7 3. c7 $1 Qxc7 4. Qd5+) 2. Qb3 Qh2 (2... Rg7 3. c7 $1) (2... Bb8 3. Qb7+ Rxb7 4. cxb7#) (2... Be5 3. Qg8+) (2... Bb4 3. Qg8+) 3. c7 $3 {Nowotny} (3. Qg8+ $2 Bb8 4. c7 Qh1+ 5. Ke2 Re7+ 6. Kf3 (6. Kd2 Rd7+ 7. Ke3 Re7+ 8. Kd4 Rd7+) 6... Qxb1 7. Qxb8+ Qxb8) 3... Qh1+ 4. Ke2 Qxb1 5. c8=Q+ Bb8 6. Qcxb8# 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Kajev L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P3P1/3P4/Pk6/1p2p1K1/PP1r2bN/8 w - - 0 1"]
+
+ 1. a3+ Kxa4 $1 (1... Kc5 2. c7) (1... Ka5 2. c7 e2 3. Kf2 Rc2 4. d6 Kb6 5. a5+ Kb7 6. a6+ Kc8 7. g7) 2. c7 e2 3. Kf2 Bh3 (3... Rc2 4. d6 $18) 4. g7 e1=Q+ $1 5. Kxe1 Rg2 6. Ng4 $1 {Nowotny} Rxg4 $1 7. c8=Q Rg1+ 8. Kf2 Rg2+ $1 9. Kf3 Bxc8 10. Kxg2 Bb7 11. g8=B $1 (11. g8=Q $2 Bxd5+ 12. Qxd5 {stalemate}) 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5N2/4P3/K5B1/6r1/6bN/7k/8 w - - 0 1"]
+
+ 1. Nf4 $1 Bxf4 2. e7 Bc7+ 3. Ka6 $1 Re4 4. Ne5 $1 {Nowotny} Rxe5 (4... Bxe5 5. e8=Q) 5. Bf4+ 1-0  
+
+[Event "De Schaakwereld {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Van Altena G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R7/3B1b2/8/8/6K1/3p4/1p6/7k w - - 0 1"]
+
+ 1. Rb8 ({dual} 1. Bc6+ $1 Kg1 2. Rb8 d2 3. Bf3 Bd5 4. Bd1 Kf2 5. Rxb2 $18) 1... d2 2. Ba4 Bb3 $1 {Nowotny} 3. Bxb3 b1=Q 4. Bd5+ Kh2 5. Rh8+ $1 (5. Rxb1 $2 d1=Q+ 6. Rxd1 {stalemate}) 5... Kg1 6. Rh1+ Kf2 7. Rxb1 1-0  
+
+[Event "De Schaakwereld {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Van Altena G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/8/1P1P4/3N2k1/7p/8/r2b4/8 w - - 0 1"]
+
+ 1. b7 Rb2 2. d7 Ba5 3. Nb6 $1 {Nowotny} Bxb6 4. b8=Q Bd4+ 5. Kh7 Rxb8 6. d8=Q+ Rxd8 {stalemate} 1/2-1/2  
+
+[Event "De Schaakwereld {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Van Altena G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R3B3/8/8/3b4/6K1/3p4/1p6/7k w - - 0 1"]
+
+ 1. Rb8 d2 2. Ba4 Bb3 $1 {Nowotny} 3. Bxb3 $1 b1=Q 4. Bd5+ Kh2 5. Rh8+ $1 (5. Rxb1 $2 d1=Q+ 6. Rxd1 {stalemate}) 5... Kg1 6. Rh1+ Kf2 7. Rxb1 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Van Altena G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/8/1P1P4/6k1/8/8/r2b1B2/8 w - - 0 1"]
+
+ 1. b7 (1. d7 $2 Ra8+ 2. Kg7 Rd8 $19) 1... Rb2 2. d7 Ba5 3. Bb6 $1 {Nowotny} Bxb6 $1 4. b8=Q Bd4+ 5. Kh7 Rxb8 6. d8=Q+ Rxd8 {stalemate} 1/2-1/2  
+
+[Event "De Schaakwereld {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Van Altena G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/8/1P1P4/3N2k1/7p/8/7r/4b3 w - - 0 1"]
+
+ 1. b7 Rb2 2. d7 Ba5 3. Nb6 $1 {Nowotny} Bxb6 4. b8=Q Bd4+ 5. Kh7 Rxb8 6. d8=Q+ Rxd8 {stalemate} 1/2-1/2  
+
+[Event "Nбrodnн Listy {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Svoboda R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/p2NP2B/4r2P/n6P/8/8/KP3b2/8 w - - 0 1"]
+
+ 1. Be4+ Rxe4 (1... Nb7 2. h7 Bd4 3. Bxb7+ Kxb7 4. Nc5+) 2. h7 Bd4 3. Ne5 $1 { Nowotny} Bxe5 (3... Rxe5 4. h8=Q+) 4. e8=Q+ 1-0  
+
+[Event "De Schaakwereld {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Selman J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/8/P3PN2/8/8/1P6/k2r4/5b2 w - - 0 1"]
+
+ 1. e7 Re2 (1... Bb5 2. a7) 2. Ne4 $1 (2. a7 $2 Bg2 3. Ne4 {Nowotny} Bxe4 $1 4. e8=Q Bh7+) 2... Rxe4 3. a7 Rg4+ 4. Kf8 Rf4+ 5. Ke8 Bg2 (5... Bb5+ 6. Kd8 Rd4+ 7. Kc8 $1 (7. Kc7 $2 Rd7+ 8. Kb8 Rxa7) 7... Ba6+ 8. Kc7) 6. Kd8 Rd4+ 7. Kc8 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Doesburg F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/1B1P3P/8/8/8/5K2/r1b5 w - - 0 1"]
+
+ 1. h7 Bb2 2. d7 Rd1 3. Bd4 $1 {Nowotny} ({dual} 3. d8=Q+ $1 Rxd8 4. Bxd8 $18) 3... Bxd4+ (3... Rxd4 4. h8=Q+) 4. Ke2 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Doesburg F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/3P3P/2B5/8/8/5K2/r1b5 w - - 0 1"]
+
+ 1. h7 Bb2 2. d7 Rd1 3. Bd4 $1 {Nowotny} Bxd4+ (3... Rxd4 4. h8=Q+) 4. Ke2 1-0  
+
+[Event "Maestros Latinoamericanos.. {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Cohn H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N3/8/4b3/4k1r1/3p1pB1/2PpP3/3P4/K7 w - - 0 1"]
+
+ 1. exd4+ (1. exf4+ $2 Kxf4 2. Bxe6 dxc3) (1. cxd4+ $2 Kd5 2. Nc7+ Ke4 3. Nxe6 Rxg4 4. Nxf4 Rg1+ 5. Kb2 Rd1) 1... Kd5 2. Bf3+ (2. Nf6+ $2 Kd6 3. Ne4+ Kd5 4. Bf3 Rg1+ 5. Kb2 Bf5) 2... Kc4 3. Nd6+ Kb3 4. Bd1+ Ka3 5. d5 $1 {Nowotny} Bxd5 ( 5... Rxd5 6. Nc4#) 6. Nb5# 1-0  
+
+[Event "Schackvдrlden {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Arnstam K"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N3K/2p5/3PP2p/7k/8/r7/8/3b4 w - - 0 1"]
+
+ 1. e7 Re3 (1... Ba4 2. dxc7 Rc3 3. Nc6 $1 {Nowotny} Bxc6 (3... Rxc6 4. e8=Q+ $18) 4. c8=Q $18) 2. dxc7 Bg4 3. Ne6 $1 {Nowotny} Rxe6 (3... Bxe6 4. e8=Q+ $18) 4. c8=Q Rxe7 5. Qc5+ 1-0  
+
+[Event "El Ajedrez Americano {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Palau L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/2P2P2/Kp2R2P/3p4/1k5r/6b1/8 w - - 0 1"]
+
+ 1. f7 Rf3 2. c7 Bh3 3. Rf5 $1 {Nowotny} Rxf5 (3... Bxf5 4. f8=Q) 4. c8=Q Rxh5 5. Qg8 1-0  
+
+[Event "De Schaakwereld {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Marwitz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6Pp/5K2/2p4k/P3r3/8/b1P5/3R4 w - - 0 1"]
+
+ 1. Kf5 Rxa4 2. c4 $1 {Nowotny} Rxc4 3. g8=Q Rf4+ 4. Kxf4 Bxg8 5. Kf5 Kh6 6. Kf6 1-0  
+
+[Event "Deutsche Schachzei-tung {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Herberg A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p1P1NP2/p7/kP6/5r2/1P3P1b/K7/8 w - - 0 1"]
+
+ 1. b6 (1. Nf5 $2 {Nowotny} Bxf5 2. f8=Q Bb1+) 1... axb6 2. Nc6+ Kb5 3. Nd4+ Ka5 (3... Kb4 4. Nf5 $1 {Nowotny} Rxf5 (4... Bxf5 5. f8=Q+) 5. c8=Q Ra5+ 6. Kb2 Bxc8 7. f8=Q+) 4. Ka3 b5 5. Nf5 $1 {Nowotny} (5. b4+ Kb6 6. Nf5 Rxf5 7. c8=Q Rxf3+) 5... b4+ 6. Kb2 1-0  
+
+[Event "tt11 {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Hanks J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2K5/3P2P1/3k4/8/8/3B1b2/5r2 w - - 0 1"]
+
+ 1. d7 Bg3+ (1... Bh4 2. g7 Rg1 3. Bg5 $1 {Nowotny} Rxg5 (3... Bxg5 4. g8=Q+) 4. d8=Q+) 2. Kc8 Rf8+ 3. d8=Q+ Rxd8+ 4. Kxd8 Ke6 5. Bc3 Bf4 6. Ke8 Bh6 7. Bb2 Kf5 8. Kf7 Kg4 9. Kg8 Kh5 10. Kh7 Bf8 11. Bc1 Kg4 12. Bh6 1-0  
+
+[Event "Caissa {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Eucken K"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4K2B/6N1/n2b1r2/8/3r4/kP2R3/8 w - - 0 1"]
+
+ 1. Ne5 (1. b4+ Kb3 2. bxa5 Rf7+ 3. Ke8 Rxh7) (1. Nf4 Rf7+ 2. Ke8 Rb3 3. Nxd5 Rxh7) 1... Rxe5+ 2. Rxe5 Nc6+ 3. Kd6 Be4+ 4. Rd5 $1 {Nowotny} Rxd5+ 5. Kxc6 Rd4+ (5... Rf5+ 6. Kd6 Rf4 7. Ke5) 6. Kc5 Rd5+ (6... Ra4 7. Kb5) 7. Kc6 (7. Kc4 Bf3) 7... Re5+ 8. Kd6 Re8 9. Kd7 {positional draw - perpetual attack} 1/2-1/2  
+
+[Event "Schweiz-e ArbeiterSch Journ {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Isenegger S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4k3/7N/8/1r6/4K2b/8/3N3P/8 w - - 0 1"]
+
+ 1. Kf4 Rh5 2. Ng5 $1 {Nowotny} Rxg5 (2... Bxg5+ 3. Kg4 Rxh2 4. Nf3 Rg2+ 5. Kh3) 3. Nf3 Rh5 4. Kg4 1/2-1/2  
+
+[Event "Revista de Romana de Sah {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Gohn M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P1Ppp1/3r4/5pk1/8/2b1NPPK/8 w - - 0 1"]
+
+ 1. f3+ Kg5 (1... Kh4 2. e7 Re5 3. c7 Bf5 4. Nxf4 Re1 (4... Rxe7 5. Nxg6+ $18) 5. Ne6 $1 {Nowotny} (5. g4 $2 Rxe7 6. Nxg6+ Bxg6 7. c8=Q Re2+ $11) 5... Rxe6 ( 5... Bxe6 6. e8=Q $18) 6. c8=Q $18) 2. c7 $1 Rc5 3. e7 Ba4 4. Nd4 Rc1 (4... Rxc7 5. Ne6+ Kf5 6. Nxc7 $18) 5. Nc6 $1 {Nowotny} Bxc6 (5... Rxc6 6. e8=Q $18) 6. c8=Q 1-0  
+
+[Event "Der Schachspiegel {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Hufendiek E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/8/2P2PN1/3k4/8/4pK2/Nr2P3/8 w - - 0 1"]
+
+ 1. f7 Bd6 2. c7 Rc2 3. Nb4+ Bxb4 4. Nf4+ Kd4 5. Ne6+ Kd5 6. Nc5 $1 {Nowotny} Rxc5 7. f8=Q 1-0  
+
+[Event "Revista de Romana de Sah {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Guy R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/8/P3P3/2N5/7k/7b/2r5/8 w - - 0 1"]
+
+ 1. a7 Bg2 (1... Rxc5 2. a8=Q Bxe6 (2... Rh5+ 3. Kg7 Bxe6) 3. Qe4+ Bg4 4. Qe7+ Rg5 5. Kh7 Kh5 6. Qf7+ Kh4 7. Qf6) 2. e7 Re2 3. Ne4 $1 {Nowotny} 1-0  
+
+[Event "British Chess Magazi-ne {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Blandford H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/Pp3P2/pP6/K2p4/P2P4/2P3r1/k4bN1 w - - 0 1"]
+
+ 1. f7 Rf2 2. a7 Bg2 3. Nf3 $1 {Nowotny} Bxf3 4. f8=R $1 (4. f8=Q $2 Bd1 5. Qxf2 Bxc2+ 6. Qxc2 {stalemate}) 4... Rxc2 5. Rxf3 Rc8 6. Rf6 1-0  
+
+[Event "tr11 {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Bernhardt G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3P2P1/1p6/3P4/3k3r/K4b2/2B5 w - - 0 1"]
+
+ 1. g7 Rg3 2. d7 Rg2 $1 3. Kb3 $1 Bh4 4. Bg5 $1 {Nowotny} Rxg5 (4... Bxg5 5. g8=Q) 5. d8=Q 1-0  
+
+[Event "Problemas {SEPA} {m}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Mandil J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/8/p7/2p1p3/2k5/8/2K3RP/7B w - - 0 1"]
+
+ 1. Rg4+ e4 $1 {Nowotny?} 2. Bxe4 $1 Qh8 3. Bc6+ Qd4 4. h3 $1 a5 5. Bf3 $1 a4 6. h4 $1 Qxg4 7. Bxg4 Kd5 8. h5 Ke5 9. h6 Kf6 10. Bh5 1-0  
+
+[Event "Tschigorin MT {m}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7P/P1Pr2Pb/B7/5p2/p6k/7p/N6K w - - 0 1"]
+
+ 1. Nc2 Bg7 (1... Rxg6 $143 2. Bb6 Rd6 3. Bd4 Bg7 4. c7 $18) 2. c7 Rc6 3. a7 Rxc2 (3... a2 $143 4. Bc3 Bxc3 (4... Rxc3 $144 5. a8=Q a1=Q+ 6. Qxa1 $18) 5. a8=Q a1=Q+ 6. Nxa1 $18) 4. Bd2 a2 5. a8=Q a1=Q+ 6. Qxa1 Bxa1 7. c8=Q+ (7. Bxf4 $143 Be5 $19) 7... Rxc8 8. Bc3 {Novotny} Rb8 (8... Bxc3 $144 9. g7 $1 Bxg7 10. h8=Q+ Bxh8 $11) 9. Bb2 Re8 10. Be5 Rd8 11. Bd4 $11 1/2-1/2  
+
+[Event "Caissa {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Hufendiek E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5b2/B1p5/1r2P2P/1p4p1/3n4/5P1K/1N3P2/2k3N1 w - - 0 1"]
+
+ 1. h7 Bg7 2. e7 Re6 3. Bxd4 Bxd4 4. Ne2+ Rxe2 5. Nd3+ Kd2 6. Ne5 $1 {Nowotny} Rxe5 (6... Bxe5 7. e8=Q) 7. h8=Q 1-0  
+
+[Event "Sachovй Umenie {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Havel M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1K3R1/p1pppp2/P5R1/b7/b7/2r3p1/1n6/3r4 w - - 0 1"]
+
+ 1. Kd8 Bb4 (1... Re3 2. Ke8 Bb3 (2... Rf1 3. Kf8 Bc3 4. Rf6 $1 {Nowotny} Rxf6 ( 4... Bxf6 5. Kxf7#) 5. Kg7#) 3. Re6 $1 {Nowotny} Bxe6 (3... Rxe6 4. Kxf7#) 4. Kxe7#) 2. Ke8 Bb3 3. Rd6 $1 {Nowotny} Rxd6 (3... Bxd6 4. Kxd7#) 4. Kxe7# 1-0  
+
+[Event "Lidova Demokracie {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/8/2R1P1P1/6r1/2p5/4p2p/b4P1P/7K w - - 0 1"]
+
+ 1. e7 Re5 2. g7 c3 3. Re6 $1 {Nowotny} Bd5+ (3... Bxe6 4. e8=Q+) (3... Rxe6 4. g8=Q+) 4. f3 Bxf3+ 5. Kg1 Rg5+ 6. Kf1 Bh5 7. Rg6 $1 {Nowotny} Rxg6 (7... Bxg6 8. g8=Q+) 8. e8=Q+ 1-0  
+
+[Event "Suomen Shakki {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Bernhardt G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7p/1P2P2k/7P/5p1K/8/r3N1P1/3b4 w - - 0 1"]
+
+ 1. b7 (1. e7 Rxe2 2. b7 Re1) 1... Rb2 2. e7 Ba4 3. Nd4 Kg7 4. Nb5 $1 {Nowotny} 1-0  
+
+[Event "Sovjetski Voion {m}"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Afanasjev G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/N1b3K1/4P3/3rp3/8/6N1/8/8 w - - 0 1"]
+
+ 1. Nc6+ Ke8 2. Nh5 Bd8 3. Kg8 Rd7 4. e7 $1 {Nowotny} Rxe7 (4... Bxe7 5. Ng7#) 5. Nf6# 1-0  
+
+[Event "Zapus Lidovych Demokracii {m}"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/6pp/1R2P2P/3r4/5p2/p3p3/5P2/5b1K w - - 0 1"]
+
+ 1. e7 Re5 (1... Rh5+ 2. Kg1 Re5 3. Re6 (3. hxg7 Bc4 4. Re6 Rg5+ 5. Kh2 Bb5 6. e8=Q+ Bxe8 7. Rxe8+ Kb7 8. g8=Q Rxg8 9. Rxg8 exf2 10. Kg2 a2) 3... Bb5 (3... Rxe6 4. hxg7 Rxe7 5. g8=Q+ Kb7 6. Kxf1 exf2 7. Qf8 Rc7 8. Qxa3) 4. Rxe5 (4. e8=Q+ Bxe8 5. Rxe5 gxh6 6. Rxe8+ Kb7 7. Re4 a2) 4... a2 5. Rxb5 a1=Q+ 6. Kh2) ( 1... Ka7 2. Rb4 Re5 3. hxg7 a2 4. Ra4+) 2. hxg7 (2. Re6 Rxe6 3. hxg7 Rxe7 4. g8=Q+ Ka7 5. Qd8) 2... Bc4 3. Re6 $1 {Nowotny} Bd5+ (3... Rh5+ 4. Kg2 Rg5+ 5. Kf3 Bb5 (5... Bd5+ 6. Kxf4) 6. e8=Q+ Bxe8 7. Rxe8+ Kb7 8. g8=Q Rxg8 9. Rxg8 exf2 10. Kxf2) (3... Bxe6 4. e8=Q+) (3... Rxe6 4. g8=Q+) 4. f3 Bxf3+ 5. Kg1 Rg5+ 6. Kf1 Bh5 7. Rg6 $1 {Nowotny} Rxg6 (7... Bxg6 8. g8=Q+) 8. e8=Q+ 1-0  
+
+[Event "Zapus Lidovych Demokracii {m}"]
+[Site "?"]
+[Date "0000.00.00"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/1R2P1P1/3r4/5p2/p3p3/5P2/5b1K w - - 0 1"]
+
+ 1. e7 Re5 (1... Rh5+ 2. Kg1 Rh8 (2... Re5 3. Re6 Bb5 4. Rxe5 a2 5. e8=Q+ Bxe8 6. Ra5+ Kb7 7. f3 Bxg6 8. Rxa2 Bd3 9. Ra4 Kc6 10. Rd4 Bg6 11. Kf1 Kc5 12. Rxf4 Bd3+ 13. Ke1 Kd5 14. Ra4 Ke5 15. Ra3 Kd4 16. Ra5 Bg6 17. Ra4+ Kd3 18. Ra3+ Kd4 19. Ke2 Ke5 20. Kxe3) 3. Kxf1 e2+ 4. Kxe2 Re8 5. Ra6+ Kb7 6. Rxa3 Rxe7+ 7. Kf3 Rg7 8. Kxf4 Rxg6 9. Rc3) (1... Ka7 $5 2. e8=Q Kxb6 3. g7 Bc4) 2. g7 Bc4 3. Re6 $1 {Nowotny} Bd5+ (3... Rh5+ 4. Kg2 Bd5+ 5. f3 Rg5+ 6. Kh3 Bxe6+ 7. Kh4) (3... Bxe6 4. e8=Q+ $18) (3... Rxe6 4. g8=Q+ $18) 4. f3 $1 Bxf3+ 5. Kg1 Rg5+ 6. Kf1 e2+ 7. Kf2 Bh5 8. Rg6 $1 {Nowotny} Rxg6 (8... Bxg6 9. g8=Q+ $18) 9. e8=Q+ 1-0  
+
+[Event "Mundo Argentino {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Kraiselburd A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/p1Kn1b2/6r1/1k1B3p/pp6/PPBPR1p1/8 w - - 0 1"]
+
+ 1. Re5 $3 {Nowotny} axb2 (1... Bxe5 2. Bc5+ Ka5 3. axb3 $1 axb2 4. b4#) (1... Kc4 2. Bc3 $1 bxc2 3. b3+ Kd3 4. Re3#) (1... Rxe5 2. Bc3+ $18) 2. Bc5+ Ka5 3. axb3 b1=Q 4. b4+ Qxb4 5. Bb6# 1-0  
+
+[Event "Schweiz-e SchZeitung {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Isenegger S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/1r6/8/3K4/B5k1/3b2N1 w - - 0 1"]
+
+ 1. Bc4 (1. Ne2 $2 Bxe2+ 2. Kxe2 Rb2+ $19) 1... Rb2 (1... Re5 2. Kd2 $11) (1... Rb4 2. Kc3 $11) (1... Rc5 2. Kd4 $11) 2. Ne2 $1 {Nowotny} Rxe2 (2... Bxe2+ 3. Kc3 $11) 3. Bb3 $1 Re1 4. Kd2 1/2-1/2  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/2Np3R/3p4/2P2r2/5b2/p1B5/k1K5 w - - 0 1"]
+
+ 1. Rf6 $1 Rxf6 (1... Rg4 2. Rxf3 Rg1+ 3. Bd1 Rxd1+ 4. Kxd1 Kb2 5. Rf2+ Ka3 6. Rxa2+ Kxa2 7. cxd5) 2. Nd4 dxc4 3. Bb3 $1 Be4 4. Bxc4 Rf3 5. Bd3 $1 {Nowotny} Bxd3 (5... Rxd3 6. Nc2#) 6. Nb3# 1-0  
+
+[Event "Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Sindler I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7N/8/1P2P2k/8/8/8/5bK1/1r3N2 w - - 0 1"]
+
+ 1. e7 Re1 2. Ne3 $1 {Novotny} Rxe3 3. b7 Bg3 4. Nf7+ Kh5 5. Ne5 $1 $18 {Novotny } 1-0  
+
+[Event "Tijdschrift v.d. KNSB {tt} {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Missiaen R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N1Kbk/4B1pp/4p3/2p2R1P/8/5r1N/3P4/2b3n1 w - - 0 1"]
+
+ 1. Nf7+ (1. Rxf3 $2 Nxf3 2. h6 Bb2) 1... Bxf7 2. h6 Bb2 3. Ng5 Rxf5 4. Bf6 $1 { Nowotny} Rxg5 (4... Bxf6 5. Nxf7#) (4... Rxf6 5. hxg7#) 5. Bxb2 e5 6. Bxe5 Rxe5 7. hxg7# 1-0  
+
+[Event "Romanian champ {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Dobrescu E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/7k/2NN4/5P1r/3P1p1b/7K w - - 0 1"]
+
+ 1. Kg2 (1. Ne3 $143 Be5+ 2. Kg2 Rh2+ 3. Kf1 Bxd4 $19) 1... f1=Q+ (1... Rh4 $144 2. Ne3 Rxd4 3. Kxh2 Rxd2 4. Kg3 Kg5 5. f4+ Kg6 6. f5+ Kg5 7. f6 $11) 2. Kxf1 Rh4 3. f4 $1 {Nowotny} Rxf4+ (3... Bxf4 $144 $11) 4. Nf3 $3 Rxf3+ (4... Bg3 $144 $11) (4... Rf8 $144 $11) 5. Kg2 Rf4 6. Ne3 Rh4 7. Nf5 Rf4 8. Ne3 Rh4 9. Nf5 $11 {positional draw - perpetual attack} 1/2-1/2  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Bratishko A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7r/1B1p1p2/5P2/3N4/3b4/8/1P2P2p/4K2k w - - 0 1"]
+
+ 1. Kf1 Rb8 2. Nc3+ Rxb7 3. Ne4 Rb3 4. e3 $1 {Nowotny} Bxe3 (4... Rxe3 5. Nf2#) 5. Ng3# 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Bratishko A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3r1b2/1B1p1p2/5P2/3N4/8/4K3/1P2P2p/7k w - - 0 1"]
+
+ 1. Kf2 Bc5+ 2. Kf1 (2. Ne3+ $2 d5) (2. e3 $2 Rb8 3. Nc3+ Rxb7 4. Ne4 Rxb2+) 2... Rb8 3. Nc3+ Rxb7 4. Ne4 Rb3 5. e3 $1 {Nowotny} Bxe3 (5... Rxe3 6. Nf2#) 6. Ng3# 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Bondarenko F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6bB/1p3pN1/r7/2P5/8/2K5/p2P3P/k7 w - - 0 1"]
+
+ 1. Kc2 Rh6 (1... Rc6 2. Ne6+ f6 3. Bxf6#) (1... Rg6 2. Nh5+ f6 3. Bxf6+ Rxf6 4. Nxf6) 2. Nf5+ $1 (2. Ne6+ $2 f6 3. Nd4 Rxh2 4. Bxf6 Rxd2+ 5. Kc1 Rd1+) 2... Rxh8 3. Nd4 Rh3 $1 4. Kc1 Bh7 5. d3 $1 {Nowotny} Rxd3 (5... Bxd3 6. Nb3#) 6. Nc2# 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Rozenfeld I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N3/8/Pp5p/2Pp1pPK/5k1P/8/r3PP2/b7 w - - 0 1"]
+
+ 1. cxb6 (1. c6 $2 Rxa6 2. c7 Ra8 3. Nd6 hxg5 4. hxg5 Rh8+ 5. Kg6 Rg8+ 6. Kh6 Rh8+) 1... Rxa6 2. Nc7 Ra2 (2... Ra3 3. b7 Rb3 4. Ne6+ Ke5 5. Nc5) 3. b7 Rb2 4. g6 Rb1 (4... Rxb7 5. Ne6+ Ke5 6. g7) 5. Ne6+ Ke4 6. Nc5+ Kf4 7. Nd3+ Ke4 8. Nb2 $1 {Nowotny} Rxb2 9. g7 1-0  
+
+[Event "Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/R3q3/B1K1kp2/2np4/2N5/8/8/8 w - - 0 1"]
+
+ 1. Bc8+ Nd7 $1 {Nowotny} 2. Bxd7+ (2. Rxd7 $2 dxc4 $11 (2... Qe8 $2 3. Nd6 $18) ) 2... Kf7 3. Be8+ $1 (3. Nd6+ $5 Kg8) 3... Kxe8 4. Nd6+ Kf8 5. Ra8+ Kg7 6. Nf5+ 1-0  
+
+[Event "New Statesman {and Nation} {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Cohen D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P2pP3/7p/b1KQ1rNP/2P5/8/3q3k w - - 0 1"]
+
+ 1. Nf2+ (1. Qxf4 $2 Qe2+) 1... Rxf2 2. Qxd1+ Bxd1 3. e7 Ba4 (3... Re2 4. a7 Re4+ 5. Kd3 (5. Kd5 $2 Rxe7) (5. Kb5 $2 Re5+)) 4. a7 Rf4+ 5. Kd3 (5. Kd5 $2 Rf5+) 5... Bb5+ 6. c4 $1 {Nowotny} Bxc4+ (6... Rxc4 7. a8=Q+) (6... Rf3+ 7. Ke2 Ra3 8. cxb5) 7. Kc3 1-0  
+
+[Event "British Chess Magazi-ne {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Bondarenko F, Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R5b1/5pr1/B7/8/1n3P2/1pN5/2p3P1/k1K5 w - - 0 1"]
+
+ 1. Bf1+ Na2+ 2. Rxa2+ bxa2 3. Ne2 Bh7 (3... f5 4. Nd4 Rc7 5. Bc4 $1 {Nowotny} Rxc4 (5... Bxc4 6. Nxc2#) 6. Nb3#) 4. Nd4 Rg3 5. Bd3 $1 {Nowotny} Rxd3 (5... Bxd3 6. Nb3#) 6. Nxc2# 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Rudenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Nk6/p7/3P1P1p/6r1/3B4/2p1K3/8/3bb3 w - - 0 1"]
+
+ 1. f7 Rf5 (1... Bd2+ $1 2. Kd3 Rg3+ 3. Kc4 (3. Ke4 Bc2+ 4. Ke5 Rf3 5. d7 Bg5) 3... Bb3+ 4. Kxb3 c2+ 5. Kxc2 Rf3 6. d7 Ba5 7. Nb6 Kc7) 2. d7 Bh4 3. Bf6 $1 { Nowotny} Bf2+ (3... Rxf6 4. d8=Q+) (3... Bxf6 4. f8=Q+) 4. Kd3 Rd5+ 5. Kc4 Bb3+ 6. Kxb3 Bc5 7. Be5+ Kxa8 8. Bd6 $1 {Nowotny} Bxd6 (8... Rxd6 9. f8=Q+) 9. d8=Q+ 1-0  
+
+[Event "Magyar Sakkelet {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Guljajev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N3/k7/5P2/8/8/1K4R1/1b6/1r6 w - - 0 1"]
+
+ 1. Ka2 (1. Kc2 $2 Re1 2. f7 Rf1 3. Nf6 Rxf6 4. Rg7 Rf2+) (1. f7 $2 Rf1 2. Nf6 Rxf6 3. Rg7 Rb6+) 1... Re1 (1... Rf1 2. Kxb2) 2. f7 ({dual} 2. Rg7+ $1 $18) 2... Rf1 3. Nf6 $1 {Nowotny} Rxf6 (3... Bxf6 4. f8=Q $18 ({minor dual} 4. Ra3+ Kb7 5. f8=Q $18)) 4. Rg7 Kb6 (4... Kb8 5. Kxb2 $18) (4... Rf2 5. f8=Q+ Bxg7+ 6. Qxf2+ $18) 5. Rg6 $1 Rxg6 6. f8=Q Bg7 7. Qf2+ 1-0  
+
+[Event "USSR Stud Comp Champ {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P4K/3r4/4k1B1/2p4R/5n2/8 w - - 0 1"]
+
+ 1. Bf3+ Kd4 $1 2. Rh4+ Ne4 $1 {Nowotny} 3. Rxe4+ (3. Bxe4 $143 Rc5 $11) 3... Kd3 4. Rc4 $3 (4. Re6 $143 Rc5 5. Rd6+ Ke3 6. Bd1 Ke4 $11) 4... Rd6+ (4... Rd8 $144 5. c7 Rh8+ 6. Kg7 $18) 5. Kg5 $1 (5. Kh5 $143 Rd8 6. Be2+ Kd2 ({or} 6... Kxe2 $144 $11) 7. Bd1 Kxd1 8. Rxc3 Kd2 $11) 5... Kxc4 (5... Rd8 $144 6. Be2+ $1 ({dual} 6. Ra4 $144 c2 7. Be4+ Kc3 8. Bxc2 Kxc2 9. c7 $1) 6... Kd2 7. Bd1 $1 Kxd1 8. Rxc3 Kd2 9. Rc5 $18) 6. c7 Rc6 7. Bxc6 c2 8. Bb5+ $1 (8. Bd5+ $2 Kc3 9. c8=Q+ Kd2 $11) 8... Kb3 9. c8=Q Kb2 10. Qh8+ $1 $18 1-0  
+
+[Event "Magyar Sakkelet {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Gratzer G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4P1P1/6N1/p5P1/2Pr2PK/1P6/1bk5 w - - 0 1"]
+
+ 1. e7 (1. b3 $2 a3 2. e7 Rxg3+ 3. Kxg3 Bxg6) (1. g7 $2 Rd8) 1... Re3 2. g7 Ba2 3. b3 Bxb3 4. c4 Bxc4 5. Ne6 $1 {Nowotny} Bxe6 6. e8=Q Bxg4+ 7. Kh4 Rxe8 8. g8=Q Rxg8 {stalemate} 1/2-1/2  
+
+[Event "Wsesojoeznaja Sjachsektsia {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6k1/8/2r5/8/6Kp/5n1B/b7/7R w - - 0 1"]
+
+ 1. Bg2 $1 Be6+ 2. Kf4 $3 (2. Kxf3 $2 h3 $1 3. Rxh3 Rc3+) 2... Rc4+ 3. Kxf3 h3 $1 4. Bxh3 Bd5+ 5. Kg3 $1 ({dual} 5. Ke3 $1 Bxh1 6. Be6+ $11) (5. Ke2) 5... Rc3+ 6. Kh2 Rc2+ 7. Bg2 $3 {Nowotny} (7. Kg1 $2 Rc1+ 8. Bf1 Bxh1 $19) 7... Rxg2+ 8. Kh3 1/2-1/2  
+
+[Event "Revista de Romana de Sah {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Bondarenko F, Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R6n/2Kp4/5pb1/2k5/1N5r/1pP2RNr/1P1np2p/8 w - - 0 1"]
+
+ 1. Ra5+ Kc4 2. Kb6 d6 (2... Rh5 3. Nf5 $1) 3. Ra8 $1 Rh5 4. Nf5 $1 { Nowotny-Plachutta} Rxf5 (4... Bxf5 5. Rc8+ Bxc8 6. Rf4+) 5. Rf4+ Rxf4 6. Rc8# 1-0  
+
+[Event "Magyar Sakkelet {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Zoltan L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/8/2P1PRPp/1r5P/5p2/6p1/1P1Pb3/2n1K3 w - - 0 1"]
+
+ 1. c7 (1. e7 $143 Re5 2. Rf8+ (2. c7 $143 Nd3#) 2... Kg7 3. Rf7+ $11) 1... Rc5 2. e7 Bb5 3. Rc6 $1 {Novotny} (3. Rf8+ $143 Kg7 4. c8=Q Rxc8 5. Rxc8 f3 6. e8=N+ Bxe8 7. Rxc1 Bb5 8. Rc7+ Kg8 9. Rf7 f2+ 10. Rxf2 gxf2+ 11. Kxf2 $11) 3... Re5+ 4. Kd1 Be2+ 5. Kxc1 Bg4 6. Re6 $1 {Novotny} Rc5+ 7. Kb1 Bf5+ 8. d3 $1 Bxd3+ 9. Ka2 Bb5 10. Rc6 $1 $18 {Novotny} 1-0  
+
+[Event "Shakhmaty Moskva {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Kuznetsov AG, Sacharov B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/r2p4/1pk5/2PR4/8/1K5b/8/7B w - - 0 1"]
+
+ 1. Rd6+ Kb5 2. cxb6 Be6+ 3. Rxe6 Rb7 4. Re5+ d5 $1 {Nowotny} 5. Bxd5 Rxb6 (5... Rb8 6. b7 $18) 6. Bb7# 1-0  
+
+[Event "Shakhmaty Moskva {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Kuznetsov AG, Sacharov B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/r2p4/1pk5/2PR4/8/1K3B1b/8/8 w - - 0 1"]
+
+ 1. Rd6+ $1 (1. Rh5+ $2 Kc7 2. Rxh3 bxc5) 1... Kb5 $1 (1... Kc7 2. cxb6+ Kxd6 3. bxa7) (1... Kxc5 2. Rd5+ Kc6 3. Ra5+) 2. cxb6 Be6+ 3. Rxe6 $1 (3. Kb2 $2 Ra2+ 4. Kb1 Rh2 5. b7 Rh8) 3... Rb7 4. Re5+ d5 $1 {Nowotny} 5. Bxd5 $1 Rxb6 (5... Rb8 6. b7 $18) 6. Bb7# 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Jakimtsjik V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1N6/1b6/8/R7/8/8/3Pk1r1/7K w - - 0 1"]
+
+ 1. Nc6 $1 Bxc6 2. d4 (2. Rc5 $2 Bf3 $19) 2... Rg5+ 3. d5 $1 {Nowotny} Bxd5+ 4. Kh2 Kf2 (4... Kf3 5. Ra3+ Kf4 6. Rg3 $1 (6. Ra4+ $2 Be4 $19) 6... Rxg3 { stalemate}) 5. Kh3 $1 (5. Ra3 $2 Be6 $1 $19) 5... Bg2+ (5... Kf3 6. Kh4 $1 Kf4 7. Ra4+ Be4 8. Rxe4+ $11) 6. Kh2 $1 Bd5 (6... Rxa5 {stalemate}) (6... Rg8 7. Ra2+ $11) 7. Kh3 Be6+ (7... Rh5+ 8. Kg4 Bf3+ 9. Kf4 Rxa5 {stalemate}) (7... Bg2+ 8. Kh2 {positional draw - perpetual stalemate}) 8. Kh4 Rxa5 {stalemate} 1/2-1/2  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Gorgiev T, Preuyt G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1B2k3/p4n2/2P5/2R5/5p2/2p2p1K/6p1/2n5 w - - 0 1"]
+
+ 1. c7 Nd6 2. c8=Q+ Nxc8 3. Rxc8+ Kd7 4. Rc7+ Kd8 5. Rg7 Nd3 6. Bxa7 c2 7. Bb6+ Ke8 8. Rc7 Nc5 $1 {Nowotny} 9. Rxc5 g1=Q 10. Rc8+ Kd7 11. Rc7+ Kd6 12. Bxg1 Kxc7 ({but} 12... f2 $3 $19) 13. Bh2 c1=B $1 (13... c1=Q 14. Bxf4+ Qxf4 { stalemate}) 14. Bg3 $3 1/2-1/2  
+
+[Event "Tuwinsk Com Phys Sport {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6b1/8/8/3r4/7p/1k3n1K/8/5B1R w - - 0 1"]
+
+ 1. Kg4 Rc5 $3 2. Bg2 $1 Be6+ 3. Kf4 $3 Rc4+ 4. Kxf3 h3 $1 5. Bxh3 Bd5+ 6. Kg3 $1 Rc3+ 7. Kh2 $1 Rc2+ 8. Bg2 $1 {Nowotny} Rxg2+ (8... Bxg2) 9. Kh3 1/2-1/2  
+

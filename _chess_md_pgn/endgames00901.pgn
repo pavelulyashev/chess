@@ -1,0 +1,1100 @@
+[Event "3 Commendation Hoch-50 JT {c} {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Vandecasteele I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/b1p4k/8/1B3n2/8/2N5/3K3N w - - 0 1"]
+
+ 1. Bd2 Kg5 (1... Be2+ 2. Ke1 Kg5 3. Nf2 Bc4 4. Nh3+) 2. Nf2 Kf5 3. Nd4+ Ke5 4. Nf3+ $1 (4. Nxc6+ $2 Kf5) 4... Kf5 5. Nh4+ Ke5 6. Ng4+ Ke4 7. Nf6+ Ke5 8. Nd7+ Kd6 9. Nb8 Be2+ 10. Ke1 Ke5 11. Nd7+ $1 (11. Nxc6+ $2 Ke4) 11... Ke4 12. Nc5+ $1 Ke5 13. Bxf4+ Kxf4 14. Kxe2 1-0  
+
+[Event "4 Commendation Hoch-50 JT {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Ulrichsen J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2K5/8/2p5/8/1p6/1P6/8/6k1 w - - 0 1"]
+
+ 1. Kb7 (1. Kc7 $2 c5 2. Kc6 c4 3. bxc4 b3 4. c5 b2 5. Kd7 b1=Q 6. c6 Qf5+) (1. Kd7 $2 c5 2. Ke6 c4 3. bxc4 b3 4. c5 b2 5. c6 b1=Q 6. c7 Qh7 7. c8=Q Qh3+) (1. Kb8 $2 c5 2. Ka7 Kf2 3. Ka6 (3. Kb6 c4 $1) 3... Ke3) 1... c5 2. Ka6 $1 c4 3. bxc4 b3 4. c5 b2 5. c6 b1=Q 6. c7 1/2-1/2  
+
+[Event "5/6 Commendation Hoch-50 JT {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k6/2q5/8/8/4RR2/2r5/2P1K3/8 w - - 0 1"]
+
+ 1. Rb4+ Ka7 2. Ra4+ Kb6 3. Rab4+ $1 (3. Rfb4+ $2 Kc5 4. Kd2 Qg3) 3... Kc5 4. Kd2 $1 Qg7 5. Rg4 Qh8 6. Rh4 Qe5 7. Rbe4 $1 Qg3 8. Rhg4 Qf3 9. Rgf4 Qh3 10. Rh4 1/2-1/2  
+
+[Event "5/6 Commendation Hoch-50 JT {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Hlinka M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/N2P4/8/7p/2p4k/3r4/8/K3R3 w - - 0 1"]
+
+ 1. Re7 Kg5 2. Nc6 $1 (2. Kb2 $2 Kf6 3. Nc6 Rd2+ $1 4. Kb1 $1 c3 5. Kc1 h4 $1 6. Rh7 Kg6 7. Rxh4 Rxd7 8. Ne5+ Kg5 $1) (2. Rh7 $2 Kg6 3. Re7 Kf6 4. Nc6 Rd2 $1) ( 2. Nc8 $2 Kf6 3. Rh7 Kg6 4. Re7 Kf6) 2... Kf6 3. Rh7 $1 (3. Kb2 $2 Rd2+ $1 4. Kc3 Rd6 $1) 3... Rd1+ $1 (3... Kg6 4. Ne5+) 4. Kb2 Kg6 5. Re7 Kf6 6. Kc2 $1 Rd6 (6... Rd5 7. Rh7 Kg6 8. Ne7+) (6... Rd3 7. Rh7 Kg6 8. Ne5+) 7. Kc3 $1 h4 8. Kb2 $1 (8. Kc2 $2 c3 $1 9. Kb1 Rd1+ 10. Kc2 Rd6 $1) 8... Rd2+ 9. Kb1 $1 (9. Ka3 $2 Rd6 $1 (9... c3 $2 10. Kb3 c2 11. Kb2 Rd6 12. Kc1 $1) 10. Kb2 Rd2+) 9... Rd6 ( 9... c3 10. Kc1 $1) 10. Kc1 $1 c3 11. Kc2 $1 h3 12. Rh7 $1 Kg6 (12... Kf5 13. d8=Q Rxd8 14. Nxd8 Kg4 15. Ne6 Kg3 16. Nf4) 13. Rxh3 $1 Rxd7 14. Ne5+ 1-0  
+
+[Event "7 Commendation Hoch-50 JT {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Hlinka M, Husak K"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6k1/P7/4r3/7p/1nK3P1/p7/2p5/n2b3R w - - 0 1"]
+
+ 1. a8=Q+ Kg7 (1... Kh7 2. Rxh5+ Rh6 3. Qe4+ Kg8 4. Qe8+ Kg7 5. Rg5+) 2. Qa7+ $1 Kg6 $1 3. gxh5+ $1 (3. Qxa3 $2 c1=Q+ 4. Qxc1 Rc6+ 5. Kxb4 Rxc1 6. gxh5+ Kh7 $1 7. Ka3 Kh6 8. Kb2 Nb3 9. Re1 Kxh5 10. Re5+ Kg4 11. Rd5 Rc2+ $1 12. Kxb3 Rd2+ 13. Kc4 Bb3+) 3... Kh6 4. Qxa3 Rc6+ (4... Nb3 5. Kxb4 Rb6+ 6. Kc3 Rc6+ 7. Kd3 c1=Q 8. Qf8+) 5. Kxb4 c1=Q (5... Nb3 6. Qb2 c1=Q 7. Qh8+ Kg5 8. Qe5+ Kg4 9. Rg1+ Kf3 10. Qg3+ Ke4 11. Re1+ Kf5 12. Qe5+ Kg4 13. Rg1+) 6. Qxc1+ Rxc1 7. Ka3 $1 Rb1 8. Ka2 Rc1 9. Ka3 $1 Nc2+ $1 (9... Nb3 {main} 10. Kb2 $1 Ra1 11. Re1 Kxh5 (11... Rc1 12. Rh1) 12. Re5+ Kg4 13. Rd5 Kf4 14. Rd3 $1 Ra2+ 15. Kb1 $1 Ra1+ 16. Kb2 Ra2+ 17. Kb1 Rd2 18. Rxd2 Nxd2+ 19. Kc1) 10. Kb2 Ra1 11. Rf1 Kxh5 12. Rf5+ Kg4 13. Rd5 Ra2+ $1 14. Kb1 $1 (14. Kxa2 $2 Nb4+) (14. Kb3 $2 Nd4+ 15. Kxa2 Bb3+) 14... Ra1+ 15. Kb2 Kf3 (15... Ne3 16. Rd3 $1 Nc2 17. Rd2) 16. Rd2 1/2-1/2  
+
+[Event "1 Prize Humor Tourney EBUR#108 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r4B1k/3p2Rp/7K/2pp4/1q3pBp/1N4b1/4R3/4r3 w - - 0 1"]
+
+ 1. Be6 $1 (1. Bd6 $2 Qc3 2. Re5 Qxe5 3. Bxe5 Rxe5 4. Rxh7+ Kg8 5. Rg7+ Kf8 6. Nxc5 Rd8 7. Nxd7+ Rxd7 8. Rxd7 Ke8) 1... dxe6 2. Bd6 $1 (2. Bxc5 $2 Qc3 $1 3. Nd4 Qd3) (2. Rxh7+ $2 Kg8 3. Bd6 Qc3) 2... Qc3 3. Nd4 $1 Qxd4 (3... Qd3 4. Be5 $1 Rxe2 (4... Qxd4 5. Ra2 $1 Rxa2 6. Rg6+ Rxe5 7. Rg8+ Kxg8) 5. Rxh7+ Kg8 6. Rg7+ Kf8 7. Bd6+ Ke8 8. Re7+) 4. Re5 $1 (4. Be5 $2 f3) 4... Qd3 $1 (4... Qxe5 5. Bxe5 Rxe5 6. Rg8+ Kxg8) 5. Re4 $1 (5. Reg5 $2 f3 $1 6. Be5 Bxe5) 5... Qc3 $1 6. Rd4 $1 (6. Be5 $2 Ra6 7. Rb4 Qxe5) (6. Re5 $2 Qc2 7. Re4 Qb2 8. Re5 Qb1 9. Re4 Qa1 10. Re5 Ra7 11. Rxa7 Qxa7 12. Rg5 f3 $1) 6... Qc2 7. Rd3 $1 (7. Ra4 $2 Rf8 $1 8. Ra8 $1 Qf5 $1 9. Be5 $1 Qh5+ $1 10. Kxh5 Rxe5+ 11. Kh6 Rh5+ $1) 7... Qb2 8. Rc3 Qb1 9. Rc2 Qa1 10. Rb2 $1 (10. Rc3 $2 Ra7) 10... Qxb2 11. Be5 $1 Rxe5 (11... f3 12. Rxg3+ Rxe5 13. Rg8+ Kxg8) (11... Rf8 12. Rxh7+ Kg8 13. Rg7+) 12. Rg8+ $1 Kxg8 1/2-1/2  
+
+[Event "2 Prize Humor Tourney EBUR#107 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Van Essen M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6br/1KNp1n1r/2p2p2/P1ppRP2/1kP3pP/3PBB2/PN1P4/8 w - - 0 1"]
+
+ 1. Bxc5+ (1. Re8 $2 Nd6+ 2. Kb6 d4 3. Rb8 dxe3 4. a6 Bxc4 $1 5. a3+ Kxa3 6. a7 gxf3 7. Nxc4+ Nxc4+ 8. dxc4 Rxb8+ 9. axb8=Q f2 10. Nb5+ cxb5 11. Qf4 exd2 12. Qe3+ Ka4 $1 13. Qd3 Rxh4) 1... Kxc5 (1... Kxa5 2. a3 $1) 2. d4+ Kxd4 (2... Kb4 3. Re3 $1 dxc4 4. a3+ Kxa5 5. Nxc4+ Ka4 6. Bd1#) (2... Kd6 3. c5#) 3. Nb5+ $1 Kxe5 (3... cxb5 4. Rxd5#) (3... Kc5 4. d4+ Kb4 5. Re3 $1 dxc4 (5... cxb5 6. Rb3+ Kxa5 7. Rxb5#) (5... Rxh4 6. Rb3+ Kxa5 7. Ra3+ Kb4 8. Ra4#) 6. Kb6 $1 cxb5 7. a3#) 4. Nd3+ Kxf5 5. Nd4+ Kg6 6. Nf4+ Kg7 7. Nf5+ Kf8 8. Ng6+ Ke8 9. Kc8 $1 (9. a6 $2 Ne5 10. Nd6+ Kd8 11. a7 Nxg6 12. a8=Q+ Ke7 13. Nf5+ Kf7 14. Bxg4 Nxh4 ) 9... gxf3 10. a6 f2 11. a7 f1=Q 12. a8=N $1 (12. a8=Q $2 Qxf5 13. Kc7+ Nd8) 12... Qf4 $1 13. Nc7+ $1 Qxc7+ 14. Kxc7 dxc4 15. a4 d5 16. Kc8 $1 d4 17. a5 c3 18. a6 cxd2 (18... c2 19. a7 c1=Q 20. a8=N $1) 19. a7 d1=Q 20. a8=N $1 Ne5 21. Nd6# 1-0  
+
+[Event "3 Prize Humor Tourney EBUR#073 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Costeff G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/1RP1n3/8/N6P/4K3/p3p1B1/1pppP1Bp/8 w - - 0 1"]
+
+ 1. Kd4 (1. Kxe3 $2 h1=Q 2. Rb8+ Ka7 3. Ra8+ Kb6 4. Nc4+ Kb5 5. Nxa3+ Kb6 6. Nc4+ Kb5 7. Bxh1 b1=Q 8. Na3+ Kb6 9. Nxb1 d1=Q 10. Rb8+ Ka7 11. Ra8+ Kb6 12. Rb8+) (1. Ke5 $2 h1=Q 2. Bxh1 d1=Q 3. Be4 c1=Q 4. c8=Q+ Nxc8 5. Rd7+ Kb8 6. Rb7+ Ka8) (1. Kf4 $2 h1=Q 2. Bxh1 d1=Q 3. Rb8+ (3. Be4 Nd5+ 4. Bxd5 c1=Q 5. Bf3 Qd4+ 6. Kg5 Qcc5+ 7. Kg6 Qc2+ 8. Kg5 Qcc5+) 3... Ka7 4. c8=Q Nxc8 5. Nc6+ Ka6 6. Nb4+ Ka5 7. Nc6+ Ka6) (1. Rb8+ $2 Ka7 2. Nc6+ Ka6 3. Nxe7 (3. Nb4+ Ka5 4. Nxc2 d1=Q 5. Be1+ Qxe1 6. Nxe1 a2 7. Rxb2 a1=Q) 3... c1=Q 4. c8=Q+ Qxc8 5. Nxc8 d1=Q 6. Ra8+ Kb5 7. Rb8+ Ka6 8. Ra8+) 1... d1=Q+ (1... h1=Q 2. Rb8+ Ka7 3. Ra8+ Kb6 4. Nc4+ Kb5 5. Ra5+ Kb4 6. Bd6+ Kb3 7. Rxa3#) 2. Kc5 c1=Q+ 3. Kb6 b1=Q+ 4. Ka6 Qc4+ (4... Qxe2+ 5. Rb5+ Qxg2 6. Rb8+) 5. Nxc4 Qa4+ 6. Na5 Qxa5+ 7. Kxa5 Qxb7 8. c8=Q+ (8. Bxb7+ $2 Kxb7 9. Bxh2 a2 10. c8=Q+ Kxc8 11. Be5 Nc6+) (8. c8=R+ {or}) 8... Nxc8 9. Bxb7+ Kxb7 10. Bxh2 Ne7 (10... a2 11. Be5) 11. Ka4 ( 11. Kb5 $2 Nc6) 11... a2 12. Be5 Nf5 {eg} (12... Kc6 13. h6 Ng6 14. Bg7 Kd5 15. Kb3 Nf8 16. Kxa2 Nh7 17. Kb3 Ke4 18. Kc4 Ng5 19. Kc5) 13. Kb3 Ng3 14. h6 Nxe2 15. h7 Nd4+ 16. Kxa2 e2 17. Bg3 1-0  
+
+[Event "sp Prize Humor Tourney EBUR#093 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Costeff G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r2bb1k/4p3/2pn1p2/pp2p3/1Pr5/N2BPP1n/RBPPNP2/4K1R1 w - - 0 1"]
+
+ 1. Rh1 $1 (1. Rg3 $2 Rh4 2. bxa5 Ra8 3. Nb1 Ng5 4. Ng1 Bf7 5. Ra1 Bg7 6. Nc3 Ra6 7. Nce2 c5 8. f4 exf4 9. Nxf4 c4 10. Bf1 e5 11. Nfe2 Nge4 12. Rh3 Rxh3 13. Nxh3 b4 14. Nc1 Nb7 15. Ra4 Bf8 16. Bg2 Bd5) (1. Nxc4 $2 Nxg1 2. Nxd6 Nxf3+ 3. Kd1 exd6 4. bxa5 Ra8 5. Be4 Nh4 6. a6 d5 7. Bh1 Bh5 8. f4 Bd6 9. Ke1 Kg7 10. Kf2 Kf8) (1. Bxc4 $2 Nxg1 2. Nxg1 axb4) 1... Rh4 2. Ng1 $1 (2. bxa5 $2 Bh5 3. Ng3 Bxf3 4. Rh2 Ra8 5. Nb1 Kg7 6. Nf5+ Nxf5 7. Bxf5 Bd5 8. Ra1 Ng5 9. Rxh4 Nf3+ 10. Ke2 Nxh4) (2. Nb1 $2 Bh5 3. bxa5 Bxf3 4. Rh2 Kg7 5. Nec3 Nf4 6. Rxh4 Ng2+ 7. Kf1 Nxh4 8. a6 Ra8) 2... Bf7 3. Ra1 $1 axb4 4. Nb1 $1 Be6 (4... Nc4 5. Bc1 Be6 6. Bf1) (4... b3 5. cxb3 Bxb3 6. Rxh3 Rxh3 7. Nxh3) 5. Bf1 $1 (5. f4 $2 Nc4 6. Bxc4 bxc4 7. fxe5 Bg7 8. Ra7 b3 9. cxb3 Rxb3 10. exf6 Rxb2 11. fxg7+ Kxg7 12. Nc3 Nxg1 13. Rxg1+ Kf7) 5... Nc4 (5... Nxg1 6. Rxh4+ Kg8 7. Bg2 Nc4 8. Bc1 e4 9. Rxe4 Bh3 10. Bxh3 Nxh3 11. d3 Ne5 12. Nd2 Ng5 13. Rxb4) (5... b3 6. cxb3 Bxb3 7. Rxh3 Rxh3 8. Nxh3 Nc4 9. Bc1 e6 10. d3 Bb4+ 11. Ke2 Rd8 12. Nd2 Nxd2 13. Bxd2) 6. Bc1 $1 Nd6 {eg} (6... Nxg1 7. Rxh4+ Kg7 8. Bg2 e4 9. Rxe4) (6... e4 7. fxe4 Nxg1 8. Rxh4+ Kg7 9. Rh1 Nf3+ 10. Kd1 Rd8 11. Be2 Bg4 12. d3 c5 13. Nd2 Ncxd2 14. Bxd2 Kg6 15. Ra7 Rc8 16. Kc1) (6... Nb6 7. d3 b3 8. cxb3 Bxb3 9. Rxh3 Rxh3 10. Nxh3 Nd5 11. Bb2 b4 12. Nd2 Bc2 13. Ng5 Kg8 14. Ne6) 7. d3 b3 8. cxb3 Bxb3 9. Rxh3 Rxh3 10. Nxh3 b4 11. Bb2 Kg7 12. Nd2 Bf7 13. Bg2 Rb6 14. f4 exf4 15. Nxf4 1-0  
+
+[Event "1 Honorable Mention Humor Tourney EBUR#106 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Didukh S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4qr1k/5pR1/2N3n1/1Pp4K/1bP2P1B/1b1Pr1P1/p7/8 w - - 0 1"]
+
+ 1. Kh6 a1=Q $1 (1... Bc3 2. d4 Bxd4 3. Nxd4 Qe5 4. fxe5 Rb8 5. Bf6 Rf3 (5... Rb6 6. Nc6) 6. Nxb3) (1... Qe5 2. Nxe5) 2. d4 (2. Rh7+ $2 Kg8) 2... Qxd4 3. Nxd4 Qe5 $1 4. fxe5 Rb8 $1 5. Bf6 Rb6 6. e6 $1 (6. Nc6 $2 Rf3 7. Rxf7+ Kg8 8. e6 Bxc4) (6. Nxb3 $2 Rxf6 7. exf6 Ne5) 6... Rexe6 $1 (6... Rbxe6 7. Nxe6 Rxe6 8. Rxg6+ Rxf6 9. Rxf6 Bd2+ 10. Kh5 Bxc4 11. b6) 7. Nxe6 Bd2+ 8. Kh5 Bd1+ (8... Nf4+ 9. gxf4 Rxe6 10. Rg6+ Rxf6 11. Rxf6 Kg7 12. Kg5 Bxc4 13. b6 Ba6 14. Rd6 Ba5 15. Rd7) 9. g4 Nf4+ 10. Kh6 $1 Nd5+ (10... Nxe6+ {main} 11. Rg5+ Ng7) 11. g5 Nxf6 (11... Bxg5+ 12. Kxg5 Nxf6 13. Kxf6 Rxe6+ 14. Kxf7 Re4 15. Rg5 Rxc4 16. b6) (11... fxe6 12. cxd5) 12. Rh7+ $1 Kg8 13. Rg7+ Kh8 14. Rh7+ Nxh7 1/2-1/2  
+
+[Event "2 Honorable Mention Humor Tourney EBUR#105 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Van Essen M, Van der Marel L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3q3b/2Rb3B/k7/1p2N3/8/1Kp5/4Q3 b - - 0 1"]
+
+ 1... Be5+ (1... Qxc6 2. Qa1+ Kb5 3. Qf1+ Kb6 4. Be3+ Kc7 5. Qf7+ Qd7 6. Qxd7+) (1... c1=Q+ 2. Qxc1 Be5+ 3. Ka2 Qd5+ 4. Qc4 Qxc4+ 5. Rxc4 Bg8 6. Kb3 Kb5 7. Nd2 Bc3 8. Be3 Bxd2 9. Bxd2 Bxc4+ 10. Kb2) 2. Nc3 $1 (2. Kb3 $2 Bg8+ 3. Kxc2 Qxc6+ 4. Kd3 Bc4+ 5. Kd2 Qxh6+) 2... bxc3+ (2... Bxc3+ 3. Rxc3) 3. Kc1 Qd4 4. Rxc3 $1 (4. Rc4 $2 Qd6 $1 5. Rxc3 Qxh6+ 6. Re3+ Ka4 $1 7. Qc3 Qh1+ (7... Bxc3) 8. Re1 ( 8. Qe1 Qxe1+ 9. Rxe1 Bd6) 8... Bf4+ 9. Kb2 Qb7+ 10. Ka2 Qb1+ 11. Rxb1 cxb1=Q#) 4... Qxc3 $1 5. Bd2 Bf4 $1 6. Qe5+ Bxe5 7. Bxc3+ Bxc3 1/2-1/2  
+
+[Event "3 Honorable Mention Humor Tourney EBUR#104 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Hlinka M, Vlasak E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2R2p2/1B3pkp/7p/B7/3R2pr/r4P1P/4b2K w - - 0 1"]
+
+ 1. Kg2 $1 (1. Rxg3+ $2 Rxg3 2. fxg3 Rxa4) (1. Bc2 $2 Rxc2 2. Rxc2 g2+ 3. Kxg2 Rxd3) (1. fxg3 $2 Rhxh2+ 2. Kg1 Rag2+ 3. Kf1 Bf2 4. Bxf2 Rxf2+ 5. Ke1 Re2+ 6. Kd1 Ra2) 1... Rxh2+ (1... Rxf2+ 2. Bxf2 Rxh2+ 3. Kxg3 Rxf2 4. Kh3) (1... Rxa4 2. fxg3 Rah4 3. Bg1) (1... Rh4 2. Rxg3+) 2. Kxg3 Bxf2+ (2... Rhxf2 3. Bxf2 Bxf2+ 4. Kf3 Rxa4 5. Kxf2) (2... Rh1 3. Bb3 $1 Rd2 (3... Ra1 4. Bxf7+ Kf5 5. Rc5+ Ke4 6. Re3+ Kd4 7. Rxh5#) (3... Re2 4. Bxf7+ Kg5 5. Rc5+ Re5 6. Rxe5+ fxe5 7. Rf3 h4+ 8. Kg2) 4. Bxf7+ Kf5 (4... Kg5 5. Rc5+ f5 6. Bd8#) 5. Rc5+ Ke4 6. Re3+ Kd4 7. Rxh5#) 3. Kxh2 Bxb6+ 4. Bc2 $1 (4. Rc2 $2 Rxa4) 4... Bxc7+ 5. Rg3# 1-0  
+
+[Event "1 Commendation Humor Tourney EBUR#103 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Kazantsev V, Vinichenko V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4N3/Bn1P1P1P/N7/7n/K7/2q5/k7 w - - 0 1"]
+
+ 1. Nb3+ (1. Nc4 $2 Qa4#) (1. Bb5 $2 Qb2#) (1. Kb4 $2 Qa4+ 2. Kc5 Nd7+) 1... Kb1 2. h7 $1 (2. f7 $2 Qa2+ 3. Kb4 Kb2 4. f8=Q Qa4+ 5. Kc5 Nd7+) 2... Qxh7 $1 (2... Qb2+ 3. Kb4 Qxf6 4. Nc5 Qd4+ (4... Nf3 5. Bd3+ Kc1 6. Ka5 Na8 7. d7 Qxe7 8. h8=Q Qxc5+ 9. Bb5 Nd4 10. Qh6+ $1 Kc2 11. Qg6+ Kb2 12. Ka6 Nc7+ 13. Kb7 Nce6 14. Qg2+ Kc3 15. Qg3+ Kb4 16. Qe1+ Kxb5 17. Qb1+ Ka5 18. Qa2+ Kb4 19. Qd2+ Ka3 20. Qd3+) 5. Kb5 Nc4 6. d7 Nd6+ 7. Kb6 Nf7 8. Nc6 Qf6 9. Bc4 Nd8 10. Ne6) 3. f7 Nd7 4. Nf5 $1 (4. f8=Q $2 Nxf8 5. Nf5 Qa7) (4. Nd5 $2 Qc2 5. Nb4 Qb2+ 6. Ka4 Qf2 7. Ka3 Qa7) (4. Bb5 $2 Kc2 5. Nd5 Qh6 6. Nb4+ Kd1 7. Bxd7 Qxd6 8. Bg4+ Ke1 9. Ka4 Ng6 10. Nc5 Ne5 $1 11. Ncd3+ Nxd3 12. Nxd3+ Kd2 13. Nb4 Qf4 $1 14. Be6 Kc3) 4... Qxf5 (4... Kc2 5. Ne3+) 5. f8=Q (5. Bb7 $2 Nc5) 5... Nxf8 6. Bb7 $1 Nf3 (6... Kc2 7. Nd4+) 7. d7 $1 Nxd7 8. Be4+ Qxe4 9. Nd2+ Nxd2 1/2-1/2  
+
+[Event "2 Commendation Humor Tourney EBUR#077 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Rossi P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5KR1/QB4pk/P2p3B/1p5p/3b4/5nPp/q2pp3/7n w - - 0 1"]
+
+ 1. Rh8+ $1 (1. Be4+ $2 Kxh6 2. Rh8+ Kg5 3. Qe7+ (3. Qd7 Nxg3 4. Rxh5+ Nxh5 5. Qf5+ Kh4) 3... Bf6 4. Rxh5+ Kxh5 5. Qe8+ Kg4 6. Qg6+ Ng5 $1 7. Qf5+ Kxg3) (1. Bd5 $2 Qxd5 2. Rh8+ (2. Rxg7+ Kxh6 3. Rh7+ Kg6) 2... Kg6 $1 (2... Kxh8 $2 3. Bxg7+ Kh7 4. Bxd4+)) (1. Rxg7+ $2 Kxh6 2. Rh7+ Kg5 $1) (1. Bxg7 $2 Qxg8+) 1... Kxh8 (1... Kg6 2. Be4+ Kf6 3. Qe7#) 2. Bd5 $1 Qxd5 (2... gxh6 3. Qf7 Qxd5 4. Qxd5 Bg7+ 5. Kf7 Ne5+ (5... Ng5+ 6. Kg6) 6. Qxe5 $1 Bxe5 (6... dxe5 7. a7) 7. a7) (2... Bxa7 3. Bxg7+ Kh7 4. Be4#) (2... Qb2 3. Qf7) 3. Bxg7+ Kh7 4. Bxd4+ Kg6 (4... Kh6 5. Qg7#) 5. Qg7+ Kf5 6. Qf6+ Ke4 (6... Kg4 7. Qf4#) 7. Qf4+ Kd3 8. Qe3+ Kc2 (8... Kc4 9. Qc3#) 9. Qc3+ Kd1 10. Qa1+ Kc2 11. Qb2+ Kd3 12. Qc3+ Ke4 13. Qe3+ Kf5 14. Qf4+ Kg6 15. Qf6+ Kh7 16. Qg7# 1-0  
+
+[Event "3 Commendation Humor Tourney EBUR#102 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Libelle H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B6k/6pP/P5Pb/6pK/6P1/1NPP2P1/N2P4/R1RQ3b w - - 0 1"]
+
+ 1. Bg2 $1 (1. a7 $2 Bf3) 1... Bxg2 2. Qh1 Bxh1 3. a7 Bf3 4. a8=Q+ Bxa8 5. Rh1 Bxh1 6. Nac1 Bf3 7. Ra8+ Bxa8 8. Ne2 Bf3 9. Nf4 1-0  
+
+[Event "The Chess Euclid {m}"]
+[Site "?"]
+[Date "1849.??.??"]
+[Round "?"]
+[White "Kling J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/8/5B2/8/8/1B6/pp6/k2K4 w - - 0 1"]
+
+ 1. Bg8 $3 {Indian} Kb1 2. Bh7+ Ka1 3. Ng6 $1 1-0  
+
+[Event "The Chess Euclid {m}"]
+[Site "?"]
+[Date "1849.??.??"]
+[Round "?"]
+[White "Kling J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/8/2p5/2P5/2BB4/8/pp1K4/k7 w - - 0 1"]
+
+ 1. Bg8 $1 {with duals} Kb1 2. Bh7+ Ka1 3. Ng6 $1 {Indian} Kb1 4. Ne5+ Ka1 5. Nd3 $1 Kb1 6. Nc1+ Ka1 7. Nb3# 1-0  
+
+[Event "The Chess Monthly {m}"]
+[Site "?"]
+[Date "1881.??.??"]
+[Round "?"]
+[White "Horwitz B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7B/8/5R2/8/8/7p/4K2p/7k w - - 0 1"]
+
+ 1. Rf8 {with duals} (1. Ke1 $1 Kg2 2. Rf2+ Kg1 3. Bd4 h1=Q 4. Re2#) 1... Kg2 2. Rg8+ (2. Be5 $1 h1=Q 3. Rg8#) 2... Kh1 3. Bg7 $1 {Indian} Kg2 4. Be5+ Kh1 5. Bxh2 1-0  
+
+[Event "The Chess Monthly {m}"]
+[Site "?"]
+[Date "1881.??.??"]
+[Round "?"]
+[White "Horwitz B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/8/8/8/R7/p7/p2K4/k7 w - - 0 1"]
+
+ 1. Ra8 $1 {with duals} Kb2 2. Rb8+ (2. Nc6) 2... Ka1 3. Nb7 $1 {Indian} Kb2 4. Nc5+ Ka1 5. Nb3+ Kb2 6. Nd4+ Ka1 7. Nc2# 1-0  
+
+[Event "Cincinnati Commercial {m}"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "?"]
+[White "Robertson G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/3p4/8/3p1B2/1BpP4/8/ppp1p3/qk1bR3 w - - 0 1"]
+
+ 1. Bf8 $1 d6 2. Kh7 $1 c3 3. Kg6 $1 Kc1 4. Bh6+ Kb1 5. Kg5 $1 {Indian} Kc1 6. Kg4+ Kb1 7. Kf4 Kc1 8. Kf3+ Kb1 9. Ke3 Kc1 10. Kf2+ Kb1 11. Rg1 $1 (11. Rh1 $2 e1=Q+ 12. Rxe1 {stalemate}) 11... e1=Q+ 12. Kxe1 Bf3 13. Kf2+ 1-0  
+
+[Event "Unknown {m}"]
+[Site "?"]
+[Date "1885.??.??"]
+[Round "?"]
+[White "Lyons H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6R1/8/p3P1P1/P2P1pP1/pBB1pP2/pp1pP3/k2K4 w - - 0 1"]
+
+ 1. Bg8 $1 {with duals} Kb1 2. Bh7+ Ka1 3. Rg6 $1 {Indian} Kb1 4. Rf6+ Ka1 5. Rf5 Kb1 6. Rxf4+ Ka1 7. Re4 Kb1 8. Rxe3+ Ka1 9. Rd3 Kb1 10. Rxd2+ Ka1 11. Rc2 Kb1 12. Rc1# 1-0  
+
+[Event "Rigaer Tageblatt {m}"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Behting C, Behting J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1K5B/8/6p1/8/4BkpP/6Nb w - - 0 1"]
+
+ 1. h4 ({dual} 1. Be3+ $1 Kxe3 2. Bxg4 Kf2 3. Nh3+ $18) 1... gxh3 {e.p.} (1... Kxg1 2. Be3+ Kh2 3. h5 g1=Q 4. Bxg1+ Kxg1 5. Bxg4 Be4 6. Kc5 Kf2 7. Kd4 $18) 2. Ba6 $3 {Indian} Kxg1 3. Be3+ Kh2 4. Bf4+ Kg1 5. Bg3 h2 6. Kb5 $1 Kf1 7. Kb4+ ({ minor dual} 7. Kc5+) 7... Kg1 8. Kc4 Kf1 9. Kc3+ ({minor dual} 9. Kd4+) 9... Kg1 10. Kd3 Kf1 11. Ke3+ Kg1 12. Bf2# 1-0  
+
+[Event "Baltische Schachblдtter {m}"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Behting J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7B/8/K7/3B3p/5kp1/6Rb w - - 0 1"]
+
+ 1. Ba6 $3 {Indian} Kxg1 (1... h2 2. Bf8 (2. Bg7) 2... Kxg1 (2... hxg1=Q 3. Bc5+ $18) 3. Bc5#) 2. Be3+ Kh2 3. Bf4+ Kg1 4. Bg3 h2 5. Kb5 $1 Kf1 6. Kb4+ ({ minor dual} 6. Kc5+) 6... Kg1 7. Kc4 Kf1 8. Kc3+ ({minor dual} 8. Kd4+) 8... Kg1 9. Kd3 Kf1 10. Ke3+ Kg1 11. Bf2# 1-0  
+
+[Event "Rigaer Tageblatt {m}"]
+[Site "?"]
+[Date "1893.??.??"]
+[Round "?"]
+[White "Behting J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3K4/8/5Bp1/8/6B1/6p1/6kb w - - 0 1"]
+
+ 1. Kc6 $1 Kf1 2. Bd3+ Kg1 3. Ba6 $1 {Indian} g4 4. Kb5 $1 Kf1 5. Kc5+ Kg1 6. Kc4 Kf1 7. Kd4+ Kg1 8. Kd3 Kf1 9. Ke3+ Kg1 10. Bb8 g3 11. Kf3 (11. Bxg3 $2 { stalemate}) 11... Kh2 12. Bxg3+ Kg1 13. Bc8 Kf1 14. Bh3 1-0  
+
+[Event "Armee-Zeitung {m}"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Von Holzhausen W"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/8/6B1/8/8/2B5/pP6/k2n4 w - - 0 1"]
+
+ 1. Bh8 $1 {Indian} Nxb2 2. Kg7 Nd1 3. Kf7+ Nb2 4. Kf6 Na4 5. Ke6+ Nb2 6. Ke5 1-0  
+
+[Event "La Stratйgie {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Galitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4B3/8/4R3/8/1pp1p3/1krbK3 w - - 0 1"]
+
+ 1. Re5 Ka1 2. Ra5+ Kb1 3. Ba2+ Ka1 4. Bb3+ Kb1 5. Ba4 $1 {Indian?} Ka2 6. Bxc2# 1-0  
+
+[Event "Deutsche Schachzeitung {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7K/p7/8/5B2/8/pn6/k3N3 w - - 0 1"]
+
+ 1. Nc2+ Kb1 2. Na3+ Ka1 3. Be5 a5 4. Bh8 a4 5. Kg7 Nd1 6. Kg6+ Nb2 7. Kf6 Nd1 8. Kf5+ Nb2 9. Ke5 Nd1 10. Ke4+ Nb2 11. Kd4 Nd1 12. Kd3+ Nb2+ 13. Kc3 Nd1+ 14. Kc2+ Nb2 15. Bxb2# 1-0  
+
+[Event "Deutsche Schachzeitung {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/p6K/8/3N4/8/pn1B4/k7 w - - 0 1"]
+
+ 1. Nc2+ Kb1 2. Na3+ Ka1 3. Bc3 (3. Bg5 $1) 3... a5 4. Bh8 $1 4... a4 5. Kg7 Nd3 6. Kg6+ Nb2 7. Kf6 Nd1 8. Kf5+ Nb2 9. Ke5 Nd3+ 10. Ke4+ Nb2 11. Kd4 Nd1 12. Kd3+ Nb2+ 13. Kc3 Nd1+ 14. Kc2+ Nb2 15. Bxb2# 1-0  
+
+[Event "Deutsche Schachzeitung {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4K3/8/8/3N4/8/pn1B4/k7 w - - 0 1"]
+
+ 1. Nc2+ Kb1 2. Na3+ Ka1 3. Bh6 Nd3 4. Bg7+ Nb2 5. Kf6 Nd3 6. Ke6+ Nb2 7. Ke5 Nd3+ 8. Kd5+ Nb2 9. Kd4 Nd3 10. Kc4+ Nb2+ 11. Kc3 Na4+ 12. Kc2+ Nb2 13. Bxb2# 1-0  
+
+[Event "Deutsche Schachzeitung {m}"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/8/8/p7/3N4/8/pn1B4/k7 w - - 0 1"]
+
+ 1. Nc2+ Kb1 2. Na3+ Ka1 3. Bh6 a4 4. Ke7 Nd3 5. Bg7+ Nb2 6. Kf6 Nd3 7. Kf5+ Nb2 8. Ke5 Nd3+ 9. Ke4+ Nb2 10. Kd4 Nd1 11. Kd3+ Nb2+ 12. Kc3 Nd1+ 13. Kc2+ Nb2 14. Bxb2# 1-0  
+
+[Event "La Stratйgie {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Rohr H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7K/8/p1p5/2Bp4/pn1N4/k3N3 w - - 0 1"]
+
+ 1. Nxd3 cxd3 (1... a3 2. Nxc4 Kb1 3. Nxa3+ $18) 2. Bh8 $1 {Indian} a3 3. Kg7 Nd1 4. Kg6+ ({minor dual} 4. Kf7+) 4... Nb2 5. Kf6 Nd1 6. Kf5+ ({minor dual} 6. Ke6+) 6... Nb2 7. Ke5 Nd1 8. Ke4+ ({minor dual} 8. Kd5+) 8... Nb2 9. Kd4 Nd1 10. Kxd3+ Nb2+ 11. Kc3 1-0  
+
+[Event "Schlesische Zeitung {m}"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Kraemer A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/p7/p7/7B/P7/4n2p/4N2p/7k w - - 0 1"]
+
+ 1. Bf3+ Ng2 2. Kb8 a5 3. Ba8 $1 {Indian} a6 4. Kb7 Ne3 5. Kc7+ Ng2 6. Kc6 Ne3 7. Kd6+ Ng2 8. Kd5 Ne3+ 9. Kd4+ Ng2 10. Ke4 Ne1 11. Kf4+ Ng2+ 12. Kf3 1-0  
+
+[Event "Unknown {m}"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7b/8/1R2p3/7K/5p2/1N3k2 w - - 0 1"]
+
+ 1. Nc3 Bd2 (1... Ke1 2. Rb1+ Kd2 3. Nxe4+ Ke2 4. Ng3+) (1... Kg1 2. Ne2+ Kf1 3. Ng3+) 2. Rb1+ Be1 3. Kh2 e3 4. Ra1 $1 (4. Rd1 $1 4... e2 5. Ne4 exd1=Q 6. Ng3#) 4... e2 5. Nb1 Bc3 6. Nd2# 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Weenink H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/K7/1p5p/3B1p2/3B1P2/1P5p/7k w - - 0 1"]
+
+ 1. Bf1 h4 2. Bh3 $1 b4 3. Ba7 $1 {Indian} b3 4. Kb6 Kg1 5. Kb5+ ({minor dual} 5. Kc6+) 5... Kh1 6. Kc5 Kg1 7. Kc4+ ({minor dual} 7. Kd5+) 7... Kh1 8. Kd4 Kg1 9. Kd3+ Kh1 10. Bf1 h3 11. Bb8 Kg1 12. Bxf4 $1 ({minor dual} 12. Ke2 h1=Q 13. Bxf4) 12... h1=Q 13. Ke2 $1 h2 14. Be3# 1-0  
+
+[Event "Vossische Zeitung {m}"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Leick W"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K3/8/8/7p/4N3/8/4B1np/7k w - - 0 1"]
+
+ 1. Nf2+ Kg1 2. Nh3+ Kh1 3. Ba6 $1 {Indian} Ne3 (3... h4 4. Kd7 Ne3 5. Bb7+) 4. Bb7+ Ng2 5. Kd7 h4 6. Kc6 Ne3 7. Kc5+ Ng2 8. Kd5 Ne3+ 9. Kd4+ Ng2 10. Ke4 Ne1 11. Ke3+ Ng2+ 12. Kf3 Ne1+ 13. Kf2+ Ng2 14. Bxg2# 1-0  
+
+[Event "Цstergцtlands Dagblad {m}"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Weenink H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/1pR1P1K1/p2P2P1/rp1B1P2/pk6/b7 w - - 0 1"]
+
+ {(19#?)} 1. Bh7 $1 {Indian} b4 2. Kf5 $1 Kb1 3. Kf4+ Kb2 4. Ke4 Kb1 5. Ke3+ Kb2 6. Kd3 Kb1 7. Kd2+ Kb2 8. Bg8 Kb1 9. Rc1+ Kb2 10. Rc6 Kb1 11. Bh7+ Kb2 12. Rg6 $1 ({dual} 12. Kd3 $1 Kb1 13. Ke3+ Kb2 14. Rh6 Kc1 15. Rh1+ Kb2 16. e6 $18) 12... Kb1 13. Rg5+ Kb2 14. Rf5 Kb1 15. Rf4+ Kb2 16. Re4 Kb1 17. Re3+ Kb2 18. Rd3 Kb1 19. Rxb3# 1-0  
+
+[Event "The Chess Amateur {m}"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Havasi A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2K3p1/6p1/p2B2P1/3B4/P5r1/6Pp/7k w - - 0 1"]
+
+ 1. Ba8 $1 {Indian} ({dual} 1. Bc6 $1 $18) 1... a4 2. Kd6 Rxg2 3. Kd5 Rxg5+ 4. Kc4+ Rg2 5. Bf2 g5 6. Kd3 g4 7. Ke2 g3 8. Kf1 gxf2 9. Bxg2# 1-0  
+
+[Event "Ceskй Slovo {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Votruba O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/2p5/8/2P5/3p4/R2p4/bp1p4/krbN2K1 w - - 0 1"]
+
+ 1. Ra8 $1 {Indian} c6 2. Ba7 Bb3 3. Bb6+ Ba2 4. Ba5 Bb3 5. Bb4+ ({dual} 5. Bc3+ $1 $18) 5... Ba2 6. Ba3 Bb3 7. Bxb2# 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M, Platov v"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R4N2/8/8/7p/4p3/6p1/3K4/7k w - - 0 1"]
+
+ 1. Ra5 ({dual} 1. Ra3 $1 e3+ (1... Kh2 2. Ng6 (2. Ne6) 2... g2 3. Nf4 g1=Q 4. Rh3#) 2. Rxe3 g2 3. Rh3+ Kg1 4. Ng6 Kf2 5. Nh4 g1=Q 6. Rf3#) 1... h4 2. Rh5 g2 3. Rxh4+ Kg1 4. Ke1 (4. Ke2 $2 e3 5. Rh8 {stalemate}) 4... e3 5. Rh8 $1 {Indian } e2 6. Nh7 $1 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M, Platov v"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/8/8/8/4pR2/8/3K2p1/7k w - - 0 1"]
+
+ 1. Rh4+ Kg1 2. Ke1 $1 (2. Ke2 $2 e3 3. Rh8 {stalemate}) 2... e3 3. Rh8 $1 { Indian} e2 4. Nh7 $1 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M, Platov v"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/8/8/7p/7B/7p/8/4K2k w - - 0 1"]
+
+ 1. Kf2 h2 2. Bg3 h4 3. Bb8 $1 h3 4. Kg3 Kg1 5. Ba7+ Kh1 6. Nb6 $1 {Indian} 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M, Platov v"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R4N2/8/8/7p/4p3/6p1/8/3K3k w - - 0 1"]
+
+ 1. Ra5 h4 (1... g2 2. Rxh5+ Kg1 3. Ke1 e3 4. Ng6 ({dual} 4. Rh8 e2 5. Nh7) 4... e2 5. Nh4 $18) 2. Rh5 g2 (2... Kg2 3. Ng6 (3. Ne6) 3... h3 4. Nf4+ $18) 3. Rxh4+ Kg1 4. Ke1 $1 (4. Ke2 $2 e3 5. Rh8 {stalemate}) 4... e3 5. Rh8 $1 {Indian } e2 6. Nh7 $1 1-0  
+
+[Event "Ceskй Slovo {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M, Platov v"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/4p3/1R6/2P1pK2/2p5/2k4B w - - 0 1"]
+
+ 1. Ke2 e4 2. Ke1 e2 3. Rb8 $1 {Indian} ({dual} 3. Kxe2 $1 e3 4. Rg4 (4. Rf4) 4... Kb2 5. Rg1 $18) 3... e3 4. Bb7 Kb2 5. Be4+ 1-0  
+
+[Event "Ceskй Slovo {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M, Platov v"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2Rp4/1p1p4/k4K2/6B1 w - - 0 1"]
+
+ 1. Ra4+ Kb1 2. Ke1 b2 3. Kd1 d2 4. Ra8 $1 {Indian} ({dual} 4. Kxd2 $1 $18) 4... d3 5. Ba7 $1 Ka2 6. Bd4+ 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M, Platov v"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/8/8/7p/7B/7p/4K3/7k w - - 0 1"]
+
+ 1. Kf2 ({duals} 1. Nc7 $1 $18) (1. Nb6) 1... h2 2. Bg3 h4 3. Bb8 $1 h3 4. Kg3 Kg1 5. Ba7+ Kh1 6. Nb6 $1 {Indian} Kg1 7. Nd5+ Kh1 8. Ne3 Kg1 9. Ng4+ Kh1 10. Bb8 Kg1 11. Nxh2 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M, Platov v"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/8/8/8/7B/7p/5K1k/8 w - - 0 1"]
+
+ 1. Bg3+ ({duals} 1. Bf6 $1 $18) (1. Bg5) (1. Be7) (1. Bd8 $1 Kh1 2. Kg3 h2 3. Kh3 Kg1 4. Bb6+ Kh1 5. Bc7 Kg1 6. Bxh2+ $18) 1... Kh1 2. Bb8 $1 h2 3. Kg3 Kg1 4. Ba7+ Kh1 5. Nb6 $1 {Indian} Kg1 6. Nd5+ Kh1 7. Ne3 Kg1 8. Ng4+ Kh1 9. Bb8 Kg1 10. Nxh2 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Platov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5B2/8/8/p6K/4B3/pn6/1k6 w - - 0 1"]
+
+ 1. Bg6+ Ka1 2. Bh6 $1 a3 3. Kg5 Nc4 4. Bg7+ Nb2 5. Kf6 $1 {Indian} Nc4 6. Ke6+ Nb2 7. Ke5 $1 1-0  
+
+[Event "28 Rijen {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Vancura J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/4B3/6p1/4p1p1/R3K1kb w Q - 0 1"]
+
+ 1. Ra8 $1 (1. Kxe2+ Kh2) 1... Kh2 2. Rh8+ Kg1 3. Bh7 $1 {Indian} Kh2 4. Bg6+ ({ dual} 4. Bf5+ $1 $18) 4... Kg1 5. Bh5 Kh2 6. Bxe2+ (6. Bg4+ Kg1 7. Re8) 6... Kg1 7. Bh5 Kh2 8. Bg4+ Kg1 9. Ra8 Kh2 10. Ra2 Kg1 11. Ke2 Kh2 12. Kf3 Kg1 13. Kxg3 Kf1 14. Ra1# 1-0  
+
+[Event "150 Izbr Sovr Etjudov {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Troitzky A, Platov M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5BK1/8/8/p7/4B3/pn6/1k6 w - - 0 1"]
+
+ 1. Bg6+ Ka1 2. Kf7 Nc4 (2... a3 3. Bh6 Nc4 4. Bg7+ Nb2 5. Kf6) 3. Bd4+ Nb2 4. Bg7 $1 ({dual} 4. Bh8 $1 $18) 4... a3 5. Kf6 $1 {Indian} Nc4 6. Ke6+ Nb2 7. Ke5 Na4 8. Kd5+ ({duals} 8. Ke4+ $1 Kb1 9. Kd5+ Kc1 10. Ba1 $18) (8. Kd4 $1 Kb2 9. Kc4+ $18) 8... Nb2 9. Kd4 Nd1 10. Kc4+ Nb2+ 11. Kc3 Nd1+ 12. Kb3+ Nb2 13. Bf8 $1 1-0  
+
+[Event "The Chess Amateur {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Pepler C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/8/8/8/1R6/1p1p4/1p1K4/1k6 w - - 0 1"]
+
+ 1. Rb8 $1 ({dual} 1. Kd1 $1 Ka2 2. Ra4+ Kb1 3. Ra8 $1 d2 4. Na7 $1 $18) 1... Ka2 2. Ra8+ ({dual} 2. Nb6 $1 b1=Q 3. Ra8+ Kb2 4. Nc4#) 2... Kb1 3. Na7 $1 { Indian} Ka2 4. Nb5+ Kb1 5. Nc3# 1-0  
+
+[Event "The Chess Amateur {m}"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Pepler C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7N/8/8/8/1pB5/1K6/p7/k7 w - - 0 1"]
+
+ 1. Bg8 $1 {Indian} (1. Ng6 $2 Kb1 2. Bd3+ Ka1 3. Ne5 {stalemate}) 1... Kb1 2. Bh7+ Ka1 3. Ng6 $1 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/6b1/1R2p2p/7p/5pPK/1N3k2 w - - 0 1"]
+
+ 1. Nc3 Ke1 (1... Bd2 $1 2. Rb1+ Be1 3. gxh3 e3 4. Ra1 e2 5. Nb1 Bb4 6. Nd2#) 2. Rb1+ Kd2 3. Nxe4+ Kc2 4. Rf1 Be3 5. gxh3 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3p4/1R1Ppb2/7K/5p2/1N3k2 w - - 0 1"]
+
+ 1. Nc3 Bd2 (1... Ke1 2. Rb1+ Kd2 3. Nxd5) 2. Rb1+ Be1 3. Kh2 e3 4. Ra1 e2 5. Nb1 Bc3 6. Nd2# 1-0  
+
+[Event "Latvia Ty {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Behting J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/6pN/7p/7p/1KR3nk w - - 0 1"]
+
+ 1. Rf1 g3 2. Nf5 Kg2 3. Ne3+ Kh1 4. Rc1 $1 {Indian - Switchback} g2 5. Nd1 Ne2 6. Nf2# 1-0  
+
+[Event "64 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/8/7B/8/2K5/1p1B4/p7/k7 w - - 0 1"]
+
+ 1. Bd2 ({duals} 1. Kb4 $1 b2 2. Ka3 $18) (1. Nd7 $1) (1. Ne6 $1) (1. Bh7 $1) 1... b2 2. Bh7 $1 {Indian} b1=Q 3. Bc3+ Qb2 4. Ng6 Kb1 5. Ne5+ Ka1 6. Nd3 1-0  
+
+[Event "64 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Salkind L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N2/8/7B/8/3K4/1p1B4/p7/k7 w - - 0 1"]
+
+ 1. Bd2 $1 b2 (1... Kb2 2. Bc3+ Kc1 3. Bc4 $18) 2. Bh7 $3 {Indian} b1=Q 3. Bc3+ Qb2 4. Ng6 Kb1 (4... Qxc3+ 5. Kxc3 Kb1 6. Nf4+ (6. Ne5+) 6... Ka1 7. Nd3 $18) 5. Ne5+ (5. Nf4+ $2 Qc2 6. Bxc2+ Kxc2 $11) 5... Ka1 (5... Qc2 6. Bxc2+ Kxc2 7. Nc4 Kb1 8. Na3+ $18) 6. Nd3 Qxc3+ 7. Kxc3 1-0  
+
+[Event "Le Temps {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Henneberger M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6K1/p7/P1r5/2B5/pR1P4/k7 w - - 0 1"]
+
+ 1. Bh8 $1 {Indian} (1. Bf6 $2 Rg4+ 2. Kf7 Rg7+ $1 3. Ke6 (3. Kxg7 {stalemate}) 3... Rg6 4. Ke7 Rg7+ {positional draw}) 1... Rg4+ 2. Kf7 Rg7+ 3. Kxg7 1-0  
+
+[Event "Casino di Saragossa {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Candela R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/p7/p7/p7/2N5/8/pn1B4/1k6 w - - 0 1"]
+
+ 1. Na3+ Ka1 2. Bc3 ({dual} 2. Bh6 $1 $18) 2... a4 3. Kh7 a5 4. Bh8 $1 {Indian} a6 5. Kg7 Nd3 6. Kg6+ Nb2 7. Kf6 Nd3 8. Kf5+ Nb2 9. Ke5 Nd3+ 10. Ke4+ Nb2 11. Kd4 Nd1 12. Kd3+ Nb2+ 13. Kc3 1-0  
+
+[Event "Casino di Saragossa {m}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Candela R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/8/p7/8/2N5/8/pn1B4/1k6 w - - 0 1"]
+
+ 1. Na3+ Ka1 2. Bh6 $1 a5 3. Kh7 ({dual} 3. Kg8 $1 $18) 3... a4 4. Kg6 Nd3 5. Bg7+ Nb2 6. Kf6 $1 {Indian} Nd3 7. Kf5+ ({minor dual} 7. Ke6+) 7... Nb2 8. Ke5 Nd3+ 9. Ke4+ ({minor dual} 9. Kd5+) 9... Nb2 10. Kd4 Nd1 11. Kd3+ ({minor dual } 11. Kc4+) 11... Nb2+ 12. Kc3 1-0  
+
+[Event "Hungarian Chess Federation Ty {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Nyeviczkey L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/1K6/8/8/2p5/5k1p/3B3P/8 w - - 0 1"]
+
+ 1. Kc6 Kg2 2. Bf4 c3 3. Kd5 c2 4. Ke4 c1=Q 5. Bxc1 Kxh2 6. Kf3 Kg1 7. Be3+ Kh1 8. Ba7 $1 {Indian} h2 9. Nb6 Kg1 10. Nd5+ ({minor dual} 10. Nc4+) 10... Kh1 11. Ne3 1-0  
+
+[Event "Hungarian Chess Federation Ty {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Nyeviczkey L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/8/2K2B2/8/2p5/7p/7P/5k2 w - - 0 1"]
+
+ 1. Kd5 $1 {with duals} (1. Be5 $1 Kg1 2. Kd5 c3 3. Ke4 c2 4. Bf4 c1=Q 5. Bxc1 Kxh2 6. Kf3 Kg1 7. Be3+ $1 $18) (1. Bg5 $1) 1... Kg1 2. Ke4 $1 (2. Be5 $1) 2... Kxh2 3. Kf3 c3 4. Bxc3 Kg1 5. Bd4+ Kh1 6. Ba7 $1 {Indian} h2 7. Nb6 Kg1 8. Nd5+ Kh1 9. Ne3 1-0  
+
+[Event "Magyar Sakkvilбg {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Heks E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/4p3/8/2R1P3/2K5/p2p4/1p1P4/bk6 w - - 0 1"]
+
+ 1. Kb3 (1. Kxd3 $2 Ka2 2. Rc2 Kb3 3. Rc3+ Ka2 (3... Ka4 $5 4. Kc2 a2 5. Rb3 b1=Q+ 6. Rxb1 axb1=Q+ 7. Kxb1 Bd4 $16) 4. Rc2 Kb3 {positional draw}) 1... a2 2. Rc8 $1 {Indian} ({duals} 2. Rc3 $1 e6 3. Rxd3 Kc1 4. Rc3+ Kd1 5. Kxa2 $18) (2. Rc6) 2... e6 3. Bc7 Kc1 4. Ba5+ Kb1 (4... Kd1 5. Kxa2) 5. Bc3 Kc1 6. Bxb2+ 1-0  
+
+[Event "360 Brill & Instr Endgames {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p2N4/8/8/2N3K1/8/pr1B4/1k6 w - - 0 1"]
+
+ 1. Na3+ Ka1 2. Bc3 a5 3. Bf6 (3. Ne5 $2 3... a4 4. Nac4 Kb1 5. Bxb2 a3 (5... a1=Q $2 6. Bxa1 Kxa1 7. Na3)) (3. Bh8 $2 3... a4 4. Ne5 Rb8 (4... Rh2 $2 5. Bf6 Kb2 6. Nf3+ Kxa3 7. Nxh2 Kb3 8. Nf3 Kc2 9. Kf4 Kb1 10. Nd2+) 5. Bf6 Kb2 6. Nc6+ Kxa3) 3... a4 4. Ne5 Rb6 (4... Rg2+ 5. Kf3 Rb2 6. Ke3 Rb6 7. Nc6+ Rb2 8. Nd4) 5. Nc6+ Rb2 6. Nd4 Rg2+ 7. Kf3 Rb2 8. Ndc2# 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Muller J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n4Q1K/2p5/1pP5/1p6/1Pp5/2p5/2P4p/6k1 w - - 0 1"]
+
+ 1. Qg7+ Kh1 2. Qxc3 Kg1 3. Qg3+ Kh1 4. Qg8 $1 {Indian - with duals} (4. Qf2 $1 c3 5. Qf1#) 4... c3 5. Kg7 Kg2 6. Kf8+ Kh1 7. Qd5+ Kg1 8. Qg5+ Kf2 9. Qf4+ Kg1 10. Qg3+ Kh1 11. Qxc3 Kg1 12. Ke8 h1=Q 13. Qe1+ Kg2 14. Qxh1+ Kxh1 15. Kd8 Kg2 16. Kc8 Kf3 17. Kb7 Ke4 18. Kxa8 Kd5 19. Kb7 Kd6 20. c3 1-0  
+
+[Event "Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7B/6p1/3p4/3P2RR/5pP1/5Pp1/4K1kb w - - 0 1"]
+
+ 1. Rh2 $1 {with duals} Kxh2 2. Rh4+ Kg1 3. Bg8 g5 4. Rh8 $1 {Indian} g4 5. Bh7 Kh2 6. Bg6+ Kg1 7. Bh5 Kh2 8. Bxg4+ Kg1 9. Bh5 Kh2 10. Bxf3+ Kg1 11. Rxh1+ 1-0  
+
+[Event "Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6B1/8/8/5P2/5p1R/4pPp1/6p1/4K1kb w - - 0 1"]
+
+ 1. Rh8 $1 {Indian} ({duals} 1. f6 $1 e2 2. Rxf4 Kh2 3. Rh4+ Kg1 4. Re4 Kh2 5. Rxe2 $18) (1. Be6 $1 e2 2. Rxf4 Kh2 3. Rh4+ Kg1 4. Re4 Kh2 5. Rxe2 Kh3 6. f6+ $18) (1. Rxf4 $1) (1. Bd5 $1) (1. Bc4 $1 e2 2. Rxf4 Kh2 3. Rh4+ Kg1 4. Re4 Kh2 5. Rxe2 Kh3 6. Rxg2 Bxg2 7. f6 Kh2 8. f7 Bh3 9. Bf1 Bxf1 10. f8=Q $18) 1... e2 2. Bh7 Kh2 3. Bg6+ Kg1 4. Bh5 Kh2 5. Bg4+ (5. Kxe2) 5... Kg1 6. Bh3 Kh2 7. Bxg2+ Kxg2 8. f6 1-0  
+
+[Event "Ceskoslovensky Sach {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6B1/8/8/5P2/4Pp1R/4pPp1/6p1/4K1kb w - - 0 1"]
+
+ 1. Rh8 $1 {Indian} (1. Rxf4 $2 e2 2. e5 Kh2 3. Rh4+ Kg1 4. Re4 Kh2 5. Rxe2 Kh3 $11) 1... e2 2. Bh7 Kh2 3. Bg6+ Kg1 4. Bh5 Kh2 5. Bg4+ ({dual} 5. Kxe2 $1 g1=Q 6. Bg4+ Kg2 7. Bh3+ Kh2 8. Bf1#) 5... Kg1 6. Bh3 1-0  
+
+[Event "Munchen Olimpiad {m}"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Bladh Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/N4p2/8/5p2/5Pp1/p2B2B1/1p4p1/1K4kb w - - 0 1"]
+
+ 1. Ba6 $1 {Indian} ({dual} 1. Ka2 $1 $18) 1... f6 2. Nb5 $1 ({dual} 2. Bd3 $1 a2+ 3. Kxa2 b1=Q+ 4. Bxb1 Kf1 5. Bd3+ Kg1 6. Bxf5 Kf1 7. Bd3+ Kg1 8. Ba6 $1 f5 9. Nb5 $1 $18) 2... Kf1 3. Nxa3+ Kg1 4. Nc4 $1 Kf1 5. Nxb2+ Kg1 6. Nd3 $1 Kf1 7. Nf2+ Kg1 (7... Ke1 8. Nh3+ Kd2 9. Ng1) 8. Nh3+ gxh3 9. Kc2 h2 10. Kd3 $1 Kf1 11. Ke3+ Kg1 12. Bf2# 1-0  
+
+[Event "Shakhist {m}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K1R2/8/8/4B2p/8/6pp/6kp/7b w - - 0 1"]
+
+ 1. Bb8 $1 h4 2. Kc7 Kg1 3. Ba7+ Kg2 4. Kb6 $1 {Indian} Kg1 5. Kb5+ Kg2 6. Kc5 Kg1 7. Kc4+ Kg2 8. Kd4 Kg1 9. Kd3+ Kg2 10. Ke3 Kg1 11. Ke2+ Kg2 12. Bf2 $1 gxf2 13. Rg8# 1-0  
+
+[Event "Le Probleme {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Guy R"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3BB2K/8/8/pp1p4/k1b3R1 w - - 0 1"]
+
+ 1. Bg8 $1 Kb1 2. Bh7+ Ka1 3. Kg6 $1 {Indian} Kb1 4. Kf6+ ({minor dual} 4. Kg5+) 4... Ka1 5. Kf5 Kb1 6. Kf4+ Ka1 7. Ke4 Kb1 8. Ke3+ ({minor dual} 8. Kf3+) 8... Ka1 9. Ke2 d1=Q+ 10. Kxd1 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K3/8/6p1/8/6B1/6B1/6p1/6kb w - - 0 1"]
+
+ 1. Bc8 $1 g5 2. Kd7 g4 3. Kc6 Kf1 4. Ba6+ Kg1 5. Kb5 $1 {Indian} Kf1 6. Kc5+ Kg1 7. Kc4 Kf1 8. Kd4+ Kg1 9. Kd3 Kf1 10. Ke3+ Kg1 11. Be5 g3 12. Kf3 Kh2 13. Bxg3+ Kg1 14. Bc8 Kf1 15. Bh3 Kg1 16. Be5 Kf1 17. Bc3 Kg1 18. Kg3 Kf1 19. Bd4 Ke2 20. Bg1 Kf1 21. Kh2 Ke2 22. Bg4+ Ke1 23. Bf3 Kf1 24. Bc6 Ke2 25. Bb7 Kd3 26. Kg3 Kc4 27. Kf4 Kb5 28. Ke5 Kc4 29. Ba6+ Kc3 30. Ke4 Kb4 31. Bd3 Kc3 32. Ke3 Kb4 33. Kd4 Kb3 34. Kc5 Ka3 35. Kb5 Kb3 36. Bc4+ Kc3 37. Kc5 Kd2 38. Kd4 Kc2 39. Bd5 Kd2 40. Be4 Ke2 41. Bd3+ Kd2 (41... Kf3 42. Ke5 Kg4 43. Kf6 Kf4 44. Bf5 Kf3 45. Kg5 Kg3 46. Be4 Kh3 47. Kf4 Kh4 48. Bf3 Kh3 49. Bg4+ Kh4 50. Bf2#) 42. Kc4 Kc1 43. Kc3 Kd1 44. Bc4 Ke1 45. Bb5 Kd1 46. Kd3 Ke1 47. Ke3 Kd1 48. Ba4+ Kc1 49. Kd3 Kb2 50. Kc4 Ka3 51. Bb3 Kb2 52. Kb4 Kc1 53. Kc3 Kb1 54. Be6 Kc1 55. Bg4 Kb1 56. Kb3 Kc1 57. Be3+ Kb1 58. Bf5+ Ka1 59. Bd4# 1-0  
+
+[Event "Maestros Latinoamericanos.. {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Cohn H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B6/2K5/8/3B4/8/7p/6pk/7b w - - 0 1"]
+
+ 1. Kb6+ Kg1 2. Bg3 h2 (2... Kf1 3. Bc4+ Kg1 4. Ba6 $1 {Indian} h2 5. Kb5 $18) 3. Bb7 $1 Kf1 4. Ba6+ Kg1 5. Kb5 $1 {Indian} Kf1 6. Kb4+ ({minor dual} 6. Kc5+) 6... Kg1 7. Kc4 Kf1 8. Kd4+ ({minor dual} 8. Kc3+) 8... Kg1 9. Kd3 Kf1 10. Ke3+ Kg1 11. Bf2# 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B3q3/8/8/5p2/p6p/p1Bpp3/P3P1Rp/4K2k w - - 0 1"]
+
+ 1. Bf3 d2+ 2. Kd1 Qe4 3. Bxe4 fxe4 4. Rg8 $1 {Indian} h3 5. Bg7 $1 Kg2 6. Be5+ Kh1 7. Bg3 $1 Kg2 8. Bf4+ Kh1 9. Bg5 $1 Kg2 10. Bxe3+ Kf1 11. Rf8+ Kg2 12. Rf2+ Kg3 13. Rxh2 1-0  
+
+[Event "Shakhmaty {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K6/P7/2r4p/3p1p2/p2p1P1R/P2P4/3k4 w - - 0 1"]
+
+ 1. a7 Ra5 2. Rh2 Kc2 3. a8=Q Rxa8 4. Kxa8 Kb2 5. Rxh5 ({duals} 5. Kb7 $1) (5. Ka7) 5... Kxa2 6. Rb5 ({duals} 6. Ka7 $1 Kb2 7. Kb6 Kc2 8. Kc5 Kxd2 9. Kxd4 $18 ) (6. Kb7) 6... Ka1 7. Rb8 $1 {Indian} a2 8. Kb7 Kb2 9. Kc6+ Kc2 10. Ra8 Kxd2 11. Rxa2+ Ke3 12. Kd5 d2 13. Rxd2 Kxd2 14. Kxd4 1-0  
+
+[Event "Louma Ty {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Neuwirth Z"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N4K1/1N6/6p1/5P2/6p1/5p1p/RB4bk w - - 0 1"]
+
+ 1. Be4+ g2 2. Rf1 {with duals} g4 3. Bc6 $1 {Indian} g3 4. Nd5 $1 gxf1=Q 5. Ne3+ g2 6. Kf8 $1 Qd3 7. Bxg2# 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/8/2b1B3/7p/6p1/3p2p1/3P4/4K1k1 w - - 0 1"]
+
+ 1. Rh8 $1 Bh1 $1 2. Rxh5 g2 3. Rh8 $1 {Indian - with duals} g3 4. Bh3 $1 Kh2 5. Bf5+ Kg1 6. Bh7 Kh2 7. Bxd3+ Kg1 8. Bh7 Kh2 9. Bf5+ Kg1 10. Re8 Kh2 11. Re2 1-0  
+
+[Event "Tijdschrift v.d. KNSB {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2Nb4/8/8/8/5R2/2Kp4/kp6/8 w - - 0 1"]
+
+ 1. Ra4+ Kb1 2. Kd2 Bg5+ 3. Kd1 Bc1 $1 4. Ra8 $1 {Indian} d2 5. Na7 $1 (5. Nb6 $2 {stalemate with blocked B}) 5... Ka2 6. Nb5+ Kb3 7. Na3 1-0  
+
+[Event "Nieuwe Haagse Courant {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Kok T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/1B1p4/1b6/8/7p/8/1K4pp/7k w - - 0 1"]
+
+ 1. Rf1+ Bg1 2. Bd5 ({duals} 2. Kc2 $1 $18) (2. Rb1) 2... d6 3. Rb1 $1 {Indian} h3 4. Kc1 $1 1-0  
+
+[Event "Sach {m}"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Neuwirth Z"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/3p4/1p1P4/8/2B3p1/1PpP3p/p1P1p1pr/N1B1Rbk1 w - - 0 1"]
+
+ 1. Be3+ Kh1 2. Bd5 g3 3. Kc7 ({dual} 3. Kxd7 $1 $18) 3... b5 4. Ba7 $1 {Indian} b4 5. Kb6 Kg1 6. Kb5+ Kh1 7. Kc5 Kg1 8. Kxb4+ Kh1 9. Kc5 Kg1 10. Kc4+ Kh1 11. Kd4 Kg1 12. Kxc3+ Kh1 13. Kd4 Kg1 14. Ke4+ Kh1 15. Ke3 Kg1 16. Kd2+ Kh1 17. Rc1 e1=Q+ 18. Kxe1 Bxd3 19. Kd2+ Bf1 20. Rxf1# 1-0  
+
+[Event "Suomen Shakki {m}"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Af_Hallstrom E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/8/B1pP3N/2K5/p7/rpk5/qb5R w - - 0 1"]
+
+ 1. Rf1 $1 d6 2. Bd8 Kd2 3. Bg5+ Kc2 (3... Ke2 4. Ng3#) 4. Nf4 $1 {Indian} Kd2 5. Nd3+ Ke2 6. Rf2+ Kd1 7. Rd2# 1-0  
+
+[Event "64-Shakmatnoe Obozrenie {m}"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Campbell J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7p/1p1p2pP/bp4p1/rp1B2P1/qpn4K/rkbR4 w - - 0 1"]
+
+ 1. Rh1 $1 {Indian} d4 2. Kg1 Be3+ 3. Kg2+ Bc1 4. Kf1 Bd2 5. Ke2+ Bc1 6. Bh7 $1 {Indian? - pseudo-Bristol} d3+ 7. Kxd3 Ne1+ 8. Kd4+ Nc2+ 9. Ke4 Ne1 10. Ke5+ Nc2 11. Kf5 Nd4+ 12. Kf6+ Nc2 13. Kg6 Nd4 14. Kxh6+ Nc2 15. Kg6 Nd4 16. Kf6+ Nc2 17. Kf5 Nd4+ 18. Ke5+ Nc2 19. Ke4 Ne3 20. Kd4+ Nc2+ 21. Kd3 Ne1+ 22. Ke2+ 1-0  
+
+[Event "USSR Stud Comp Champ {m}"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7p/5K2/1p6/8/1B6/1p6/b1k3B1 w - - 0 1"]
+
+ 1. Be3+ Kb1 2. Bh6 $1 {Indian} b4 3. Kg5 Kc1 4. Kf5+ ({minor dual} 4. Kg4+) 4... Kb1 5. Kf4 Kc1 6. Ke4+ ({minor dual} 6. Kf3+) 6... Kb1 7. Ke3 Kc1 8. Kd3+ Kb1 9. Bg8 ({minor duals} 9. Bf7) (9. Be6) (9. Bd5) (9. Bc4) 9... b3 10. Kc3 Ka2 11. Bxb3+ Ka3 12. Bf8# 1-0  
+
+[Event "Unknown {m}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/1p5p/1p6/8/8/1B6/1p6/b1k3B1 w - - 0 1"]
+
+ 1. Be3+ Kb1 2. Bh6 $1 {Indian} b5 3. Ke7 b4 4. Kf6 b5 5. Kg5 $1 Kc1 6. Kf5+ Kb1 7. Kf4 Kc1 8. Ke4+ Kb1 9. Ke3 Kc1 10. Ke2+ Kb1 11. Bd2 h5 12. Kd1 h4 13. Bxb4 h3 14. Bd5 h2 15. Kd2 h1=Q 16. Bxh1 Ka2 17. Bd5+ Kb1 18. Ba3 ({dual} 18. Kd3 $1 Kc1 19. Bd2+ Kb1 20. Bb3 b4 21. Bxb4 Kc1 22. Ba3 Kb1 23. Bf8 Kc1 24. Bh6+ Kb1 25. Ke3 Kc1 26. Ke4+ Kb1 27. Bc4 Kc2 28. Bd3+ Kd1 29. Bb1 $18) 18... b4 19. Bb3 $1 (19. Bxb4 $2 {stalemate}) 19... bxa3 20. Bg8 {zugzwang} a2 21. Bh7# 1-0  
+
+[Event "All-Union Team Champ. Ty {m}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/8/3p4/1R1p4/b5P1/p3P1p1/P3B2p/6bk w - - 0 1"]
+
+ 1. Bf3+ g2 2. Rb1 Bc2 3. Ra1 $1 {Indian?} Be4 (3... d4 $5) 4. Bxe4 dxe4 5. g5 d5 6. g6 d4 7. g7 d3 8. g8=B $1 {Phoenix} d2 9. Bb3 d1=Q 10. Bxd1 Bf2 11. Bc2+ Bg1 12. Bb1 Bf2 13. Kb7 $1 1-0  
+
+[Event "Lelo {m}"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/8/1p6/1B6/8/Bpk5/8/b1N5 w - - 0 1"]
+
+ 1. Bf8 $1 (1. Ne2+ $2 Kd2 2. Bb4+ (2. Be7 Be5 $1 3. Bg5+ Kc2 4. Bd7 Kb1 5. Ng1 b2 6. Nf3 Ka1) 2... Kc2 3. Ba4 (3. Bd7 Bf6+ 4. Kc8 b2 5. Bf5+ Kb3 6. Bd2 Ka2 7. Bc3 Bg5 8. Be5 b1=Q) 3... Bf6+ 4. Kd7 b5 5. Bxb5 b2) 1... b2 $1 (1... Kc2 2. Nd3 Bf6+ (2... Bc3 3. Nf2 $1 b2 4. Bd3+ Kc1 5. Bh6+ Bd2 6. Bxd2+ Kxd2 7. Bg6 Kc1 8. Nd3+ Kb1 9. Nb4+ Ka1 10. Nc2+ Ka2 11. Bf7+ Kb1 12. Na3+) 3. Kd7 b2 4. Nb4+ Kb1 5. Bd3+ Ka1 6. Nc2+ Ka2 7. Bc4+ Kb1 8. Na3+ Ka1 9. Bd3) 2. Na2+ (2. Ne2+ $2 Kc2 3. Nd4+ Kc3) 2... Kb3 (2... Kd2 3. Bh6+ Kc2 4. Ba4+ Kd3 5. Bd7) 3. Bd3 Kxa2 (3... b1=Q 4. Bxb1 Kb2 5. Nc3 Kxc3 (5... Kc1 6. Bh6+ Kb2 7. Bf5) 6. Bg7+) 4. Bc4+ Kb1 5. Bb3 b5 6. Ke7 b4 7. Kf6 Kc1 8. Bh6+ Kb1 9. Kg5 Kc1 10. Kf5+ Kb1 11. Kf4 Kc1 12. Ke4+ Kb1 13. Ke3 Kc1 14. Kd3+ Kb1 15. Bf7 b3 16. Kc3 Ka2 17. Bxb3+ Kb1 18. Bf8 Kc1 19. Ba3 Kb1 20. Be6 Kc1 21. Bg4 Kb1 22. Kb3 Kc1 23. Bf5 Kd2 24. Bb1 Kc1 25. Ka2 Kd2 26. Bb4+ Kd1 27. Be7 Kd2 28. Bf6 Ke3 29. Kb3 Kd2 30. Bg5+ Ke2 31. Kc3 Kf3 32. Kd2 Kg4 33. Bh6 Kh5 34. Be3 Kg4 35. Ke2 Kh5 36. Kf3 Kh4 37. Bc5 Kg5 (37... Kh3 38. Be7 Kh2 39. Kf2) 38. Be7+ Kh5 39. Kf4 Kh6 40. Bf6 Kh5 41. Kf5 Kh6 42. Bg5+ Kg7 43. Ke6 Kf8 44. Kd7 Kf7 45. Kd6 Kf8 46. Ke6 Ke8 47. Bg6+ Kf8 48. Bh6+ Kg8 49. Bb1 Kh8 50. Kf6 Kg8 51. Kg6 Kh8 52. Bg7+ Kg8 53. Ba2# 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Perelman M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/6N1/K7/2k4p/2N1B1n1/8 w - - 0 1"]
+
+ 1. Nb4 $1 h2 (1... Kd2 2. Bg4 h2 3. Nf3+) (1... Nf4 2. Nd5+ (2. Bf3 Kd2 3. Nd5) ) 2. Ne4+ Kd4 3. Ng3 Ke3 4. Ba6 $1 Kf2 5. Nh1+ Kg1 6. Nd3 $1 Kxh1 7. Nf2+ Kg1 8. Nh3+ Kh1 9. Kb5 $1 Ne3 10. Bb7+ Ng2 11. Kc6 $1 {Indian} Ne3 12. Kc5+ ({ minor dual} 12. Kd6+) 12... Ng2 13. Kd5 Ne3+ 14. Kd4+ ({minor dual} 14. Ke5+) 14... Ng2 15. Ke4 Nh4 16. Ke3+ ({minor dual} 16. Kf4+) 16... Ng2+ 17. Kf3 1-0  
+
+[Event "Achalgazdra Kommunisti {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Nadareishvili G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/5B2/7B/2p5/1p1R4/1p6/1p2r3/1k6 w - - 0 1"]
+
+ 1. Rd6 $1 Rg2 2. Be6 (2. Bg6+ $2 Rxg6 $1) (2. Bd5 $2 Re2) (2. Bc4 $2 Rc2 3. Bg8 c4 4. Kb7 c3) (2. Bxb3 $2 Ka1 3. Ra6+ Kb1 4. Kb7 Rg3) 2... Rf2 (2... Kc2 3. Bf5+ Kc3 4. Bf4 Re2 5. Bg5) 3. Bg8 $1 c4 (3... Kc2 4. Bh7+ Kc3 5. Bg7+ Kc4 6. Bd3#) 4. Bh7+ Rc2 5. Kb7 $1 c3 (5... Ka2 6. Ra6+ Kb1 7. Ra8 c3) 6. Rd8 $1 { Indian} (6. Ra6 $2 {stalemate}) 6... Ka2 7. Ra8+ Kb1 8. Ka6 Ka2 9. Kb5+ Kb1 10. Ka4 Ka2 11. Kxb4+ Kb1 12. Ka3 Ka1 13. Kxb3+ Kb1 14. Bxc2# 1-0  
+
+[Event "Deutsche Schachzei-tung {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Herberg A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7B/8/8/4R3/2p3p1/2P1K1p1/6kb w - - 0 1"]
+
+ 1. Bf5 $1 (1. Re8 $2 Kh2 2. Rh8 g1=N+ $1) 1... Kh2 2. Rh4+ Kg1 3. Bh3 Kh2 4. Ke1 {with duals} (4. Bc8+ $1 Kg1 5. Kf3 Kf1 6. Bh3 $18) 4... Kg1 5. Rh8 $1 { Indian} Kh2 6. Bf5+ Kg1 7. Bh7 Kh2 8. Be4+ Kg1 9. Kd1 Kf2 10. Rxh1 gxh1=Q+ 11. Bxh1 Kf1 12. Bc6 (12. Kc1 $2 Ke1) 12... Kf2 13. Bb7 Kf1 14. Bc8 Kf2 15. Bh3 Kg1 16. Ke1 (16. Ke2 $2 Kh2 17. Bf1 Kg1) 16... Kh2 17. Bf1 Kh1 $1 (17... Kg1 18. Ke2) 18. Ba6 Kh2 19. Bb7 Kg1 20. Ke2 1-0  
+
+[Event "Vecherni Praha {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Fritz J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/8/p4R2/1k1K4/7B w - - 0 1"]
+
+ 1. Rf8 $1 ({dual} 1. Rh3 $1 a2 2. Bd5 a1=Q 3. Rb3+ Ka2 4. Kc2 Qe5 5. Rd3+ $18) 1... a2 2. Rb8+ Ka1 3. Bb7 $1 {Indian} Kb2 4. Bd5+ Ka1 5. Bxa2 1-0  
+
+[Event "Die Welt {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Eilers W"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5K2/5BR1/5P1p/p1p1N1np/P1pppp1b/1nrbqrk1 w - - 0 1"]
+
+ 1. Bxh3 Kh1 2. Bg2+ Kg1 3. Ba8 $1 {Indian} ({dual} 3. Bf3 $1 h3 4. Ng4 Nh1 5. Rh5 Bxf4 6. Rxh3 $18) 3... h3 4. Nd5 (4. Ng4 $1 $18) 4... Kg2 5. Nb4+ (5. Ne7+ $1) 5... Kg1 6. Nc6 Kg2 7. Na5+ (7. Nd8+ $1) 7... Kg1 8. Nb7 Kg2 9. Nd6+ (9. Nc5+ $1) 9... Kg1 10. Ne4 Kg2 11. Nxg3+ Kg1 12. Nxe2# 1-0  
+
+[Event "Schach Echo {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hufendiek E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2B3K1/p4p2/8/2p2P2/p1P5/2B5/k7 w - - 0 1"]
+
+ 1. Bd6 a2 2. Ba3 a5 3. Bh7 $1 {Indian} f5 4. Kf6 $1 a4 5. Kxf5 ({dual} 5. Ke5 $1 Kb1 6. Bxf5+ Ka1 7. Ke4 Kb1 8. Ke3+ Ka1 9. Bc1 a3 10. Be6 Kb1 11. Bxc4 (11. Kd2) 11... a1=Q 12. Kd2 $18) 5... Kb1 6. Ke5+ Ka1 7. f5 $1 {Indian} Kb1 8. f6+ Ka1 9. Ke4 Kb1 10. Ke3+ Ka1 11. Bd3 $1 cxd3 12. f7 Kb1 13. f8=Q a1=Q 14. Qf1+ 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Tjavlovski V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B2N2/8/3K4/p7/6p1/8/k7/8 w - - 0 1"]
+
+ 1. Kc5 $1 (1. Bxg4 $2 a4 $11) (1. Be6+ $2 Kb2 $11) 1... a4 2. Kb4 a3 3. Kc3 g3 4. Bb7 $1 (4. Bh3 $2 Kb1 5. Bf5+ Kc1 $19) 4... g2 5. Bxg2 Kb1 6. Be4+ Ka1 7. Bh7 $1 {Indian} a2 8. Ng6 Kb1 9. Ne5+ ({minor dual} 9. Nf4+) 9... Ka1 10. Nd3 $1 1-0  
+
+[Event "Tidskrift fцr Schack {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Akerblom A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/p7/8/5R2/p3p1B1/k3K3 w - - 0 1"]
+
+ 1. Rb3 a4 2. Rb8 $1 {Indian} a3 3. Bb7 Kb2 4. Bd5+ Ka1 5. Bb3 Kb2 6. Bc4+ Ka1 7. Bb5 Kb1 ({but} 7... Kb2 $1 8. Bxe2+ Kc3 $1 9. Rc8+ Kb4 $3 10. Rc1 Kb3 $11) 8. Bxe2+ Kc1 9. Rc8+ Kb1 10. Bd3+ Kb2 11. Kd2 a1=Q 12. Rb8+ Ka2 13. Bc4# 1-0  
+
+[Event "Tidskrift fцr Schack {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Akerblom A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/p7/8/p2Rp3/p7/p7/p3P3/k4B2 w - - 0 1"]
+
+ 1. Rb5 a6 2. Rb8 $1 {Indian} e4 3. Bg2 $1 e3 4. Bb7 Kb1 5. Bd5+ Ka1 6. Kb7 $1 { Cheney} 1-0  
+
+[Event "Berliner Morgenpost {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Grasemann H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4R3/8/8/2R5/6BK/3p4/pp1k4/rrb5 w - - 0 1"]
+
+ 1. Bd7 Kd1 2. Ba4+ Kd2 3. Bc6 ({dual} 3. Bb5 $1 $18) 3... Kd1 4. Bf3+ Kd2 5. Bd5 Kd1 6. Bb3+ Kd2 7. Bf7 $1 Kd1 8. Bh5+ Kd2 9. Kg4 $1 {Indian} Kd1 10. Kg3+ 1-0  
+
+[Event "Unknown {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Gorelikov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/8/8/8/7p/8/7B/4K2k w - - 0 1"]
+
+ 1. Bb8 $3 {Indian} h3 (1... Kg2 2. Ne7 h3 3. Bh2 $1 {Switchback} Kxh2 4. Kf2 { mutual zugzwang} Kh1 5. Nf5 {mutual zugzwang} Kh2 6. Ne3 {mutual zugzwang} (6. Ng3 $2 {stalemate}) 6... Kh1 7. Nf1 {mutual zugzwang} h2 8. Ng3#) 2. Kf2 h2 3. Kg3 Kg1 4. Ba7+ Kh1 5. Nb6 $1 (5. Nd6 $2 {stalemate}) 1-0  
+
+[Event "Themes-64 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Tjavlovski V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N4B/3p1p2/8/4P3/4K3/7p/7k/8 w - - 0 1"]
+
+ 1. e6 dxe6 2. Kf3 f6 $1 3. Bxf6 ({dual} 3. Kf2 $1 $18) 3... e5 $1 4. Bxe5+ Kg1 5. Bd4+ Kh1 6. Ba7 $1 {Indian} h2 7. Nb6 $1 Kg1 8. Nd5+ ({minor dual} 8. Nc4+) 8... Kh1 9. Ne3 $1 1-0  
+
+[Event "Lelo {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Bron V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/2p5/2P5/1p6/P2pK3/p1P3p1/P4P1p/5Rbk w - - 0 1"]
+
+ 1. Kf3 g2 $1 (1... gxf2 2. Bb7 bxa4 3. Bc8 d3 4. Bh3) (1... dxc3 2. Kxg3 $1 c2 3. Rc1 $1 bxa4 4. Rxc2 Bxf2+ 5. Rxf2 Kg1 6. Rxh2) 2. Ra1 $1 bxa4 (2... dxc3 3. axb5 c2 4. b6) 3. Bb7 d3 $1 (3... dxc3 4. Bc8 c2 5. Bh3) 4. Ba6 $1 d2 5. Be2 d1=Q 6. Bxd1 Bxf2 7. Bc2+ Bg1 (7... g1=Q 8. Be4 $1 Qe1 $1 9. Rxe1+ Bxe1 10. Ke2+ Kg1 11. Kxe1 h1=Q 12. Bxh1 Kxh1 13. Kf2 Kh2 14. c4 $1) (7... g1=N+ 8. Kg4 $1 Kg2 9. Be4+) 1-0  
+
+[Event "Themes-64 {m}"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Klinkov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/8/4K3/p7/8/7R/p7/k7 w - - 0 1"]
+
+ 1. Rb3 a4 2. Rb8 $1 {Indian} a3 3. Nb7 Kb2 4. Na5+ ({minor dual} 4. Nc5+) 4... Kc2 5. Nb3 1-0  
+
+[Event "Shakhmaty v SSSR {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Tjavlovski V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7N/8/3p2B1/8/3K2p1/p7/k7/8 w - - 0 1"]
+
+ 1. Kc3 d5 (1... g3 2. Be4 g2 3. Bxg2 d5 4. Bxd5+ Kb1 5. Be4+ Ka1 6. Bh7 $1 { Indian} a2 7. Ng6 Kb1 8. Nf4+ ({minor dual} 8. Ne5+) 8... Ka1 9. Nd3 $18) 2. Nf7 g3 3. Ne5 ({minor dual} 3. Ng5) 3... g2 4. Nf3 d4+ 5. Kc2 Ka1 6. Kb3 a2 7. Ka3 g1=Q 8. Nxg1 d3 9. Kb3 d2 10. Bc2 d1=Q 11. Bxd1 Kb1 12. Ne2 a1=Q 13. Bc2# 1-0  
+

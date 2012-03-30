@@ -1,0 +1,1100 @@
+[Event "to13 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Weintraub_Reimer M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K6n/4Pp2/P2k1Pr1/p7/p3p3/P3P1q1/P3P3/1R6 w - - 0 1"]
+
+ 1. Rd1+ Kc5 2. Rc1+ Kb6 3. Rb1+ Kxa6 4. e8=N $1 Rg8 5. Rb6+ Kxb6 1/2-1/2  
+
+[Event "tp43 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Heathcote G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3p4/N2P4/p1p5/k1K5/b7 w - - 0 1"]
+
+ 1. Nb6 Bb2 2. Nxd5 Bc1 (2... Ka1 3. Nb4 a2 4. Nc6 Ba3 5. Na5) 3. Nb4+ Ka1 4. Kxc1 c2 5. d5 (5. Nxc2+ $1 {cook JU}) 5... a2 6. Nxc2# 1-0  
+
+[Event "tp47 {c} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Kauder I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/8/4P3/6r1/6k1/3R4/3K4/6B1 w - - 0 1"]
+
+ 1. Rd4+ (1. Kc3 $2 Re5 2. Re3 Bd6 3. Rxe5 Bxe5+ 4. Kc4 Bf6 5. Kd5 Kf5) 1... Kh5 (1... Kh3 2. e7 Re5 3. Rd3+ Kg2 4. Bc5 $1 Ba7 $1 5. Rg3+ $3 Kxg3 6. Bd6) 2. e7 Re5 3. Rd5 Rxd5+ 4. Bd4 Rxd4+ 5. Ke3 Rb4 6. e8=Q+ Kg4 7. Qg8+ $1 Kh4 8. Qf8 $1 Ba7+ 9. Kf3 Rb3+ 10. Ke2 $1 Rb2+ 11. Kd1 Rb1+ 12. Kc2 Rb7 13. Qf4+ 1-0  
+
+[Event "tr18 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7k/2P5/2p4p/P3N2K/8/8/5r2 w - - 0 1"]
+
+ 1. Ng5+ Kg6 (1... Kh6 2. c7 Rf8 3. Nf7+ Kg7 4. Nd8) 2. Ne6 $1 Ra1 3. c7 Rxa4+ 4. Nd4 $1 Ra8 5. Nc6 1-0  
+
+[Event "tr19 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4k3/2p1P3/4pp1B/K7/4N3/Pp6/8 w - - 0 1"]
+
+ 1. Nxf5+ Kxe6 2. Bg6 e4 3. Nd4+ Ke5 4. Bxe4 Kxe4 5. Nb5 $1 cxb5+ 6. Ka3 b1=B ( 6... b1=R) (6... b1=Q) (6... b1=N+ 7. Kb4) 7. Kb4 Bd3 8. a4 1/2-1/2  
+
+[Event "tr19 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1n6/6P1/7k/8/pp6/3R4/1K3b2 w - - 0 1"]
+
+ 1. g7 $1 Bc4 2. Rh2+ (2. Rd7 $1 {cook AC} Nc5 3. Rd8 Nd3 4. Rh8+ Kg5 5. g8=Q+) 2... Kg6 3. Rg2+ Kh7 4. g8=Q+ Bxg8 5. Ra2 bxa2+ 6. Ka1 1/2-1/2  
+
+[Event "tr19 @3 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4K2B/1P6/1k6/8/r7/3N4 w - - 0 1"]
+
+ 1. Bf4 Ra1 $1 (1... Rg2 $1 {cook WK}) (1... Ra5 $1 {cook} 2. b6 Rb5) 2. b6 $1 Rxd1 3. b7 Rd8 4. Bc7 Rh8 5. Be5 Rd8 6. Ke7 Rg8 $1 7. Kf7 Rd8 8. Bc7 Rh8 9. Bd6+ Ka5 10. Bf8 Rh7+ 11. Bg7 1-0  
+
+[Event "tr19 {c} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1n4P1/8/7k/2b5/pp6/5R2/1K6 w - - 0 1"]
+
+ 1. Rh2+ (1. Rf8 $2 Bd3+ 2. Kc1 b2+ 3. Kd2 Bh7 4. Rh8 Kg6 5. g8=Q+ Bxg8 6. Rxg8+ Kf7 7. Rg1 a2) (1. Rf4 $2 Bd3+ 2. Kc1 b2+ 3. Kd2 Bh7 4. Rb4 a2) (1. Rf3 $2 Kh6 2. Rg3 (2. Rc3 Bd5 3. Rc7 Be4+) 2... Bg8 3. Rg1 Nc5) (1. Rd2 $2 Kh6 2. Rd7 Nc5 3. Rc7 Bd3+) 1... Kg6 2. Rg2+ (2. g8=Q+ $2 Bxg8 3. Rg2+ Kf7) 2... Kh7 3. g8=Q+ Bxg8 4. Ra2 bxa2+ (4... Nc5 5. Rxa3 Nd3 6. Ra8 Be6 (6... Kg7 7. Rc8 Bh7 8. Rc3) 7. Rd8 Bf5 (7... Bc4 8. Rc8) 8. Rb8 Nc5+ 9. Kb2 Be6 10. Rb5 Nd3+ 11. Kc3 Nc1 12. Kb2) 5. Ka1 Nc5 1/2-1/2  
+
+[Event "tr19#582 {v} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3nk3/4p3/2N3K1/1N2p3/8/5p2/8/8 w - - 0 1"]
+
+ 1. Nc7+ Kf8 2. Nxd8 (2. Nd5 $2 Nxc6 3. Kf5 e6+ 4. Kxe6 Nd4+) 2... f2 3. Kh7 $1 f1=Q 4. Nde6+ Kf7 5. Ng5+ Kf6 6. Ne4+ Kf7 (6... Kf5 7. Ng3+) 7. Ng5+ 1/2-1/2  
+
+[Event "tr19#600 @1 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4K2k/1R6/2n5/5p2/8/6p1/8/8 w - - 0 1"]
+
+ 1. Rb3 $1 (1. Kf8 $1 {cook HC} f4 2. Rg7 $1 Ne5 3. Rg5 $1 Kh7 4. Ke7 $1 (4. Rg8 $2 Kh6 5. Ke7 Kh5 6. Kf6 Ng4+ 7. Kf5 g2 8. Rg5+ Kh6 9. Rg6+ Kh7 10. Rxg4 f3) 4... Kh6 (4... Nf3 5. Rg4 Nh2 6. Rg5 f3 (6... Nf1 7. Kf6 f3 8. Rh5+ Kg8 9. Rg5+ Kf8 10. Ra5 Ke8 11. Ke6 Kd8 12. Kd6 Kc8 13. Kc6 Kb8 14. Rb5+ Ka7 15. Ra5+ Kb8 16. Rb5+) 7. Kf7 $1 Kh6 8. Rxg3 f2 9. Rg6+ Kh5 10. Rf6) 5. Kf6) 1... f4 $1 2. Rf3 g2 3. Rxf4 Ne5 (3... g1=Q {main} 4. Rh4+ Kg7 5. Rg4+ Qxg4) 4. Rf5 $1 g1=Q 5. Rh5+ Kg7 6. Rg5+ Qxg5 1/2-1/2  
+
+[Event "tr36 @3 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mattison H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3kp3/3p4/P2B4/K1N3Np/8 w - - 0 1"]
+
+ 1. Nf4+ exf4 2. Nb4+ (2. Ba6 $2 Kc6 3. Be2 d3 $1) 2... Ke5 3. Nc6+ Kd5 4. Ne7+ Ke5 5. Ng6+ Kd5 (5... Kf6 $1 {cook} 6. Be4 f3 7. Bxf3 Kxg6 8. a4 d3 9. Kb2 Kg5 10. a5 Kf4 11. a6 Kxf3 12. a7 Kf2 13. a8=Q d2 14. Kc2 Kg1 15. Qg8+ Kh1 16. Qd5+ Kg1 17. Qd4+ Kg2 18. Qg4+) 6. Ba6 $1 Kc6 7. Be2 $1 1-0  
+
+[Event "ts30 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Bernstein O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/6p1/2P1ppK1/8/p2P4/P5B1/3r2P1/8 w - - 0 1"]
+
+ 1. c7 Rc2 2. Bd6 Rc6 3. g4 f5 4. gxf5 exf5 5. d5 Rc2 6. Bc5 $3 Rxc5 7. d6 1-0  
+
+[Event "ts30 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/N7/1p1k4/6P1/1r6/1P3P1p/7P/K7 w - - 0 1"]
+
+ 1. g6 Ke6 2. Nc6 $1 Rf4 (2... Rh4 3. g7 Kf7 4. Ne7 $1 Kxg7 5. Nf5+ Kf6 6. Nxh4 Kg5 7. Kb2 Kxh4 8. Kc2 Kg5 9. Kd2 Kf4 10. Ke2) 3. Nd8+ Kf6 4. g7 Kxg7 5. Ne6+ 1-0  
+
+[Event "ts30 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1r2p1B1/pP4p1/P2p1pkp/3P4/2pP1P1P/6K1/8 w - - 0 1"]
+
+ 1. f4+ $1 Kxf4 2. Bh6+ g5 3. Kf2 e5 4. Bf8 Rd7 5. Ba3 exd4 6. b7 Rxb7 7. Bd6# 1-0  
+
+[Event "ts30 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p5/3k2N1/p2P2PK/8/8/5b2/8 w - - 0 1"]
+
+ 1. Ne5 $1 Kxe5 2. g6 Kf6 3. d6 cxd6 4. Kh6 Bd4 5. g7 Kf7 6. Kh7 Bxg7 1/2-1/2  
+
+[Event "ts30 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/7p/8/p1p3P1/1pPb1KPk/3R4/8 w - - 0 1"]
+
+ 1. Rd1 Kh2 (1... Be2+ 2. Kxe2 a3 3. Kf3 Kh2 4. Kf2 a2 5. Rd5 Kh3 6. Kf3 Kh2 7. Kf2) 2. Rd2+ Kg1 3. Rd1+ Bf1 4. g5 $1 (4. Ra1 $2 b2 5. Rb1 a3) 4... hxg5 5. g4 $1 a3 6. Kg3 a2 (6... b2 7. Rb1 a2 8. Rxb2 a1=Q 9. Rg2+ Kh1 10. Rh2+ Kg1 11. Rg2+ Bxg2) 7. Ra1 $1 b2 8. Rxa2 b1=Q 9. Rg2+ Kh1 10. Rh2+ Kg1 11. Rg2+ Bxg2 1/2-1/2  
+
+[Event "ts30 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Tronov M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/p2pp1p1/4kpP1/1P2p3/3PK3/bP1P4/7B w - - 0 1"]
+
+ 1. b5 $1 axb5 2. Bxe4 fxe4 3. dxe4 d5 4. d4+ Kd6 5. e5+ Kc6 6. b4 1/2-1/2  
+
+[Event "ts30 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/2p1P1P1/1kP5/8/1PR3p1/PKP5/4q3 w - - 0 1"]
+
+ 1. g7 $1 (1. e7 $2 Qxe7 $1 (1... g2 $2 2. a4+ Ka5 3. Rg3 Qxg3 4. e8=Q) 2. Rxg3 Qe5+ 3. Rc3 Qg7 $1 4. a3 Qf6 5. b4 Ka4 6. b5 cxb5 7. c6 b4 8. axb4 Kxb4) 1... Qxe6 2. Rxg3 Qe5+ 3. Rc3 Qxg7 4. Ka3 $1 Qg5 (4... Qxc3) 5. Kb2 Kb4 6. Rc4+ (6. a3+ $1 {cook JU} Kb5 7. b4) 6... Kb5 7. Rc3 1/2-1/2  
+
+[Event "ts30 {c} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Tronov M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/p2pp1p1/4k1P1/1P2P2p/1P1P4/5K2/3b4 w - - 0 1"]
+
+ 1. b5 $1 axb5 2. Ke3 d5 3. d4+ Kd6 4. e5+ Kc6 5. b4 $1 1/2-1/2  
+
+[Event "ts30#56 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/kP6/8/5q1p/7P/7P/8/6R1 w - - 0 1"]
+
+ 1. b8=Q+ Kxb8 2. Rg8+ Kc7 3. Rg7+ Kd6 4. Rg6+ $1 Ke7 (4... Qxg6) 5. Rg7+ Kf6 6. Rf7+ Kxf7 1/2-1/2  
+
+[Event "ts30#56 {v} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k6K/8/8/5q1p/7P/7P/8/6R1 w - - 0 1"]
+
+ 1. Rg8+ Kb7 2. Rg7+ Kc6 3. Rg6+ Kd7 (3... Qxg6) 4. Rg7+ Ke6 5. Rg6+ Kf7 6. Rg7+ Kf6 7. Rf7+ Kxf7 1/2-1/2  
+
+[Event "ts30#60 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Selesniev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7R/1k5P/pP6/3K4/r7/3P4/p3pp2/8 w - - 0 1"]
+
+ 1. Rb8+ Kxb8 2. h8=Q+ Kb7 3. Qe8 $1 Kxb6 (3... Ra5+ 4. Kd6 Kxb6 5. Qb8#) 4. Qb8+ Ka5 5. Qc7+ Kb4 6. Qc4+ Ka3 (6... Ka5 {main} 7. Qc5#) 7. Qc3# 1-0  
+
+[Event "ts67 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Havasi A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/b7/1p1p3p/1P2P2P/P1kPp3/4P2n/1P6/8 w - - 0 1"]
+
+ 1. e6 Ng5 2. b3+ $1 Kd5 (2... Kd3 3. d5 Nh7 4. Ke7 Kxe3 5. Kf7 Kf2 6. e7 e3 7. e8=Q e2 8. Kg7 Ng5 9. Qxe2+ Kxe2 10. Kxh6) 3. e7 Ne6+ 4. Kc8 $1 Ng7 5. Kd7 Nxh5 6. e8=N (6. e8=Q $2 Nf6+) 6... Ng3 7. Nf6# 1-0  
+
+[Event "ts67 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/1P5B/2p1R3/k2rp3/b7/6P1/7K w - - 0 1"]
+
+ 1. b7 Rd1+ (1... Rb4 2. Rxe4) 2. Kh2 Rb1 3. Rxe4+ Ka5 4. Rb4 $1 Rxb4 5. Bd2 1-0  
+
+[Event "ts67 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Karstedt M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2Q5/8/8/8/8/1R6/pp1K4/k6r w - - 0 1"]
+
+ 1. Rxb2 $1 (1. Qc3 $2 Rh2+ 2. Kd1 Rh1+) 1... Rh2+ 2. Kd3 (2. Kc3 $2 Rh3+ 3. Qxh3 (3. Kc4 Rc3+ 4. Kxc3) (3. Kb4 Rb3+ 4. Ka4 Ra3+ 5. Kxa3)) 2... Kxb2 (2... Rxb2 3. Qc3 Kb1 4. Qe1#) 3. Qc3+ Kb1 4. Qb4+ Ka1 5. Qd4+ Kb1 6. Qg1+ Kb2 7. Qxh2+ 1-0  
+
+[Event "ts67 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Norlin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7r/Pp1k4/1P6/8/1K1N4/8/8/8 w - - 0 1"]
+
+ 1. Kc5 Rh5+ 2. Kc4 Rh8 3. Kd5 Rh5+ 4. Ke4 Rh8 5. Ke5 Rh5+ 6. Nf5 $1 Rh8 7. Kd5 Rg8 8. Ng7 Rh8 9. Ne6 Rh5+ 10. Kc4 Rh8 11. Nc7 $1 Kc6 12. a8=Q Rxa8 13. Nxa8 Kd6 14. Kb5 $1 Kd7 15. Kc5 Ke7 16. Nc7 Kd7 17. Nb5 Kc8 18. Kd6 Kb8 19. Kd7 Ka8 20. Kd8 Kb8 21. Nd4 $1 Ka8 22. Nc6 $1 bxc6 23. Kc7 1-0  
+
+[Event "ts67 @1 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Havasi A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/B4p2/2p5/P2p4/5P2/1K1k1P2/3P4/5b2 w - - 0 1"]
+
+ 1. a6 (1. Be3 $1 {cook SH} Bh3 2. a6 Bc8 3. a7 Bb7 4. Kb4 d4 5. Bg1 Kxd2 6. Bxd4 f5 7. Kc5 Kd3 8. Kb6 Ba8 9. Kc7 c5 10. Kb8 Bxf3 11. Bxc5) 1... Bh3 2. Bc5 $1 Bc8 3. a7 Bb7 4. Kb4 d4 5. Ka5 Kc4 6. Kb6 Ba8 7. d3+ Kd5 8. f5 f6 9. f4 1-0  
+
+[Event "ts67 @1 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1pk1b3/7P/2P1p3/8/3P4/6N1/6K1 w - - 0 1"]
+
+ 1. d4 (1. Ne3 $1 {cook} Kc6 (1... Bxc5 2. h7 $1) (1... Bf8 2. Nf5 Bxh6 3. Nxh6 Kc6 4. Kf2 Kxc5 5. Ke3) 2. Nf5 Bg5 (2... Bf6 3. Ng3 Bh8 4. Ne4) 3. h7 Bf6 4. Nd6 Bg7 5. Ne4) 1... exd4 (1... Kd7 2. h7 Bf6 3. d5) 2. Nf4 (2. Kf2 $1 { cook GH/GJ}) 2... Kd8 (2... Kd7 3. Nh5 Bxc5 4. Nf6+) 3. Nh5 Bxc5 4. Ng7 d3+ 5. Kf1 Bd4 6. Ne6+ 1-0  
+
+[Event "ts67 @3? {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Norlin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/q4pp1/p7/3p2P1/3r1P2/6K1/PPP2Q2/8 w - - 0 1"]
+
+ 1. g6 $1 fxg6 2. Kg2 $1 Qc5 $1 3. b4 $1 Qxb4 4. c3 $1 Qxc3 (4... Qe7 $1 { cook JU}) 5. Qh4+ Kg8 6. Qd8+ Kf7 7. Qd7+ 1/2-1/2  
+
+[Event "ts67 {v} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Holm E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1pkPb3/7P/2P1p3/8/3P4/6N1/6K1 w - - 0 1"]
+
+ 1. d4 exd4 (1... Kxd7 2. h7 Bf6 3. d5) 2. Nf4 Kd8 $1 (2... Kxd7 3. Nh5 Bxc5 4. Nf6+) 3. Nh5 Bxc5 (3... d3 4. Kf1) 4. Ng7 d3+ 5. Kf1 Bd4 6. Ne6+ 1-0  
+
+[Event "ts67#01 @2 @1 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Wahlmark P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/1R4p1/8/5K2/1P1N3p/6r1/8/8 w - - 0 1"]
+
+ 1. Kf4 (1. Re7 $1 {cook}) 1... Rc3 (1... Rg1 2. Nf3 h3 (2... Rf1 3. Kg4 h3 4. Rb8+) 3. Ng5 Rf1+ 4. Kg3 Rg1+ 5. Kh4) (1... Rh3 2. Kg4 Rh1 3. Nf3 h3 4. Kg3) ( 1... g6 2. Nf3 g5+ 3. Nxg5) 2. Rb8+ Kh7 3. Nf3 h3 4. Ng5+ (4. Kg4 $1 {cook JU}) 4... Kh6 (4... Kg6 5. Kg4) 5. Nxh3 Rxh3 6. Rh8+ 1-0  
+
+[Event "ts67#03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Hennings H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1KP5/5r1r/3R3p/2N4N/6b1/k7 w - - 0 1"]
+
+ 1. Rd2 Bd5 2. Nxd5 Rxd5 3. Rxd5 Rxd5 4. c7 Rd6+ 5. Kb5 Rd5+ 6. Kb4 Rd4+ 7. Kc3 Rd1 8. Kc2 Rd4 9. c8=R $1 (9. c8=Q $2 Rc4+ 10. Qxc4) 9... Ra4 10. Kb3 1-0  
+
+[Event "ts67#04 @3 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k5q1/8/K2B4/7Q/6p1/8/8 b - - 0 1"]
+
+ 1... Qc3+ 2. Kb5 Kb8 (2... Qb2+ $1 {cook JU}) (2... Qc7 3. Qa4+ Kb8 4. Qa8#) 3. Qf4+ (3. Qd8+ $1 {cook JU}) 3... Kc8 4. Be6+ Kb7 (4... Kd8 5. Qf8+ Kc7 6. Qc8+) 5. Qf7+ Qc7 (5... Kb8 6. Qf8+ Kb7 7. Bd5+ Kc7 8. Qe7+ Kc8 9. Be6+ Kb8 10. Qd8+) 6. Bd5+ Kb8 (6... Kc8 7. Qe8+ Qd8 8. Be6+ Kc7 9. Qc6+ Kb8 10. Bd5 Qe7 11. Qb6+ Kc8 12. Be6+) 7. Qf8+ Qc8 8. Qb4 $1 (8. Qf4+ $1 {cook} Qc7 9. Qb4 Qc1 10. Ka6+ Kc8 11. Be6+) 8... Qd7+ (8... Ka7 9. Qa5+ Kb8 10. Qb6+) (8... Kc7 9. Qf4+ Kd8 ( 9... Kd7 10. Be6+ Kxe6 11. Qg4+) 10. Qf6+ Kc7 11. Qb6+) (8... Qc7 9. Ka6+ Kc8 10. Be6+ Kd8 11. Qf8#) (8... Qe8+ 9. Kc5+ Kc7 10. Qb7+ Kd8 11. Qb6+) (8... Qf5 $1 {cook} 9. Kc6+ (9. Qd6+ Kc8) 9... Kc8 10. Qb7+ Kd8 11. Qc7+ Ke8 12. Qb8+ Ke7 13. Qd6+ Ke8) 9. Kb6 Kc8 10. Qc5+ Kd8 (10... Kb8 11. Qf8+ Qc8 12. Qf4+) 11. Qf8+ Qe8 12. Qd6+ Qd7 13. Qb8+ Ke7 (13... Qc8 14. Qe5 g2 (14... Qc2 15. Qf6+)) 14. Qe5+ Kd8 15. Bc6 Qf7 (15... g2 16. Qf6+) (15... Qh7 16. Qb8+) 16. Qg5+ Kc8 17. Qg4+ Kb8 18. Qxg3+ Kc8 19. Qh3+ Kd8 20. Qh4+ Qe7 21. Qh8+ 1-0  
+
+[Event "ts67#05 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Lazard F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4R1nr/3p1p1k/3P1P1P/5KpP/8/8/8/8 w - g6 0 1"]
+
+ 1. hxg6+ fxg6+ 2. Kg5 Nxh6 3. Re7+ Kg8 4. Kxg6 Kf8 5. Rxd7 Ke8 6. Ra7 (6. Rb7 $1 {cook JU}) (6. Rc7 $1 {cook JU} Kd8 7. Kg7) (6. Re7+ $1 {cook JU}) 1-0  
+
+[Event "ts67#07 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5B1k/7n/p6K/8/P7/8/8/bq3nQ1 w - - 0 1"]
+
+ 1. Bg7+ Kg8 2. Bb2+ Kf7 3. Qa7+ Ke6 4. Qxa6+ Kd5 5. Qb5+ Ke6 6. Qc6+ Ke7 7. Ba3+ Kd8 8. Bd6 Qe1 9. Qc7+ Ke8 10. Qc8+ Kf7 11. Qd7+ Kf6 12. Qg7+ Ke6 13. Qe7+ Kd5 14. Qxe1 1-0  
+
+[Event "ts67#11 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Moller F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3K1N2/1p6/1p1kpp1P/4p3/1P2P1q1/2N5/8 w - - 0 1"]
+
+ 1. Ng5 Qxg5 2. Nb4+ Kc5 3. Na6+ Kd5 4. Nc7+ Kc5 5. Ne6+ 1-0  
+
+[Event "ts67#13 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Moller F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/1q6/2N4n/5P2/p1Q5/3p1p2/8/3b3K w - - 0 1"]
+
+ 1. Qd5 Qc8 2. Qa5+ Kb7 3. Nd8+ Kb8 4. Qb6+ Ka8 5. Nc6 1-0  
+
+[Event "ts67#14 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Moller F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6n1/6pn/2P5/2p1K3/2qPNNpk/2B5/8/8 w - - 0 1"]
+
+ 1. Nd6 Qa6 (1... cxd4 2. Be1+ $1 (2. Nxc4 $2 dxc3 3. c7 Ne7 4. Nd5 c2 5. Nxe7 c1=Q 6. c8=Q Qc3+ 7. Ke6 Qf6+ 8. Kd7 Kh3 9. Nd6 Nf8+ 10. Ke8 Ne6 11. Nf7 g3 12. Ng5+ Kh2 13. Nxe6 g2 14. Qc7+ Kh1 15. Qc6 g5 16. Nd5 Qh8+ 17. Kd7 g1=Q)) 2. Nf5+ Kg5 3. Ne6+ Kg6 4. Nf4+ Kf7 5. Nd6+ Ke7 6. Ng6+ Kd8 7. Ba5+ Qxa5 8. Nb7+ Kc7 9. Nxa5 1/2-1/2  
+
+[Event "ts67#41 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mouterde A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/5p2/8/4P3/p7/1k2pKR1/8 w - - 0 1"]
+
+ 1. Kxe2 a2 2. Kd3+ Kb1 3. Rg1+ Kb2 4. Ra1 Kxa1 5. Kc2 f5 (5... d6 6. Kc1) (5... d5 6. exd5 f5 7. d6) 6. exf5 d5 7. f6 d4 8. f7 d3+ 9. Kc1 $1 d2+ 10. Kxd2 Kb1 ( 10... Kb2 11. f8=Q a1=Q 12. Qb4+ Ka2 13. Kc2) 11. f8=Q a1=Q 12. Qf5+ Kb2 13. Qb5+ Ka3 14. Qa5+ Kb2 15. Qb4+ Ka2 16. Kc2 1-0  
+
+[Event "ts67#42 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Larsen P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7B/7p/3K3p/7P/8/1P2p1pp/pn2Pprr/kb3Rb1 w - - 0 1"]
+
+ 1. Kc5 Rh1 2. Kb4 h2 $1 (2... Bh2 3. Ka3) 3. Kc3 Nd1+ 4. Kc4+ Nb2+ 5. Kd4 Nd1 6. Kd5+ Nb2 7. Ke5 Nd1 8. Ke6+ Nb2 9. Kf6 Nd1 10. Kf7+ Nb2 11. Kg7 Nd1 12. Kxh6+ Nb2 13. Kg7 Nd1 (13... h6 14. b4) 14. Kf7+ Nb2 15. Kf6 Nd1 16. Ke6+ Nb2 17. Ke5 Nd1 18. Kd5+ Nb2 19. Kd4 Nd1 20. Kc4+ Nb2+ 21. Kc3 Nd1+ 22. Kb4+ Nb2 23. Ka3 h6 24. Bxb2# 1-0  
+
+[Event "ts67#43 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Ortmans F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K1N5/n1Pb4/1rNP4/p1pp4/r1k5/P1b5/q1PP4/8 w - - 0 1"]
+
+ 1. d3+ Kb5 2. N8xa7+ Ka6 3. Nb8+ Rxb8+ 4. cxb8=N+ Kb6 5. Nxd7+ Ka6 6. Nxc5+ Kb6 7. Nxa4+ Ka6 8. Nb5 Kxb5 9. Nxc3+ Kc5 10. Nxa2 1-0  
+
+[Event "ts67#47 {cr} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Benesch F, Ullmann J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3P4/4p3/2P5/4K3/2k5/1r6 w - - 0 1"]
+
+ 1. Ke4 (1. Kf3 $2 Kc3) (1. d7 $2 Rd1 2. Ke4 Rxd7 3. Kxe5 Rc7 $1 4. Kd5 Kc3 5. c5 Kb4 6. c6 Kb5) (1. c5 $2 Re1+ 2. Kf2 (2. Kf3 e4+ 3. Kf4 (3. Kf2 Rd1 4. Ke3 Kc3 5. Kxe4 Kc4) 3... e3 4. d7 (4. c6 e2 5. c7 Rf1+ 6. Kg5 e1=Q 7. c8=Q+ Kd2) 4... e2 5. d8=Q Rf1+ 6. Kg5 e1=Q) 2... Rd1 3. Ke3 Rd4) 1... Re1+ 2. Kf5 (2. Kf3 $2 Rd1) (2. Kd5 $2 e4 3. d7 e3) 2... e4 (2... Kb3 $2 3. c5 e4 4. d7 (4. c6 Rd1 5. c7 e3) 4... e3 5. d8=Q e2 6. Qd3+) 3. d7 (3. c5 $2 e3) (3. Ke6 $2 e3) 3... Rd1 (3... e3 4. d8=Q Kc3 (4... e2 5. Qh4 Rf1+ 6. Ke5 e1=Q+ 7. Qxe1 Rxe1+ 8. Kd6 ) 5. c5) 4. Kxe4 (4. Ke6 $2 e3) (4. d8=Q $2 Rxd8 5. Kxe4 Kc3 6. c5 Kc4 7. c6 Rd6 8. c7 Rc6) 4... Rxd7 5. c5 (5. Ke5 $2 Rc7) 5... Kc3 6. Ke5 (6. c6 $2 Rd6) 6... Kc4 7. c6 $3 Rh7 8. Kd6 Rh6+ 9. Kd7 Kd5 10. c7 Rh7+ 11. Kd8 Kd6 12. c8=N+ 1/2-1/2  
+
+[Event "ts76#0992 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Hoeg N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/8/3K1P2/2P2Q2/pq1B4/p2P4/k7 w - - 0 1"]
+
+ 1.Qd4+ Qb2 2.Qg1+ Qb1 3.Qg7+ Qb2 4.f6 b5 5.Qg1+ Qb1 6.Qxb1+ axb1=Q 7.Bxb1 Kxb1 8.f7 a2 9.f8=Q a1=Q 10.Qf1+ Kb2 11.Qxa1+ Kxa1 12.cxb5   1-0  
+
+[Event "tt02 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Platov V, Platov M"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6P1/8/8/4k2K/8/2b4p/2N1B3 w - - 0 1"]
+
+ 1. g8=Q h1=Q+ 2. Kg4 Bd1+ $1 3. Ne2 Bxe2+ 4. Kg5 Qg1+ 5. Bg3 Qxg3+ 6. Kh6 Qxg8 1/2-1/2  
+
+[Event "tt06 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Daniel A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1Nk5/KNp5/4n2P/7B/1q4p1/6Q1/8/8 w - - 0 1"]
+
+ 1. Qxc7+ Nxc7 (1... Kxc7 2. Na6+ Kd7 $1 3. Nxb4 g3 4. Nc5+) 2. Bxg4+ Qxg4 3. Nd6+ Kd8 4. Nc6+ Kd7 5. Ne5+ Ke7 $1 6. Nxg4 Kf8 7. Nf6 1-0  
+
+[Event "tt06#0152 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Bolus A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1r4q/p1p4p/QbN5/8/P4pP1/p2P1P1K/P1P5/8 w - - 0 1"]
+
+ 1. a5 Be3 2. d4 Bxd4 3. c3 Be3 4. Nxa7 Bxa7 5. Qc6+ Kb8 6. a6 1-0  
+
+[Event "tt06#0153 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Bolus A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/b1p2p1p/p1P3p1/P2P2r1/4R2n/7r/2PN1P1P/5R1K w - - 0 1"]
+
+ 1. Rfe1 $1 Be3 2. fxe3 Rxd5 $1 3. Kg1 Kc8 4. Nc4 $1 Nf5 (4... Rd8 5. Re7 Nf5 6. Rd7 Nd6 7. Nxd6+ cxd6 8. Ra7) (4... Nf3+ 5. Kg2 Rxh2+ 6. Kxf3 Rxc2 7. Re8+) 5. Re8+ Rd8 6. Nb6+ cxb6 7. Rxd8+ Kxd8 8. axb6 1-0  
+
+[Event "tt06#0154 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Booth D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6b1/N7/p1p3p1/k1P3P1/p5K1/p5B1/PqP3P1/8 w - - 0 1"]
+
+ 1. Be1+ Qb4+ 2. c4 Be6+ 3. Kf4 Bd7 $1 4. g4 Be8 5. Bc3 Bd7 (5... Qxc3 {main} 6. Nxc6+ Bxc6) 6. Be1 Qxe1 7. Nxc6+ Bxc6 1/2-1/2  
+
+[Event "tt06#0161 @1 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/p7/8/1P1Pp3/4P1p1/8/5k2/8 w - - 0 1"]
+
+ 1. b6 $1 (1. d6 $1 {cook} g3 2. d7 g2 3. d8=Q g1=Q 4. Qf6+ Ke2 5. Qxe5) 1... axb6 2. d6 g3 3. d7 g2 4. d8=Q g1=Q 5. Qxb6+ Kg2 6. Qxg1+ Kxg1 7. Kg7 1-0  
+
+[Event "tt06#0161 {c} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/8/1P1Pp3/4P1p1/2K5/5k2/8 w - - 0 1"]
+
+ 1. b6 (1. d6 $2 g3 2. d7 g2 3. d8=Q g1=Q 4. Qf6+ Ke2 5. Qxe5 Qa1+) 1... axb6 2. d6 g3 3. d7 g2 4. d8=Q g1=Q 5. Qxb6+ Kf1 6. Qxg1+ Kxg1 7. Kc4 Kf2 8. Kd5 1-0  
+
+[Event "tt06#0170 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Russell E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/5N1p/6kP/6p1/6P1/4p3/1p2B3/8 w - - 0 1"]
+
+ 1. Ne5+ $1 (1. Ke7 $2 b1=Q 2. Bd3+ Qxd3 3. Ne5+ Kxh6 4. Nxd3 Kg6 5. Ke6 h5 $1) 1... Kxh6 2. Bd3 e2 3. Nf3 Kg7 4. Ke7 h6 5. Ne1 h5 6. gxh5 Kh6 7. Kf6 Kxh5 8. Bxe2+ g4 9. Bd3 1-0  
+
+[Event "tt06#0170 {v} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Russell E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/5N1p/6kP/6p1/6P1/4p3/1p2B2P/8 w - - 0 1"]
+
+ 1. Ke7 b1=Q 2. Bd3+ Qxd3 3. Ne5+ Kxh6 4. Nxd3 Kg6 5. Ke6 1-0  
+
+[Event "tt06#0187 {c} @1 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4rrn1/4ppKP/5pb1/8/8/8/1bqp1Q2/7k w - - 0 1"]
+
+ 1. Qf1+ (1. h8=Q+ $1 {cook MC} Bh7 2. Qf1+ Kh2 3. Qf2+ Kh3 4. Qf3+ Kh4 5. Qf4+ Kh5 6. Qf3+ Kg5 7. Qg3+ Kh5 (7... Kf5 $2 8. Qxh7+) 8. Qf3+) 1... Kh2 2. Qf2+ Kh3 3. Qf3+ Kh4 4. Qf4+ Kh5 5. Qf5+ Qxf5 6. h8=B Qg5 1/2-1/2  
+
+[Event "tt06#0187 {v} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4rrn1/4ppKP/8/5b2/2Q5/2p5/2qp4/7k w - - 0 1"]
+
+ 1. Qf1+ Kh2 2. Qf2+ Kh3 3. Qf3+ Kh4 4. Qf4+ Kh5 5. Qg5+ Kxg5 6. h8=B d1=Q 1/2-1/2  
+
+[Event "tt06#0189 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/b1p5/KpP5/1P6/8/4P3/8/8 w - - 0 1"]
+
+ 1. e4 Ka8 2. e5 Kb8 3. e6 Ka8 4. e7 Bb8 5. e8=N $1 1-0  
+
+[Event "tt06#0204 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Bolus A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1r6/5p1p/1p1kb1p1/3B4/2PKPP2/5P2/1R6 w - - 0 1"]
+
+ 1. Rxb5+ Rxb5 2. c4+ Kc6 3. cxb5+ Kxb5 4. Bxe5 fxe5 5. Ke4 h5 6. f4 g4 7. Kf5 1-0  
+
+[Event "tt06#0205 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Daniel A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/B3N3/p7/p7/k2K4 w - - 0 1"]
+
+ 1. Bb3 Kb2 2. Bxa2 Kxa2 3. Kc2 Ka1 4. Nc5 Ka2 5. Nd3 Ka1 6. Nc1 a2 7. Nb3# 1-0  
+
+[Event "tt06#0206 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7b/8/8/p7/Pp1p1PP1/1PpP4/R1P5/K1k5 w - - 0 1"]
+
+ 1. g5 Bg7 2. f5 Be5 $1 3. f6 Kd1 4. Kb1 Kd2 5. Ra1 Kd1 6. Ka2+ Kxc2 7. Re1 1-0  
+
+[Event "tt06#0211 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Daniel A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/pp2P3/Npb3Kp/1p1N4/k1n5/8/PP6/8 w - - 0 1"]
+
+ 1. Nc3+ Ka5 2. b4+ Kxa6 3. Nd5 Bxd5 4. e8=N $1 (4. e8=Q $2 Bf7+ 5. Kxf7 Nd6+ 6. Kg6 Nxe8 7. Kxh6 Nf6 8. Kg5 Nd5 9. a3 Ne3 10. Kf4 Nc2 11. Ke4 Nxa3 12. Kd3 Nc4 13. Kc3 Na5 14. Kd3 Nc6 15. Kc3) 4... Bf7+ 5. Kxf7 Nd6+ 6. Nxd6 h5 {eg} 7. Ne8 h4 8. Nc7# 1-0  
+
+[Event "tt06#0218 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/8/8/Pp6/2pp1b2/7p/7P/4B2K w - - 0 1"]
+
+ 1. a6 Bb8 2. Bc3 Kh7 3. Bxd4 Kg6 4. Be5 Ba7 5. Bd4 Bb8 (5... Bxd4 6. a7 Bxa7) 6. Be5 1/2-1/2  
+
+[Event "tt06#0219 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Neumann M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4q3/n7/8/7P/k1B1N3/P3N3/8/K7 w - - 0 1"]
+
+ 1. Bb5+ Qxb5 2. Nc3+ Kxa3 3. Nxb5+ Nxb5 4. h6 Nd6 5. Nc4+ 1-0  
+
+[Event "tt06#0221 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1bk5/1Rp2pP1/1pP2Pr1/1P3p2/5P2/5P2/5K2/8 w - - 0 1"]
+
+ 1. Ke3 Rg1 2. Kd4 Rd1+ 3. Ke5 Rg1 (3... Rd8 4. Kxf5 Re8 5. Kg5) 4. Kxf5 Rg2 5. Ke4 Rg3 6. Ke3 Rg2 7. Kd3 Rg1 8. Ke2 Rg2+ 9. Kf1 Rg3 10. f5 $1 (10. Kf2 $2 Rg6 11. f5 Rg5 12. f4 Rg4 13. Kf3 Rg1) 10... Rg5 11. Kf2 1-0  
+
+[Event "tt06#0222 {c} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Dawson T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "qrk1b2b/rp2B1P1/pP5p/p1Np3p/P2Pp1pK/4P1P1/2P1P3/8 w - - 0 1"]
+
+ 1. g8=B (1. gxh8=B $2 Bxa4) (1. gxh8=Q $2) (1. gxh8=N $2 Bf7 2. Nxf7) (1. g8=Q $2 Bf6+ 2. Bxf6) (1. g8=R $2 Bf6+ 2. Bxf6) 1... Bf6+ 2. Bxf6 Bf7 3. Bh7 Bg6 4. c4 Bxh7 5. cxd5 Bf5 6. Kxh5 Bd7 7. Kg6 Be8+ 8. Kg7 Bxa4 9. Kf7 Bb5 10. Ke7 a4 11. Nxe4 1-0  
+
+[Event "tt23#179 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K5B/4p1P1/8/8/8/8/2p4k/8 w - - 0 1"]
+
+ 1. g8=Q c1=Q 2. Be5+ Kh1 (2... Kh3 3. Qg3#) 3. Qa2 Qh6 (3... Kg1 4. Qh2+ Kf1 5. Qh1+) (3... Qg1 4. Qd5+ Qg2 5. Qd1+ Qg1 6. Qf3+ Qg2 7. Qh5+ Kg1 8. Bd4+ Kf1 9. Qd1#) 4. Qf2 $1 Qh3 5. Qe2 $1 Qb3+ (5... Kg1 6. Bd4+ Kh1 7. Qe1+ Kg2 8. Qf2+ Kh1 9. Qg1#) (5... Qg2 6. Qd1+ Qg1 7. Qf3+ Qg2 8. Qh5+ Kg1 9. Bd4+ Kf1 10. Qd1# ) (5... e6 6. Kc8) 6. Kc7 Qh3 (6... Kg1 7. Bd4+ Kh1 8. Qf1+ Kh2 9. Be5+) 7. Kd8 e6 8. Kc8 Kg1 (8... Qg2 9. Qd1+ Qg1 10. Qf3+ Qg2 11. Qh5+ Kg1 12. Bd4+ Kf1 13. Qd1#) 9. Bd4+ Kh1 10. Qe1+ Kg2 11. Qf2+ Kh1 12. Qg1# 1-0  
+
+[Event "tt23#180 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1q5k/3Q2p1/K7/7P/4B3/6p1/6p1/5nr1 w - - 0 1"]
+
+ 1. h6 Qf8 2. hxg7+ Qxg7 3. Qd8+ Qg8 4. Qf6+ Qg7 5. Qh4+ Kg8 6. Bd5+ Qf7 7. Qh5 Qxd5 8. Qxd5+ Kh7 9. Qb7+ Kg6 10. Qb6+ Kh5 11. Qxg1 Kg4 12. Qxg2 Nh2 13. Kb5 Nf3 14. Kc4 Kf4 15. Kd5 Ng5 16. Qd2+ Kg4 17. Qd4+ Kf3 18. Qh4 1-0  
+
+[Event "tt23#184 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n2/5p1q/8/8/Q7/8/3B4/2K3k1 w - - 0 1"]
+
+ 1. Be3+ Kh2 2. Qg4 f6 3. Bf4+ Kh1 4. Qf3+ Kg1 5. Qe2 Qh3 6. Be3+ Kh1 7. Qe1+ Kg2 8. Qf2+ Kh1 9. Qg1# 1-0  
+
+[Event "tt23#186 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Weenink H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/3pkp2/pQ6/1p3P2/2p5/6K1/8/8 w - - 0 1"]
+
+ 1. f6+ Ke8 (1... Kf8 2. Qc5+ Kg8 (2... d6 3. Qh5) 3. Qg5+) 2. Qd6 Qd8 3. Kf4 c3 (3... b4 4. Kg5 b3 5. Kh6 b2 6. Kg7) 4. Kf5 b4 5. Qe5+ Kf8 6. Qh2 Qa5+ (6... Kg8 7. Qg3+) 7. Kg4 $1 Kg8 8. Qh6 1-0  
+
+[Event "tt23#188 {s} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Korteling W"]
+[Black "White wins"]
+[Result "*"]
+[FEN "nN6/p4p1q/5pp1/pP6/3k2P1/6Q1/PK6/8 w - - 0 1"]
+
+ 1. Nd7 Qh6 (1... Qg7 2. Qc3+ Ke4 (2... Kd5 3. Qd3+ Ke6 4. Nc5+ Ke7 5. Qd7+ Kf8 6. Qd8#) 3. Nxf6+ Kf4 4. Nd5+) (1... Qh8 2. Nxf6 Qc8 (2... Kc4 3. Qb3+ Kc5 ( 3... Kd4 4. Qc3#) 4. Qd5+ Kb6 (4... Kb4 5. a3+ Ka4 6. Qc4#) 5. Qc6#) (2... Kc5 3. Qe5+ Kb6 (3... Kb4 4. Nd5+) (3... Kc4 4. Qd5+ Kb4 5. a3+ Ka4 6. Qc4#) 4. Nd7+) 3. Qf4+ Kd3 (3... Kc5 4. Qc1+) 4. Qf3+ Kd4 (4... Kd2 5. Ne4+) 5. Qe4+ Kc5 6. Qc2+) (1... Qh1 2. Qc3+ Kd5 3. Qc6+) (1... Kc4 2. Qb3+ Kd4 3. Qc3+ Kd5 (3... Ke4 4. Nxf6+) 4. Nxf6+) 2. Qc3+ Kd5 (2... Ke4 3. Nxf6+ Kf4 4. Qd2+) 3. Nxf6+ Ke6 4. Qc6+ Ke5 (4... Ke7 5. Ng8+) 5. Nd7+ Kd4 (5... Kf4 6. Qc1+) 6. Qc3+ Kd5 ( 6... Ke4 7. Nf6+ Kf4 8. Qc1+) 7. Qe5+ Kc4 8. Qe4+ Kxb5 9. a4+ Ka6 10. Qc6+ Nb6 11. Nb8# 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1PN2p2/8/p1K5/5k2/8/2n4p/8 w - - 0 1"]
+
+ 1. Nd5+ Kf5 2. b8=Q h1=Q 3. Qf4+ Kg6 4. Qf6+ Kh7 5. Qg5 Kh8 6. Nf6 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7q/6p1/8/8/N7/6Q1/K3k3 w - - 0 1"]
+
+ 1. Nc2+ Kd1 2. Ne3+ Ke1 3. Kb1 Qa7 (3... Qf7 4. Nc2+ Kd1 5. Qg1+ Ke2 6. Qe3+) ( 3... Qh4 4. Kc1 Qf2 5. Nc2+ Ke2 6. Qe4+ Kf1 7. Ne3+ Kg1 8. Qxg6+ Kh1 9. Qh5+ Kg1 10. Qd1+ Kh2 11. Ng4+) (3... Qh5 4. Kc1) (3... Qh6 4. Nc2+ Kd1 5. Qf1+ Kd2 6. Qc1+) (3... Qe7 4. Qf1+ Kd2 5. Qd1+ Kc3 6. Nd5+) 4. Nc2+ Kd1 5. Qd5+ Ke2 6. Nd4+ Kf2 $1 (6... Ke1 7. Qe4+ Kd2 8. Qe2+ Kc3 9. Nb5+) 7. Qf3+ Kg1 8. Ne2+ Kh2 9. Qg3+ Kh1 10. Qh3# 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/8/1Q6/1pN1k1K1/4p2p/8/8/8 w - - 0 1"]
+
+ 1. Nd3+ Kd5 (1... exd3 2. Qf6+ Ke4 3. Qf4+ Kd5 4. Qf3+) 2. Qc5+ Ke6 3. Qf5+ Ke7 (3... Kd6 4. Qe5+ Kd7 5. Nc5+ Kc6 6. Qxe4+) 4. Qf6+ Kd7 5. Nc5+ Kc7 6. Qe5+ Kb6 7. Nd7+ Kb7 8. Qxe4+ Ka7 9. Qe3+ Kb7 10. Qf3+ Ka7 11. Qf2+ Kb7 12. Qg2+ Ka7 13. Qg1+ Kb7 14. Qh1+ Ka7 15. Qa1+ Kb7 16. Nc5+ Kb8 17. Qe5+ Kc8 18. Qe8+ 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n2q2/8/Q7/3k4/8/8/2K5/3N4 w - - 0 1"]
+
+ 1. Ne3+ Kd4 2. Qd3+ Ke5 3. Ng4+ Ke6 4. Qe4+ Kf7 5. Ne5+ Kg8 6. Qd5+ Kh7 7. Qd3+ Kg8 8. Qb3+ Kh7 9. Qh3+ Kg8 10. Qe6+ Kh7 11. Qg6+ Kh8 12. Nf7+ 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6q1/8/7B/8/1k6/3Q4/1K6/8 w - - 0 1"]
+
+ 1. Bf8+ Ka5 2. Qd8+ Kb5 $1 3. Qe8+ Kc4 4. Qe4+ Kb5 5. Qb7+ Ka5 $1 6. Bd6 (6. Bb4+ $2 Ka4 7. Bd2 Qa2+ 8. Kxa2) 6... Qc4 7. Bc7+ Ka4 8. Qa7+ Kb5 $1 9. Qb6+ Ka4 10. Qa5# 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/6q1/6B1/8/8/8/2Q5/7K w - - 0 1"]
+
+ 1. Qc8+ Qg8 2. Qc3+ Qg7 3. Qh3+ Kg8 4. Qe6+ Kh8 (4... Kf8 5. Qe8#) 5. Qe8+ Qg8 6. Qe5+ Qg7 7. Qh5+ Kg8 8. Qd5+ Kh8 9. Qd8+ Qg8 10. Qh4+ Kg7 11. Qg5 $1 Qh8+ ( 11... Qb8 {main} 12. Be8+ Kh7 13. Qg6+ Kh8 14. Qf6+ Kh7 15. Qf7+ Kh8 16. Qf8+ Kh7 17. Bg6+) (11... Qf8 {main} 12. Bf5+ Kf7 (12... Kh8 13. Qh5+) 13. Qg6+ Ke7 14. Qe6+ Kd8 15. Qd7#) 12. Bh5+ Kf8 (12... Kh7 13. Qg6#) 13. Qc5+ Kg7 (13... Kg8 14. Qd5+) 14. Qe5+ Kh7 15. Qf5+ Kg7 16. Qg6+ Kf8 17. Qf7# 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/6q1/8/8/4B3/Q7/8/7K w - - 0 1"]
+
+ 1. Qa8+ Qg8 2. Qa7 $3 Qg7 3. Qb8+ $1 Qg8 4. Qe5+ $1 Qg7 5. Qe8+ $1 Qg8 6. Qd7 $3 Qf7 7. Qd4+ $1 Qg7 8. Qd8+ Qg8 9. Qf6+ Qg7 10. Qh4+ Kg8 11. Bd5+ Kf8 12. Qd8# 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4q3/4B3/p7/8/8/3k4/8/2QK4 w - - 0 1"]
+
+ 1. Qb1+ Ke3 2. Qb6+ Kf3 3. Qf6+ Kg3 4. Qe5+ Kg2 5. Qe4+ Kh3 6. Qh4+ Kg2 7. Qg4+ Kh2 8. Bd6+ Kh1 9. Qh3+ Kg1 10. Bc5+ 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q4B2/8/8/8/4p3/pk6/6Q1/4K3 w - - 0 1"]
+
+ 1. Qg8+ Ka4 2. Qc4+ Ka5 3. Bd6 Kb6 4. Bc7+ (4. Qb4+ $2 Ka6 5. Qxa3+ Kb7 6. Qb4+ Kc8 7. Qc5+ Kb7 8. Qd5+ Ka7 9. Bc5+ Kb8 10. Qd8+ Kb7 11. Qd7+ Ka6 12. Be3 Qd5 $1 13. Qxd5) 4... Ka7 5. Qc5+ Kb7 6. Qd5+ Ka7 7. Bb6+ Kb8 8. Qd7 Qa6 9. Qc6 Qb7 10. Qd6+ Ka8 11. Qxa3+ Kb8 12. Qd6+ Ka8 13. Qd8+ Qb8 14. Qd5+ Qb7 15. Qa5+ Kb8 16. Qe5+ Ka8 17. Qe8+ Qb8 18. Qxe4+ Qb7 19. Qe8+ Qb8 20. Qa4+ Kb7 21. Qb5 Qg8 22. Bd8+ Kc8 23. Qc6+ Kb8 24. Bc7+ Ka7 25. Qb6+ Ka8 26. Qa6# 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q4n2/8/B7/p6Q/8/4k1K1/p7/8 w - - 0 1"]
+
+ 1. Qe5+ Kd2 2. Qb2+ Ke3 3. Qc3+ Ke4 4. Bb7+ Qxb7 5. Qf3+ Ke5 6. Qxb7 a1=Q 7. Qg7+ 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q2B3n/7p/4k3/1Q6/2p5/n7/K7/8 w - - 0 1"]
+
+ 1. Qe8+ Kf5 2. Qh5+ Kf4 (2... Ke6 {main} 3. Qg4+ Kf7 4. Qd7+ Kg6 5. Qe6+ Kg7 6. Qe7+ Kg8 7. Qe8+ Kg7 8. Bf6+) 3. Qh2+ Kf5 (3... Ke3 4. Bg5+ Kd4 5. Qf2+ Ke5 6. Qf6+ Ke4 7. Qf4+ Kd3 8. Qd2+ Ke4 9. Qg2+) 4. Qf2+ Ke5 5. Qg3+ Ke6 6. Qe3+ Kd6 7. Qf4+ Kc5 8. Qf2+ Kb5 9. Qb2+ Kc5 10. Be7+ 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n2n3q/p6k/8/3p3N/3P4/p7/1B3p2/K6Q w - - 0 1"]
+
+ 1. Qb1+ Kh6 2. Bc1+ Kxh5 3. Qf5+ Kh4 4. Qxf2+ Kg4 5. Qf4+ Kh3 6. Qf3+ Kh2 7. Bf4+ Kg1 8. Be3+ Kh2 9. Qg4 $1 Nf7 10. Bf4+ Kh1 11. Qf3+ Kg1 12. Be3+ Kh2 13. Qg4 a6 14. Bf4+ Kh1 15. Qf3+ Kg1 16. Be3+ Kh2 17. Qg4 a5 18. Bf4+ Kh1 19. Qf3+ Kg1 20. Be3+ Kh2 21. Qg4 a4 22. Bf4+ Kh1 23. Qf3+ Kg1 24. Be3+ Kh2 25. Qg4 a2 26. Bf4+ Kh1 27. Qf3+ Kg1 28. Be3+ Kh2 29. Qg4 a3 30. Bf4+ Kh1 31. Qf3+ Kg1 32. Be3+ Kh2 33. Qg4 Nb6 (33... Nh6 34. Bf4+ Kh1 35. Qh3+ Kg1 36. Be3#) (33... Nc7 34. Bf2) 34. Bf2 Qb8 35. Bg1+ Kh1 36. Be3 Qh2 (36... Kh2 37. Bf4+) 37. Qf3+ Qg2 38. Qd1+ Kh2 39. Bf4+ Kh3 40. Qh5# 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/6pq/8/8/8/8/6Q1/K1B1k3 w - - 0 1"]
+
+ 1. Qg1+ Ke2 2. Qe3+ Kf1 3. Qf3+ Kg1 (3... Ke1 {main} 4. Bb2 Kd2 5. Bc3+ Kc2 6. Ba5 $1 Qd3 (6... Kc1 7. Qf1+ Kc2 8. Qb1#) (6... Qh2 7. Qc3+ Kd1 8. Qe1+ Kc2 9. Qb1#) 7. Qf2+ Kc1 (7... Kd1 8. Qe1+ Kc2 9. Qb1#) 8. Qe1+ Qd1 9. Qc3+ Qc2 10. Qe3+ Kd1 11. Qe1#) 4. Be3+ Kh2 5. Qg4 $1 g5 (5... Qc2 6. Bf4+ Kh1 7. Qh3+ Kg1 8. Be3+) (5... Qd3 6. Qh4+ Kg2 7. Qf2+ Kh3 8. Qf3+ Kh4 9. Bf2+) (5... Qh8 6. Qg1+ Kh3 7. Qh1+) (5... Bd5 6. Bf4+ Kh1 7. Qd1+ Kg2 8. Qe2+ Kh3 9. Qh2+) (5... g6 6. Bf4+ Kh1 7. Qd1+ Kg2 8. Qe2+ Kh3 (8... Kg1 9. Be3+ Kh1 10. Qf1+ Kh2 11. Bf4#) 9. Qf3+ Kh4 10. Qg3+ Kh5 11. Qg5#) 6. Bg1+ Kh1 7. Bd4 $1 Kh2 (7... Qh2 8. Qf3+ Qg2 9. Qd1+ Kh2 10. Be5+ Kh3 11. Qh5#) 8. Be5+ Kh1 9. Qd1+ Kg2 10. Qe2+ Kh3 11. Qf3+ Kh4 12. Bg3+ Kh3 13. Bf2+ Kh2 14. Qg3+ Kh1 15. Qg1# 1-0  
+
+[Event "tu03 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/4K3/4p3/8/kB2Qp2/6b1/7q w - - 0 1"]
+
+ 1. Bd5+ Kb2 (1... Ka4 2. Qb3+ Ka5 3. Qc3+ Kb5 4. Bc4+ Kc5 5. Bd3+ Kb6 6. Qb4+ Kc7 7. Qd6+ Kc8 8. Ba6#) 2. Qd2+ Kb1 3. Ba2+ Ka1 4. Bc4 Kb1 5. Kd6 $3 a5 6. Bb3 Qh7 7. Ba2+ Ka1 8. Bc4 Qg6+ 9. Kc5 Qb1 10. Qc3+ 1-0  
+
+[Event "tu03 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5Q2/q7/8/8/4k1K1/5N2/8/8 w - - 0 1"]
+
+ 1. Qf5+ Ke3 2. Qe6+ Kd3 (2... Kf2 3. Qe1+ Kg2 4. Nh4+ Kh2 5. Qg3+ Kh1 6. Qg2#) 3. Qb3+ Ke4 (3... Ke2 4. Qc2+ Kf1 (4... Ke3 5. Qd2+) 5. Qd1+ Kg2 6. Nh4+ Kf2 7. Qd2+ Kf1 8. Qg2+ Ke1 9. Nf3+ Kd1 10. Qd2#) 4. Qc2+ (4. Qb1+ $1 {cook IV}) 4... Kd5 (4... Ke3 5. Qd2+ Ke4 6. Qe2+ Kd5 7. Qd3+) 5. Qd3+ Ke6 (5... Kc6 6. Ne5+ Kb7 7. Qd5+ Kb6 8. Qc6+ Ka5 9. Qc3+ Ka6 10. Qc4+ Kb6 11. Qb4+ Kc7 12. Qe7+ Kb6 13. Nc4+ Ka6 14. Qa3+ Kb7 15. Nd6+ Ka8 (15... Kb6 16. Nc8+) 16. Qf3+ Kb8 17. Qf8+ Kc7 18. Nb5+) 6. Nd4+ Kf6 7. Qf5+ Kg7 8. Ne6+ Kg8 (8... Kh8 9. Qh5+ Qh7 ( 9... Kg8 10. Qe8+) 10. Qe5+ Kg8 11. Qb8+ Kf7 12. Ng5+) 9. Qg6+ (9. Qf8+ $1 { cook JV} Kh7 10. Ng5+ $1 (10. Kh5 $2 Qa5+ 11. Ng5+ Qxg5+ 12. Kxg5) 10... Kg6 11. Qf5+ Kh6 (11... Kg7 12. Qh7+) 12. Qf6#) 9... Kh8 10. Qe8+ (10. Qf6+ $1 { cook IV}) (10. Qh6+ $1 {cook IV}) 10... Kh7 11. Kh5 $1 Qb7 $1 12. Qg6+ Kh8 13. Qf6+ Kh7 14. Qf5+ (14. Qh6+ $1 {cook IV}) 14... Kg8 15. Qf8+ Kh7 16. Ng5# 1-0  
+
+[Event "tu03 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7k/1p5q/4Q3/1pK3B1/8/8/8 w - - 0 1"]
+
+ 1. Bf5+ Kg8 2. Be6+ Kh7 3. Qe4+ Kh8 4. Qd4+ (4. Qa8+ $1 {cook} Kg7 5. Qb7+) 4... Kh7 5. Qd3+ Kg7 6. Qd7+ Kf6 7. Qf7+ Ke5 8. Qf5+ Kd6 9. Qd5+ Ke7 10. Qb7+ Kf6 11. Qf3+ Ke5 12. Qd5+ Kf6 13. Qf5+ Ke7 14. Qf7+ Kd6 15. Qd7+ Ke5 16. Qd4+ Kxe6 17. Qxb6+ 1-0  
+
+[Event "tu03 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/7p/3k1p2/5K2/8/q2B4/7P/2n1Q3 w - - 0 1"]
+
+ 1. Qg3+ Kc5 2. Qe3+ Kb4 3. Qd4+ (3. Qb6+ $1 {cook} Kc3 4. Qc6+ Kd2 5. Qg2+ Ke1 6. Qf1+ Kd2 7. Qe2+ Kc3 8. Qc2+ Kd4 9. Qc4+ Ke3 10. Qf4+ Kxd3 11. Qf3+) 3... Ka5 4. Qd5+ Kb6 5. Qd8+ Kc6 6. Qc8+ Kb6 7. Qb8+ Kc6 8. Bb5+ Kd5 9. Qg8+ Kd4 10. Qc4+ Ke3 11. Qf4# 1-0  
+
+[Event "tu03 @2 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Wessels M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2k2N2/2P2p2/2pPpP2/2P2p2/2b2K2/8/8 w - - 0 1"]
+
+ 1. Ke4 (1. Ng5 $2 fxg5 2. f6 e4+ 3. Kxe4 Bxf6) 1... Bb2 (1... Ba5 2. Nxe5 fxe5 3. f6) 2. Ng5 (2. Nh6 $1 {cook JU}) 2... fxg5 (2... Kd6 3. Ne6 Bc3 4. c7 Kd7 5. d6 Bb4 6. Kd5 f3 7. Nf8+ Kc8 8. Kc6 f2 9. d7#) 3. f6 Kd6 4. f7 Ke7 5. c7 1-0  
+
+[Event "tu03 @3 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1PN2p2/8/p1K5/5k2/8/4b2p/8 w - - 0 1"]
+
+ 1. Nd5+ Kf5 (1... Kg5 $1 {cook JR} 2. b8=Q h1=Q 3. Qf4+ Kh5 4. Qf5+ Kh4 5. Qh7+ Bh5) 2. b8=Q h1=Q 3. Qf4+ Kg6 4. Qf6+ Kh7 5. Qg5 $1 Kh8 6. Nf6 1-0  
+
+[Event "tu03 {c} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/7p/3k1p2/5K2/8/q2B3p/7P/4Q3 w - - 0 1"]
+
+ 1. Qg3+ Kc5 2. Qe3+ Kb4 3. Qd4+ Ka5 4. Qd5+ Kb6 5. Qd8+ Kc6 6. Qc8+ Kb6 7. Qb8+ Kc6 8. Bb5+ Kd5 9. Qg8+ Kd4 10. Qc4+ Ke3 11. Qf4# 1-0  
+
+[Event "tu03 {c} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7k/1p5q/4Q3/1pK3B1/8/8/r7 w - - 0 1"]
+
+ 1. Bf5+ Kg8 2. Be6+ Kh7 3. Qe4+ Kh8 4. Qd4+ Kh7 5. Qd3+ Kg7 6. Qd7+ Kf6 7. Qf7+ Ke5 8. Qf5+ Kd6 9. Qd5+ Ke7 10. Qb7+ Kf6 11. Qf3+ Ke5 12. Qd5+ Kf6 13. Qf5+ Ke7 14. Qf7+ Kd6 15. Qd7+ Ke5 16. Qd4+ Kxe6 17. Qxb6+ 1-0  
+
+[Event "tu03 {v} {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7k/1p5q/4Q3/2K3B1/8/8/8 w - - 0 1"]
+
+ 1. Bf5+ Kg8 2. Be6+ Kh7 3. Qe4+ Kg7 4. Qb7+ Kh8 5. Qc8+ Kg7 6. Qd7+ Kf6 7. Qf7+ Ke5 8. Qf5+ Kd6 9. Qd5+ Ke7 10. Qb7+ Kf6 11. Qf3+ Ke5 12. Qd5+ Kf6 13. Qf5+ Ke7 14. Qf7+ Kd6 15. Qd7+ Ke5 16. Qd4+ Kxe6 17. Qxb6+ 1-0  
+
+[Event "wl01 {m}"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Apschenek F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1q6/2p3Q1/8/5p2/p1B1pP2/k3K3 w - - 0 1"]
+
+ 1. Qc1+ Qb1 2. Bd1 $3 exd1=Q+ (2... Qxc1) (2... c4 3. Qc3+ Qb2 4. Qc1+ $1 Qxc1) 3. Kxd1 c4 4. Kd2 c3+ 5. Kd1 c2+ 6. Kd2 Qxc1+ 7. Kxc1 1/2-1/2  
+
+[Event "1 Honorable Mention tl20#381 @2 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "De Villeneuve Esclapon J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p2b/8/pp5K/k7/p1P5/P3p1B1/RN2b3 w - - 0 1"]
+
+ 1. Bd5 Bc2 2. Be6 (2. Nxa3 $1 {cook} Bxc3 (2... Kxa3 3. Rxe1) (2... Bd1 3. Nc2 $1) 3. Nxc2 Bxa1 4. Bb3#) 2... Bd1 3. Kg6 Bc2+ 4. Kf7 Bd1 5. Ke8 Bc2 6. Kd8 Bd1 7. Kd7 Bc2 8. Kc8 Bd1 9. Kb7 Bc2 10. Ka6 Bd1 11. Bd7 Bc2 12. Bxb5# 1-0  
+
+[Event "1 Honorable Mention tl20#381 {v} {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "De Villeneuve Esclapon J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1B2p2b/1p6/p6K/k7/p1P5/P3p1P1/RN2b1n1 w - - 0 1"]
+
+ 1. Bc6+ b5 2. Bd5 Bc2 3. Be6 $1 Bd1 4. Kg6 (4. Kg4 $2 Bd2 5. Nxd2 e1=Q+) 4... Bc2+ 5. Kf7 Bd1 6. Kf8 Bc2 7. Ke8 Bd1 8. Kd8 Bc2 9. Kc8 Bd1 10. Kb7 Bc2 11. Ka6 Bd1 12. Bd7 Bxc3 13. Nxc3+ Kb4 14. Nxe2 Bxe2 15. Rb1+ Kc3 16. Bxb5 1-0  
+
+[Event "1 Honorable Mention tl20#381 {v} {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "De Villeneuve Esclapon J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1B2p3/1p6/p4b1K/k7/p1P5/P3p1P1/RN2b1n1 w - - 0 1"]
+
+ 1. Bc6+ b5 2. Bd5 Bc2 3. Be6 Bd1 4. Kg6 Bc2+ (4... Bxc3 5. Nxc3+ Kb4 6. Ne4 a4 7. Nf2) 5. Kf7 Bd1 6. Kf8 Bc2 7. Ke8 Bd1 8. Kd8 Bc2 9. Kc8 Bd1 10. Kb7 Bc2 11. Ka6 Bd1 12. Bd7 1-0  
+
+[Event "1 Prize tw04 @2 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n1n/1p1p3q/3P4/1p6/1p1B2Q1/1P1p4/7k/K7 w - - 0 1"]
+
+ 1. Bg1+ (1. Ka2 $2 Nf7 2. Be3 Nd8) 1... Kh1 2. Be3 Kh2 3. Ka2 b6 4. Bf4+ (4. Bg1+ $1 {cook HG} Kh1 5. Bf2 Qh2 6. Qe4+ Qg2 7. Qe1+ Kh2 8. Qe5+ Kh1 9. Qa1+ Kh2 10. Qxh8+ Qh3 11. Qxf8) 4... Kh1 5. Qf3+ Kg1 6. Be3+ Kh2 7. Qg4 d2 (7... Ne6 8. Qg1+ Kh3 9. Qh1+) (7... Nf7 8. Bf4+ Kh1 9. Qf3+ Kg1 10. Bg3) (7... Qg6 8. Bf4+ Kh1 9. Qh3+ Kg1 10. Be3#) 8. Bf4+ Kh1 9. Qd1+ Kg2 10. Qe2+ Kg1 11. Be3+ Kh1 12. Qf1+ 1-0  
+
+[Event "1 Prize tw04 {c} {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n1n/3p3q/3P4/1p1p4/3P2Q1/1p1p4/1P6/1K4Bk w - - 0 1"]
+
+ 1. Be3 (1. Bf2 $2 Qh2) 1... Kh2 (1... d2+ 2. Ka1 d1=Q+ (2... Qh2 3. Qf3+ Qg2 4. Qd1+ Kh2 5. Bf4+ Kh3 6. Qh5#) (2... Qe4 3. Qh3#) 3. Qxd1+ Kh2 4. Bf4+ Kg2 5. Qe2+ Kg1 6. Be3+ Kh1 7. Qf1+ Kh2 8. Bf4#) 2. Ka1 (2. Bf4+ $2 Kh1 3. Qf3+ (3. Ka1 $2 Ne6 $1 4. Qf3+ Kg1 5. Be3+ (5. Bg3 Qf7 $1) 5... Kh2 6. Qf2+ Kh3 7. Qf1+ Kg4 8. Qg2+ (8. Qd1+ Kg3 9. Qg1+ Kf3 10. Qf2+ Kg4) 8... Kh5 9. Qxd5+ Kg6 10. Qxb3 Qh1+ 11. Ka2 Qe4 $1) 3... Kg1 4. Be3+ (4. Ka1 $2 Qh1 $1 5. Qg3+ Kf1 6. Be3 Ke2+) 4... Kh2 5. Qg4 (5. Ka1 $2 Qe4 $1 6. Bf4+ Kg1 7. Qg3+ Kf1 8. Be3 Qg2 $1 9. Qf4+ Ke2 10. Bc1 Kd1 $1) (5. Kc1 $2 d2+ 6. Kxd2 (6. Bxd2 Qc2#) 6... Qc2+ 7. Ke1 Qb1+ 8. Ke2 Qc2+ 9. Bd2 Qe4+ 10. Qxe4 dxe4 11. Ke3 Nf7) 5... d2+ $1 6. Ka1 d1=Q+ 7. Qxd1 Qc2) 2... b4 3. Bf4+ Kh1 4. Qf3+ (4. Qd1+ $2 Kg2 5. Qxb3 Qe4 $1 6. Bd2 Qxd4 7. Qxb4 Qc4) 4... Kg1 5. Be3+ Kh2 6. Qg4 d2 (6... Ne6 7. Qg1+ Kh3 8. Qh1+) (6... Nf7 7. Bf4+ Kh1 8. Qf3+ Kg1 9. Bg3) (6... Qg6 7. Bf4+ Kh1 8. Qh3+ Kg1 9. Be3#) 7. Bf4+ Kh1 8. Qd1+ Kg2 9. Qe2+ Kg1 10. Be3+ Kh1 11. Qf1+ Kh2 12. Bf4# 1-0  
+
+[Event "1 Prize tw04 {c} {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n1n/3p3q/3P4/1p1p4/3P2Q1/1p1p4/1P1B3k/1K6 w - - 0 1"]
+
+ 1. Bf4+ $1 (1. Be3 $2 d2+) (1. Ka1 $2 Ne6 $1) 1... Kh1 2. Be3 Kh2 3. Ka1 b4 4. Bf4+ Kh1 5. Qf3+ Kg1 6. Be3+ Kh2 7. Qg4 d2 (7... Ne6 8. Qg1+ Kh3 9. Qh1+) (7... Nf7 8. Bf4+ Kh1 9. Qf3+ Kg1 10. Bg3) (7... Qg6 8. Bf4+ Kh1 9. Qh3+ Kg1 10. Be3# ) 8. Bf4+ Kh1 9. Qf3+ Kg1 10. Qd1+ Kg2 11. Qe2+ Kg1 12. Be3+ Kh1 13. Qf1+ Kh2 14. Bf4# 1-0  
+
+[Event "1 Prize tw04 {c} @2 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Mann C"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n1n/3p3q/1p6/3P4/1pP3Q1/1P1p4/1B5k/K7 w - - 0 1"]
+
+ 1. Be5+ Kh1 2. Bd4 Kh2 3. Bg1+ Kh1 4. Bxb6 Kh2 5. Bg1+ Kh1 6. Be3 Kh2 7. Ka2 ( 7. Bf4+ $1 {cook} Kh1 8. Ka2 Ne6 9. dxe6 dxe6 10. Qf3+ Kg1 11. Be3+ Kh2 12. Qg4 Qf5 13. Qg1+ Kh3 14. Qh1+ Kg4 15. Qxh8) 7... d6 8. Bf4+ Kh1 9. Qf3+ Kg1 10. Be3+ Kh2 11. Qg4 Qd7 12. Qg1+ Kh3 13. Bf2 Qg4 14. Qh1# 1-0  
+
+[Event "10 Prize tl20#403 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Moravec J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/6p1/8/7p/8/8/R7/6k1 w - - 0 1"]
+
+ 1. Kh7 $1 h4 (1... g5 2. Kg6 g4 3. Kg5 $1 g3 4. Kh4 $1 g2 5. Kh3 Kh1 6. Rxg2) 2. Kg6 h3 3. Kg5 h2 4. Kg4 h1=Q (4... h1=N 5. Kf3 g5 6. Rd2 g4+ 7. Kxg4 Nf2+ 8. Kf3 Nh1 9. Ra2) (4... g5 5. Kg3 h1=N+ 6. Kf3 g4+ 7. Kxg4 Nf2+ 8. Kf3 Nd3 $1 9. Ra4 $1 Nc5 (9... Kh2 10. Re4 Kg1 11. Rd4 Nc5 12. Rd5 Nb7 13. Ke3 Kg2 14. Kd3 Kf3 15. Kc3 Ke4 16. Kc4 Kf4 17. Kb4 Kg3 18. Rd7) 10. Rc4 Nb3 11. Ke2 Na5 $1 12. Rc7 Kh2 13. Kd2 Nb3+ 14. Kc3 Nc1 15. Re7 Kg3 16. Re1 Na2+ 17. Kc4) 5. Kg3 1-0  
+
+[Event "11 Prize tl20#376 {m}"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Lazard F"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5K2/1q1b3p/2N4k/2p3p1/6P1/R7/8/8 w - - 0 1"]
+
+ 1. Nd8 Qc8 2. Ra6+ Qxa6 3. Nf7+ Kg6 4. Ne5+ Kf6 5. Nxd7+ 1/2-1/2  
+

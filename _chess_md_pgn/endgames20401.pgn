@@ -1,0 +1,1100 @@
+[Event "ts01#010 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k1q1/5R1R/8/7K/8/8/8/8 w - - 0 1"]
+
+ 1. Re7+ Kd8 (1... Kf8 2. Rd7 $1 Ke8 3. Rhe7+ Kf8 4. Rd8+) 2. Rd7+ Kc8 3. Rc7+ Kb8 4. Rb7+ Ka8 5. Ra7+ Kb8 6. Rhb7+ Kc8 7. Ra8+ 1-0  
+
+[Event "ts01#016 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3b4/3k1b2/PP6/1K4P1/8/8/8/8 w - - 0 1"]
+
+ 1. g6 (1. b7 $2 Kc7) (1. Kc5 $2 Kc8) 1... Bxg6 (1... Bd5 2. Kc5 $1) 2. a7 Be4 3. Ka6 Kc8 4. a8=Q+ $1 Bxa8 5. Ka7 Be4 6. b7+ Bxb7 1/2-1/2  
+
+[Event "ts01#017 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/6K1/5R2/1p6/7k/r7 w - - 0 1"]
+
+ 1. Rb4 $1 (1. Rf2+ $2 Kg3 2. Rb2 Ra5+ 3. Kf6 Rb5 4. Ke6 Kf3 5. Kd6 Ke3 6. Kc6 Rb8 7. Kc5 Kd3) (1. Rf3 $2 Ra3) (1. Kf5 $2 Ra5+ 2. Ke6 Rb5 3. Rf2+ Kg3 4. Rb2 Kf3) 1... Rb1 $1 (1... Rg1+ 2. Kf4) 2. Kf4 b2 3. Ke3 $1 Kg2 (3... Re1+ $2 4. Kf2) 4. Kd2 1-0  
+
+[Event "ts01#068 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/k7/3q4/KR6/8/8/R7 w - - 0 1"]
+
+ 1. Ka3 Ka5 (1... Qe5 2. Ka2 Ka5 3. Rb7) 2. Rb8 $1 (2. Rb3 $2 Qd2 $1) (2. Rb2 $2 Qc4 $1) 2... Qe5 3. Kb3+ Qxa1 4. Ra8+ 1-0  
+
+[Event "ts01#073 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/7R/3p4/1p3p2/1K2p2p/2p1R3/p3p3/8 w - - 0 1"]
+
+ 1. Ka5 $1 (1. Rxc3 $2 e1=Q) (1. Kxb5 $2 a1=Q) 1... a1=Q+ 2. Kb6 c2 3. Ra3+ $1 Qxa3 (3... Kb8 4. Rxa1 c1=Q 5. Rh8+) 4. Rh8# 1-0  
+
+[Event "ts01#085 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/1P6/P7/k6P/7K/rP6/8 w - - 0 1"]
+
+ 1. a6 bxa6 2. b3+ Ka5 $1 3. b7 Rb2 4. b8=Q (4. b8=R $2 Rh2+ 5. Kxh2) 4... Rxb3+ 5. Qg3 $1 (5. Qxb3 $2) 1-0  
+
+[Event "ts01#095 {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6K1/5P2/2pPb3/2P5/1k6/8/8 w - - 0 1"]
+
+ 1. Kf7 $1 Kxc4 2. d6 $1 (2. Ke6 $2 Bxf6 $1) 2... Bxd6 3. Ke6 Bf8 4. Kf7 Bh6 5. Kg6 Bf4 6. Kf5 Bd6 (6... Bd2 {main} 7. Kg6 $1 Bf4 8. Kf5) 7. Ke6 $1 Bf4 8. Kf5 1/2-1/2  
+
+[Event "wl09#05 ts01 {tw} {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/5p2/4P1P1/5P2/2B5/5r2/8/K7 w - - 0 1"]
+
+ 1. f6 Rxf6 (1... fxe6 2. g7+ Kf7 3. Bxe6+) (1... fxg6 2. e7+ Ke8 3. Bb5+) 2. g7+ Kxg7 3. e7 1-0  
+
+[Event "wl09#06 ts01 {tw} {m}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/5p2/K3P1P1/5P2/2B5/5r2/8/8 w - - 0 1"]
+
+ 1. g7+ Kxg7 2. e7 Ra3+ 3. Kb7 $1 Re3 4. Be6 1-0  
+
+[Event "1 Prize, wl09 tn04 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3PB3/4P3/K4k2/8/8/7r w - - 0 1"]
+
+ 1. d7 Rd1 (1... Ra1+ 2. Ba2 Rxa2+ 3. Kb3) 2. Bd5 Rxd5 3. e6 1-0  
+
+[Event "2 Prize, wl09#07 ts01 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/K7/p2kP2P/2R5/6r1/8/8/8 w - - 0 1"]
+
+ 1. e7 Kxe7 2. h7 Rh4 3. Rc8 Rxh7 4. Rc7+ 1-0  
+
+[Event "4 Honorable Mention, wl09#11 ts01 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2p5/2P5/1P5B/1p5P/pP4k1/K5b1 w - - 0 1"]
+
+ 1. b5 cxb5 (1... Bxc5 2. bxc6 Bd6 3. Be7 $1) (1... Kxh3 2. bxc6 Bh2 3. Be7 Bc7 4. Bd6) 2. c6 Bh2 (2... Bb6 3. Bd8 $1 (3. Bf2 $2 Kxf2 4. h4 Ke2 5. h5 Kd2 6. h6 Kc2 7. c7 Bxc7 8. h7 Be5 9. h8=Q Bxh8)) 3. Bg3 $1 1-0  
+
+[Event "5 Commendation, wl09#21 ts01 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3RK2k/8/5R2/8/8/8/q7/8 w - - 0 1"]
+
+ 1. Kf8 Qh2 (1... Qa3+ 2. Kf7+ Kh7 3. Rh8+ Kxh8 4. Rh6#) 2. Ke7+ Kg7 3. Rf7+ Kg6 4. Rg8+ Kh6 5. Rh8+ 1-0  
+
+[Event "bh05 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/BP6/8/6p1/6P1/6b1/1K1k4 w - - 0 1"]
+
+ 1. Bc8 Ke1 2. Bxg4 Kf2 3. Bf3 $1 Bxf3 4. g4 1-0  
+
+[Event "bh05 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/BP6/8/6p1/6P1/3k2b1/1K6 w - - 0 1"]
+
+ 1. Bc8 Ke1 2. Bxg4 Kf2 3. Bf3 $1 (3. Kb2 $2 Kxg3 4. Bc8 Kf4 5. Kc3 Ke5 6. Kb4 Kd6 7. Ka5 Bf1 8. Ba6 Bg2 9. Be2 Bb7) 3... Bxf3 4. g4 Ke3 5. g5 Kd4 6. g6 Kc5 7. g7 1-0  
+
+[Event "bh05 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/1p6/2P5/6pN/8/2p3K1/8/8 w - - 0 1"]
+
+ 1. cxb7 Kc7 2. Nf6 $1 (2. Ng7 $2 c2 3. Ne6+ Kb8 $1) 2... c2 3. Nd7 Kxb7 4. Nc5+ Kc6 5. Nb3 1/2-1/2  
+
+[Event "bk01#316a {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3kP3/8/3P4/1K2p3/3p4/5R2 w - - 0 1"]
+
+ 1. e7 $1 Kxe7 (1... e2 2. e8=Q exf1=Q 3. Qd8+ Ke6 (3... Kc6 4. d5+ Kc5 5. Qa5+ Qb5+ 6. Qxb5+ Kxb5 7. Kc2) 4. Qe8+) 2. Kc3 e2 3. Rf7+ $1 Kxf7 4. Kxd2 1/2-1/2  
+
+[Event "bs02#015a {tw} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6rb/6k1/4K1P1/8/7N/8/8/8 w - - 0 1"]
+
+ 1. Nf5+ Kf8 (1... Kxg6 2. Ne7+) 2. g7+ Bxg7 3. Ne7 Rh8 4. Ng6+ 1/2-1/2  
+
+[Event "bs02#015b {tw} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6rn/6k1/p3K1P1/8/7N/8/8/8 w - - 0 1"]
+
+ 1. Nf5+ Kf8 2. g7+ Ke8 3. Nd6+ Kd8 4. gxh8=Q Rxh8 5. Nf7+ 1/2-1/2  
+
+[Event "bs02#016 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3r4/1k6/3P1K2/8/4N3/1n6/8/8 w - - 0 1"]
+
+ 1. Ke7 Kc8 (1... Rh8 2. d7 Nd4 (2... Kc7 3. Nf6) 3. Nd6+) 2. Nf6 Nc5 3. d7+ Nxd7 4. Ne8 Nb6 5. Nd6+ Kc7 6. Ne8+ 1/2-1/2  
+
+[Event "bs02#017 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/p5p1/5N2/P7/1Pk5/8/8/8 w - - 0 1"]
+
+ 1. Nd5 (1. Kc7 $2 gxf6) 1... Kxd5 (1... g5 2. Kc7 g4 (2... Kxd5 3. b5 g4 4. b6 axb6 5. a6) 3. Kc6 g3 4. b5 g2 5. Ne3+) 2. b5 $1 (2. Kc7 $2 Kc4 $1) 2... Kc5 3. b6 axb6 4. a6 Kc6 5. Kc8 1-0  
+
+[Event "bs02#027 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5n1K/8/P7/1P6/2r4k/3N4/8/8 w - - 0 1"]
+
+ 1. b6 (1. a7 $2 Ra4) 1... Nd7 (1... Ra4 2. b7 Nd7 3. Nc5) 2. b7 Ra4 3. Nc5 Nb8 4. Nxa4 1-0  
+
+[Event "bs02#027 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N2n1/8/2P5/1P6/r7/8/2k4K/8 w - - 0 1"]
+
+ 1. b6 (1. c7 $2 Rc4 2. b6 (2. Nc6 Rxc6 $1 3. b6 Rxc7 4. bxc7 Ne7) 2... Rxc7 $1) 1... Rb4 2. c7 (2. b7 $2 Ne7 3. c7 Rxb7) 2... Ne7 3. Nc6 $1 Nxc6 4. c8=Q Rxb6 5. Qc7 Ra6 6. Qb7 1-0  
+
+[Event "bs02#028 @3 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r7/Pk2P1N1/6K1/8/8/8/8/2b5 w - - 0 1"]
+
+ 1. Ne6 Re8 (1... Kc6 2. Nd8+ Kd7 3. Kf7) (1... Bg5 2. Kxg5 Kc6 3. Kf6) (1... Rg8+ $1 {cook ER} 2. Kf7 Ba3 $1) 2. a8=Q+ Kxa8 (2... Rxa8 3. Nd8+ Kc7 4. e8=Q Rxd8 5. Qe7+ Kc8 6. Qc5+) 3. Nc7+ Kb7 4. Nxe8 Ba3 5. Nd6+ 1-0  
+
+[Event "bs02#028 {c} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r7/Pk2P1N1/5Kp1/8/8/8/8/2b5 w - - 0 1"]
+
+ 1. Ne6 Re8 (1... Kc6 2. Nd8+ Kd7 3. Kf7) 2. a8=Q+ Kxa8 (2... Rxa8 3. Nd8+ Kc7 4. e8=Q Rxd8 (4... Bb2+ 5. Ke6 Rxd8 6. Qe7+) 5. Qe7+ Kc8 6. Qc5+) 3. Nc7+ Kb7 4. Nxe8 Ba3 5. Nd6+ 1-0  
+
+[Event "bs02#029 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3P4/3r4/P1kP1K2/8/8/1N6/8 w - - 0 1"]
+
+ 1. Na4+ Kxd5 2. a6 Kc6 3. a7 Kb7 4. Nb6 Kxa7 5. Nc8+ 1-0  
+
+[Event "bs02#030 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6rN/8/4kP2/6P1/5P2/6K1/8/8 w - - 0 1"]
+
+ 1. Ng6 Rxg6 2. f5+ Kxf5 3. f7 Rxg5+ 4. Kh4 (4. Kf3 $2 Ke6 5. f8=Q Rf5+) (4. Kh3 $2 Rh5+) 4... Kg6 (4... Rg4+ 5. Kh3 Kg5 6. f8=Q Rh4+ 7. Kg3 Rg4+ 8. Kf3) 5. f8=Q Rh5+ 6. Kg4 Rg5+ 7. Kf4 1-0  
+
+[Event "bs02#034 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/P7/1p6/5r2/6k1/4B3/8/8 w - - 0 1"]
+
+ 1. Bc5 $1 (1. Bxb6 $2 Rf8+) 1... bxc5 (1... Rd5+ 2. Ke7 (2. Bd6 $2 Ra5) 2... Re5+ 3. Kf7 Rf5+ 4. Ke6) (1... Rxc5 2. a8=Q) 2. Ke7 $1 (2. Ke8 $2 Rh5 $1) 2... Re5+ 3. Kd7 Rd5+ 4. Kc7 1-0  
+
+[Event "bs02#034 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K3/1P6/2p5/6r1/7k/5B2/8/8 w - - 0 1"]
+
+ 1. Bd5 Rh5 (1... Re5+ 2. Kf7 Rf5+ 3. Kg7 Rg5+ 4. Kf6) (1... cxd5 2. Kf7 Rf5+ 3. Ke7 Re5+ 4. Kd7) 2. Kf8 $1 cxd5 3. Kg7 $1 Rg5+ 4. Kf7 Rf5+ 5. Ke7 Re5+ 6. Kd7 1-0  
+
+[Event "bs02#038 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3n4/8/2PkP3/1K6/3B4/8/8/8 w - - 0 1"]
+
+ 1. e7 (1. c7 $2 Kxc7 2. Bb6+ (2. e7 Kd7) 2... Kd6 3. Bxd8 Kxe6) 1... Kxe7 2. Bf6+ Kxf6 3. c7 Nb7 (3... Nf7 4. Kc5) 4. Kc6 $1 1-0  
+
+[Event "bs02#046 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1B6/4P3/3Pr3/6k1/3p4/3K4/8 w - - 0 1"]
+
+ 1. d6 (1. Kxd3 $2 Kf5 2. Kd4 Kf6 3. Bc8 Re1) 1... Re2+ 2. Kd1 $1 (2. Kxd3 $2 Rxe6 3. Bc8 Kf5 4. d7 Rd6+) (2. Kc3 $2 d2 3. Kc2 d1=Q+ 4. Kxd1 Rxe6 5. Bc8 Kf5 6. d7 Rd6+) 2... Rxe6 3. Bc8 Kf5 4. d7 Rd6 5. d8=Q+ 1-0  
+
+[Event "bs02#047 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2r5/5P2/1B2P1k1/8/3p4/8/8/4K3 w - - 0 1"]
+
+ 1. Bd8 Rc1+ (1... Rxd8 2. e7) 2. Kf2 $1 (2. Ke2 $2 d3+ 3. Kf2 d2 4. f8=Q Rf1+ 5. Kxf1 d1=Q+ 6. Kf2 Qd2+) 2... Rc2+ 3. Kg3 $1 (3. Kf3 $2 Rc1) 3... Rc3+ 4. Kg4 Kg7 5. Be7 Rc8 6. Kf4 1-0  
+
+[Event "bs02#056 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/4p3/6k1/3RKp2/1b6 w - - 0 1"]
+
+ 1. Kf1 e3 (1... Bd3+ 2. Rxd3+ $1 exd3) 2. Re2 $1 (2. Rd8 $2 Bf5 $1) 2... Kf3 3. Rxf2+ exf2 1/2-1/2  
+
+[Event "bs02#058 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4kbR1/8/8/7p/4p1p1/8/7K w - - 0 1"]
+
+ 1. Rg4 Bd5+ (1... Kf6 2. Rxh4 Kf5 3. Ra4 Bd5+ 4. Kg1 Be4 5. Ra2 Kf4 6. Rb2 Kf3 7. Re2 Bd3 8. Ra2 e2 9. Ra1 Bc2 10. Re1 Bd1 11. Kh1 Kf2 12. Rxe2+ Bxe2 (12... Kxe2 13. Kg2)) 2. Kg1 e2 3. Re4+ Bxe4 1/2-1/2  
+
+[Event "bs02#064 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1R6/n7/2bK1k2/b7/8/8/8 w - - 0 1"]
+
+ 1. Rb5 Nc7+ (1... Bxb5) (1... Bb4 2. Kc4+ $1 (2. Kc6+ $2 Nc5 $1 (2... Kg4 $2 3. Kb6) (2... Bc5 $2 3. Kd5 $1) 3. Kb6 Bxb5 4. Kxb5 Nd3 5. Kc4 Ke4) 2... Bxb5+ 3. Kxb5) 1/2-1/2  
+
+[Event "bs02#067 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k7/3P3R/r7/3p1K2/8/8/8 w - - 0 1"]
+
+ 1. d7 (1. Ke4 $2 Kb7 2. Kxd4 Kc6) (1. Rh8 $2 Rd5 2. Rd8 d3) 1... Rd5 2. Rh7 Kb6 (2... Kb8 3. Ke4 Rd6 4. Ke5 Kc7 5. d8=Q+) 3. Ke4 Rd6 (3... Kc6 4. Rh6+ Kc5 5. Rh5) 4. Rh6 1-0  
+
+[Event "bs02#075 @1 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/b7/8/2p5/8/2K5/1P3R2/3k4 w - - 0 1"]
+
+ 1. Rf8 (1. Rd2+ $1 {cook} Ke1 2. Rd8) (1. Rg2 $1 {cook} Be6 2. Rg1+ Ke2 3. Rg7) 1... Be6 $1 2. Rd8+ Kc1 (2... Ke1 3. Re8) 3. Ra8 Bb6 4. Ra1# 1-0  
+
+[Event "bs02#075 {c} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7b/1b6/8/6R1/2P5/4K3/8/3k4 w - - 0 1"]
+
+ 1. Kd3 Ke1 (1... Kc1 2. Rg1+ Kb2 3. Rg8 Be5 4. Rg5) 2. Rg8 Bf6 3. Re8+ Kd1 4. Rb8 1-0  
+
+[Event "bs02#077 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/3R4/2P5/k7/1rr5/8/8/8 w - - 0 1"]
+
+ 1. Ra7+ Kb6 $1 (1... Kb5 2. c7) 2. c7 Rxc7 (2... Ra4 3. Rxa4 Rxa4+ 4. Kb8) 3. Rb7+ Rxb7 1/2-1/2  
+
+[Event "bs02#092 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "NN1r3k/5P2/6K1/5p2/8/8/8/8 w - - 0 1"]
+
+ 1. Nc7 Rxb8 (1... Rd6+ 2. Ne6 $1 Rxe6+ 3. Kxf5 $1) (1... Rf8 2. Nd7 Rxf7 3. Kxf7) 2. Ne8 Rb6+ 3. Kg5 $1 (3. Kh5 $2 Rf6 $1 4. Nxf6 Kg7) (3. Kxf5 $2 Rb5+) ( 3. Nf6 $2 Rb8) 1-0  
+
+[Event "bs02#096 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1B6/2p5/2p5/p7/1k2N3/3K4 w - - 0 1"]
+
+ 1. Ba5 a2 (1... c3 2. Bxc3+ Kb1 3. Be5 a2 4. Nc3+ Kb2 5. Nb5+) 2. Bc3+ Kb1 3. Ba1 Kxa1 4. Kc1 $1 c3 5. Nf4 c4 6. Ne6 c2 7. Nc5 c3 8. Nb3# 1-0  
+
+[Event "bs02#098 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1N6/8/2K5/1pp5/p7/Bk6 w - - 0 1"]
+
+ 1. Kxc3 (1. Kxb3 $2 c2) (1. Bxc3 $2 b2) 1... Kxa1 2. Nc4 $1 b2 (2... Kb1 3. Nd2+) 3. Na3 b1=N+ (3... b1=Q 4. Nc2+ Qxc2+ 5. Kxc2) 4. Kc2 $1 Nxa3+ 5. Kc1 1/2-1/2  
+
+[Event "bs02#098 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4N3/8/8/5Kp1/7p/7k w - - 0 1"]
+
+ 1. Nf4 g2 2. Nh3 $1 g1=N+ $1 (2... g1=Q 3. Nf2+ Qxf2+ 4. Kxf2) 3. Kf2 $1 Nxh3+ 4. Kf1 1/2-1/2  
+
+[Event "bs02#101 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/4N3/k5p1/3K4/8/1P3p2/8/8 w - - 0 1"]
+
+ 1. Bb6 Kxb6 2. Kc4 f2 3. Nd5+ Kc6 4. Ne3 1-0  
+
+[Event "bs02#102 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1K1N3/8/3B4/1P1n4/8/8/3p4/8 w - - 0 1"]
+
+ 1. Nc7+ Nxc7 (1... Ka7 2. Nxd5 d1=Q 3. Bc5+ Ka8 4. Nc7#) 2. b6 $1 d1=Q (2... Na6 3. b7+ Ka7 4. Bc5+ Nxc5 5. b8=Q+) 3. b7+ Ka7 4. b8=Q+ Ka6 5. Qb7+ Ka5 6. Qxc7+ Ka4 7. Qc4+ 1-0  
+
+[Event "bs02#103 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/3K4/1Pp5/8/1n1p4/5p2/8/4B3 w - - 0 1"]
+
+ 1. Kc8 (1. Bxb4 $2 Kb7) 1... Na6 2. Bb4 $1 (2. Bg3 $2 Nc5) 2... f2 3. b7+ Ka7 4. Bc5+ Nxc5 5. b8=Q+ 1-0  
+
+[Event "bs02#106 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5p2/b7/3P3B/6Nk/8/8/6K1 w - - 0 1"]
+
+ 1. d6 Bc8 (1... Bb5 2. Nf6 Kg5 3. Be2) 2. Nf6 Kg5 3. Bg4 1-0  
+
+[Event "bs02#110 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/2B5/k1B5/5p2/7b/8/4p3/8 w - - 0 1"]
+
+ 1. Bb7+ Kb5 2. Bg3 Bxg3 3. Ba6+ Kxa6 1/2-1/2  
+
+[Event "bs02#118 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4N2k/1K6/8/1R6/8/6n1/6p1/8 w - - 0 1"]
+
+ 1. Rb1 (1. Rg5 $2 g1=Q 2. Nf6 Qb1+ 3. Kc6 Qc1+ 4. Rc5 Qh6) 1... Nf1 2. Rb4 g1=Q (2... Ne3 3. Rb1) 3. Rh4+ Kg8 4. Rg4+ Qxg4 5. Nf6+ 1/2-1/2  
+
+[Event "bs02#119 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/K7/5Qpk/2n4q/8/8/3N4 w - - 0 1"]
+
+ 1. Nf2 Kh6 2. Ng4+ Kg7 3. Qf6+ Kg8 (3... Kh7 4. Qf7+ Kh8 5. Nf6) 4. Nh6+ Kh7 5. Nf5 1-0  
+
+[Event "bs02#121 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/2p2R1K/2kr1p2/6N1/8 w - - 0 1"]
+
+ 1. Ne1 Rd4 2. Rxd4 f2 3. Rxc4+ Kxc4 4. Nf3 Kd3 (4... f1=Q 5. Nd2+) 5. Nh2 1/2-1/2  
+
+[Event "bs02#121 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/7p/2p2R1K/2kr1p2/6N1/8 w - - 0 1"]
+
+ 1. Ne1 Rd4 $1 2. Rxd4 f2 3. Rxc4+ Kxc4 4. Nf3 Kd3 5. Nh2 1/2-1/2  
+
+[Event "bs02#130 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b5k/p7/B7/8/b7/4K3/8/6R1 w - - 0 1"]
+
+ 1. Ra1 Be8 (1... Bc2 2. Rc1 Bf5 3. Rf1) 2. Rc1 Bd7 3. Rd1 1-0  
+
+[Event "bs02#131 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/3K4/8/2k2p2/5R2/7b/7B/8 w - - 0 1"]
+
+ 1. Bg1+ Kb5 (1... Kd5 2. Rd4+ Ke5 3. Rh4 Bg4 4. Bh2+) 2. Rf3 Bg4 3. Rb3+ 1-0  
+
+[Event "bs02#133 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7B/5p2/8/8/8/b1K5/2R5/4kb2 w - - 0 1"]
+
+ 1. Kb3 Be7 (1... Bf8 2. Bc3+ Kd1 3. Rd2+ Kc1 4. Rd8) (1... Bd6 2. Bc3+ Kd1 3. Rd2+) (1... Kd1 2. Rf2 Ke1 3. Ra2 Bc5 4. Bc3+ Kd1 5. Rd2+ Kc1 6. Rd5) 2. Bc3+ Kd1 3. Rd2+ Kc1 4. Rd7 1-0  
+
+[Event "bs02#138 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/8/4p3/1r2n3/4K2R/8/8/3R4 w - - 0 1"]
+
+ 1. Rh5 Rb4+ (1... Ng4 2. Rxb5 (2. Rf1+ $2 Rf5 $1) 2... Nf2+ 3. Kf3 Nxd1 4. Rb3) 2. Kxe5 Rb5+ 3. Kf6 Rxh5 4. Rd8# 1-0  
+
+[Event "bs02#139 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3k1b1K/2rp4/8/8/8/3R4/6R1 w - - 0 1"]
+
+ 1. Rg7 Ke8 2. Re2+ Kf8 3. Rf2 Rc7 4. Rg8+ Ke7 5. Rxf7+ Kxf7 6. Rg7+ 1-0  
+
+[Event "bs02#142 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k7/2K3R1/8/2p1R3/1r6/2r5/8 w - - 0 1"]
+
+ 1. Re7+ Ka8 (1... Ka6 2. Kc5+ Ka5 3. Ra7#) 2. Re8+ Rb8 (2... Ka7 3. Rg7+ Ka6 4. Ra8#) 3. Kc7 Rxe8 4. Ra6# 1-0  
+
+[Event "bs02#143 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6q1/6k1/2r5/8/5R2/3R4/2r5/3K4 w - - 0 1"]
+
+ 1. Rg4+ $1 (1. Rg3+ $2 Kh8 2. Rh4+ Qh7 $1) 1... Kh8 $1 (1... Rg6 2. Rxg6+ Kxg6 3. Rg3+ Kh7 4. Rxg8 Kxg8 5. Kxc2) (1... Kf7 2. Rf3+ Rf6 3. Rxf6+) (1... Kf8 2. Rd8+) 2. Rh4+ $1 (2. Rh3+ $2 Qh7 $1) 2... Qh7 3. Rd8+ Kg7 4. Rd7+ 1/2-1/2  
+
+[Event "bs02#144 {tw} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/1K2Nqr1/3B1R2/8/8/8/8/8 w - - 0 1"]
+
+ 1. Rh6+ Rh7 2. Be5+ Qg7 3. Rg6 $1 Rh1 4. Bxg7+ Kh7 5. Bf8 1-0  
+
+[Event "bs02#145 {tw} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K5k/4Nqr1/3B1R2/7p/8/8/8/8 w - - 0 1"]
+
+ 1. Rh6+ Rh7 2. Be5+ Qg7 3. Rf6 $1 Qxf6 4. Bxf6+ Rg7 5. Nf5 1-0  
+
+[Event "bs02#146 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/r1p5/3N4/8/8/7K/1k6/N7 w - - 0 1"]
+
+ 1. Rb8+ Kxa1 2. Nb5 Ra6 3. Nc3 Rh6+ 4. Kg2 Rb6 5. Ra8+ Kb2 6. Na4+ 1-0  
+
+[Event "bs02#149 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/K7/5Qpk/2n4q/8/8/5N2 w - - 0 1"]
+
+ 1. Nh2 Kh6 2. Ng4+ Kg7 3. Qf6+ Kg8 (3... Kh7 4. Qf7+ Kh8 5. Nf6) 4. Nh6+ Kh7 5. Nf5 1-0  
+
+[Event "bs02#150a {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3r4/1P6/6K1/8/8/N7/kB6/8 w - - 0 1"]
+
+ 1. Be5 Kxa3 2. Bc7 Rh8 3. Kg7 Re8 4. Kf7 Rh8 5. Bd6+ Ka4 6. Bf8 Rh7+ 7. Bg7 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R5K/1P6/8/8/8/8/8/1r5k w - - 0 1"]
+
+ 1. Kg7 Kg2 2. Kf6 Kf3 3. Ke5 Ke3 4. Kd5 Kd3 5. Rd8 Rxb7 6. Kc6+ 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1P6/1K5N/4b3/8/2p5/3k4/8 w - - 0 1"]
+
+ 1. Nf5 c2 (1... Kd3 2. Ne7 (2. Nh4 $2 Ke4 $1) 2... c2 3. Nc6 Bg3 4. Nb4+) 2. b8=Q Bxb8 3. Nd4 c1=Q 4. Nb3+ 1/2-1/2  
+
+[Event "on01 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/1pK5/8/rk3N2/6R1/8 w - - 0 1"]
+
+ 1. Nd2+ Ka4 (1... Kc2 2. Nc4+) (1... Kc3 2. Nb1+) 2. Rg4+ Ka5 (2... b4 3. Rxb4+ Ka5 4. Nc4+) 3. Nc4+ bxc4 4. Rg8 Ka4 5. Kxc4 Ka5 6. Ra8+ 1-0  
+
+[Event "on01 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2N5/5Kp1/8/5k1r/1R6/8 w - - 0 1"]
+
+ 1. Nd4+ Kg3 2. Ne2+ Kh4 3. Rb4+ Kh5 4. Nf4+ gxf4 5. Rb8 Kh4 6. Kxf4 1-0  
+
+[Event "th05 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/BP6/8/6p1/6P1/6b1/K2k4 w - - 0 1"]
+
+ 1. Bc8 Ke1 2. Bxg4 Kf2 3. Bf3 $1 (3. Kb2 $2 Kxg3 4. Bc8 Kf4 5. Kc3 Ke5 6. Kb4 Kd6 7. Ka5 Bf1 8. Ba6 Bg2 9. Be2 Bb7) 3... Bxf3 4. g4 Ke3 5. g5 Kd4 6. g6 Kc5 7. g7 1-0  
+
+[Event "tn12 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/6k1/2P5/B3b3/8/8/5n2/1K6 w - - 0 1"]
+
+ 1. Bc3 Bxc3 2. c7 Be5 (2... Ba5 3. Nb6) (2... Ne4 3. Ne7 Nd6 4. Nf5+) 3. Nd6 1-0  
+
+[Event "tn12 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1R1K4/1P1p4/8/8/1p1k4/8/8 w - - 0 1"]
+
+ 1. Ra7 b2 2. Ra3+ Kc4 3. Ra4+ Kc3 4. Rb4 Kxb4 5. b7 b1=Q 6. b8=Q+ 1-0  
+
+[Event "tn12 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6R1/8/8/2k5/2ppK1p1/5R2 w - - 0 1"]
+
+ 1. Rg3+ (1. Rc6+ $2 Kb3 $1 (1... Kb2 $2 2. Rxc2+)) (1. Rf3+ $2 Kb2) 1... Kb2 ( 1... Kd4 2. Rf4+ Ke5 3. Kxd2) 2. Rd1 $1 c1=Q 3. Rxd2+ Kb1 4. Rd1 1-0  
+
+[Event "tn12 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2K5/BP6/2p5/8/8/2rk4/8 w - - 0 1"]
+
+ 1. Kc6 Ra2 (1... Rb2 2. Bb5 c4 3. b7 c3 4. b8=Q c2 5. Qf4+) 2. b7 Rxa6+ 3. Kxc5 Ra5+ 4. Kc4 (4. Kb4 $2 Ra1) 4... Ra4+ 5. Kb3 Ra1 6. Kb2 1-0  
+
+[Event "to18 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3N4/5b2/7r/6B1/p2K4/kr2N3 w - - 0 1"]
+
+ 1. Be5+ Rb2+ 2. Kc1 Rhb4 (2... Rhh2 3. Nc4 Rhe2 4. Bxb2+ Rxb2 5. Nxb2) 3. Nc2+ $1 (3. Nxf5 $2 Rc4+) 3... Bxc2 4. Nc4 Rb5 5. Bf6 1-0  
+
+[Event "to18 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/7k/8/8/6p1/8/1r1n1RK1 w - - 0 1"]
+
+ 1. Re1 Kg5 2. Kg2 Kf4 3. Rf1+ Kg4 4. Rxd1 Rxd1 1/2-1/2  
+
+[Event "ts01#02 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7R/8/5k2/8/1B6/1b1K4/8/6b1 w - - 0 1"]
+
+ 1. Rh1 Ba7 2. Ra1 Bb8 3. Bc3+ (3. Rb1 $2 Be6 4. Bc3+ Be5 5. Rf1+ Bf5+) 3... Be5 4. Rf1+ Ke6 5. Re1 1-0  
+
+[Event "ts01#10 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P7/8/3K4/r7/P2R4/k7 w - - 0 1"]
+
+ 1. Kc4 Rxa6 2. a4 $1 Rxa4+ 3. Kb3 1-0  
+
+[Event "ts01#16 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B2k4/8/P2P3r/8/2p5/8/8/2K5 w - - 0 1"]
+
+ 1. a7 Rh7 (1... Rh3 2. Bf3 $1) (1... Rh8 2. Bc6) (1... Rh5 2. Bd5) (1... Rh2 2. Bg2 $1) 2. Bb7 1-0  
+
+[Event "ts01#38 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1Np5/8/8/2k5/3pR3/1K1p4/8 w - - 0 1"]
+
+ 1. Na5+ (1. Re5 $2 Kb4) (1. Rxd3 $2 Kxd3 2. Nc5+ Kc4) 1... Kd4 2. Re5 $1 d1=Q ( 2... Kxe5 3. Nc4+) (2... c5 3. Nb3+) 3. Nc6+ Kc4 4. Na5+ Kb4 5. Nc6+ Kc4 (5... Ka4 $4 6. Ra5#) 6. Na5+ 1/2-1/2  
+
+[Event "ts01#39 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4P1k1/4P3/5K2/3r4/8/5Pn1/8 w - - 0 1"]
+
+ 1. Kg5 $1 (1. e8=Q $2 Nh4+ 2. Kg5 Nf3+ 3. Kf5 Nh4+ 4. Ke5 Nf3+ 5. Kf5 Nh4+) (1. Ke5 $2 Nh4 $1) 1... Nh4 2. f4 $1 Nf3+ (2... Rxf4 3. e8=Q $1) 3. Kg4 (3. Kh5 $2 Rxf4 $1) 3... Ne5+ 4. Kh5 $3 (4. Kf5 $2 Nc4) (4. Kg3 $2 Rd3+ 5. Kg2 Rd2+ 6. Kf1 Nf3) 1-0  
+
+[Event "ts01#81 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/K7/3P3N/6n1/8/4p3/8/1k6 w - - 0 1"]
+
+ 1. d7 Ne6 2. Nf7 $1 (2. Nf5 $2 e2 3. Nd4 (3. Ng7 Nd8) 3... Nxd4 4. d8=Q Nc6+) 2... e2 3. Ng5 e1=Q (3... Nd8 4. Nf3) 4. Nxe6 1/2-1/2  
+
+[Event "ts01#89 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K1k4/8/8/2R2R2/8/8/6q1 w - - 0 1"]
+
+ 1. Rcd4+ (1. Rfe4 $2 Kd6) 1... Ke8 2. Kc8 $1 (2. Kc7 $2 Qg7+ 3. Kc8 Qd7+ 4. Rxd7) 2... Ke7 3. Kc7 Ke6 4. Kc6 Ke7 5. Rde4+ Kd8 6. Rf8# 1-0  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5bk1/3pp1p1/3P2K1/8/1N1P4/8/8/8 w - - 0 1"]
+
+ 1. Nc6 (1. d5 $2 e6) (1. Nd5 $2 exd6) 1... exd6 $1 (1... e6 2. Ne7+ Kh8 3. Kf7) (1... dxc6 2. d7) 2. d5 $1 Kh8 3. Kf7 1-0  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/pPk1P3/8/7K/1B6/4b3 w - - 0 1"]
+
+ 1. e6 (1. Bd4+ $2 Kxb5 $1) 1... Kd6 2. b6 (2. Be5+ $2 Kxe6 3. b6 Bf2 4. b7 Ba7) 2... Bf2 (2... Bb4 3. e7 (3. Be5+ $2 Kc6) 3... Kxe7 4. b7 Bd6 5. Ba3) 3. b7 Ba7 4. Bd4 Bb8 5. Be5+ Kxe5 6. e7 1-0  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4b3/5p2/3b4/R4K2/8/3k4/8/4B3 w - - 0 1"]
+
+ 1. Rd5+ Ke2 2. Ba5 Bg3 3. Kg4 Bh2 4. Rd2+ 1-0  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/P2p1B2/p7/1r6/k7/8/8/8 w - - 0 1"]
+
+ 1. Bd5 Rxd5 2. Kb7 (2. Kb8 $2 Rh5) 2... Rb5+ 3. Kc7 Rc5+ 4. Kxd7 Rd5+ 5. Kc7 Rc5+ 6. Kb7 Rb5+ 7. Kc6 1-0  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/4P3/3P4/3k4/6R1/3r4/1K6 w - - 0 1"]
+
+ 1. d6 exd6 (1... Rh2 2. d7 Rh8 3. Rg5) 2. Re3 Kxe3 3. e7 Rd1+ 4. Kc2 Rd2+ 5. Kc1 1-0  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4B3/2B5/3K4/8/6pp/7k w - - 0 1"]
+
+ 1. Kc4 $1 (1. Bd6 $2 Kg1) (1. Kc3 $2 g1=Q 2. Bd5+ Qg2) 1... g1=Q 2. Bd5+ Qg2 3. Bd6 Kg1 4. Bxg2 Kxg2 5. Bxh2 1/2-1/2  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7N/7p/p3P3/8/1P5k/8/6K1/3b4 w - - 0 1"]
+
+ 1. b5 (1. Ng6+ $2 Kg5) (1. Nf7 $2 Bb3) (1. e7 $2 Bh5) 1... axb5 2. Ng6+ Kg4 $1 3. e7 Bf3+ 4. Kf2 Bc6 5. Ne5+ 1/2-1/2  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3kP3/8/1K1P4/4p3/3p4/5R2 w - - 0 1"]
+
+ 1. e7 Kxe7 (1... e2 2. e8=Q exf1=Q 3. Qd8+ Ke6 4. Qe8+) 2. Kc3 e2 3. Rf7+ Kxf7 4. Kxd2 1/2-1/2  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "b7/8/8/1R1P4/k2p4/b7/8/1K6 w - - 0 1"]
+
+ 1. Rb8 Bxd5 2. Rd8 Be4+ 3. Ka2 Bc5 4. Rxd4+ Bxd4 1/2-1/2  
+
+[Event "ts72 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7q/4B3/6R1/8/3p3p/7K/8/7k w - - 0 1"]
+
+ 1. Rf6 Kg1 2. Bc5 Qxf6 3. Bxd4+ Qxd4 1/2-1/2  
+
+[Event "ts72 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5bk1/3pp1p1/3P2K1/4N3/3P4/8/8/8 w - - 0 1"]
+
+ 1. Nc6 exd6 (1... e5 2. Ne7+ Kh8 3. dxe5) 2. d5 Kh8 3. Kf7 1-0  
+
+[Event "ts72 {v} {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7q/3pB3/6R1/8/3p3p/7K/8/7k w - - 0 1"]
+
+ 1. Rf6 Kg1 2. Bc5 Qxf6 3. Bxd4+ Qxd4 1/2-1/2  
+
+[Event "us12 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k2b4/6p1/2P5/6PP/3K4/8/8/8 w - - 0 1"]
+
+ 1. h6 gxh6 (1... Bxg5 2. h7 Bf6+ 3. Kd5 g5 4. Ke6) 2. g6 (2. gxh6 $2 Kb8 3. Ke5 Ba5) 2... Bf6+ 3. Kd5 Kb8 4. Ke6 Bc3 5. Kd7 1-0  
+
+[Event "us12 {m}"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/4k3/5p2/p4p2/8/4B2K w - - 0 1"]
+
+ 1. Kg1 (1. Bc3+ $2 Ke4 2. Kg1 Kd3) 1... Kd4 (1... f2+ 2. Kxf2 (2. Bxf2 $2 a2) 2... Kd4 3. Bb4 $1 (3. Ba5 $2 a2 4. Bd8 Ke5) (3. Ke2 $2 a2 4. Bh4 Ke5) 3... a2 4. Bf8) 2. Bh4 Ke3 (2... Ke5 3. Be1 $1) 3. Kf1 1/2-1/2  
+
+[Event "2/3 Prize, tn04 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k1r/R5R1/3n4/4p3/8/8/6K1/8 w - - 0 1"]
+
+ 1. Rgd7 Ne8 (1... Rg8+ 2. Kh3 Rh8+ 3. Kg4 Rg8+ 4. Kh5 Rh8+ 5. Kg6 Rg8+ 6. Kh7) (1... Rh6 2. Ra6 Nf7 3. Rxf7+ Kxf7 4. Rxh6) 2. Rf7+ Kg8 3. Rfe7 Kf8 4. Rxe8+ Kxe8 5. Ra8+ 1-0  
+
+[Event "on01 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/2k5/4b3/1p4b1/3K4/3R4 w - - 0 1"]
+
+ 1. Kc3 Bc2 2. Rc1 Be5+ 3. Kd2 Bf4+ 4. Kc3 Bxc1 1/2-1/2  
+
+[Event "td06#331 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/K7/1P3k2/2n5/1R6/1n6/8/8 w - - 0 1"]
+
+ 1. Rb5 $1 (1. Rxb3 $2 Nxb3 2. b7 Na5) (1. Ka8 $2 Na5 2. Rb5 Nab7) 1... Ke6 2. Ka8 $1 Kd6 3. Rxb3 Nxb3 4. b7 1-0  
+
+[Event "td06#338 @3 {m}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Prokes L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/KR6/1P1kn3/8/8/8/8/2n5 w - - 0 1"]
+
+ 1. Rc7 $1 Nxc7 (1... Nc5 2. Rxc5 Kxc5 3. b7) (1... Nb3 2. b7 Na5 3. b8=Q Nc6+ 4. Rxc6+) 2. b7 Nb5+ (2... Nd3 $1 {cook HC}) (2... Kd7 $1 {cook HC} 3. b8=Q Nd3 $1 4. Qb3 Nc5 $1) 3. Kb6 Nd4 4. b8=Q+ Kd5 {eg} 5. Qa8+ Ke5 6. Qh8+ Kd5 7. Qh1+ 1-0  
+

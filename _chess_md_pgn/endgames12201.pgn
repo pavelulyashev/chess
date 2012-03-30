@@ -1,0 +1,1100 @@
+[Event "tt22#2181 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Christiansen F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3Q4/8/8/7p/8/q2N1K1k w - - 0 1"]
+
+ 1. Qc6+ $1 (1. Qd3 $2 Kh2 $1) 1... Kh2 2. Qc7+ Kh1 3. Qd6 $1 Qb1 (3... Qc1 4. Qd4 Qg5 5. Nf2+ Kh2 6. Qd6+ Qg3 7. Ng4+) 4. Qd5+ Kh2 5. Qe5+ Kh1 6. Qe4+ Qxe4 7. Nf2+ Kh2 8. Nxe4 Kh1 9. Kf2 Kh2 10. Nd2 Kh1 11. Nf1 h2 12. Ng3# 1-0  
+
+[Event "tt22#2185 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Hoch Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K6/8/8/kPPR4/1r1p4/1PP5/8/8 b - - 0 1"]
+
+ 1... Rxb5+ 2. Ka7 $1 dxc3 3. Rd4 Rxc5 $1 4. b4+ Kb5 5. bxc5 c2 6. Rc4 $1 Kxc4 7. c6 c1=Q 8. c7 Kb5 9. c8=Q $1 Qxc8 1/2-1/2  
+
+[Event "tt22#2188 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Gerasimov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1n4R1/8/8/7P/K4k1p/8 w - - 0 1"]
+
+ 1. Rf6+ Ke2 2. Re6+ Kd2 3. Rd6+ Kc2 4. Rc6+ Nc4 5. Rxc4+ Kd2 6. Rd4+ Ke2 7. Re4+ Kf2 8. Rf4+ Kg2 9. Rb4 $1 h1=Q 10. Rb1 1/2-1/2  
+
+[Event "tt22#2189 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Gerasimov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7n/7P/P6n/1P6/3B3p/7p/3rk3/7K w - - 0 1"]
+
+ 1. a7 Ra2 2. b6 Kf1 3. a8=Q Rxa8 4. Be5 Ng4 5. b7 Ra2 6. Bb2 $1 Nf2+ (6... Rxb2 7. b8=Q Rxb8) 7. Kh2 Ng4+ (7... Rxb2 8. b8=Q Rxb8) 8. Kh1 Rxb2 9. b8=Q Rxb8 1/2-1/2  
+
+[Event "tt22#2206 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Neuenschwander B"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/5kN1/7P/2b5/7P/7n/8/8 w - - 0 1"]
+
+ 1. Ne6 $1 (1. Nf5 $2 Nf4 2. Kh7 Ne6) (1. Nh5 $2 Bd6 2. Kh7 Be5) 1... Kxe6 2. Kg8 Bd4 3. h7 (3. h5 $2 Ng5 4. h7 Nf7) 3... Bh8 $1 4. h5 $1 (4. Kxh8 $2 Kf7 5. h5 Nf4 6. h6 Ng6#) 4... Nf4 (4... Ng5 5. Kxh8 $1 (5. h6 $2 Nf7) 5... Kf7 6. h6) 5. h6 Bc3 (5... Ng6) 6. h8=Q Bxh8 7. h7 $1 (7. Kxh8 $2 Kf7 8. Kh7 Ne6 9. Kh8 Nf8 10. h7 Ng6#) 7... Ng6 1/2-1/2  
+
+[Event "tt22#2208 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Makletsov J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1r6/1P5r/p7/8/k7/8/PK3R2/Rb6 w - - 0 1"]
+
+ 1. Rf4+ Ka5 $1 2. Rxb1 Rhxb7+ (2... Rbxb7+ 3. Ka1) 3. Ka3 $1 Rxb1 4. Rb4 Rb3+ ( 4... R1xb4) 5. Rxb3 1/2-1/2  
+
+[Event "tt22#2210 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kallstrom H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/8/7r/n7/1B6/b7/8/1B2K3 w - - 0 1"]
+
+ 1. Bc3+ Kg8 2. Ba2+ Kh7 3. Bb1+ Kg8 4. Ba2+ Kf8 5. Bxa5 Rh1+ 6. Kd2 Rh2+ 7. Kc3 Rxa2 8. Kb3 Ra1 9. Bc3 Rc1 10. Bd2 Ra1 11. Bc3 Rc1 12. Bd2 Rd1 13. Bh6+ 1/2-1/2  
+
+[Event "tt22#2211 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kallstrom H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/8/K2P4/8/3N3B/p2P4/8/3r1r2 w - - 0 1"]
+
+ 1. d7 Rf8 2. Bg3+ Ka8 3. Ne6 Rxd3 4. Nc7+ Kb8 5. Ne8+ $1 Ka8 6. d8=Q+ $1 Rxd8 7. Nc7+ Kb8 8. Nd5+ Rf4 (8... Rd6+ 9. Bxd6+ Kc8 10. Bxf8) 9. Bxf4+ Kc8 (9... Ka8 10. Nb6#) 10. Nb6# 1-0  
+
+[Event "tt22#2213 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Myhre G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2R5/k7/3p4/3p4/1p6/1pp1p3/p7/R3K1N1 w Q - 0 1"]
+
+ 1. Ne2 b2 2. Rxa2+ Kb7 3. Rxb2 cxb2 4. Rc1 bxc1=Q+ 5. Nxc1 1/2-1/2  
+
+[Event "tt22#2218 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r1q1k3/2p2Rp1/p3pPPN/6p1/7N/1pp1b3/8/K5B1 w q - 0 1"]
+
+ 1. Re7+ $1 (1. fxg7 $2 b2+ 2. Kb1 c2+ 3. Kxc2 b1=Q+ 4. Kxb1 Qb7+ 5. Ka1 Bd4+ $1 6. Bxd4 Qh1+ 7. Bg1 Qxg1+ 8. Ka2 Qh2+ 9. Ng2 Qxg2+ 10. Ka3 Qg3+ 11. Ka4 Qh4+ 12. Ng4 Qxg4+ 13. Ka5 O-O-O $1) 1... Kf8 2. Rf7+ Ke8 3. fxg7 b2+ 4. Kb1 c2+ 5. Kxc2 b1=Q+ 6. Kxb1 Qb7+ 7. Ka1 $1 Bd4+ $1 8. Bxd4 Qh1+ 9. Bg1 $1 Qxg1+ 10. Ka2 Qh2+ 11. Ng2 $1 Qxg2+ 12. Ka3 Qg3+ 13. Ka4 Qh4+ 14. Ng4 $1 Qxg4+ 15. Ka5 Qf5+ 16. Rxf5 Ke7 17. Rf7+ Kd6 18. Rf8 1-0  
+
+[Event "tu14 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Sevcik J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1B1P4/8/8/2pK4/b6b/k7 w - - 0 1"]
+
+ 1. d7 Bb1+ 2. Kxc3 Be5+ 3. Bd4 Bc7 4. Kb3# 1-0  
+
+[Event "tv06 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Amirjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/6NR/4K3/p1p5/8/1k6 w - - 0 1"]
+
+ 1. Nf3 c2 2. Rb5+ Ka1 3. Rc5 a2 4. Rxc2 Kb1 5. Kd3 a1=Q 6. Nd2# 1-0  
+
+[Event "tv06 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Lurye B"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/1K6/8/p1pP4/1n6/k1N5 w - - 0 1"]
+
+ 1.Kb4 Nxd3+ $1 (1...Kb1 2.Kxc3 $1 Kxc1 3.Kb3) 2.Kxc3 $1 (2.Nxd3 $2 a2 $1 3.Nc1 Kb2 $1 4.Nxa2 c2) 2...Nxc1 3.Kc2 $1 Nd3 (3...Ka2 4.Kxc1 Kb3 5.Kb1) 4.Kb3 $1 a2 5.Kc2 1/2-1/2  
+
+[Event "tv07 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Gamza G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4k2K/7P/p7/8/bP6/5P2/8 w - - 0 1"]
+
+ 1. Kg8 $1 Bb2 2. h7 Bh8 3. Kxh8 Kf7 (3... Kf8 4. f3 $1 Kf7 5. f4 Kf8 6. f5 Kf7 7. f6 Kf8 8. b4 $1 axb4 9. f7 $1 Kxf7) 4. f4 $1 Kf8 5. f5 Kf7 6. f6 Kf8 7. b4 $1 axb4 8. f7 $1 b3 1/2-1/2  
+
+[Event "tv07 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Vinichenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/8/Pk5B/5p2/1N3P2/6P1/6p1/8 w - - 0 1"]
+
+ 1. a7 Kxa7 2. Bg7 g1=Q 3. Bd4+ Ka8 (3... Qxd4 4. Nc6+) 4. Na6 (4. Bxg1 $2) 4... Qc1+ (4... Qxd4 5. Nc7+ Ka7 6. Nb5+) 5. Nc7+ 1-0  
+
+[Event "tv07 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Vinichenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7Q/q4B1p/4ppp1/1p2P3/pP2kP2/4P3/4K3/8 w - - 0 1"]
+
+ 1. Bxg6+ f5 2. Qa8+ Qxa8 3. Bh5 Kd5 4. Kd3 Kc6 5. Bf3+ 1-0  
+
+[Event "tv08 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Rezvov N"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k1K4/b1r2p2/8/8/8/8/Q6p/8 w - - 0 1"]
+
+ 1. Qb3+ Ka8 2. Qd5+ Kb8 3. Qb5+ Rb7 4. Qe5+ Ka8 5. Qd5 Kb8 6. Qd6+ Ka8 7. Qc6 h1=Q 8. Qxh1 Kb8 9. Qh2+ Ka8 10. Qg2 Kb8 11. Qg3+ Ka8 12. Qf3 Kb8 13. Qf4+ Ka8 14. Qe4 Kb8 15. Qe5+ Ka8 16. Qd5 Kb8 17. Qd6+ Ka8 18. Qc6 Kb8 19. Qc8# 1-0  
+
+[Event "tv23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kalinin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3b4/8/p1K5/P7/2P5/2k5/3N2B1/8 w - - 0 1"]
+
+ 1. Ne4+ (1. Kb7 $2 Bxa5 2. Kxa6 Bd8 3. Ne4+ Kxc4) (1. Kc5 $2 Kxd2 2. Kb4 Kd3 3. c5 Kd4 4. c6 Ke5 5. Bf1 Kd6 6. Bg2 Bc7) 1... Kxc4 2. Nd6+ Kb4 3. Nb7 Bxa5 4. Be4 $1 (4. Bf3 $2 Ka4 5. Bd1+ Kb4 6. Bc2 Kc3) 4... Ka4 5. Bc2+ Kb4 6. Bd1 1-0  
+
+[Event "tv28 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kitsigin V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6K1/4p3/2P1p2p/4Pp2/5k1B/4p2B/1N6 w - - 0 1"]
+
+ 1. Nd2+ Kf2 2. Bg1+ $1 Kxg1 3. Nf3+ Kf2 4. Bg2 $1 Kxg2 5. Ne1+ Kf2 6. Nc2 $1 1/2-1/2  
+
+[Event "tv55 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kopnin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5B2/2N5/8/k7/b7/K7/8 w - - 0 1"]
+
+ 1. Bb3+ Kb5 2. Nd4+ Kc5 3. Ne6+ Kb4 4. Nf4 $1 Bc1 5. Nd3+ Kc3 6. Nxc1 1-0  
+
+[Event "us11 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Makletsov J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3N4/7r/7k/R3K3/8/8/8 w - - 0 1"]
+
+ 1. Kf5 Rc6 (1... Rd6 2. Nf6+ Kh6 3. Rg4) 2. Nf6+ Kh6 3. Rh4+ (3. Rg4 $2 Rc5+) 3... Kg7 4. Rh7+ Kf8 5. Kg6 Rc7 6. Rh8+ Ke7 7. Nd5+ 1-0  
+
+[Event "us28 {tw} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Vandecasteele I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5bK1/3k4/2N5/1p6/8/1B6/8/8 w - - 0 1"]
+
+ 1. Ne5+ Kd6 2. Nf7+ Ke7 3. Bd5 b4 4. Bc4 Ke8 5. Bb5+ Ke7 6. Ba4 1-0  
+
+[Event "us28 {tw} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Vandecasteele I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5bK1/3k4/2N5/8/8/pB6/8/8 w - - 0 1"]
+
+ 1. Ne5+ Kd6 2. Nc4+ Ke7 (2... Kc5 3. Kxf8 Kb4 4. Ba2) 3. Ne3 Ke8 4. Bf7+ Ke7 5. Ng4 a2 6. Bxa2 1-0  
+
+[Event "us28 {tw} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Vandecasteele I"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5bK1/3k3p/2N5/8/8/1B6/8/8 w - - 0 1"]
+
+ 1. Ne5+ Ke7 2. Ng4 h5 3. Ne3 Ke8 4. Bf7+ Ke7 5. Nd5+ Kd6 6. Kxf8 1-0  
+
+[Event "vs29#051 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Palgujev L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1b1K4/3P4/3k4/4N3/8/8/8 w - - 0 1"]
+
+ 1. Kd8 $1 Ba8 2. Kc8 Bc6 3. Kc7 1-0  
+
+[Event "vs29#052 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Asaba E, Leun E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n5/3pb3/3k1P2/1R1P1r2/2PK4/4P3/8/8 w - - 0 1"]
+
+ 1.c5+ $1 Kc7 2.fxe7 Nxe7 3.d6+ Kd8 4.dxe7+ Kxe7 5.c6 $1 Rxb5 6.c7 Rb4+ 7.Kd5 Rb5+ 8.Kd4 Rb4+ 9.Kd3 Rb3+ 10.Kd2 Rb2+ 11.Kc1 Rb6 12.c8=N+   1-0  
+
+[Event "vs29#066 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Slepjan G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1P6/8/k7/p1B5/P1pP1b2/P1K2N2/q7 w - - 0 1"]
+
+ 1. b8=Q $1 Bd1+ 2. Nxd1 Qb1+ 3. Kxb1 c2+ 4. Ka1 cxd1=Q+ 5. Qb1 Qg1 $1 6. Bb3 Qg7+ 7. Qb2 Qg1+ 8. Bd1 $1 Qxd1+ 9. Qb1 Qd2 10. Qb4+ 1-0  
+
+[Event "wf07 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kazantsev A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7r/P2p3P/k1P5/3N4/n3p2b/5p2/8/6K1 w - - 0 1"]
+
+ 1. a8=Q+ Rxa8 2. Nc7+ Ka7 3. Nxa8 Bf6 4. cxd7 e3 5. h8=Q $1 (5. d8=Q $2 Bxd8 6. h8=Q e2 7. Qd4+ Nc5 $1 8. Qxc5+ Kxa8 9. Qb4 e1=Q+ 10. Qxe1 f2+ 11. Qxf2 (11. Kxf2 Bh4+) 11... Bb6 12. Qxb6) 5... Bxh8 6. d8=Q e2 7. Qa5+ Kb7 8. Qb4+ Kc8 9. Nb6+ Kd8 10. Kf2 Bc3 11. Qf8+ Kc7 12. Nd5+ Kd7 13. Nxc3 Nxc3 14. Qg7+ 1-0   
+
+[Event "1/3 prize {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Becker R"]
+[Black "*"]
+[Result "*"]
+[FEN "4Bk2/2p5/2P1KPR1/r1r5/2P5/8/1P2b3/8 w - - 0 1"]
+
+ 1. Kd7 (1. f7 $5 Bxc4+ 2. Kd7 Bxf7 3. Bxf7 Kxf7 {-+}) (1. b4 $5 Re5+ 2. Kd7 Ra8 3. f7 Re7#) 1... Bxc4 (1... Rg5 2. b4 $1 (2. Rg7 $5 Bxc4 3. Bg6 Ra7 4. Kc8 Be6+ 5. Kb8 Ra2 {-+}) (2. Rxg5 $5 Rxg5 3. b3 Rg3 {-+}) 2... Rae5 3. Rxg5 Rxg5 4. b5 Bxc4 (4... Rc5 5. f7 Bxc4 6. Kxc7 Rxb5 7. Kc8 {=}) 5. Kxc7 Bxb5 6. f7 Be2 7. Kb8 {(Kb7) =}) 2. b4 (2. f7 $5 Bxf7 3. Bxf7 Kxf7 $19) 2... Rd5+ 3. Kxc7 Ra7+ 4. Kb8 $1 (4. Kb6 $5 Ra8 5. f7 Rb5+ 6. Kc7 Bxf7 7. Bxf7 Kxf7 8. Rg4 Ke6 9. Rg6+ Kf5 {-+}) 4... Ra4 (4... Ra6 5. Kb7 {=}) 5. f7 Rb5+ (5... Rxb4+ 6. Kc7 Rf5 7. Rg4 {(Rg8+) =}) (5... Rf5 6. Rg8+ Ke7 7. Kc7 Bxf7 8. Bxf7 Kxf7 9. Rg4 {=}) 6. Kc8 $1 (6. Kc7 $5 Bxf7 7. Bxf7 Kxf7 $19) 6... Bxf7 {Main B)} (6... Ke7 {Main A) } 7. Rf6 Bxf7 (7... Ra8+ 8. Kc7 Ra7+ 9. Kc8 Ra8+ 10. Kc7 Bxf7 11. Rxf7+ Kxe8 12. Re7+ {(Rf4) =}) 8. Rxf7+ Kxe8 9. Rb7 Rbxb4 (9... Raxb4 10. c7 Rxb7 { stalemate}) 10. Kb8 $1 {zz} (10. c7 $5 Rxb7 11. Kxb7 Rb4+ {-+}) (10. Kc7 $5 Ke7 $19) 10... Rxb7+ 11. cxb7 Kd7 {model stalemate 1}) 7. Bxf7 Kxf7 8. Rg4 $1 (8. Rd6 $5 Ke7 9. Rd7+ Ke6 10. Rb7 Rh5 11. Rb6 Ra8+ {-+}) 8... Ke7 9. Rg7+ Kd6 10. Rg6+ Ke7 11. Rg7+ Ke6 12. Rg6+ Kf7 13. Rg4 Raxb4 14. Rxb4 Rxb4 15. c7 Ke7 { model stalemate 2.   Two equivalent variants with sharp play. Original pair of echo model stalemates! The very complicated ideaforrealization!} *  
+
+[Event "1/3 prize {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K6/1P3Rp1/kp6/Pp6/1P2P3/6pp/P6q/1r1N4 w - - 0 1"]
+
+ 1. Ka8 g2 2. e5 $3 ({Thematic try} 2. b8=Q $5 Qxb8+ 3. Kxb8 bxa5 4. Rxg7 axb4 5. Rg6+ Ka5 6. Kb7 b3 7. a3 b4 8. Rg5+ Ka4 9. Nb2+ Rxb2 10. Ka6 bxa3 { impossible Rg4#}) 2... Qxe5 3. b8=Q Qxb8+ 4. Kxb8 bxa5 5. Rxg7 axb4 6. Rg6+ Ka5 7. Kb7 b3 8. a3 b4 9. Rg5+ Ka4 10. Nb2+ $3 (10. Ka6 $5 b2 $1 $19) 10... Rxb2 11. Ka6 (11. Kb6 $4 g1=Q+ $19) 11... Kxa3 ({Main} 11... bxa3 12. Rg4# { result of move 2.e5!!}) 12. Ra5# {.   Realized the excellent "look ahead" try and synthesis of two beautiful mates.  All is in spirit of the author here.} 1-0  
+
+[Event "1/4 HM {m}"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Campioli M"]
+[Black "*"]
+[Result "*"]
+[FEN "2B4Q/4bn1K/5N1R/6q1/r4p2/8/8/5k2 w - - 0 0"]
+
+ 1. Rh1+ (1. Qg7 $5 Qxh6+ $19) (1. Rh5 $5 Bxf6 $19) (1. Rg6 $5 Qh4+ $19) 1... Kg2 (1... Ke2 2. Qe8 Ra7 3. Qxf7 Bc5 4. Bd7 $18) (1... Kf2 2. Ng4+ $18) 2. Bb7+ f3 3. Bxf3+ Kxf3 4. Qg7 (4. Qg8 $5 Rh4+ 5. Rxh4 Qxh4+ 6. Nh5 Qxh5+ $19) 4... Rh4+ 5. Rxh4 Qxh4+ 6. Kg6 Nh8+ (6... Ne5+ 7. Kf5 Bxf6 8. Qxf6 Qh5+ 9. Qg5 $11) 7. Kf5 Qf4+ 8. Ke6 Qd6+ 9. Kf5 Qc5+ 10. Ke6 Qd6+ (10... Qe3+ 11. Kd7 $11) 11. Kf5 Bxf6 12. Qxf6 (12. Qg4+ $5 {(Qb7)} Ke3 (12... Kf2 $2 13. Qf3+ Kxf3 { stalemate}) 13. Qf3+ Kd2 $19 (13... Kxf3 {stalemate}) (13... Kd4 14. Qd1+ $11)) 12... Qd5+ 13. Qe5 Qf7+ (13... Qd3+ 14. Ke6 $11) 14. Qf6 (14. Kg5 $5 Qg6+ $19) 14... Qd5+ 15. Qe5 Qd7+ 16. Qe6 {positional draw.  Some rather forced tactical play ends with a fine positional draw.} *  
+
+[Event " Commendation tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Beljavski A, Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6k1/P1K1P3/3N4/n7/7r/8/8 w - - 0 1"]
+
+ 1. e7 Kf7 2. e8=Q+ Kxe8 3. a7 Nb6 4. Kxb6 Rb3+ 5. Nb4 Rxb4+ 6. Ka5 1-0  
+
+[Event " Commendation tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bujannemek B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6P1/2KP2B1/4r3/k7/8/b7/8 w - - 0 1"]
+
+ 1. d7 Re6+ 2. Kc5 Re5+ 3. Kd4 Rd5+ 4. Ke4 Rd6 5. Ke5 Rd5+ 6. Ke6 Rd1+ 7. Ke7 Re1+ 8. Kd8 Kb4 9. Kc7 Rc1+ 10. Kb6 Rd1 11. Bf5 Bg8 12. Kc7 Rc1+ 13. Kd6 Rd1+ 14. Ke7 Re1+ 15. Kf8 1-0  
+
+[Event " Commendation tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Grushko M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p2B1/8/8/8/p5kP/P6p/7K w - - 0 1"]
+
+ 1. Bf8 d6 2. Bxd6+ Kxh3 3. Bxh2 Kg4 4. Kg2 Kf5 5. Kf3 Ke6 6. Ke4 Kd7 7. Kd5 Kc8 8. Kc6 1-0  
+
+[Event " Commendation tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Q7/P1PP4/P1PP4/8/1p1b4/5PP1/1r4k1/K6N w - - 0 1"]
+
+ 1. Qh8 Bxh8 2. d8=Q Bc3 3. Qh8 Bxh8 4. c8=Q Bc3 5. Qh3+ Kg1 6. Qh8 Bxh8 7. a8=Q Bd4 8. Qa7 1-0  
+
+[Event " Commendation tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kaljagin V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6P1/8/7P/2P5/1kp5/1p3R2/1K3b2 w - - 0 1"]
+
+ 1. Rf3 Bxc4 2. h6 Bg8 3. Rd3 Kc4 4. h7 Bxh7 5. g8=Q+ Bxg8 6. Rxc3+ Kxc3 1/2-1/2  
+
+[Event " Commendation tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Olimpiev B"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6N1/8/8/2n3k1/1K2p2N/1p6/8/8 w - - 0 1"]
+
+ 1. Ka3 Kxh4 2. Nf6 e3 3. Nd5 e2 4. Nf4 e1=N 5. Nd3 Nexd3 1/2-1/2  
+
+[Event " Commendation tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4r1r1/8/7k/5K2/8/5Q2/8/8 w - - 0 1"]
+
+ 1. Qf4+ Kh7 2. Qh4+ Kg7 3. Qg5+ Kh7 4. Qh5+ Kg7 5. Qg6+ Kf8 6. Qf6# 1-0  
+
+[Event " Commendation tm04 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bent C"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/5K2/1N3pn1/8/8/8/5bn1/6N1 w - - 0 1"]
+
+ 1. Nd5 Ne5+ 2. Kxf6 Ng4+ 3. Kg5 N4e3 4. Nh3 Bh4+ 5. Kh6 Nxd5 6. Nf4 1/2-1/2  
+
+[Event " Commendation tm04 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kovalenko I"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/R6p/7P/p7/PpPk3p/2N3b1/2K5 w - - 0 1"]
+
+ 1. Ne1+ Kxc3 2. Nxg2 b2+ 3. Kb1 h2 4. Rc6+ Kb3 5. Rb6+ Kxa3 6. Ne1 h1=Q 7. Rb3+ Kxb3 1/2-1/2  
+
+[Event " Commendation tm04 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Rumjantsev S"]
+[Black "Draw"]
+[Result "*"]
+[FEN "kr4b1/3R4/7q/b4pRB/6P1/6PK/6P1/8 w - - 0 1"]
+
+ 1. Rg6 fxg4+ 2. Kh4 Bd8+ 3. Rxd8 Qh8 4. Rdxg8 Rxg8 5. Ra6+ Kb7 6. Rb6+ Kc7 7. Rc6+ Kd7 8. Rd6+ Ke7 9. Re6+ Kf8 10. Re8+ Kg7 11. Re7+ Kh6 12. Re6+ Kh7 13. Re7+ Rg7 14. Re8 Rg8 15. Re7+ 1/2-1/2  
+
+[Event " Commendation tm04 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Solovjev B"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1B6/8/p2K1k1n/8/3p4/6N1 w - - 0 1"]
+
+ 1. Nh3+ Kf3 2. Nf2 Kxf2 3. Kd3+ Ke1 4. Bf2+ Kd1 5. Bxh4 a3 6. Bf6 a2 7. Bc3 a1=Q 8. Bxa1 Kc1 9. Bb2+ 1/2-1/2  
+
+[Event " Commendation tm04 @3 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Moreno Ramos F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/3Bn3/3p3Q/6p1/6K1/q1P5/8 w - - 0 1"]
+
+ 1. Qe8+ Kb7 2. Qd7+ Kb6 3. Qxe6 Qxc2 4. Bc5+ Kb5 5. Qb6+ Kc4 6. Qb4+ Kd3 7. Qd4+ Ke2 8. Qf2+ Kd3 9. Qe3+ Kc4 10. Qd4+ Kb5 11. Qb4+ Kc6 12. Qb6+ Kd7 13. Qd6+ Kc8 14. Qc6+ 1-0  
+
+[Event " Commendation ts23 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Khortov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "rr6/2K5/8/P7/8/R7/RPPPP2k/8 b - - 0 1"]
+
+ 1... Rc8+ 2. Kd6 Rd8+ 3. Ke5 Re8+ 4. Kf4 Rf8+ 5. Ke3 Rae8+ 6. Kd3 Rd8+ 7. Kc3 Rc8+ 8. Kb3 Rb8+ 9. Ka4 Rf4+ 10. e4 Rxe4+ 11. d4 Rxd4+ 12. c4 Rxc4+ 13. b4+ 1-0  
+
+[Event " Commendation ts23 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kondratjev V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K2N4/2p5/k3n3/1pP5/1P1P1Q2/2p5/8/4qb2 w - - 0 1"]
+
+ 1. Qd2 Qd1 2. Qg5 Qe2 3. Qf4 Qf3+ 4. Kb8 c6 5. Nxc6 c2 6. Ne5 c1=Q 7. Nd3 Qcxf4+ {Nb2} 1-0  
+
+[Event " Commendation ts23 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pivovar S"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7Q/prpp1K1P/np6/8/8/2N2p2/p4p2/k1b2r1b w - - 0 1"]
+
+ 1. Na4+ Kb1 2. Qa1+ Kxa1 3. h8=Q+ Kb1 4. Qh7+ Ka1 5. Qg7+ Kb1 6. Qg6+ Ka1 7. Qf6+ Kb1 8. Qf5+ Ka1 9. Qe5+ Kb1 10. Qe4+ Ka1 11. Qd4+ Kb1 12. Qd3+ Ka1 13. Qxf1 Kb1 14. Qd3+ Ka1 15. Qd4+ Kb1 16. Qe4+ Ka1 17. Qe5+ Kb1 18. Qf5+ Ka1 19. Qf6+ Kb1 20. Qg6+ Ka1 21. Qg7+ Kb1 22. Qh7+ Ka1 23. Qxh1 Kb1 24. Qh7+ Ka1 25. Qg7+ Kb1 26. Qg6+ Ka1 27. Qf6+ Kb1 28. Qf5+ Ka1 29. Qe5+ Kb1 30. Qe4+ Ka1 31. Qd4+ Kb1 32. Qd3+ Ka1 33. Qxa6 b5 34. Qf6+ Kb1 35. Qf5+ Ka1 36. Qe5+ Kb1 37. Qe4+ Ka1 38. Qd4+ Kb1 39. Qd3+ Ka1 40. Qc3+ Kb1 41. Qb3+ Ka1 42. Nc3 1-0  
+
+[Event " Commendation ts23 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Sereda V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/r3Pk2/R3p3/8/2K5/2Pn4/6P1/6b1 w - - 0 1"]
+
+ 1. Rxe6 Nb2+ 2. Kb3 Rb7+ 3. Ka2 Ke8 4. Re1 Bc5 5. Rb1 Ba3 6. Rg1 Bxe7 7. Rb1 Ba3 8. Re1+ Be7 9. Rb1 1/2-1/2  
+
+[Event " Commendation ts23 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Sumbatjan K"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3BkP2/6P1/8/8/K7/4p3/7N w - - 0 1"]
+
+ 1. Ng3 e1=Q 2. Nf5+ Kf8 3. g7+ Kxf7 4. Be8+ Kg8 5. Bg6 Qc3+ 6. Ka4 Qb2 7. Ka5 Qb3 8. Ka6 Qb4 9. Ka7 Qb5 10. Bf7+ Kxf7 11. Nd6+ 1/2-1/2  
+
+[Event " Commendation ts23 {ea} {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Davletshin I, Mitrofanov L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "B7/8/2N5/8/6k1/1p6/5p1K/8 w - - 0 1"]
+
+ 1. Ne5+ Kf5 2. Nc4 b2 3. Nd2 f1=N+ 4. Nxf1 b1=Q 5. Be4+ 1/2-1/2  
+
+[Event " Commendation ts69 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Dankiewicz J"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K6k/Prp5/5RPN/5p2/4b3/8/8/8 w - - 0 1"]
+
+ 1. Rf8+ Kg7 2. Nxf5+ Kxf8 3. g7+ Kg8 4. Ne7+ Kxg7 5. Nc6 Rxa7+ 6. Kxa7 Bxc6 7. Kb8 1/2-1/2  
+
+[Event " Commendation ts69 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Gurgenidze D, Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1N6/7B/8/3n4/pk1P4/rN1K4 w - - 0 1"]
+
+ 1. Na4+ Kb3 2. Bf7+ Kxa4 3. Bxa2 Ka5 4. Bb3 Rxb1+ 5. Kc2 Rb2+ 6. Kc3 Rb1 7. Kc2 Rb2+ 8. Kc3 1/2-1/2  
+
+[Event " Commendation ts69 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Janosi E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2R5/8/3k2p1/1r6/5K2/6P1/8/6n1 w - - 0 1"]
+
+ 1. Rg8 Nh3+ 2. Kf3 Rg5 3. g4 Ke7 4. Kg3 Ng1 5. Kf4 Nh3+ 6. Kg3 Kf7 7. Ra8 Ng1 8. Ra7+ Ke8 9. Ra8+ Ke7 10. Ra7+ Ke6 11. Ra6+ Kf7 12. Ra7+ Kf8 13. Ra8+ Kg7 14. Re8 Ra5 15. Kg2 Ra1 16. g5 1/2-1/2  
+
+[Event " Commendation ts69 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kirillov V, Olimpiev B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5B2/7K/8/4n2k/1p1b4/8/4R3 w - - 0 1"]
+
+ 1. Bc4 Bc2 2. Bxb3 Bd3 3. Bc4 Bc2 4. Re2 Bb1 5. Rb2 Nd6 6. Rxb1 Nxc4 7. Rb4 1-0  
+
+[Event " Commendation ts69 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kovalenko V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K2n2B1/2P5/1b2n3/1k3N2/8/8/8/8 w - - 0 1"]
+
+ 1. Nd4+ Ka5 2. Nb3+ Kb5 3. c8=Q Nc7+ 4. Kb8 Na6+ 5. Qxa6+ Kxa6 6. Bc4# 1-0   
+
+[Event " Commendation ts69 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Zachodjakin G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7K/8/3P4/4P2p/8/n5k1/8 w - - 0 1"]
+
+ 1. d6 Nb4 2. e5 h3 3. d7 Nc6 4. e6 h2 5. d8=Q h1=Q+ 6. Kg8 Nxd8 7. e7 1/2-1/2  
+
+[Event " Honorable Mention t001 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Belenky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k5N/8/8/B2n1Kp1/8/8/1b3n2/8 w - - 0 1"]
+
+ 1. Be1 Ne3+ 2. Kxg5 Nh3+ 3. Kh4 Nf4 4. Bb4 Nfg2+ 5. Kh3 Bxh8 6. Bd6+ Kb7 7. Be5 Bxe5 1/2-1/2  
+
+[Event " Honorable Mention t001 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Sumbatjan K"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4b3/1p4n1/5P2/8/2Bk4/K7 w - - 0 1"]
+
+ 1. Ba4 Nf3 2. Bxb5 Nd4 3. Be8 Kc1 4. Bg6 Bg8 5. Bf5 Bf7 6. Bh7 Be6 7. Bg6 Bg8 8. Bf5 1/2-1/2  
+
+[Event " Honorable Mention tb25 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Dolgov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/1K6/3P4/8/2Q5/p6q/p7/1b1B4 w - - 0 1"]
+
+ 1. Qg8+ Kd7 2. Bg4+ Kxd6 3. Qf8+ Kd5 4. Qf7+ Kc5 5. Qe7+ Kc4 6. Qe6+ Kb4 7. Qd6+ Kb3 8. Qd5+ Kb2 9. Bxh3 Be4 10. Qxe4 a1=Q 11. Qd4+ Ka2 12. Be6+ 1-0  
+
+[Event " Honorable Mention tb25 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kotov A, Mitrofanov L"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kN1K4/r7/1Pp5/8/1p6/2p5/8/bR6 w - - 0 1"]
+
+ 1. Kc8 Bb2 2. Na6 c2 3. Rxb2 c1=Q 4. Ra2 Qf4 5. b7+ Rxb7 6. Nc7# {#} 1-0  
+
+[Event " Honorable Mention tb25 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kuznetsov AP, Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4p1P1/2R5/7b/3kr3/8/7K w - - 0 1"]
+
+ 1. Rg5 Bxg5 2. g7 Bh4 3. g8=Q Rh3+ 4. Kg2 Rg3+ 5. Kf1 Rxg8 1/2-1/2   
+
+[Event " Honorable Mention tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Ulanov L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5K2/8/4p3/4k1P1/8/5n2/8/8 w - - 0 1"]
+
+ 1. g6 Ng5 2. g7 Nh7+ 3. Kf7 Nf6 4. Kg6 Ng8 5. Kf7 Nh6+ 6. Kg6 Nf5 7. g8=N 1/2-1/2  
+
+[Event " Honorable Mention tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Volkov A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2r5/n7/5KBk/p7/5N2/B6b/8/8 w - - 0 1"]
+
+ 1. Ne6 Nb5 2. Nd8 Rc6+ 3. Nxc6 Nxa3 4. Ne7 Be6 5. Kxe6 Kg5 6. Bd3 Kf4 7. Nf5 a4 8. Kf6 Kf3 9. Ke5 Kf2 10. Kd4 Ke1 11. Kc3 Kd1 12. Nd4 Kc1 13. Ne2+ Kd1 14. Kb2 Kd2 15. Nc1 Kd1 16. Na2 Kd2 17. Nb4 1-0  
+
+[Event " Prize wm04 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Mansarliisky N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/P7/8/8/4N3/3r4/p3r2p/K6k w - - 0 1"]
+
+ 1. Ng3+ Rxg3 2. a8=Q+ Reg2 3. Qf3 Rg4 4. Qe4 Rg5 5. Qd5 Rg6 6. Qc6 Rg7 7. Qb7 Rg8 8. Qa8 Kg1 9. Qa7+ Rf2 10. Qg7+ Rg2 11. Qa7+ 1/2-1/2  
+
+[Event "1 Commendation ms05 tt21 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Halski M"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k2B1/8/N3p1r1/8/4K2n/N7/3B4/8 w - - 0 1"]
+
+ 1. Bf7 Rg4+ 2. Kd3 Rg3+ 3. Kc2 Rxa3 4. Bg5+ Kd7 5. Nc5+ Kd6 6. Bxh4 Rh3 7. Bf2 Rf3 8. Ne4+ Ke5 9. Bg6 Rf4 10. Bg3 1-0  
+
+[Event "1 Commendation t001 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Dolgov V, Kuznetsov AP"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p2P2K1/1pPP4/2p5/1p5P/p3Pk2/5p2/8 w - - 0 1"]
+
+ 1. d8=Q f1=Q 2. Qf6+ Ke2 3. Qxf1+ Kxf1 4. d7 a2 5. d8=Q a1=Q+ 6. Qf6+ Qxf6+ 7. Kxf6 b3 8. c7 b2 9. c8=Q b1=Q 10. Qf5+ Qxf5+ 11. Kxf5 Ke2 12. Ke4 Kd2 13. h5 c4 14. h6 c3 15. h7 c2 16. h8=Q c1=Q 17. Qh2+ Kc3 18. Qc7+ Kd2 19. Qxc1+ Kxc1 20. Kd3 Kb2 21. e4 a5 22. e5 a4 23. e6 a3 24. e7 a2 25. e8=Q a1=Q 26. Qb5+ Ka3 27. Qa6+ Kb2 28. Qxb6+ Ka3 29. Qa5+ Kb2 30. Qb4+ Ka2 31. Kc2 1-0  
+
+[Event "1 Commendation tb28 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bondarenko F"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5r2/P1p5/Pbp5/k1p5/2B5/2K5/2P5/B7 w - - 0 1"]
+
+ 1. a8=Q Rxa8 2. Kb3 Ba7 3. Bc3+ Kb6 4. Ka4 Bb8 5. Ba5+ Ka7 6. Be6 Kxa6 7. Bc8+ Ka7 8. Kb3 c4+ 9. Kxc4 c5 10. Kxc5 c6 11. Bb6# 1-0  
+
+[Event "1 Commendation tg02 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kitsigin V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N3K/1p6/1P1pP3/P1p5/p7/8/4b3/6k1 w - - 0 1"]
+
+ 1. e7 Bb5 2. Nc6 Bxc6 3. a6 bxa6 4. b7 Bxb7 5. e8=Q 1-0  
+
+[Event "1 Commendation tl10 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Gerasimov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2n1P1p1/8/1p3K2/6P1/8/8/k7 w - - 0 1"]
+
+ 1. Ke5 b4 2. Kd6 Ne8+ 3. Kd7 Nf6+ 4. Ke6 b3 5. g5 Ne8 6. Kd7 b2 7. Kxe8 b1=Q 8. Kf7 Qf5+ 9. Kg8 1/2-1/2  
+
+[Event "1 Commendation tn19 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Ericsson A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3kPR2/7p/2K1P1pp/8/r7/P3P3/8 w - - 0 1"]
+
+ 1. e6+ Ke8 2. Kd6 Ra6+ 3. Ke5 Ra4 4. a3 Rc4 5. e4 Rc1 6. a4 h4 7. a5 h3 8. a6 h2 9. a7 Ra1 10. a8=Q+ Rxa8 11. Kf6 h1=Q 12. Rf8# 1-0  
+
+[Event "1 Commendation tr11 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Novikov V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7B/5k2/1KB3R1/p3n3/6n1/p4p2/8/8 w - - 0 1"]
+
+ 1. Rg7+ Ke6 2. Bxf3 a2 3. Bxg4+ Kd6 4. Re7 a1=Q 5. Bxe5+ Qxe5 6. Rd7# {#} 1-0  
+
+[Event "1 Commendation ts04 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bordeniuk M, Kuznetsov AP"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5k1K/3R3p/2ppP2P/8/2pP4/8/3b4 w - - 0 1"]
+
+ 1. Rxd5 c4 2. e6+ Kxe6 3. Rc5 cxd3 4. Rxc3 d2 5. Re3+ Kf7 6. Rd3 Bc2 7. Kh8 Bxd3 1/2-1/2  
+
+[Event "1 Commendation tt22 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Akerblom A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k2/6N1/1q6/8/8/8/8/R4K2 w - - 0 1"]
+
+ 1. Nf5 Qb7 2. Kg1 Qb6+ 3. Kf1 Qb5+ 4. Kg1 Qc5+ 5. Kg2 Qd5+ 6. Kg1 Qxf5 7. Rf1 1/2-1/2  
+
+[Event "1 Commendation tv08 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Grechishinikov N"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3K2NB/1Pp5/3k4/8/4b3/7p/8 w - - 0 1"]
+
+ 1. Nh5 h1=Q 2. Be4+ Kxe4 3. Ng3+ Kf3 4. Nxh1 c5 5. b7 Bf4 6. Ke6 c4 7. Kf5 c3 8. Nf2 1/2-1/2  
+
+[Event "1 Commendation wh04 tm05 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Koranyi A, Lazar J"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/4R1n1/7N/3K4/3p4/4N2k w - - 0 1"]
+
+ 1. Kc2 Nf3 2. Rh5 dxe1=N+ 3. Kd1 Kg1 4. Ke2 Nxh4 5. Rxh4 Ng2 6. Rg4 Kh2 7. Kf2 1-0  
+
+[Event "1 Commendation wi02 ts18 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Akerblom A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K6/3B4/8/k1N5/1N1p4/6p1/8 w - - 0 1"]
+
+ 1. Nbd2 g1=Q 2. Ka6 Qd4 3. Be7 Qxc4+ 4. Nxc4 d2 5. Ne3 Kb3 6. Bf6 1-0  
+
+[Event "1 Commendation wi02 ts18 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Costeff G"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5bN1/7k/R7/8/8/8/Kn1p4/8 w - - 0 1"]
+
+ 1. Nf6+ Kg7 2. Nh5+ Kh8 3. Ra7 d1=Q 4. Nf6 Bg7 5. Ra8+ Bf8 6. Ra7 Be7 7. Rxe7 Qa4+ 8. Kb1 Qd1+ 9. Ka2 Qa4+ 1/2-1/2  
+
+[Event "1 Honorable Mention jr01 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/8/3p4/2P5/5p2/7P/4P2P/3bk2K w - - 0 1"]
+
+ 1. cxd6 f3 2. Bh4+ Kf1 3. d7 fxe2 4. d8=R e1=Q 5. Rf8+ 1-0  
+
+[Event "1 Honorable Mention tn19 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Akerblom A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k6K/P7/P7/7P/q3N3/8/8/8 w - - 0 1"]
+
+ 1. h6 Qd4+ 2. Kg8 Qd5+ 3. Kg7 Qe5+ 4. Kg8 Qe6+ 5. Kg7 Qg4+ 6. Kh8 Qg6 7. h7 Qf7 8. Nf6 Kxa7 9. Ng8 Kxa6 10. Nh6 Qf6+ 11. Kg8 Qg6+ 12. Kh8 Kb6 13. Nf7 Kc7 14. Ne5 Qg5 15. Ng6 1/2-1/2  
+
+[Event "1 Honorable Mention tp18 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Mihalco O"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b4k/2b5/2B5/1R6/8/5K2/8/8 w - - 0 1"]
+
+ 1. Be4 Bd6 2. Rd5 Be7 3. Re5 Bd6 4. Re8+ 1-0  
+
+[Event "1 Honorable Mention ts04 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Neidze V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6N1/8/6p1/2p3RP/1B4pk/3K4/5p2/7n w - - 0 1"]
+
+ 1. Ke2 Ng3+ 2. Kxf2 Ne4+ 3. Kg2 Nxg5 4. Bxc5 gxh5 5. Bf2+ g3 6. Bxg3+ Kg4 7. Nh6# 1-0  
+
+[Event "1 Honorable Mention ts23 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Silaev L"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2B3b1/8/8/1p6/6pP/8/4k1K1 w - - 0 1"]
+
+ 1. Ba5 Ke2 2. Bxb4 Kf3 3. Bc5 Bf6 4. h4 Bxh4 5. Bd6 g2 6. Bg3 Bg5 7. Bf4 Bf6 8. Be5 Be7 9. Bd6 Bd8 10. Bc7 1/2-1/2  
+
+[Event "1 Honorable Mention ts70#1617 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Van Breukelen G"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p4r2/1Pb5/5p1R/N1k2B2/8/1PK4p/8 w - - 0 1"]
+
+ 1. b3+ Kb4 2. Bxh2 Bxa4 3. Rh4+ f4 4. Rxf4+ Rxf4 5. b7 Bxb3+ 6. Kd3 Bc4+ 7. Ke3 Rf3+ 8. Ke4 Bd5+ 9. Kxd5 Rd3+ 10. Ke6 Rd8 11. Bc7 Rh8 12. Be5 Rd8 13. Ke7 Rg8 14. Kf7 Rd8 15. Bc7 Kb5 16. Bxd8 Ka6 17. b8=N+ Kb7 18. Nd7 Kc8 19. Ke7 1-0  
+
+[Event "1 Honorable Mention tt21 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Janosi E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5B2/2P5/r6p/3p2p1/3qNP2/8/6K1/4k2N w - - 0 1"]
+
+ 1. Nef2 Qc4 2. Bb4+ Ke2 3. Ng3+ Ke3 4. Ng4+ Kd4 5. Nf5+ Ke4 6. Ng3+ Kxf4 7. Kh3 Re6 8. Bd2+ Kf3 9. Nh2+ Kf2 10. Ng4+ Kg1 11. c8=Q Qxc8 12. Be3+ Rxe3 1/2-1/2  
+
+[Event "1 Honorable Mention tt22 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bondarenko F, Perkonoja P"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/pp4p1/k3N1R1/1p6/1p4r1/1P2B3/7p/4b2b w - - 0 1"]
+
+ 1. Nc7+ Ka5 2. Bb6+ axb6 3. Rd6 Bh4 4. Rd2 Rg2 5. Rd5 Rg5 6. Rd8 Bd5+ 7. Nxd5 1-0  
+
+[Event "1 Honorable Mention wh04 tm05 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Bent C"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4K3/7p/n6k/1p5p/2p1pPpN/bP3b2/2P1P3/2B4r w - - 0 1"]
+
+ 1. Kf7 Rxh4 2. Bxa3 b4 3. Bb2 c3 4. Bc1 e3 5. Bxe3 Bd5+ 6. Kf6 Rh3 7. f5+ Rxe3 1/2-1/2  
+
+[Event "1 Honorable Mention wi02 ts18 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Aloni H, Feiga U"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7K/8/7p/8/4pk1p/6p1/6P1/1B3N2 w - - 0 1"]
+
+ 1. Kh7 e3 2. Bd3 h5 3. Kh6 e2 4. Bxe2 h3 5. Nxg3 hxg2 6. Bf1 Kxg3 7. Bxg2 1/2-1/2  
+
+[Event "1 Honorable Mention wi02 ts18 tj01 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Hoch Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4R3/5p1p/5p1P/5P1K/1p3P1P/1p4p1/8/5k2 w - - 0 1"]
+
+ 1. Re3 g2 2. Rf3+ Ke2 3. Rg3 Kf2 4. Rf3+ Ke1 5. Rg3 Kd2 6. Rxg2+ Kc1 7. Rg1+ Kc2 8. Rg2+ Kc3 9. Rg3+ Kc4 10. Rg2 Kc3 11. Rg3+ Kb2 12. Re3 Ka2 13. Re4 Ka3 14. Re3 Ka4 15. Re2 Ka3 16. Re3 Ka2 17. Re4 1/2-1/2  
+
+[Event "1 Honorable Mention wm04 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Dolgov V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4kB2/7P/7P/8/8/8/1q6/2n4K w - - 0 1"]
+
+ 1. Bg7 Qb7+ 2. Kh2 Qc7+ 3. Kh3 Qd7+ 4. Kh4 Qe7+ 5. Kh5 Qf7+ 6. Kg5 Qd5+ 7. Kf6 1/2-1/2  
+
+[Event "1 Prize ms05 tt21 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Olimpiev B"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1r4bQ/8/8/8/8/k4B2/1r6/K7 w - - 0 1"]
+
+ 1. Qc3+ Ka4 2. Bd1+ R2b3 3. Qg3 Re8 4. Bc2 Ra8 5. Bxb3+ Bxb3 6. Kb2 Bd5 7. Qd6 Ra5 8. Kc3 Rb5 9. Qa6+ Ra5 10. Qb6 Rb5 11. Qd4+ Ka3 12. Qa7+ Ra5 13. Qxa5# 1-0  
+
+[Event "1 Prize tb28 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Rakolta P, Janosi E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p1p1p3/8/k1p5/3rR3/1P6/PP2Qq2/K7 w - - 0 1"]
+
+ 1. b4+ Kb6 2. bxc5+ Kb7 3. c6+ Ka8 4. Rg4 Rd8 5. Rg8 Qd4 6. Qg4 Qd2 7. Qc8+ Rxc8 8. Rxc8# {#} 1-0  
+
+[Event "1 Prize tc13 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kondratjev V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/5P1k/1n6/8/5KR1/2b5/1pp5/N7 w - - 0 1"]
+
+ 1. Rh8+ Bxh8 2. f8=N+ Kh6 3. Rg6+ Kh5 4. Rg5+ Kh4 5. Ng6+ Kh3 6. Kf3 Kh2 7. Nf4 c1=N 8. Nb3 Bc3 9. Nxc1 bxc1=N 10. Rg2+ Kh1 11. Nh5 Be5 12. Ng3+ Bxg3 13. Kxg3 Nc4 14. Rc2 Nd3 15. Ra2 1-0  
+
+[Event "1 Prize tl10 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Janosi E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2R5/7r/6p1/3k4/8/5KPn/8/8 w - - 0 1"]
+
+ 1. Kg4 Rh5 2. Rc2 Ng5 3. Rb2 Kc5 4. Ra2 Kb5 5. Rb2+ Kc6 6. Re2 Kd6 7. Re5 Kxe5 1/2-1/2  
+
+[Event "1 Prize tm04 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Koranyi A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2K1pP2/4k1P1/4P3/1r4r1/2N5/3B4/8 w - - 0 1"]
+
+ 1. Ne4 Rgxe4 2. Bxb4 Rc4+ 3. Bc5 Rxc5+ 4. Kb7 Rb5+ 5. Ka7 Ra5+ 6. Kb6 Ra8 7. Kc7 Rf8 8. g7 1-0  
+
+[Event "1 Prize tm04 {tw} {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Koranyi A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2K2P2/4k1P1/3pP3/1r4r1/2N5/3B4/8 w - - 0 1"]
+
+ 1. Ne4 Rgxe4 2. Bxb4 Rc4+ 3. Bc5 Rxc5+ 4. Kd8 Ra5 5. f8=N+ Kf5 6. g7 Ra8+ 7. Ke7 Ra7+ 8. Nd7 Ra8 9. Kf7 d4 10. e6 d3 11. Nb6 Ra7+ 12. e7 d2 13. Nc4 1-0  
+
+[Event "1 Prize tn19 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/1p2rp2/7P/N1P5/6Q1/2P2K2/7p/7r w - - 0 1"]
+
+ 1. Qg2 Re3+ 2. Kf4 Re4+ 3. Kf5 Re5+ 4. Kf6 Re6+ 5. Kxf7 Re7+ 6. Kf6 Re6+ 7. Kf5 Re5+ 8. Kf4 Re4+ 9. Kf3 Re3+ 10. Kf2 Rb1 11. Qg8+ Ka7 12. Nc6+ bxc6 13. Qa2+ 1-0  
+
+[Event "1 Prize tp18 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Sivak B"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4k3/4P3/4P3/1K3N2/4P3/8/6p1/8 w - - 0 1"]
+
+ 1. Ne3 g1=Q 2. Nd5 Qd4 3. Ka5 Qe5 4. Kb5 Qd6 5. Ka5 1/2-1/2  
+
+[Event "1 Prize ts23 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Sumbatjan K"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n2b2/8/8/8/2B5/5P2/1B3K2/7k w - - 0 1"]
+
+ 1. Be6 Bc5+ 2. Kf1 Bd6 3. Bd4 Ne7 4. Bg1 Bh2 5. Bc5 Bf4 6. Bxe7 Bd6 7. Bg5 Bf4 8. Bd5 Bxg5 9. f4+ Kh2 10. fxg5 1-0  
+
+[Event "1 Prize tt22 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Nestorescu V"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6r1/3Q4/5P1k/2p5/2b5/8/p6K/1N5N w - - 0 1"]
+
+ 1. Qd2+ Rg5 2. f7 Bxf7 3. Qb2 Rh5+ 4. Kg1 Rg5+ 5. Kf2 Rf5+ 6. Ke1 Re5+ 7. Kd2 Rd5+ 8. Kc1 Rg5 9. Nf2 Rg2 10. Qd2+ Kg7 11. Kb2 Rg1 12. Nd1 axb1=Q+ 13. Kxb1 Bh5 14. Qd7+ Kh6 15. Qd6+ Kg7 16. Qe7+ Kh8 17. Qxc5 Rxd1+ 18. Kc2 1-0  
+
+[Event "1 Prize wa08 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kozirev V"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k2K3/7P/2P5/3q4/6b1/8/6Q1/8 b - - 0 1"]
+
+ 1... Bh5+ 2. Ke7 Qe5+ 3. Kd7 Be8+ 4. Kd8 Bf7 5. Qb2+ Qxb2 6. c7+ Ka7 7. c8=Q Qf6+ 8. Kc7 Qe5+ 9. Kd8 Kb6 10. Qd7 Be6 11. h8=Q Qxh8+ 12. Qe8 Qe5 13. Qxe6+ Qxe6 1/2-1/2  
+
+[Event "1 Prize wc02 {m}"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Afek Y"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2kr4/Kp2p1p1/3P2P1/1P6/1P1P4/8/8/5B1b w - - 0 1"]
+
+ 1. Bh3+ e6 2. Bxe6+ Rd7 3. d5 Bxd5 4. Bxd5 b6+ 5. Bb7+ Rxb7+ 6. Ka8 Rb8+ 7. Ka7 Rb7+ 8. Ka8 1/2-1/2  
+

@@ -1,0 +1,1100 @@
+[Event "t001#398 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/Pk2pp2/2pp4/2pP1P2/8/2P2K2/8/8 w - - 0 1"]
+
+ 1. f6 $1 exf6 2. dxc6+ (2. Ke4 $2 f5+ $1) 2... Kxa7 3. Ke4 Kb6 4. Kd5 Kc7 5. c4 f5 1/2-1/2  
+
+[Event "t001#398 {m} {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/5pp1/3pp3/3pP1P1/6K1/3P4/8/8 w - - 0 1"]
+
+ 1. g6 $1 fxg6 2. exd6 Kb7 3. Kf4 Kc6 4. Ke5 Kd7 5. d4 g5 1/2-1/2  
+
+[Event "t001#412 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/6bk/8/4nP2/4K3/4N3/4n3 w - - 0 1"]
+
+ 1. f5 Bxf5 2. Nd4 Bh7 3. Ke2 Ng2 4. Kf3 Nh4+ 5. Kg4 Ng2 6. Kf3 1/2-1/2  
+
+[Event "tc06#140 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3p4/B1kq1b2/8/8/4Q2P/2K5 w - - 0 1"]
+
+ 1. Qe3+ Kb5 2. Qb6+ Kc4 3. Qb4+ Kd3 4. Qd2+ Kc4 (4... Ke4 5. Qe2+ Kd4 6. Bb6+ Kc3 7. Qb2+ Kc4 8. Qa2+) 5. Qc3+ Kb5 6. Qb4+ Kc6 7. Qb6+ Kd7 8. Qd8+ Kc6 (8... Ke6 9. Qg8+ Ke5 10. Bc3+ Ke4 11. Qg2+) 9. Qa8+ Kc5 10. Bb6+ Kc4 11. Qa2+ 1-0  
+
+[Event "tc06#172 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4Bk2/1pp2p1K/3p4/P5Pb/4P3/5N2/8/8 w - - 0 1"]
+
+ 1. Bc6 $1 bxc6 2. a6 Bg6+ (2... Bxf3 3. a7 Bxe4+ 4. g6 $1) 3. Kh8 $1 Bxe4 4. g6 $1 fxg6 5. Ng5 Bd5 6. Ne6+ Ke7 7. Nc5 $1 1-0  
+
+[Event "tc06#187 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1k6/3K3b/8/8/3R4/n5b1/8 w - - 0 1"]
+
+ 1. Rb3+ Kc8 2. Rb2 Bf8+ 3. Ke6 Bf1 4. Kf7 Ba3 5. Rxa2 Bc4+ 6. Ke8 Bxa2 1/2-1/2  
+
+[Event "tc06#235 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5B2/7N/pK6/1B3b2/6k1/8/4N3/3n4 w - - 0 1"]
+
+ 1. Ba4 Nb2 2. Bd7 Bxd7 3. Nf6+ Kf3 4. Nd4+ Ke3 5. Nxd7 Kxd4 6. Bg7+ 1-0  
+
+[Event "tc06#243 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1BNn4/8/8/6kp/6p1/7P/6K1/8 w - - 0 1"]
+
+ 1. h4+ Kxh4 2. Bd6 Nc6 3. Na7 $1 1-0  
+
+[Event "ti05 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1K4p1/p7/p4P2/8/P7/2k2P2/8 w - - 0 1"]
+
+ 1. Kb6 $1 (1. Kxa6 $2 a4) (1. Kc6 $2 Kb3 2. Kd5 Kxa3 3. Ke6 (3. Kc4 Kb2) 3... Kb4 4. Kf7 a4 5. Kxg7 a3) 1... a4 2. Kc5 Kc3 3. Kd5 $1 (3. f3 $2 Kb3 4. Kd4 Kxa3 5. Kc3 a5 6. f4 Ka2 7. Kc2 a3 8. f6 gxf6 9. f5 a4) 3... Kb3 4. Kd4 Kxa3 5. Kc3 Ka2 (5... a5 6. f3) 6. Kc2 a3 7. f3 $1 (7. f4 $2 a5) 7... Ka1 8. Kc1 (8. Kb3 $2 Kb1 9. Kxa3 Kc2) 8... Ka2 9. Kc2 a5 10. f4 a4 11. f6 gxf6 12. f5 Ka1 13. Kc1 1/2-1/2  
+
+[Event "ti05 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5pp1/8/k2p1Pp1/P5P1/3P4/8/3K4 w - - 0 1"]
+
+ 1. Kc2 Kb4 2. a5 Kxa5 3. Kc3 Kb5 4. Kd4 Kc6 5. Ke5 Kc5 6. f6 g6 (6... gxf6+ 7. Kxf6 Kd4 8. Kxg5 Ke5 9. d4+ Kxd4 10. Kf6 Ke4 11. Kxf7 Kf4 12. Kf6 $3 Kxg4 13. Ke5) 7. d4+ Kc6 1/2-1/2  
+
+[Event "tk41 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2R5/8/5N2/6r1/5p2/7K/5p2/3Bk3 w - - 0 1"]
+
+ 1. Be2 Kxe2 2. Rc2+ Ke3 3. Rxf2 $1 (3. Rc3+ $2 Kd4 4. Rf3 Rg3+) 3... Rg3+ $1 4. Kh2 Kxf2 5. Ne4+ Kf3 6. Nxg3 fxg3+ 7. Kh1 $1 Kf2 (7... g2+ 8. Kg1 Kg3) 1/2-1/2  
+
+[Event "tm05#198 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5n2/5NN1/2r4P/8/6k1/3PK2b/8/4n3 w - - 0 1"]
+
+ 1. h7 $1 (1. Ne5+ $2 Kg5 $1 2. h7 $1 Rh6 $1 3. Nf7+ Kg6 4. Nxh6 Kxg7 5. Nf7 $1 Nxh7 $1) 1... Nxh7 (1... Nc2+ 2. Kd2) (1... Ng2+ 2. Ke4) (1... Ng6 2. Ne5+ Kg5 3. Nxc6 Kh6 4. Ne7) 2. Ne5+ Kg5 3. Nxc6 Kh6 $1 (3... Kg6 4. Ne8 Bd7 5. Ne5+) 4. Ne8 Bd7 5. Nd4 $1 Bxe8 6. Ke2 $1 Ng2 7. Kf3 Nh4+ 8. Kg4 Ng2 9. Kf3 Ne1+ 10. Ke2 1/2-1/2  
+
+[Event "tm05#210 @3 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "R1RK4/8/8/8/8/6k1/7q/8 w - - 0 1"]
+
+ 1. Rc3+ Kf4 2. Ra4+ $1 Ke5 3. Rc5+ Kd6 (3... Kf6 $1 {cook} 4. Ra6+ Kf7 5. Rc7+ Kf8) 4. Rh5 $1 Qe2 (4... Qxh5 {main} 5. Ra6+ Kc5 6. Ra5+) 5. Ra6+ Qxa6 6. Rh6+ 1-0  
+
+[Event "tn04 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2K4B/8/k3P3/7B/7r/8/8 w - - 0 1"]
+
+ 1. Be1+ Kb5 $1 (1... Ka6 2. Bg8 Re3 3. Bc4+ Ka7 4. Bf2 Ka8 5. Bd5+ Ka7 6. Bxe3+ ) 2. Bg6 $3 Re3 3. Bd2 $3 Rxe5 4. Kd6 $1 Rc5 5. Bd3+ Kb6 6. Be3 1-0  
+
+[Event "tn04 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1rP5/8/4B2r/B7/4N3/k1K5 w - - 0 1"]
+
+ 1. c7 Rc6+ $1 (1... Rxe4 2. c8=Q Rc6+ 3. Qxc6 Rc4+ 4. Nc3 $1 Rxc6 5. Bb2#) 2. Bxc6 Rc4+ 3. Kd2 Rxc6 4. Bd6 $1 Rxd6+ 5. Nd4 $1 Rxd4+ 6. Kc3 Rd1 7. Kc2 Rd4 8. c8=R (8. c8=Q $2 Rc4+ 9. Qxc4) 8... Ra4 9. Kb3 1-0  
+
+[Event "tn04 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B2q/P1k2p2/3p3R/4r3/8/4N2K/8/8 w - - 0 1"]
+
+ 1. Nd5+ Rxd5 2. a8=N+ $1 Kb7 3. Rxh8 Rd3+ 4. Kg2 $1 Rd2+ 5. Kf3 $1 Kxa8 6. Ke3 $1 Rb2 $1 7. Bc6+ Ka7 8. Ra8+ Kb6 9. Rb8+ 1-0  
+
+[Event "tn04 @1 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B4bk/7p/1p3N2/5N2/1K6/8/5n2/8 w - - 0 1"]
+
+ 1. Ne4 $1 (1. Nh6 $1 {cook} Bf7 2. Ne4 Kg7 3. Nf5+ Kg6 4. Ne7+) 1... Ng4 2. Nh6 (2. Kc3 $2 h5) 2... Bd5 3. Nxg4 Bxe4 4. Be5+ Kg8 5. Nf6+ 1-0  
+
+[Event "tn04 @2 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/B2NK1P1/8/8/5bnk/8/8 w - - 0 1"]
+
+ 1. g7 Nh5 2. Bf1+ Kh4 3. g8=Q (3. Nf5+ $1 {cook} Kg5 4. g8=Q+) 3... Bd5+ 4. Kxd5 Nf6+ 5. Ke6 Nxg8 6. Kf7 Nh6+ 7. Kg6 Ng4 8. Nf5# 1-0  
+
+[Event "tn04 {c} {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B4bk/7p/1p1N4/5N2/1K6/8/5n2/8 w - - 0 1"]
+
+ 1. Ne4 $1 Ng4 2. Nh6 $1 (2. Kc3 $2 h5) 2... Bd5 3. Nxg4 Bxe4 4. Be5+ Kg8 5. Nf6+ 1-0  
+
+[Event "ts20#371 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p1p2p1/1P6/P2PRp2/k7/7K/7P/6r1 w - - 0 1"]
+
+ 1. a6 bxa6 (1... Rg6 2. Re3) 2. b7 Rb1 3. Re1 Rb3+ $1 (3... Rxb7 4. Ra1+ Kb3 5. Rb1+) 4. Kg2 $1 (4. Kh4 $2 Rb4+ $1 5. Kh3 Ka3 $1) 4... Ka3 $1 5. Re3 $1 Rxe3 6. b8=Q 1-0  
+
+[Event "ts20#396 {v} {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2pp3k/2p1pP2/4P3/5P2/6K1/5P2/8 w - - 0 1"]
+
+ 1. f5 exf5 2. Kf4 Kg6 3. e6 dxe6 4. Ke5 Kf7 5. f4 c5 1/2-1/2  
+
+[Event "ts22#344 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/2b3p1/5B2/7K/1N4p1/8/3k4/1n2N3 w - - 0 1"]
+
+ 1. Bh4 g5 $1 2. Kxg5 (2. Bf2 $2 g3) 2... Bd8+ 3. Kxg4 Bxh4 4. Nf3+ Kc3 $1 5. Nd5+ Kc4 6. Ne3+ $1 Kd3 7. Ng2 $1 (7. Nd5 $2 Bf2 $1) 7... Bd8 8. Bf5+ 1-0  
+
+[Event "ts22#370 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3k4/1p2R1p1/4K3/8/8/2b1B3/6b1 w - - 0 1"]
+
+ 1. Bb5+ Kd8 $1 2. Rd6+ Ke7 3. Rd7+ Kf8 $1 4. Kf6 Kg8 $1 5. Bc4+ Kh8 $1 6. Rd8+ $1 (6. Rd2 $2 Be4 $1) 6... Kh7 7. Bg8+ Kh6 $1 8. Bb3 $1 (8. Be6 $2 g5) 8... Bd4+ 9. Rxd4 Bxb3 10. Rh4# 1-0  
+
+[Event "ts22#375 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6Bb/3p2k1/8/N3K3/7P/8/8/8 w - - 0 1"]
+
+ 1. Bb3 $1 (1. Bc4 $2 Kh6+ 2. Kf4 Bc3) (1. Bd5 $2 Kh6+ 2. Kf4 Bc3 3. Nc4 Kh5 4. Kg3 Be1+ 5. Kh3 Bxh4 6. Bf3+ Kg5 7. Nd2 Kf4 $1 8. Kxh4 Ke3) 1... Kh6+ $1 2. Kf4 $1 Bc3 $1 3. Nc4 Kh5 4. Kg3 Be1+ 5. Kh3 Bxh4 6. Bd1+ Kg5 7. Nd2 $1 Be1 (7... Bf2 8. Ne4+) 8. Nf3+ 1-0  
+
+[Event "ts22#383 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/6k1/6pp/7P/6PP/6Np/5K2 w - - 0 1"]
+
+ 1. Nf4+ gxf4 2. Kg2 fxg3 3. Kh1 Kf5 4. Kg2 Ke4 5. Kh1 Ke3 (5... Kf3) 6. Kg2 h1=Q+ 7. Kxh1 Kf3 (7... Kf2) 8. Kg1 g2 9. Kh2 Kf2 (9... g1=Q+ 10. Kxg1 Kg3) 1/2-1/2  
+
+[Event "ts22#383 {m} {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7p/6k1/6pp/7P/6PP/6Np/5K2 w - - 0 1"]
+
+ 1. Nf4+ gxf4 2. Kg2 fxg3 3. Kh1 Kf5 4. Kg2 Ke4 5. Kh1 Ke3 (5... Kf3) 6. Kg2 h1=Q+ 7. Kxh1 Kf2 (7... Kf3 8. Kg1 g2 9. Kh2 Kf2 (9... h6 10. Kg1 Kg3) (9... g1=Q+ 10. Kxg1)) 1/2-1/2  
+
+[Event "ts22#410 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1B6/8/8/R1b5/8/4k3/P3b3/rrR1K2B w - - 0 1"]
+
+ 1. Bf4+ $1 Kxf4 (1... Kd3 2. Be4+ $1) 2. Rxb1 Ke3 $1 3. Rab5 $1 Bxb5 4. Rxa1 Bb4+ 5. Kd1 Ba4+ 6. Kc1 Ba3+ 7. Kb1 Kd3 $1 8. Be4+ $1 Kxe4 1/2-1/2  
+
+[Event "tz16#61 {m}"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3K3k/8/1r5B/8/6P1/2b5/3N4 w - - 0 1"]
+
+ 1. Bg4 $1 (1. Bf3 $2 Rb3 2. Bd5 Rd3) (1. Be2 $2 Re5 $1 2. Nc3 Re3) (1. Ne3 $2 Ba4 $1 2. Bd1 Bxd1 3. Nxd1 Rd5+) 1... Bxd1 2. Kc6 $1 Ba4 3. Bd1 $1 1/2-1/2  
+
+[Event " Commendation tp18 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/rp6/p7/p5B1/K7/8/8/7R w - - 0 1"]
+
+ 1. Rh8+ (1. Bf4+ $2 Kc8 2. Rh8+ Kd7 3. Bb8 Ra8 $1 (3... b5+ $2 4. Kxa5 Rb7 ( 4... Ra8 5. Kb6) 5. Kxa6) 4. Kxa5 Kc6 5. Rc8+ Kd7 6. Rc7+ Kd8 7. Rxb7 Kc8 8. Rc7+ Kd8) 1... Kc7 2. Bd8+ (2. Be3 $1 b6 3. Rh7+ Kb8 4. Bf4+ Ka8 $2) 2... Kc6 3. Bb6 Kxb6 4. Rc8 Ra8 5. Rxa8 1-0  
+
+[Event " Commendation ts22#327 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "N3R3/6B1/8/1b5K/5kr1/8/6P1/2q5 w - - 0 1"]
+
+ 1. Bh6+ (1. Rf8+ $2 Kg3 2. Be5+ Kxg2 3. Kxg4 Qc5 4. Bg7 Qe7 5. Bh6 Bd7+) 1... Kg3 $1 2. Re3+ $1 Kxg2 3. Rg3+ $1 Kxg3 $1 4. Bxc1 Be8+ 5. Kh6 Rg6+ 6. Kh7 Ra6 7. Nc7 Ra7 8. Kh6 $1 Rxc7 9. Bf4+ Kxf4 1/2-1/2  
+
+[Event "1 Honorable Mention ts22#309 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4NN2/8/8/6Pk/8/5nK1/8/8 w - - 0 1"]
+
+ 1. g6 Nh4 $1 (1... Nd4 2. Kf4 $1 Nc6 (2... Ne6+ 3. Kf5 Nxf8 4. g7 Ng6 5. Nf6+) 3. g7 Ne7 4. Ke5 Kg5 5. Ke6 Ng8 6. Nd6 Nh6 (6... Kh6 7. Nf5+ Kg5 8. Kf7 Nf6 9. Nd7) 7. Nf5 Ng8 8. Kf7 Nf6 9. Nd7) 2. Ng7+ $1 Kg5 $1 (2... Kh6 3. Kxh4 Kxg7 4. Kg5 Kxf8 5. Kf6) 3. Nge6+ Kh6 $1 (3... Kh5 4. Nf4+ Kg5 5. Nh7+ $1) 4. g7 (4. Kxh4 $2) 4... Nf5+ 5. Kg4 Nxg7 6. Nd4 $1 Ne6 7. Nf5# 1-0  
+
+[Event "1 Prize t001#338 {v} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Bb6/6k1/2K5/6Bp/6N1/6N1/2b5/8 w - - 0 1"]
+
+ 1. Bf4 $1 (1. Nxh5+ $2 Kg6) (1. Ne3 $2 Ba4+ $1) (1. Bf6+ $2 Kg8 $1 2. Be5 Bxe5 3. Nxe5 h4 $1 4. Ne2 Be4+) 1... Bxf4 (1... Ba4+ 2. Kc5 Ba7+ 3. Kb4) 2. Nxh5+ Kg6 3. Nxf4+ Kg5 4. Nd5 $1 Ba4+ 5. Kc5 Kxg4 6. Kb4 Be8 (6... Bd7 7. Nf6+) (6... Bc2 7. Ne3+) (6... Bd1 7. Ne3+) 7. Nf6+ 1-0  
+
+[Event "1 Prize ts20#350 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1K3b1B/8/1k6/5B2/bN6/1N6 w - - 0 1"]
+
+ 1. Nd3+ Kc4 $1 2. Bd5+ $1 Kxd5 3. Nb4+ Kc4 $1 4. Nxa2 Kb3 5. Nc1+ Kb2 6. Nd2 $1 Bd8+ $1 (6... Bd4+ $2 7. Kc6 Kxc1 8. Nf3+) 7. Kc6 $1 Kxc1 $1 8. Kd7 1-0  
+
+[Event "3 Commendation ts20#349 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/p7/8/P1k5/2n3p1/R1P5/KB6 w - - 0 1"]
+
+ 1. Ra3 $1 (1. Rb2 $2 g2 2. Ba2+ Kc5 3. Rb3 g1=Q+) 1... g2 2. Ba2+ Kb4 $1 (2... Kd4 3. Kb2 $1 Nd1+ 4. Kc1 Ne3 $1 5. Rd3+ Ke4 $1 6. Bd5+ $1) 3. Rb3+ Ka5 $1 4. Rxc3 g1=Q+ 5. Bb1 $1 Qd4 6. Ka2 Qxc3 1/2-1/2  
+
+[Event "3 Honorable Mention tm05#188 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2k5/2pr3B/1P3p2/2P2K1b/2n4N/3R4/8 w - - 0 1"]
+
+ 1. b6+ Kxb6 2. Rxd6 Bg3+ 3. Kxg3 Ne4+ 4. Kf3 $1 Nxd6 5. c5+ Kxc5 6. Bf8 Kd5 7. Nf4+ Ke5 (7... Kc5 8. Ke3) 8. Bg7# 1-0  
+
+[Event "3/4 Honorable Mention t001#341 {m} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/q1p5/2Bk4/2pPp3/4K3/5R2/8/7n w - - 0 1"]
+
+ 1. Rf6+ Ke7 2. Rf7+ Kxd8 $1 3. Rd7+ $1 Kc8 $1 4. Re7 Ng3+ $1 (4... Nf2+ 5. Kf5) 5. Kf3 $1 Qa3+ 6. Kg2 $1 (6. Kg4 $2 Qb4+ 7. Kh3 Qh4+ $1 8. Kxh4 Nf5+) 6... Qb2+ $1 7. Kh3 $1 Kb8 8. Re8+ Ka7 9. Ra8+ Kb6 10. Rb8+ 1-0  
+
+[Event "3/4 Prize t001#326 @2 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/RP6/8/pp6/1k6/8/2p1n1R1/K7 w - - 0 1"]
+
+ 1. Rg1 $1 Nxg1 2. Kb2 Ne2 $1 3. Kxc2 Nd4+ 4. Kb2 $1 (4. Kd3 $2 Nc6 $1 5. Ra6 Nb8 6. Ra8 Nf7 7. Rxb8 Nd6 8. Kd4 (8. Kc2 a4 9. Kb2 Nc4+ 10. Ka2 Na5) 8... a4 9. Kd5 Nxb7) 4... Nc6 5. Ra6 Nb8 6. Ra8 (6. Rf6 $1 {cook AC} Nd7 7. Rd6 Nb8 8. Rd8 Nf7 9. Rxb8) 6... Nf7 $1 7. Rxb8 Nd6 $1 8. Rd8 $1 Nxb7 9. Rd7 $1 Nc5 10. Rd4# 1-0  
+
+[Event "4 Honorable Mention t001#285 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3kb2R/8/7N/4P3/3P3q/1K6/P4b2/8 w - - 0 1"]
+
+ 1. Nf7+ Ke7 $1 (1... Kd7 2. e6+ Kxe6 3. Rxh4 Bxh4 4. Ne5) (1... Kc7 2. Rxh4 Bxf7+ 3. e6 Bxe6+ 4. d5 Bxd5+ 5. Rc4+) 2. Rxh4 Bxf7+ $1 3. e6 $1 Bxe6+ 4. d5 $1 Bxd5+ 5. Rc4 Be1 $1 6. a3 $1 (6. a4 $2 Ba5 $1) 6... Be6 7. Ka4 $1 Bxc4 1/2-1/2  
+
+[Event "4 Honorable Mention ts20#327 {m} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/3N4/4N3/pk6/1prn4/P7/K7/8 w - - 0 1"]
+
+ 1. a4+ Kxa4 2. Ndc5+ Rxc5 3. Bd7+ Nc6 4. Nxc5+ Kb5 5. Na4 Kxa4 6. Bxc6# 1-0  
+
+[Event "4 Prize t001#299 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/N2p2B1/2Pk4/3p4/4p1K1/8/8/8 w - - 0 1"]
+
+ 1. Be5+ (1. Nc8+ $2 Kc7 $1) 1... Kxe5 $1 2. c7 Be6+ 3. Kg5 d6 4. Nc6# 1-0  
+
+[Event "5 Prize ts20#340 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2kr4/3n4/1P4p1/NN2b1K1/B7/8/8/8 w - - 0 1"]
+
+ 1. Na7+ Kb8 2. N7c6+ $1 Kc8 $1 3. Ne7+ Kb8 4. Nac6+ Ka8 $1 (4... Kb7 5. Nxd8+ Kxb6 6. Bxd7 Kc7 7. Ba4) 5. b7+ $1 Kxb7 6. Nxd8+ Kc7 $1 7. Ne6+ Kd6 8. Nc8+ $1 Kxe6 9. Bb3# 1-0  
+
+[Event "t001#270 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3R3B/7n/k2K1p2/8/3p4/1p6/8 w - - 0 1"]
+
+ 1. Kc5 Ka6 $1 (1... Ka4 2. Kc4) 2. Bxf5 Nxf5 3. Rxd3 b1=Q (3... Nd4 4. Rxd4 $1 b1=Q 5. Ra4+ Kb7 6. Rb4+) 4. Ra3+ Kb7 5. Rb3+ Qxb3 1/2-1/2  
+
+[Event "t001#270 {m} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3R3B/8/k2K1p2/7n/3p4/1p6/8 w - - 0 1"]
+
+ 1. Kc5 Ka6 $1 (1... Ka4 2. Kc4) 2. Bxf5 Nxf5 3. Rxd3 b1=Q (3... Nd4 4. Rxd4 $1 b1=Q 5. Ra4+ Kb7 6. Rb4+) 4. Ra3+ Kb7 5. Rb3+ Qxb3 1/2-1/2  
+
+[Event "t001#304 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/6b1/P7/P3n2Q/8/2q5/7K/8 w - - 0 1"]
+
+ 1. Qe8+ Ka7 2. Qe7+ Kxa6 3. Qxg7 Nf3+ 4. Kh1 $1 (4. Kh3 $2 Ng5+) 4... Qe1+ ( 4... Qxg7) 5. Kg2 Qg1+ 6. Kh3 Qh2+ (6... Qxg7) 7. Kg4 Qg2+ 8. Kh5 Qxg7 1/2-1/2  
+
+[Event "t001#304 {v} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/6p1/P7/P3n2Q/8/2q5/7K/8 w - - 0 1"]
+
+ 1. Qe8+ Ka7 2. Qe7+ Kxa6 3. Qxg7 $3 Nf3+ 4. Kh1 Qe1+ 5. Kg2 Qg1+ 6. Kh3 Qh2+ 7. Kg4 Qg2+ 8. Kh5 Qxg7 1/2-1/2  
+
+[Event "t001#309 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6bb/8/5P1P/3P4/8/2k2K2/8/8 w - - 0 1"]
+
+ 1. Ke4 (1. Kf4 $2 Bxd5) (1. d6 $2 Bxf6 2. Kg4 Be6+ 3. Kh5 Bf7+ 4. Kg4 Bg6) 1... Kc4 $1 (1... Bf7 2. Ke5 Kc4 3. d6 Be8 4. Ke6) (1... Bxf6 2. Kf5 Bd4 3. d6 Kc4 4. d7 Bb6 5. Kg6) 2. Kf5 (2. Ke5 $2 Bxd5 3. Kf5 Bf7) (2. d6 $2 Be6 $1 3. f7 Bxf7 4. d7 Bg6+ $1 5. Kf4 Bf6) 2... Kxd5 $1 (2... Bxd5 3. Kg6 Be4+ 4. Kf7) 3. Kg6 Ke6 4. f7 Bxf7+ 5. Kh7 Bc3 1/2-1/2  
+
+[Event "t001#323 @3 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/8/3PkP2/p5K1/8/8/7B w - - 0 1"]
+
+ 1. Be4 Kxe4 (1... a3 $1 {cook} 2. Bb1 Kxd5) 2. d6 exd6 $1 3. f6 a3 4. f7 a2 5. f8=Q a1=Q 6. Qf3+ Ke5 7. Qf5+ Kd4 8. Qf6+ 1-0  
+
+[Event "t001#323 {c} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/8/3PkP2/1p4K1/p7/P5B1/8 w - - 0 1"]
+
+ 1. Be4 $1 (1. d6 $2 Kxd6 $1 2. Be4 b3 3. Bb1 $1 bxa2 $1 4. Bxa2 Ke5 5. Kg5 Ke4 6. Bc4 Ke5 7. Bb3 Ke4 8. Bc2+ Ke5 9. Bb1 $1 Kd5 10. Kf4 e5+ $1 11. Kf3 e4+ $1 12. Kf4 $1 e3 $1 13. Kxe3 Ke5) 1... Kxe4 $1 (1... b3 2. Bb1 Kxd5 3. axb3 Kc5 4. Kf4 Kb4 5. Ba2 Kc3 6. b4 $1) 2. d6 $1 exd6 $1 3. f6 b3 4. f7 bxa2 $1 (4... b2 5. f8=Q b1=Q 6. Qf5+) 5. f8=Q a1=Q 6. Qf3+ Ke5 7. Qf5+ Kd4 8. Qf6+ 1-0  
+
+[Event "t001#331 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/7p/B7/1K6/8/1n3b2/8/5R2 w - - 0 1"]
+
+ 1. Kb4 $1 Nd4 (1... Bd5 2. Rd1 Bg8 3. Bc4 Bxc4 4. Kxc4 Na5+ 5. Kb5 Nb7 $1 6. Rd7) (1... Nd2 2. Rf2) 2. Kc3 $1 Be2 $1 3. Bxe2 Nxe2+ 4. Kd3 $1 Ng3 $1 5. Rf3 Nh5 (5... Nh1 6. Ke2 h5 7. Rh3) 6. Rf5 Ng7 (6... Ng3 7. Rg5 Nf1 8. Rg2) 7. Rf8# 1-0  
+
+[Event "t001#341 @? {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3N4/q1p5/2Bk4/2pPp3/4K3/8/4n3/5R2 w - - 0 1"]
+
+ 1. Rf6+ Ke7 2. Rf7+ Kxd8 $1 3. Rd7+ $1 Kc8 $1 4. Re7 Ng3+ $1 (4... Qa4+ 5. Bxa4 Nc3+ 6. Kxe5 Nxa4 7. d6 cxd6+ 8. Kxd6) 5. Kf3 $1 Qa3+ 6. Kg2 $1 (6. Kg4 $2 Qb4+ 7. Kh3 Qh4+ $1 8. Kxh4 Nf5+) 6... Qb2+ $1 7. Kh3 $1 Kb8 8. Re8+ Ka7 9. Ra8+ Kb6 10. Rb8+ 1-0  
+
+[Event "ti05 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p3/B1K3b1/8/7B/4N3/7k/1N4b1 w - - 0 1"]
+
+ 1. Nf1+ Kh3 2. Nbd2 Kxh4 3. Nf3+ Kh3 4. Nxg1+ Kg2 5. Ne2 Be8+ 6. Kc7 $1 Kxf1 7. Kd8 Bf7 8. Kxe7 Bg8 9. Kf8 Bh7 10. Kg7 1-0  
+
+[Event "ti05 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2p4K/8/7k/8/8/6PP/8 w - - 0 1"]
+
+ 1. g4+ Kg5 $1 2. Kg7 (2. h4+ $2 Kxh4 $1 3. Kg6 Kxg4 4. Kf6 Kf4) 2... c5 3. h4+ Kxg4 4. Kg6 1/2-1/2  
+
+[Event "ti05 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4n2k/7P/5P1p/6p1/2K3P1/5P2/8/8 w - - 0 1"]
+
+ 1. Kd5 Nxf6+ 2. Ke6 Nxg4 3. fxg4 h5 4. gxh5 g4 5. Kf5 g3 6. Kg6 g2 7. Kh6 g1=Q 1/2-1/2  
+
+[Event "ti05 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3N1kBK/5P2/2N4p/3p4/3Pq3/8/8/8 w - - 0 1"]
+
+ 1. Ne5 Qf5 $1 2. Ne6+ $1 Qxe6 3. Kh7 h5 $1 4. Ng6+ Qxg6+ 5. Kxg6 h4 6. Kh7 h3 7. Kh8 h2 8. Bh7 1/2-1/2  
+
+[Event "ts20#319 @1 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/kP4b1/3K4/8/1p6/p5B1/6R1 w - - 0 1"]
+
+ 1. Ra1 (1. b7 $1 {cook} Ka7 2. Ra1 Kb8 3. Kd6 b2 $2 4. Rxa2 b1=Q 5. Ra8#) (1. Kc6 $1 {cook GH/GJ} b2 2. Bf1+ Ka5 3. Rg5+ Ka4 4. Bb5+ Kb4 5. Rg4+ Kc3 6. b7) 1... Kxb6 2. Be4 Bxe4+ 3. Kc4 b2 4. Rxa2 b1=Q 5. Rb2+ Qxb2 1/2-1/2  
+
+[Event "ts20#319 {c} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/k7/6b1/3K4/8/1p6/p5B1/6R1 w - - 0 1"]
+
+ 1. Ra1 Kb6 (1... Kb8 2. Kd6 $1) 2. Be4 Bxe4+ 3. Kc4 b2 4. Rxa2 b1=Q 5. Rb2+ Qxb2 1/2-1/2  
+
+[Event "ts20#327 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/3N4/4N3/p7/kprn4/8/K7/8 w - - 0 1"]
+
+ 1. Ndc5+ Rxc5 (1... Kb5 2. Ba6+) 2. Bd7+ Nc6 $1 3. Nxc5+ Kb5 4. Na4 $1 Kxa4 5. Bxc6# 1-0  
+
+[Event "ts20#333 @2 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "q2b4/8/8/1r6/6k1/1Q6/4p1P1/4K3 w - - 0 1"]
+
+ 1. Qc4+ (1. Qxb5 $2 Ba5+ 2. Kxe2 Qxg2+ 3. Ke3 Bb6+ 4. Kd3 Qf1+ 5. Ke4 Qf3+ $1 6. Ke5 Qf5+) 1... Kg3 2. Qxb5 (2. Qd3+ $1 {cook} Kf4 3. g3+ Kg4 4. Qxe2+) 2... Ba5+ 3. Kxe2 Qxg2+ 4. Ke3 $1 Bb6+ 5. Kd3 $1 Qf1+ 6. Ke4 Qxb5 (6... Qf3+ 7. Ke5 Qh5+ 8. Ke4 Qxb5) 1/2-1/2  
+
+[Event "ts20#342 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K2B1/8/p2P4/8/6r1/3P1N2/6kB/3r4 w - - 0 1"]
+
+ 1. Bb3 (1. Bd5 $2 Rxd3 2. Ne5+ Rxd5 3. Nxg4 Rd4) 1... Rxd3 $1 2. Ne1+ Kxh2 3. Nxd3 Rd4 4. Ne5 Rxd6+ 5. Kc7 1-0  
+
+[Event "ts20#347 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4k1nb/4P2B/p7/1N2N2K/8/8 w - - 0 1"]
+
+ 1. Nc5+ Kxe5 2. Ng4+ Kf5 $1 3. Nxh6+ Kg5 4. Nf7+ Kxh5 5. Ne6 Ne7 (5... a3 6. Ng7#) 6. Nf4# 1-0  
+
+[Event "ts20#347 {m} {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N3/4P3/4k1nb/7B/8/2p3K1/8/2N5 w - - 0 1"]
+
+ 1. Ng7+ Kxe7 2. Nf5+ Kf6 3. Nxh6 Kg5 4. Nf7+ Kxh5 5. Ne2 c2 6. Kh3 c1=Q (6... Ne7 7. Nf4#) 7. Ng3# 1-0  
+
+[Event "ts20#358 @2 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1K1B4/3k4/8/6pq/7p/1Q4P1/8/8 w - - 0 1"]
+
+ 1. Qd5+ Ke8 2. Qg8+ (2. Bxg5 $1 {cook} hxg3 3. Qe6+ Kf8 4. Bh6+) 2... Kd7 3. Qg7+ Kxd8 $1 4. g4 Qxg4 5. Qf8+ Kd7 6. Qc8+ 1-0  
+
+[Event "ts22#260 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/8/1K6/p5b1/8/1p2PN2/p7/R7 w - - 0 1"]
+
+ 1. Nd2 Bxe3+ 2. Kxa5 Bxd2+ 3. Kb5 Kb7 4. Ka4 b2 5. Rxa2 b1=Q 6. Rb2+ Qxb2 1/2-1/2  
+
+[Event "ts22#316 {m}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/1n6/4B3/3pP3/4k3/8/1K6/8 w - - 0 1"]
+
+ 1. Bc7 Nc5 2. Bg8 $1 Nd3+ 3. Kb3 $1 Nxe5 4. Bh7+ Kd4 5. Bb6# 1-0  
+
+[Event "1 Honorable Mention t001#252 @2 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k1r/6Rp/6P1/3n4/8/8/2K2p2/5B2 w - - 0 1"]
+
+ 1. Rf7+ Kg8 (1... Ke8 2. Bb5+ Kd8 3. g7) 2. g7 Ne3+ 3. Kd3 Nxf1 4. gxh8=Q+ Kxh8 5. Rxf2 (5. Rf8+ $1 {cook MS} Kg7 6. Rxf2 Ng3 7. Rg2) 5... Ng3 6. Rf3 Nh5 (6... Nh1 7. Ke2 h5 8. Rh3) 7. Rf5 Ng7 (7... Ng3 8. Rg5 $1 Nh1 $1 9. Ke2 h6 $1 10. Rg4 h5 11. Rh4 Ng3+ 12. Kf2 Nf5 13. Rxh5+) 8. Rf8# 1-0  
+
+[Event "1 Honorable Mention t001#252 {v} @2 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k1r/2p3Rp/6P1/3n4/8/8/2K2p2/5B2 w - - 0 1"]
+
+ 1. Rf7+ Kg8 (1... Ke8 2. Bb5+ Kd8 3. g7) 2. g7 Ne3+ 3. Kd3 Nxf1 4. gxh8=Q+ Kxh8 5. Rxf2 (5. Rf8+ $1 {cook MS} Kg7 6. Rxf2 Ng3 7. Rg2) 5... Ng3 6. Rf3 Nh5 (6... Nh1 7. Ke2 h5 8. Rh3) 7. Rf5 Ng7 (7... Ng3 8. Rg5 $1 Nh1 $1 9. Ke2 h6 $1 10. Rg4 h5 11. Rh4 Ng3+ 12. Kf2 Nf5 13. Rxh5+) 8. Rf8# 1-0  
+
+[Event "t001#265 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/1N6/8/pr1N1B2/kp1b4/8/K7 w - - 0 1"]
+
+ 1. Bc1+ (1. Nc4+ $2 Rxc4 $1 2. Bd6+ Rb4 3. Bxb4+ Kxb4) 1... b2+ 2. Bxb2+ Rxb2 3. Nc4+ (3. Nb5+ $2 Rxb5 $1) 3... Bxc4 4. Nb5+ Kb3 (4... Bxb5) (4... Rxb5) 5. Nd4+ Kc3 6. Nb5+ Kc2 (6... Rxb5) (6... Bxb5) 7. Nd4+ $1 Kc1 8. Ne2+ Rxe2 (8... Bxe2) 1/2-1/2  
+
+[Event "ti05 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/1P2pk2/2P5/4P3/b7/3p1N2/6K1 w - - 0 1"]
+
+ 1. e5+ Kxe5 2. b7 d1=Q+ 3. Nxd1 Bxc5+ 4. Ne3 Bd6 5. Nc4+ 1-0  
+
+[Event "ti05 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6pq/1R6/p2k2p1/P3p1Pp/K1p1P2P/2P5/1B6 w - - 0 1"]
+
+ 1. Ba2+ Kc5 2. Bg8 Qh8 3. Rg6 Qxg8 4. Rc6+ Kd5 5. Rc5+ Ke6 6. Rc6+ Kf7 7. Rc7+ Kg6 8. Rc6+ Kh7 9. Rh6+ Kxh6 1/2-1/2  
+
+[Event "ts20#310 {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3rP3/8/8/8/6B1/k2pK3/5B2 w - - 0 1"]
+
+ 1. Bd6 d1=Q+ (1... Rxd6 2. Kd1 Re6 3. Bc4+) 2. Kxd1 Rxd6+ 3. Bd3 $1 Rxd3+ (3... Re6 4. Bc4+) 4. Ke2 1-0  
+
+[Event "ts20#310 {v} {m}"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Gorgiev T"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3rP3/4p2B/8/4B3/8/3pK3/k7 w - - 0 1"]
+
+ 1. Bg7+ e5 2. Bxe5+ Ka2 3. Bd6 d1=Q+ 4. Kxd1 Rxd6+ 5. Bd3 Rxd3+ 6. Ke2 1-0   
+
+[Event "1/2 Honorable Mention wu18 {tt} {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r7/R7/1PP4k/5K2/7P/8/8/4R2r b - - 0 1"]
+
+ 1... Rf8+ 2. Rf7 $1 Rxf7+ $1 3. Ke6 Rc7 $1 4. bxc7 Rxe1+ 5. Kf7 Rf1+ 6. Kg8 Rg1+ 7. Kh8 Re1 8. c8=R $1 (8. c8=Q $2 Re8+ 9. Qxe8) 1-0  
+
+[Event "7 Prize ww17 {tt} {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/1P6/5qP1/p6k/P5R1/6PP/7B/8 w - - 0 1"]
+
+ 1. Rh4+ $1 (1. b8=Q $2 Qg7+ $1 2. Kxg7) (1. g7 $2 Qd8+ 2. Kh7 (2. Kf7 Qd7+) 2... Qd3+) 1... Kxg6 (1... Kg5 2. g7 Kg6 3. Rg4+ Kh5 4. b8=Q Qe6+ 5. Kf8 Qd6+ 6. Kf7 Qxb8 7. Rh4+ Kg5 8. Rh5+ Kxh5 9. g4+) 2. Rg4+ Kh5 3. b8=Q (3. Rf4 $2 Qd8+ 4. Kf7 Qc7+ 5. Kf6 (5. Kg8 Qxb7) 5... Qd6+ 6. Kg7 Qg6+ 7. Kf8 Qd6+) 3... Qe6+ 4. Kf8 Qd6+ $1 (4... Qf6+ 5. Ke8 Qe6+ 6. Kd8 Qd6+ 7. Kc8) 5. Kf7 $1 (5. Kg7 $2 Qg6+ 6. Kf8 (6. Kh8 Qh6+) 6... Qd6+ 7. Kf7) (5. Qxd6 $2) 5... Qxb8 6. Rh4+ Kg5 7. Rh5+ $1 Kxh5 8. g4+ 1-0  
+
+[Event "tp31#160 {m}"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6kN/7p/5P2/8/8/8/K7/8 w - - 0 1"]
+
+ 1. f7+ Kf8 (1... Kg7 {main} 2. Kb3 h5 3. Kc4 h4 4. Kd5 h3 5. Ke6 h2 6. Ng6 $1 h1=Q 7. f8=Q+ Kxg6 8. Qg8+ Kh6 9. Qh8+) 2. Kb3 h5 3. Kc4 h4 4. Kd5 Ke7 (4... h3 5. Ke6) 5. Ke4 h3 6. Kf3 h2 7. Kg2 1-0  
+
+[Event "2 Prize wm03 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P6k/P7/7K/r6p/P5q1/3R4/8 w - - 0 1"]
+
+ 1. Rd7+ Kh8 2. a8=Q+ Qg8 3. Rd8 Ra5+ 4. Kxh4 Ra4+ 5. Kh3 $1 (5. Kh5 $2 Ra5+ 6. Kh6 Rxa6+ 7. Qxa6 Qxd8) 5... Rxa3+ 6. Kh4 Ra4+ 7. Kh5 Ra5+ 8. Kh6 Rxa6+ 9. Qxa6 Qxd8 10. Qa1+ $1 Kg8 11. Qg7# 1-0  
+
+[Event "4 Prize jv05 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3q3k/1n6/Q3P1K1/2b5/8/8/p1R5/8 w - - 0 1"]
+
+ 1. Rh2+ Kg8 2. Qf1 $1 Qd3+ $1 (2... Bf2 $1 {main} 3. Rh8+ $1 Kxh8 4. Qa1+ $1 Qd4 5. e7 $1 Nd6 6. Qh1+ Bh4 7. Qa8+) 3. Qxd3 a1=Q 4. Rh8+ $1 Qxh8 (4... Kxh8 5. Qh3+) 5. Qd7 $1 Nd8 6. Qe8+ $1 Bf8 7. Qf7+ $1 Nxf7 8. exf7# 1-0  
+
+[Event "sp Prize jk10 vs35 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2n5/8/8/2P5/1p4P1/1P6/K5k1 w - - 0 1"]
+
+ 1. c5 (1. g4 $2 Ne6) 1... Kf2 2. g4 Ke3 3. g5 Ne6 4. c6 (4. g6 $2 Nxc5 5. g7 Ne4 6. g8=Q Nd2) 4... Nxg5 5. c7 Ne4 6. c8=Q Nd2 7. Qa6 1-0  
+
+[Event "te03 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4Nk2/7R/5K1P/5p2/N1b1P3/8/pr1b4/8 w - - 0 1"]
+
+ 1. Rh8+ Bg8 2. h7 Rb6+ $1 (2... Bc3+ 3. Nxc3 Rb6+ 4. Kxf5) 3. Nxb6 a1=Q+ (3... Bc3+ 4. Kg6 Bxh8 5. Nd7+ Ke7 6. hxg8=Q a1=Q 7. Qf7+ Kd8 8. Nf8 Qg1+ 9. Kh7 Qh2+ 10. Kg8) 4. e5 Qxe5+ (4... Bg5+ 5. Kg6) 5. Kxe5 Bc3+ 6. Kf4 $1 (6. Kd6 $2 Bxh8 7. Nd7+ Kf7) (6. Kxf5 $2 Bxh8 7. Nd7+ Kf7 8. Nd6+ Kg7) 6... Bxh8 7. Nd7+ Kf7 8. Nd6+ Kg7 9. Nxf5+ Kxh7 10. Nf8# 1-0  
+
+[Event "tp31#094 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/5p2/5K2/5P2/8/4p3/4P1r1/7R w - - 0 1"]
+
+ 1. Rh8+ Rg8 2. Rh7 (2. Rh3 $2 Rg2 3. Rxe3 Rh2 4. Rd3 Rxe2 5. Rd7 Kg8 6. Rd8+ Kh7 7. Kxf7 Rb2) 2... Rg2 3. Rxf7+ Kg8 (3... Ke8 4. Re7+) 4. Ke7 Rxe2 (4... Rg4 5. Rf8+ Kh7 6. Re8 $1 Ra4 7. Kf7 $1 Ra7+ (7... Ra6 8. Rxe3) 8. Re7 Ra3 9. Kf8+ Kh6 10. f6 Ra8+ 11. Re8 Ra7 12. f7 (12. Rxe3 $2 Kg6 13. Rf3 Rf7+ 14. Ke8 Rxf6) 12... Kg6 13. Re6+ Kf5 14. Rxe3 Kf6 15. Kg8 $1 Rxf7 16. Rf3+) 5. f6 Ra2 (5... Rg2 6. Rf8+ Kh7 7. f7 e2 8. Rh8+ $1 Kxh8 9. f8=Q+) 6. Rg7+ Kh8 7. Rg8+ $1 Kh7 ( 7... Kxg8 8. f7+ Kh7 9. f8=Q) 8. f7 e2 9. Rh8+ $1 (9. Rg7+ $2 Kh6) 9... Kg6 10. Rh6+ $1 Kg5 11. Re6 Ra7+ {eg} 12. Kf8 e1=Q 13. Rxe1 Kg6 14. Kg8 Rxf7 15. Rg1+ Kf6 16. Rf1+ 1-0  
+
+[Event "tp31#104 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/8/8/5Q2/8/3KPp2/p7/1k6 w - - 0 1"]
+
+ 1. Kc3+ Ka1 2. Qe5 $1 (2. Qf6 $2 Qa4 $1 3. Kd2+ Kb1 4. Qb6+ Ka1) 2... Qa4 (2... Qc6+ 3. Kb3+ Kb1 4. Qb2#) (2... Qa3+ 3. Kc2+ Qb2+ 4. Qxb2#) 3. Kd2+ Kb1 4. Qb8+ Ka1 5. Qh8+ Kb1 6. Qh1+ Kb2 (6... Qd1+ 7. Qxd1+ Kb2 8. Qc2+ Ka3 9. Qc3+ Ka4 10. Qc4+ Ka3 11. Kc2) 7. Qc1+ Kb3 8. Qc3# 1-0  
+
+[Event "ts21#072 {m}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5R2/8/6K1/8/R2p4/3k4/2p5/1r6 w - - 0 1"]
+
+ 1. Rf4 $1 (1. Ra3+ $2 Ke4 2. Re8+ Kf4 $1 3. Rf8+ Kg4 4. Ra4 Rb6+) 1... Kc3 2. Raxd4 Rb6+ 3. Kf7 $1 Rc6 4. Ke7 $1 c1=Q 5. Kd7 $1 Qh1 (5... Rc5 {main} 6. Kd6 Rc8 7. Kd7 Rc5 8. Kd6 Rc8 9. Kd7) 6. Rh4 Qg2 7. Rhg4 Qf3 8. Rgf4 Qg2 9. Rg4 Qh1 10. Rh4 1/2-1/2  
+
+[Event "1 Honorable Mention us93#0062 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4RB2/nK5k/4p2p/8/8/1p6/P5p1/8 w - - 0 1"]
+
+ 1. Re7+ Kh8 (1... Kg8 2. Rg7+) 2. Bg7+ Kg8 3. Bd4 $1 g1=Q $1 4. Bxg1 b2 5. Rg7+ $1 Kh8 $1 6. Bd4 $1 (6. Kxa7 {or} b1=Q 7. Bd4) 6... b1=Q+ 7. Kxa7 Qxa2+ 8. Kb8 Qh2+ 9. Rg3+ $1 (9. Kc8 $2 e5) 9... Kh7 10. Be5 $1 Qe2 11. Rg7+ Kh8 {eg} 12. Rg5+ $1 Kh7 13. Rg7+ 1/2-1/2  
+
+[Event "2 Honorable Mention tt20#873 {m}"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k2r3/8/8/8/5R2/p7/7K/8 w - - 0 1"]
+
+ 1. Ra4 (1. Rf1 $2 Kb7 2. Ra1 Ra8 3. Kg2 a2 4. Kf2 Kb6 5. Ke2 Kb5 6. Kd2 Kb4 7. Kc2 Ka3) 1... Re3 (1... Re2+ {main} 2. Kg3 a2 3. Kf3 Rh2 4. Kg3 $1 (4. Ke3 $2 Rh3+ 5. Kd2 Rh1 $1 6. Rxa2 Rh2+) 4... Re2 5. Kf3 Rh2 6. Kg3 $1) 2. Kg2 (2. Kg1 {or}) 2... Kb7 3. Kf2 Rh3 4. Kg2 $1 (4. Ke2 $2 a2 $1 5. Kd2 Rh1 6. Rxa2 Rh2+) 4... Re3 5. Kf2 Rh3 6. Kg2 $1 1/2-1/2  
+
+[Event " Honorable Mention tt20#810 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/1r2R3/3P4/8/1p6/2p5/rPKp4/1R6 w - - 0 1"]
+
+ 1. d7 Rxb2+ $1 2. Rxb2 b3+ 3. Rxb3 d1=Q+ 4. Kxd1 Rxd7+ 5. Rxd7 c2+ 6. Ke1 $1 ( 6. Ke2 $2 c1=Q) 6... c1=Q+ 7. Rd1 $1 1-0  
+
+[Event "5 Prize mk10 us51 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1q6/7B/7p/4N2k/4K3/1b6/3B3N w - - 0 1"]
+
+ 1. Bg5+ Kh3 2. Nhf2+ Kg2 3. Bf3+ Kg1 4. Nh3+ Kh2 5. Bf4+ Kxh3 6. Ng5+ Kh4 7. Bxb7 Bc1+ 8. Kf2 Bxf4 9. Nf3+ Kg4 10. Bc8# 1-0  
+
+[Event "5 Prize ww16 {tt} {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/bPP5/K7/5B2/8/5k2/2b5 b - - 0 1"]
+
+ 1... Bb7 $1 (1... Bxf4 2. Kxa6) 2. Bg3+ $1 (2. cxb7 $2 Bxf4 3. Ka6 Bb8 4. Kb5 Ke3 5. Kc6 Kd4 6. Kd7 Kc5) 2... Kxg3 3. cxb7 Bf4 4. Ka6 $1 Bb8 5. Kb5 Kf4 6. Kc6 Ke5 7. Kd7 Kd5 8. Kc8 1-0  
+
+[Event "be39-10 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N3Nk2/7R/7P/3KPp2/8/1r6/p7/2bb4 w - - 0 1"]
+
+ 1. Ke6 Rb6+ $1 2. Nxb6 Bb3+ 3. Kf6 a1=Q 4. Rh8+ Bg8 5. h7 $1 (5. Ng7 $2 Bg5+ 6. Kg6 (6. Kxg5 Qg1+) 6... Qg1) 5... Qxe5+ $1 (5... Bg5+ 6. Kg6 $1) 6. Kxe5 Bb2+ 7. Kf4 $1 (7. Kxf5 $2 Bxh8 8. Nd7+ Kf7 9. Nd6+ Kg7) (7. Kd6 $2 Bxh8 8. Nd7+ Kf7 ) 7... Bxh8 8. Nd7+ Kf7 9. Nd6+ Kg7 10. Nxf5+ Kxh7 11. Nf8# 1-0  
+
+[Event "jn03 tb28 @3 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2pN4/P5b1/k7/1rp5/8/2KP4/2R5 w - - 0 1"]
+
+ 1. Kc3 Rb3+ (1... Bf5 2. a7 Be4 3. Ra1+) (1... Be4 2. Re1 $1 Bg2 (2... Ba8 3. Re8) 3. a7 Rb3+ 4. Kxc4 Rb4+ 5. Kc3 Kb5 (5... Ra4 6. Re5+ Ka6 7. Nc5+) 6. Re5+) (1... Kb5 $1 {cook MR} 2. Ra1 (2. Ne5 Be4) 2... c5 $1 3. Ra3 Rb1 $1 4. a7 Rc1+ 5. Kb2 Rc2+ 6. Ka1 Rc1+) 2. Kxc4 Bf7+ 3. Kd4 $1 (3. Kc5 $2 Kxa6) 3... Rb4+ 4. Kc5 Rb5+ 5. Kc6 Bd5+ 6. Kxc7 Kxa6 7. Nc5+ Ka5 8. Ra1+ Kb4 9. Ra4+ Kxc5 10. d4# 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3b4/8/8/8/8/2n5/2k5/K1B5 b - - 0 1"]
+
+ 1... Nd1 2. Ba3 $1 (2. Bh6 $2 Bf6+ 3. Ka2 Bb2 4. Bd2 Kxd2) 2... Kb3 (2... Bf6+ {main} 3. Ka2 Nc3+ 4. Ka1 Na4+ $1 5. Ka2 Bg7 6. Be7 $1 Bb2 7. Bb4 $1) 3. Bc1 $1 (3. Bf8 $2 Bf6+ 4. Kb1 Nc3+ 5. Ka1 Na4+ 6. Kb1 Bb2 7. Bb4 Kxb4) 3... Bf6+ 4. Kb1 Bg7 5. Bg5 $1 (5. Bf4 $2 Nc3+ 6. Kc1 Ne2+) (5. Bd2 $2 Bb2 $1 6. Be1 Ne3 7. Bb4 Nc4) 5... Bb2 6. Bd2 $1 1/2-1/2  
+
+[Event "sp Prize wp12 {tt} {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6P1/2P5/8/1p6/1K1Pr3/8/k6b w - - 0 1"]
+
+ 1. g8=Q Bd5+ $1 2. Qxd5 Rxd3+ $1 3. Kxb4 $1 (3. Qxd3 $2) 3... Rxd5 4. c7 Rd4+ 5. Kb3 Rd3+ 6. Kc2 Rd4 $1 7. c8=R $1 (7. c8=Q $2 Rc4+ 8. Qxc4) 7... Ra4 8. Kb3 1-0  
+
+[Event "sp Prize wp12 {tt} {v} {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P3P1/8/1p6/1K1PPr2/8/k6b w - - 0 1"]
+
+ 1. g7 Rxe3 2. g8=Q Bd5+ $1 3. Qxd5 Rxd3+ 4. Kxb4 $1 (4. Qxd3 $2) 4... Rxd5 5. c7 Rd4+ 6. Kb3 Rd3+ 7. Kc2 Rd4 8. c8=R $1 (8. c8=Q $2 Rc4+ 9. Qxc4) 8... Ra4 9. Kb3 1-0  
+
+[Event "td27#10629 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B1k5/K3b3/1P1P4/1P1P4/8/2n5/8/1r6 w - - 0 1"]
+
+ 1. b7+ Kd7 2. b8=Q Nxb5+ 3. Ka6 $1 Ra1+ 4. Kb6 $1 Bd8+ 5. Kxb5 Rb1+ 6. Kc5 Rxb8 7. Bc6+ Kc8 8. d7+ Kc7 9. d6# 1-0  
+
+[Event "td27#10693 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7r/6p1/7P/p1r1p1k1/Pp1pPp2/1PpP1Pp1/2P3P1/K6R w - - 0 1"]
+
+ 1. hxg7 $1 Rxh1+ (1... Rg8 2. Kb1 Rxg7 3. Kc1 Rcc7 4. Kd1 Rh7 5. Rxh7 Rxh7 6. Ke2) 2. Ka2 Ra1+ $1 (2... Rc8 3. g8=Q+ Rxg8) 3. Kxa1 Rc8 4. Kb1 Kg6 5. Kc1 Kxg7 6. Kd1 Rh8 7. Ke2 Rh2 (7... Rh1) 8. Kf1 Rh1+ 9. Ke2 Rc1 1/2-1/2  
+
+[Event "tp31#028 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/7k/3p1p1P/4P2K/5R2 b - - 0 1"]
+
+ 1... dxe2 (1... fxe2 2. Rf4+ (2. Re1 $2 d2 3. Rxe2 d1=Q 4. Re4+ Kg5 5. Re5+ Kf4 ) 2... Kg5 3. Re4 d2 4. Re5+ $1 Kg6 5. Re6+ Kg5 6. Re5+ $1 Kf4 7. Rxe2 d1=Q 8. Rg2 $1) 2. Re1 (2. Rxf3 $2 e1=Q 3. Rf4+ Kg5 4. Rg4+ Kh5) 2... f2 3. Rxe2 f1=Q 4. Re4+ Kg5 5. Rg4+ $1 Kh5 6. Rh4+ $1 Kg5 (6... Kxh4) 7. Rg4+ Kf5 8. Rg2 1/2-1/2  
+
+[Event "tq02#240 @2 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1N5B/1p6/4p1k1/b7/2Kp4/8/2p5/5B2 w - - 0 1"]
+
+ 1. Bd3+ Kf7 2. Bxc2 d3 3. Bxd3 Ke7 4. Bd4 (4. Be5 $1 {cook AA}) 4... Bc7 5. Ba7 Kd8 6. Kc5 Kc8 7. Bc4 Bxb8 8. Bxe6+ Kc7 9. Bb6# 1-0  
+
+[Event "tt20#806 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1P6/1r6/5r2/3p3Q/k1P5/8/K7 w - - 0 1"]
+
+ 1. Qe7+ Kb3 (1... Ka4 2. Qd7+ Rbb5 (2... Rfb5 3. c4 Rxb7 4. Qc6) 3. Qxd4+ Kb3 ( 3... Ka3 4. Qd6+ Kb3 5. Qe6+) 4. Qd3 $1) 2. Qe6+ $1 Rxe6 3. b8=Q+ Kc4 (3... Kxc3 4. Qb2+) 4. Qc8+ Kd5 5. Qd7+ Ke5 6. Qxd4# 1-0  
+
+[Event "tt22#3106 @3 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/r3P3/1Nb2P2/2N5/8/2P1p3/8/2B2Kbk w - - 0 1"]
+
+ 1. f7 Bb5+ 2. c4 Bxc4+ 3. Nxc4 e2+ 4. Ke1 $1 Bf2+ $1 5. Kxf2 e1=Q+ $1 (5... Rxe7 6. Ne5 $1 Rxe5 7. Ne4 $1 Rxe4 (7... Rf5+ $1 {cook MC} 8. Kxe2 Rxf7) 8. Ke1 $1) 6. Kxe1 Rxe7+ 7. Ne5 $1 Rxe5+ 8. Ne4 $1 Rxe4+ (8... Rf5 9. Ng3+) 9. Be3 $1 (9. Kf2 $2 Rf4+ $1 10. Bxf4) (9. Kd1 $2 Rd4+) 9... Rxe3+ 10. Kf2 Re4 11. f8=R $1 (11. f8=Q $2 Rf4+ 12. Qxf4) 11... Rh4 12. Kg3 1-0  
+
+[Event "tu18#1143 @1 {m}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5nk1/8/1N5Q/6K1/5p2/7P/6p1/4b3 w - - 0 1"]
+
+ 1. Kxf4 (1. Kf5 $1 {cook VV} g1=Q 2. Nd7 Nxd7 3. Qe6+ Kf8 4. Qxd7) (1. Nd5 $1 { cook VV} g1=Q+ 2. Kf5) 1... Bd2+ 2. Kf3 g1=N+ $1 3. Kf2 Bxh6 4. Nd5 $1 Nxh3+ 5. Kg3 Ng5 6. Ne7+ Kh7 7. Nf5 Ne4+ 8. Kf3 Nd2+ 9. Kg4 1/2-1/2  
+
+[Event " Commendation us37#1684 {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2qr3N/8/5P1k/8/K3P3/P3R3/1R2p3/8 w - - 0 1"]
+
+ 1. Nf7+ Kg6 2. Nxd8 Qa6+ 3. Kb3 Qb6+ 4. Ka2 Qxe3 5. f7 Kg7 6. Ne6+ Kxf7 7. Nf4 $1 (7. Nd4 $2 Qxd4 8. Rxe2 Qc4+) 7... e1=Q 8. Ng2 $1 1/2-1/2  
+
+[Event "1 Honorable Mention ww11 {tt} {m}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Gurgenidze D"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b1k1N3/2BR4/3p4/K7/1r1n4/8/8/8 w - - 0 1"]
+
+ 1. Rd8+ Kb7 2. Rb8+ Ka7 3. Kxb4 (3. Rxb4 $2 Nc6+) 3... Nc6+ 4. Kb5 Nxb8 (4... Bb7 {main} 5. Bxd6 Nxb8 6. Bc5+ Ka8 7. Nc7#) 5. Bb6+ Kb7 6. Nxd6# 1-0  
+

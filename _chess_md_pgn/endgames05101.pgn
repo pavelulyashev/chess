@@ -1,0 +1,1100 @@
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2k5/1N6/1B4N1/K2n4 w - - 0 1"]
+
+ 1. Nd2+ Kd3 2. Bc1 Kc2 3. Ne1+ Kxc1 4. Nb3# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/2p5/P1K5/8/8/8/k7/8 w - - 0 1"]
+
+ 1. Kb7 c5 2. Kxb8 c4 3. a7 c3 4. a8=Q+ Kb2 5. Qb7+ Kc1 6. Qh1+ Kb2 7. Qh8 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2bN4/3p2PP/5k2/7P/8/7K/7p/8 w - - 0 1"]
+
+ 1. g8=N+ (1. g8=Q $2 1... h1=Q+ 2. Kg3 Qg1+ 3. Kf3 Qf1+ 4. Ke3 Qe1+ 5. Kd4 Qe5+ ) 1... Kg7 2. Kxh2 Kxh7 3. Nf6+ (3. Ne7 $2 3... Ba6 4. Kg3 Be2 5. Kh4 d5) 3... Kh6 (3... Kg7 4. Nd5 Kh6 5. Nf4) 4. Kg3 Kg5 (4... Ba6 5. Kh4 Be2 6. Ng4+) 5. Nd5 Kxh5 6. Nf7 Kg6 7. Nd6 Ba6 8. Kf2 Kg5 9. Nb4 Kf6 10. Nxa6 Ke5 11. Nb5 d5 12. Nb4 d4 13. Nd3+ Ke4 14. Ke2 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/5b1p/8/5NK1/5B2/8/8/8 w - - 0 1"]
+
+ 1. Kf6 Kf8 (1... Bg6 2. Nd6 Bh5 3. Bh6 Bg6 4. Nc8 Be4 5. Ne7+ Kh8 6. Bg7#) 2. Bh6+ Ke8 3. Nd6+ 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2rk4/p1pp4/K7/2PP4/8/8/P7/8 w - - 0 1"]
+
+ 1. Kb7 a6 2. a3 (2. c6 $2 2... a5 3. a4 d6) 2... a5 3. a4 d6 4. c6 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/8/3r4/1K6/8/Pk1N4/8/3N4 w - - 0 1"]
+
+ 1. Nc1+ Kxa3 2. Ne3 Rxd8 3. Nc4# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/8/2K2B2/r7/8/8/B7/8 w - - 0 1"]
+
+ 1. Be6+ Kb8 2. Kb6 2... Rh5 $1 3. Be7 $1 3... Ka8 $1 4. Bd6 Rg5 5. Bd7 Rg7 6. Bc6+ Rb7+ 7. Bxb7# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6Bk/3r4/3N3B/7K/8/8/8/8 w - - 0 1"]
+
+ 1. Ne4 $1 1... Rd1 (1... Re7 2. Bd5 (2. Nf6 $2 2... Rf7 3. Bxf7) 2... Re5+ 3. Kg6 Rxd5 4. Bg7+ Kg8 5. Nf6#) (1... Rd4 2. Bh7 (2. Nf6 Rh4+ 3. Kg6 Rxh6+ 4. Kxh6) 2... Kxh7 3. Nf6+ Kh8 4. Kg6) 2. Nf2 (2. Be6 $2 2... Rh1+ 3. Kg6 Rxh6+ 4. Kxh6) 2... Rf1 3. Bd5 Rxf2 4. Kg6 Rf8 5. Bg7# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/N7/K4p2/R3p3/3k1r2 w - - 0 1"]
+
+ 1. Nc3+ Ke1 2. Ne4 Kd1 3. Kb3 e1=Q (3... e1=N 4. Kc3 Nc2 5. Rxc2 Rg1 6. Nf2+ Ke1 7. Nd3+ Kf1 8. Rf2#) 4. Nc3+ Qxc3+ 5. Kxc3 Ke1 (5... Rg1 6. Kd3 Ke1 7. Ke3 Kf1 8. Kxf3 Rg8 9. Ra1#) 6. Kd3 Rf2 7. Ra1# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3R4/8/6r1/4k3/1n6/8/3K1R2 w - - 0 1"]
+
+ 1. Re1+ Kf4 (1... Kf5 2. Kc2 Nc5 3. Rd5+ Kg6 4. Rxg5+ Kxg5 5. Re5+) 2. Kc2 Nc5 3. Rf7+ Kg4 4. Rg1+ Kh5 (4... Kh4 5. Rh7+ Rh5 6. Rh1+) 5. Rh7+ Kg6 6. Rg7+ Kxg7 7. Rxg5+ Kf6 8. Rxc5 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/K7/8/8/5p2/6k1/Q7 w - - 0 1"]
+
+ 1. Qg7+ Kf1 2. Kb5 f2 3. Kc4 Ke2 4. Qg2 Ke1 5. Kc3 $1 5... f1=Q 6. Qd2# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7K/8/8/2p5/1k6/7Q w - - 0 1"]
+
+ 1. Qb7+ $1 1... Kc1 2. Kg5 $1 2... c2 3. Kf4 Kd2 4. Qb2 Kd1 5. Kf3 $1 5... c1=Q 6. Qe2# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2p1Q3/1pP5/1Pp5/2k1K3 w - - 0 1"]
+
+ 1. Qh1 Kb1 2. Kd2+ c1=Q+ 3. Qxc1+ Ka2 4. Qc2 bxc2 5. Kxc2 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5Ppq/5ppk/8/6KB/8/8/8 w - - 0 1"]
+
+ 1. Bg5+ fxg5 2. f8=R (2. f8=Q $2 2... Qg8 3. Qxg8) 2... Qg8 3. Rxg8 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6qk/6p1/8/5NK1/8/3R4/8/8 w - - 0 1"]
+
+ 1. Ne7 Qe6 2. Ng6+ Kg8 3. Rd8+ Kf7 4. Rf8# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K2Q1/Pk6/8/1q6/8/8/8/8 w - - 0 1"]
+
+ 1. a8=Q+ Kxa8 2. Kc7+ Ka7 3. Qa2+ Qa6 4. Qf2+ Ka8 5. Qf8+ Ka7 6. Qb8# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6QB/8/4K3/8/2k5/8/8/1q6 w - - 0 1"]
+
+ 1. Kd7+ Kc5 2. Qc8+ Kd5 3. Qc6# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k3N1/8/6K1/1P6/8/p7/8/8 w - - 0 1"]
+
+ 1. Ne7+ Kd7 2. b6 a2 3. b7 Kc7 4. Nc6 Kxb7 5. Na5+ Kb6 6. Nb3 Kb5 7. Kf5 Kc4 8. Na1 Kc3 9. Ke4 Kb2 10. Kd3 Kxa1 11. Kc2 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/6K1/1p6/8/1N4k1/p7/b7 w - - 0 1"]
+
+ 1. Nc1 b4 (1... Bc3 2. Nxa2 Bd2 3. Kf5 Kf3 4. Ke5 Ke3 5. Kd5 Kd3 6. Kc5) 2. Nxa2 b3 3. Nc1 b2 4. Ne2+ Kf3 5. Nc3 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5pn1/P3b3/8/4K1k1/8/8/8 w - - 0 1"]
+
+ 1. a7 Ne8 2. a8=Q Bd5+ 3. Kxd5 (3. Qxd5 $2 3... Nf6+ 4. Ke5 Nxd5) 3... Nc7+ 4. Ke5 Nxa8 5. Kf6 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/4pp2/3R4/4K3/5n1k w - - 0 1"]
+
+ 1. Rd1 (1. Rd4 $2 1... Kg2 2. Rxe4 Ng3+) 1... Kg2 2. Rxf1 f3+ 3. Ke1 e3 4. Rxf3 Kxf3 5. Kf1 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k2r4/p7/2K5/8/p2N4/P7/b3B3/8 w - - 0 1"]
+
+ 1. Kc7 Rxd4 2. Ba6 Bd5 (2... Rc4+ 3. Bxc4 Bxc4) 3. Bb7+ Bxb7 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/2p5/3r1k2/pK1R4/8 w - - 0 1"]
+
+ 1. Rc2 (1. Rh2 $2 1... c3+ 2. Ka1 Rd1+ 3. Kxa2 Rd2+) 1... Rd2 (1... Ra3 2. Ka1 c3 3. Re2 Kf4 4. Re4+ Kxe4) 2. Ka1 Rd4 3. Kxa2 Ke3 4. Kb2 Rd2 5. Kc3 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K5b1/1P6/8/1k6/8/8/5R2/7q w - - 0 1"]
+
+ 1. Rf1 Qg2 2. Rf2 Qe4 3. Rf4 Qc6 4. Rf6 Be6 5. Rxe6 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7N/8/5Q2/6pq/7k/4p3/5b1K w - - 0 1"]
+
+ 1. Qd3+ g3 2. Qf5+ Qg4 3. Ng5+ Kh4 4. Nf3+ Qxf3+ 5. Qxf3 Bg2+ 6. Kg1 Bxf3 1/2-1/2  
+
+[Event "ts23 {pl} {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5N2/8/8/2p1k3/5p1p/7P/7K w - - 0 1"]
+
+ 1. Nd6+ Kd3 2. Nxc4 Ke2 3. Ne5 $1 3... f2 4. Nf3 f1=Q+ (4... Ke3 5. Nd2 $1 5... Kxd2 (5... Ke2 6. Nf1 Kxf1)) 5. Ng1+ Ke1 1/2-1/2  
+
+[Event "ts95 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R2K3/bnk5/8/8/8/3N4/8/1B6 w - - 0 1"]
+
+ 1. Ra8 Nd6+ 2. Ke7 Nc8+ 3. Ke6 Kb7 4. Nb4 Kxa8 5. Be4+ Kb8 6. Na6# 1-0  
+
+[Event "ts95 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1B5/8/P7/3KB1r1/8/8/8/8 w - - 0 1"]
+
+ 1. Kc6 Ka7 (1... Rxe5 2. Kb6 Re2 3. Bb7+ Kb8 4. a7#) 2. Bd4+ Kb8 (2... Ka8 3. Bb7+ Kb8 4. a7#) 3. a7+ Ka8 4. Bb7# 1-0  
+
+[Event "ts95 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2R2nBk/6pN/6p1/4r3/2b1N2K/8/8/8 w - - 0 1"]
+
+ 1. Neg5 $1 1... Rxg5 $1 2. Nxg5 Bxg8 3. Rd8 Nh7 4. Nf7# 1-0  
+
+[Event "ts95 @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6kr/8/8/6K1/6N1/8/6R1/8 w - - 0 1"]
+
+ 1. Kf6 Rh5 (1... Rh7 2. Nh6+ Kf8 3. Rg8#) (1... Rh4 2. Ne5+ Kh7 3. Rg7+ Kh6 4. Nf7+ Kh5 5. Rg5#) 2. Ke6 $3 (2. Nh6+ $2 2... Kh7 3. Nf7 (3. Nf5 $1 3... Rh1 4. Kf7) 3... Rf5+ 4. Kxf5) 2... Kh8 3. Kf7 Rh7+ 4. Kf8 Ra7 5. Rh2+ Rh7 6. Nh6 Ra7 (6... Rxh6 7. Rxh6#) 7. Nf7# 1-0  
+
+[Event "tu12 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n7/8/pknP4/8/P7/KNB5/8/8 w - - 0 1"]
+
+ 1. a5+ Ka7 2. Bf6 Kb8 3. Nd4 Nxa5 4. d7 Nb7 5. Ne6 Nb6 6. Be5+ Ka7 7. Bd4 a5 8. Nc7 1-0  
+
+[Event "tu12 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2B4p/1R6/q5k1/1p2n3/7P/2Kn2BR w - - 0 1"]
+
+ 1. Rg5+ hxg5 2. Bxa4 b2+ 3. Kb1 Nc3+ 4. Kxb2 Nxa4+ 5. Kb3 Nc5+ 6. Kb4 Nd3+ 7. Kc3 Kf3 8. Bxe3 Kxe3 9. h4 g4 10. h5 Nf4 11. h6 g3 12. h7 Ng6 13. Rh6 Nh8 14. Re6+ Kf2 15. Re8 g2 16. Rf8+ Ke3 17. Rg8 Kf2 18. Kd4 g1=Q 19. Rxg1 Kxg1 20. Ke5 1-0  
+
+[Event "tu12 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3Pk3/2P4K/8/6p1/5n2/8/8 w - - 0 1"]
+
+ 1. Kh5 g3 2. Kg4 g2 3. Kh3 g1=Q 4. d8=Q+ Kxd8 5. c7+ Ke7 6. c8=Q Ng5+ 7. Kh4 Nf3+ 8. Kh3 Qh2+ 9. Kg4 Ne5+ 10. Kg5 Qg3+ 11. Kh5 Qh2+ 12. Kg5 Nf7+ 13. Kg4 Ne5+ 14. Kg5 1/2-1/2  
+
+[Event "tu12 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/5n1N/8/4p3/4kp2/4n1B1/7K w - - 0 1"]
+
+ 1. Ng4+ Nxg4 2. Bxf3 Ng3+ (2... exf3) (2... Kxf3) 3. Kg1 Ne2+ (3... exf3) (3... Kxf3) 4. Kh1 Nf2+ 5. Kh2 Kxf3 (5... exf3) 1/2-1/2  
+
+[Event "tu12 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/5p1q/5P2/4pP2/6N1/4BPKn/8/8 w - - 0 1"]
+
+ 1. Nh6 Nf4 2. Bxf4 exf4+ 3. Kg4 Qxh6 1/2-1/2  
+
+[Event "tu12 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3P4/5kp1/4p3/3q1P2/7P/4K1pQ/5rR1 w - - 0 1"]
+
+ 1. d8=Q+ Qxd8 2. fxe5+ Ke6 3. Rxf1 Qd2+ 4. Kxd2 gxf1=N+ 5. Ke2 Nxh2 6. Kf2 Kxe5 7. Kg2 Kf4 8. Kxh2 Kf3 9. h4 Kg4 10. h5 Kxh5 11. Kh3 1/2-1/2  
+
+[Event "tu12 @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k2/5B1b/6P1/5r2/6pK/1p4P1/1p1B4/8 w - - 0 1"]
+
+ 1. Bb4+ Kg7 2. Bc3+ Kh6 3. Bd2+ Rg5 4. Bxg5+ Kg7 5. Bh6+ (5. Be3 $1 5... b1=Q 6. Bd4+ Kf8 7. Bc5+) 5... Kxh6 6. gxh7 Kxh7 7. Be6 Kg6 (7... b1=Q 8. Bf5+ Qxf5) 8. Bd5 Kf5 9. Bg8 Kg6 10. Bd5 b1=Q 11. Be4+ Qxe4 1/2-1/2  
+
+[Event "tu12 @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1Nk1B3/2Pn4/6K1/3b4/8/8/8/1N6 w - - 0 1"]
+
+ 1. Nc3 Kxc7 (1... Nb6 $1 2. Nd7 Be4+ 3. Nxe4 Nxd7) 2. Nxd5+ Kd8 3. Nc6+ Kxe8 4. Kg7 Nc5 5. Nf6# 1-0  
+
+[Event "tu12 @3 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/r7/6K1/5N2/3R4/8/8/8 w - - 0 1"]
+
+ 1. Nd6+ Kf8 (1... Kd8 $1) 2. Rf4+ Kg8 3. Ne8 Ra6+ 4. Nf6+ Kf8 5. Re4 Re6 6. Rd4 Ke7 7. Rd7+ Kf8 8. Rf7# 1-0  
+
+[Event "tv28 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1R6/8/5K2/8/3p1N2/5r2/7k w - - 0 1"]
+
+ 1. Kf4 d2 (1... Kg2 2. Rg7+ Kh1 (2... Kf1 3. Rg1+ Ke2 4. Re1#) 3. Rg1#) (1... Rf1 2. Rh7+ Kg2 3. Rh2#) 2. Rb1+ d1=Q 3. Rxd1+ Kg2 4. Rg1+ Kh3 5. Rg3# 1-0  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2K5/8/n7/1p3N2/kB6/3N4 w - - 0 1"]
+
+ 1. Nd2 Nxb2 2. Nc3+ Ka3 3. Kb5 Nd3 4. Nc4# 1-0  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/8/1bK5/k7/3B4/1P6/8 w - - 0 1"]
+
+ 1. Bc2+ Ka5 2. b4+ Ka6 3. Bf5 Bc6 4. Bc8+ (4. Kxc6 $2) 4... Bb7 5. b5+ (5. Bd7 $2 5... Bc6) 1-0  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2K5/8/8/Rn6/pk6/p1N5/3N4 w - - 0 1"]
+
+ 1. Nd4+ Kxa4 2. Nc3+ Ka5 3. Kb7 a1=N 4. Ka7 a2 5. Kb7 Nac2 (5... Nd5 6. Nc6#) 6. Nb3# 1-0  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/R7/7P/7K/b7/8/5kp1/8 w - - 0 1"]
+
+ 1. Rf7+ Kg3 2. Rg7+ Kh3 3. h7 Bd1+ 4. Kh6 Bg4 5. Rxg4 Kxg4 6. h8=Q g1=Q 7. Qg7+ 1-0  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/7p/7k/5K1p/7N/6Br w - - 0 1"]
+
+ 1. Kf4 Rxh2 (1... Rxg1 2. Nf3#) 2. Bd4 Rg2 3. Bf6+ Rg5 4. Bxg5# 1-0  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K2R2/8/4r3/1P6/2k5/8/8/2N5 w - - 0 1"]
+
+ 1. Ne2 Rb6 2. Rf4+ Kxb5 3. Nc3+ Ka6 (3... Kc6 4. Rf6+ Kc5 5. Na4+) 4. Ra4# 1-0  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r7/8/2kP2K1/8/N7/4R3/8/8 w - - 0 1"]
+
+ 1. d7 Rd8 2. Rc3+ Kxd7 3. Nc5+ Ke7 4. Re3+ 1-0  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/k2N4/8/rp6/2p5/8/1R1p4/3K4 w - - 0 1"]
+
+ 1. Nc7 Ra1+ 2. Kxd2 c3+ 3. Kxc3 Rc1+ 4. Kd4 (4. Rc2 $2 4... Rxc2+) 4... Rd1+ ( 4... Rxc7 5. Ra2+ Kb7 6. Nc5+ Kb8 (6... Kb6 7. Ra6#) 7. Na6+) 5. Kc5 Rxd7 6. Kc6 Rh7 7. Ra2+ 1-0  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2RK4/6b1/6b1/1k1n4/8/8/2P5/8 w - - 0 1"]
+
+ 1. c4+ Kb6 2. cxd5 Bf6+ 3. Kd7 Bf5+ 4. Kd6 Bxc8 1/2-1/2  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r7/P4n2/8/1K6/8/2k4n/1N6/8 w - - 0 1"]
+
+ 1. Ka6 Nd8 2. Na4+ Kb4 3. Nb6 Nf4 4. Nxa8 Nd5 5. Nc7 (5. Nb6 $2 5... Nc7#) 1/2-1/2  
+
+[Event "tz05 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6br/P7/8/8/2pk4/8/B7/1KB5 w - - 0 1"]
+
+ 1. Bb2+ c3 2. Bxc3+ Kxc3 3. a8=Q Bh7+ (3... Bxa2+ 4. Ka1 (4. Qxa2 Rh1#) (4. Kxa2 Rxa8+) 4... Rxa8) 4. Ka1 Rxa8 1/2-1/2  
+
+[Event "tz05 @2 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/K7/N7/1k6/8/5B2/p7/8 w - - 0 1"]
+
+ 1. Bc6+ Ka5 (1... Kxc6 2. Nb4+) (1... Kc4 2. Bd5+ Kxd5 3. Nb4+) 2. Nc7 (2. Nc5 $1 2... Kb4 3. Nb3 Kxb3 4. Bd5+) 2... a1=Q 3. Nd5 1/2-1/2  
+
+[Event "tz27 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K3p2/8/8/7P/8/8/7k w - - 0 1"]
+
+ 1. h5 (1. Kc6 $2 1... f5 2. Kd5 2... Kg2 $1 3. Ke5 3... Kg3 $1 4. h5 f4) 1... f5 2. h6 f4 3. h7 f3 4. h8=Q+ Kg1 5. Qg8+ $3 (5. Qg7+ $2 5... Kf1 $1 6. Qa1+ Kg2 7. Qg7+ 7... Kf1 $1) 5... Kf1 6. Qc4+ $1 1-0  
+
+[Event "us72 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3q4/8/8/8/6k1/R7/4Rn1K w - - 0 1"]
+
+ 1. Rg2+ Kh3 2. Rxf1 Qb7 3. Rff2 Qb1+ 4. Rg1 Qe4+ 5. Rgg2 Qe1+ 6. Rg1 Qxf2 7. Rg3+ Kxg3 1/2-1/2  
+
+[Event "us72 {m}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7R/8/4k3/8/1q6/6r1/2R4K w - - 0 1"]
+
+ 1. Rh5+ Kf4 2. Rf1+ Kg4 3. Rff5 Ra2 4. Rhg5+ Kh4 5. Rh5+ Kg3 6. Rhg5+ 1/2-1/2  
+
+[Event "2 Commendation jb04 ts27 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5k1K/5p2/5B2/6PP/3n3n/5b2/8 w - - 0 1"]
+
+ 1. g5 fxg5 2. hxg5 Nxg5+ 3. Kh6 Be3 4. Bg6+ Kg8 5. Bxd3 Ne6+ 6. Kg6 Nf4+ 7. Kf5 Nxd3 8. Ke4 1/2-1/2  
+
+[Event "4 Prize jf01 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4r1Br/2k5/8/4n2N/4K1N1/8/8/8 w - - 0 1"]
+
+ 1. Ngf6 (1. Nhf6 $2 1... Rexg8 2. Nxg8 Nxg4) 1... Rhxg8 (1... Rexg8 2. Nxg8 Rxg8 3. Nf6 Rg5 4. Nh7 Rh5 5. Nf6 Rg5 6. Nh7 Rg7 7. Nf6 Rg5 8. Nh7) 2. Nxe8+ ( 2. Nxg8 $2 2... Nd7+) 2... Rxe8 3. Nf6 Re6 4. Kf5 Kd6 5. Ne4+ Ke7 6. Ng5 Rg6 7. Ne4 Re6 8. Ng5 1/2-1/2  
+
+[Event "jf01 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3r4/P7/5N2/8/1K6/1P6/3k4 w - - 0 1"]
+
+ 1. Ka4 (1. Kc4 $2 1... Ra7 $1 2. Kb5 Kc2 3. b4 Kc3 4. Kb6 Rxa6+) 1... Kc2 (1... Ra7 2. Ka5 $1 2... Kc2 3. b4) 2. b4 2... Kc3 $1 3. b5 3... Kc4 $1 4. b6 (4. Ka5 $2 4... Kc5 $1) 4... Kc5 $1 5. b7 (5. a7 $2 5... Kxb6 6. a8=Q Ra7+) 5... Rd1 6. Nd6 $3 6... Ra1+ 7. Kb3 Rxa6 8. Nc4 $3 (8. b8=Q $2 8... Rb6+) (8. Nc8 $2 8... Ra1 9. Kc2 Ra2+ 10. Kc3 Ra3+) 1-0  
+
+[Event "jf01 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3R4/8/8/2K5/2p5/2nN4/kr6 w - - 0 1"]
+
+ 1. Ra7+ (1. Nxb1 $2 1... Kxb1 2. Kxc3 Kc1 3. Re7 Kd1 4. Rd7+ Kc1) 1... Kb2 2. Rb7+ (2. Nxb1 $2 2... Ne3+ 3. Kd3 3... c2 $1) 2... Ka2 3. Nxb1 3... Na3+ $1 4. Nxa3 (4. Kxc3 Nxb1+ 5. Kc2 Na3+ 6. Kc3 Nb1+) 4... c2 $1 5. Nb5 $1 (5. Nxc2 $2) 5... c1=Q+ 6. Nc3+ Ka1 7. Ra7+ Kb2 8. Ra2# 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kB6/8/1PK5/8/8/8/8/8 b - - 0 1"]
+
+ 1... Kxb8 2. b7 Ka7 3. Kc7 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3k3P/2b5/8/6N1/3K4 w - - 0 1"]
+
+ 1. h6 Bd3 2. Nf4+ Ke5 3. Nxd3+ Kf6 4. Ne5 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7K/8/7R/8/6p1/5k1N w - - 0 1"]
+
+ 1. Ng3+ Kf2 2. Ne4+ Kf3 (2... Kf1 3. Rf4+ Ke1 4. Ng5 g1=Q 5. Nf3+) 3. Ng5+ Kg3 4. Kh5 g1=Q 5. Rg4+ Kf2 (5... Kh2 6. Nf3+) 6. Nh3+ 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k2r4/8/1RK5/8/8/8/8/1n6 w - - 0 1"]
+
+ 1. Kc7 Rd7+ 2. Kxd7 Nc3 3. Kc6 Ka7 4. Rb3 Ne2 5. Rb4 Ng3 6. Rb7+ 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/4R3/1K6/8/1B1r4/8/8 w - - 0 1"]
+
+ 1. Bd5+ Rxd5+ (1... Ka7 2. Re7+ Kb8 3. Kb6 Kc8 4. Re8+ Kd7 5. Bc6+ Kd6 6. Rd8+) 2. Kb6 Rd8 3. Kc7 Rd2 4. Ra6# 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1b6/7n/4P3/8/7K/5k2/8/8 w - - 0 1"]
+
+ 1. e7 (1. Kh5 $2 1... Nf6+) 1... Bd6 2. e8=N (2. e8=Q $2 2... Bg3+ 3. Kh5 Nf6+ 4. Kg5 Nxe8) 2... Be5 3. Kh5 1/2-1/2  
+
+[Event "o000 {tw} {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6r1/2k5/8/4n2N/4K3/8/8/8 w - - 0 1"]
+
+ 1. Nf6 Rg5 2. Nh7 Rh5 3. Nf6 Rg5 4. Nh7 Rg7 5. Nf6 Re7 6. Nd5+ 1/2-1/2  
+
+[Event "o000 {tw} {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4r3/2k5/8/4n2N/4K3/8/8/8 w - - 0 1"]
+
+ 1. Nf6 Re6 2. Kf5 Kd6 3. Ne4+ Ke7 4. Ng5 Rg6 5. Ne4 Re6 6. Ng5 1/2-1/2  
+
+[Event "sp Honorable Mention jg02 ts38 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4K3/8/5PP1/4n3/4r2k/8/8/8 w - - 0 1"]
+
+ 1. g7 Ng4+ 2. Kf7 Kh5 (2... Nh6+ 3. Kg6) (2... Rf4 3. g8=Q Nh6+ 4. Kg7 Nxg8 5. f7 Rg4+ 6. Kh7 (6. Kh8 $2 6... Ne7) 6... Nf6+ 7. Kh6 (7. Kh8 $2 7... Kg5 8. f8=Q Rh4+ 9. Kg7 Rh7#) 7... Nd7 8. f8=Q Nxf8) 3. g8=Q Nh6+ 4. Kf8 Nxg8 5. Kxg8 Rg4+ 6. Kh7 Rf4 7. Kg7 Rg4+ 8. Kh7 1/2-1/2  
+
+[Event "tc13 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7r/8/6p1/6Pk/8/1N3RK1/8/8 w - - 0 1"]
+
+ 1. Nd4 Kxg5 2. Ne6+ Kh6 3. Kg4 Kh7 4. Rf7+ Kg8 (4... Kh6 5. Ng5 Rg8 6. Rh7#) 5. Rg7# 1-0  
+
+[Event "tk06 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B1K1/8/2N4k/8/2p3P1/1P6/6p1/8 w - - 0 1"]
+
+ 1. Ne5 g1=Q (1... cxb3 2. Nf3 b2 3. g5#) 2. Bh5 Qa7 (2... cxb3 3. Nf7#) 3. Nf7+ Qxf7+ 4. Kxf7 cxb3 5. Kf6 b2 6. Bg6 b1=Q 7. g5# 1-0  
+
+[Event "tk20 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1NK4/rp6/n7/8/8/8/8/8 w - - 0 1"]
+
+ 1. Nb6+ Kb8 2. Nd7+ Ka8 3. Kc8 b6 4. Nxb6# 1-0  
+
+[Event "tk21 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "rn6/k7/NN6/1K6/8/8/8/8 w - - 0 1"]
+
+ 1. Nc8+ Kb7 2. Nd6+ Ka7 3. Nb4 Nd7 4. Nc6# 1-0  
+
+[Event "tk25 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kb6/3N4/B7/K7/8/8/8/8 w - - 0 1"]
+
+ 1. Nb6+ Ka7 2. Nc8+ Ka8 3. Ne7 Bc7+ 4. Kb5 Kb8 5. Nc6+ Ka8 6. Bc8 Bb6 7. Ka6 Bc5 8. Bb7# 1-0  
+
+[Event "tk25 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1Q6/1K6/8/8/8/5p2/8/7k w - - 0 1"]
+
+ 1. Qh8+ (1. Qf4 $2 1... f2 2. Qxf2) 1... Kg1 2. Qg8+ (2. Qa1+ $2 2... Kg2 3. Qg7+ Kf1 4. Kc6 f2 5. Kd5 Ke2 6. Qg4+ Ke1 7. Qg3 Ke2 8. Qh2 8... Kf3 $1) 2... Kf1 3. Qc4+ $1 1-0  
+
+[Event "tk25 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/1R6/R7/5q2/4p2K/4rk1N w - - 0 1"]
+
+ 1. Rg5 $1 1... Qxh1+ 2. Kxh1 Kf2+ 3. Kh2 Rh1+ 4. Kxh1 e1=Q+ 5. Kh2 Qe6 6. Rg2+ Ke3 7. Rg3+ Kd2 8. Ra2+ Ke1 9. Rg1# 1-0  
+
+[Event "tm16 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5nR1/4KN1k/8/7P/B2b4/8/2p5/8 w - - 0 1"]
+
+ 1. Rh8+ Bxh8 2. Bxc2+ Kg7 3. h6+ Kg8 4. Ng5 Bg7 5. h7+ Kh8 (5... Nxh7 6. Bb3+ Kh8 7. Nf7+ Kg8 8. Ne5+ Kh8 9. Ng6#) 6. Nf7# 1-0  
+
+[Event "tm16 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/p7/K7/3k4/1R2b3/N1B5/r1p5/8 w - - 0 1"]
+
+ 1. Bb2 $1 1... Rxb2 2. Nxc2 $1 2... Ra2+ 3. Ra4 $1 3... Rxa4+ 4. Kb5 Bxc2 (4... Rc4 5. Ne3+ Kd4 6. Nxc4 Bd3 7. Ka6) 1/2-1/2  
+
+[Event "tm34 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k2N4/p7/2K5/8/8/8/2n1B3/8 w - - 0 1"]
+
+ 1. Kc7 Nd4 2. Ba6 Ne6+ 3. Kd7 Nxd8 (3... Nc5+ 4. Kc8 Nxa6 5. Ne6 Nc5 6. Nc7#) 4. Kc8 Nc6 5. Bb7# 1-0  
+
+[Event "tm34 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/5r2/7b/4K3/4N3/8/8/3R4 w - - 0 1"]
+
+ 1. Nf6+ Ke7 (1... Rxf6 2. Kxf6 Bf8 3. Ke6 Bg7 4. Rd7 Kf8 5. Rd8#) 2. Rd7+ Kf8 3. Rd8+ Kg7 (3... Ke7 4. Re8#) 4. Rg8# 1-0  
+
+[Event "tn11 @2 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/3K4/N4b1B/8/8/8/8 w - - 0 1"]
+
+ 1. Bf3+ Ka7 2. Kc7 Bh3 (2... Ka6 3. Nc6) 3. Nc6+ $1 (3. Bb7 $1 3... Bd7 4. Nc4 $1 (4. Kxd7 $2 4... Kb6) 4... Bb5 5. Nd6 Bd7 6. Kxd7) 3... Ka8 4. Nd8+ $1 (4. Ne5+ $2 4... Ka7 5. Bb7 Bd7 6. Nxd7) 4... Ka7 5. Bb7 Be6 6. Nc6# 1-0  
+
+[Event "tr50 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/3qbP1k/7B/6PK/8/8/8/8 w - - 0 1"]
+
+ 1. g6+ Kh8 2. g7+ Kh7 3. f8=N+ Bxf8 4. gxf8=N+ Kh8 5. Nxd7 Bf7+ 6. Kg5 Kg8 7. Nf6+ Kh8 8. Bf8 Bg6 9. Kh6 Bf5 10. Bg7# 1-0  
+
+[Event "ts21#72 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3q1NpQ/2nN4/8/4Kp1p/7k w - - 0 1"]
+
+ 1. Qh3 $1 1... Qg2 $1 2. Ng3+ Kg1 3. Nf3+ Qxf3+ 4. Kxf3 4... g4+ $3 (4... Nd2+ 5. Ke2 f1=Q+ 6. Nxf1 h1=Q 7. Qe3+ Kg2 8. Qg3#) 5. Kxg4 Ne3+ (5... Nd2 6. Ne2+ Kh1 7. Kg3 Ne4+ 8. Kf4 Nd2 9. Ke3 f1=Q 10. Qxf1+ Nxf1+ 11. Kf2 Ne3 12. Ng3#) 6. Kf3 f1=Q+ 7. Qxf1+ $1 7... Nxf1 8. Ne2+ Kh1 9. Kf2 Ne3 10. Ng3# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/K7/8/2P5/5n2/P6k/8 w - - 0 1"]
+
+ 1. Kb7 (1. a4 $2 1... Nd2 2. Kb5 Nb3 3. Kb4 Nd4 4. Kc5 Nb3+) 1... Nd2 2. c5 Ne4 3. c6 (3. Kc6 $2 3... Nc3 4. a3 Kg3) 3... Nc3 4. a3 (4. Kxc7 $2 4... Nxa2 5. Kd7 Nc3 6. c7 Nd5 7. c8=Q Nb6+) 4... Nd5 (4... Kg3 5. Kxc7 Nb5+ 6. Kb8 Nxa3 7. c7) 5. a4 Kg3 6. a5 Kf4 7. a6 Ke5 8. a7 Nb6 9. Kxc7 (9. a8=Q $2 9... Nxa8 10. Kxa8 Kd5 11. Kb7 Kd6) 9... Na8+ 10. Kd7 Nb6+ 11. Kd8 Kd6 12. c7 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5p2/3P1P2/6K1/8/1k1p3P/1n6/8 w - - 0 1"]
+
+ 1. d7 d2 2. d8=Q d1=Q 3. Qxd1+ Nxd1 4. Kh6 Nf2 5. h4 Ng4+ 6. Kg7 Ne5 7. h5 Kc4 8. h6 Kd5 9. h7 Ng6 10. Kxf7 Nh8+ 11. Ke7 Ng6+ 12. Ke8 Ke6 13. f7 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4KBPP/7k/8/8/4p3/8 w - - 0 1"]
+
+ 1. Kf7 (1. Bc3 $2 1... Kxg6 2. Bd2 e1=Q+ 3. Bxe1 Kxh6) (1. h7 $2 1... Kxg6 $1 2. h8=N+ $1 2... Kh7 3. Bc3 e1=Q+ 4. Bxe1 Kxh8) 1... e1=Q 2. h7 2... Qe6+ $1 3. Kxe6 Kxg6 4. h8=N+ $1 (4. h8=Q $2) 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/6Np/5K2/8/b2N3k w - - 0 1"]
+
+ 1. Kf2 Bd4+ (1... Bg7 2. Kf1 Bd4 3. Ndf2+ Bxf2 4. Kxf2 h3 5. Kf1 h2 6. Nf2#) 2. Kf1 h3 3. Ndf2+ Bxf2 4. Nxf2+ Kh2 5. Ne4 Kh1 6. Kf2 Kh2 7. Nd2 Kh1 8. Nf1 h2 9. Ng3# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5b2/7k/5P2/8/6P1/5K1B/8/8 w - - 0 1"]
+
+ 1. g5 Kg6 2. Kg4 (2. Kf4 Bd6+ 3. Kg4 Be5) 2... Bh6 3. gxh6 Kxf6 4. Kh5 Kf7 5. Be6+ 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6bN/3N3k/8/8/7B/7K/8/8 w - - 0 1"]
+
+ 1. Nf8+ Kg7 2. Be7 Kxh8 3. Bf6# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/8/2K5/kpBn4/bN6 w - - 0 1"]
+
+ 1. Kb4 Ne4 (1... Nxb1 2. Bb3#) 2. Bd3 $1 (2. Ka4 $2 2... Nc5+ 3. Kb4 3... Nd3+ $1 4. Ka4 Nc5+ 5. Kb4 Nd3+ 6. Bxd3) 2... Nf2 3. Nc3# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3k4/B6K/3N4/8/8/8/3rB3 w - - 0 1"]
+
+ 1. Nf6+ Ke7 2. Ng8+ Kf8 3. Bb4+ $1 3... Kxg8 4. Bc4+ Kh8 5. Bc3+ Rd4 6. Bxd4# 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4k3/2p2p2/2P2P2/r7/2R5/3K4/4p3/8 w - - 0 1"]
+
+ 1. Rh4 e1=N+ 2. Ke2 Re5+ 3. Kd1 Kd8 4. Ra4 Rd5+ 5. Kxe1 Ke8 6. Rh4 Re5+ 7. Kd2 Kd8 8. Ra4 Rd5+ 9. Ke3 Ke8 10. Rh4 Re5+ 11. Kd4 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P2K4/8/3k4/8/5N2/q7/3B4 w - - 0 1"]
+
+ 1. Bb3+ Qxb3 2. a8=Q+ Kc5 3. Qf8+ Kb6 4. Qb8+ Kc5 5. Qd6+ Kb5 6. Nd4+ 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/2q5/6P1/7N/8/8/5R2/7K w - - 0 1"]
+
+ 1. Nf6+ Kh8 2. g7+ (2. Rh2+ $2 2... Qxh2+ 3. Kxh2 Kg7) 2... Kxg7 (2... Qxg7 3. Rh2+) 3. Ne8+ 1-0  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/2k5/8/6R1/n7/2b4b/2K5 w - - 0 1"]
+
+ 1. Rg2 Bf4+ 2. Kb2 Nc4+ 3. Kc3 Be4 4. Rg4 Ne3 5. Rxf4 Nd5+ 6. Kd4 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/P6K/4k3/8/5P2/8/b7/r7 w - - 0 1"]
+
+ 1. f5+ Kf6 2. a8=Q Bg8+ 3. Kh8 Rxa8 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/8/8/2P5/8/8/6kq/8 w - - 0 1"]
+
+ 1. c6 Qh8+ 2. Kb7 Qb2+ 3. Kc8 Kf3 4. c7 Ke4 5. Kd7 Qb5+ 6. Kd8 (6. Kc8 $2 6... Kd5) 6... Qb6 7. Kd7 Qa7 8. Kc6 (8. Kd8 $2 8... Kd5 9. c8=Q Kd6) 1/2-1/2  
+
+[Event "ts23 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5p2/3nr3/8/8/1k6/3K4/2Q4q w - - 0 1"]
+
+ 1. Qb1+ (1. Qxh1 $2 1... Ne4+ 2. Kc1 Rc6+ 3. Kb1 Nd2+ 4. Ka1 Ra6#) 1... Ka3 ( 1... Qxb1) 2. Qxh1 Ne4+ 3. Kc2 Rc6+ 4. Kb1 Nd2+ 5. Ka1 Nb3+ 6. Kb1 Rc1+ 7. Qxc1+ Nxc1 8. Kxc1 Kb3 9. Kd2 Kc4 10. Ke3 Kd5 11. Kf4 Ke6 12. Ke4 1/2-1/2  
+
+[Event "ts23 @2 @3 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/7k/4B3/8/3K1n1p/7n w - - 0 1"]
+
+ 1. Bf3+ Kh4 (1... Kg5 2. Ke2 Kf4 3. Bg2 Ne4 4. Bxh1 Ng3+ 5. Kf2 Nxh1+ 6. Kg2) 2. Ke2 (2. Ke1 $1 2... Kg3 3. Ke2 Kf4 4. Bg2) 2... Kh3 (2... Kg3 $1 3. Bc6 Kh3 4. Kf1 (4. Ke1 Nd3+ 5. Ke2 Nhf2) (4. Bd7+ Ng4) (4. Bf3 Ne4) 4... Ne4 $1 5. Bxe4 Ng3+) 3. Kf1 (3. Bc6 $2 3... Ne4 4. Bxe4 Ng3+) 3... Ne4 4. Bg2+ 1/2-1/2  
+
+[Event "ts23 @3 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2kB4/8/6rN/3K4/B7/8/8/8 w - - 0 1"]
+
+ 1. Nf7 Rg4 (1... Rg7 2. Ng5 Kxd8 (2... Ra7 $1) 3. Ne6+) 2. Bc6 Rf4 3. Ng5 Rf5+ 4. Ke4 (4. Ke6 $2 4... Rc5 5. Kd6 Rxc6+) 4... Rc5 5. Ba8 Rc4+ 6. Kd5 Ra4 7. Bc6 1-0  
+
+[Event "ts23 @3 {m}"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pogosjants E"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5k2/r7/3N2K1/8/3R4/8/8/8 w - - 0 1"]
+
+ 1. Rf4+ Kg8 2. Ne8 Ra6+ (2... Ra1 $1) (2... Rb7 $1 3. Nf6+ Kf8 4. Re4 Rg7+) 3. Nf6+ Kf8 4. Re4 Re6 5. Rd4 Ke7 (5... Ra6 6. Rd7 Ra7 7. Nh7+) 6. Rd7+ Kf8 7. Rf7# 1-0  
+

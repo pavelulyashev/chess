@@ -1,0 +1,1100 @@
+[Event "tn24 @2 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/7b/8/5pK1/5P2/8/6N1/8 w - - 0 1"]
+
+ 1. Kh6 Kh8 2. Nh4 Kg8 3. Nf3 Kh8 4. Ne5 Kg8 5. Nc6 (5. Nd7 $1 5... Kh8 6. Nf8 Bg8 7. Ng6#) 5... Kh8 6. Ne7 Bg8 7. Ng6# 1-0  
+
+[Event "tn24 @3 @2 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N6/2p1p3/5p1p/Pp2k2q/1P5b/3B1P2/3RK3 w - - 0 1"]
+
+ 1. Bg5 $1 1... Qxg5 (1... Qg4 2. Nd6+ Ke5 3. Nc4+ Ke4 4. f3+ Qxf3 (4... Kxf3 5. Ne5+) 5. Nd2+) 2. Nc5+ (2. Nd6+ $1) 2... Ke5 (2... Kf3 $1 3. Rd3+ Kg2 4. Rg3+ Qxg3 5. fxg3 5... f4 $1 6. gxf4 6... Bf5 $1 7. a5 h4 8. a6 h3 9. a7 h2 10. a8=Q h1=Q+ 11. Kd2 (11. Ke2 Qf1+ 12. Kd2 Qf2+ 13. Kd1 Qc2+) 11... Qh2 $1 12. Ne4 Kf3+ 13. Kd3 Bxe4+ 14. Kd4 c5+) 3. f4+ Kxf4 (3... Qxf4 4. Nd3+) 4. Nxe6+ 1-0  
+
+[Event "tn24 {c} {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N6/8/7b/1P2k2q/1P5p/3B1P1P/3RK3 w - - 0 1"]
+
+ 1. Bg5 $1 1... Qg4 (1... Qxg5 2. Nc5+ Ke5 (2... Kf5 3. Rd5+) (2... Kf3 3. Rd3+ Kg2 4. Rg3+ Qxg3 5. fxg3 Kxh2 6. Kf2) 3. f4+ $1 3... Kxf4 (3... Qxf4 4. Nd3+) 4. Ne6+) 2. Nd6+ $1 (2. Nc5+ $2 2... Kf5) 2... Ke5 3. Nc4+ Ke4 (3... Kf5 4. Ne3+) (3... Ke6 4. Rd6+ Kf7 5. Ne5+) 4. f3+ $1 4... Qxf3 (4... Kxf3 5. Ne5+) 5. Nd2+ 1-0  
+
+[Event "tn24 {m} {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2q5/7n/p6p/3N2kp/2P1p3/6P1/R1P1P2P/6K1 w - - 0 1"]
+
+ 1. h4+ Kg4 2. Kg2 Qc5 3. Ra5 $1 3... Qa7 (3... Qd4 4. c3) 4. Rxa6 Qc5 5. Ra5 $1 5... Qd4 6. c3 Qd2 7. Ra2 $1 7... Qc1 8. Rc2 $1 8... Qxc2 9. Ne3# 1-0  
+
+[Event "tn24 {m} @2 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/Bp3p2/1PP2k2/8/p1PPK3/8 w - - 0 1"]
+
+ 1. Bc7+ Ke4 2. d3+ Kd4 3. Bd6 (3. c3+ $1 3... Kxc3 4. Be5+) 3... a1=Q 4. Bf8 Qa7 5. Bc5+ Qxc5 6. bxc5 Kxc5 7. cxb5 1-0  
+
+[Event "tn24 {m} @3 @2 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7p/8/3p1p2/1P3k2/pP6/3P1P2/4K1B1 w - - 0 1"]
+
+ 1. Ke2 (1. Bh2+ $2 1... Ke4 2. Ke2 (2. f3+ 2... Kd3 $1) (2. d3+ Kxd3) 2... f4 $1) (1. d3 $2 1... Kf3) (1. f3 $2 1... Ke5) 1... a2 2. Bh2+ Ke4 3. f3+ Kd4 4. Bf4 (4. Bg1+ $1 4... Ke5 5. f4+ Kxf4 6. Bd4 Ke4 7. Ba1 d4 8. d3+ Kd5 9. Kf3 h5 10. Kg3) 4... a1=Q 5. Bh6 Qg1 (5... Qa6+ $1) 6. Be3+ Qxe3+ 7. dxe3+ Ke5 8. f4+ $1 8... Kd6 9. Kf3 Kc6 10. Kg3 Kb5 11. Kh4 Kxb4 (11... h6 12. Kh5) 12. Kg5 Kxb3 13. Kxf5 Kc4 14. Ke5 h5 15. f5 h4 16. Kf4 1-0  
+
+[Event "tn24#0761 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/1p5p/3b4/8/3K2NB/8/8/8 w - - 0 1"]
+
+ 1. Nh6 Bf8 2. Bf6+ Bg7 3. Ke5 b5 4. Ke6 b4 5. Kf7 Bxf6 6. Kxf6 b3 7. Kf7 b2 8. Kf8 b1=Q 9. Nf7# 1-0  
+
+[Event "tn24#0761 {v} {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/7p/2pb4/8/3K2NB/8/8/8 w - - 0 1"]
+
+ 1. Nh6 c5+ (1... Kg7 2. Nf5+) (1... Bf8 2. Bf6+ Bg7 3. Ke5) 2. Kd5 Bf8 3. Bf6+ Bg7 4. Ke6 c4 5. Kf7 Bxf6 6. Kxf6 c3 7. Kf7 c2 8. Kf8 c1=Q 9. Nf7# 1-0  
+
+[Event "tn24#0773 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k2n3/2r1N3/2P5/2nN4/4R3/8/5K2/8 w - - 0 1"]
+
+ 1. Rb4+ Rb7 (1... Ka7 2. Ke3) 2. Rxb7+ (2. cxb7 $2 2... Nd3+) 2... Nxb7 3. c7+ $3 3... Nxc7 4. Nc6+ Kc8 5. Nb6# 1-0  
+
+[Event "tn24#0777 @3 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/q6p/3k4/1PbN1B2/3pPK2/8/nP6/R7 w - - 0 1"]
+
+ 1. Rxa2 Qxa2 2. e5+ Kxd5 3. Bxh7 Qa8 (3... Bd6 $1 4. Bg8+ Kc5 5. Bxa2 Bc7 6. Kf5 Kxb5 7. e6 Bd8 8. Kg6 d3 9. Bb3 Kc6 10. Kf7 Kd6 11. Bd1 d2 12. b4 Kd5 13. Bb3+ Kc6 14. Ba4+ Kb6 15. e7 Bxe7 16. Kxe7 d1=Q 17. Bxd1 Kb5) 4. Be4+ Kc4 5. Bxa8 Kxb5 1/2-1/2  
+
+[Event "tn24#0781 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1n6/8/4Q1P1/1KN4p/2Pk3P/3p2q1/3n4/8 w - - 0 1"]
+
+ 1. g7 Qxg7 2. Qe1 Qg4 (2... Qa7 3. Qg1+ Kc3 4. Na4+) 3. Ne6+ Kc3 4. Qa1+ Kc2 5. Nd4+ 1-0  
+
+[Event "tn24#0785 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/K3B3/8/k5p1/6r1 w - - 0 1"]
+
+ 1. Bf3 Kb2 2. Kb4 Kc2 3. Kc4 Kd2 4. Kd4 Ke1 5. Ke3 Kf1 6. Be2+ Ke1 7. Bf3 1/2-1/2  
+
+[Event "tn24#0785 {v} {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/7B/8/K6R/4p3/k3rp2/8 w - - 0 1"]
+
+ 1. Rh1 Re1 2. Rf1 $1 2... Rxf1 3. Bxe3 Kb2 4. Kb4 Kc2 5. Kc4 Kd1 6. Kd3 Ke1 7. Bd2+ Kd1 8. Be3 $1 8... Ke1 9. Bd2+ 1/2-1/2  
+
+[Event "tn24#0848 {v} {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/3NR2p/3p4/7K/1p6/5k2 w - - 0 1"]
+
+ 1. Ne3+ dxe3 2. Rf5+ Kg1 3. Rg5+ Kh1 4. Rb5 e2 5. Rxb2 e1=Q 6. Rh2+ Kg1 7. Rh1+ Kxh1 1/2-1/2  
+
+[Event "tn24#0858 @4 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6k1/7p/1p5K/3n4/2B4p/3p4/3P3R/1q6 w - - 0 1"]
+
+ 1. Rf2 Qh1 2. Rf3 (2. Rf5 $1) 2... Qxf3 3. Bxd5+ Qxd5 (3... Kf8 4. Bxf3) 1/2-1/2  
+
+[Event "tn24#0860 @3 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6k1/7p/7b/5Nq1/1B6/2p1R3/K3P3/8 w - - 0 1"]
+
+ 1. Rg3 Qxg3 2. Nxh6+ Kh8 3. Bd6 Qxd6 (3... Qg7 4. Be5 4... c2 $1 5. Bxg7+ Kxg7 6. Nf5+ Kf6 7. Kb2 Kxf5) 4. Nf7+ 1/2-1/2  
+
+[Event "tn24#0862 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3R4/1kpPK3/p5p1/2P5/2n1p3/5P2/2p1P3/8 w - - 0 1"]
+
+ 1. Rb8+ $1 1... Kc6 2. fxe4 $1 2... c1=Q 3. d8=N+ $1 3... Kxc5 4. Ne6+ Kc6 5. Nd4+ Kc5 6. Nb3+ 1-0  
+
+[Event "tn24#0866 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4rkb1/4np1P/3P1N2/5P1K/8/8/5r2/8 w - - 0 1"]
+
+ 1. h8=Q Rh2+ 2. Kg5 Rxh8 3. Nd7+ Kg7 4. f6+ Kh7 5. dxe7 Ra8 6. Nf8+ Rxf8 7. exf8=N# 1-0  
+
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b7/3N2k1/2pN4/6K1/8/8/8/8 w - - 0 1"]
+
+ 1. Nc5 (1. Nb6 $2 1... c5 $1 2. Nxa8 c4) 1... Kh7 (1... Kf8 2. Kf6 Kg8 3. Nf5 Kf8 (3... Kh7 4. Kf7) 4. Ng7) (1... Bb7 2. Ncxb7 c5 3. Nd8 $1 3... c4 4. Ne6+) 2. Nf5 Kg8 3. Kf6 Kf8 4. Ng7 Kg8 5. Nge6 Kh8 6. Kg5 Kh7 7. Kh5 Kh8 8. Kh6 Kg8 9. Kg6 Kh8 10. Nf8 Kg8 11. Nfd7 Kh8 12. Nf6 1-0  
+
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/1N6/3N4/1ppK4/kb6 w - - 0 1"]
+
+ 1. Nc1 $1 1... bxc1=Q+ (1... Ba2 2. Nxc2+ Kb1 3. Ne2 Bb3 4. Nc3#) 2. Kxc1 Ba2 3. Nxc2# 1-0  
+
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4q1B1/8/8/8/4k3/1Q6/7K/8 w - - 0 1"]
+
+ 1. Bh7+ Kd4 (1... Kf4 2. Qg3#) 2. Qb4+ Kd5 3. Bg8+ 1-0  
+
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6q1/2k2r2/8/1K6/8/4R3/5Q2 w - - 0 1"]
+
+ 1. Re6+ $1 1... Rxe6 2. Qa6+ Kd5 3. Qc4+ Kd6 4. Qc5+ 1-0  
+
+[Event "ts26 @1 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p6p/1n6/k1K1Pr2/8/4RB2/1P5P/8 w - - 0 1"]
+
+ 1. Ra3+ (1. b4+ $1 1... Ka6 2. Ra3+) (1. Bc6 $1 1... Rf4 (1... Na4+ 2. Bxa4 Kxa4 3. Ra3#) 2. Ra3+ Na4+ 3. Rxa4+ Rxa4 4. Bxa4 Kxa4 5. e6) 1... Na4+ 2. Rxa4+ Kxa4 3. Bd1+ Ka5 4. b4+ Ka6 5. Kc6 Rxe5 (5... Rf2 6. Ba4) 6. Bg4 Re8 7. Bf5 Rd8 8. Be6 1-0  
+
+[Event "ts26 {m} {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3B4/7q/8/5p2/N7/8/3K2pp/6kb w - - 0 1"]
+
+ 1. Ke1 $1 (1. Ke2 $2 1... Qh5+ 2. Ke1 Qe8+) 1... Qa7 2. Bb6+ (2. Nc3 $2 2... Qa1+ 3. Nd1 Qe5+) 2... Qxb6 3. Nxb6 f4 4. Nd5 f3 5. Nf4 $1 5... f2+ 6. Kd2 $1 6... Kf1 (6... f1=Q $2 7. Nh3#) (6... f1=N+ $2 7. Ke1) 7. Nd5 Kg1 8. Nf4 Kf1 9. Nd5 1/2-1/2  
+
+[Event "ts26 {v} {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p6r/1n5p/k1K5/6B1/1R5p/1P5P/8 w - - 0 1"]
+
+ 1. Ra3+ Na4+ 2. Rxa4+ Kxa4 3. Bd1+ Ka5 4. b4+ Ka6 5. Kc6 Re7 6. Bg4 Re8 7. Bf5 Rd8 8. Be6 Rd4 9. Bc8# 1-0  
+
+[Event "ts26 {v} {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p6r/1np2b2/k1K4B/7P/5R2/1P4P1/8 w - - 0 1"]
+
+ 1. Ra3+ Na4+ 2. Rxa4+ Kxa4 3. Bd1+ Ka5 4. b4+ Ka6 5. Kxc6 Re7 6. Bg4 Re8 7. Bf5 Rd8 8. Be6 Rd6+ 9. Kxd6 Kb5 10. h5 Kxb4 (10... Bg5 11. Ke5 Kxb4 12. Kf5 Bc1 13. g4 Kc5 14. g5 Kd6 15. Kf6) 11. h6 Kc3 12. Ba2 Kd3 13. Ke6 Bb2 14. g4 1-0  
+
+[Event "ts26 {v} @1 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p6r/1n5p/k1K5/6BP/2R5/1P6/8 w - - 0 1"]
+
+ 1. Ra3+ (1. b4+ $1 1... Ka6 2. Kc6 Rc7+ 3. Kxc7 Nd5+ 4. Kc6 Nxc3 5. Bh3) 1... Na4+ 2. Rxa4+ $1 2... Kxa4 3. Bd1+ Ka5 4. b4+ Ka6 5. Kc6 Re7 6. Bg4 $1 6... Re8 7. Bf5 $1 7... Rd8 8. Be6 $1 1-0  
+
+[Event "tt28 {c} @2 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2p5/B4p2/1PP2k2/8/p1PP1K2/8 w - - 0 1"]
+
+ 1. Bc7+ Ke4 2. d3+ Kd4 3. Bd6 (3. Bd8 $2 3... Ke5) (3. Bf4 $1 3... a1=Q (3... a1=N 4. b5) 4. Bh6) 3... a1=Q 4. Bf8 Qa7 5. Bc5+ Qxc5 6. bxc5 1-0  
+
+[Event "tw04 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/1p6/1pk2NN1/P7/3K4 w - - 0 1"]
+
+ 1. Ne4+ Kb2 2. a4 bxa3 3. Nfd2 Ka1 4. Nc3 Kb2 (4... a2 5. Na4 b2 6. Nb3+ Kb1 7. Nc3#) 5. Na4+ Ka2 6. Kc1 b2+ (6... Ka1 7. Nxb3+ Ka2 8. Nd2 Ka1 9. Nc3 a2 10. Nb3#) 7. Kc2 b1=Q+ (7... Ka1 8. Nb3+ Ka2 9. Nc3#) 8. Nxb1 Ka1 9. Nd2 Ka2 10. Nc3+ Ka1 11. Nb3# 1-0  
+
+[Event "tw04#01 @3 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1p1kpp2/1P6/4P1N1/b2p4/p7/P1q1B3/K5Q1 w - - 0 1"]
+
+ 1. Qxd4+ Ke8 (1... Kc8 2. Qc4+) 2. Qxa4+ Qxa4 3. Ne6 fxe6 (3... f6 4. Bh5+ Kd7 5. Nc5+) (3... Qd7 $1 4. Bb5 fxe6 5. Bxd7+ Kxd7) 4. Bb5+ Qxb5 1/2-1/2  
+
+[Event "tw04#06 @3 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3N4/8/6k1/2K5/8/B4p2/8/8 w - - 0 1"]
+
+ 1. Nc6 $1 (1. Ne6 $2 1... f2 2. Nf4+ Kh6) (1. Kd5 $2 1... f2 2. Nc6 f1=Q 3. Ne5+ Kf5) 1... f2 2. Ne5+ $1 2... Kh7 (2... Kf5 3. Nc4) (2... Kh5 $1 3. Kd5 f1=Q 4. Be7 4... Qa6 $1) 3. Kd5 f1=Q 4. Be7 $1 4... Qa6 $1 (4... Kh6 $1 5. Bf6 Qg1 6. Ke6 Qg8+ 7. Kf5 Qc8+ 8. Ke4 Kh5 9. Kd5 Qg8+ 10. Kd6 Qb3) 1/2-1/2  
+
+[Event "tw04#07 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n4q/8/3pp3/8/3pk1pp/1P1N4/3P4/3K1Q2 w - - 0 1"]
+
+ 1. Qf7 Qh6 (1... e5 2. Nf2#) (1... Kxd3 2. Qg6#) (1... Kd5 2. Qb7#) 2. Nf2+ Kd5 3. Qb7+ Ke5 4. Nxg4+ 1-0  
+
+[Event "tw04#10 @3 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b1r3/1p1pB1p1/1P6/4k2K/8/8/3R4/8 w - - 0 1"]
+
+ 1. Bd6+ Kf5 2. Rf2+ Ke6 3. Re2+ Kf7 4. Rxe8 Kxe8 (4... g6+ $1 5. Kg5 Kxe8 6. Kxg6 Kd8 7. Kf7) 5. Kg6 Kd8 6. Kf7 g5 7. Bc7# 1-0  
+
+[Event "tw04#11 {m}"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/4N3/pp3N2/1k6/3K4 w - - 0 1"]
+
+ 1. Nfd2 Ka1 2. Nc3 Kb2 3. Na4+ Ka2 4. Kc1 b2+ 5. Kc2 b1=Q+ 6. Nxb1 Ka1 7. Nd2 Ka2 8. Nc3+ Ka1 9. Nb3# 1-0  
+
+[Event "tn24 @2 {m}"]
+[Site "?"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/3p3p/3p4/PK6/4P3/8/8/8 w - - 0 1"]
+
+ 1. Kb6 Kc8 2. a6 Kb8 3. a7+ Ka8 4. Kc7 h5 5. Kxd6 (5. Kxd7 $1 5... h4 6. Kxd6 h3 7. e5 h2 8. e6 h1=Q 9. e7) 5... h4 6. Kxd7 h3 7. e5 h2 8. e6 h1=Q 9. e7 Qd5+ 10. Kc7 Qe6 11. Kd8 Qd6+ 12. Kc8 $1 12... Qxe7 1/2-1/2  
+
+[Event "tn24 @2 @3 {m}"]
+[Site "?"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2pR4/1bp1N3/7p/P5k1/8/4pP1P/6K1 w - - 0 1"]
+
+ 1. h3+ Kf5 2. Nd4+ (2. Ng7+ $1 2... Kf6 3. Nxh5+ Ke6 4. Nf4+ Kxd7 5. Nxe2) 2... Bxd4 3. Re7 Be5 4. Rxe5+ Kxe5 5. f4+ Kxf4 (5... Ke4 $1 6. Kf2 Kd3 7. Ke1 c5) 6. Kf2 1-0  
+
+[Event "tn24 @4 {m}"]
+[Site "?"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k2b2/2P5/K7/1Ppp4/3p4/8/4B3/1r6 w - - 0 1"]
+
+ 1. b6 Ra1+ 2. Kb5 Rg1 3. Bd3 Rg5 4. Ka4 (4. Kc6 $1) 4... c4 5. Bxc4 dxc4 6. b7+ Kxb7 7. c8=Q+ Kxc8 1/2-1/2  
+
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6pK/8/8/8/5Bpk/6Nb w - - 0 1"]
+
+ 1. Kg7 g5 2. Kf6 g4 3. Ke5 $1 3... g3 4. Nf3+ Kh3 5. Bg1 Kg4 6. Ke4 Kh5 (6... Kh3 7. Ne5 Kh4 8. Kf5) 7. Kf5 Kh6 8. Kf6 Kh7 (8... Kh5 9. Ne5 Kh4 10. Kf5 Kh5 11. Ng4 Kh4 12. Nf6) 9. Ne5 Kg8 (9... Kh6 10. Ng4+ Kh5 11. Kf5 Kh4 12. Nf6) 10. Ng6 Kh7 11. Ne7 Kh6 12. Ng8+ Kh5 13. Kf5 Kh4 14. Nf6 Kh3 15. Ke4 Kh4 16. Kf4 Kh3 17. Nd5 Kh4 18. Kf5 Kh5 19. Nf4+ Kh6 20. Kf6 Kh7 21. Ne6 Kh6 22. Ng7 Kh7 23. Nf5 Kh8 24. Ke7 Kg8 25. Ke8 Kh8 26. Kf8 Kh7 27. Kf7 Kh8 28. Ne7 Kh7 29. Ng8 Kh8 30. Bd4+ Kh7 31. Bg7 g1=Q 32. Nf6# 1-0  
+
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/2N2k1B/2p2p2/1p3K2/p7/8/8 w - - 0 1"]
+
+ 1. Nxb4 cxb4 2. Bf8 a2 3. Bxb4 a1=Q 4. Bc3+ Qxc3 1/2-1/2  
+
+[Event "ts26 {v} {m}"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/8/6p1/8/8/8/5Bpk/6Nb w - - 0 1"]
+
+ 1. Kb7 g5 2. Kc6 g4 3. Kd5 g3 4. Nf3+ Kh3 5. Bg1 1-0  
+
+[Event "td20#0871 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1Pq2b2/6p1/3k1p2/8/8/2BP4/1K1Q4 w - - 0 1"]
+
+ 1. Be4+ fxe4 (1... Kxe4 2. Qc2+) (1... Kd6 2. Qg1) (1... Kc4 2. Qc1+) (1... Ke5 2. Qc1) 2. Qb3+ 2... Kc6 $1 (2... Kd6 3. Qb4+) 3. b8=N+ Kd6 (3... Kc5 4. Na6+) 4. Qg3+ 1-0  
+
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/5K2/7p/7r/2BN4/6bk w - - 0 1"]
+
+ 1. Be4+ Rf3+ (1... Kh2 2. Nf1#) 2. Bxf3+ Kh2 3. Nf1+ Kh3 4. Bh1 Bh2 (4... Ba7 5. Kf4 Bb8+ 6. Kf3) 5. Ke4 1-0  
+
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/k2p1P2/p7/N7/8/3p4/K2P4/7q w - - 0 1"]
+
+ 1. Rb8 Qd5+ 2. Kb1 Qxf7 (2... Qh1+ 3. Kb2 Kxb8 4. f8=Q+) (2... Kxb8 3. f8=Q+) 3. Rb7+ Ka8 4. Nc6 Kxb7 5. Nd8+ 1-0  
+
+[Event "ts26 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4Pn2/7p/3N1k2/4q3/5pK1/3Q4/8 w - - 0 1"]
+
+ 1. e8=Q $1 1... Qxe8 2. Qf4+ Kg6 3. Qg4+ Ng5 4. Qh5+ $1 4... Kxh5 5. Nf4# 1-0  
+
+[Event "ts26 {c} {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/k2p1P2/p7/N2q4/3p4/8/1K1P4/8 w - - 0 1"]
+
+ 1. Rb8 $1 1... Qxf7 2. Rb7+ Ka8 3. Nc6 $3 3... Kxb7 4. Nd8+ 1-0  
+
+[Event "ts26 {c} {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/k2p1P2/p7/N7/P2p4/8/K2P4/7q w - - 0 1"]
+
+ 1. Rb8 $1 1... Qd5+ 2. Kb2 $1 2... Qxf7 3. Rb7+ Ka8 4. Nc6 $1 1-0  
+
+[Event "ts26 {v} @3 {m}"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/k2p1P2/p7/N7/3p4/8/K2P4/7q w - - 0 1"]
+
+ 1. Rb8 $1 1... Qd5+ 2. Kb2 $1 2... Qxf7 (2... Qxa5 $1 3. f8=Q Qxd2+) 3. Rb7+ Ka8 4. Nc6 1-0  
+
+[Event "tn24 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/pn6/8/8/1N1b3p/8/8/5B1K w - - 0 1"]
+
+ 1. Na6 Bg1 2. Bh3 Nc5 3. Bg2+ Nb7 4. Kxg1 h3 5. Bh1 h2+ 6. Kg2 Nd6 7. Kg3+ Nb7 8. Kf3 Nd6 9. Kf4+ Nb7 10. Ke4 Nd6+ 11. Ke5+ Nb7 12. Kd5 Nd8 13. Kd6+ Nb7+ 14. Kc6 Nd8+ 15. Kc7+ Nb7 16. Bxb7# 1-0  
+
+[Event "tn24 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K1k2/5P2/6P1/1p6/3n4/8/2P5/8 w - - 0 1"]
+
+ 1. c3 Ne2 2. Kd7 Nxc3 3. Kc6 b4 4. Kc5 b3 5. Kb4 b2 6. Ka3 b1=Q (6... b1=B 7. Kb2) 7. g7+ Kxg7 8. f8=Q+ Kxf8 1/2-1/2  
+
+[Event "tn24 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2k2b2/2P5/1P6/1Kpp3r/5p2/8/8/5B2 w - - 0 1"]
+
+ 1. Ka4 c4 2. Bxc4 dxc4 3. b7+ Kxc7 4. b8=Q+ Kxb8 1/2-1/2  
+
+[Event "tn24 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7b/4k3/1R6/p4p1p/3NNP1r/K1p5/P5p1/3b4 w - - 0 1"]
+
+ 1. Rb7+ 1... Ke8 $1 2. Nd6+ Kf8 3. Ne6+ Kg8 4. Rb8+ Kh7 5. Rb7+ Kh6 6. Rg7 $1 6... Bxg7 7. Nf8 Bxf8 1/2-1/2  
+
+[Event "tn24 @3 {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/1p2k1P1/1R6/8/8/r5PK/8 w - - 0 1"]
+
+ 1. Rf5 $1 1... Kxf5 (1... Rc2 2. g7 Rc8 3. Rf8) (1... Ra4 $1) 2. g7 1-0  
+
+[Event "tn24 {c} {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/1p2k1P1/1R6/8/6PK/r7/8 w - - 0 1"]
+
+ 1. Rf5 $1 1... Kxf5 (1... Rc2 2. g7 Rc8 3. Rf8) 2. g7 1-0  
+
+[Event "tn24 {v} {m}"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/1p2k1P1/1R6/8/7P/r5PK/8 w - - 0 1"]
+
+ 1. Rf5 $1 1... Kxf5 (1... Rc2 2. g7 Rc8 3. Rf8) 2. g7 1-0  
+
+[Event "o000 {pl} @3 {m}"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/N4N2/8/8/kPpn4/8/K7 w - - 0 1"]
+
+ 1. Nb4 Nxb4 2. Ne4 c2 3. Nc3 c1=Q+ (3... Kxb3 $1 4. Ne2 Ka3 5. Nc1 Nc6 6. Nb3 Na5 7. Nc1 Nc4 8. Ne2 Ka4 9. Ka2 Kb4 10. Nc1 Kc3 11. Ka1 Kd2 12. Na2 Kd1 13. Nc3+ Ke1 14. Na2 Kd2) 4. Nb1+ Kxb3 1/2-1/2  
+
+[Event "2/5 Prize tb19 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/2P4p/7k/8/1p6/p3p3/4K3/1N6 w - - 0 1"]
+
+ 1. Nxa3 bxa3 2. Nd6 a2 3. Nf7+ Kg6 (3... Kg7 4. c8=Q a1=Q 5. Qh8+) (3... Kh5 4. c8=Q a1=Q 5. Qc5+ Kh4 6. Qc4+ Kh3 7. Ng5+ Kg2 8. Qg4+ Kh2 9. Qh3+ Kg1 10. Nf3#) 4. Ne5+ Kh6 5. c8=Q a1=Q 6. Qe6+ Kg5 7. Qg4+ Kf6 8. Qf4+ Ke6 (8... Kg7 9. Qg5+ Kf8 10. Qf6+ Ke8 11. Qe6+) 9. Qf7+ Kd6 10. Qd7+ Kc5 11. Qc6+ Kb4 12. Nd3+ Kb3 13. Qd5+ Kc2 14. Qc4+ 1-0  
+
+[Event "2/5 Prize tb19 {v} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/2P4p/7k/8/8/p7/4K3/8 w - - 0 1"]
+
+ 1. Nd6 $1 1... a2 2. Nf7+ $1 2... Kg6 (2... Kh5 3. c8=Q a1=Q 4. Qf5+) 3. Ne5+ Kf6 4. c8=Q a1=Q 5. Qf8+ Kg5 6. Qg7+ Kf5 (6... Kf4 7. Qg4+) (6... Kh5 7. Qg4+) 7. Qg4+ Kf6 8. Qf4+ Ke6 9. Qf7+ Kd6 10. Qd7+ Kc5 11. Qc6+ Kb4 (11... Kd4 12. Nf3#) 12. Nd3+ Kb3 13. Qd5+ Kc2 14. Qc4+ Qc3 15. Qa2+ Qb2 16. Qxb2# 1-0  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/8/4K2p/4N2k/8 w - - 0 1"]
+
+ 1. Kf3 $1 1... Kh1 2. Kf2 Kh2 3. Nc3 Kh1 4. Ne4 Kh2 5. Nd2 Kh1 6. Nf1 h2 7. Ng3# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/8/1K1N3p/7N/1k6 w - - 0 1"]
+
+ 1. Nf3 h2 2. Nd2+ Ka1 3. Nb4 h1=Q 4. Nc2# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/1N1p4/1K1N4/8/1k6 w - - 0 1"]
+
+ 1. Nd5 Ka1 2. Nb6 Kb1 3. Nc4 Ka1 4. Kc2 Ka2 5. Nb4+ Ka1 6. Na3 $1 6... d3+ 7. Kb3 d2 8. Nbc2# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/7p/1K1N3N/8/1k6 w - - 0 1"]
+
+ 1. Nhf2 h3 2. Nd1 h2 3. Nc3+ Ka1 4. Nb4 h1=Q 5. Nc2# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2N1p3/4N3/k1K5/8 w - - 0 1"]
+
+ 1. Nd1 e3 2. Nc3+ Ka1 3. Na5 e2 4. Nb3# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2N5/4p3/k1K1N3/8 w - - 0 1"]
+
+ 1. Nc3+ Ka1 2. Na5 e2 3. Nb3# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2N5/5p2/k1K2N2/8 w - - 0 1"]
+
+ 1. Nd3 f2 2. Nb4+ Ka1 3. Na5 f1=Q 4. Nb3# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/2N5/5p2/k1K2N2/8/8 w - - 0 1"]
+
+ 1. Kc4 Kb2 2. Kd3 Kc1 3. Na4 Kd1 4. Nb2+ Kc1 5. Kc3 Kb1 6. Nd3 Ka2 7. Kb4 Kb1 8. Kb3 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/8/2K4p/3N3N/3k4 w - - 0 1"]
+
+ 1. Nb3 Ke2 2. Kd4 Kf2 3. Nc1 Kg3 4. Ke3 Kxh2 5. Kf2 Kh1 6. Ne2 Kh2 7. Nc3 Kh1 8. Ne4 Kh2 9. Nd2 Kh1 10. Nf1 h2 11. Ng3# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/8/2K5/k1N5/3p4/3N4 w - - 0 1"]
+
+ 1. Kb5 Kb3 2. Na4 Kc2 3. Nab2 Kb3 4. Kc5 Ka3 5. Kc4 Ka2 6. Kb4 Kb1 7. Ka3 Kc2 8. Ka2 Kc1 9. Kb3 Kb1 10. Nd3 Ka1 11. Nb4 Kb1 12. Nc3+ Kc1 13. Nd3# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/2N5/5p2/5N2/1k1K4/8 w - - 0 1"]
+
+ 1. Kd3 Kc1 2. Na4 Kd1 3. Nb2+ Kc1 4. Kc3 Kb1 5. Nd3 Ka2 6. Kb4 Kb1 7. Kb3 Ka1 8. Nd2 f3 9. Nb4 f2 10. Nc2# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3N4/3K4/1k3p2/5N2/8/8 b - - 0 1"]
+
+ 1... Kb3 (1... Kc3 2. Ke4) 2. Kd4 Kb4 3. Nf7 Kb5 4. N7e5 $1 4... Kb4 5. Nc6+ Kb3 6. Kd3 Ka4 7. Kc4 Ka3 8. Ncd4 Kb2 9. Kb4 Ka2 10. Ne2 Kb2 11. Nc3 Kc2 12. Kc4 Kb2 13. Nb5 Kc2 14. Na3+ Kb2 15. Kb4 Kc1 16. Kc3 Kd1 17. Kd3 $1 17... Kc1 18. Nc4 Kd1 19. Nb2+ Kc1 20. Kc3 Kb1 21. Nd3 Ka2 22. Kb4 Ka1 23. Kb3 Kb1 24. Nd2+ Ka1 25. Nb4 f3 26. Nc2# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2k5/4K3/8/3p4/3N4/3N4/8 w - - 0 1"]
+
+ 1. Nc4 Kc6 2. Ke5 $1 2... Kd7 3. Kf6 $1 3... Kc7 4. Ke7 Kc6 5. Ke6 Kc7 6. Kd5 Kd7 7. Nb6+ Ke7 8. Ke5 Kf7 9. Nd5 Kg6 10. Ke6 Kg5 11. Nf6 Kg6 12. Ng4 Kh5 13. Kf5 Kh4 14. Nf6 Kg3 15. Ke4 Kg2 16. Nh5 Kh3 17. Kf4 Kh4 18. Ng3 Kh3 19. Nf5 Kh2 20. Kg4 Kg2 21. Ng3 $1 21... Kh2 22. Ne2 Kg2 23. Nef4+ Kh2 24. Kf3 Kg1 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7p/8/5K2/7k/4N3/4N3/8 b - - 0 1"]
+
+ 1... Kh5 (1... Kh3 2. Kg5 Kh2 3. Kg4 h5+ 4. Kh4) 2. Nc3 Kh6 3. Kf6 Kh5 4. Ne4 Kh6 5. Kf7 Kh5 6. Kg7 h6 (6... Kh4 7. Kh6) 7. Kf6 Kh4 8. Kg6 h5 9. Kf5 Kh3 10. Kf4 $1 10... Kh2 (10... Kh4 11. Ng2+ Kh3 12. Kf3 Kh2 13. Kf2 Kh3 14. Nf6 $1 14... Kh2 15. Nf4) 11. Kf3 Kg1 12. Ng5 h4 13. Ke2 h3 14. Nf3+ Kh1 15. Nh2 $1 15... Kxh2 (15... Kg1 16. Ke1 Kh1 17. Kf1) 16. Kf2 Kh1 17. Nf1 h2 18. Ng3# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K1k/8/5N2/p7/N7/8/8 w - - 0 1"]
+
+ 1. Kf6 Kh8 2. Ke7 Kg8 3. Ke8 Kh8 4. Kf8 Kh7 5. Kf7 Kh8 6. Nc4 a3 7. Ne5 a2 8. Ng6+ Kh7 9. Nf8+ Kh8 10. Ne7 a1=Q 11. Neg6# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K1k/8/1p3N2/1N6/8/8/8 w - - 0 1"]
+
+ 1. Nd5 b4 2. Nf6+ Kh8 3. Ne7 b3 4. Ng6# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K1k/8/5N2/8/4p3/4N3/8 w - - 0 1"]
+
+ 1. Kf6 Kh8 2. Ke7 Kg8 3. Ke8 Kh8 4. Kf8 Kh7 5. Kf7 Kh8 6. Nf4 e2 7. Ng6+ Kh7 8. Nf8+ Kh8 9. Ne7 e1=Q 10. Neg6# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K1k/8/5N2/3p4/3N4/8/8 w - - 0 1"]
+
+ 1. Ne5 d3 2. Ng6 d2 3. Nf8+ Kh8 4. Ne7 d1=Q 5. Neg6# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K1k/8/5N2/8/5p2/5N2/8 w - - 0 1"]
+
+ 1. Ng4 f2 2. Nf6+ Kh8 3. Ne7 f1=Q 4. Ng6# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K1k/8/5N2/6p1/6N1/8/8 w - - 0 1"]
+
+ 1. Nh5 g3 2. Nf6+ Kh8 3. Nh4 g2 4. Ng6# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K1k/8/5N2/8/7p/7N/8 w - - 0 1"]
+
+ 1. Ng4 h2 2. Nf6+ Kh8 3. Nh4 h1=Q 4. Ng6# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N4k1/3N4/2p3K1/8/8/8/8 w - - 0 1"]
+
+ 1. Nd8 c4 2. Ne6+ Kg8 3. Kg6 c3 4. Nf5 c2 5. Ne7+ Kh8 6. Ng5 c1=Q 7. Nf7# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/8/4N1K1/8/6p1/6N1/8/8 w - - 0 1"]
+
+ 1. Nh5 g3 2. Nf6+ Kh8 3. Ng5 g2 4. Nf7# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/8/4N1K1/8/8/7p/7N/8 w - - 0 1"]
+
+ 1. Ng4 h2 2. Nf6+ Kh8 3. Ng5 h1=Q 4. Nf7# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/8/4N1K1/8/8/4p3/4N3/8 w - - 0 1"]
+
+ 1. Kf6 $1 1... Kh8 2. Kg5 Kh7 3. Kh5 Kh8 4. Kh6 Kg8 5. Kg6 Kh8 6. Kf7 Kh7 7. Ng7 Kh6 8. Kf6 Kh7 9. Nf5 Kh8 10. Ke7 Kg8 11. Ke8 Kh8 12. Kf8 Kh7 13. Kf7 Kh8 14. Nf4 e2 15. Ng6+ Kh7 16. Nf8+ Kh8 17. Ne7 e1=Q 18. Neg6# 1-0  
+
+[Event "o000 {te} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/8/4N1K1/8/8/5p2/5N2/8 w - - 0 1"]
+
+ 1. Ne4 f2 2. Nf6+ Kh8 3. Ng5 f1=Q 4. Nf7# 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K1k/8/4N3/8/7p/7N/8 w - - 0 1"]
+
+ 1. Neg4 Kh8 2. Ne3 Kh7 3. Nf5 Kh8 4. Kg6 Kg8 5. Ng7 5... Kf8 $1 6. Kf6 Kg8 7. Ne6 7... Kh7 $1 8. Kg5 8... Kg8 $1 9. Kg6 Kh8 10. Kf7 $1 10... Kh7 11. Ng4 $3 11... h2 12. Ng5+ Kh8 13. Ne5 h1=Q 14. Ng6# 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3p4/8/kNK1p3/8/3N4 w - - 0 1"]
+
+ 1. Nd4 1... e2 $1 2. Nxe2 d4+ 3. Kc4 d3 4. Nec3 d2 5. Kb5 Kb3 6. Na4 Kc2 7. Nab2 Kb3 8. Kc5 Ka3 9. Kc4 Ka2 10. Kb4 Kb1 11. Ka3 Kc2 12. Ka2 Kc1 13. Kb3 Kb1 14. Nd3 Ka1 15. Nb4 Kb1 16. Nc3+ Kc1 (16... Ka1 17. Nc2#) 17. Nd3# 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2N5/3pp3/8/2NK1k2/8/8 b - - 0 1"]
+
+ 1... e4+ 2. Kd4 e3 3. Ne5+ Kg3 4. Ne2+ Kf2 5. Nc1 e2 6. Ncd3+ Kg3 7. Ne1 Kf2 8. N5d3+ 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/5Kp1/4N2p/4N3/8/7k w - - 0 1"]
+
+ 1. Nf2+ Kh2 2. Kg4 h3 3. Nxh3 $1 3... Kh1 4. Kg3 $1 4... g4 5. Nf1 $1 5... gxh3 6. Kf2 h2 7. Ng3# 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5k2/3pp3/6K1/8/3NN3/8 w - - 0 1"]
+
+ 1. Nc3 d4 2. Nce4+ Ke6 3. Nb3 Kd5 4. Kf3 Kc4 5. Nbc5 Kd5 6. Nd3 Kc4 7. Nef2 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3p4/2p5/k1K1pN2/8/3N4 w - - 0 1"]
+
+ 1. Nd4 e2 2. Nxe2 d4+ 3. Kxc4 d3 4. Nec3 d2 5. Kb5 Kb3 6. Na4 Kc2 7. Nab2 Kb3 8. Kc5 Ka3 9. Kc4 Ka2 10. Kb4 Kb1 11. Ka3 Kc2 12. Ka2 Kc1 13. Kb3 Kb1 14. Nd3 Ka1 15. Nb4 Kb1 16. Nc3+ Kc1 17. Nd3# 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6p1/p1K5/8/k4N2/1p1N4/8 w - - 0 1"]
+
+ 1. Nb1+ $1 1... Ka2 $1 2. Nfd2 g5 3. Kd5 a4 4. Ke5 g4 5. Kf4 Ka1 6. Na3 $1 6... Ka2 7. Ndb1 Kb3 8. Kxg4 Kb4 9. Kf4 Kc5 10. Ke4 Kb4 11. Kd3 Kb3 12. Kd2 Ka2 13. Kc3 Ka1 14. Kb4 Ka2 15. Kxa4 Ka1 16. Kb4 Ka2 17. Nc3+ Ka1 18. Nc2# 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/5ppp/8/8/8/2NK2N1/8/8 w - - 0 1"]
+
+ 1. Nh5 g6 2. Nf6 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3K3p/8/4p3/4Np1k/3N4/8 w - - 0 1"]
+
+ 1. Ndf1 Kh4 2. Ke5 Kg5 3. Ng3 h5 4. Nxe4+ Kh4 5. Kf4 f2 6. Kf3 Kh3 7. Kxf2 Kh4 8. Kf3 Kh3 9. Ng2 Kh2 10. Kf2 Kh3 11. Nf6 Kh2 12. Nf4 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2pppk2/8/8/2N1KN2/8/8 w - - 0 1"]
+
+ 1. Kf4 $1 1... e5+ 2. Kg4 Ke6 3. Ng5+ Kf6 4. Nce4+ Ke7 5. Kf5 Kd7 6. Nf7 d5 7. Nc5+ 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6p1/p1K5/p7/k4N2/1p1N4/8 w - - 0 1"]
+
+ 1. Nb1+ Kb3 2. Nd4+ $1 2... Ka2 3. Nc3+ Ka3 4. Ndb5+ Kb3 5. Nb1 a3 6. N5xa3 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3k1r2/2ppp2P/8/4K1N1/2N5/8/8 w - - 0 1"]
+
+ 1. h7 Rxh7 (1... Rf8 2. Nf6+ Kc7 3. Ng8) 2. Nf6+ Ke7 3. Nxh7 1-0  
+
+[Event "td20 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p1k4/1p6/3p4/4q1r1/1NKN4/8/3Q4 w - - 0 1"]
+
+ 1. Qxg4+ (1. Nbc5+ bxc5 2. Nxc5+ Kc6) 1... Qxg4 2. Ne5+ 1-0  
+
+[Event "td20 {v} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/2kpp3/8/8/1K1NN3/8 w - - 0 1"]
+
+ 1. Ka3 $3 (1. Nf3 $2 1... d4 2. Nxe5 (2. Nd2 Kd5) 2... d3) (1. Kc3 $2 1... d4+ 2. Kd3 e4+ 3. Nxe4+ Kb4) (1. Kb3 $2 1... e4) 1... Kb5 2. Kb3 Ka5 (2... Kc5 3. Ka4) 3. Kc2 $1 (3. Nf3 $2 3... d4) (3. Nc3 $2 3... e4) 3... Kb4 4. Kd1 $1 4... Kc5 (4... Ka3 5. Nc3 e4 6. Nb5+ $1) 5. Ke1 Kd6 6. Kf2 Ke6 7. Kg3 Kf5 8. Kh4 $1 8... Kf6 (8... Ke6 9. Kg4 Kd6 10. Kf5) 9. Kg4 Kg6 10. Nf3 Kf6 (10... d4 11. Nxe5+ Kf6 12. Nd3) 11. Ng3 1-0  
+
+[Event "td20 {v} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3pp3/1k4K1/8/3NN3/8 w - - 0 1"]
+
+ 1. Kh4 $1 1... Kc5 2. Kg5 Kb4 3. Kg4 $1 (3. Kf5 $2 3... e4 4. Nd4 4... Kc3 $1 ( 4... e3 $2 5. N2f3 e2 6. Kf4 Kc3 7. Ke3)) 3... Kc5 4. Kf5 1-0  
+
+[Event "td20#0992 @3 {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/6B1/8/5Pp1/1k1p4/2b5/8/8 w - - 0 1"]
+
+ 1. Bh6 d3 (1... g4 2. f6 Kc4 3. f7 Bb4 4. Bg5 Bf8 (4... d3 5. Be7 d2 6. f8=Q d1=Q+ 7. Ke8) (4... g3 $1 5. Be7 Bxe7+ 6. Kxe7 g2 7. f8=Q g1=Q) 5. Be7 Bh6 6. Ke8 g3 7. Bg5 Bg7 8. Bf6) 2. Bxg5 Bf6+ 3. Bxf6 d2 4. Bc3+ Kxc3 5. f6 d1=Q+ 6. Kc7 1/2-1/2  
+
+[Event "td20#0992 {c} {m}"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Troitzky A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/6B1/8/5Pp1/1k1p4/8/8/b7 w - - 0 1"]
+
+ 1. Bh6 d3 2. Bxg5 Bf6+ 3. Bxf6 d2 4. Bc3+ Kxc3 5. f6 d1=Q+ 6. Kc7 1/2-1/2  
+

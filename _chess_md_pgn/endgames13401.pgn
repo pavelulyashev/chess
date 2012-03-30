@@ -1,0 +1,1100 @@
+[Event "tt22#1167 @3 {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5b2/5kp1/5prP/6P1/4P1K1/8/6R1/8 w - - 0 1"]
+
+ 1. h7 Rxg5+ 2. Kh4 Rxg2 3. Kh3 Rg1 4. Kh2 Rg6 (4... Rg5 $1 {cook} 5. h8=Q g6 $1 6. Qh7+ Bg7 7. e5 Rxe5) 5. h8=N+ Kg8 6. Nxg6 Bd6+ 7. Kh3 Kh7 8. Nh4 1/2-1/2  
+
+[Event "tt22#1167 {c} {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5kp1/5prP/6P1/6K1/5P2/6R1/8 w - - 0 1"]
+
+ 1. h7 Rxg5+ 2. Kh4 Rxg2 3. Kh3 Rg1 4. Kh2 Rg6 5. h8=N+ Ke6 6. Nxg6 Kf5 7. Nh4+ Kf4 8. Kg2 g5 9. Ng6+ Kf5 10. Ne7+ 1-0  
+
+[Event "tt22#1205 {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/2P1p3/8/5r2/8/5B1k/6Rp/8 w - - 0 1"]
+
+ 1. Bg4+ Kxg2 2. Bxf5 Kf3 3. Be6 Ke4 4. Bd7 Kd5 5. Kb7 $1 1-0  
+
+[Event " Honorable Mention ts14 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k2K4/8/8/8/4p3/3p4/5R2/2b5 w - - 0 1"]
+
+ 1. Kc7 Be3 (1... Bf4+ 2. Rxf4 d2 3. Rf5) 2. Ra2+ Ba7 3. Rg2 Bb8+ (3... e3 $2 4. Rg8+ Bb8+ 5. Rxb8+ Ka7 6. Rb3) 4. Kb6 Ba7+ 5. Kc7 1/2-1/2  
+
+[Event " Honorable Mention tt22#1106 @3 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/5k2/8/3NP2p/2p2K1P/6B1/n3b3 w - - 0 1"]
+
+ 1. Ke2 (1. Bf1 $2 c2 2. Ne2 Nb3 3. Ke3 c1=Q+ 4. Nxc1 Nxc1 5. Bc4 Ke5 6. Bd5 Bg3 7. Bc4 Bf4+ 8. Kf3 Bg5 9. Kg4 Be7 10. Kf3 Kd4) 1... c2 2. Nxc2 Nxc2 3. Kd1 Ne3+ 4. Ke2 (4. Kxe1 $2 Nxg2+ 5. Kf2 Nf4) 4... Nxg2 (4... Bd2 $1 {cook JU} 5. Bh1 Bc1) 5. Kf3 1/2-1/2  
+
+[Event " Honorable Mention tt22#1106 {v} {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/7k/2p1P2p/5K1P/6B1/nN2b3 w - - 0 1"]
+
+ 1. Na3 c3 2. Ke2 c2 3. Nxc2 Nxc2 4. Kd1 Ne3+ 5. Ke2 (5. Kxe1 $2 Nxg2+ 6. Kf2 Nf4) 5... Nxg2 6. Kf3 1/2-1/2  
+
+[Event "1 Commendation tk09 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/7R/k4r2/8/4K1n1/n7/8 w - - 0 1"]
+
+ 1. Rh3 Nf1+ 2. Ke2 Nc1+ 3. Kd1 Rc5 4. Ke1 Rf5 5. Kd1 1/2-1/2  
+
+[Event "1 Commendation tk09 {v} {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/k4r2/7R/4K1n1/n7/8 w - - 0 1"]
+
+ 1. Rh3 Nf1+ 2. Ke2 Nc1+ (2... Kb4 3. Rf3 Nc3+ 4. Ke1 Rxf3) 3. Kd1 Rc5 4. Ke1 Rf5 5. Kd1 1/2-1/2  
+
+[Event "1 Prize ts14 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/4p3/1P3p2/5Rp1/8/5K1k w - - 0 1"]
+
+ 1. Rf2 (1. b5 $2 g2+ 2. Ke2 g1=Q 3. Rf1 f3+ 4. Ke1 Kg2) 1... gxf2 (1... f3 2. Rxf3 g2+ 3. Ke2) (1... e4 2. Rxf4) 2. b5 e4 3. b6 e3 4. b7 f3 5. b8=R (5. b8=Q $2 e2+ 6. Kxf2 e1=Q+ 7. Kxe1 f2+ 8. Kxf2) 1-0  
+
+[Event "tr11#0476 @3 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2K5/2P1p3/8/5p2/8/6kp/6p1/1B3R2 w - - 0 1"]
+
+ 1. Rg1 (1. Rxf5 $2 h2) (1. Rc1 $2 h2) 1... h2 (1... e6 $1 {cook} 2. Ba2 h2 3. Rxg2+ Kxg2 4. Bxe6 f4 $1) 2. Rxg2+ Kxg2 3. Bxf5 Kf3 4. Be6 Ke4 5. Bd7 Kd5 6. Kb7 1-0  
+
+[Event "ts13#398 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/B7/k7/2K4B/8/N7/8/2b5 w - - 0 1"]
+
+ 1. Bb6 (1. Nb5 $2 Be3+) 1... Be3+ (1... Bxa3+ 2. Kc6) 2. Kc6 Bxb6 3. Be2+ Ka7 ( 3... Ka5 4. Nc4+) 4. Nb5+ Ka6 5. Nd6+ $1 Ka7 (5... Ka5 6. Nc4+) 6. Nc8+ 1-0  
+
+[Event "tt22#1116 @2 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/7R/5pKP/2R3pP/4k1br b - - 0 1"]
+
+ 1... Be3 $1 2. Rxg2 f2 $1 3. Rxf2 (3. Ra4 $1 {cook}) 3... Bxf2+ 4. Kf3 $1 Bxh4 5. Kg2 Rf1 1/2-1/2  
+
+[Event "11 Prize wi01 {tw} {tt} {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kB6/6p1/P7/8/8/8/2P3p1/6Kb w - - 0 1"]
+
+ 1. a7 g5 (1... g6 2. c4 g5 3. c5 g4 4. c6 g3 5. c7) 2. c3 g4 3. c4 g3 4. c5 Kb7 5. c6+ Ka8 6. c7 1-0  
+
+[Event "2 Commendation ts69#391 @3 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7q/kpKP1Q2/8/8/8/p5r1/7p/8 w - - 0 1"]
+
+ 1. Qf2+ Ka8 2. Qxg3 Qb8+ 3. Kb6 Qxg3 (3... Qa7+ $1 {cook JN} 4. Kb5 (4. Kc7 Qc5+ 5. Kd8 h1=Q) 4... Qa6+ 5. Kb4 (5. Kc5 Qa5+ 6. Kc4 h1=Q) 5... Qb6+ 6. Kc4 Qe6+ 7. Kc3 Qf6+ 8. Kc2 h1=Q 9. Qxa3+ Kb8 10. Qg3+ Ka7 11. Qa3+ Kb6) 4. d8=Q+ Qb8 5. Qd5 Qa7+ 6. Kc7 Qb8+ 7. Kb6 1/2-1/2  
+
+[Event "tc06#138 @4 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7B/4P3/8/5p2/1p3p2/kp3K2/4n3 w - - 0 1"]
+
+ 1. e7 (1. Kxe1 $1 {cook JN}) 1... Nc2 2. Bxc2 bxc2 3. e8=Q c1=Q (3... b1=Q 4. Qa4+ Kb2 5. Qb4+ Kc1 6. Qe1+ Kb2 7. Qb4+ Ka1 8. Qa3+ Qa2 9. Qc1+ Qb1 10. Qa3+) 4. Qa4+ Kb1 5. Qd1 $1 Ka2 6. Qa4+ Kb1 7. Qd1 $1 Qxd1 1/2-1/2  
+
+[Event "ts23#03 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3K4/Pk1pp3/1P2p3/1p6/2pb4/8/1p2R3/8 w - - 0 1"]
+
+ 1. a8=Q+ Kxa8 2. Kc7 $1 (2. Kc8 $2 Bxb6 3. Rxb2 c3 4. Rxb5 c2) 2... Bxb6+ (2... b1=Q 3. b7+ Ka7 4. b8=Q+ Ka6 5. Ra2+ Qxa2 6. Qa8+ Ba7 7. Qb7+ Ka5 8. Qxa7+) 3. Kxb6 b1=Q 4. Rg2 $1 Qh7 5. Kc7 $1 Qb1 6. Kb6 Qh7 7. Kc7 1/2-1/2  
+
+[Event "tt22 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1bPB4/8/3k4/8/8/5p1p/5Kb1 w - - 0 1"]
+
+ 1. c8=Q $1 (1. c8=B $2 Ba8 $1) 1... Bxc8 2. Bxc8 Kc6 3. Bg4 $1 (3. Bf5 $2 h1=B $1 (3... h1=Q $2 4. Be4+ Qxe4)) 3... h1=Q (3... h1=B 4. Bf3+ Bxf3) 4. Bf3+ Qxf3 1/2-1/2  
+
+[Event "tt22#1079 @3 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3b4/2pP1p2/P4p2/8/3pK1p1/4n2k/2PP4/1b6 w - - 0 1"]
+
+ 1. a7 $1 Bxc2+ 2. d3 $1 Bd1 (2... Bb3 {main} 3. a8=Q Bd5+ 4. Kf4 Ng2+ (4... Bxa8) 5. Kf5 Nh4+ (5... Bxa8) 6. Kf4 Ng6+ (6... Bxa8) 7. Kf5 Ne7+ (7... Bxa8) ( 7... Be6+ $1 {cook HH} 8. Ke4 c5) 8. Kf4 Ng6+ (8... Bxa8) 9. Kf5) 3. a8=Q Bf3+ 4. Kf4 Ng2+ (4... Bxa8) 5. Kf5 Nh4+ (5... Bxa8) 6. Kf4 Ng6+ (6... Bxa8) 7. Kf5 Ne7+ (7... Bxa8) 8. Kf4 Nd5+ (8... Bxa8) 9. Kf5 Ne3+ 10. Kf4 Bxa8 1/2-1/2  
+
+[Event " Commendation tm04#0444 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6Bk/p6p/P6K/N1p5/rP3p2/p1p2P2/P2P4/8 w - - 0 1"]
+
+ 1. Bb3 Rxb4 2. dxc3 Rb5 (2... Rb6+ 3. Kg5 Rb5 4. Bc4 Rxa5 5. Kh6) 3. Bf7 $1 Rxa5 4. Bc4 Ra4 5. Bb5 Ra5 6. Bc4 1/2-1/2  
+
+[Event "2 Commendation tt22#0974 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1bk5/2p1p3/1p2P1Q1/1p2P3/1Pq5/Bp2p3/1P2p3/4KB2 w - - 0 1"]
+
+ 1. Qe8+ $1 Kb7 2. Qc6+ $3 Qxc6 (2... Kxc6 3. Bg2+ Qd5 4. Bf3 $1 Ba7 5. Bg2) 3. Bg2 $1 Ba7 4. Bf3 $1 Bb8 5. Bg2 1/2-1/2  
+
+[Event "2 Prize tt22#1002 @2 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5Bp1/5nPq/2p1p1Pp/2p1p2B/2P3Pk/1N3Kp1/8 w - - 0 1"]
+
+ 1. Kg1 Qh8 2. Nd1 (2. gxf6 $1 {cook} Qc8 (2... Kg4 3. Kxg2) 3. Nd1) 2... Ng4 $1 3. Nf2+ $1 Nxf2 4. Be6+ Ng4 5. Bg8 $1 Ne3 6. Be6+ Ng4 7. Bg8 e3 8. Bd5 $1 Nf2 9. Be6+ Ng4 10. Bd5 1/2-1/2  
+
+[Event "2 Prize tt22#1002 {v} @2 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5Bp1/5nPq/2p3Pp/2p1p2B/2P3Pk/1N3Kp1/8 w - - 0 1"]
+
+ 1. Kg1 Qh8 2. Nd1 (2. gxf6 $1 {cook AO} Qc8 3. Nd1 Kg4 4. Kxg2) 2... Ng4 $1 3. Nf2+ $1 Nxf2 4. Be6+ Ng4 5. Bg8 Ne5 6. Be6+ Ng4 7. Bg8 e3 $1 8. Bd5 $1 Ne5 9. Be6+ Ng4 10. Bd5 1/2-1/2  
+
+[Event "4 Commendation ts13#338 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B3K1/1p4p1/k4P2/1N5p/1P6/8/8/3r4 w - - 0 1"]
+
+ 1. f7 (1. Nc7+ $2 Kb6 2. f7 (2. Na8+ Ka7 3. f7 Rd8+) 2... Rd8+ 3. f8=Q Rxf8+ 4. Kxf8 Kxc7 5. Bf5 Kb6 6. Bd7 h4) 1... Rd8+ $1 2. Kh7 (2. Kxg7 $2 Kxb5 3. Bd7+ Rxd7) 2... Rxc8 (2... Kxb5 {main} 3. Bd7+ $1 Kxb4 (3... Rxd7 4. f8=Q) 4. Be8 $1 ) 3. Nc7+ $1 Kb6 (3... Rxc7 4. f8=Q Kb5 5. Qb8 $1) 4. Ne8 $1 1-0  
+
+[Event "tl10#3273 @3 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5B2/8/3PP2r/8/8/K1n1b3/8/kb6 w - - 0 1"]
+
+ 1. d7 $1 (1. e7 $2 Nb5+ 2. Kb3 Ba2+ 3. Kc2 Rh2+) 1... Rxe6 (1... Rh4 $1 { cook JU} 2. d8=Q (2. Kb3 Nb5 3. Bg7+ Rd4 $1 4. d8=Q (4. Bxd4+ Nxd4+ 5. Kc4 Nxe6 ) 4... Ba2+ 5. Kc2 Na3+ 6. Kc3 Rxd8) 2... Nb5+ 3. Kb3 Ba2+ 4. Kc2 Rh2+) 2. d8=Q Rb6 3. Qxb6 Bxb6 4. Bg7 Ba5 5. Kb3 Ba2+ 6. Kc2 Bb1+ 7. Kb3 Ba2+ 8. Kc2 1/2-1/2  
+
+[Event "tl10#3292 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/5N2/1p5P/3p1K1N/4p3/8/p7/8 w - - 0 1"]
+
+ 1. Ng5 a1=Q 2. Nf6+ Kf8 3. Ke6 Qa7 4. Ngh7+ Qxh7 5. Nxh7+ Kg8 6. Ng5 e3 7. Kf6 e2 8. h7+ Kh8 9. Kg6 e1=Q 10. Nf7# 1-0  
+
+[Event "tl68 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/p7/2p1p3/2PpP3/p2K4/8/pp1PQ3/1k6 b - - 0 1"]
+
+ 1... Ka1 (1... a1=Q $2 2. Qd1+ Ka2 3. Qxa4+ Kb1 4. Qd1+) 2. d3 $1 (2. Qd1+ $2 b1=R $1) 2... b1=Q 3. Qe1 Qxe1 1/2-1/2  
+
+[Event "ts23#03 @1 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r6b/7k/4Np1P/5P2/6K1/1R6/6p1/8 w - - 0 1"]
+
+ 1. Rb1 (1. Kh5 $1 {cook KK/AT/VT/SF/YS} Rg8 2. Rb7+ Bg7 3. Nf8+) 1... g1=Q+ 2. Rxg1 Rg8+ 3. Ng7 Bxg7 4. Kh5 $1 Bf8 (4... Bh8 5. Rxg8 Kxg8 6. Kg6 Kf8 7. Kh7 Kf7 8. Kxh8 Kf8 9. h7 Kf7) 5. Rxg8 (5. Rg6 $2 Be7 6. Rxg8 Kxg8 7. Kg6 Bd8 $1) 5... Kxg8 6. Kg6 Be7 7. h7+ Kh8 8. Kf7 Bd8 9. Kg6 $1 Be7 10. Kf7 1/2-1/2  
+
+[Event "ts25 @2 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/1K1b4/8/2rN4/8/8/8/3B3R w - - 0 1"]
+
+ 1. Rh8+ Be8 2. Ba4 Rb5+ 3. Nb6 Re5 4. Nd5 (4. Nc4 $1 {cook HH} Re1 5. Nd6) 4... Re1 5. Nf6 (5. Nc7 $1 {cook JU}) 5... Rb1+ 6. Ka6 1-0  
+
+[Event "ts25 {v} {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/1K1b4/8/2rN4/8/8/5R2/3B4 w - - 0 1"]
+
+ 1. Rf8+ Be8 2. Ba4 Rb5+ $1 (2... Rc6 3. Rxe8+) 3. Nb6 $1 Re5 (3... Ke7 4. Rxe8+ ) 4. Nd5 Re1 (4... Re4 5. Bb5 $1 (5. Nf6 $2 Rb4+ 6. Ka6 Rxa4+)) 5. Nc7 $1 Rb1+ 6. Bb5 $1 Rxb5+ 7. Nxb5 Ke7 8. Rf5 1-0  
+
+[Event "ts69#088 {c} {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4n3/8/2b2B2/8/4N1p1/8/4K2p/6kB w - - 0 1"]
+
+ 1. Nf2 (1. Ng3 $2 Bxh1 2. Nxh1 Nxf6) 1... Bxh1 2. Nh3+ $1 gxh3 (2... Kg2 3. Nf4+ Kg3 4. Nh5+ Kh3 5. Nf4+) 3. Bd4+ Kg2 4. Be5 Kg1 5. Bd4+ 1/2-1/2  
+
+[Event "tt21#0800 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1p6/kPp4P/2P2N1p/p6P/P1Pn2BK/7P/1b2Nr2 w - - 0 1"]
+
+ 1. h7 Nxe1 2. Bxe1 Bxf5+ 3. Kg2 Bh3+ 4. Kxh3 Rf8 5. c4 Rh8 6. Bc3 Rxh7 7. Bg7 Ka5 8. Bc3+ Ka6 9. Bg7 Rxg7 1/2-1/2  
+
+[Event "tv05 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4P2b/6q1/5QBk/8/3K4/2p4p/8 w - - 0 1"]
+
+ 1. e8=Q Qxe8 2. Qxh7+ Kxg5 3. Qxh2 c1=Q (3... c1=R 4. Qd2+) 4. Qe5+ Qxe5 1/2-1/2  
+
+[Event "4 Honorable Mention tt22#0929 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k1Kn4/b7/8/8/6R1/8/4b3/8 w - - 0 1"]
+
+ 1. Re4 $1 (1. Rg2 $2 Bf1 2. Rg8 Ne6 $1 3. Kd7+ Kb7 4. Kxe6 Bc4+) (1. Rg8 $2 Ne6 2. Kd7+ Kb7 3. Kxe6 Bc4+) 1... Bd3 2. Re8 Nc6 $1 3. Kc7+ Nb8 4. Rh8 1/2-1/2  
+
+[Event "tp21#088 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/3b4/2ppp3/8/2P5/6pk/8/5R1N w - - 0 1"]
+
+ 1. Rf3 Kg2 2. Rxg3+ Kxh1 3. Rg7 Be8 (3... Bc8 4. Rc7 Ba6 5. Rxc6) 4. Rg8 Bf7 ( 4... Bd7 5. Rd8 $1) 5. Rf8 Bg6 6. Rh8+ Kg2 7. Rg8 1-0  
+
+[Event "ts23#24 @2 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6k1/8/b7/8/K3R3/n7/8/2b5 w - - 0 1"]
+
+ 1. Re1 Bb2 2. Kb3 (2. Re6 $2 Bb5+ $1) 2... Nc4 3. Re6 (3. Re8+ $1 {cook VK} Kf7 4. Ra8 Bb5 5. Rb8 Ba6 6. Ra8) 3... Bb5 4. Kb4 Na3 5. Kb3 Nc4 6. Kb4 1/2-1/2  
+
+[Event "ts23#24 {c} {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5k2/8/b7/8/K3R3/n7/8/2b5 w - - 0 1"]
+
+ 1. Re1 Bb2 2. Kb3 (2. Re6 $2 Bb5+ $1) 2... Nc4 3. Re6 Bb5 4. Kb4 Na3 5. Kb3 Nc4 6. Kb4 1/2-1/2  
+
+[Event "ts69#307 @3 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5r1k/5pR1/b4PP1/5P2/K7/P7/4P2p/4b3 w - - 0 1"]
+
+ 1. Rh7+ Kg8 2. g7 Bb5+ 3. Kb3 Bc4+ (3... Ba4+ $1 {cook HH} 4. Ka2 Bb3+ $1 5. Kb1 Bc2+ 6. Ka2 Bb1+ $1 7. Ka1 Bc3+) 4. Kc2 Bd3+ 5. Kd1 Bxe2+ 6. Kxe1 Kxh7 $1 { cook HH} 7. gxf8=Q h1=Q+ 8. Kxe2 Qe4+ 1-0  
+
+[Event "tt22#0890 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/8/8/1K2k1N1/5n1n/2bB4/N7/8 w - - 0 1"]
+
+ 1. Kc4 $1 Nxd3 2. Kxd3 Be1 3. Ke2 Bg3 4. Nf3+ Nxf3 5. Kxf3 Be1 6. Ke2 Bg3 7. Bc7+ 1-0  
+
+[Event "ts13#247 {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kN6/8/2p5/K1p5/2P5/3b2p1/8/7B w - - 0 1"]
+
+ 1. Nxc6 Bf1 $1 (1... Bb1 2. Kb6) 2. Bd5 (2. Be4 $2 g2 3. Nd4+ Kb8 4. Nf3 Bxc4) 2... Bxc4 (2... g2 3. Nd4+ Kb8 4. Nf3 Kc7 5. Kb5 Kd6 6. Ng1) 3. Bg2 $1 1-0  
+
+[Event "ts69#184 {m}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/p1p5/2P1p3/p3P1p1/pR2P1P1/r1k1KB2 w - - 0 1"]
+
+ 1. Rb1+ Kxb1 (1... Kc2 2. Rxa1 Kb2 3. Kd1 Kxa1 4. Kc1 a4 5. Kc2) 2. Kd2 a4 3. Kc3 Kc1 1/2-1/2  
+
+[Event "1 Prize tt22#0811 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5N1K/6PP/5b2/4pk2/5p2/5P2/8 w - - 0 1"]
+
+ 1. Nd6 Bxg6+ 2. Kxg6 e3 3. h7 exf2 4. h8=Q f1=Q 5. Qh2+ Ke3 (5... Kg4 6. Ne4 $1 ) 6. Nf5+ Kd3 7. Qd6+ Kc3 8. Qa3+ Kd2 9. Qa5+ 1-0  
+
+[Event "1/2 Honorable Mention ts23#28 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6K1/8/PN6/p1k5/3p2b1/1pP5/1P6/8 w - - 0 1"]
+
+ 1. Na4+ Kb5 2. cxd4 (2. a7 $2 Bf3 3. cxd4 Kxa4 4. Kf7 Kb5) 2... Be6+ (2... Kxa4 3. d5 $1 Bc8 4. a7 Bb7 5. d6) 3. Kf8 Kxa4 4. Ke7 Bc8 (4... Bd5 5. Kd6 Ba8 6. Kc5) 5. a7 Bb7 6. d5 $1 (6. Ke6 $2 Kb5 7. d5 Kb6 8. d6 Bc8+ $1 9. d7 Bxd7+ 10. Kxd7 Kxa7) 6... Bxd5 7. Kd6 Bh1 8. Kc5 1/2-1/2  
+
+[Event "2 Honorable Mention mg03 ts61 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1N6/r3b3/8/8/2R5/1n3pK1/3P4/7k w - - 0 1"]
+
+ 1. Rc3 $1 Bd6+ 2. Kxf3 Ra3 $1 3. Kf2 Bxb8 4. Rh3+ Bh2 5. Rf3 $3 Bg1+ 6. Kg3 Bc5 7. Rf1+ Bg1 8. Rf3 $1 Bh2+ 9. Kf2 Bd6 10. Rh3+ Bh2 11. Rf3 1/2-1/2  
+
+[Event "2 Prize tt26 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4b1B1/b3K3/4n3/2P5/8/3k4/8/8 b - - 0 1"]
+
+ 1... Nc7 2. Kd8 Bb8 3. Kc8 Na6 4. Kb7 Bb5 5. Kb6 Nc7 6. Kb7 1/2-1/2  
+
+[Event "tc06#216 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/N7/1p6/P1B5/4K3/2p5/N2k1b2 w - - 0 1"]
+
+ 1. Bb3 bxa4 2. Bxc2+ Kc1 3. Nb4 Kb2 4. Kd2 Kxa1 (4... Ka3 5. Kc3) (4... Bc4 5. Bg6) 5. Kc1 Bc4 (5... Be2 6. Bg6) 6. Bb1 Bb3 7. Ba2 $1 Bxa2 8. Nc2# 1-0  
+
+[Event "tm04#0313 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/7p/6pR/7P/4b1KP/7P/4k2r w - - 0 1"]
+
+ 1. Rxh6 gxh4+ 2. Rxh4 $1 Bf2+ 3. Kf3 $1 Bxh4 4. Kg2 Rf1 1/2-1/2  
+
+[Event "ts69 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N3k1K/8/5p2/8/5q2/8/4Q3 w - - 0 1"]
+
+ 1. Nd8+ Kf6 2. Qh4+ Ke5 3. Nf7+ Kd5 4. Qd8+ Kc5 5. Qa5+ Kd4 6. Qa7+ 1-0  
+
+[Event "ts69#173 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "b2k3B/8/2P5/2P5/1N1K3p/8/3n4/4n3 w - - 0 1"]
+
+ 1. Bf6+ Ke8 2. Bxh4 Ndf3+ 3. Ke3 Nxh4 4. Kf2 Nhf3 (4... Nhg2 5. Kf1) (4... Nef3 5. Kg3) (4... Neg2 5. Kg3) 5. Ke2 1/2-1/2  
+
+[Event "tt22#0774 @3 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "Nn6/nk1b4/8/3K4/2B5/2P5/8/8 w - - 0 1"]
+
+ 1. Kc5 Kxa8 (1... Nc8 2. Bd5+ Nc6 3. Be4) 2. Bd5+ Nbc6 (2... Nac6 3. Kb6 Be8 4. Be4) (2... Bc6 $1 {cook JN} 3. c4 (3. Bxc6+ Naxc6) 3... Na6+ 4. Kb6 Nb4 5. Be6 Be4) 3. Kd6 Be8 4. Kc7 Nb5+ 5. Kb6 Nba7 6. Kc7 1/2-1/2  
+
+[Event "tt22#0802 @3 {m}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3B4/3np3/8/3P4/2P4b/6n1/5k1K/8 w - - 0 1"]
+
+ 1. c5 Nxc5 (1... Ne4 $1 {cook}) 2. d6 Nf5 3. dxe7 Nxe7 4. Bb6 $1 Bg3+ 5. Kh1 $1 Bd6 6. Bc7 Bxc7 1/2-1/2  
+
+[Event "1 Honorable Mention tp21 {tw} {tt} {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4n2k/4K2b/5p2/2B5/8/8/8/8 b - - 0 1"]
+
+ 1... Bg6 2. Bd4 Kg7 3. Bb2 Bf7 4. Ba1 Kg6 5. Kf8 1/2-1/2  
+
+[Event "1 Honorable Mention tp21 {tw} {tt} {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7k/4K1nb/5p2/2B5/8/8/8/8 b - - 0 1"]
+
+ 1... f5 2. Kf7 Bg8+ 3. Kg6 Ne6 4. Be7 1/2-1/2  
+
+[Event "1 Prize tz15 @2 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "qN6/1p1K4/8/8/4k3/p7/RPP2Pp1/6B1 w - - 0 1"]
+
+ 1. Rxa3 Qxb8 2. Re3+ Kd4 3. Rd3+ Kc5 4. Rc3+ Kb6 5. Rb3+ Ka6 6. Ra3+ Kb6 7. Rb3+ Kc5 8. Rc3+ Kd4 9. Rd3+ Ke4 10. Re3+ Kf5 11. Re8 $1 (11. Rf3+ $1 {cook} Kg4 12. Rg3+ Kh4 (12... Kf4 13. Bh2) 13. Rxg2) 11... Qa7 12. Re5+ $1 Kf6 13. Re6+ Kf7 14. Re7+ Kf8 15. Re8+ Kf7 16. Re7+ Kf6 17. Re6+ Kf5 18. Re5+ Kf4 19. Re4+ $1 Kf3 20. Re3+ Kf4 21. Re4+ $1 1/2-1/2  
+
+[Event "1 Prize tz15 {v} {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "qN6/1p1K4/8/8/4k2p/p6P/RPP2Pp1/6B1 w - - 0 1"]
+
+ 1. Rxa3 Qxb8 2. Re3+ Kd4 3. Rd3+ Kc5 4. Rc3+ Kb5 5. Rb3+ Ka6 6. Ra3+ Kb5 7. Rb3+ Kc5 8. Rc3+ Kd4 9. Rd3+ Ke4 10. Re3+ Kf5 11. Re8 $1 Qa7 12. Re5+ Kf6 13. Re6+ Kf7 14. Re7+ Kf8 15. Re8+ Kf7 16. Re7+ Kf6 17. Re6+ Kf5 18. Re5+ Kf4 19. Re4+ $1 1/2-1/2  
+
+[Event "3 Honorable Mention tp21 {tw} {tt} {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7B/K7/3r4/1B6/8/k7 w - - 0 1"]
+
+ 1. Bg7 Kb2 2. Ba4 (2. Bc4 $2 Ka3 3. Bxd4) 2... Kc3 3. Bb5 1-0  
+
+[Event "3 Honorable Mention tp21 {tw}{tt} @2 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/K6B/8/3r4/1B6/8/k7 w - - 0 1"]
+
+ 1. Bg7 Kb2 2. Bc4 $1 (2. Ba4 $2 Ka3 $1) 2... Kc3 3. Bb5 (3. Kb5 $1 {cook JU}) ( 3. Bf1 $1 {cook JU}) 1-0  
+
+[Event "3 Honorable Mention tr11#0351 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3rn2P/4p2k/6p1/4K1P1/5RP1/8 w - - 0 1"]
+
+ 1. Rf6 Nd4 2. Rxd6 Nf5+ 3. Ke4 Nxd6+ 4. Kxe5 Nf7+ 5. Kf5 (5. Kf6 $2 Nxh6 6. Kg7 Kg5) 5... Nxh6+ 6. Kf6 Ng8+ 7. Kf7 Nh6+ 8. Kf6 1/2-1/2  
+
+[Event "3 Prize ts69#118 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5N2/8/4n3/3B4/5k1P/7b/5K2 w - - 0 1"]
+
+ 1. Ng5+ Kf4 2. Bxe5+ Kxe5 3. Nf3+ Kf4 4. Kf2 $1 (4. Kg2 $2 Bg3 $1) (4. Nxh2 $2 Kg3) 4... Bg3+ 5. Kg2 1-0  
+
+[Event "te13 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2b1N3/4Nk2/2K5/8/8/4r3/3B4/8 w - - 0 1"]
+
+ 1. Nd6+ Kxe7 2. Nxc8+ Kd8 3. Nd6 Re7 (3... Rg3 4. Ba5+ Ke7 5. Nf5+) 4. Ba5+ 1-0  
+
+[Event "tl03#32 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4kr1r/3R1pK1/4P3/5P1p/7P/8/8/6B1 w k - 0 1"]
+
+ 1. Rd8+ $1 (1. Rxf7 $2 Rfg8+ 2. Kf6 Rh6+ 3. Ke5 Rxg1) 1... Kxd8 2. e7+ (2. exf7 $2 Kd7 3. Bc5 Rc8 4. f8=Q Rhxf8 5. Bxf8 Rc4) 2... Kxe7 3. Bc5+ Ke8 4. Bxf8 Rxf8 5. f6 $1 1-0  
+
+[Event "ts13#156 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/8/8/8/8/N4r2/7R/r4k1K w - - 0 1"]
+
+ 1. Ba6+ (1. Bh3+ $2 Rxh3) 1... Ke1 2. Nc2+ Kd1 3. Nxa1 Ra3 $1 4. Be2+ $1 (4. Bc4 $2 Rxa1 5. Ba2 Ke1 6. Rg2 Rc1) 4... Kc1 5. Bc4 $1 Rxa1 6. Ba2 $1 Kd1 7. Rg2 Rc1 8. Bb3+ Ke1 9. Bc2 1-0  
+
+[Event "ts13#166 {m}"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6b1/5k2/8/1P5p/1p2K2P/8/8/8 w - - 0 1"]
+
+ 1. b6 b3 2. b7 b2 3. b8=Q b1=Q+ 4. Qxb1 Bh7+ 5. Kf4 Bxb1 6. Kg5 Bg6 7. Kh6 Kf6 1/2-1/2  
+
+[Event "2 Commendation tp21#032 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5r1k/rp3pR1/1K1p2PP/3P4/7p/8/2P5/8 w - - 0 1"]
+
+ 1. Rh7+ Kg8 2. g7 Ra6+ 3. Kb5 Ra5+ 4. Kb4 Ra4+ 5. Kb3 Ra3+ 6. Kb2 Ra2+ 7. Kc1 Rxc2+ 8. Kb1 Rc1+ 9. Kb2 Rc2+ 10. Kb3 Rc3+ 11. Kb4 Rc4+ 12. Kb5 Rc5+ 13. Kb6 Rc6+ 14. dxc6 1-0  
+
+[Event "tp21#014 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/8/8/7N/2K5/R1nr1r1k w - - 0 1"]
+
+ 1. Nf2+ Rxf2+ 2. Kxd1 Na2 $1 3. Rb1 $1 (3. Ke1 $2 Kg1 $1 4. Rd1 Nc3 $1 5. Rd2 Rf1#) 3... Nc3+ 4. Ke1 Kg1 5. Rb2 $1 Rxb2 1/2-1/2  
+
+[Event "tt22#0646 @3 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/p1k1p3/R3PK2/p2p1p2/P3pP2/b3P3/8 w - - 0 1"]
+
+ 1. Ke4 d3 $1 (1... Bb3 $1 {cook JU} 2. Kxd4 b6 3. Rxa6 Kb7) 2. Kxd3 (2. exd3 $2 e2) 2... Bc4+ $1 (2... Bb3 $1 {cook JU}) 3. Kxc4 b5+ 4. Kd3 $1 (4. Kd4 $2 Kb6 $1) 4... Kb7 5. Ke4 (5. Kd4 $2 Kb6 $1) 5... Ka7 6. Kxf4 Kb6 7. Rxa4 bxa4 8. Kxe3 1-0  
+
+[Event "tt22#0687 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7R/8/8/8/1kp5/8/1rn5/3K4 w - - 0 1"]
+
+ 1. Kc1 c3 $1 2. Rb8+ Ka3 3. Rxb2 cxb2+ 4. Kb1 Ne3 (4... Kb3) 1/2-1/2  
+
+[Event "tt22#0693 @3 @2 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/2p5/1Pk5/8/7r/8/4N3/8 w - - 0 1"]
+
+ 1. b7 Ra4+ 2. Kb8 Rb4 (2... Re4 $1 {cook OV}) 3. Ka8 Rxb7 4. Nd4+ Kb6 5. Nc6 Ka6 6. Nb4+ Kb6 7. Nc6 (7. Nd5+ $1 {cook AH}) 7... Kxc6 1/2-1/2  
+
+[Event "tt22#0693 {c} {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/2p5/1Pk1p1N1/4P3/6r1/8/8/8 w - - 0 1"]
+
+ 1. b7 Ra4+ 2. Kb8 Rb4 3. Ka8 $1 Rxb7 4. Ne7+ Kb6 5. Nc6 Ka6 6. Nb4+ Kb6 7. Nc6 Kxc6 1/2-1/2  
+
+[Event "tt22#0693 {c} @3 {m}"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/2p2p2/1Pk1pP2/4P3/2r5/8/4N3/8 w - - 0 1"]
+
+ 1. b7 Ra4+ 2. Kb8 Rb4 3. Ka8 $1 Rxb7 4. Nd4+ Kb6 (4... Kd5 $1 {cook PP} 5. Nxe6 Kxe6 6. Kxb7 Kxe5) 5. Nc6 $1 Ka6 6. Nb4+ $1 Kb6 7. Nc6 $1 1/2-1/2  
+
+[Event "1 Commendation tt22#0626 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6Bk/3n4/7p/7P/5Rp1/6p1/2K1p3/8 w - - 0 1"]
+
+ 1. Kd2 Ne5 2. Kxe2 g2 3. Kf2 Nd3+ 4. Kxg2 Nxf4+ 5. Kg3 Nxh5+ 6. Kxg4 Nf6+ 7. Kf5 Kxg8 8. Kg6 1/2-1/2  
+
+[Event "1/2 Prize ts53#2962 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/P7/1kP5/8/8/3p1pp1/1P1P1Pr1/4K2R b K - 0 1"]
+
+ 1... Rh2 $1 2. O-O $1 (2. Rf1 $2 g2) (2. Rg1 $2 gxf2+) (2. a8=N+ $2 Kxc6 3. O-O Rg2+ 4. Kh1 Rxf2 5. Rc1+ Kb7 6. Nc7 Rh2+ 7. Kg1 f2+ 8. Kf1 Rh1+) 2... g2 (2... Rg2+ 3. Kh1 Rxf2 4. Kg1 Rxf1+ 5. Kxf1 Kxa7 6. b4 Kb6 7. b5) 3. a8=N+ Kb5 4. Nc7+ Kb4 5. Na6+ Kb3 6. Nc5+ Kb4 7. Na6+ Kb5 8. Nc7+ 1/2-1/2  
+
+[Event "2 Honorable Mention ts13#81 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4k3/1p1nP3/1p6/1PP5/2P2K2/8/8/8 w - - 0 1"]
+
+ 1. c6 $1 (1. cxb6 $2 Kxe7 $1 2. Ke4 Ke6 $1) 1... Nc5 $1 (1... Nb8 2. c7) (1... Kxe7 2. c7) (1... bxc6 2. bxc6 Nc5 3. c7 Ne6+ 4. Ke5 Nxc7 5. Kd6) 2. c7 $1 (2. cxb7 $2 Nxb7 3. Ke5 Kxe7) 2... Ne6+ 3. Ke5 Nxc7 4. Kd6 Na8 5. Ke6 $1 Nc7+ 6. Kd6 Na8 7. Ke6 1/2-1/2  
+
+[Event "2 Prize tt22#0627 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1k2N2K/1P6/7B/4r3/7R/8/6pn/6b1 w - - 0 1"]
+
+ 1. Bf4 $1 Bd4 2. Bxh2 g1=Q 3. Bxg1 Rxe8+ 4. Kh7 Rh8+ 5. Kg6 Rxh4 6. Kg5 Re4 7. Kf5 Re5+ 8. Kf6 Rd5+ 9. Ke6 Rd8 10. Ke7 1/2-1/2  
+
+[Event "3 Commendation tc06#3495 (@2) {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4Bn1k/7b/5p2/2Bp4/3K4/8/8/8 b - - 0 1"]
+
+ 1... Ne6+ 2. Kxd5 Nc7+ 3. Kd6 Nxe8+ 4. Ke7 Bg6 5. Bd4 Kg7 6. Bb2 (6. Ba1 $1 { minor dual JU}) (6. Bc3 $1 {minor dual JU}) 6... Bf7 7. Ba1 Kg6 8. Kf8 f5 9. Be5 1/2-1/2  
+
+[Event "3 Prize ts61 @3 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/8/5N2/8/3p1p2/2p1bP2/K4P2/8 w - - 0 1"]
+
+ 1. Kb3 d3 (1... Bxf2 2. Ne4 Bh4 (2... Be3 $1 {cook JU}) 3. Nc5 $1 Bf6 4. Ne6+ Kd7 5. Nxf4 Kd6 6. Nd3) 2. Kxc3 Bd4+ 3. Kxd3 Bxf6 4. Ke4 Bg5 5. Kf5 Bh6 6. Ke6 Bf8 7. Ke5 Bh6 8. Ke6 1/2-1/2  
+
+[Event "3 Prize ts61 {v} {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/3P4/5N2/8/3p1p2/2p1bP2/K4P2/8 w - - 0 1"]
+
+ 1. Kb3 d3 (1... Bxf2 2. Ne4 Bh4 3. Nc5 $1 Bf6 4. Ne6+ Kxd7 5. Nxf4 Kd6 6. Nd3) 2. Kxc3 Bd4+ 3. Kxd3 Bxf6 4. Ke4 Bg5 5. Kf5 Bh6 6. Ke6 Bf8 7. Ke5 Bh6 8. Ke6 1/2-1/2  
+
+[Event "ts76 @2 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Kbk5/4p3/4p3/P7/B7/8/8/8 w - - 0 1"]
+
+ 1. Bd7+ Kc7 2. Bxe6 Kc6 3. Bd7+ $1 Kc7 4. Bb5 Kc8 (4... e5 5. Ba6 e4 6. Bb7 e3 7. Ba6) 5. Ba6+ Kc7 6. Bb7 e5 7. Ba6 (7. Be4 $1 {cook JU} Kc8 8. Bf5+ Kc7 9. Bd3 Kc8 10. Ba6+ Kc7 11. Bb7) 7... e4 8. Bb7 e3 9. Ba6 e2 10. Bxe2 Kc8 11. Ba6+ Kc7 12. Bb7 1-0  
+
+[Event "ts76 {v} {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Kbk5/8/4p3/P7/B7/8/8/8 w - - 0 1"]
+
+ 1. Bd7+ $1 Kc7 2. Bxe6 Kc6 3. Bd7+ Kc7 4. Bb5 Kc8 5. Ba6+ Kc7 6. Bb7 1-0  
+
+[Event "tt22#0591 @1 @2 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/8/1R6/3B4/8/8/nn6/7K b - - 0 1"]
+
+ 1... Na4 2. Rd6+ (2. Rb8+ $1 {cook JU}) 2... Kc7 3. Rc6+ (3. Rh6 $1 {cook JU}) 3... Kd7 4. Ra6 N2c3 5. Bc6+ Kc7 6. Bxa4 Kb7 7. Ra5 Kb6 8. Ra8 Kb7 9. Bc6+ Kxc6 10. Rc8+ 1-0  
+
+[Event "tt22#0628 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/3r1p2/Kp6/8/7P/7P/1B2B3 w - - 0 1"]
+
+ 1. Be4+ Ka7 2. Bf2+ Kb8 3. Bg3 Kc7 4. h4 $1 Kd7 5. Bxd6 1-0  
+
+[Event "tt23#414 @3 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/r6B/2P2p2/1P3p2/4p3/1p3p2/5K2/2N5 w - - 0 1"]
+
+ 1. Bxf5 b2 2. Bxe4 bxc1=Q 3. c7+ Rb7 4. b6 Qc5+ 5. Kg3 $1 (5. Kxf3 $2 f5) 5... f2 6. Kg2 f5 7. Bf3 Qc2 $1 {cook CF} 8. Bd5 f4 9. Bf3 Qg6+ 10. Kxf2 Qxb6+ 1/2-1/2  
+
+[Event "tu08 {m}"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "b7/8/Kb6/2k5/8/n7/8/2B5 w - - 0 1"]
+
+ 1. Be3+ $1 (1. Bxa3+ $2 Kc6 2. Bb4 Bb7#) 1... Kc6 2. Bxb6 Bb7+ 3. Ka7 Nb5+ 4. Kb8 Kxb6 1/2-1/2  
+
+[Event "3 Prize tt22#0593 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7B/4k3/5R2/4n2P/1b1K4/3p4/6b1 w - - 0 1"]
+
+ 1. Rf1 d1=Q+ 2. Rxd1 Nf2+ 3. Ke2 Bxd1+ 4. Kf1 Nh3 5. Kg2 Bg4 6. Kg3 Nf2 7. Kg2 Nh3 8. Kg3 1/2-1/2  
+
+[Event "ts13#43 @1 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1n1n4/8/6k1/4BR2/8/8/8/K7 w - - 0 1"]
+
+ 1. Rf6+ (1. Rf1 $1 {cook JU}) 1... Kg5 2. Rf8 Nbc6 3. Bf6+ Kg6 4. Bxd8 Kg7 $1 5. Re8 Kf7 6. Rh8 $1 Kg7 7. Bf6+ $1 Kxf6 8. Rh6+ 1-0  
+
+[Event "ts53 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3k4/8/1P6/K7/8/8 w - - 0 1"]
+
+ 1. Ka4 Kc6 2. Ka5 Kb7 3. Kb5 Ka7 4. Kc6 Ka6 5. b5+ Ka7 6. Kc7 Ka8 7. Kb6 Kb8 8. Ka6 1-0  
+
+[Event "ts53 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/2pBp3/2P1P3/8/8/3K4/8/8 w - - 0 1"]
+
+ 1. Bc8 $1 (1. Be8 $2 Kxe8 2. Kc4 Kd8 3. Kb5 Kc8 4. Ka6 Kb8) 1... Kxc8 2. Ke4 Kd8 3. Kf5 Ke8 4. Kg6 Kf8 5. Kh7 1-0  
+
+[Event "tt22#0583 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3b3K/8/8/1r5B/8/8/6kB/8 w - - 0 1"]
+
+ 1. Be8 $1 Rb6 $1 2. Bf4 (2. Be5 $2 Re6 $1) 2... Rf6 3. Bg5 Rf8+ 4. Kg7 Rxe8 5. Kf7 Rh8 6. Kg7 1/2-1/2  
+
+[Event "tt22#0592 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6nr/3N1Kb1/7k/7n/8/8/8/6R1 w - - 0 1"]
+
+ 1. Rg6+ Kh7 2. Rxg7+ Nxg7 3. Nf8+ Kh6 4. Ng6 Rh7 5. Nf8 1/2-1/2  
+
+[Event "tt68 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/6pb/5P2/5P2/7K/8/8/8 w - - 0 1"]
+
+ 1. f7 g5+ 2. fxg6 Bg8 $1 3. f8=R $1 Kg7 4. Re8 Kh6 5. Kg4 Bb3 6. Kf5 Bc2+ 7. Kf6 Bxg6 8. Rh8+ Bh7 9. Kf7 1-0  
+
+[Event "tu08 {m}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "5bnr/4PKnk/8/8/8/8/8/8 w - - 0 1"]
+
+ 1. exf8=N+ (1. exf8=Q $2 Nh6+ 2. Ke7 Ngf5+ 3. Ke8 Nd6+ 4. Ke7 Nhf5+) 1... Kh6 2. Ng6 Rh7 3. Nf8 1/2-1/2  
+
+[Event "tn23#059 {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/3k4/rPN2P1b/p7/7P/6p1/6P1/6K1 w - - 0 1"]
+
+ 1. b7 Rxc6 2. b8=N+ $1 Kxd8 3. Nxc6+ Ke8 4. Nxa5 Kf7 5. Kf1 Kxf6 6. Ke2 Kg6 7. Kf3 Kh5 8. Kxg3 Bd2 9. Nc4 Be1+ 10. Kh3 Bxh4 11. g4+ Kg5 12. Nd2 Be1 (12... Bf2 13. Ne4+) 13. Nf3+ 1-0  
+
+[Event "tn23#060 {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/2p4N/2p3pp/2Pp1ppk/3P2b1/8/6KN w - - 0 1"]
+
+ 1. Nf5+ Kh3 2. Nhxg3 fxg3 3. Nh4 $1 Kxh4 (3... gxh4 4. Kh1 g2+ 5. Kg1 g3) 4. Kg2 1/2-1/2  
+
+[Event "tt22#0526 {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N1k/5P1b/8/4nP2/7K/8/8/8 w - - 0 1"]
+
+ 1. Ng6+ $1 Nxg6+ 2. fxg6 Bg8 $1 3. f8=R $1 (3. f8=Q $2) 3... Kg7 4. Re8 $1 (4. Rb8 $2 Kh6 5. Kg4 (5. Rxg8) 5... Be6+ 6. Kf4 Kxg6) 4... Kh6 $1 5. Kg4 (5. Rxg8 $2) 5... Bb3 6. Kf5 Bc2+ 7. Kf6 1-0  
+
+[Event "tt23#318 {m}"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/6p1/6pP/6pk/7r/6BP/5K2 w - - 0 1"]
+
+ 1. Bxh3 gxh5 (1... Kxh5 2. Bg2 Kh4 3. Kf2 Kh5 4. Kg3) 2. Kg2 $1 gxh3+ 3. Kf3 g4+ 4. Kf4 g3 5. hxg3# 1-0  
+
+[Event "1 Honorable Mention tt22#0480 {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1PR5/k1p1q3/Bp2P3/1b6/1p6/1p6/1K6 w - - 0 1"]
+
+ 1. Rxc6+ $1 Qxc6 (1... Kxb7 2. Rxe6 Bxa5 3. Rd6 $1 Bc7 4. Rd5 Kc6 5. e6 Bd6 6. Rd3) 2. b8=N+ $1 Kxa5 3. Nxc6+ Ka4 4. Nxb4 Kxb4 5. e6 Ka3 $1 6. e7 b4 7. e8=R $1 Ka4 {eg} 8. Re5 Ka3 9. Ra5# 1-0  
+
+[Event "2 Prize tn23 {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3n2k1/3K4/8/1r6/2N5/1b4P1/6B1 w - - 0 1"]
+
+ 1. Nd5 Rb5 2. Nc7 Be5+ 3. Kxd7 Rb7 4. Kd8 Rxc7 (4... Bxc7+ 5. Kc8 Rb1 6. Bd4+) 5. Bd4 1/2-1/2  
+
+[Event "tt22#0433 {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4P2R/2b5/7p/4pK1P/7P/5k1r w - - 0 1"]
+
+ 1. e7 Bxe7 2. Rb6 e2 3. Rb1+ e1=Q 4. Rxe1+ Kxe1 5. Kg2 Rf1 1/2-1/2  
+
+[Event "tt22#0441 {m}"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3bB3/8/4R3/2r5/p7/1k5p/3K4/8 w - - 0 1"]
+
+ 1. Re3+ Kb2 2. Rxh3 Bg5+ 3. Kd1 Rd5+ 4. Ke2 Re5+ 5. Kd1 Rxe8 6. Rb3+ Ka2 7. Rb2+ Ka1 (7... Ka3 8. Rb3+ axb3 (8... Kxb3)) 8. Rb1+ Kxb1 1/2-1/2  
+
+[Event "ts53 {m}"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/5p2/6B1/5K2/7p/7k w - - 0 1"]
+
+ 1. Bh3 Kg1 2. Bg2 f4 3. Bh1 Kxh1 4. Kf2 f3 5. Kf1 f2 6. Kxf2 1/2-1/2  
+
+[Event "ts61 {m}"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Hildebrand A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7R/3K4/6b1/8/k7/5Bb1 w - - 0 1"]
+
+ 1. Rg6 Bf3+ 2. Kc4 $1 Be3 (2... Bh2 3. Rf6 Bb7 4. Rf2+ Ka3 5. Rxh2 Ba6+ 6. Kc3 Bxf1 7. Rh1) 3. Rg3 Bb7 $1 4. Rxe3 $1 Ba6+ 5. Kb4 $1 Bxf1 6. Rf3 1-0  
+

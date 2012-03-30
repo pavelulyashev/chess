@@ -1,0 +1,1100 @@
+[Event "4 Prize tj03 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/4pN2/Kp1PP1pP/1p6/p6b/7r/8/8 w - - 0 1"]
+
+ 1. d7 Rd3 2. Ne5 Rd1 3. Ng4 Be1 4. Nf2 Bxf2 5. h7 Bd4 6. d8=Q# 1-0  
+
+[Event "ta18 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5b2/2NB4/8/6p1/8/2N3k1/5n2/6K1 w - - 0 1"]
+
+ 1. Ne2+ Kf3 2. Nd4+ Kg3 3. Nf5+ Kf3 4. Ne6 Bb4 5. Bc6+ Ke2 6. Nfd4+ Ke3 7. Nc2+ 1-0  
+
+[Event "te19 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7P/4K2k/8/8/2p1N1p1/8 w - - 0 1"]
+
+ 1. h7 Kg4 2. h8=R Kf3 3. Nd4+ Ke3 4. Nxc2+ Kf2 5. Rf8+ Kg3 6. Nd4 g1=Q 7. Ne2+ 1-0  
+
+[Event "tl22 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3n4/8/3P4/k3PpP1/1p5K/6p1/5bP1/N7 w - - 0 1"]
+
+ 1. g6 Ne6 2. d7 Bb6 3. Nb3+ Ka4 4. Nc5+ Nxc5 5. g7 1-0  
+
+[Event "tl35 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P3P3/7k/2bp3r/8/3KP3/4R3 w - - 0 1"]
+
+ 1. a7 Bd5 2. Rh1 Bxh1 3. e7 Re4 4. a8=Q Rxe7 5. Qxh1+ 1-0  
+
+[Event "tl35 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/P3P3/4r2k/4p3/5P2/2b4K/5R2 w - - 0 1"]
+
+ 1. a7 Ra5 2. Ra1 Rxa1 3. e7 Ba4 4. a8=Q 1-0  
+
+[Event "tl35 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/7p/P3P3/7k/8/P1r4p/7R/3b4 w - - 0 1"]
+
+ 1. Rxh3+ Rxh3 2. a7 Rxa3 3. e7 Ba4 4. a8=Q Re3 5. Qa5+ 1-0  
+
+[Event "tl35 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B4/p6K/6p1/2Rn3k/r6p/3r1N1R/3p4/3n4 w - - 0 1"]
+
+ 1. Nh2 Rdd4 2. Rxh4+ Rxh4 3. Rxd5+ g5 4. Rxg5# {#} 1-0  
+
+[Event "tl35 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Qn5k/4p3/2Pnp1K1/2p1p3/1r1b2p1/2r5/p3Rp2/8 w - - 0 1"]
+
+ 1. Rb2 Rxb2 2. c7 Rcb3 3. cxb8=Q+ Rxb8 4. Qh1+ Kg8 5. Qh7+ Kf8 6. Qh8# {#} 1-0  
+
+[Event "tl35 {m}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/4R1N1/7k/5p2/5p1K/5b2 b - - 0 1"]
+
+ 1... Bg2 2. Nxf3+ Bxf3 3. Re4+ Kh5 4. Rh4+ Kg5 5. Rg4+ Kf5 6. Rg1 1/2-1/2  
+
+[Event " Commendation tb25 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6N1/3p4/4p3/1q2Pk2/2p2P1K/8/1P4P1/3N4 w - - 0 1"]
+
+ 1. Ne7+ Kxf4 2. Ng6+ Kf5 3. Kh5 Qb6 4. Nc3 Qg1 5. Nh4+ Kxe5 6. Nf3+ 1-0  
+
+[Event "1 Prize te19 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3k4/P2p2P1/p1bPq3/2p5/p2P4/PpP5/1K1P1p2/R4B2 w - - 0 1"]
+
+ 1. Bc4 Qxc4 2. Rh1 Bxh1 3. d5 1-0  
+
+[Event "1 Prize tn17 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "B7/2Q3K1/8/1p4k1/8/2p4p/8/5q2 w - - 0 1"]
+
+ 1. Qg3+ Kf5 2. Bf3 Qa1 3. Qg4+ Ke5 4. Qe4+ Kd6 5. Qc6+ Ke7 6. Qc5+ Kd8 7. Bg4 c2+ 8. Kg8 Qa6 9. Kf7 Qb7+ 10. Kf8 c1=Q 11. Qd6+ 1-0  
+
+[Event "2 Prize te19 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/3p4/1P3K2/6p1/4k3/1N1b4/8 w - - 0 1"]
+
+ 1. Nc4+ Kd4 2. b6 Ba5 3. Nxa5 g3 4. Nb3+ Kd3 5. Nd4 Kxd4 6. b7 g2 7. b8=Q g1=Q 8. Qb6+ 1-0  
+
+[Event "2 Prize tn17 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/k3Bb2/p2p4/8/K7/8/6R1/4b3 w - - 0 1"]
+
+ 1. Rg7 Be8+ 2. Kb3 Kb6 3. Bd8+ Kc6 4. Rc7+ Kd5 5. Re7 1-0  
+
+[Event "3 Prize tf03 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2p5/P5P1/1p1nNP2/k7/1p5b/8/1K6 w - - 0 1"]
+
+ 1. a7 Bxf5+ 2. Kb2 Nb6 3. g7 Be6 4. Nd7 Na8 5. Nc5+ Kb4 6. Nxe6 1-0  
+
+[Event "3 Prize tl10 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1p1R2B1/8/k7/8/6b1/2b1K3 w - - 0 1"]
+
+ 1. Kf2 Ba8 2. Rd8 Bb7 3. Rd7 Ba6 4. Ra7 Ka5 5. Bf5 b5 6. Bc8 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6p1/2Nq1k1n/B2P3B/8/3K4/1P3P2/8 w - - 0 1"]
+
+ 1. Bd8+ Kf5 2. Nd4+ Ke5 3. f4+ Kxd5 4. Bf3+ Kc5 5. b4+ Kxb4 6. Be7 Qxe7 7. Nc6+ Kc5 8. Nxe7 Kd6 9. Ng6 Nf5 10. Be4 Ke6 11. Ke2 Kf6 12. Kf3 Nh6 13. Bd3 Nf7 14. Kg4 Nh6+ 15. Kh4 Ke6 16. Kg5 Nf7+ 17. Kh5 Nh6 18. Ne5 Ke7 19. Kg6 Kf8 20. Bc4 1-0  
+
+[Event "te04 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/8/3R2B1/8/8/8/6b1/2b1K3 w - - 0 1"]
+
+ 1. Kf2 Bb7 2. Bc2 Bg5 3. Kg3 Bc8 4. Rc6 Bd7 5. Rb6 Be7 6. Rb8+ Kg7 7. Rb7 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/2k4P/2P5/b1K5/7P/8 w - - 0 1"]
+
+ 1. h6 Bc1 2. h7 Bg5 3. h8=B 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/7k/3P1K1P/8/8/bN3p2/7P/8 w - - 0 1"]
+
+ 1. d7 f2 2. Nd2 Bc1 3. Nf1 Bf4 4. d8=B 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3b4/5B2/P7/k2K4/8/8/1p6/8 w - - 0 1"]
+
+ 1. a7 b1=Q 2. a8=R+ Kb5 3. Be8+ Kb4 4. Rb8+ 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2n5/6P1/8/7k/2K5/7P/B4b2 w - - 0 1"]
+
+ 1. g7 Nd5+ 2. Kb3 Ne7 3. Bf6+ Kh5 4. Bxe7 Bh3 5. g8=B Bf1 6. Kc3 Bh3 7. Kd4 Kg6 8. Ke5 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5p2/b7/7P/6P1/1K2k3/8/1Bb5 w - - 0 1"]
+
+ 1. h6 Bc4+ 2. Kc3 Bd3 3. Bxd3 Ba3 4. h7 Be7 5. h8=B Kf4 6. Bf5 f6 7. Kd4 Kg5 8. Kd5 Ba3 9. Bg7 Bb2 10. Bf8 Bc3 11. Bc5 Ba5 12. Bd4 Bc7 13. Ke6 Bd8 14. Kd7 Ba5 15. Ke7 Bb4+ 16. Kf7 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2P5/4k3/1r4P1/3K4/6N1/8 w - - 0 1"]
+
+ 1. c7 Rd4+ 2. Kc3 Rd6 3. c8=R 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5N1K/8/P3P2k/4r3/8/8/4P3/8 w - - 0 1"]
+
+ 1. a7 Ra5 2. e7 Rxa7 3. e8=R 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/2N5/3P2P1/k5r1/3P3p/7K/8 w - - 0 1"]
+
+ 1. d6 Rg2+ 2. Kxh3 Rxg5 3. d7 Rd5 4. d8=R Rxd8 5. Nxd8 Kb4 6. Ne6 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/P7/N5rP/P7/2p5/4k3/1K6 w - - 0 1"]
+
+ 1. axb7 Kd1 2. Nb3 Rg4 3. b8=R Rxa4 4. Rd8+ Ke2 5. Nd4+ Ke3 6. h6 Ra7 7. Nf5+ Ke2 8. Ng7 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6n1/5P2/1N6/8/5P2/8/1p3r1P/3k3K w - - 0 1"]
+
+ 1. Na4 b1=Q 2. Nc3+ Ke1 3. Nxb1 Rf1+ 4. Kg2 Rxf4 5. fxg8=R 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7K/8/2P5/k1p1N3/2Pn2r1/3P4/8/8 w - - 0 1"]
+
+ 1. c7 Rh4+ 2. Kg8 Nc6 3. Nxc6+ Kb6 4. c8=R Kb7 5. Ne7 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B3/8/4P3/4P3/8/6r1/8/1k1K4 w - - 0 1"]
+
+ 1. e7 Rd3+ 2. Ke2 Rd5 3. Bg6+ Kc1 4. e8=R 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1B6/2pP4/8/K1k5/2r5/2P5/8 w - - 0 1"]
+
+ 1. Ba6+ Kc5 2. d7 Rf3 3. d8=R 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/8/8/4P3/5P2/7P/5r1k/3K4 w - - 0 1"]
+
+ 1. f5 Kg3 2. f6 Kh4 3. e6 Rxf6 4. e7 Rd6+ 5. Ke2 Rd5 6. e8=R 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3K4/4P3/B3r2k/1P6/8/4p2P/8/8 w - - 0 1"]
+
+ 1. b6 e2 2. Bxe2 Rxb6 3. Bg4 Rg6 4. e8=R 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/8/6P1/7k/3p3r/3P2n1/8/6K1 w - - 0 1"]
+
+ 1. g7 Nf5 2. Bxf5 Kh6 3. g8=R 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/1P3K1P/k7/P7/P2nB3/7r/8 w - - 0 1"]
+
+ 1. b7 Nc5 2. Bxc5 Rxh6+ 3. Kg7 Rb6 4. Bxb6+ Ka6 5. b8=N+ Kxb6 6. Nd7+ Ka5 7. Nc5 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6r1/1P1P2Bp/3p3P/kP1p1K2/3P4/5b2/8 w - - 0 1"]
+
+ 1. d7 Rxd7 2. Be8 Kb5 3. b7 Kc6 4. b8=N+ Kd6 5. Nxd7 Ke7 6. Ke5 Kxe8 7. Kd6 Kd8 8. Kc6 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/6qp/pB6/3k2PP/3N4/3K4/2P5/8 w - - 0 1"]
+
+ 1. c4+ Ke5 2. Ba7 Qc7 3. Bb8 Qxb8 4. Nc6+ 1-0  
+
+[Event "te19 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "q7/1N4R1/8/8/4N3/8/k1K5/8 w - - 0 1"]
+
+ 1. Nc3+ Ka3 2. Rg4 Qa6 3. Nd6 Qc6 4. Ndb5+ 1-0  
+
+[Event "tj03 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/8/3R4/6pB/8/2K1b3/8/7k w - - 0 1"]
+
+ 1. Rd8 Ba2 2. Re8 Bc5 3. Re1+ Bg1 4. Bf3+ Kh2 5. Re2+ Kg3 6. Ba8 1-0  
+
+[Event "tl10 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/b7/2P5/n3K3/2B5/p7/8/7k w - - 0 1"]
+
+ 1. Bd5+ Kg1 2. c7 a2 3. Bxa2 Bb8 4. cxb8=N Kf2 5. Kd4 Ke2 6. Bd5 Kd2 7. Nd7 Kc2 8. Nc5 Kb2 9. Kd3 Ka3 10. Kc3 Nc4 11. Kxc4 1-0  
+
+[Event "tl22 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/8/8/5B2/3R3K/5b2/8/2b5 w - - 0 1"]
+
+ 1. Kg3 Bb7 2. Rd7 Ba6 3. Ra7 Bb5 4. Ra5 Be2 5. Kf2 Bh5 6. Ra1 Bd2 7. Rh1 1-0  
+
+[Event "tl22 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1q6/p7/p2p1p1Q/4pk2/B7/8/3K4 w - - 0 1"]
+
+ 1. Bd6+ Ke3 2. Qh3+ Kd4 3. Kc2 Qc6+ 4. Kd2 f4 5. Qh8+ Kc4 6. Qc3+ Kb5 7. Qb3# { #} 1-0  
+
+[Event "tl22 {m}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "KB1r4/8/kP2P3/Pp1p4/1P6/8/3P2b1/8 w - - 0 1"]
+
+ 1. d4 Rg8 2. e7 Bh3 3. e8=Q Rxe8 4. b7 Re7 5. Bc7 1/2-1/2  
+
+[Event "1 Prize tl35 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1P6/5P2/1N1p4/1P5k/3r4/5P1b/2K5 w - - 0 1"]
+
+ 1. Nd4 Rxd4 2. f7 Rc4+ 3. Kd1 Rd4+ 4. Ke2 Re4+ 5. Kf1 Rf4 6. b8=Q 1-0  
+
+[Event "1 Prize tn17 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p5N/1p1pp3/1P1q4/K1k3P1/4P2R/1P6/8 w - - 0 1"]
+
+ 1. b3+ Kc5 2. Rh5 e5 3. Ng5 Qg2 4. Ne6+ 1-0  
+
+[Event "2 Honorable Mention tl35 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6k1/8/4K3/R3p2p/8/8/3P3b/8 w - - 0 1"]
+
+ 1. d4 exd4 2. Rg5+ Kf8 3. Rxh5 Bc7 4. Kd7 Bb6 5. Rb5 Ba7 6. Ra5 Bb6 7. Ra8+ Kf7 8. Kc6 1-0  
+
+[Event "2 Prize tl35 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1K6/7b/3PBpp1/pkP5/8/8/8 w - - 0 1"]
+
+ 1. d6 g4 2. Bf6 g3 3. d7 g2 4. d8=Q g1=Q 5. Qa5+ Kxc4 6. Qc3+ Kb5 7. Qd3+ Kb4 8. Be7+ Ka5 9. Qa6# {#} 1-0  
+
+[Event "2/3 Prize tj03 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1b6/1P6/1p3P2/1N1p4/p6k/3r4/KP6/5N2 w - - 0 1"]
+
+ 1. Nh2 Bxh2 2. Nd4 Rxd4 3. f7 1-0  
+
+[Event "2/3 Prize tj03 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/pP1p3p/Pr3P1P/5p1K/5k2/5P1p/2N2b1P/N7 w - - 0 1"]
+
+ 1. Nb3 Rxb3 2. Ne1 Bxe1 3. f7 1-0  
+
+[Event "2/3 Prize tn17 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3r3r/2k5/K7/8/2B5/3R4/8/5Rb1 w - - 0 1"]
+
+ 1. Rf7+ Kc8 2. Be6+ Kb8 3. Rb7+ Ka8 4. Rh7 Rhf8 5. Rxd8+ Rxd8 6. Bd5+ Kb8 7. Rb7+ Kc8 8. Be6+ 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/2b5/p1B4p/k7/8/8/3R4/1b6 w - - 0 1"]
+
+ 1. Kb7 Bg3 2. Rd4 Bc2 3. Rc4 Bd1 4. Rc3 Bf2 5. Rd3 Bg4 6. Ra3+ Kb4 7. Ra4+ 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6K1/8/4Npk1/2p4q/5P2/8/2P3P1/5N2 w - - 0 1"]
+
+ 1. Nf8+ Kh6 2. Ne3 f5 3. c4 Qh2 4. g4 Qxf4 5. Nxf5+ Kg5 6. Ne6+ 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/8/2q4p/3N3P/1pk5/4P2P/K2P4/8 w - - 0 1"]
+
+ 1. d3+ Kc5 2. d4+ Kc4 3. Kb2 b3 4. h4 Qe6 5. Ncb6+ Kd3 6. Nf4+ 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/1p6/6k1/3N3q/1P3P2/6pP/6P1/5B2 w - - 0 1"]
+
+ 1. Bd3+ Kh6 2. Ne3 b5 3. h4 Qxh4 4. Nf5+ 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/8/k3B3/p3ppq1/8/P5P1/8/7R w - - 0 1"]
+
+ 1. Rb1 a4 2. Bc4+ Ka5 3. Rb5+ Ka6 4. Be2 Qf6 5. Rb7+ Ka5 6. Ra7+ Kb6 7. Ra6+ 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5K2/1p6/6k1/3N3q/1P3P2/8/6P1/5B2 w - - 0 1"]
+
+ 1. Bd3+ Kh6 2. Ne3 b5 3. Be4 Qe2 4. Nf5+ Kh7 5. Nd6+ Kh6 6. Nf7+ Kh5 7. Bf3+ 1-0  
+
+[Event "tl10 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7q/k7/3RN1K1/Pp1p4/7p/7P/P2P4/8 w - - 0 1"]
+
+ 1. Rd7+ Ka6 2. Nc5+ Kxa5 3. Rd8 Qb2 4. Ra8+ Kb6 5. Na4+ bxa4 6. Rb8+ 1-0  
+
+[Event "tl22 {m}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/8/8/K7/7b/P3R3/6b1/8 w - - 0 1"]
+
+ 1. Re2 Bd8+ 2. Kb4 Bc6 3. Kc5 Bd7 4. Kd6 Ba4 5. Re4 Bb5 6. Rb4 Ba6 7. Rb8 1-0  
+
+[Event "1 Commendation tr18 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5p2/1N3k1K/P1p5/7N/8/2pP1P2/8 w - - 0 1"]
+
+ 1. Nd5+ Ke5 2. Nf4 Kxf4 3. Ng2+ Ke4 4. f3+ Kd4 5. Nf4 Kc4 6. Ne2 Kd3 7. Nc1+ Kxd2 8. Na2 1-0  
+
+[Event "1 Prize tl11 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "N7/8/n3Qb1K/1pk5/3Np1p1/1P1p3p/3P4/4q3 w - - 0 1"]
+
+ 1. Qb6+ Kb4 2. Qa5+ Kc5 3. Qc3+ Kd6 4. Qc6+ Ke5 5. Qe6+ Kf4 6. Qxf6+ Kg3 7. Qh4+ Kxh4 8. Nf5# {#} 1-0  
+
+[Event "2 Commendation tr11 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/Kp6/1pB4p/4Nq1P/P4kN1/8/7P/8 w - - 0 1"]
+
+ 1. Ng6+ Kg5 2. h4+ Kxh5 3. Bb5 Qxg6 4. Be8 Qxe8 5. Nf6+ Kxh4 6. Nxe8 Kg5 7. Ng7 Kg6 8. Nh5 Kxh5 9. Kxb7 Kg4 10. Kxb6 h5 11. a5 h4 12. a6 h3 13. a7 1-0  
+
+[Event "3/4 Prize tt24 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5K2/8/3p1k1B/8/6PP/p2P4/6N1 w - - 0 1"]
+
+ 1. Bg6+ Ke5 2. Ke7 Kd4 3. Ne2+ Kc4 4. Bd3+ Kb4 5. Nd4 a1=Q 6. Nc2+ 1-0  
+
+[Event "sp Prize ts23 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K4B2/2p1n2Q/6n1/b1P5/B2P1Pkp/2p5/1p3Ppp/qb6 w - - 0 1"]
+
+ 1. Qh5+ Kxf4 2. Bh6+ Ke4 3. Qe2+ Kxd4 4. Bg7+ Kd5 5. Bb3+ Kc6 6. Qe6+ Kb5 7. Qa6+ Kxa6 8. Bc4# {#} 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/p1p5/p4p1k/P2P2p1/3N2P1/3P2P1/1b1K4 w - - 0 1"]
+
+ 1. d5 cxd5 2. Nf4+ Kh6 3. Kc1 Ba2 4. Kb2 Bc4 5. d3 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p1k3p1/4P3/r7/Pp1K2P1/1p6/1P5P/2N5 w - - 0 1"]
+
+ 1. e7 Kd7 2. Nd3 Kxe7 3. Nc5 Kf6 4. h4 Kf7 5. Kc4 Kf6 6. Kxb4 Rxc5 7. Kxc5 Ke5 8. g5 Kf4 9. Kb5 Kg4 10. Ka6 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6R1/8/4K3/7k/1q2N3/8/4N3/8 w - - 0 1"]
+
+ 1. Nf4+ Kh4 2. Rh8+ Kg4 3. Nf6+ Kf3 4. Rh3+ Kf2 5. Ng4+ Kg1 6. Rg3+ Kf1 7. Nh2+ Kf2 8. Rg2+ Ke3 9. Nd5+ 1-0  
+
+[Event "th03 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3NK2k/6p1/p4q2/P1N1p3/6Pp/4P3/5PP1/8 w - - 0 1"]
+
+ 1. Ne4 Qg6+ 2. Kf8 Kh7 3. Nf7 Qc6 4. Neg5+ Kg6 5. Nxe5+ 1-0  
+
+[Event "tl35 {m}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/1pB1p2p/1P2P2P/1p1r3p/1P5P/8/1P2P2P/4K3 w - - 0 1"]
+
+ 1. e4 Rd3 2. Ke2 Rb3 3. Be5+ Kg8 4. Bc3 Kf8 5. Kd3 Rxc3+ 6. bxc3 Ke8 7. Kd4 Kd8 8. Kc5 Kc8 9. Kxb5 Kb8 10. c4 Kc8 11. c5 Kb8 12. c6 1-0  
+
+[Event " Commendation tm05 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4k3/8/2nB4/8/4K3/1B1n4 w - - 0 1"]
+
+ 1. Ba2 Kf5 2. Bxc4 Ke4 3. Bg7 Ne3 4. Bd3+ Kf4 5. Bh6+ 1-0  
+
+[Event " Commendation tm05 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7k/8/5K2/4B2B/8/7n/8/4n3 w - - 0 1"]
+
+ 1. Kf7+ Kh7 2. Bg6+ Kh6 3. Kf6 Ng5 4. Bf4 Nef3 5. Be3 1-0  
+
+[Event " Commendation tt24 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7n/8/8/8/4K3/k3N3/8/4B2n w - - 0 1"]
+
+ 1. Nc4+ Ka4 2. Ne5 Kb5 3. Bh4 Kc5 4. Be7+ Kb5 5. Kf3 1-0  
+
+[Event "1 Commendation ts20 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3n4/3P4/p4pP1/7p/1p2NP1k/1Pn5/7K w - - 0 1"]
+
+ 1. g6 Nd4 2. g7 Nf6 3. Nd5 Ng8 4. Nf4+ Kg3 5. Ne2+ Nxe2 6. d7 1-0  
+
+[Event "1 Prize tl17 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3p4/3P2p1/7p/3B3k/3q1P2/4N1P1/7K w - - 0 1"]
+
+ 1. Bf6+ g5 2. Kh2 Qxe2 3. Bc3 Qf2 4. Be5 1-0  
+
+[Event "1 Prize tn17 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k4b/2P5/4N3/8/1N2b3/P7/8/2K5 w - - 0 1"]
+
+ 1. Ng5 Bb7 2. Nf7 Ba1 3. Kb1 Bc3 4. Nd6+ Kxc7 5. Nb5+ 1-0  
+
+[Event "1 Prize tr11 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/7B/8/8/1N1b4/K7/8/n7 w - - 0 1"]
+
+ 1. Be4+ Ka7 2. Nc6+ Kb6 3. Nxd4 Kc5 4. Ne2 Kc4 5. Nc1 Kc3 6. Na2+ Kc4 7. Bh7 Nb3 8. Bg8+ 1-0  
+
+[Event "1 Prize ts61 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "nB6/7p/2n4p/7K/8/7k/B7/8 w - - 0 1"]
+
+ 1. Be6+ Kg2 2. Bd5+ Kh3 3. Bxc6 Nb6 4. Bb5 Kg2 5. Ba7 Nd5 6. Bc6 1-0  
+
+[Event "4 Prize tc06 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4K2k/4B3/1b3P2/8/8/8/p7/8 w - - 0 1"]
+
+ 1. f7 Kh7 2. f8=Q a1=Q 3. Qf5+ Kg7 4. Bf8+ Kg8 5. Qg4+ Kh7 6. Qe4+ Kh8 7. Qh4+ Kg8 8. Qg3+ Kh7 9. Qd3+ Kg8 10. Qb3+ Kh7 11. Qc2+ Kh8 12. Qh2+ Kg8 13. Qg2+ Kh8 14. Kf7 Qa7+ 15. Be7 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2n5/8/3P4/2n3P1/5P2/2k5/8/1K6 w - - 0 1"]
+
+ 1. g6 Ne6 2. g7 Ne7 3. f5 Nxg7 4. f6 Nc6 5. fxg7 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2nn4/8/3P4/6P1/5P2/7k/8/7K w - - 0 1"]
+
+ 1. g6 Ne6 2. g7 Ne7 3. f5 Nxg7 4. f6 Ne8 5. f7 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/1p6/2p5/K7/PP1b4/4p3/4P2Q/8 b - - 0 1"]
+
+ 1... Ka7 2. Qc7 Bf6 3. Qb6+ Kb8 4. Qxe3 Bd8+ 5. Qb6 Bf6 6. e3 Be5 7. Qd8+ Ka7 8. Qe7 Bd6 9. Qd7 Be5 10. Qd8 Bf6 11. Qb6+ Kb8 12. Qd4 1-0  
+
+[Event "tb08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k7/1p1n1Q2/2p5/K7/Pp6/P1b5/8/8 w - - 0 1"]
+
+ 1. axb4 Ka7 2. Qf2+ Bd4 3. Qxd4+ b6+ 4. Qxb6+ Nxb6 5. b5 c5 1/2-1/2  
+
+[Event "td26 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Q7/K3pn2/3pN3/k2P2pP/p1P5/2p5/2q5/8 w - - 0 1"]
+
+ 1. Nd4 Qf2 2. Kb7+ Kb4 3. Qa5+ Ka3 4. Qxc3+ Ka2 5. Nc2 g4 6. Qa3+ Kb1 7. Qa1+ Kxc2 8. Qa2+ 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k4b/2P5/8/6N1/8/P7/2K5/8 w - - 0 1"]
+
+ 1. Nf7 Ba1 2. Kb1 Bg7 3. Nd6+ Kxc7 4. Ne8+ 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4B2p/8/7b/B5k1/4K3/6p1/8 w - - 0 1"]
+
+ 1. Bd7+ Kg3 2. Bd6+ Kh4 3. Kf4 Bd1 4. Be7+ Kh5 5. Be8+ Kh6 6. Bf8# {#} 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3k4/3P4/8/5K2/8/8/1B2B1b1 w - - 0 1"]
+
+ 1. Ke5 Bh2+ 2. Kd5 Bxd6 3. Bf5+ Kc7 4. Ba5+ 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6b1/8/1K1k2B1/3P4/3p4/8/8/4B3 w - - 0 1"]
+
+ 1. Bg3+ Kxd5 2. Bb1 d3 3. Ba2+ Kd4 4. Bxg8 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4b3/3p4/B2K1kP1/8/8/B7/8 w - - 0 1"]
+
+ 1. Bb1+ Kxg5 2. Ke6 Bf8 3. Kf7 Bh6 4. Bd2+ Kh5 5. Bg6+ Kg4 6. Bxh6 1-0  
+
+[Event "te08 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1p6/2p5/1PPkqP1N/pK6/2P5/P1B5/8 w - - 0 1"]
+
+ 1. b6 a3 2. Bb1 Qb8 3. Nf6+ Ke5 4. Nd7+ 1-0  
+
+[Event "tl04 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/2K2b2/1P6/2k2P2/8/8 w - - 0 1"]
+
+ 1. b5 Bc8 2. f4 Kd3 3. Kd5 Bb7+ 4. Ke5 Kc4 5. f5 Kc5 6. f6 Bd5 7. b6 Kc6 8. b7 1-0  
+
+[Event "tl04 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k6/4N3/K7/6b1/8/B7/7n/8 w - - 0 1"]
+
+ 1. Bd6+ Ka8 2. Nd5 Bd8 3. Bxh2 Bc7 4. Nxc7+ 1-0  
+
+[Event "tl04 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/nN6/1K3b2/8/8/8/8/7B w - - 0 1"]
+
+ 1. Nc5+ Kb8 2. Nd7+ Kc8 3. Nxf6 Kb8 4. Nd7+ Kc8 5. Nc5 Kb8 6. Na6+ 1-0  
+
+[Event "tl04 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/b7/1nK1N3/8/8/8/4B3/8 w - - 0 1"]
+
+ 1. Ba6+ Kb8 2. Nc5 Nd5 3. Nd7+ Ka8 4. Bb7# {#} 1-0  
+
+[Event "tm05 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K1k5/8/8/8/1B6/8/8/nn1B4 w - - 0 1"]
+
+ 1. Ba4 Kc7 2. Ka7 Kc8 3. Kb6 Kd8 4. Kb7 Nd2 5. Bxd2 1-0  
+
+[Event "tm05 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3n4/8/1k5B/5B2/2K5/8/5n2 w - - 0 1"]
+
+ 1. Be8 Kc6 2. Kd3 Ne3 3. Kxe3 1-0  
+
+[Event "tm05 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "n7/8/2K5/4B2k/8/7B/4n3/8 w - - 0 1"]
+
+ 1. Bf1 Ng1 2. Bh2 Nc7 3. Kxc7 Nf3 4. Be2 Kg4 5. Bd6 1-0  
+
+[Event "tm05 @1 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/K2n4/8/8/8/3B4/8/1n2B3 w - - 0 1"]
+
+ 1. Ba5 Ne5 2. Bf5+ Nd7 3. Bxb1 Ne5 4. Bf5+ Nd7 5. Ka6 1-0  
+
+[Event "ts15 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1b5/8/1K6/7B/8/8/4nB2/8 w - - 0 1"]
+
+ 1. Bf3+ Kb8 2. Bc5 Bh3 3. Bb7 Nc3 4. Bd6# {#} 1-0  
+
+[Event "ts15 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2k5/8/1K6/6B1/4n3/8/4b1B1/8 w - - 0 1"]
+
+ 1. Bh3+ Kb8 2. Bf4+ Ka8 3. Bd7 Nd6 4. Bc6+ Kb8 5. Bb7 1-0  
+
+[Event "ts15 {m}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Rinck H"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2kbK3/7n/8/8/8/2B5/6B1/8 w - - 0 1"]
+
+ 1. Bh3+ Kc7 2. Ba5+ Kd6 3. Bxd8 Ke5 4. Kf7 Kf4 5. Kg6 Nf8+ 6. Kg7 Kg3 7. Bc8 1-0  
+

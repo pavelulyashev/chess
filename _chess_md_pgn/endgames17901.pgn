@@ -1,0 +1,1100 @@
+[Event "tt20#262 {m}"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4q3/7p/5Q2/6p1/6kP/5N1p/6pP/3n2K1 w - - 0 1"]
+
+ 1. Ne5+ Kxh4 2. Qh6+ Qh5 3. Nf3+ Kg4 4. Qf8 h6 (4... Qg6 5. Ne5+) (4... Nc3 5. Ne5+ Kh4 6. Qf2#) 5. Ne5+ Kh4 6. Qb4+ g4 7. Nf3# 1-0  
+
+[Event "tp21#337 @3 {m}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/1n1P1kq1/6pR/6Kb/8/3R4/8/8 w - - 0 1"]
+
+ 1. Rh7 $1 Qxh7 2. d8=Q Nxd8 3. Rd7+ $1 Kg8 (3... Ke6 $1 {cook} 4. Rxh7 Nf7+ 5. Kh4 Bd1) 4. Rxd8+ Kg7 5. Rd7+ Kh8 6. Rd8+ Qg8 7. Kh6 $1 Qxd8 1/2-1/2  
+
+[Event "tp21#315 {m}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6k1/6P1/6PK/7p/2P2p2/rp3P2/5Bbq/1B6 w - - 0 1"]
+
+ 1. Be4 Ra5 2. c5 Rxc5 3. Bxc5 Bxf3 4. Bxf3 Qd2 5. Bd4 $1 Qa5 6. Bc5 Qd8 7. Bd6 Qa5 8. Bc5 Qd2 9. Bd4 Qxd4 10. Bd5+ Qxd5 1/2-1/2  
+
+[Event "tp21#298 {m}"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/5B2/8/7R/8/1pk5/3r2P1/b1K5 w - - 0 1"]
+
+ 1. Rc5+ Kd4 (1... Kd3 2. Rd5+ Bd4 3. Rxd4+ Kxd4 4. Kxd2) 2. Rd5+ Kc3 3. Rxd2 b2+ 4. Kb1 Kxd2 5. g4 Ke3 6. g5 Kf4 7. g6 Kg5 8. g7 Kh6 9. g8=R $1 (9. g8=Q $2) (9. g8=N+ $2 Kg5) 1-0  
+
+[Event "ts70#1344 @2 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4q3/7p/5Q2/6p1/6kP/5N1p/7K/3n4 w - - 0 1"]
+
+ 1. Ne5+ Kxh4 (1... Kh5 2. Qxg5#) 2. Qh6+ Qh5 3. Nf3+ Kg4 4. Qf8 $1 h6 5. Ne5+ ( 5. Nd4 $1 {cook FS} Kh4 6. Nf5+ Kg4 7. Nxh6+ Kh4 8. Qb4+ g4 9. Qe7+ Qg5 10. Nf5+ Kh5 11. Qh7+) 5... Kh4 6. Qb4+ (6. Qf1 $1 {cook FS} g4 7. Qf4 $1) 6... g4 7. Nf3# 1-0  
+
+[Event "ts69#0094 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1q2B1K1/4p3/4k1p1/Q5P1/4P1P1/3r4/8 w - - 0 1"]
+
+ 1. Qa1+ Ke4 $1 (1... Rb2 2. Qxb2+ Qxb2 3. Bf6+) 2. Qh1+ Rg2 $1 3. Qxg2+ Ke5 4. Qb2+ $1 Qxb2 5. Bf6+ 1-0  
+
+[Event "2 Commendation, ws05 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7b/8/8/B5n1/4Pk2/p2P4/4B3/6K1 w - - 0 1"]
+
+ 1. Bd2+ Kg3 (1... Ke5 2. Bc3+) 2. Be1+ Kh3 3. e5 Bxe5 4. d4 Bxd4+ 5. Kh1 a2 6. Bc4 a1=Q 7. Be6+ Nxe6 1/2-1/2  
+
+[Event "ts69#0050 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7b/k7/8/8/4p3/4K2R/2P3p1/7n w - - 0 1"]
+
+ 1. Rh7+ Kb6 2. Rh6+ Kc5 3. Rg6 Bd4+ (3... g1=Q+ 4. Rxg1 Bd4+ 5. Kxe4 Bxg1 6. Kf3) 4. Kxe4 g1=Q 5. Rxg1 Bxg1 6. Kf3 Bd4 7. Kg2 Nf2 8. c3 Be3 9. Kf3 Nd1 10. Ke2 1/2-1/2  
+
+[Event "3 Commendation, tp21#291 @3 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7n/kPP5/1N6/8/K7/3n4/2r5 w - - 0 1"]
+
+ 1. b7 Ra1+ 2. Kb4 (2. Kb2 $2 Rb1+) 2... Rb1+ 3. Ka4 Rxb5 (3... Ne4 $1 {cook} 4. b8=Q Nc3+ 5. Ka3 Nxb5+ 6. Ka2 Nc3+) 4. c7 Nf6 5. b8=N+ (5. b8=Q $2 Ra5+) 5... Kb6 6. c8=N+ Kc5 7. Na6+ Kc4 8. Nd6+ 1/2-1/2  
+
+[Event "ts23#05 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/7b/1P4kP/8/8/7r/KP6/8 w - - 0 1"]
+
+ 1. b7 Bg8+ 2. b3 $1 Rxb3 $1 3. h7 $1 Kxh7 (3... Bd5 4. Ka1 $1 Kxh7 5. b8=Q Rxb8 ) 4. Ka1 $1 Ra3+ 5. Kb2 (5. Kb1 $2 Ba2+ $1) 5... Rb3+ 6. Ka1 Rxb7 1/2-1/2  
+
+[Event "3 Commendation, ws05 {m}"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4R3/8/Nk6/1n1K4/1p2P3/5r2 w - - 0 1"]
+
+ 1. Re4+ Ka3 2. Nxb2 Nc5+ 3. Kd4 (3. Ke3 $2 Nxe4 4. Nc4+ Kb4) 3... Nxe4 4. Nc4+ Kb3 5. Ne3 Rf4 6. Ke5 Rh4 7. Nf5 Rg4 8. Ne3 Rh4 9. Nf5 1/2-1/2  
+
+[Event "ts70#1329 @2? {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4b3/1B3N2/8/2p5/8/8/2K5/3Nk3 w - - 0 1"]
+
+ 1. Ne5 Ba4+ 2. Kc1 Bxd1 3. Nd3+ Ke2 4. Nxc5 $1 (4. Ba6 $2 c4 5. Bxc4 Bb3 $1) ( 4. Nf4+ $1 {cook} Ke1 (4... Ke3 5. Nd5+ Ke2 6. Nc3+) 5. Nd3+ (5. Ba6 $2 Kf2) 5... Ke2 6. Nxc5) 4... Ke1 5. Nd3+ Ke2 6. Ba6 Ba4 7. Nc5+ 1-0  
+
+[Event "1 Commendation, mr04 tp23 @3 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "7B/4K3/5P2/5b1k/8/8/3N3r/8 w - - 0 1"]
+
+ 1. f7 Re2+ 2. Be5 (2. Ne4 $2 Rxe4+ 3. Kd8 Bg6 4. f8=Q Re8+) 2... Rxe5+ 3. Kf6 Re6+ (3... Bg6 $1 {cook AR} 4. Kxe5 Bxf7) 4. Kxf5 Re3 5. Kf4 (5. f8=Q $2 Rf3+ 6. Nxf3) 5... Re6 6. Ne4 (6. f8=Q $2 Rf6+ 7. Qxf6) 6... Rf6+ 7. Nxf6+ Kg6 8. f8=R 1-0  
+
+[Event "3 Honorable Mention, tn02 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "kB6/7P/4p1R1/5p1p/5P1p/4p3/1q2P2P/6K1 w - - 0 1"]
+
+ 1. Be5 (1. Rh6 $2 Qa1+ 2. Kg2 Qg7+ 3. Kh3 Qxh6) (1. Rg8 $2 Qb1+ 2. Kg2 Qb7+ 3. Kh3 Qxh7) 1... Qb1+ 2. Kg2 Qb7+ 3. Kh3 Qxh7 4. Rg7 Qh6 5. Kxh4 Qh7 6. Kg5 Qh8 7. Ra7+ 1-0  
+
+[Event "tp05 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1K5/8/8/1PB3R1/8/1n6/3q4/8 w - - 0 1"]
+
+ 1. b6 Nxc5 2. Rxc5 Qd5 3. Ra5+ (3. Rxd5 $2) 3... Qxa5 4. b7+ Ka7 5. b8=Q+ Ka6 6. Qb7# 1-0  
+
+[Event "tp22 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/K7/2k1Pb1N/5B2/1p1P4/8 w - - 0 1"]
+
+ 1. Be2+ Kd4 2. Nf3+ Kxe4 3. Ne1 Bxd2+ 4. Ka4 Bxe1 5. Bh5 Kf5 6. Be2 $1 Ke4 7. Bh5 Kf5 8. Be2 b1=Q 9. Bd3+ Qxd3 1/2-1/2  
+
+[Event "ts70#1297 @3 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/2k4K/8/2B2pp1/N3b3/7B w - - 0 1"]
+
+ 1. Kh4 $1 g2 2. Bxg2 fxg2 3. Nc1 $1 Ba6 (3... g1=Q $1 {cook JF} 4. Bd4+ Qxd4+ $1 (4... Kxd4 $2 5. Nxe2+)) 4. Ne2 $1 Bxe2 5. Bd2 $1 Kd4 6. Ba5 Kc5 7. Bd2 Kd4 (7... g1=Q 8. Be3+ Qxe3) 1/2-1/2  
+
+[Event "ts70#1335 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3R4/8/7p/8/1K4b1/6p1/kP6/8 w - - 0 1"]
+
+ 1. Rd3 $1 (1. Rd2 $2 h5 2. Kc4 h4 3. b4+ Kb1 4. b5 h3 5. b6 Bf3 $1 6. Rd5 Bxd5+ 7. Kxd5 h2) (1. Rg8 $2 h5 2. Kc3 Kb1 $1 (2... g2 $2 3. Kc2 Bf5+ 4. Kc3 Bg4 5. Kc2) 3. Re8 h4 4. Re1+ Ka2 5. Rg1 h3) 1... g2 2. Rg3 Bf3 3. Kc3 h5 4. Kc2 Be4+ (4... h4 $2 5. Rxf3 g1=Q 6. Ra3#) 5. Kc1 1/2-1/2  
+
+[Event "4 Honorable Mention, ja05 te03 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/2RB1n2/8/5K1b/7p/8/5p2/1kB5 w - - 0 1"]
+
+ 1. Kf6 $1 (1. Bf4 $2 f1=Q 2. Rc1+ Qxc1 3. Bxc1 Kxc1) (1. Bb5 $2 Nd6+) 1... f1=Q+ 2. Bf5+ Ka2 3. Rc3 Qa6+ 4. Be6+ Kb1 5. Ba3 Qf1+ 6. Bf5+ Ka2 7. Bc1 1/2-1/2  
+
+[Event "3 Prize, ts70#1315 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4r3/2p5/3PP3/8/k7/4K2n/8/3N4 w - - 0 1"]
+
+ 1. Nc3+ Ka5 2. d7 Rxe6+ 3. Ne4 Rxe4+ 4. Kxe4 Ng5+ 5. Kd5 Kb5 6. d8=N $3 1/2-1/2  
+
+[Event "3 Honorable Mention, ja05 te03 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/bP6/B3r3/4B3/8/6Pk/1K2n3/8 w - - 0 1"]
+
+ 1. b8=Q Bxb8 2. Bc8 Bxe5+ 3. Kb3 (3. Kc2 $2 Kxg3 4. Bxe6 Nd4+ 5. Kd3 Nxe6) 3... Nd4+ (3... Kxg3 4. Bxe6 Nd4+ 5. Kc4 Nxe6 6. Kd5) 4. Kc4 Kg4 5. Kd5 Kf5 6. g4+ Kf6 7. g5+ Kf5 (7... Ke7 8. Bxe6 Nxe6 9. Kxe5) 8. Bd7 Bg7 9. Bc8 Bh8 10. Bd7 1/2-1/2  
+
+[Event " Commendation, tm04#0960 {m}"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/k7/2R3B1/1Rp2p2/3P4/5p1p/1Pq4P/7K w - - 0 1"]
+
+ 1. Ra5+ (1. Rc7+ $2 Ka6 2. Rc6+ Kxb5 3. Rxc5+ Qxc5 4. dxc5 f2 5. Be8+ Kb4) 1... Kb7 2. Rb5+ Kxc6 3. Rxc5+ Qxc5 4. dxc5 f2 5. Be8+ Kxc5 6. b4+ Kb6 7. Bb5 Kxb5 1/2-1/2  
+
+[Event "o000 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/8/3N4/8/1N1p4/4p3/4k2K w - - 0 1"]
+
+ 1. Kg1 $1 Kd1 2. Ne3+ Ke1 3. Kg2 d2 4. Nd4 1-0  
+
+[Event " Commendation, tm04#0931 @2 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7B/3N4/8/1N1p1K2/4p2p/4k3 w - - 0 1"]
+
+ 1. Kg2 h1=Q+ 2. Kxh1 Kf2 (2... Kd1 3. Ne3+) (2... Kf1 3. Nd2+ Kf2 4. Be3+ Kg3 5. Ne4+ Kf3 6. Bd2) 3. Be3+ Kg3 (3... Kf3 4. Bd2 Kf2 5. Be1+) 4. Bd2 Kf2 5. Be1+ Kxe1 (5... Kf1 6. Ne3+) 6. Kg1 Kd1 (6... d2 7. Ne3 d1=Q 8. Ng2#) 7. Ne3+ Ke1 8. Kg2 d2 9. Nd4 (9. Kg1 $1 {cook} d1=Q 10. Ng2#) 9... d1=Q 10. Nf3# 1-0  
+
+[Event "ts23#31 @3 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1N4p1/1k6/1B6/7p/2B5/b6K/8 w - - 0 1"]
+
+ 1. Nd6 Kc5 2. Be5 Kd5 3. Nf7 Ke6 (3... Ke4 $1 {cook}) 4. Be8 Ke7 5. Nd6 Ke6 6. Bf4 $1 g5 7. Bf7+ 1-0  
+
+[Event "10 Commendation, mf01 tr11 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k1B4/p5p1/P5pb/6p1/6P1/R2p3p/4p3/2K5 w - - 0 1"]
+
+ 1. Kd2 e1=Q+ 2. Kxe1 h2 3. Rb3+ Kc8 (3... Ka8 4. Bc7) 4. Rc3+ Kb8 5. Bc7+ Ka8 6. Rb3 (6. Bxh2 $2 d2+ 7. Kf2 d1=N+) (6. Bg3 $2 h1=Q+ 7. Kf2 Qe1+ 8. Kxe1 d2+ 9. Kf2 d1=N+) 6... h1=Q+ 7. Kf2 Qh4+ 8. Bg3 1-0  
+
+[Event "ts70#1264 @3 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Nk6/n5K1/p5R1/8/p1p5/1P5B/2p5/2b5 w - - 0 1"]
+
+ 1. Rb6+ Kxa8 2. Bg2+ Nc6 3. Bxc6+ Ka7 4. Rb7+ Ka8 5. bxa4 Bh6+ 6. Kxh6 $1 c1=Q+ 7. Kh7 Qc2+ 8. Kg7 $1 Qc3+ (8... Qxa4 $1 {cook AR/FS} 9. Rb6+ Ka7) 9. Kf7 Qh8 10. Re7+ Kb8 11. Re8+ Qxe8+ 12. Kxe8 Kc7 13. Bd5 c3 14. Bb3 Kd6 15. Kd8 Kc5 16. Kc7 Kb4 17. Bc2 Ka3 18. Kb6 Kb2 19. Be4 Ka3 20. Ka5 Kb2 (20... Kb3 $1 { cook AR/FS} 21. Bd3 Ka3 22. Bc2 Kb2 23. Bd1 Kc1 24. Kb4 (24. Bf3 Kb2 25. Be4 Kb3) 24... Kxd1 25. Kxc3 Ke2) 21. Kxa6 1-0  
+
+[Event "ts70#1264 {c} {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "Nk6/n5K1/p5R1/8/p1p5/1P5B/P1p5/2b5 w - - 0 1"]
+
+ 1. Rb6+ Kxa8 2. Bg2+ Nc6 3. Bxc6+ Ka7 4. Rb7+ Ka8 5. bxa4 Bh6+ 6. Kxh6 $1 c1=Q+ 7. Kh7 Qc2+ 8. Kg7 $1 Qc3+ (8... Qxa4 $2 9. Be4) 9. Kf7 Qh8 10. Re7+ Kb8 11. Re8+ 1-0  
+
+[Event "ts04#2999 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "r7/8/8/Bp6/1p1K4/k1p5/1N6/1R6 w - - 0 1"]
+
+ 1. Nd3 (1. Bxb4+ $2 Ka2) 1... Ka2 (1... c2 2. Bxb4+ Ka2 3. Rb2+) 2. Rxb4 Rxa5 3. Nc1+ Ka3 (3... Ka1 4. Nb3+ Ka2 5. Nxa5 Ka3 6. Rxb5) 4. Rb3+ Ka4 5. Rb1 c2 ( 5... b4 6. Kc4) (5... Ka3 6. Ra1+ Kb2 7. Rxa5) 6. Ra1+ Kb4 7. Nd3+ Kb3 8. Rxa5 c1=Q 9. Nxc1+ Kb4 10. Nb3 (10. Ra8 $2) 1-0  
+
+[Event "3 Commendation, tp21#273 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/2PP4/P7/NP6/r1P5/k2P4/8/KBr5 w - - 0 1"]
+
+ 1. a7 (1. c8=Q $2 Rxa5 2. Qc7 Kb3+ (2... Ra4 $1 3. Qa5 Rxa5 4. d8=Q Ra4 5. Qa5 Rxa5) 3. Qxa5 Rxb1+ 4. Kxb1) 1... Rxa5 (1... Rb4 2. Nb3) 2. a8=R $1 (2. a8=Q $2 Kb3+ 3. Qxa5 Rxb1+ 4. Kxb1) 2... Rxa8 3. c8=Q Ra5 4. d8=B (4. d8=Q $2 Kb3+ 5. Qxa5 Rxb1+ 6. Kxb1) 4... Ra4 5. Qa6 Rxa6 6. bxa6 1-0  
+
+[Event "tp21#256 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1kN5/1pq5/P7/2P5/8/3p1p2/5R2/6K1 w - - 0 1"]
+
+ 1. a7+ Ka8 2. Nb6+ Qxb6 (2... Kxa7 3. Ra2+) 3. cxb6 d2 4. Rf1 (4. Rxd2 $2 f2+ 5. Kh2 f1=N+) 4... f2+ 5. Kh2 d1=Q 6. Rxd1 1-0  
+
+[Event "ts69 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1q2rk2/5p2/5PP1/3P4/1P1P4/4pR2/1P2P3/K7 w - - 0 1"]
+
+ 1. g7+ Kg8 2. Rh3 Qa7+ (2... Qh2 3. Rxh2 Ra8+ 4. Kb1) 3. Kb1 Qa2+ 4. Kxa2 Ra8+ 5. Kb1 $1 (5. Kb3 $2 Ra3+) 5... Ra1+ 6. Kc2 Rc1+ (6... Rh1 7. Rh8+) 7. Kb3 Rc3+ 8. Ka4 Ra3+ 9. Kb5 Ra5+ 10. Kc4 Rc5+ 11. Kd3 Rc3+ 12. Ke4 1-0  
+
+[Event "ts69#828 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3qN2B/8/8/2n5/R4P1k/6r1/1R6/4K3 w - - 0 1"]
+
+ 1. Bf6+ (1. Rh2+ $2 Kg4 2. Nf6+ Kf5) 1... Qxf6 2. Rh2+ Rh3 3. Rxh3+ Kxh3 4. Ra3+ Nd3+ 5. Rxd3+ Kh4 6. Rh3+ $1 (6. Nxf6 $2) 6... Kxh3 7. Nxf6 1-0  
+
+[Event "tp22 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/kp6/2p5/1PP1p3/K1p5/1P6/pp2P3/2N2q1Q w - - 0 1"]
+
+ 1. b6+ Ka6 $1 2. Nxa2 Qa1 3. Qb1 e4 4. e3 cxb3 (4... Qxa2+ 5. Qxa2) 5. Qf1+ $1 Qxf1 6. Nb4# 1-0  
+
+[Event "1 Commendation, ts70#1280 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p2Q/5n1p/p5qP/4PpPk/1P5p/4P3/4N1K1 w - - 0 1"]
+
+ 1. Nf3+ Kg3 2. Nxg5 h2+ 3. Kh1 Nxg4 $1 (3... Nxh7 $2 4. Nxh7) 4. Nh3 Kxh3 5. Qf5 $1 Kg3 6. Qg6 Kh3 7. Qe6 Kg3 8. Qg8 Kh3 9. Qc8 Kg3 10. Qc3+ 1-0  
+
+[Event "wu01 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/3p2pp/8/4P3/4P2P/4K2p/7k w - - 0 1"]
+
+ 1. Kf2 g5 2. e5 dxe5 3. e4 h5 4. h4 g4 5. Kg3 Kg1 1/2-1/2  
+
+[Event "tp21#270 @3 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1n6/1N6/8/p2p2N1/Pk1Pp2p/pP6/P2Pp2K/8 w - - 0 1"]
+
+ 1. Nf3 exf3 2. Nc5 e1=N 3. Kg1 h3 4. Kf1 h2 (4... f2 $1 {cook} 5. Kxf2 h2 6. Kxe1 h1=Q+ 7. Kf2 Qh3 8. Ke2 Qg2+) 5. Nd3+ Nxd3 1/2-1/2  
+
+[Event "tp21#270 {c} {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1n6/1N6/7n/p2p4/Pk1P3p/pP3p1p/P2P2pK/8 w - - 0 1"]
+
+ 1. Nc5 Ng4+ 2. Kxh3 Ne5 3. Kh2 g1=Q+ 4. Kxg1 h3 5. Kf1 h2 6. Nd3+ Nxd3 1/2-1/2  
+
+[Event "tp21#270 {c} {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1n6/1N6/8/p2p4/Pk1P3p/pP3p1p/P2P1npK/8 w - - 0 1"]
+
+ 1. Nc5 Ng4+ 2. Kxh3 Ne5 3. Kh2 g1=Q+ 4. Kxg1 h3 5. Kf1 h2 6. Nd3+ Nxd3 1/2-1/2  
+
+[Event "ts04#3000 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1K6/8/k2N4/B7/8/PPPb4/4p3/8 w - - 0 1"]
+
+ 1. c4 Kxa5 2. Ka7 (2. Kb7 $2 Be4+ 3. Nxe4 e1=Q) 2... Be4 (2... Bxc4 3. Nxc4+ Kb5 4. Ne5 e1=Q 5. a4+ Kb4 6. Nd3+) 3. Nxe4 e1=Q 4. Nc5 Qe7+ 5. Nb7+ Qxb7+ 6. Kxb7 1/2-1/2  
+
+[Event "3 Honorable Mention, ts69#811 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3r4/8/5k2/8/8/1pn4N/3R1K1B w - - 0 1"]
+
+ 1. Rb1 Rd1+ (1... Rd2 2. Nf3) 2. Rxd1 Ne3+ 3. Kg1 Nxd1 4. Nf1 b1=Q 5. Be4+ Kxe4 (5... Qxe4 6. Ng3+) 6. Nd2+ 1/2-1/2  
+
+[Event "1 Honorable Mention, ts04#2871 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3N1K2/4P3/8/6k1/8/2n5/3p3q/6N1 w - - 0 1"]
+
+ 1. Nf3+ (1. e8=Q $2 Qh8+ 2. Kf7 Qxe8+) 1... Kf6 $1 2. Nxh2 d1=Q 3. Nf7 (3. e8=Q $2 Qd6+ 4. Kg8 Qg3+ 5. Kh7 Qg7#) 3... Qg1 4. Ng4+ $1 (4. e8=Q $2 Qg7#) 4... Qxg4 5. e8=N+ $1 Ke6 6. Nc7+ Kf6 7. Ne8+ 1/2-1/2  
+
+[Event "tp22 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/4ppq1/7p/2pP4/N1P1kP2/1K2p1PP/4B3 w - - 0 1"]
+
+ 1. Nc2+ Kd3 2. Nb4+ Ke3 3. Nc2+ Kd3 4. Nb4+ Ke3 5. Nc2+ Kf4 6. Bd2+ Kf5 7. Ne3+ Kg5 8. Nc2+ Kh4 9. Be1+ Kg5 10. Bd2+ Kf5 11. Ne3+ 1/2-1/2  
+
+[Event "ts25#025 {m}"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4p1p1/R7/8/4N1p1/5kpb/4q1p1/6K1 w - - 0 1"]
+
+ 1. Ng5+ (1. Ra3+ $2 Kf4 $1) (1. Nd2+ $2 Kf4 $1 2. Ra4+ Kf5) 1... Kf4 2. Ne6+ $1 (2. Ra4+ $2 Kf5 $1 3. Ra5+ Kg6 4. Ra6+ Kh5) (2. Nxh3+ $2 Kf5 3. Ra5+ e5) 2... Ke3 3. Ra3+ Ke4 4. Ra4+ Ke5 5. Ra5+ Kf6 (5... Kxe6 6. Re5+ Qxe5) (5... Kd6 6. Rd5+ Kc6 7. Nd4+) 6. Rf5+ Kg6 7. Nf4+ 1/2-1/2  
+
+[Event "tp21#247 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1BnK4/6p1/3P2p1/8/8/1n6/5P1k/3b4 w - - 0 1"]
+
+ 1. d7+ Nd6 2. Bxd6+ Kh3 3. Ke8 Nd4 4. d8=Q Ba4+ 5. Kf7 Bb3+ 6. Kxg6 Bc2+ 7. Kh5 Bd1+ 8. f3 Bxf3+ 9. Kg6 Be4+ 10. Kf7 Bd5+ 11. Ke8 Bc6+ 12. Ke7 1-0  
+
+[Event " Commendation, ts27#32 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P6k/4K2p/p6P/3N1p2/r3P3/6p1/8 w - - 0 1"]
+
+ 1. Nf3 Rxe3+ 2. Kf7 Rxf3 3. a8=Q g1=Q 4. Qe4+ Kh8 5. Qe5+ Kh7 6. Qf5+ Kh8 7. Qf6+ Kh7 8. Qg6+ Qxg6+ 9. hxg6+ Kh8 10. g7+ Kh7 11. g8=Q# 1-0  
+
+[Event "3 Honorable Mention, tc13 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2B5/2N5/8/7q/2k5/3Np3/2K5/8 w - - 0 1"]
+
+ 1. Ba6+ Kd4 2. Ne6+ Ke4 3. Bb7+ Qd5 4. Ng5+ Kd4 5. Nf3+ Kc4 6. Ba6+ Qb5 7. Nfe5+ 1-0  
+
+[Event "2 Honorable Mention, ts27 {m}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/6Pq/8/4b2k/B2NN3/8/8/5K2 w - - 0 1"]
+
+ 1. Nf6+ Bxf6 2. Bc2 Qg8 3. Bb3 Qxg7 4. Bd1+ Kg6 5. Bc2+ Kf7 6. Bb3+ Ke8 7. Ba4+ Kf7 8. Bb3+ Kg6 9. Bc2+ 1/2-1/2  
+
+[Event "tp21#241 @3 {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/7b/1nK3n1/8/6B1/2b5/8/6N1 w - - 0 1"]
+
+ 1. Ne2 Ba5 (1... Nc4 $1 {cook}) 2. Kb5 Ne5 3. Kxa5 Kc7 4. Bh5 Nc6+ 5. Kb5 Bd3+ 6. Kc5 Nd7+ 7. Kd5 Nf6+ 8. Kc5 Nxh5 9. Nf4 Nxf4 1/2-1/2  
+
+[Event "3 Prize, tp21#241 {c} {m}"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3k4/7b/1nK3n1/b7/6B1/8/4N3/8 w - - 0 1"]
+
+ 1. Kb5 Ne5 2. Kxa5 Kc7 $1 3. Bh5 (3. Bh3 $2 Nc6+ 4. Kb5 Bd3+) 3... Nc6+ 4. Kb5 Bd3+ 5. Kc5 Nd7+ 6. Kd5 Nf6+ 7. Kc5 Nxh5 8. Nf4 $1 Nxf4 1/2-1/2  
+
+[Event "ts31#0486 @1 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/4p3/2p4p/p6k/2P2B2/2Pp1KPN/8 w - - 0 1"]
+
+ 1. Nf1 (1. Bd1 $1 {cook} a3 2. Nf3+ Kg4 3. Nxd2+ Kh4 4. Nb3) (1. Be2 $1 {cook} d1=Q 2. Bxd1 a3 3. Nf3+ Kg4 4. Nd2+) 1... d1=Q 2. Bxd1 a3 3. Nd2 c4 4. Ne4 a2 5. Kg1 $1 a1=Q 6. Kh2 Qxd1 7. g3+ Kg4 8. Nf2+ 1-0  
+
+[Event "tr11#0580 @1 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4n3/3B2p1/5p2/8/8/1b2KR2/N6b/6k1 w - - 0 1"]
+
+ 1. Nc1 (1. Nc3 $1 {cook} Nc7 $1 2. Ne2+ Kh1 3. Rf1+ Kg2 4. Rf2+ Kh1 5. Bh3 Bd6 6. Bg2+ Kh2 7. Bd5+) 1... Bd1 2. Ne2+ Bxe2 3. Kxe2 Nd6 4. Rf1+ Kg2 5. Rf2+ Kg3 (5... Kg1 6. Bc6 Be5 7. Rg2+ Kh1 8. Kf1) 6. Rf3+ Kh4 7. Rh3+ 1-0  
+
+[Event "ts31#0525 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/P1pR4/2P5/K1k4r/8/8/8/2r5 w - - 0 1"]
+
+ 1. Ka6 Ra1+ 2. Kb7 Rxa7+ 3. Kxa7 Kxc6 4. Rbd8 Rd5 5. Rxc7+ (5. Rxd5 $2) 1-0  
+
+[Event "tm04#0738 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4N3/qp6/kN6/p7/K7/8/8/2R5 w - - 0 1"]
+
+ 1. Rc8 $1 Qxb6 2. Ra8+ Qa7 3. Nc7+ Kb6 4. Rc8 $1 1-0  
+
+[Event "o000 {v} {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "K7/8/2N5/n7/1p2k3/8/pn2N3/8 w - - 0 1"]
+
+ 1. Nxb4 $1 a1=Q 2. Nc2 Qh1 (2... Qb1 3. Nc3+) (2... Qd1 3. Nc3+) (2... Qf1 3. Ng3+) (2... Qa2 3. Nc3+) (2... Qa4 3. Nc3+) 3. Ng3+ 1/2-1/2  
+
+[Event "1/2 Honorable Mention, ts27#24 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "2B4B/6K1/8/8/2b5/6k1/4p1p1/4N3 w - - 0 1"]
+
+ 1. Kh6 $1 g1=Q $1 2. Be5+ Kf2 3. Bd4+ Kxe1 4. Bxg1 Kf1 5. Bb6 e1=Q 6. Bh3+ Ke2 7. Bg4+ Kd3 8. Bf5+ Kc3 9. Ba5+ 1/2-1/2  
+
+[Event "tm04#0753 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/K1N5/2R5/1pn1k3/8/pn2N3/8 w - - 0 1"]
+
+ 1. Ra5 Nxa5 2. Nxb4 a1=Q 3. Nc2 1/2-1/2  
+
+[Event "ts23#01 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/bn5b/8/8/2R2K1N/4p2k/7N w - - 0 1"]
+
+ 1. Rc2 Kxh3 2. Rxe2 Bb7+ 3. Kf2 Bxh1 4. Re5 Kg4 5. Re6 Bf8 6. Kg1 Bd5 7. Rxb6 Bc5+ 8. Kh2 Bxb6 1/2-1/2  
+
+[Event "ts31#0339 @2 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4B3/B5K1/6N1/b3ppk1/6Pp/5p1P/2p5/r7 w - - 0 1"]
+
+ 1. Be3+ f4 2. Bf2 (2. Nf8 $1 {cook}) 2... Be1 3. Bxh4+ $1 Bxh4 4. Nxe5 Ra7+ 5. Bf7 Ra3 6. Bb3 Ra7+ 7. Bf7 Ra3 8. Bb3 1/2-1/2  
+
+[Event "tm04#0735 {m}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1q6/pk6/Rp6/bK6/8/8/4R3/8 w - - 0 1"]
+
+ 1. Re7+ Ka8 2. Raxa7+ Qxa7 3. Re8+ Qb8 4. Ka6 Qxe8 1/2-1/2  
+
+[Event "o000 @1 {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/P7/1n2K3/8/8/8/1P3k2/8 w - - 0 1"]
+
+ 1. Kf7 (1. b4 $1 {cook} Ke3 2. b5 Kd4 3. Kd6 Nc8+ 4. Kc7 Nxa7 5. b6) 1... Ke3 2. Ke8 Kd4 3. Kd8 Kc5 4. Kc7 Kb5 5. Kb7 Kc5 6. b3 Kb5 7. b4 1-0  
+
+[Event "2 Honorable Mention, mb01 ts25#066 {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1Nq5/4n2N/3pp3/1K2k3/2p1p1P1/3pP3/8/3Q4 w - - 0 1"]
+
+ 1. Qa1+ c3 2. Qxc3+ (2. Qa7 $2 d5 3. Nd7+ Kd6 4. Qa3+ Kc7 $1) 2... Qxc3 3. Nd7+ Kd5 4. Nhf6+ Qxf6 5. Nb6+ $1 Ke5 6. Kc4 d5+ 7. Kc5 Qf2 8. Nd7# 1-0  
+
+[Event "ts31#0331 @3 {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "6N1/1q6/2p2Bpp/6pk/6p1/1pPp2P1/1b1K4/8 w - - 0 1"]
+
+ 1. Be7 $1 Bc1+ 2. Kd1 Qxe7 3. Nxe7 Ba3 (3... Bf4 $1 {cook}) 4. Ng8 Be7 $1 5. Kc1 $1 Bd8 6. c4 $1 c5 7. Kb1 $1 Be7 $1 8. Kc1 $1 Bd8 9. Kb1 d2 10. Nf6+ $1 Bxf6 1/2-1/2  
+
+[Event "1 Honorable Mention, wa06 {m}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "1Q6/3q3B/8/1np2N2/8/Pp1n4/3k4/K6N w - - 0 1"]
+
+ 1. Qh2+ Kc3 2. Nhg3 b2+ 3. Qxb2+ Nxb2 4. Ne4+ Kc2 5. Ne3+ Kc1 6. Nxc5 Qf7 7. Bg6 Qg8 8. Bh7 Qf7 9. Bg6 1/2-1/2  
+
+[Event "3 Honorable Mention, wu01 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/7b/8/6p1/r3P1pN/7p/n2B1KNk w - - 0 1"]
+
+ 1. Nf2+ gxf2 2. Nh3 Bxe3 3. Bxg4 Ba7 4. Bf5 Ra4 5. Be6 Ra5 6. Bd7 Ra6 7. Bc8 Rb6 8. Nxf2# 1-0  
+
+[Event "3 Prize, wu01 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "b7/K1k5/2P5/1B4p1/1P5p/5p1p/5P1P/8 w - - 0 1"]
+
+ 1. Bf1 g4 2. Bxh3 gxh3 3. b5 Bxc6 4. Ka6 Kd6 5. Ka5 Bxb5 6. Kb4 Kd5 7. Kc3 1/2-1/2  
+
+[Event "ts23#04 {m}"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4k1B1/8/4p3/4P3/1pR3p1/1P1p4/1K6 w - - 0 1"]
+
+ 1. Bf8+ Kxf8 2. Rf3+ Ke7 3. Rf1 g2 4. Rd1 $1 Kf6 5. Rg1 $1 Ke6 6. Rd1 Ke7 7. Ka1 $1 Ke6 8. Kb1 1/2-1/2  
+
+[Event " Honorable Mention, o000 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1kB5/1P2p1pK/1P6/8/8/8/8/8 w - - 0 1"]
+
+ 1. Kg6 $1 e5 2. Kf5 g5 3. Kxe5 g4 4. Kd5 $1 (4. Kd6 $2 g3 5. Bh3 g2 6. Bxg2) 4... g3 5. Bh3 g2 6. Bxg2 Kxb7 7. Kc5+ 1-0  
+
+[Event "ts14 {m}"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1B5K/7p/1P6/5p1r/4pPk1/4P2p/n3P2P/8 w - - 0 1"]
+
+ 1. Bd6 (1. b7 $2 Nb4) 1... Nb4 2. Bxb4 Rh6 3. Bc5 Rh4 $1 4. Be7 $1 (4. b7 $2 h5 5. b8=Q) 4... Rh6 5. Bd8 Rd6 6. Bc7 1-0  
+
+[Event "2 Commendation, ts70#0790 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/3K4/8/P7/2k5/1n6/1P6/5N2 w - - 0 1"]
+
+ 1. Nd2+ Nxd2 2. a6 Kb5 3. a7 Nc4 4. Kc7 Nb6 5. Kb7 Kc5 6. b3 $1 Kb5 7. b4 1-0  
+
+[Event "3/4 Prize, tl10#3368 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/4p2B/4P2p/p7/k3P1pP/P4N2/K4p2/8 w - - 0 1"]
+
+ 1. Nd2 $1 g3 2. e5 f1=Q $1 3. Nxf1 g2 4. Be4 gxf1=Q 5. Bc6+ Qb5 6. Bd7 $1 h5 7. Ka1 $1 1-0  
+
+[Event "tl10#3494 @2 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2N5/3K4/3PpP2/3k4/3p4/3P4/1p3P2/b7 w - - 0 1"]
+
+ 1. Nb6+ Ke5 2. Nc4+ Kxf6 3. Nxb2 (3. Nd2 $1 {cook} b1=Q 4. Nxb1 Bc3 5. Ke8 $1) 3... Bxb2 4. Ke8 Ba3 5. d7 Be7 6. f4 e5 7. f5 e4 8. dxe4 d3 9. e5+ 1-0  
+
+[Event "ts14 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "K7/8/p7/8/3p4/1p1PR3/3k4/3B4 w - - 0 1"]
+
+ 1. Re2+ Kxd1 2. Rb2 Kc1 3. Rxb3 Kc2 4. Ra3 Kb2 5. Rxa6 Kc3 6. Ra3+ Kb4 7. Kb7 Kxa3 8. Kc6 Kb4 9. Kd5 Kc3 10. Ke4 1-0  
+
+[Event "tl10#3386 @3 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1K5/rp6/pp6/5n2/8/4N3/P7/8 w - - 0 1"]
+
+ 1. Nd5 Ne7+ (1... Nd6+ $1 {cook}) 2. Nxe7 a5 3. Nd5 Ra6 4. Nc7+ Ka7 5. Nb5+ Ka8 6. a4 Ra7 7. Nc7# 1-0  
+
+[Event "tl10#3386 {c} {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k1K5/rp6/pp4n1/8/8/4N3/P7/8 w - - 0 1"]
+
+ 1. Nd5 Ne7+ 2. Nxe7 a5 3. Nd5 Ra6 4. Nc7+ Ka7 5. Nb5+ Ka8 6. a4 Ra7 7. Nc7# 1-0  
+
+[Event "ts23#09 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "5R2/7K/5Rp1/6p1/8/8/3k4/4q3 w - - 0 1"]
+
+ 1. Rd8+ $1 (1. Rd6+ $2 Kc3 2. Rc8+ Kb4 3. Rb6+ Ka5 4. Rb1 Qh4+ $1 (4... Qxb1 $2 5. Ra8+ Kb6 6. Rb8+) (4... Qe4 $2 5. Ra8+ Qxa8 6. Ra1+) 5. Kg8 Qe4) 1... Kc3 2. Rc6+ Kb4 3. Rb8+ Ka5 4. Rc2 $1 Qe7+ (4... Qh1+ 5. Kg7 Qa1+ 6. Kg8) (4... Qh4+ 5. Kg8) 5. Kh6 $1 Qe6 6. Ra2+ Qxa2 7. Ra8+ 1-0  
+
+[Event " Honorable Mention, tt21#0878 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "3B3b/5K2/2Np3p/3P1k2/p1P1p3/4Pp1P/5p2/5Qq1 w - - 0 1"]
+
+ 1. Ne7+ Kg5 2. Ng6+ Kf5 3. Nh4+ Ke5 4. Qa1+ Qxa1 5. Bg5 $1 hxg5 6. Ng6+ Kf5 7. Ne7+ Ke5 8. Kg6 Qc3 9. Nc6# 1-0  
+
+[Event "5 Honorable Mention, wf01 tf01 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/1R6/8/7Q/1P3P2/4q2p/1nP4P/5k1K w - - 0 1"]
+
+ 1. Qb5+ $1 Nc4 $1 2. Qxc4+ Kf2 3. Qc5 Kf1 4. Qb5+ $1 (4. Qxe3 $2) 4... Kf2 5. Qb6 Kf1 6. Qa6+ Kf2 7. Qa7 Kf1 8. Qa1+ Ke2 9. Re7 $1 (9. Qe5 $2 Kf1) 9... Qxe7 10. Qe5+ 1-0  
+
+[Event "ts25 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/4p3/5k2/pP3P2/8/1K2p3/7N/5n2 w - - 0 1"]
+
+ 1. Ng4+ Kxf5 2. Nxe3+ Nxe3 3. b6 a4+ 4. Kxa4 Nc4 5. b7 Nb6+ 6. Kb5 Nd7 7. Kc6 Ke6 8. Kc7 Nc5 9. b8=N 1/2-1/2  
+
+[Event "tt21#0912 @3 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4n1k1/2B4N/3n3p/2b1K2P/8/8/8/8 w - - 0 1"]
+
+ 1. Nf6+ Nxf6 (1... Kf7 $1 {cook} 2. Bxd6 (2. Nxe8 Nxe8) 2... Bxd6+ 3. Kf5 Ng7+ $1 (3... Nxf6 $2)) 2. Bxd6 Ng4+ 3. Kf4 Nf2 4. Kf3 Nd3 5. Ke4 Nf2+ 6. Kf3 Bd4 7. Be5 1/2-1/2  
+
+[Event "tp21#117 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "7b/7p/4BN1p/2p4P/2P3Pk/1p1p4/p2Pp1P1/2K3B1 w - - 0 1"]
+
+ 1. Bf2+ Kg5 2. Ne4+ Kf4 3. Bg3+ Kxe4 4. Bf5+ Kd4 5. Kb2 e1=Q 6. Bxe1 Ke5 7. Bg3+ Kf6 8. Bh4+ Kg7 9. Be7 a1=Q+ 10. Kxa1 b2+ 11. Kb1 1/2-1/2  
+
+[Event "tp22 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "k1B5/pp2R3/8/2K5/8/8/7p/8 b - - 0 1"]
+
+ 1... b6+ (1... h1=Q 2. Bxb7+ Qxb7 3. Rxb7) 2. Kb5 h1=Q 3. Bb7+ Qxb7 4. Re8+ Qb8 5. Ka6 Qxe8 (5... b5 6. Rxb8+ Kxb8 7. Kxb5) 1/2-1/2  
+
+[Event "ts70#0789 @2 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "3n4/kb3P1r/n7/4B3/1P3K2/2N5/8/8 w - - 0 1"]
+
+ 1. Bd4+ Nc5 $1 2. Bxc5+ Ka6 3. b5+ (3. f8=Q $1 {cook CF}) 3... Ka5 4. Bb4+ $1 Kb6 5. Bc5+ Kc7 6. Bd6+ Kd7 7. f8=N+ 1/2-1/2  
+
+[Event "tp22 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "r1n3R1/2B5/5r2/7p/5P1k/5P2/8/6K1 w - - 0 1"]
+
+ 1. Bd8 Ne7 2. Bxe7 Rxg8+ 3. Kh2 Rgf8 4. Kg2 $1 R8f7 5. Bd8 Rg7+ 6. Kh2 Rgg6 7. Be7 1/2-1/2  
+
+[Event "2 Prize, wu01 @3 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "4r3/8/7R/7P/1p6/1P5P/RP6/K3k2r w - - 0 1"]
+
+ 1. Ra7 Kf2+ 2. Ka2 Ree1 (2... Kg2 $1 {cook VD} 3. Rd6 Rc1) 3. Rf6+ $1 Kg3 4. Rg7+ Kh4 $1 5. Rf4+ Kxh5 6. Rh4+ $1 Kxh4 7. Rg1 $1 Kh5 8. h4 Kh6 9. h5 Kh7 10. h6 Kh8 11. h7 1/2-1/2  
+
+[Event "2 Prize, wu01 {c} {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/R7/7R/7P/1p6/1P5P/KP3k2/4r2r w - - 0 1"]
+
+ 1. Rf6+ Kg3 (1... Ke2 $4 2. Re7+) 2. Rg7+ Kh4 3. Rf4+ Kxh5 4. Rh4+ $1 Kxh4 5. Rg1 Kh5 6. h4 Kh6 7. h5 Kh7 8. h6 Kh8 9. h7 1/2-1/2  
+
+[Event "tl10#3512 {m}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/5p2/5P2/k5p1/3n2P1/p1pP2P1/1r6/B3Q2K b - - 0 1"]
+
+ 1... Rh2+ 2. Kxh2 Nf3+ 3. Kh3 $1 Nxe1 4. Bxc3+ Ka4 5. Bxe1 Kb3 6. Bf2 Kc3 7. Bc5 a2 8. Bd6 Kd4 9. Ba3 a1=Q 10. Bb2+ Qxb2 1/2-1/2  
+
+[Event "3 Honorable Mention, tl10#3196 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/p7/8/k3pp2/1pK5/6p1/1N6/BB6 w - - 0 1"]
+
+ 1. Kc5 g2 2. Nc4+ Ka4 (2... Ka6 3. Bd4 $1 exd4 4. Bxf5 Kb7 5. Be4+) 3. Bd4 $1 exd4 4. Bc2+ b3 5. Bxf5 g1=Q 6. Bd7# 1-0  
+
+[Event "tl33 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "8/8/5pb1/2K5/5P2/B5k1/8/4N3 w - - 0 1"]
+
+ 1. Bc1 Kf2 2. Bd2 Ke2 3. Ba5 Ke3 4. Ng2+ Kf2 5. Nh4 Bh7 6. Bc7 Kg3 7. Ng6 Bxg6 8. f5+ 1-0  
+
+[Event "tt22#0955 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "6B1/8/1p1Pp2p/7k/5K2/5b2/8/4b3 w - - 0 1"]
+
+ 1. d7 e5+ (1... Bh4 2. Bf7#) (1... Bd2+ 2. Kg3 $1 Be1+ 3. Kxf3 $1 (3. Kh3 $2 Bg2+ $1 4. Kxg2 Bh4) 3... Bh4 4. Bf7+) 2. Kxf3 e4+ $1 3. Kf4 Bd2+ 4. Kg3 $1 Be1+ (4... Bg5 5. Bf7#) 5. Kh3 Bh4 6. Bf7+ 1-0  
+
+[Event "2 Honorable Mention, ts61 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "4B1k1/6p1/4r3/8/3B2N1/8/3K4/8 w - - 0 1"]
+
+ 1. Ba4 $1 Re4 2. Bb3+ Kh8 (2... Kh7 3. Bc2) (2... Kf8 3. Bc5+) 3. Ne5 $1 Rxd4+ 4. Kc3 Re4 (4... Rh4 5. Ng6+) (4... Rd8 5. Nf7+) (4... Rd6 5. Nf7+) (4... Rf4 5. Ng6+) 5. Nf7+ Kg8 6. Ng5+ 1-0  
+
+[Event "3 Commendation, tl10#3256 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "k7/8/3BP3/8/5b2/4r3/8/1R5K w - - 0 1"]
+
+ 1. Rb8+ Ka7 2. Bc5+ $1 Kxb8 3. Bxe3 Bd6 4. Bf4 Kc7 5. e7 Kd7 6. Bxd6 1-0  
+
+[Event " Honorable Mention, ts20 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1n6/B2b4/8/7p/6Pk/4p3/6Pp/n2QK3 w - - 0 1"]
+
+ 1. Ke2 (1. g3+ $2 Kh3 2. Ke2 Bxg4+) 1... Bxg4+ 2. Kxe3 Bxd1 3. Kf4 h1=N 4. Bd4 Nd7 5. Bc3 Nc2 6. Ba5 1-0  
+
+[Event "5 Honorable Mention, mz01 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "b4kBK/6pP/1P1P4/8/5pP1/5P1Q/8/b7 w - - 0 1"]
+
+ 1. Qf1 (1. Qh1 $2 Be5 2. Qe1 Be4 $1 3. Qa5 Bd5 $1 4. Qe1 Be4 5. Qxe4 g5+ 6. Qxe5) 1... Be5 2. Qe2 (2. Qe1 $2 Be4 3. Qa5 Bd5 4. Qxd5 g5+ 5. Qxe5) 2... Be4 $1 3. Qb5 $1 (3. Qxe4 $2 g5+ 4. Qxe5) 3... Bd5 $1 (3... g5+ 4. Qxe5) 4. Qe8+ $1 Kxe8 5. d7+ 1-0  
+
+[Event "ts23#36 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1k1b2bQ/2r5/K1p5/pPP3p1/P5P1/8/8/8 w - - 0 1"]
+
+ 1. b6 (1. Qe5 $2 Ka8 2. b6 Ra7+ $1 3. bxa7 Bc4#) 1... Ra7+ 2. bxa7+ Ka8 3. Qd4 (3. Qc3 $2 Be6 $1) 3... Bd5 (3... Bc7 4. Qe4) 4. Qd3 Bc7 5. Qf1 $1 (5. Qe2 $2 Bd8 6. Qf1 Be6) 5... Bd8 6. Qe2 Bf7 7. Qe4 Bd5 8. Qd4 $1 1-0  
+
+[Event "3 Prize, ts70#0756 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "1R6/7q/1K3pp1/8/1k6/2p5/1PP2P2/6B1 w - - 0 1"]
+
+ 1. Kc6+ Ka4 (1... Kc4 2. b3+ Kd4 3. Re8 Qh1+ 4. f3+ Qxg1 5. Re4#) 2. Ra8+ Kb4 3. b3 Qh1+ 4. f3 Qxf3+ 5. Kb6 Qxa8 6. Bc5# 1-0  
+
+[Event "tt22#0956 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "White wins"]
+[Result "*"]
+[FEN "2RK4/q7/7p/P3k3/2P4R/2P5/8/b7 w - - 0 1"]
+
+ 1. Rc5+ Qxc5 (1... Kd6 2. Rd5+ Ke6 3. Rxh6+) 2. Rh5+ Kd6 3. Rxh6+ Ke5 4. Rh5+ Kd6 5. Rxc5 Kxc5 6. Kc7 Bxc3 7. a6 Ba5+ 8. Kb8 $1 (8. Kb7 $2 Bb6) 8... Bb6 9. Kb7 1-0  
+
+[Event "tl10#3174 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3b4/5kN1/3K4/1b6/3n4/5BP1/8 w - - 0 1"]
+
+ 1. Bb6 $1 (1. Bh4+ $2 Kxg6 2. Kc4 Be1 $1) (1. Ba7 $2 Kxg6 2. Kc4 Ne5+ $1 3. Kxb4 Nc6+) (1. Bg1 $2 Be1 2. Nf8 Bf5) 1... Kxg6 2. Kc4 Bf5 3. g4 Be4 4. Kd4 Nf2 5. Ke3 Be1 6. Ke2 Nd3 7. Ke3 1/2-1/2  
+
+[Event "tt22#0954 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/8/8/R7/6K1/7R/3k2pP/2n1b3 w - - 0 1"]
+
+ 1. Rd5+ Kc2 (1... Ke2 2. Re5+ Kd1 3. Rxe1+ Kxe1 4. Rg3) 2. Rc5+ Kb2 3. Rb5+ Ka1 4. Ra5+ Na2 5. Rxa2+ $1 Kxa2 6. Ra3+ $1 Kxa3 (6... Kb2 7. Ra2+) 7. Kh3 g1=N+ 8. Kg2 Ne2 9. Kf1 1/2-1/2  
+
+[Event "3 Prize, wu01 {m}"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Kakovin A"]
+[Black "Draw"]
+[Result "*"]
+[FEN "8/3K2N1/6n1/3B4/3r2k1/3P4/3P4/8 w - - 0 1"]
+
+ 1. Kc6 Nf4 (1... Ne7+ 2. Kd6) 2. Kd6 Nxd5 3. Ne6 Rxd3 4. Nc5 Rxd2 5. Ne4 Rd4 6. Ke5 1/2-1/2  
+
