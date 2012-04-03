@@ -251,5 +251,126 @@
       "last_name": "Loyd", 
       "life_years": "1841 - 1911"
     }
+  }, 
+  {
+    "pk": 24, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u041c\u0438\u0445\u0430\u0438\u043b \u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432\u0438\u0447 \u0417\u0438\u043d\u0430\u0440", 
+      "regexp": "zinar", 
+      "first_name": "Mikhail", 
+      "last_name": "Zinar", 
+      "life_years": "1951"
+    }
+  }, 
+  {
+    "pk": 25, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u0413\u043b\u0435\u0431 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447 \u0417\u0430\u0445\u043e\u0434\u044f\u043a\u0438\u043d", 
+      "regexp": "zakhodyakin", 
+      "first_name": "Gleb", 
+      "last_name": "Zakhodyakin", 
+      "life_years": "1912 - 1982"
+    }
+  }, 
+  {
+    "pk": 26, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447 \u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432", 
+      "regexp": "grigor[ijy]ev", 
+      "first_name": "Nikolay", 
+      "last_name": "Grigoryev", 
+      "life_years": "1985 - 1938"
+    }
+  }, 
+  {
+    "pk": 27, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u0422\u0438\u0433\u0440\u0430\u043d \u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0438\u0447 \u0413\u043e\u0440\u0433\u0438\u0435\u0432", 
+      "regexp": "gorgiev", 
+      "first_name": "Tigran", 
+      "last_name": "Gorgiev", 
+      "life_years": "1910 - 1976"
+    }
+  }, 
+  {
+    "pk": 28, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u042e\u0440\u0438\u0439 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0438\u0447 \u0411\u0430\u0437\u043b\u043e\u0432", 
+      "regexp": "bazlov", 
+      "first_name": "Yury", 
+      "last_name": "Bazlov", 
+      "life_years": "1947"
+    }
+  }, 
+  {
+    "pk": 29, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u0414\u0430\u0432\u0438\u0434 \u0410\u043d\u0442\u043e\u043d\u043e\u0432\u0438\u0447 \u0413\u0443\u0440\u0433\u0435\u043d\u0438\u0434\u0437\u0435", 
+      "regexp": "gurgenidze", 
+      "first_name": "David", 
+      "last_name": "Gurgenidze", 
+      "life_years": "1953"
+    }
+  }, 
+  {
+    "pk": 30, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u0438\u0447 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432", 
+      "regexp": "kuznetsov", 
+      "first_name": "Anatoly", 
+      "last_name": "Kuznetsov", 
+      "life_years": "1932 - 2000"
+    }
+  }, 
+  {
+    "pk": 31, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a \u041b\u0430\u0437\u0430\u0440", 
+      "regexp": "lazard", 
+      "first_name": "Frederic", 
+      "last_name": "Lazard", 
+      "life_years": "1883 - 1948"
+    }
+  }, 
+  {
+    "pk": 32, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u0419\u043e\u0445\u0430\u043d\u0430\u043d \u0410\u0444\u0435\u043a", 
+      "regexp": "afek", 
+      "first_name": "Yochanan", 
+      "last_name": "Afek", 
+      "life_years": "1952"
+    }
+  }, 
+  {
+    "pk": 33, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "\u042e\u0440\u0438\u0439 \u0410\u043a\u043e\u0431\u0438\u044f", 
+      "regexp": "akobiy?a", 
+      "first_name": "Yury", 
+      "last_name": "Akobiya", 
+      "life_years": ""
+    }
+  }, 
+  {
+    "pk": 34, 
+    "model": "etudes.composer", 
+    "fields": {
+      "rus_name": "", 
+      "regexp": "becker", 
+      "first_name": "Richard", 
+      "last_name": "Becker", 
+      "life_years": "1959"
+    }
   }
 ]

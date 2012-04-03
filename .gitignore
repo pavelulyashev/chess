@@ -1,4 +1,5 @@
 *.pyc
 .ropeproject
-*swp
-*swo
+*.swp
+*.swo
+*_local.*

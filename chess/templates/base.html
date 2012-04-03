@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    {% block extra_head %}{% endblock %}
+    {% block custom_css %}{% endblock %}
+    {% block custom_js %}{% endblock %}
+  
+    <title>{% block title %}Chess etudes{% endblock %}</title>
+  </head>
+  
+  <body class="{% block body_class %}{% endblock%}">
+    <div class="wrapper">
+      {% block header %} {% include "header.html" %} {% endblock %}
+      
+      {% block content %}{% endblock %}
+      
+      {% block footer %} {% include "footer.html" %} {% endblock %}
+    </div>
+  </body>
+</html>
