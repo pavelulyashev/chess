@@ -4,10 +4,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447 \u041a\u0443\u0431\u0431\u0435\u043b\u044c", 
-      "regexp": "kubbel", 
       "first_name": "Leonid", 
       "last_name": "Kubbel", 
-      "life_years": "1891 - 1942"
+      "life_years": "1891 - 1942", 
+      "regexp": "kubbel", 
+      "slug": "kubbel"
     }
   }, 
   {
@@ -15,10 +16,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0438\u0447 \u0422\u0440\u043e\u0438\u0446\u043a\u0438\u0439", 
-      "regexp": "troit[sz]ki?y", 
       "first_name": "Alexey", 
       "last_name": "Troitzky", 
-      "life_years": "1866 - 1942"
+      "life_years": "1866 - 1942", 
+      "regexp": "troit[sz]ki?y", 
+      "slug": "troitzky"
     }
   }, 
   {
@@ -26,10 +28,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0412\u0438\u043a\u0442\u043e\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447 \u0415\u0432\u0440\u0435\u0438\u043d\u043e\u0432", 
-      "regexp": "evreinov", 
       "first_name": "Viktor", 
       "last_name": "Evreinov", 
-      "life_years": "1908 - 1984"
+      "life_years": "1908 - 1984", 
+      "regexp": "evreinov", 
+      "slug": "evreinov"
     }
   }, 
   {
@@ -37,10 +40,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u041c\u0430\u0440\u043a \u0421\u0430\u0432\u0435\u043b\u044c\u0435\u0432\u0438\u0447 \u041b\u0438\u0431\u0443\u0440\u043a\u0438\u043d", 
-      "regexp": "liburkin", 
       "first_name": "Mark", 
       "last_name": "Liburkin", 
-      "life_years": "1910 - 1953"
+      "life_years": "1910 - 1953", 
+      "regexp": "liburkin", 
+      "slug": "liburkin"
     }
   }, 
   {
@@ -48,10 +52,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0419\u043e\u0437\u0435\u0444 \u041a\u043b\u0438\u043d\u0433", 
-      "regexp": "kling", 
       "first_name": "Josef", 
       "last_name": "Kling", 
-      "life_years": "1811 - 1876"
+      "life_years": "1811 - 1876", 
+      "regexp": "kling", 
+      "slug": "kling"
     }
   }, 
   {
@@ -59,10 +64,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0420\u0438\u0445\u0430\u0440\u0434 \u0420\u0435\u0442\u0438", 
-      "regexp": "reti", 
       "first_name": "Richard", 
       "last_name": "Reti", 
-      "life_years": "1889 - 1929"
+      "life_years": "1889 - 1929", 
+      "regexp": "reti", 
+      "slug": "reti"
     }
   }, 
   {
@@ -70,10 +76,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0410\u043d\u0440\u0438 \u0420\u0438\u043d\u043a", 
-      "regexp": "rinck", 
       "first_name": "Henri", 
       "last_name": "Rinck", 
-      "life_years": "1870 - 1952"
+      "life_years": "1870 - 1952", 
+      "regexp": "rinck", 
+      "slug": "rinck"
     }
   }, 
   {
@@ -81,10 +88,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0412\u0430\u0441\u0438\u043b\u0438\u0439 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0438\u0447 \u0421\u043c\u044b\u0441\u043b\u043e\u0432", 
-      "regexp": "smyslov", 
       "first_name": "Vasily", 
       "last_name": "Smyslov", 
-      "life_years": "1921 - 2010"
+      "life_years": "1921 - 2010", 
+      "regexp": "smyslov", 
+      "slug": "smyslov"
     }
   }, 
   {
@@ -92,10 +100,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0412\u0438\u0442\u043e\u043b\u044c\u0434 \u0412\u0438\u0442\u043e\u043b\u044c\u0434\u043e\u0432\u0438\u0447 \u042f\u043a\u0438\u043c\u0447\u0438\u043a", 
-      "regexp": "yakimchik", 
       "first_name": "Vitold", 
       "last_name": "Yakimchik", 
-      "life_years": "1909 - 1977"
+      "life_years": "1909 - 1977", 
+      "regexp": "yakimchik", 
+      "slug": "yakimchik"
     }
   }, 
   {
@@ -103,10 +112,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0438\u0447 \u042f\u0440\u043e\u0448", 
-      "regexp": "yarosh", 
       "first_name": "Leonid", 
       "last_name": "Yarosh", 
-      "life_years": "1957"
+      "life_years": "1957", 
+      "regexp": "yarosh", 
+      "slug": "yarosh"
     }
   }, 
   {
@@ -114,10 +124,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u042f\u043d \u0420\u0443\u0441\u0438\u043d\u0435\u043a ", 
-      "regexp": "rusinek", 
       "first_name": "Jan", 
       "last_name": "Rusinek", 
-      "life_years": "1950"
+      "life_years": "1950", 
+      "regexp": "rusinek", 
+      "slug": "rusinek"
     }
   }, 
   {
@@ -125,10 +136,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447 \u041a\u043e\u0440\u043e\u043b\u044c\u043a\u043e\u0432 ", 
-      "regexp": "korolkov", 
       "first_name": "Vladimir", 
       "last_name": "Korolkov", 
-      "life_years": "1907 - 1987"
+      "life_years": "1907 - 1987", 
+      "regexp": "korolkov", 
+      "slug": "korolkov"
     }
   }, 
   {
@@ -136,10 +148,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u041e\u043b\u0435\u0433 \u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u0438\u0447 \u041f\u0435\u0440\u0432\u0430\u043a\u043e\u0432", 
-      "regexp": "pervakov", 
       "first_name": "Oleg", 
       "last_name": "Pervakov", 
-      "life_years": "1960"
+      "life_years": "1960", 
+      "regexp": "pervakov", 
+      "slug": "pervakov"
     }
   }, 
   {
@@ -147,10 +160,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u042d\u0440\u043d\u0435\u0441\u0442 \u041b\u0435\u0432\u043e\u043d\u043e\u0432\u0438\u0447 \u041f\u043e\u0433\u043e\u0441\u044f\u043d\u0446", 
-      "regexp": "pogosyants", 
       "first_name": "Ernest", 
       "last_name": "Pogosyants", 
-      "life_years": "1935 - 1990"
+      "life_years": "1935 - 1990", 
+      "regexp": "pogosyants", 
+      "slug": "pogosyants"
     }
   }, 
   {
@@ -158,10 +172,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0413\u0435\u043d\u0440\u0438\u0445 \u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0438\u0447 \u041a\u0430\u0441\u043f\u0430\u0440\u044f\u043d", 
-      "regexp": "kaspar[ijy]an", 
       "first_name": "Genrich", 
       "last_name": "Kasparyan", 
-      "life_years": "1910 - 1995"
+      "life_years": "1910 - 1995", 
+      "regexp": "kaspar[ijy]an", 
+      "slug": "kasparyan"
     }
   }, 
   {
@@ -169,10 +184,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0410\u0431\u0440\u0430\u043c \u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u0438\u0447 \u0413\u0443\u0440\u0432\u0438\u0447", 
-      "regexp": "gurvit?ch", 
       "first_name": "Abram", 
       "last_name": "Gurvich", 
-      "life_years": "1897 - 1962"
+      "life_years": "1897 - 1962", 
+      "regexp": "gurvit?ch", 
+      "slug": "gurvich"
     }
   }, 
   {
@@ -180,10 +196,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434 \u0413\u043e\u0440\u0432\u0438\u0446", 
-      "regexp": "horwitz", 
       "first_name": "Bernhard", 
       "last_name": "Horwitz", 
-      "life_years": "1807 - 1885"
+      "life_years": "1807 - 1885", 
+      "regexp": "horwitz", 
+      "slug": "horwitz"
     }
   }, 
   {
@@ -191,10 +208,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u041f\u0430\u043b \u0427\u0430\u0440\u043b\u0437 \u0411\u0435\u043d\u043a\u043e", 
-      "regexp": "benko", 
       "first_name": "Pal", 
       "last_name": "Benko", 
-      "life_years": "1928"
+      "life_years": "1928", 
+      "regexp": "benko", 
+      "slug": "benko"
     }
   }, 
   {
@@ -202,10 +220,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u041e\u0442\u0442\u043e \u0422\u0438\u0442\u0443\u0441 \u0411\u043b\u0430\u0442\u0438", 
-      "regexp": "blathy", 
       "first_name": "Otto Titusz", 
       "last_name": "Blathy", 
-      "life_years": "1860 - 1939"
+      "life_years": "1860 - 1939", 
+      "regexp": "blathy", 
+      "slug": "blathy"
     }
   }, 
   {
@@ -213,10 +232,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0424\u0438\u043b\u0438\u043f\u043f \u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0438\u0447 \u0411\u043e\u043d\u0434\u0430\u0440\u0435\u043d\u043a\u043e", 
-      "regexp": "bondarenko", 
       "first_name": "Filipp", 
       "last_name": "Bondarenko", 
-      "life_years": "1905 - 1993"
+      "life_years": "1905 - 1993", 
+      "regexp": "bondarenko", 
+      "slug": "bondarenko"
     }
   }, 
   {
@@ -224,10 +244,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0410\u043a\u0438\u043c\u043e\u0432\u0438\u0447 \u0411\u0440\u043e\u043d", 
-      "regexp": "bron", 
       "first_name": "Vladimir", 
       "last_name": "Bron", 
-      "life_years": "1909 - 1985"
+      "life_years": "1909 - 1985", 
+      "regexp": "bron", 
+      "slug": "bron"
     }
   }, 
   {
@@ -235,10 +256,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0410\u043b\u043e\u0438\u0437 \u0412\u043e\u0442\u0430\u0432\u0430", 
-      "regexp": "wotawa", 
       "first_name": "Alois", 
       "last_name": "Wotawa", 
-      "life_years": "1896 - 1970"
+      "life_years": "1896 - 1970", 
+      "regexp": "wotawa", 
+      "slug": "wotawa"
     }
   }, 
   {
@@ -246,10 +268,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0421\u044d\u043c\u044e\u044d\u043b\u044c \u041b\u043e\u0439\u0434", 
-      "regexp": "loyd", 
       "first_name": "Samuel", 
       "last_name": "Loyd", 
-      "life_years": "1841 - 1911"
+      "life_years": "1841 - 1911", 
+      "regexp": "loyd", 
+      "slug": "loyd"
     }
   }, 
   {
@@ -257,10 +280,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u041c\u0438\u0445\u0430\u0438\u043b \u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432\u0438\u0447 \u0417\u0438\u043d\u0430\u0440", 
-      "regexp": "zinar", 
       "first_name": "Mikhail", 
       "last_name": "Zinar", 
-      "life_years": "1951"
+      "life_years": "1951", 
+      "regexp": "zinar", 
+      "slug": "zinar"
     }
   }, 
   {
@@ -268,10 +292,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0413\u043b\u0435\u0431 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447 \u0417\u0430\u0445\u043e\u0434\u044f\u043a\u0438\u043d", 
-      "regexp": "zakhodyakin", 
       "first_name": "Gleb", 
       "last_name": "Zakhodyakin", 
-      "life_years": "1912 - 1982"
+      "life_years": "1912 - 1982", 
+      "regexp": "zakhodyakin", 
+      "slug": "zakhodyakin"
     }
   }, 
   {
@@ -279,10 +304,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447 \u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432", 
-      "regexp": "grigor[ijy]ev", 
       "first_name": "Nikolay", 
       "last_name": "Grigoryev", 
-      "life_years": "1985 - 1938"
+      "life_years": "1985 - 1938", 
+      "regexp": "grigor[ijy]ev", 
+      "slug": "grigoryev"
     }
   }, 
   {
@@ -290,10 +316,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0422\u0438\u0433\u0440\u0430\u043d \u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0438\u0447 \u0413\u043e\u0440\u0433\u0438\u0435\u0432", 
-      "regexp": "gorgiev", 
       "first_name": "Tigran", 
       "last_name": "Gorgiev", 
-      "life_years": "1910 - 1976"
+      "life_years": "1910 - 1976", 
+      "regexp": "gorgiev", 
+      "slug": "gorgiev"
     }
   }, 
   {
@@ -301,10 +328,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u042e\u0440\u0438\u0439 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0438\u0447 \u0411\u0430\u0437\u043b\u043e\u0432", 
-      "regexp": "bazlov", 
       "first_name": "Yury", 
       "last_name": "Bazlov", 
-      "life_years": "1947"
+      "life_years": "1947", 
+      "regexp": "bazlov", 
+      "slug": "bazlov"
     }
   }, 
   {
@@ -312,10 +340,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0414\u0430\u0432\u0438\u0434 \u0410\u043d\u0442\u043e\u043d\u043e\u0432\u0438\u0447 \u0413\u0443\u0440\u0433\u0435\u043d\u0438\u0434\u0437\u0435", 
-      "regexp": "gurgenidze", 
       "first_name": "David", 
       "last_name": "Gurgenidze", 
-      "life_years": "1953"
+      "life_years": "1953", 
+      "regexp": "gurgenidze", 
+      "slug": "gurgenidze"
     }
   }, 
   {
@@ -323,10 +352,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u0438\u0447 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432", 
-      "regexp": "kuznetsov", 
       "first_name": "Anatoly", 
       "last_name": "Kuznetsov", 
-      "life_years": "1932 - 2000"
+      "life_years": "1932 - 2000", 
+      "regexp": "kuznetsov", 
+      "slug": "kuznetsov"
     }
   }, 
   {
@@ -334,10 +364,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a \u041b\u0430\u0437\u0430\u0440", 
-      "regexp": "lazard", 
       "first_name": "Frederic", 
       "last_name": "Lazard", 
-      "life_years": "1883 - 1948"
+      "life_years": "1883 - 1948", 
+      "regexp": "lazard", 
+      "slug": "lazard"
     }
   }, 
   {
@@ -345,10 +376,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u0419\u043e\u0445\u0430\u043d\u0430\u043d \u0410\u0444\u0435\u043a", 
-      "regexp": "afek", 
       "first_name": "Yochanan", 
       "last_name": "Afek", 
-      "life_years": "1952"
+      "life_years": "1952", 
+      "regexp": "afek", 
+      "slug": "afek"
     }
   }, 
   {
@@ -356,10 +388,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "\u042e\u0440\u0438\u0439 \u0410\u043a\u043e\u0431\u0438\u044f", 
-      "regexp": "akobiy?a", 
       "first_name": "Yury", 
       "last_name": "Akobiya", 
-      "life_years": ""
+      "life_years": "", 
+      "regexp": "akobiy?a", 
+      "slug": "akobiya"
     }
   }, 
   {
@@ -367,10 +400,11 @@
     "model": "etudes.composer", 
     "fields": {
       "rus_name": "", 
-      "regexp": "becker", 
       "first_name": "Richard", 
       "last_name": "Becker", 
-      "life_years": "1959"
+      "life_years": "1959", 
+      "regexp": "becker", 
+      "slug": "becker"
     }
   }
 ]

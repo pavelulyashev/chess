@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+.etude-preview {
+  padding: 15px;
+  margin: 10px;
+  background-color: #f9f9f9;
+  float: left;
+}
+
+.etude-preview .description {
+  margin: 10px 0 0;
+  font-size: 14px;
+  font-weight: bold;
+}
+.etude-preview .description span {
+}
+.etude-preview .description .result {
+  float: right;
+}

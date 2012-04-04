@@ -1,9 +1,9 @@
 (function() {
 var initChessBoard = function() {
     var jqEtude = $(this);
-    var fen = jqEtude.data('fen');
     jqEtude.chess({ 
-        fen: fen
+        // pgn: jqEtude.data('pgn')
+        fen: jqEtude.data('fen')
     });
 };
 
