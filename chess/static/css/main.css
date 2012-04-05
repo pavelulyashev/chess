@@ -24,3 +24,18 @@ ul, li {
 .etude-preview .description .result {
   float: right;
 }
+.pieces {
+  font-size: 40px;
+}
+.pieces.alpha {
+  font-family: ChessAlpha;
+}
+.pieces.alpha2 {
+  font-family: ChessAlpha2;
+}
+.pieces.leipzig {
+  font-family: ChessLeipzig;
+}
+.pieces.merida {
+  font-family: ChessMerida;
+}

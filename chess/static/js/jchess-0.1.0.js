@@ -144,7 +144,6 @@ jQuery.eachWithContext = function(context, object, callback) {
 
         var pos_top  = this.settings.square_size * square[0] + this.settings.offsets.top;
         var pos_left = this.settings.square_size * square[1] + this.settings.offsets.left;
-        console.log('pos_top', pos_top, 'pos_left', pos_left)
 
         var color = 'b';
         if (piece.toUpperCase() == piece) { color = 'w'; }
@@ -691,7 +690,7 @@ jQuery.eachWithContext = function(context, object, callback) {
       debugBoard : function() {
         $.eachWithContext(this, this.boardData(), function(j, row) {
           $.eachWithContext(this, row, function(k, val) {
-            console.log('[' + j + ',' + k + '] = { id: ' + this.boardData()[j][k].id + ', piece: ' + this.boardData()[j][k].piece + ' }');
+            // console.log('[' + j + ',' + k + '] = { id: ' + this.boardData()[j][k].id + ', piece: ' + this.boardData()[j][k].piece + ' }');
           });
         });
       },

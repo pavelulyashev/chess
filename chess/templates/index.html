@@ -12,7 +12,7 @@
   <ul class="etudes-list">
     {% for etude in etudes_list %}
     <li class="etude-preview" data-fen="{{ etude.fen }}" data-result="{{ etude.result }}" data-pgn="{{ etude.moves }}">
-      <div class="chess-board"></div>
+      <div class="chess-board small"></div>
       <div class="description">
         <span class="author">{{ etude.get_authors }}</span> -
         <span class="year">{{ etude.year }}</span>
