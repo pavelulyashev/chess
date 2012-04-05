@@ -32,7 +32,7 @@ class Composer(models.Model):
 
 
 class Etude(models.Model):
-    authors = models.ManyToManyField(Composer)
+    authors = models.ManyToManyField(Composer, related_name='etudes')
     year = models.IntegerField(max_length=4)
 
     result = models.CharField(max_length=1, choices=RESULT_CHOICES)

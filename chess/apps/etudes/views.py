@@ -1,4 +1,5 @@
 from django.views.generic import ListView
+from django.shortcuts import get_object_or_404
 
 from chess.apps.etudes.models import Etude, Composer
 
@@ -17,5 +18,5 @@ class EtudesByAuthor(ListView):
 
     def get_queryset(self):
         author_slug = self.kwargs['author_slug']
-        authors = Composer.objects.filter(slug=author_slug)
-        return Etude.objects.filter(authors__in=authors)
+        author = get_object_or_404(Composer, slug=author_slug)
+        return author.etudes.all()
