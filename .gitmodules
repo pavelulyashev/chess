@@ -1,3 +1,6 @@
 [submodule "chess/apps/pgnparser"]
 	path = chess/apps/pgnparser
 	url = git@github.com:pavelulyashev/pgnparser.git
+[submodule "chess/static/js/jchess"]
+	path = chess/static/js/jchess
+	url = git@github.com:pavelulyashev/jchess.git
