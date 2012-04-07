@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+
+{% block extra_head %}
+  <link rel="stylesheet/less" type="text/css" media="all" href="{{ STATIC_URL }}css/chess.less" />
+  <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/jchess-0.1.0.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/app_chess.js"></script>
+{% endblock %}
+
+{% block content %}
+<div class="etude-detail-container">
+  <div class="etude-detail" data-fen="{{ etude.fen }}" data-square-size="64" data-result="{{ etude.result }}" data-pgn="{{ etude.moves }}">
+    <div class="chess-board board64"></div>
+    <div class="description">
+      <span class="author">{{ etude.get_authors }}</span> -
+      <span class="year">{{ etude.year }}</span>
+      <span class="result">{{ etude.get_result }}</span>
+    </div>
+  </div>
+</div>
+{% endblock content %}

@@ -2,13 +2,13 @@
 var initChessBoard = function() {
     var jqEtude = $(this);
     jqEtude.chess({ 
-        // pgn: jqEtude.data('pgn')
+        // moves: jqEtude.data('pgn'),
         fen: jqEtude.data('fen'),
-        square_size: 24
+        square_size: jqEtude.data('squareSize')
     });
 };
 
 $(document).ready(function() {
-    $('.etudes-list .etude-preview').each(initChessBoard);
+    $('.etudes-list .etude-preview, .etude-detail').each(initChessBoard);
 });
 }());

@@ -23,8 +23,11 @@
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-// If Firebug is not installed, prevent console.log() from creating error messages
-if (typeof console == "undefined") { var console = { log: function() {} }; }
+if (window.console === undefined) { 
+    var console = { 
+        log: function() {}
+    }; 
+}
 
 // Iterate within an arbitrary context...
 jQuery.eachWithContext = function(context, object, callback) {
@@ -35,10 +38,10 @@ jQuery.eachWithContext = function(context, object, callback) {
 (function($) {
   /* Constructor */
   $.chess = function(options, wrapper) {
-    this.settings = $.extend( {}, $.chess.defaults, options );
-    this.wrapper  = wrapper;
+    this.settings = $.extend({}, $.chess.defaults, options);
+    this.wrapper = wrapper;
 
-    this.game     = {
+    this.game = {
       active_color : 'w',
       castling_availability : 'KQkq',
       en_passant_square : '-',
@@ -79,12 +82,16 @@ jQuery.eachWithContext = function(context, object, callback) {
     prototype : {
       init : function() {
         // Load a fresh board position
-        this.setUpBoard( this.parseFEN( this.settings.fen ) );
+        this.setUpBoard( this.parseFen( this.settings.fen ) );
 
         // If pgn was passed in, parse it
-        if (this.settings.pgn) this.parsePGN(this.settings.pgn);
+        if (this.settings.moves) {
+            this.parseMoves(this.settings.moves);
+        } else if (this.settings.pgn) {
+            this.parsePgn(this.settings.pgn);
+        }
 
-        this.setUpBoard( this.parseFEN( this.settings.fen ) );
+        this.setUpBoard( this.parseFen( this.settings.fen ) );
         this.writeBoard();
       },
 
@@ -136,13 +143,13 @@ jQuery.eachWithContext = function(context, object, callback) {
       },
 
       addDomPiece : function(id, piece, algebraic) {
-        var square   = this.algebraic2Coord(algebraic);
+        var square = this.algebraic2Coord(algebraic);
         if (this.game.board_direction < 0) {
           square[0] = 7 - square[0];
           square[1] = 7 - square[1];
         }
 
-        var pos_top  = this.settings.square_size * square[0] + this.settings.offsets.top;
+        var pos_top = this.settings.square_size * square[0] + this.settings.offsets.top;
         var pos_left = this.settings.square_size * square[1] + this.settings.offsets.left;
 
         var color = 'b';
@@ -154,9 +161,9 @@ jQuery.eachWithContext = function(context, object, callback) {
 
       moveDomPiece : function(id, move) {
         var from = this.algebraic2Coord(move.from);
-        var to   = this.algebraic2Coord(move.to);
+        var to = this.algebraic2Coord(move.to);
 
-        var top  = (parseInt(to[0]) - parseInt(from[0])) * this.settings.square_size * this.game.board_direction;
+        var top = (parseInt(to[0]) - parseInt(from[0])) * this.settings.square_size * this.game.board_direction;
         var left = (parseInt(to[1]) - parseInt(from[1])) * this.settings.square_size * this.game.board_direction;
 
         $('#' + this.getDomPieceId(id)).animate({
@@ -198,9 +205,9 @@ jQuery.eachWithContext = function(context, object, callback) {
       // ["r:50", "m:6:d7:d8"]
       runTransitions : function(transitions) {
         $.eachWithContext(this, transitions, function(i, transition) {
-          var pieces          = transition.split(':');
+          var pieces = transition.split(':');
           var transition_type = pieces[0];
-          var id              = pieces[1];
+          var id = pieces[1];
 
           switch(transition_type) {
             case 'r':
@@ -223,11 +230,11 @@ jQuery.eachWithContext = function(context, object, callback) {
 
       flipBoard : function() {
         var board_length = this.settings.square_size * 7;
-        var offsets      = this.settings.offsets;
+        var offsets = this.settings.offsets;
 
         this.boardElement().children().each(function() {
-          var top_val      = parseInt($(this).css('top')) - offsets.top;
-          var left_val     = parseInt($(this).css('left')) - offsets.left;
+          var top_val = parseInt($(this).css('top')) - offsets.top;
+          var left_val = parseInt($(this).css('left')) - offsets.left;
           $(this).css('top', (board_length - top_val) + offsets.top);
           $(this).css('left', (board_length - left_val) + offsets.left);
         });
@@ -235,10 +242,10 @@ jQuery.eachWithContext = function(context, object, callback) {
         this.game.board_direction *= -1;
       },
 
-      parseFEN : function(fen) {
+      parseFen : function(fen) {
         // rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
-        var new_board     = [];
-        var fen_parts     = fen.replace(/^\s*/, "").replace(/\s*$/, "").split(/\/|\s/);
+        var new_board = [];
+        var fen_parts = $.trim(fen).split(/\/|\s/);
 
         for (var j = 0;j < 8; j++) {
           new_board[j] = [];
@@ -250,33 +257,37 @@ jQuery.eachWithContext = function(context, object, callback) {
         return new_board;
       },
 
-      validateFEN : function(fen) {
+      validateFen : function(fen) {
         var pattern = /\s*([rnbqkpRNBQKP12345678]+\/){7}([rnbqkpRNBQKP12345678]+)\s[bw-]\s(([kqKQ]{1,4})|(-))\s(([a-h][1-8])|(-))\s\d+\s\d+\s*/;
         return pattern.test(fen);
       },
 
-      parsePGN : function(pgn) {
+      parsePgn : function(pgn) {
         // Do a little clean up on the string
         pgn = $.trim(pgn).replace(/\n|\r/g, ' ').replace(/\s+/g, ' ');
         var instance = this;
         // Recognize escaped closing curly brackets as part of the comment
         // This allows us to have json encoded comments
-        pgn = pgn.replace(/\{((\\})|([^}]))+}/g, function(){ return instance.pluckAnnotation.apply(instance, arguments); });
+        pgn = pgn.replace(/\{((\\})|([^}]))+}/g, function() { 
+            return instance.pluckAnnotation.apply(instance, arguments); 
+        });
 
         var headers = ['Event','Site','Date','Round','White','Black','Result'];
         for (var i=0; i < headers.length; i++) {
-          var re      = new RegExp(headers[i] + ' "([^"]*)"]');
-          var result  = re.exec(pgn);
+          var re = new RegExp(headers[i] + ' "([^"]*)"]');
+          var result = re.exec(pgn);
           this.game.header[headers[i]] = (result == null) ? "" : result[1];
         }
 
         // Find the body
         this.game.body = /(1\. ?(N[acfh]3|[abcdefgh][34]).*)/m.exec(pgn)[1];
-
+        this.parseMoves(this.game.body);
+      },
+      parseMoves: function(rawMoves) {
         // Remove numbers, remove result
-        this.game.body = this.game.body.replace(new RegExp("1-0|1/2-1/2|0-1"), '');
-        this.game.body = this.game.body.replace(/^\d+\.+/, '');
-        this.game.body = this.game.body.replace(/\s\d+\.+/g, ' ');
+        this.game.body = rawMoves.replace(new RegExp("1-0|1/2-1/2|0-1"), '')
+                                 .replace(/^\d+\.+/, '')
+                                 .replace(/\s\d+\.+/g, ' ');
 
         var moves = $.trim(this.game.body).split(/\s+/);
         // console.log(moves);
@@ -346,18 +357,18 @@ jQuery.eachWithContext = function(context, object, callback) {
             var dst_rank = null;
 
             if ( this.patterns.pawn_move.test(move) ) {
-              var m    = this.patterns.pawn_move.exec(move);
+              var m = this.patterns.pawn_move.exec(move);
               dst_file = m[1];
               dst_rank = m[2];
-              var src  = this.findPawnMoveSource(dst_file, dst_rank, player);
-              var dst  = dst_file + dst_rank;
+              var src = this.findPawnMoveSource(dst_file, dst_rank, player);
+              var dst = dst_file + dst_rank;
               this.movePiece(move_number, {from : src, to : dst} );
 
               // Pawn capture
             } else if ( this.patterns.pawn_capture.test(move) ) {
-              var m        = this.patterns.pawn_capture.exec(move);
-              dst_file     = m[2];
-              dst_rank     = m[3];
+              var m = this.patterns.pawn_capture.exec(move);
+              dst_file = m[2];
+              dst_rank = m[3];
               var src_file = m[1];
               var src_rank = parseInt(dst_rank) + ( (player == 'w') ? -1 : 1 );
 
@@ -387,7 +398,7 @@ jQuery.eachWithContext = function(context, object, callback) {
       cantMoveFromAbsolutePin : function(piece, src_square, dst_square) {
         // Look for an open vector from piece to the king.
         var piece_char = piece.piece;
-        var player     = ( piece_char == piece_char.toLowerCase() ) ? 'b' : 'w';
+        var player = ( piece_char == piece_char.toLowerCase() ) ? 'b' : 'w';
 
         var result = this.findAbsolutePin(player, this.pieces['R'].vectors, src_square, ['R','Q']);
         if (result == null) result = this.findAbsolutePin(player, this.pieces['B'].vectors, src_square, ['B','Q']);
@@ -413,9 +424,9 @@ jQuery.eachWithContext = function(context, object, callback) {
       },
 
       squaresBetweenEndPoints : function(s,e) {
-        var start   = this.algebraic2Coord(s);
-        var end     = this.algebraic2Coord(e);
-        var tmp     = start;
+        var start = this.algebraic2Coord(s);
+        var end = this.algebraic2Coord(e);
+        var tmp = start;
         var squares = [];
         squares.push(this.coord2Algebraic(start[0],start[1]));
 
@@ -434,7 +445,7 @@ jQuery.eachWithContext = function(context, object, callback) {
         // Look at vectors
         var result = this.findVectorToKing(player, vectors, src_square);
         if (result != null) {
-          var vector       = result[0];
+          var vector = result[0];
           var kings_square = result[1];
 
           // Find the first piece in opposite direction
@@ -506,10 +517,10 @@ jQuery.eachWithContext = function(context, object, callback) {
       },
 
       findPawnMoveSource : function(dst_file, dst_rank, player) {
-        var dst_square    = dst_file + dst_rank;
-        var target_piece  = (player == 'w') ? 'P' : 'p';
-        var direction     = (player == 'w') ? -1 : 1;
-        var vector        = { x : 0, y : direction, limit : 2 };
+        var dst_square = dst_file + dst_rank;
+        var target_piece = (player == 'w') ? 'P' : 'p';
+        var direction = (player == 'w') ? -1 : 1;
+        var vector = { x : 0, y : direction, limit : 2 };
 
         for (var size = 1; size <= vector.limit; size++) {
           var result = this.pieceFromSourceAndVector(dst_square, vector, size);
@@ -549,7 +560,7 @@ jQuery.eachWithContext = function(context, object, callback) {
         // console.log("Moving a piece: (" + num + ") " + " from " + move.from + " to " + move.to);
 
         var from = this.algebraic2Coord(move.from);
-        var to   = this.algebraic2Coord(move.to);
+        var to = this.algebraic2Coord(move.to);
         var piece = this.pieceAt(move.from);
 
         if (this.pieceAt(move.to).piece) this.removePiece(num, move.to);
@@ -579,27 +590,27 @@ jQuery.eachWithContext = function(context, object, callback) {
       },
 
       // transitions = { 1 : { forward : ["m:50:4,1:6,1"], backward : ["m:50:6,1:4,1"] },
-      //                 2 :{ forward : ["a:50:P:4,1", "m:6:4,1:1,4"], backward : ["r:50", "m:6:1,4:4,1"] } }
+      // 2 :{ forward : ["a:50:P:4,1", "m:6:4,1:1,4"], backward : ["r:50", "m:6:1,4:4,1"] } }
       saveTransition : function(options) {
-        var forward  = null;
+        var forward = null;
         var backward = null;
-        var num      = options.num;
+        var num = options.num;
 
         if (options.type == 'a') {
-          forward  = ["a:" + options.dom_id + ":" + options.piece + ":" + options.to];
+          forward = ["a:" + options.dom_id + ":" + options.piece + ":" + options.to];
           backward = ["r:" + options.dom_id];
         } else if (options.type == 'm') {
-          forward  = ["m:" + options.dom_id + ":" + options.from + ":" + options.to];
+          forward = ["m:" + options.dom_id + ":" + options.from + ":" + options.to];
           backward = ["m:" + options.dom_id + ":" + options.to + ":" + options.from];
         } else if (options.type == 'r') {
-          forward  = ["r:" + options.dom_id];
+          forward = ["r:" + options.dom_id];
           backward = ["a:" + options.dom_id + ":" + options.piece + ":" + options.from];
         }
 
         if (this.game.transitions[num] == null) {
           this.game.transitions[num] = { forward : forward, backward : backward };
         } else {
-          this.game.transitions[num].forward  = this.game.transitions[num].forward.concat(forward);
+          this.game.transitions[num].forward = this.game.transitions[num].forward.concat(forward);
           this.game.transitions[num].backward = backward.concat(this.game.transitions[num].backward);
         }
       },
@@ -609,13 +620,13 @@ jQuery.eachWithContext = function(context, object, callback) {
       },
 
       getMove : function(n) {
-        var n = (typeof n == "undefined") ? this.game.halfmove_number : n;
+        var n = (n === undefined) ? this.game.halfmove_number : n;
         return this.game.moves[n -1];
       },
 
       getFormattedMove : function(n) {
-        var n      = (typeof n == "undefined") ? this.game.halfmove_number : n;
-        var f      = Math.ceil(n / 2.0);
+        var n = (n === undefined) ? this.game.halfmove_number : n;
+        var f = Math.ceil(n / 2.0);
         var hellip = (n % 2 == 0) ? '... ' : '';
         return f + ". " + hellip + this.getMove(n);
       },
@@ -659,9 +670,9 @@ jQuery.eachWithContext = function(context, object, callback) {
       pluckAnnotation : function(str) {
         this.game.raw_annotations = this.game.raw_annotations || [];
         var ann_num = this.game.raw_annotations.length;
-        var annot   = str.substring(1,str.length-1); // Remove curly brackets
-        annot       = annot.replace(/\\\{/g, '{');
-        annot       = annot.replace(/\\\}/g, '}');
+        var annot = str.substring(1,str.length-1); // Remove curly brackets
+        annot = annot.replace(/\\\{/g, '{');
+        annot = annot.replace(/\\\}/g, '}');
 
         if (this.settings.json_annotations) {
           eval("annot = " + annot);
@@ -697,74 +708,74 @@ jQuery.eachWithContext = function(context, object, callback) {
 
       /* Patterns used for parsing */
       patterns : {
-        castle_kingside     : /^O-O/,
-        castle_queenside    : /^O-O-O/,
+        castle_kingside : /^O-O/,
+        castle_queenside : /^O-O-O/,
 
-        piece_move          : /^([BKNQR])/,
+        piece_move : /^([BKNQR])/,
         rank_and_file_given : /^([BKNQR])([a-h])([1-8])x?([a-h])([1-8])/,
-        file_given          : /^([BKNQR])([a-h])x?([a-h])([1-8])/,
-        rank_given          : /^([BKNQR])([1-8])x?([a-h])([1-8])/,
-        nothing_given       : /^([BKNQR])x?([a-h])([1-8])/,
+        file_given : /^([BKNQR])([a-h])x?([a-h])([1-8])/,
+        rank_given : /^([BKNQR])([1-8])x?([a-h])([1-8])/,
+        nothing_given : /^([BKNQR])x?([a-h])([1-8])/,
 
-        pawn_move           : /^([a-h])([1-8])/,
-        pawn_capture        : /^([a-h])x([a-h])([1-8])/,
-        pawn_queen          : /=([BNQR])/
+        pawn_move : /^([a-h])([1-8])/,
+        pawn_capture : /^([a-h])x([a-h])([1-8])/,
+        pawn_queen : /=([BNQR])/
       },
 
       /* Definitions of pieces */
       pieces : {
         R : {
           vectors : [
-            { x :  0, y :  1, limit : 8 },
-            { x :  1, y :  0, limit : 8 },
-            { x :  0, y : -1, limit : 8 },
-            { x : -1, y :  0, limit : 8 }
+            { x : 0, y : 1, limit : 8 },
+            { x : 1, y : 0, limit : 8 },
+            { x : 0, y : -1, limit : 8 },
+            { x : -1, y : 0, limit : 8 }
           ]
         },
         N : {
           vectors : [
-            { x :  1, y :  2, limit : 1 },
-            { x :  2, y :  1, limit : 1 },
-            { x :  2, y : -1, limit : 1 },
-            { x :  1, y : -2, limit : 1 },
+            { x : 1, y : 2, limit : 1 },
+            { x : 2, y : 1, limit : 1 },
+            { x : 2, y : -1, limit : 1 },
+            { x : 1, y : -2, limit : 1 },
             { x : -1, y : -2, limit : 1 },
             { x : -2, y : -1, limit : 1 },
-            { x : -2, y :  1, limit : 1 },
-            { x : -1, y :  2, limit : 1 }
+            { x : -2, y : 1, limit : 1 },
+            { x : -1, y : 2, limit : 1 }
           ]
         },
         B : {
           vectors : [
-            { x :  1, y :  1, limit : 8 },
-            { x :  1, y : -1, limit : 8 },
+            { x : 1, y : 1, limit : 8 },
+            { x : 1, y : -1, limit : 8 },
             { x : -1, y : -1, limit : 8 },
-            { x : -1, y :  1, limit : 8 }
+            { x : -1, y : 1, limit : 8 }
           ]
         },
         Q : {
           vectors : [
-            { x :  0, y :  1, limit : 8 },
-            { x :  1, y :  0, limit : 8 },
-            { x :  0, y : -1, limit : 8 },
-            { x : -1, y :  0, limit : 8 },
+            { x : 0, y : 1, limit : 8 },
+            { x : 1, y : 0, limit : 8 },
+            { x : 0, y : -1, limit : 8 },
+            { x : -1, y : 0, limit : 8 },
 
-            { x :  1, y :  1, limit : 8 },
-            { x :  1, y : -1, limit : 8 },
+            { x : 1, y : 1, limit : 8 },
+            { x : 1, y : -1, limit : 8 },
             { x : -1, y : -1, limit : 8 },
-            { x : -1, y :  1, limit : 8 }
+            { x : -1, y : 1, limit : 8 }
           ]
         },
         K : {
           vectors : [
-            { x :  0, y :  1, limit : 1 },
-            { x :  1, y :  0, limit : 1 },
-            { x :  0, y : -1, limit : 1 },
-            { x : -1, y :  0, limit : 1 },
+            { x : 0, y : 1, limit : 1 },
+            { x : 1, y : 0, limit : 1 },
+            { x : 0, y : -1, limit : 1 },
+            { x : -1, y : 0, limit : 1 },
 
-            { x :  1, y :  1, limit : 1 },
-            { x :  1, y : -1, limit : 1 },
+            { x : 1, y : 1, limit : 1 },
+            { x : 1, y : -1, limit : 1 },
             { x : -1, y : -1, limit : 1 },
-            { x : -1, y :  1, limit : 1 }
+            { x : -1, y : 1, limit : 1 }
           ]
         }
       }
