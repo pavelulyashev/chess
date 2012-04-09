@@ -23,41 +23,40 @@
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-if (window.console === undefined) { 
-    var console = { 
-        log: function() {}
-    }; 
+// If Firebug is not installed, prevent console.log() from creating error messages
+if (window.console === undefined) {
+    var console = { log: function() {} };
 }
 
 // Iterate within an arbitrary context...
 jQuery.eachWithContext = function(context, object, callback) {
-  for ( var i = 0, length = object.length, value = object[0];
+  for (var i = 0, length = object.length, value = object[0];
     i < length && callback.call(context, i, value ) !== false; value = object[++i] ) {}
 };
 
 (function($) {
   /* Constructor */
   $.chess = function(options, wrapper) {
-    this.settings = $.extend({}, $.chess.defaults, options);
-    this.wrapper = wrapper;
+    this.settings = $.extend( {}, $.chess.defaults, options );
+    this.wrapper  = wrapper;
 
-    this.game = {
-      active_color : 'w',
-      castling_availability : 'KQkq',
-      en_passant_square : '-',
-      halfmove_clock : 0,
-      fullmove_number : 1,
-      halfmove_number : 0,
+    this.game     = {
+      active_color: 'w',
+      castling_availability: 'KQkq',
+      en_passant_square: '-',
+      halfmove_clock: 0,
+      fullmove_number: 1,
+      halfmove_number: 0,
 
-      header : [],
-      body : '',
-      moves : [],
-      annotations : [],
-      raw_annotations : [],
+      header: [],
+      body: '',
+      moves: [],
+      annotations: [],
+      raw_annotations: [],
 
-      next_piece_id : 64,
-      transitions : [],
-      board_direction : 1
+      next_piece_id: 64,
+      transitions: [],
+      board_direction: 1
     };
 
   };
@@ -71,43 +70,43 @@ jQuery.eachWithContext = function(context, object, callback) {
 
   $.extend($.chess, {
 
-    defaults : {
-      fen : "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
-      square_size : 43,
-      offsets : { left: 0, top: 0},
-      board_element_selector : '.chess-board',
-      json_annotations : false
+    defaults: {
+      fen: "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      square_size: 44,
+      offsets: { left: 0, top: 0},
+      board_element_selector: '.chess-board',
+      json_annotations: false
     },
 
-    prototype : {
-      init : function() {
+    prototype: {
+      init: function() {
         // Load a fresh board position
-        this.setUpBoard( this.parseFen( this.settings.fen ) );
+        this.setUpBoard( this.parseFEN( this.settings.fen ) );
 
         // If pgn was passed in, parse it
-        if (this.settings.moves) {
-            this.parseMoves(this.settings.moves);
-        } else if (this.settings.pgn) {
-            this.parsePgn(this.settings.pgn);
+        if (this.settings.pgn) {
+            try {
+                this.parsePGN(this.settings.pgn);
+            } catch (e) {}
         }
 
-        this.setUpBoard( this.parseFen( this.settings.fen ) );
+        this.setUpBoard( this.parseFEN( this.settings.fen ) );
         this.writeBoard();
       },
 
-      boardElement : function() {
+      boardElement: function() {
         return $(this.wrapper).find(this.settings.board_element_selector);
       },
 
-      boardData : function() {
+      boardData: function() {
         return this._board;
       },
 
-      setUpBoard : function(template) {
+      setUpBoard: function(template) {
         this._board = this.createBoardDataFromTemplate(template);
       },
 
-      createBoardDataFromTemplate : function(template) {
+      createBoardDataFromTemplate: function(template) {
         var board = [];
         $.each(template, function(j, row) {
           board[j] = [];
@@ -123,7 +122,7 @@ jQuery.eachWithContext = function(context, object, callback) {
         return board;
       },
 
-      writeBoard : function() {
+      writeBoard: function() {
         if (this.boardElement().size() == 0) {
           $(this.wrapper).append('<div class="chess-board"></div>');
         }
@@ -138,18 +137,18 @@ jQuery.eachWithContext = function(context, object, callback) {
         });
       },
 
-      getDomPieceId : function(id) {
+      getDomPieceId: function(id) {
         return this.wrapper.id + "_piece_" + id;
       },
 
-      addDomPiece : function(id, piece, algebraic) {
-        var square = this.algebraic2Coord(algebraic);
+      addDomPiece: function(id, piece, algebraic) {
+        var square   = this.algebraic2Coord(algebraic);
         if (this.game.board_direction < 0) {
           square[0] = 7 - square[0];
           square[1] = 7 - square[1];
         }
 
-        var pos_top = this.settings.square_size * square[0] + this.settings.offsets.top;
+        var pos_top  = this.settings.square_size * square[0] + this.settings.offsets.top;
         var pos_left = this.settings.square_size * square[1] + this.settings.offsets.left;
 
         var color = 'b';
@@ -159,23 +158,23 @@ jQuery.eachWithContext = function(context, object, callback) {
         $('#' + this.getDomPieceId(id), this.wrapper).css({ position: 'absolute', top:pos_top, left:pos_left });
       },
 
-      moveDomPiece : function(id, move) {
+      moveDomPiece: function(id, move) {
         var from = this.algebraic2Coord(move.from);
-        var to = this.algebraic2Coord(move.to);
+        var to   = this.algebraic2Coord(move.to);
 
-        var top = (parseInt(to[0]) - parseInt(from[0])) * this.settings.square_size * this.game.board_direction;
+        var top  = (parseInt(to[0]) - parseInt(from[0])) * this.settings.square_size * this.game.board_direction;
         var left = (parseInt(to[1]) - parseInt(from[1])) * this.settings.square_size * this.game.board_direction;
 
         $('#' + this.getDomPieceId(id)).animate({
-          'top' : '+=' + top + 'px', 'left' : '+=' + left + 'px'
+          'top': '+=' + top + 'px', 'left': '+=' + left + 'px'
         }, 'fast');
       },
 
-      removeDomPiece : function(id) {
+      removeDomPiece: function(id) {
         $('#' + this.getDomPieceId(id)).remove();
       },
 
-      transitionTo : function(halfmove_number) {
+      transitionTo: function(halfmove_number) {
         while (halfmove_number < this.game.halfmove_number) {
           this.transitionBackward();
         }
@@ -185,14 +184,14 @@ jQuery.eachWithContext = function(context, object, callback) {
         }
       },
 
-      transitionForward : function() {
+      transitionForward: function() {
         if (this.game.halfmove_number < this.game.transitions.length) {
           this.runTransitions(this.game.transitions[this.game.halfmove_number].forward);
           this.game.halfmove_number++;
         }
       },
 
-      transitionBackward : function() {
+      transitionBackward: function() {
         if (this.game.halfmove_number > 0) {
           this.game.halfmove_number--;
           this.runTransitions(this.game.transitions[this.game.halfmove_number].backward);
@@ -203,18 +202,18 @@ jQuery.eachWithContext = function(context, object, callback) {
       // ["m:50:e2:6,1"]
       // ["a:50:P:e4", "m:6:4,1:c7"]
       // ["r:50", "m:6:d7:d8"]
-      runTransitions : function(transitions) {
+      runTransitions: function(transitions) {
         $.eachWithContext(this, transitions, function(i, transition) {
-          var pieces = transition.split(':');
+          var pieces          = transition.split(':');
           var transition_type = pieces[0];
-          var id = pieces[1];
+          var id              = pieces[1];
 
           switch(transition_type) {
             case 'r':
               this.removeDomPiece(id);
               break;
             case 'm':
-              this.moveDomPiece(id, { from : pieces[2], to : pieces[3] });
+              this.moveDomPiece(id, { from: pieces[2], to: pieces[3] });
               break;
             case 'a':
               this.addDomPiece(id, pieces[2], pieces[3]);
@@ -224,17 +223,17 @@ jQuery.eachWithContext = function(context, object, callback) {
         });
       },
 
-      clearBoard : function() {
+      clearBoard: function() {
         this.boardElement().empty();
       },
 
-      flipBoard : function() {
+      flipBoard: function() {
         var board_length = this.settings.square_size * 7;
-        var offsets = this.settings.offsets;
+        var offsets      = this.settings.offsets;
 
         this.boardElement().children().each(function() {
-          var top_val = parseInt($(this).css('top')) - offsets.top;
-          var left_val = parseInt($(this).css('left')) - offsets.left;
+          var top_val      = parseInt($(this).css('top')) - offsets.top;
+          var left_val     = parseInt($(this).css('left')) - offsets.left;
           $(this).css('top', (board_length - top_val) + offsets.top);
           $(this).css('left', (board_length - left_val) + offsets.left);
         });
@@ -242,10 +241,10 @@ jQuery.eachWithContext = function(context, object, callback) {
         this.game.board_direction *= -1;
       },
 
-      parseFen : function(fen) {
+      parseFEN: function(fen) {
         // rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
-        var new_board = [];
-        var fen_parts = $.trim(fen).split(/\/|\s/);
+        var new_board     = [];
+        var fen_parts     = fen.replace(/^\s*/, "").replace(/\s*$/, "").split(/\/|\s/);
 
         for (var j = 0;j < 8; j++) {
           new_board[j] = [];
@@ -257,37 +256,36 @@ jQuery.eachWithContext = function(context, object, callback) {
         return new_board;
       },
 
-      validateFen : function(fen) {
+      validateFEN: function(fen) {
         var pattern = /\s*([rnbqkpRNBQKP12345678]+\/){7}([rnbqkpRNBQKP12345678]+)\s[bw-]\s(([kqKQ]{1,4})|(-))\s(([a-h][1-8])|(-))\s\d+\s\d+\s*/;
         return pattern.test(fen);
       },
 
-      parsePgn : function(pgn) {
+      parsePGN: function(pgn) {
         // Do a little clean up on the string
         pgn = $.trim(pgn).replace(/\n|\r/g, ' ').replace(/\s+/g, ' ');
         var instance = this;
         // Recognize escaped closing curly brackets as part of the comment
         // This allows us to have json encoded comments
-        pgn = pgn.replace(/\{((\\})|([^}]))+}/g, function() { 
-            return instance.pluckAnnotation.apply(instance, arguments); 
-        });
+        pgn = pgn.replace(/\{((\\})|([^}]))+}/g, function(){ return instance.pluckAnnotation.apply(instance, arguments); });
 
         var headers = ['Event','Site','Date','Round','White','Black','Result'];
         for (var i=0; i < headers.length; i++) {
-          var re = new RegExp(headers[i] + ' "([^"]*)"]');
-          var result = re.exec(pgn);
-          this.game.header[headers[i]] = (result == null) ? "" : result[1];
+          var re      = new RegExp(headers[i] + ' "([^"]*)"]');
+          var result  = re.exec(pgn);
+          this.game.header[headers[i]] = (result == null) ? "": result[1];
         }
 
         // Find the body
-        this.game.body = /(1\. ?(N[acfh]3|[abcdefgh][34]).*)/m.exec(pgn)[1];
-        this.parseMoves(this.game.body);
-      },
-      parseMoves: function(rawMoves) {
+        // this.game.body = /(1\. ?(N[acfh]3|[abcdefgh][34]).*)/m.exec(pgn)[1];
+        this.game.body = /(1\..+)/m.exec(pgn)[1];
+
         // Remove numbers, remove result
-        this.game.body = rawMoves.replace(new RegExp("1-0|1/2-1/2|0-1"), '')
-                                 .replace(/^\d+\.+/, '')
-                                 .replace(/\s\d+\.+/g, ' ');
+        this.game.body = this.game.body.replace(new RegExp("1-0|1/2-1/2|0-1"), '')
+                                       .replace(/^\d+\.+/, '')
+                                       .replace(/\s\d+\.+/g, ' ')
+                                       .replace(/x/g, '')
+                                       .replace(/\$\d*/, '');
 
         var moves = $.trim(this.game.body).split(/\s+/);
         // console.log(moves);
@@ -304,18 +302,18 @@ jQuery.eachWithContext = function(context, object, callback) {
           this.game.moves[move_number] = move;
 
           // console.log("Processing move: " + move_number + '.' + move);
-          var player = (move_number % 2 == 0) ? 'w' : 'b';
+          var player = (move_number % 2 == 0) ? 'w': 'b';
 
           // If the move was to castle
           if ( this.patterns.castle_queenside.test(move) ) {
-            var rank = (player == 'w') ? 1 : 8;
-            this.movePiece(move_number, {from : "e" + rank, to : "c" + rank} );
-            this.movePiece(move_number, {from : "a" + rank, to : "d" + rank} );
+            var rank = (player == 'w') ? 1: 8;
+            this.movePiece(move_number, {from: "e" + rank, to: "c" + rank} );
+            this.movePiece(move_number, {from: "a" + rank, to: "d" + rank} );
 
           } else if ( this.patterns.castle_kingside.test(move) ) {
-            var rank = (player == 'w') ? 1 : 8;
-            this.movePiece(move_number, {from : "e" + rank, to : "g" + rank} );
-            this.movePiece(move_number, {from : "h" + rank, to : "f" + rank} );
+            var rank = (player == 'w') ? 1: 8;
+            this.movePiece(move_number, {from: "e" + rank, to: "g" + rank} );
+            this.movePiece(move_number, {from: "h" + rank, to: "f" + rank} );
 
           // If the move was a piece
           } else if ( this.patterns.piece_move.test(move) ) {
@@ -349,7 +347,7 @@ jQuery.eachWithContext = function(context, object, callback) {
             }
 
             var src = this.findMoveSource(piece, src_file, src_rank, dst_file, dst_rank, player);
-            this.movePiece(move_number, {from : src, to : dst_file + dst_rank} );
+            this.movePiece(move_number, {from: src, to: dst_file + dst_rank} );
 
             // If the move was a pawn
           } else {
@@ -357,25 +355,25 @@ jQuery.eachWithContext = function(context, object, callback) {
             var dst_rank = null;
 
             if ( this.patterns.pawn_move.test(move) ) {
-              var m = this.patterns.pawn_move.exec(move);
+              var m    = this.patterns.pawn_move.exec(move);
               dst_file = m[1];
               dst_rank = m[2];
-              var src = this.findPawnMoveSource(dst_file, dst_rank, player);
-              var dst = dst_file + dst_rank;
-              this.movePiece(move_number, {from : src, to : dst} );
+              var src  = this.findPawnMoveSource(dst_file, dst_rank, player);
+              var dst  = dst_file + dst_rank;
+              this.movePiece(move_number, {from: src, to: dst} );
 
               // Pawn capture
             } else if ( this.patterns.pawn_capture.test(move) ) {
-              var m = this.patterns.pawn_capture.exec(move);
-              dst_file = m[2];
-              dst_rank = m[3];
+              var m        = this.patterns.pawn_capture.exec(move);
+              dst_file     = m[2];
+              dst_rank     = m[3];
               var src_file = m[1];
-              var src_rank = parseInt(dst_rank) + ( (player == 'w') ? -1 : 1 );
+              var src_rank = parseInt(dst_rank) + ( (player == 'w') ? -1: 1 );
 
               // En passant
               var result = this.pieceAt(dst_file + dst_rank);
               if (result == '-') this.removePiece(move_number, dst_file + src_rank);
-              this.movePiece(move_number, {from : src_file + src_rank, to : dst_file + dst_rank });
+              this.movePiece(move_number, {from: src_file + src_rank, to: dst_file + dst_rank });
             }
 
             // Queening
@@ -384,7 +382,7 @@ jQuery.eachWithContext = function(context, object, callback) {
 
               var m = this.patterns.pawn_queen.exec(move);
               var queening_piece = m[1];
-              queening_piece = (player == 'w') ? queening_piece : queening_piece.toLowerCase();
+              queening_piece = (player == 'w') ? queening_piece: queening_piece.toLowerCase();
               this.addPiece(move_number, queening_piece, dst_file + dst_rank);
             }
           }
@@ -395,10 +393,10 @@ jQuery.eachWithContext = function(context, object, callback) {
 
       // src_square = square the piece is currently on
       // dst_square = square the piece will move to
-      cantMoveFromAbsolutePin : function(piece, src_square, dst_square) {
+      cantMoveFromAbsolutePin: function(piece, src_square, dst_square) {
         // Look for an open vector from piece to the king.
         var piece_char = piece.piece;
-        var player = ( piece_char == piece_char.toLowerCase() ) ? 'b' : 'w';
+        var player     = ( piece_char == piece_char.toLowerCase() ) ? 'b': 'w';
 
         var result = this.findAbsolutePin(player, this.pieces['R'].vectors, src_square, ['R','Q']);
         if (result == null) result = this.findAbsolutePin(player, this.pieces['B'].vectors, src_square, ['B','Q']);
@@ -415,7 +413,7 @@ jQuery.eachWithContext = function(context, object, callback) {
         return false;
       },
 
-      inSquaresArray : function(square, squares) {
+      inSquaresArray: function(square, squares) {
         for (var i=0; i < squares.length; i++) {
           if (squares[i] == square) return true;
         };
@@ -423,10 +421,10 @@ jQuery.eachWithContext = function(context, object, callback) {
         return false;
       },
 
-      squaresBetweenEndPoints : function(s,e) {
-        var start = this.algebraic2Coord(s);
-        var end = this.algebraic2Coord(e);
-        var tmp = start;
+      squaresBetweenEndPoints: function(s,e) {
+        var start   = this.algebraic2Coord(s);
+        var end     = this.algebraic2Coord(e);
+        var tmp     = start;
         var squares = [];
         squares.push(this.coord2Algebraic(start[0],start[1]));
 
@@ -441,11 +439,11 @@ jQuery.eachWithContext = function(context, object, callback) {
         return squares;
       },
 
-      findAbsolutePin : function(player, vectors, src_square, pieces_that_can_pin_on_this_vector) {
+      findAbsolutePin: function(player, vectors, src_square, pieces_that_can_pin_on_this_vector) {
         // Look at vectors
         var result = this.findVectorToKing(player, vectors, src_square);
         if (result != null) {
-          var vector = result[0];
+          var vector       = result[0];
           var kings_square = result[1];
 
           // Find the first piece in opposite direction
@@ -455,7 +453,7 @@ jQuery.eachWithContext = function(context, object, callback) {
             var pinning_pieces_square = result[1];
             for (var i=0; i < pieces_that_can_pin_on_this_vector.length; i++) {
               var pinning_piece = (player == 'w') ?
-                pieces_that_can_pin_on_this_vector[i].toLowerCase() :
+                pieces_that_can_pin_on_this_vector[i].toLowerCase():
                 pieces_that_can_pin_on_this_vector[i].toUpperCase();
 
               if (result[0].piece == pinning_piece) {
@@ -467,8 +465,8 @@ jQuery.eachWithContext = function(context, object, callback) {
         return null;
       },
 
-      findVectorToKing : function(player, vectors, src_square) {
-        var king = (player == 'w') ? 'K' : 'k';
+      findVectorToKing: function(player, vectors, src_square) {
+        var king = (player == 'w') ? 'K': 'k';
         for (var i = 0; i < vectors.length; i++) {
           var vector = vectors[i];
           var result = this.firstPieceFromSourceAndVector(src_square, vector, vector.limit);
@@ -477,12 +475,12 @@ jQuery.eachWithContext = function(context, object, callback) {
         return null;
       },
 
-      findMoveSource : function(piece, src_file, src_rank, dst_file, dst_rank, player) {
+      findMoveSource: function(piece, src_file, src_rank, dst_file, dst_rank, player) {
         //console.log("Looking for move source for " + piece + " from " + dst_rank + dst_file);
         if ( src_file && src_rank ) return src_file + src_rank;
 
         var dst_square = dst_file + dst_rank;
-        var target_piece = (player == 'w') ? piece : piece.toLowerCase();
+        var target_piece = (player == 'w') ? piece: piece.toLowerCase();
         target_piece = target_piece.toString();
 
         for (var i = 0; i < this.pieces[piece].vectors.length; i++) {
@@ -516,11 +514,11 @@ jQuery.eachWithContext = function(context, object, callback) {
         }
       },
 
-      findPawnMoveSource : function(dst_file, dst_rank, player) {
-        var dst_square = dst_file + dst_rank;
-        var target_piece = (player == 'w') ? 'P' : 'p';
-        var direction = (player == 'w') ? -1 : 1;
-        var vector = { x : 0, y : direction, limit : 2 };
+      findPawnMoveSource: function(dst_file, dst_rank, player) {
+        var dst_square    = dst_file + dst_rank;
+        var target_piece  = (player == 'w') ? 'P': 'p';
+        var direction     = (player == 'w') ? -1: 1;
+        var vector        = { x: 0, y: direction, limit: 2 };
 
         for (var size = 1; size <= vector.limit; size++) {
           var result = this.pieceFromSourceAndVector(dst_square, vector, size);
@@ -530,7 +528,7 @@ jQuery.eachWithContext = function(context, object, callback) {
         }
       },
 
-      pieceFromSourceAndVector : function(source, vector, limit) {
+      pieceFromSourceAndVector: function(source, vector, limit) {
         var source_coords = this.algebraic2Coord(source);
         var row = source_coords[0] - (vector.y * limit);
         var col = source_coords[1] - (vector.x * limit);
@@ -540,7 +538,7 @@ jQuery.eachWithContext = function(context, object, callback) {
         return piece;
       },
 
-      firstPieceFromSourceAndVector : function(source, vector, limit) {
+      firstPieceFromSourceAndVector: function(source, vector, limit) {
         for (var i=1; i <= limit; i++) {
           piece = this.pieceFromSourceAndVector(source, vector, i);
           if (piece == null) return null; // End of the board reached
@@ -550,17 +548,17 @@ jQuery.eachWithContext = function(context, object, callback) {
         return null;
      },
 
-      pieceAt : function(algebraic) {
+      pieceAt: function(algebraic) {
         var square = this.algebraic2Coord(algebraic);
         return this._board[square[0]][square[1]];
       },
 
-      // Ex: this.movePiece({from : 'e2', to : 'e4'})
-      movePiece : function(num, move) {
+      // Ex: this.movePiece({from: 'e2', to: 'e4'})
+      movePiece: function(num, move) {
         // console.log("Moving a piece: (" + num + ") " + " from " + move.from + " to " + move.to);
 
         var from = this.algebraic2Coord(move.from);
-        var to = this.algebraic2Coord(move.to);
+        var to   = this.algebraic2Coord(move.to);
         var piece = this.pieceAt(move.from);
 
         if (this.pieceAt(move.to).piece) this.removePiece(num, move.to);
@@ -568,111 +566,111 @@ jQuery.eachWithContext = function(context, object, callback) {
         this._board[to[0]][to[1]] = this._board[from[0]][from[1]];
         this._board[from[0]][from[1]] = '-';
 
-        this.saveTransition({type: 'm', num : num, dom_id : piece.id, from : move.from, to : move.to});
+        this.saveTransition({type: 'm', num: num, dom_id: piece.id, from: move.from, to: move.to});
       },
 
-      removePiece : function(num, algebraic) {
+      removePiece: function(num, algebraic) {
         var piece = this.pieceAt(algebraic);
 
         var square = this.algebraic2Coord(algebraic);
         this._board[square[0]][square[1]] = '-';
 
-        this.saveTransition({type: 'r', num : num, dom_id : piece.id, piece: piece.piece, from : algebraic});
+        this.saveTransition({type: 'r', num: num, dom_id: piece.id, piece: piece.piece, from: algebraic});
       },
 
-      addPiece : function(num, piece_char, algebraic) {
+      addPiece: function(num, piece_char, algebraic) {
 
         var square = this.algebraic2Coord(algebraic);
         var id = this.getNextPieceId();
-        this._board[square[0]][square[1]] = { id : id, piece : piece_char };
+        this._board[square[0]][square[1]] = { id: id, piece: piece_char };
 
-        this.saveTransition({type: 'a', num : num, dom_id : id, to : algebraic, piece : piece_char});
+        this.saveTransition({type: 'a', num: num, dom_id: id, to: algebraic, piece: piece_char});
       },
 
-      // transitions = { 1 : { forward : ["m:50:4,1:6,1"], backward : ["m:50:6,1:4,1"] },
-      // 2 :{ forward : ["a:50:P:4,1", "m:6:4,1:1,4"], backward : ["r:50", "m:6:1,4:4,1"] } }
-      saveTransition : function(options) {
-        var forward = null;
+      // transitions = { 1: { forward: ["m:50:4,1:6,1"], backward: ["m:50:6,1:4,1"] },
+      //                 2:{ forward: ["a:50:P:4,1", "m:6:4,1:1,4"], backward: ["r:50", "m:6:1,4:4,1"] } }
+      saveTransition: function(options) {
+        var forward  = null;
         var backward = null;
-        var num = options.num;
+        var num      = options.num;
 
         if (options.type == 'a') {
-          forward = ["a:" + options.dom_id + ":" + options.piece + ":" + options.to];
+          forward  = ["a:" + options.dom_id + ":" + options.piece + ":" + options.to];
           backward = ["r:" + options.dom_id];
         } else if (options.type == 'm') {
-          forward = ["m:" + options.dom_id + ":" + options.from + ":" + options.to];
+          forward  = ["m:" + options.dom_id + ":" + options.from + ":" + options.to];
           backward = ["m:" + options.dom_id + ":" + options.to + ":" + options.from];
         } else if (options.type == 'r') {
-          forward = ["r:" + options.dom_id];
+          forward  = ["r:" + options.dom_id];
           backward = ["a:" + options.dom_id + ":" + options.piece + ":" + options.from];
         }
 
         if (this.game.transitions[num] == null) {
-          this.game.transitions[num] = { forward : forward, backward : backward };
+          this.game.transitions[num] = { forward: forward, backward: backward };
         } else {
-          this.game.transitions[num].forward = this.game.transitions[num].forward.concat(forward);
+          this.game.transitions[num].forward  = this.game.transitions[num].forward.concat(forward);
           this.game.transitions[num].backward = backward.concat(this.game.transitions[num].backward);
         }
       },
 
-      getNextPieceId : function() {
+      getNextPieceId: function() {
         return ++this.game.next_piece_id;
       },
 
-      getMove : function(n) {
-        var n = (n === undefined) ? this.game.halfmove_number : n;
+      getMove: function(n) {
+        var n = n || this.game.halfmove_number;
         return this.game.moves[n -1];
       },
 
-      getFormattedMove : function(n) {
-        var n = (n === undefined) ? this.game.halfmove_number : n;
+      getFormattedMove: function(n) {
+        var n = n || this.game.halfmove_number;
         var f = Math.ceil(n / 2.0);
-        var hellip = (n % 2 == 0) ? '... ' : '';
+        var hellip = (n % 2 == 0) ? '... ': '';
         return f + ". " + hellip + this.getMove(n);
       },
 
       /* Utility Functions */
-      algebraic2Coord : function(algebraic) {
+      algebraic2Coord: function(algebraic) {
         return [this.rank2Row(algebraic.substr(1, 1)), this.file2Col(algebraic.substr(0, 1))];
       },
 
-      coord2Algebraic : function(row, col) {
+      coord2Algebraic: function(row, col) {
         return this.col2File(col) + this.row2Rank(row);
       },
 
-      rank2Row : function(rank) {
+      rank2Row: function(rank) {
         return 8 - parseInt(rank);
       },
 
-      file2Col : function(file) {
+      file2Col: function(file) {
         return file.charCodeAt(0) - ('a').charCodeAt(0);
       },
 
-      row2Rank : function(row) {
+      row2Rank: function(row) {
         return (8 - row) + '';
       },
 
-      col2File : function(col) {
+      col2File: function(col) {
         return String.fromCharCode( col + ('a').charCodeAt(0) );
       },
 
-      flipVector : function(v) {
-        return { x: (v.x * -1), y : (v.y * -1), limit : v.limit };
+      flipVector: function(v) {
+        return { x: (v.x * -1), y: (v.y * -1), limit: v.limit };
       },
 
-      replaceNumberWithDashes : function(str) {
+      replaceNumberWithDashes: function(str) {
         var num_spaces = parseInt(str);
         var new_str = '';
         for (var i = 0; i < num_spaces; i++) { new_str += '-'; }
         return new_str;
       },
 
-      pluckAnnotation : function(str) {
+      pluckAnnotation: function(str) {
         this.game.raw_annotations = this.game.raw_annotations || [];
         var ann_num = this.game.raw_annotations.length;
-        var annot = str.substring(1,str.length-1); // Remove curly brackets
-        annot = annot.replace(/\\\{/g, '{');
-        annot = annot.replace(/\\\}/g, '}');
+        var annot   = str.substring(1,str.length-1); // Remove curly brackets
+        annot       = annot.replace(/\\\{/g, '{');
+        annot       = annot.replace(/\\\}/g, '}');
 
         if (this.settings.json_annotations) {
           eval("annot = " + annot);
@@ -682,12 +680,12 @@ jQuery.eachWithContext = function(context, object, callback) {
         return "annotation-" + ann_num;
       },
 
-      annotation : function() {
-        var default_value = (this.settings.json_annotations ? [] : '');
+      annotation: function() {
+        var default_value = (this.settings.json_annotations ? []: '');
         return this.game.annotations[this.game.halfmove_number] || default_value;
       },
 
-      addAnnotation : function(annot) {
+      addAnnotation: function(annot) {
         var current_annotations = this.annotation();
         if (typeof current_annotations == "string") {
           current_annotations += ", " + annot;
@@ -698,84 +696,84 @@ jQuery.eachWithContext = function(context, object, callback) {
         this.game.annotations[this.game.halfmove_number] = current_annotations;
       },
 
-      debugBoard : function() {
+      debugBoard: function() {
         $.eachWithContext(this, this.boardData(), function(j, row) {
           $.eachWithContext(this, row, function(k, val) {
-            // console.log('[' + j + ',' + k + '] = { id: ' + this.boardData()[j][k].id + ', piece: ' + this.boardData()[j][k].piece + ' }');
+            console.log('[' + j + ',' + k + '] = { id: ' + this.boardData()[j][k].id + ', piece: ' + this.boardData()[j][k].piece + ' }');
           });
         });
       },
 
       /* Patterns used for parsing */
-      patterns : {
-        castle_kingside : /^O-O/,
-        castle_queenside : /^O-O-O/,
+      patterns: {
+        castle_kingside     : /^O-O/,
+        castle_queenside    : /^O-O-O/,
 
-        piece_move : /^([BKNQR])/,
-        rank_and_file_given : /^([BKNQR])([a-h])([1-8])x?([a-h])([1-8])/,
-        file_given : /^([BKNQR])([a-h])x?([a-h])([1-8])/,
-        rank_given : /^([BKNQR])([1-8])x?([a-h])([1-8])/,
-        nothing_given : /^([BKNQR])x?([a-h])([1-8])/,
+        piece_move          : /^([BKNQR])/,
+        rank_and_file_given: /^([BKNQR])([a-h])([1-8])x?([a-h])([1-8])/,
+        file_given          : /^([BKNQR])([a-h])x?([a-h])([1-8])/,
+        rank_given          : /^([BKNQR])([1-8])x?([a-h])([1-8])/,
+        nothing_given       : /^([BKNQR])x?([a-h])([1-8])/,
 
-        pawn_move : /^([a-h])([1-8])/,
-        pawn_capture : /^([a-h])x([a-h])([1-8])/,
-        pawn_queen : /=([BNQR])/
+        pawn_move           : /^([a-h])([1-8])/,
+        pawn_capture        : /^([a-h])x([a-h])([1-8])/,
+        pawn_queen          : /=([BNQR])/
       },
 
       /* Definitions of pieces */
-      pieces : {
-        R : {
-          vectors : [
-            { x : 0, y : 1, limit : 8 },
-            { x : 1, y : 0, limit : 8 },
-            { x : 0, y : -1, limit : 8 },
-            { x : -1, y : 0, limit : 8 }
+      pieces: {
+        R: {
+          vectors: [
+            { x:  0, y:  1, limit: 8 },
+            { x:  1, y:  0, limit: 8 },
+            { x:  0, y: -1, limit: 8 },
+            { x: -1, y:  0, limit: 8 }
           ]
         },
-        N : {
-          vectors : [
-            { x : 1, y : 2, limit : 1 },
-            { x : 2, y : 1, limit : 1 },
-            { x : 2, y : -1, limit : 1 },
-            { x : 1, y : -2, limit : 1 },
-            { x : -1, y : -2, limit : 1 },
-            { x : -2, y : -1, limit : 1 },
-            { x : -2, y : 1, limit : 1 },
-            { x : -1, y : 2, limit : 1 }
+        N: {
+          vectors: [
+            { x:  1, y:  2, limit: 1 },
+            { x:  2, y:  1, limit: 1 },
+            { x:  2, y: -1, limit: 1 },
+            { x:  1, y: -2, limit: 1 },
+            { x: -1, y: -2, limit: 1 },
+            { x: -2, y: -1, limit: 1 },
+            { x: -2, y:  1, limit: 1 },
+            { x: -1, y:  2, limit: 1 }
           ]
         },
-        B : {
-          vectors : [
-            { x : 1, y : 1, limit : 8 },
-            { x : 1, y : -1, limit : 8 },
-            { x : -1, y : -1, limit : 8 },
-            { x : -1, y : 1, limit : 8 }
+        B: {
+          vectors: [
+            { x:  1, y:  1, limit: 8 },
+            { x:  1, y: -1, limit: 8 },
+            { x: -1, y: -1, limit: 8 },
+            { x: -1, y:  1, limit: 8 }
           ]
         },
-        Q : {
-          vectors : [
-            { x : 0, y : 1, limit : 8 },
-            { x : 1, y : 0, limit : 8 },
-            { x : 0, y : -1, limit : 8 },
-            { x : -1, y : 0, limit : 8 },
+        Q: {
+          vectors: [
+            { x:  0, y:  1, limit: 8 },
+            { x:  1, y:  0, limit: 8 },
+            { x:  0, y: -1, limit: 8 },
+            { x: -1, y:  0, limit: 8 },
 
-            { x : 1, y : 1, limit : 8 },
-            { x : 1, y : -1, limit : 8 },
-            { x : -1, y : -1, limit : 8 },
-            { x : -1, y : 1, limit : 8 }
+            { x:  1, y:  1, limit: 8 },
+            { x:  1, y: -1, limit: 8 },
+            { x: -1, y: -1, limit: 8 },
+            { x: -1, y:  1, limit: 8 }
           ]
         },
-        K : {
-          vectors : [
-            { x : 0, y : 1, limit : 1 },
-            { x : 1, y : 0, limit : 1 },
-            { x : 0, y : -1, limit : 1 },
-            { x : -1, y : 0, limit : 1 },
+        K: {
+          vectors: [
+            { x:  0, y:  1, limit: 1 },
+            { x:  1, y:  0, limit: 1 },
+            { x:  0, y: -1, limit: 1 },
+            { x: -1, y:  0, limit: 1 },
 
-            { x : 1, y : 1, limit : 1 },
-            { x : 1, y : -1, limit : 1 },
-            { x : -1, y : -1, limit : 1 },
-            { x : -1, y : 1, limit : 1 }
+            { x:  1, y:  1, limit: 1 },
+            { x:  1, y: -1, limit: 1 },
+            { x: -1, y: -1, limit: 1 },
+            { x: -1, y:  1, limit: 1 }
           ]
         }
       }

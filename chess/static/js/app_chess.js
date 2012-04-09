@@ -1,10 +1,22 @@
 (function() {
 var initChessBoard = function() {
     var jqEtude = $(this);
-    jqEtude.chess({ 
-        // moves: jqEtude.data('pgn'),
+    var chess = jqEtude.chess({ 
         fen: jqEtude.data('fen'),
-        square_size: jqEtude.data('squareSize')
+        square_size: jqEtude.data('squareSize'),
+        pgn: jqEtude.data('pgn')
+    });
+    jqEtude.find('.back').click(function(e) {
+        chess.transitionBackward();
+        e.preventDefault();
+    });
+    jqEtude.find('.next').click(function(e) {
+        chess.transitionForward();
+        e.preventDefault();
+    });
+    jqEtude.find('.flip').click(function(e) {
+        chess.flipBoard();
+        e.preventDefault();
     });
 };
 
