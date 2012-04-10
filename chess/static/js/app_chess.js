@@ -3,7 +3,7 @@ var initChessBoard = function() {
     var jqEtude = $(this);
     var chess = jqEtude.chess({ 
         fen: jqEtude.data('fen'),
-        square_size: jqEtude.data('squareSize'),
+        squareSize: jqEtude.data('squareSize'),
         pgn: jqEtude.data('pgn')
     });
     jqEtude.find('.back').click(function(e) {
