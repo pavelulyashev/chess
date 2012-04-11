@@ -24,10 +24,14 @@
  */
 
 var Move = function(token) {
+    this.source = token;
     this.parseToken(token);
 };
 Move.prototype = {
     constructor: Move,
+    toString: function() {
+        return this.source;
+    },
     patterns: {
         castling: /^O-O(-O)?/g,
         generalMove: /^([BKNQR]?)([a-h]?)([1-8]?)(x?)([a-h])([1-8])(\=?)([BNQR]?)/,
@@ -47,7 +51,9 @@ Move.prototype = {
             if (RegExp.$7 && RegExp.$8 && this.piece === 'P') {   // \=?
                 this.pawnPromotion = RegExp.$8;                   // [BNQR]
             }
-        } else { throw Error('Invalid move format'); }
+        } else { 
+            console.assert(false, 'Invalid move format');
+        }
 
         if (token.match(this.patterns.endSymbols)) {
             if (RegExp.$1 === '+') {
@@ -65,23 +71,52 @@ Move.prototype = {
     }
 };
 
-var Variation = function(parentVariation) {
-    if (parentVariation) {
-        this.parent = parentVariation;
-        this.nesting = parentVariation.nesting + 1;
-        parentVariation.addSubVariation(this);
-    } else {
-        this.nesting = 0;
-    }
-    this.childVariations = [];
+var MoveNode = function(move, number, player) {
+    this.move = move;
+    this.number = number;
+    this.player = player;
+    this.nesting = 0;
 };
-Variation.prototype = {
-    constructor: Variation,
-    addMoves: function(moves) {
-        this.moves = moves;
+MoveNode.prototype = {
+    constructor: MoveNode,
+    toString: function() {
+        var tokens = [], moveNode = this;
+        var variationToString = function(variation) {
+            tokens.push(['(', variation.toString(), ')'].join(''));
+        };
+        do {
+            if (moveNode.player === 0 || !tokens.length ||
+                moveNode.prev.variations) {
+                tokens.push(moveNode.getNumberToken());
+            }
+            tokens.push(moveNode.move);
+            if (moveNode.variations) {
+                moveNode.variations.forEach(variationToString);
+            }
+        } while ((moveNode = moveNode.next));
+        return tokens.join(' ');
     },
-    addSubVariation: function(variation) {
-        this.childVariations.push(variation);
+    getNumberToken: function() {
+        return this.number + (this.player === 0 ? '.' : '...');
+    },
+    addNext: function(moveNode) {
+        var numbersDiff = moveNode.number - this.number;
+        console.assert(this.player !== moveNode.player,
+                       'Consequtive moves for one player', this, moveNode);
+        console.assert(this.player === 0 && numbersDiff === 0 ||
+                       this.player === 1 && numbersDiff === 1,
+                       'Invalid numbers for consequtive moves', this, moveNode);
+        this.next = moveNode;
+        moveNode.prev = this;
+    },
+    addVariation: function(moveNode) {
+        if (this.variations === undefined) {
+            this.variations = [moveNode];
+        } else {
+            this.variations.push(moveNode);
+        }
+        moveNode.prev = this;
+        moveNode.nesting = this.nesting + 1;
     }
 };
 
@@ -91,36 +126,64 @@ var ChessNotation = function(pgn) {
     this.parsePgn(pgn);
 };
 ChessNotation.prototype = {
-    splitPattern: /(\{[^}]*\})|[()]|([^\s()]+)/g,
+    constructor: ChessNotation,
+    toString: function() {
+        return [this.tree.toString(), this.result].join(' ');
+    },
+    patterns: {
+        split: /(\{[^}]*\})|[()]|([^\s()]+)/g,
+        number: /^(\d+)\.(\.\.)?$/,
+        result: /^1\-0|1\/2\-1\/2|0\-1$/,
+        annotation: /^\{([^}]*)\}$/
+    },
     parsePgn: function(pgn) {
-        var tokens = pgn.match(this.splitPattern);
-        if (tokens === null) { throw Error('Invalid notation'); }
+        var tokens = pgn.match(this.patterns.split);
+        if (tokens === null) { 
+            console.assert(false, 'Invalid notation');
+        }
 
-        this.tokens = tokens;
         this.createVariantsTree(tokens);
     },
     createVariantsTree: function(tokens) {
-        var stack = [], i = 0, token, lastIndex;
-        var child = this.tree = new Variation(), parent;
+        var i = 0, token, roots = [];
+        var rootNode, leafNode, moveNum, player, moveNode, newBranch = true;
 
-        for (; (token = tokens[i++]);) {
-            if (token === ')') {
-                lastIndex = stack.lastIndexOf('(');
-                child.addMoves(stack.splice(lastIndex + 1));
-                child = child.parent;
-                parent = parent.parent;
-                stack.pop();  // pop '('
+        while ((token = tokens[i++])) {
+            if (token.match(this.patterns.number)) {
+                moveNum = Number(RegExp.$1);
+                player = Number(Boolean(RegExp.$2));
             } else if (token === '(') {
-                parent = child;
-                child = new Variation(child);
-                stack.push(token);
+                newBranch = true;
+            } else if (token === ')') {
+                newBranch = false;
+                leafNode = rootNode.prev;
+                roots.pop();
+                rootNode = roots[roots.length - 1];
+            } else if (token.match(this.patterns.result)) {
+                this.result = RegExp.$_;
+            } else if (token.match(this.patterns.annotation)) {
+                leafNode.move.addAnnotation(RegExp.$1);
             } else {
-                stack.push(token);
+                moveNode = new MoveNode(new Move(token), moveNum, player);
+
+                if (newBranch) {
+                    if (leafNode) {
+                        leafNode.addVariation(moveNode);
+                    } else {
+                        this.tree = leafNode = moveNode;
+                    }
+                    roots.push(leafNode = rootNode = moveNode);
+                    newBranch = false;
+                } else {
+                    leafNode.addNext(moveNode);
+                    leafNode = moveNode;
+                }
+                player = player ^ 1;
             }
         }
-        child.addMoves(stack);
+        // TODO
+        // this.movesCount
     }
-
 };
 
 
@@ -375,10 +438,10 @@ ChessNotation.prototype = {
                 var instance = this;
                 // Recognize escaped closing curly brackets as part of the comment
                 // This allows us to have json encoded comments
-                pgn = pgn.replace(/\{((\\})|([^}]))+}/g, function(){ return instance.pluckAnnotation.apply(instance, arguments); });
+                pgn = pgn.replace(/\{((\\\})|([^}]))+\}/g, function(){ return instance.pluckAnnotation.apply(instance, arguments); });
 
-                var headers = ['Event','Site','Date','Round','White','Black','Result'];
-                for (var i = 0; i < headers.length; i++) {
+                var headers = ['Event','Site','Date','Round','White','Black','Result'], i;
+                for (i = 0; i < headers.length; i++) {
                     var re = new RegExp(headers[i] + ' "([^"]*)"]');
                     var result = re.exec(pgn);
                     this.game.header[headers[i]] = (result === null) ? "": result[1];
@@ -390,7 +453,7 @@ ChessNotation.prototype = {
 
                 // Remove numbers, remove result
                 this.game.body = this.game.body.replace(new RegExp("1-0|1/2-1/2|0-1"), '')
-                                               .replace(/(\d+\.+)|x|(\$\d*)/g, '')
+                                               .replace(/(\d+\.+)|x|(\$\d*)/g, '');
 
                 var moves = $.trim(this.game.body).split(/\s+/);
                 // console.log(moves);
@@ -409,76 +472,79 @@ ChessNotation.prototype = {
 
                     // console.log("Processing move: " + moveNumber + '.' + move);
                     var player = (moveNumber % 2 === 0) ? 'w': 'b';
+                    var rank, m, piece, srcFile, srcRank, dstsFile, dstRank, src, dst;
 
                     // If the move was to castle
                     if ( this.patterns.castleQueenside.test(move) ) {
-                        var rank = (player === 'w') ? 1: 8;
+                        rank = (player === 'w') ? 1: 8;
                         this.movePiece(moveNumber, {from: "e" + rank, to: "c" + rank} );
                         this.movePiece(moveNumber, {from: "a" + rank, to: "d" + rank} );
 
                     } else if ( this.patterns.castleKingside.test(move) ) {
-                        var rank = (player === 'w') ? 1: 8;
+                        rank = (player === 'w') ? 1: 8;
                         this.movePiece(moveNumber, {from: "e" + rank, to: "g" + rank} );
                         this.movePiece(moveNumber, {from: "h" + rank, to: "f" + rank} );
 
                     // If the move was a piece
                     } else if ( this.patterns.pieceMove.test(move) ) {
-                        var m = this.patterns.pieceMove.exec(move);
-                        var piece = m[0];
-                        var srcFile = null;
-                        var srcRank = null;
-                        var dstFile = null;
-                        var dstRank = null;
+                        m = this.patterns.pieceMove.exec(move);
+                        piece = m[0];
+                        srcFile = null;
+                        srcRank = null;
+                        dstFile = null;
+                        dstRank = null;
 
                         if ( this.patterns.rankAndFileGiven.test(move) ) {
-                            var m = this.patterns.rankAndFileGiven.exec(move);
+                            m = this.patterns.rankAndFileGiven.exec(move);
                             srcFile = m[2];
                             srcRank = m[3];
                             dstFile = m[4];
                             dstRank = m[5];
                         } else if ( this.patterns.fileGiven.test(move) ) {
-                            var m = this.patterns.fileGiven.exec(move);
+                            m = this.patterns.fileGiven.exec(move);
                             srcFile = m[2];
                             dstFile = m[3];
                             dstRank = m[4];
                         } else if ( this.patterns.rankGiven.test(move) ) {
-                            var m = this.patterns.rankGiven.exec(move);
+                            m = this.patterns.rankGiven.exec(move);
                             srcRank = m[2];
                             dstFile = m[3];
                             dstRank = m[4];
                         } else if ( this.patterns.nothingGiven.test(move) ) {
-                            var m = this.patterns.nothingGiven.exec(move);
+                            m = this.patterns.nothingGiven.exec(move);
                             dstFile = m[2];
                             dstRank = m[3];
                         }
 
-                        var src = this.findMoveSource(piece, srcFile, srcRank, dstFile, dstRank, player);
+                        src = this.findMoveSource(piece, srcFile, srcRank, dstFile, dstRank, player);
                         this.movePiece(moveNumber, {from: src, to: dstFile + dstRank} );
 
                         // If the move was a pawn
                     } else {
-                        var dstFile = null;
-                        var dstRank = null;
+                        dstFile = null;
+                        dstRank = null;
 
                         if ( this.patterns.pawnMove.test(move) ) {
-                            var m = this.patterns.pawnMove.exec(move);
+                            m = this.patterns.pawnMove.exec(move);
                             dstFile = m[1];
                             dstRank = m[2];
-                            var src = this.findPawnMoveSource(dstFile, dstRank, player);
-                            var dst = dstFile + dstRank;
+                            src = this.findPawnMoveSource(dstFile, dstRank, player);
+                            dst = dstFile + dstRank;
                             this.movePiece(moveNumber, {from: src, to: dst} );
 
                             // Pawn capture
                         } else if ( this.patterns.pawnCapture.test(move) ) {
-                            var m = this.patterns.pawnCapture.exec(move);
+                            m = this.patterns.pawnCapture.exec(move);
                             dstFile = m[2];
                             dstRank = m[3];
-                            var srcFile = m[1];
-                            var srcRank = parseInt(dstRank) + ( (player === 'w') ? -1: 1 );
+                            srcFile = m[1];
+                            srcRank = parseInt(dstRank, 10) + ( (player === 'w') ? -1: 1 );
 
                             // En passant
                             var result = this.pieceAt(dstFile + dstRank);
-                            if (result === '-') this.removePiece(moveNumber, dstFile + srcRank);
+                            if (result === '-') {
+                                this.removePiece(moveNumber, dstFile + srcRank);
+                            }
                             this.movePiece(moveNumber, {from: srcFile + srcRank, to: dstFile + dstRank });
                         }
 
@@ -486,7 +552,7 @@ ChessNotation.prototype = {
                         if ( this.patterns.pawnQueen.test(move) ) {
                             this.removePiece(moveNumber, dstFile + dstRank);
 
-                            var m = this.patterns.pawnQueen.exec(move);
+                            m = this.patterns.pawnQueen.exec(move);
                             var queeningPiece = m[1];
                             queeningPiece = (player === 'w') ? queeningPiece: queeningPiece.toLowerCase();
                             this.addPiece(moveNumber, queeningPiece, dstFile + dstRank);
@@ -504,9 +570,9 @@ ChessNotation.prototype = {
                 var pieceChar = piece.piece;
                 var player = ( pieceChar === pieceChar.toLowerCase() ) ? 'b': 'w';
 
-                var result = this.findAbsolutePin(player, this.pieces['R'].vectors, srcSquare, ['R','Q']);
+                var result = this.findAbsolutePin(player, this.pieces.R.vectors, srcSquare, ['R','Q']);
                 if (result === null) {
-                    result = this.findAbsolutePin(player, this.pieces['B'].vectors, srcSquare, ['B','Q']);
+                    result = this.findAbsolutePin(player, this.pieces.B.vectors, srcSquare, ['B','Q']);
                 }
 
                 if (result !== null) {
@@ -522,9 +588,12 @@ ChessNotation.prototype = {
             },
 
             inSquaresArray: function(square, squares) {
-                for (var i = 0; i < squares.length; i++) {
-                    if (squares[i] === square) return true;
-                };
+                var i;
+                for (i = 0; i < squares.length; i++) {
+                    if (squares[i] === square) {
+                        return true;
+                    }
+                }
 
                 return false;
             },
@@ -537,10 +606,10 @@ ChessNotation.prototype = {
                 squares.push(this.coord2Algebraic(start[0],start[1]));
 
                 while (tmp[0] !== end[0] || tmp[1] !== end[1]) {
-                    if (tmp[0] < end[0]) tmp[0] += 1;
-                    if (tmp[0] > end[0]) tmp[0] -= 1;
-                    if (tmp[1] < end[1]) tmp[1] += 1;
-                    if (tmp[1] > end[1]) tmp[1] -= 1;
+                    if (tmp[0] < end[0]) { tmp[0] += 1; }
+                    if (tmp[0] > end[0]) { tmp[0] -= 1; }
+                    if (tmp[1] < end[1]) { tmp[1] += 1; }
+                    if (tmp[1] > end[1]) { tmp[1] -= 1; }
                     squares.push(this.coord2Algebraic(tmp[0],tmp[1]));
                 }
 
@@ -556,10 +625,10 @@ ChessNotation.prototype = {
 
                     // Find the first piece in opposite direction
                     var flippedVector = this.flipVector(vector);
-                    var result = this.firstPieceFromSourceAndVector(srcSquare, flippedVector, flippedVector.limit);
+                    result = this.firstPieceFromSourceAndVector(srcSquare, flippedVector, flippedVector.limit);
                     if (result !== null) {
-                        var pinningPiecesSquare = result[1];
-                        for (var i=0; i < piecesThatCanPinOnThisVector.length; i++) {
+                        var pinningPiecesSquare = result[1], i;
+                        for (i = 0; i < piecesThatCanPinOnThisVector.length; i++) {
                             var pinningPiece = (player === 'w') ?
                                 piecesThatCanPinOnThisVector[i].toLowerCase():
                                 piecesThatCanPinOnThisVector[i].toUpperCase();
@@ -567,34 +636,38 @@ ChessNotation.prototype = {
                             if (result[0].piece === pinningPiece) {
                                 return [vector, kingsSquare, pinningPiecesSquare];
                             }
-                        };
+                        }
                     }
                 }
                 return null;
             },
 
             findVectorToKing: function(player, vectors, srcSquare) {
-                var king = (player === 'w') ? 'K': 'k';
-                for (var i = 0; i < vectors.length; i++) {
+                var king = (player === 'w') ? 'K': 'k', i;
+                for (i = 0; i < vectors.length; i++) {
                     var vector = vectors[i];
                     var result = this.firstPieceFromSourceAndVector(srcSquare, vector, vector.limit);
-                    if (result !== null && result[0].piece === king) return [vector, result[1]];
+                    if (result !== null && result[0].piece === king) {
+                        return [vector, result[1]];
+                    }
                 }
                 return null;
             },
 
             findMoveSource: function(piece, srcFile, srcRank, dstFile, dstRank, player) {
                 //console.log("Looking for move source for " + piece + " from " + dstRank + dstFile);
-                if ( srcFile && srcRank ) return srcFile + srcRank;
+                if ( srcFile && srcRank ) {
+                    return srcFile + srcRank;
+                }
 
-                var dstSquare = dstFile + dstRank;
+                var dstSquare = dstFile + dstRank, i, size;
                 var targetPiece = (player === 'w') ? piece: piece.toLowerCase();
                 targetPiece = targetPiece.toString();
 
-                for (var i = 0; i < this.pieces[piece].vectors.length; i++) {
+                for (i = 0; i < this.pieces[piece].vectors.length; i++) {
                     var vector = this.pieces[piece].vectors[i];
 
-                    for (var size = 1; size <= vector.limit; size++) {
+                    for (size = 1; size <= vector.limit; size++) {
                         var result = this.pieceFromSourceAndVector(dstSquare, vector, size);
                         //console.log("Looking at " + result);
                         if (result === null) {
@@ -606,7 +679,7 @@ ChessNotation.prototype = {
 
                         if (result[0].piece === targetPiece) {
                             // Check for absolute pin on the piece in question
-                            if (this.cantMoveFromAbsolutePin(result[0], result[1], dstSquare)) break;
+                            if (this.cantMoveFromAbsolutePin(result[0], result[1], dstSquare)) { break; }
 
                             if (srcFile) {
                                 if (result[1].substr(0,1).toString() === srcFile) {
@@ -630,15 +703,19 @@ ChessNotation.prototype = {
                 var dstSquare = dstFile + dstRank;
                 var targetPiece = (player === 'w') ? 'P': 'p';
                 var direction = (player === 'w') ? -1: 1;
-                var vector = { x: 0, y: direction, limit: 2 };
+                var vector = { x: 0, y: direction, limit: 2 }, size;
 
-                for (var size = 1; size <= vector.limit; size++) {
+                for (size = 1; size <= vector.limit; size++) {
                     var result = this.pieceFromSourceAndVector(dstSquare, vector, size);
                     if (result === null) {
                         break;
                     }
-                    if (result[0].piece === targetPiece) return result[1];
-                    if (result[0] !== '-') break;
+                    if (result[0].piece === targetPiece) { 
+                        return result[1];
+                    }
+                    if (result[0] !== '-') {
+                        break;
+                    }
                 }
             },
 
@@ -647,13 +724,16 @@ ChessNotation.prototype = {
                 var row = sourceCoords[0] - (vector.y * limit);
                 var col = sourceCoords[1] - (vector.x * limit);
 
-                if ( row >= 8 || row < 0 || col >= 8 || col < 0 ) return null;
+                if ( row >= 8 || row < 0 || col >= 8 || col < 0 ) {
+                    return null;
+                }
                 piece = [this._board[row][col], this.coord2Algebraic(row, col)];
                 return piece;
             },
 
             firstPieceFromSourceAndVector: function(source, vector, limit) {
-                for (var i = 1; i <= limit; i++) {
+                var i;
+                for (i = 1; i <= limit; i++) {
                     piece = this.pieceFromSourceAndVector(source, vector, i);
                     if (piece === null) {
                         return null; // End of the board reached
@@ -662,7 +742,7 @@ ChessNotation.prototype = {
                         continue; // Square is blank
                     }
                     return piece;
-                };
+                }
                 return null;
             },
 
@@ -679,7 +759,9 @@ ChessNotation.prototype = {
                 var to = this.algebraic2Coord(move.to);
                 var piece = this.pieceAt(move.from);
 
-                if (this.pieceAt(move.to).piece) this.removePiece(num, move.to);
+                if (this.pieceAt(move.to).piece) {
+                    this.removePiece(num, move.to);
+                }
 
                 this._board[to[0]][to[1]] = this._board[from[0]][from[1]];
                 this._board[from[0]][from[1]] = '-';
@@ -736,12 +818,12 @@ ChessNotation.prototype = {
             },
 
             getMove: function(n) {
-                var n = n || this.game.halfmoveNumber;
+                n = n || this.game.halfmoveNumber;
                 return this.game.moves[n -1];
             },
 
             getFormattedMove: function(n) {
-                var n = n || this.game.halfmoveNumber;
+                n = n || this.game.halfmoveNumber;
                 var f = Math.ceil(n / 2.0);
                 var hellip = (n % 2 === 0) ? '... ': '';
                 return f + ". " + hellip + this.getMove(n);
@@ -778,8 +860,8 @@ ChessNotation.prototype = {
 
             replaceNumberWithDashes: function(str) {
                 var numSpaces = parseInt(str, 10);
-                var newStr = '';
-                for (var i = 0; i < numSpaces; i++) { newStr += '-'; }
+                var newStr = '', i;
+                for (i = 0; i < numSpaces; i++) { newStr += '-'; }
                 return newStr;
             },
 
@@ -791,7 +873,7 @@ ChessNotation.prototype = {
                 annot = annot.replace(/\\\}/g, '}');
 
                 if (this.settings.jsonAnnotations) {
-                    eval("annot = " + annot);
+                    annot = JSON.parse(annot);
                 }
 
                 this.game.rawAnnotations.push(annot);
@@ -836,7 +918,7 @@ ChessNotation.prototype = {
 
                 pawnMove : /^([a-h])([1-8])/,
                 pawnCapture : /^([a-h])x([a-h])([1-8])/,
-                pawnQueen : /=([BNQR])/
+                pawnQueen : /\=([BNQR])/
             },
 
             /* Definitions of pieces */
