@@ -23,6 +23,118 @@
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
+var Move = function(token) {
+    this.parseToken(token);
+};
+Move.prototype = {
+    constructor: Move,
+    patterns: {
+        castling: /^O-O(-O)?/g,
+        generalMove: /^([BKNQR]?)([a-h]?)([1-8]?)(x?)([a-h])([1-8])(\=?)([BNQR]?)/,
+        endSymbols: /([+#]?)([\W]*)$/
+    },
+    parseToken: function(token) {
+        if (token.match(this.patterns.castling)) {
+            this.castling = true;
+            this.castlingSide = RegExp.$1 ? 'queen' : 'king';     // '-O'
+        } else if (token.match(this.patterns.generalMove)) {
+            this.piece = RegExp.$1 || 'P';                        // [BKNQR]?
+            this.srcFile = RegExp.$2;                             // [a-h]?
+            this.srcRank = RegExp.$3;                             // [1-8]?
+            this.capturing = Boolean(RegExp.$4);                  // x?
+            this.destFile = RegExp.$5;                            // [a-h]
+            this.destRank = RegExp.$6;                            // [1-8]
+            if (RegExp.$7 && RegExp.$8 && this.piece === 'P') {   // \=?
+                this.pawnPromotion = RegExp.$8;                   // [BNQR]
+            }
+        } else { throw Error('Invalid move format'); }
+
+        if (token.match(this.patterns.endSymbols)) {
+            if (RegExp.$1 === '+') {
+                this.check = true;
+            } else if (RegExp.$1 === '#') {
+                this.checkmate = true;
+            }
+            if (RegExp.$2) {
+                this.nag = RegExp.$2;
+            }
+        }
+    },
+    addAnnotation: function(annotation) {
+        this.annotation = annotation;
+    }
+};
+
+var Variation = function(parentVariation) {
+    if (parentVariation) {
+        this.parent = parentVariation;
+        this.nesting = parentVariation.nesting + 1;
+        parentVariation.addSubVariation(this);
+    } else {
+        this.nesting = 0;
+    }
+    this.childVariations = [];
+};
+Variation.prototype = {
+    constructor: Variation,
+    addMoves: function(moves) {
+        this.moves = moves;
+    },
+    addSubVariation: function(variation) {
+        this.childVariations.push(variation);
+    }
+};
+
+
+var ChessNotation = function(pgn) {
+    this.source = pgn;
+    this.parsePgn(pgn);
+};
+ChessNotation.prototype = {
+    splitPattern: /(\{[^}]*\})|[()]|([^\s()]+)/g,
+    parsePgn: function(pgn) {
+        var tokens = pgn.match(this.splitPattern);
+        if (tokens === null) { throw Error('Invalid notation'); }
+
+        this.tokens = tokens;
+        this.createVariantsTree(tokens);
+    },
+    createVariantsTree: function(tokens) {
+        var stack = [], i = 0, token, lastIndex;
+        var child = this.tree = new Variation(), parent;
+
+        for (; (token = tokens[i++]);) {
+            if (token === ')') {
+                lastIndex = stack.lastIndexOf('(');
+                child.addMoves(stack.splice(lastIndex + 1));
+                child = child.parent;
+                parent = parent.parent;
+                stack.pop();  // pop '('
+            } else if (token === '(') {
+                parent = child;
+                child = new Variation(child);
+                stack.push(token);
+            } else {
+                stack.push(token);
+            }
+        }
+        child.addMoves(stack);
+    }
+
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
 (function($) {
     /* Constructor */
     $.chess = function(options, wrapper) {
@@ -253,7 +365,7 @@
             },
 
             validateFen: function(fen) {
-                var pattern = /\s*([rnbqkpRNBQKP12345678]+\/){7}([rnbqkpRNBQKP12345678]+)\s[bw-]\s(([kqKQ]{1,4})|(-))\s(([a-h][1-8])|(-))\s\d+\s\d+\s*/;
+                var pattern = /\s*([rnbqkpRNBQKP12345678]+\/){7}([rnbqkpRNBQKP12345678]+)\s[bw\-]\s(([kqKQ]{1,4})|(\-))\s(([a-h][1-8])|(\-))\s\d+\s\d+\s*/;
                 return pattern.test(fen);
             },
 
