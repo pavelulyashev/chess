@@ -4,7 +4,7 @@
 {% block extra_head %}
   <link rel="stylesheet/less" type="text/css" media="all" href="{{ STATIC_URL }}css/chess.less" />
   <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-1.7.2.min.js"></script>
-  <script type="text/javascript" src="{{ STATIC_URL }}js/jchess-0.1.0.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/jchess.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/app_chess.js"></script>
 {% endblock %}
 
@@ -14,7 +14,7 @@
     <ul class="etudes-list">
       {% for etude in etudes_list %}
       <li class="etude-cell {% if forloop.counter|divisibleby:"2" %}light{% else %}dark{% endif %}">
-        <div class="etude-preview" data-fen="{{ etude.fen }}" data-square-size="24" data-result="{{ etude.result }}">
+        <div class="etude-preview" data-fen="{{ etude.fen }}" data-cell-size="24" data-result="{{ etude.result }}">
           <a href="{% url etude_detail author.slug etude.id %}/"><div class="chess-board board24"></div></a>
           <div class="description">
               <span class="author">{{ etude.get_authors }}</span> -

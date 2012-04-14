@@ -47,7 +47,6 @@
  *
  * use namespace utils for this purposes
  */
-/*
 var utils = {
     extend: $.extend,
     trim: $.trim,
@@ -74,6 +73,10 @@ var utils = {
                 });
             }
         },
+        /*
+         * replace numeric annotation glyphs
+         * see http://en.wikipedia.org/wiki/Numeric_Annotation_Glyphs
+         */
         nag: {
             dict: {
                 1: '!',
@@ -82,7 +85,7 @@ var utils = {
                 4: '⁇',
                 5: '⁉',
                 6: '⁈',
-                7: '□' ,
+                7: '□' /*,
                 Commented glyphs are position-related, not move-related
                 10: '=',
                 13: '∞',
@@ -104,6 +107,7 @@ var utils = {
                 146: 'N',
                 239: '⇔',
                 240: '⇗'
+                        */
             },
             replace: function(pgn) {
                 var nag = this;
@@ -282,29 +286,55 @@ ChessNotation.prototype = {
 };
 
 
+var ChessPiece = function(letter, file, rank, id) {
+    this.letter = letter;
+    this.color = letter.match(/[bknqrp]/) ? 'b' : 'w';
+    this.id = id;
+    this.file = file;
+    this.rank = rank;
+};
+ChessPiece.prototype = {
+    constructor: ChessPiece,
+    toString: function() {
+        return this.letter;
+    },
+    getClass: function() {
+        return this.color + this.letter;
+    }
+};
+
 var ChessBoard = function(piecePlacement) {
-    this.board = [];
     this.init(piecePlacement);
 };
 ChessBoard.prototype = {
     constructor: ChessBoard,
     init: function(piecePlacement) {
-        var board = [];
-        piecePlacement = this.numbersToDashes(piecePlacement).split('/');
-        piecePlacement.reverse().forEach(function(row, i) {
-            board[i] = row.split('');
+        var board = [], countPieces = 0, pieces = [];
+        piecePlacement = this._numbersToDashes(piecePlacement).split('/');
+        piecePlacement.reverse().forEach(function(row, r) {
+            row = board[r] = row.split('');
+            row.forEach(function(piece, f) {
+                if (piece !== '-') {
+                    row[f] = new ChessPiece(piece, f, r, ++countPieces);
+                    pieces.push(row[f]);
+                }
+            });
         });
-        this.board = board;
+        this._board = board;
+        this._pieces = pieces;
     },
     toString: function() {
-        var board = this.board.reverse().map(function(row) {
+        var board = this._board.slice().reverse().map(function(row) {
             return row.join(' ');
         }).join('\n');
         return utils.chess.pieces.replaceByUnicode(board);
     },
-    numbersToDashes: function(piecePlacement) {
-        return piecePlacement.replace(/\d/g, function(str) {
-            return '--------'.slice(0, str);
+    getPieces: function() {
+        return this._pieces;
+    },
+    _numbersToDashes: function(piecePlacement) {
+        return piecePlacement.replace(/\d/g, function(num) {
+            return '--------'.slice(0, num);
         });
     }
 };
@@ -315,6 +345,7 @@ var ChessGame = function(options) {
     this.parseFen(this.options.fen);
     if (this.options.pgn) {
         this.parsePgn(this.options.pgn);
+        this.currentMove = this.notation.tree;
     }
 };
 ChessGame.prototype = {
@@ -355,44 +386,150 @@ ChessGame.prototype = {
             this.headers[RegExp.$1] = RegExp.$3;
         }
     },
-    validateNextMove: function(move) {
+    isMovePossible: function(move) {
+        if (move.validated === true) {
+            return true;
+        }
+
     },
-    doMove: function(move) {
-    },
+    /*
+     * moveForward (moveBackward) returns 
+     *     move object if forward (backward) move exists in notation
+     *     otherwise returns false
+     */
     moveForward: function() {
+        var move = this.currentMove.next;
+        if (this.isMovePossible(move)) {
+            this.currentMove = move;
+            return move;
+        }
+
     },
     moveBackward: function() {
-    },
-    moveTo: function() {
-    },
-    moveToFirst: function() {
-    },
-    moveToLast: function() {
+        var move = this.currentMove.prev;
+        if (this.isMovePossible(move)) {
+            this.currentMove = move;
+            return move;
+        }
     }
 };
 
 
-var ChessGameView = function(options) {
+var ChessGameView = function(jqWrapper, options) {
+    var game = this.chessGame = new ChessGame(options);
+    this._jqWrapper = jqWrapper;
     this.options = utils.extend({}, this.defaults, options);
+    this._initBoard();
+    this._initPieces(game.board.getPieces());
+    this._initEvents();
 };
 ChessGameView.prototype = {
     constructor: ChessGameView,
     defaults: {
-        squareSize: 44,
-        boardElementSelector: '.chess-board',
-        showAnnotations: false
+        cellSize: 44,
+        showAnnotations: false,
+        boardClass: 'chess-board',
+        pieceClass: 'piece',
+        links: {
+            nextMove: '.next-move',
+            prevMove: '.prev-move',
+            firstMove: '.first-move',
+            lastMove: '.last-move',
+            flipBoard: '.flip-board'
+        }
     },
-    addPiece: function() {
+    _initBoard: function() {
+        var boardClass = this.options.boardClass;
+        var boardSelector = '.' + boardClass, jqBoard;
+
+        if (this._jqWrapper.is(boardSelector)) {
+            jqBoard = this._jqWrapper;
+        } else {
+            jqBoard = this._jqWrapper.find(boardSelector);
+            jqBoard = jqBoard.size() ? jqBoard : 
+                $('<div/>').addClass(boardClass).appendTo(this._jqWrapper);
+        }
+        this._jqBoard = jqBoard;
     },
-    writeBoard: function(chessBoard) {
+    _initPieces: function(pieces) {
+        pieces.forEach(this._addPiece, this);
     },
-    makeMove: function(move, isBackward) {
+    _addPiece: function(piece) {
+        var cellSize = this.options.cellSize;
+        var classes = [this.options.pieceClass, piece.getClass()].join(' ');
+        var jqPiece = $('<div/>').addClass(classes);
+        jqPiece.attr('data-id', piece.id).css({
+            bottom: piece.rank * cellSize,
+            left: piece.file * cellSize
+        }).appendTo(this._jqBoard);
+    },
+    _runMove: function(move, isBackward) {
+    },
+    moveForward: function(animate) {
+        var move = this.chessGame.moveForward();
+        if (move) {
+            this._runMove(move, animate);
+            return true;
+        }
+    },
+    moveBackward: function(animate) {
+        var move = this.chessGame.moveBackward();
+        if (move) {
+            this._runMove(move, animate, true);
+            return true;
+        }
+    },
+    moveToFirst: function() {
+        while (this.moveBackward(false)) {}
+    },
+    moveToLast: function() {
+        while (this.moveForward(false)) {}
+    },
+    flipBoard: function() {
+        this._jqBoard.find('.' + this.options.pieceClass).each(function() {
+            var self = $(this);
+            self.css({
+                top: self.css('bottom'),
+                bottom: self.css('top'),
+                left: self.css('right'),
+                right: self.css('left')
+            });
+        });
+    },
+    _initEvents: function() {
+        var self = this, links = self.options.links;
+        var jq = self._jqWrapper, click = 'click.chess';
+        jq.on(click, links.flipBoard, function(e) { 
+            e.preventDefault();
+            self.flipBoard();
+        }).on(click, links.nextMove, function(e) { 
+            e.preventDefault();
+            self.moveForward();
+        }).on(click, links.prevMove, function(e) { 
+            e.preventDefault();
+            self.moveBackward();
+        });
     }
 };
 
-*/
 
 
+(function($) {
+$.fn.chessGame = function(options) {
+    console.time('chess init');
+    this.each(function() {
+        var self = $(this);
+        var opt = $.extend({}, options);
+
+        ['fen', 'pgn', 'cellSize'].forEach(function(property) {
+            opt[property] = opt[property] || self.data(property);
+        });
+        self.data('chess', new ChessGameView(self, opt));
+    });
+    console.timeEnd('chess init');
+    return this;
+};
+})(jQuery);
 
 
 
@@ -402,118 +539,9 @@ ChessGameView.prototype = {
 
 
 (function($) {
-    /* Constructor */
-    $.chess = function(options, wrapper) {
-        this.settings = $.extend( {}, $.chess.defaults, options );
-        this.wrapper = wrapper;
 
-        this.game = {
-            activeColor: 'w',
-            castlingAvailability: 'KQkq',
-            enPassantSquare: '-',
-            halfmoveClock: 0,
-            fullmoveNumber: 1,
-            halfmoveNumber: 0,
-
-            header: [],
-            body: '',
-            moves: [],
-            annotations: [],
-            rawAnnotations: [],
-
-            nextPieceId: 64,
-            transitions: [],
-            boardDirection: 1
-        };
-
-    };
-
-    /* Add chess() to the jQuery namespace */
-    $.fn.chess = function(options) {
-        var chess = new $.chess(options, this[0]);
-        chess.init();
-        return chess;
-    };
-
-    $.extend($.chess, {
-
-        defaults: {
-            fen: "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
-            squareSize: 44,
-            offsets: { left: 0, top: 0},
-            boardElementSelector: '.chess-board',
-            jsonAnnotations: false
-        },
-
+    $.extend({}, {
         prototype: {
-            init: function() {
-                // Load a fresh board position
-                this.setUpBoard( this.parseFen( this.settings.fen ) );
-
-                // If pgn was passed in, parse it
-                if (this.settings.pgn) {
-                    try {
-                        this.parsePgn(this.settings.pgn);
-                    } catch (e) {}
-                }
-
-                this.setUpBoard( this.parseFen( this.settings.fen ) );
-                this.writeBoard();
-            },
-
-            boardElement: function() {
-                return $(this.wrapper).find(this.settings.boardElementSelector);
-            },
-
-            boardData: function() {
-                return this._board;
-            },
-
-            setUpBoard: function(template) {
-                this._board = this.createBoardDataFromTemplate(template);
-            },
-
-            createBoardDataFromTemplate: function(template) {
-                var board = [];
-                $.each(template, function(j, row) {
-                    board[j] = [];
-                    $.each(row, function(k, val) {
-                        if (val !== '-') {
-                            board[j][k] = { 
-                                id: (k + 1) + (j * 8) , 
-                                piece: template[j][k].toString() 
-                            };
-                        } else {
-                            board[j][k] = '-';
-                        }
-                    });
-                });
-
-                return board;
-            },
-
-            writeBoard: function() {
-                var self = this;
-                if (self.boardElement().size() === 0) {
-                    $(self.wrapper).append('<div class="chess-board"></div>');
-                }
-
-                $.each(self.boardData(), function(j, row) {
-                    $.each(row, function(k, val) {
-                        var piece = self.boardData()[j][k];
-                        var square = self.coord2Algebraic(j,k);
-
-                        if (piece !== '-') {
-                            self.addDomPiece(piece.id, piece.piece, square);
-                        }
-                    });
-                });
-            },
-
-            getDomPieceId: function(id) {
-                return this.wrapper.id + "_piece_" + id;
-            },
-
             addDomPiece: function(id, piece, algebraic) {
                 var square = this.algebraic2Coord(algebraic);
                 if (this.game.boardDirection < 0) {
@@ -596,75 +624,12 @@ ChessGameView.prototype = {
 
                 });
             },
-
-            clearBoard: function() {
-                this.boardElement().empty();
-            },
-
-            flipBoard: function() {
-                var boardLength = this.settings.squareSize * 7;
-                var offsets = this.settings.offsets;
-
-                this.boardElement().children().each(function() {
-                    var topVal = parseInt($(this).css('top'), 10) - offsets.top;
-                    var leftVal = parseInt($(this).css('left'), 10) - offsets.left;
-                    $(this).css('top', (boardLength - topVal) + offsets.top);
-                    $(this).css('left', (boardLength - leftVal) + offsets.left);
-                });
-
-                this.game.boardDirection *= -1;
-            },
-
-            parseFen: function(fen) {
-                // rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
-                var newBoard = [], j, k, row;
-                var fenParts = $.trim(fen).split(/\/|\s/);
-
-                for (j = 0; j < 8; j++) {
-                    newBoard[j] = [];
-                    row = fenParts[j].replace(/\d/g, this.replaceNumberWithDashes);
-                    for (k = 0; k < 8; k++) {
-                        newBoard[j][k] = row.substr(k, 1);
-                    }
-                }
-                return newBoard;
-            },
-
             validateFen: function(fen) {
                 var pattern = /\s*([rnbqkpRNBQKP12345678]+\/){7}([rnbqkpRNBQKP12345678]+)\s[bw\-]\s(([kqKQ]{1,4})|(\-))\s(([a-h][1-8])|(\-))\s\d+\s\d+\s*/;
                 return pattern.test(fen);
             },
 
             parsePgn: function(pgn) {
-                // Do a little clean up on the string
-                pgn = $.trim(pgn).replace(/\n|\r/g, ' ').replace(/\s+/g, ' ');
-                var instance = this;
-                // Recognize escaped closing curly brackets as part of the comment
-                // This allows us to have json encoded comments
-                pgn = pgn.replace(/\{((\\\})|([^}]))+\}/g, function(){ return instance.pluckAnnotation.apply(instance, arguments); });
-
-                var headers = ['Event','Site','Date','Round','White','Black','Result'], i;
-                for (i = 0; i < headers.length; i++) {
-                    var re = new RegExp(headers[i] + ' "([^"]*)"]');
-                    var result = re.exec(pgn);
-                    this.game.header[headers[i]] = (result === null) ? "": result[1];
-                }
-
-                // Find the body
-                // this.game.body = /(1\. ?(N[acfh]3|[abcdefgh][34]).*)/m.exec(pgn)[1];
-                this.game.body = /(1\..+)/m.exec(pgn)[1];
-
-                // Remove numbers, remove result
-                this.game.body = this.game.body.replace(new RegExp("1-0|1/2-1/2|0-1"), '')
-                                               .replace(/(\d+\.+)|x|(\$\d*)/g, '');
-
-                var moves = $.trim(this.game.body).split(/\s+/);
-                // console.log(moves);
-
-                // This must be a separate variable from i, since annotations don't
-                // count as moves.
-                var moveNumber = 0;
-
                 $.each(moves, $.proxy(function(i, move) {
                     if ( /annotation-\d+/.test(move) ) {
                         this.game.annotations[moveNumber] = this.game.rawAnnotations.shift();
@@ -1015,23 +980,6 @@ ChessGameView.prototype = {
                     this.game.transitions[num].backward = backward.concat(this.game.transitions[num].backward);
                 }
             },
-
-            getNextPieceId: function() {
-                return ++this.game.nextPieceId;
-            },
-
-            getMove: function(n) {
-                n = n || this.game.halfmoveNumber;
-                return this.game.moves[n -1];
-            },
-
-            getFormattedMove: function(n) {
-                n = n || this.game.halfmoveNumber;
-                var f = Math.ceil(n / 2.0);
-                var hellip = (n % 2 === 0) ? '... ': '';
-                return f + ". " + hellip + this.getMove(n);
-            },
-
             /* Utility Functions */
             algebraic2Coord: function(algebraic) {
                 return [this.rank2Row(algebraic.substr(1, 1)), this.file2Col(algebraic.substr(0, 1))];
@@ -1082,49 +1030,7 @@ ChessGameView.prototype = {
                 this.game.rawAnnotations.push(annot);
                 return "annotation-" + annNum;
             },
-
-            annotation: function() {
-                var defaultValue = (this.settings.jsonAnnotations ? []: '');
-                return this.game.annotations[this.game.halfmoveNumber] || defaultValue;
-            },
-
-            addAnnotation: function(annotation) {
-                var currentAnnotations = this.annotation();
-                if (typeof currentAnnotations === "string") {
-                    currentAnnotations += ", " + annotation;
-                } else {
-                    currentAnnotations.push(annotation);
-                }
-
-                this.game.annotations[this.game.halfmoveNumber] = currentAnnotations;
-            },
-
-            debugBoard: function() {
-                var self = this;
-                $.each(this.boardData(), function(j, row) {
-                    $.each(row, function(k, val) {
-                        console.log('[' + j + ',' + k + '] = { id: ' + self.boardData()[j][k].id + ', piece: ' + self.boardData()[j][k].piece + ' }');
-                    });
-                });
-            },
-
-            /* Patterns used for parsing */
-            patterns: {
-                castleKingside : /^O-O/,
-                castleQueenside : /^O-O-O/,
-
-                pieceMove : /^([BKNQR])/,
-                rankAndFileGiven: /^([BKNQR])([a-h])([1-8])x?([a-h])([1-8])/,
-                fileGiven : /^([BKNQR])([a-h])x?([a-h])([1-8])/,
-                rankGiven : /^([BKNQR])([1-8])x?([a-h])([1-8])/,
-                nothingGiven : /^([BKNQR])x?([a-h])([1-8])/,
-
-                pawnMove : /^([a-h])([1-8])/,
-                pawnCapture : /^([a-h])x([a-h])([1-8])/,
-                pawnQueen : /\=([BNQR])/
-            },
-
-            /* Definitions of pieces */
+           /* Definitions of pieces */
             pieces: {
                 R: {
                     vectors: [

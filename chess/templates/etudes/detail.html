@@ -7,19 +7,20 @@
   <link rel="stylesheet/less" type="text/css" media="all" href="{{ STATIC_URL }}css/chess.less" />
   <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-1.7.2.min.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/jchess-0.1.0.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/jchess.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/app_chess.js"></script>
 
 {% endblock %}
 
 {% block content %}
 <div class="etude-detail-container">
-  <div class="etude-detail" data-fen="{{ etude.fen }}" data-square-size="64" data-result="{{ etude.result }}" data-pgn="{{ etude.moves }}">
+  <div class="etude-detail" data-fen="{{ etude.fen }}" data-cell-size="64" data-result="{{ etude.result }}" data-pg="{{ etude.moves }}">
     <div class="pull-left chess-board board64"></div>
     <div class="pull-left">
       <div>
-        <a class="back" href="#">Back</a>
-        <a class="next" href="#">Next</a>
-        <a class="flip" href="#">Flip</a>
+        <a class="prev-move" href="#">Backward</a>
+        <a class="next-move" href="#">Forward</a>
+        <a class="flip-board" href="#">Flip Board</a>
       </div>
       <div class="description">
         <span class="author">{{ etude.get_authors }}</span> -
