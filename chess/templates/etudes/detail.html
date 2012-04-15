@@ -6,7 +6,7 @@
 {% block extra_head %}
   <link rel="stylesheet/less" type="text/css" media="all" href="{{ STATIC_URL }}css/chess.less" />
   <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-1.7.2.min.js"></script>
-  <script type="text/javascript" src="{{ STATIC_URL }}js/jchess-0.1.0.js"></script>
+  <!-- <script type="text/javascript" src="{{ STATIC_URL }}js/jchess-0.1.0.js"></script> -->
   <script type="text/javascript" src="{{ STATIC_URL }}js/jchess.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/app_chess.js"></script>
 
@@ -14,7 +14,7 @@
 
 {% block content %}
 <div class="etude-detail-container">
-  <div class="etude-detail" data-fen="{{ etude.fen }}" data-cell-size="64" data-result="{{ etude.result }}" data-pgn="{{ etude.moves }}">
+  <div class="etude-detail" data-fen="{{ etude.fen }}" data-cell-size="64" data-pgn="{{ etude.moves }}">
     <div class="pull-left chess-board board64"></div>
     <div class="pull-left">
       <div>

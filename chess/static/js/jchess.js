@@ -54,6 +54,56 @@ var utils = {
     trim: $.trim,
     chess: {
         pieces: {
+            vectors: {
+                R: [
+                    { x: 0, y: 1, limit: 7 },
+                    { x: 1, y: 0, limit: 7 }
+                ],
+                N: [
+                    { x: 1, y: 2, limit: 1 },
+                    { x: 2, y: 1, limit: 1 },
+                    { x: 2, y: -1, limit: 1 },
+                    { x: 1, y: -2, limit: 1 }
+                ],
+                B: [
+                    { x: 1, y: 1, limit: 7 },
+                    { x: 1, y: -1, limit: 7 }
+                ],
+                Q: [
+                    { x: 0, y: 1, limit: 7 },
+                    { x: 1, y: 0, limit: 7 },
+                    { x: 1, y: 1, limit: 7 },
+                    { x: 1, y: -1, limit: 7 }
+                ],
+                K: [
+                    { x: 0, y: 1, limit: 1 },
+                    { x: 1, y: 0, limit: 1 },
+                    { x: 1, y: 1, limit: 1 },
+                    { x: 1, y: -1, limit: 1 }
+                ]
+            },
+            getPossibleSourceCells: function(move) {
+                var cells = [], vectors, piece = move.piece.toUpperCase();
+                if (piece === 'P') {
+
+                } else {
+                    vectors = this.vectors[piece];
+                    vectors.forEach(function(vect) {
+                        var i, file, rank;
+                        for (i = -vect.limit; i <= vect.limit; i++) {
+                            if (i === 0) { continue; }
+
+                            file = move.file + vect.x * i;
+                            rank = move.rank + vect.y * i;
+                            if (file >= 0 && file <= 7 && 
+                                rank >= 0 && rank <= 7) {
+                                cells.push({ file: file, rank: rank });
+                            }
+                        }
+                    });
+                }
+                return cells;
+            },
             unicode: {
                 K: '\u2654',
                 Q: '\u2655',
@@ -336,6 +386,8 @@ ChessBoard.prototype = {
                 if (piece !== '-') {
                     row[f] = new ChessPiece(piece, f, r, ++countPieces);
                     (pieces[piece] = pieces[piece] || []).push(row[f]);
+                } else {
+                    row[f] = null;
                 }
             });
         });
@@ -344,7 +396,7 @@ ChessBoard.prototype = {
     },
     toString: function() {
         var board = this._board.slice().reverse().map(function(row) {
-            return row.join(' ');
+            return row.map(function(piece) { return piece || '-'; }).join(' ');
         }).join('\n');
         return utils.chess.pieces.replaceByUnicode(board);
     },
@@ -354,6 +406,16 @@ ChessBoard.prototype = {
             pieces = pieces.concat(this[key]);
         }, this._pieces);
         return pieces;
+    },
+    getSourceCell: function(move) {
+        var cells = utils.chess.pieces.getPossibleSourceCells(move);
+        return cells.filter(function(cell) {
+            var chessPiece = this._board[cell.file][cell.rank];
+            return chessPiece && chessPiece.piece === move.piece &&
+                   (!move.srcRank || move.srcRank === cell.rank) &&
+                   (!move.srcFile || move.srcFile === cell.file);
+
+        }, this)[0];
     },
     _numbersToDashes: function(piecePlacement) {
         return piecePlacement.replace(/\d/g, function(num) {
@@ -592,63 +654,6 @@ $.fn.chessGame = function(options) {
 
     $.extend({}, {
         prototype: {
-            addDomPiece: function(id, piece, algebraic) {
-                var square = this.algebraic2Coord(algebraic);
-                if (this.game.boardDirection < 0) {
-                    square[0] = 7 - square[0];
-                    square[1] = 7 - square[1];
-                }
-
-                var posTop = this.settings.squareSize * square[0] + this.settings.offsets.top;
-                var posLeft = this.settings.squareSize * square[1] + this.settings.offsets.left;
-
-                var color = 'b';
-                if (piece.toUpperCase() === piece) { color = 'w'; }
-
-                this.boardElement().append('<div id="' + this.getDomPieceId(id) + '" class="piece ' + color + piece + '"></div>');
-                $('#' + this.getDomPieceId(id), this.wrapper).css({ position: 'absolute', top:posTop, left:posLeft });
-            },
-
-            moveDomPiece: function(id, move) {
-                var from = this.algebraic2Coord(move.from);
-                var to = this.algebraic2Coord(move.to);
-
-                var top = (parseInt(to[0], 10) - parseInt(from[0], 10)) * this.settings.squareSize * this.game.boardDirection;
-                var left = (parseInt(to[1], 10) - parseInt(from[1], 10)) * this.settings.squareSize * this.game.boardDirection;
-
-                $('#' + this.getDomPieceId(id)).animate({
-                    'top': '+=' + top + 'px', 'left': '+=' + left + 'px'
-                }, 'fast');
-            },
-
-            removeDomPiece: function(id) {
-                $('#' + this.getDomPieceId(id)).remove();
-            },
-
-            transitionTo: function(halfmoveNumber) {
-                while (halfmoveNumber < this.game.halfmoveNumber) {
-                    this.transitionBackward();
-                }
-
-                while (halfmoveNumber > this.game.halfmoveNumber) {
-                    this.transitionForward();
-                }
-            },
-
-            transitionForward: function() {
-                if (this.game.halfmoveNumber < this.game.transitions.length) {
-                    this.runTransitions(this.game.transitions[this.game.halfmoveNumber].forward);
-                    this.game.halfmoveNumber++;
-                }
-            },
-
-            transitionBackward: function() {
-                if (this.game.halfmoveNumber > 0) {
-                    this.game.halfmoveNumber--;
-                    this.runTransitions(this.game.transitions[this.game.halfmoveNumber].backward);
-                }
-            },
-
             // Example transitions
             // ["m:50:e2:6,1"]
             // ["a:50:P:e4", "m:6:4,1:c7"]
@@ -678,109 +683,6 @@ $.fn.chessGame = function(options) {
                 var pattern = /\s*([rnbqkpRNBQKP12345678]+\/){7}([rnbqkpRNBQKP12345678]+)\s[bw\-]\s(([kqKQ]{1,4})|(\-))\s(([a-h][1-8])|(\-))\s\d+\s\d+\s*/;
                 return pattern.test(fen);
             },
-
-            parsePgn: function(pgn) {
-                $.each(moves, $.proxy(function(i, move) {
-                    if ( /annotation-\d+/.test(move) ) {
-                        this.game.annotations[moveNumber] = this.game.rawAnnotations.shift();
-                        return;
-                    }
-
-                    this.game.moves[moveNumber] = move;
-
-                    // console.log("Processing move: " + moveNumber + '.' + move);
-                    var player = (moveNumber % 2 === 0) ? 'w': 'b';
-                    var rank, m, piece, srcFile, srcRank, dstsFile, dstRank, src, dst;
-
-                    // If the move was to castle
-                    if ( this.patterns.castleQueenside.test(move) ) {
-                        rank = (player === 'w') ? 1: 8;
-                        this.movePiece(moveNumber, {from: "e" + rank, to: "c" + rank} );
-                        this.movePiece(moveNumber, {from: "a" + rank, to: "d" + rank} );
-
-                    } else if ( this.patterns.castleKingside.test(move) ) {
-                        rank = (player === 'w') ? 1: 8;
-                        this.movePiece(moveNumber, {from: "e" + rank, to: "g" + rank} );
-                        this.movePiece(moveNumber, {from: "h" + rank, to: "f" + rank} );
-
-                    // If the move was a piece
-                    } else if ( this.patterns.pieceMove.test(move) ) {
-                        m = this.patterns.pieceMove.exec(move);
-                        piece = m[0];
-                        srcFile = null;
-                        srcRank = null;
-                        dstFile = null;
-                        dstRank = null;
-
-                        if ( this.patterns.rankAndFileGiven.test(move) ) {
-                            m = this.patterns.rankAndFileGiven.exec(move);
-                            srcFile = m[2];
-                            srcRank = m[3];
-                            dstFile = m[4];
-                            dstRank = m[5];
-                        } else if ( this.patterns.fileGiven.test(move) ) {
-                            m = this.patterns.fileGiven.exec(move);
-                            srcFile = m[2];
-                            dstFile = m[3];
-                            dstRank = m[4];
-                        } else if ( this.patterns.rankGiven.test(move) ) {
-                            m = this.patterns.rankGiven.exec(move);
-                            srcRank = m[2];
-                            dstFile = m[3];
-                            dstRank = m[4];
-                        } else if ( this.patterns.nothingGiven.test(move) ) {
-                            m = this.patterns.nothingGiven.exec(move);
-                            dstFile = m[2];
-                            dstRank = m[3];
-                        }
-
-                        src = this.findMoveSource(piece, srcFile, srcRank, dstFile, dstRank, player);
-                        this.movePiece(moveNumber, {from: src, to: dstFile + dstRank} );
-
-                        // If the move was a pawn
-                    } else {
-                        dstFile = null;
-                        dstRank = null;
-
-                        if ( this.patterns.pawnMove.test(move) ) {
-                            m = this.patterns.pawnMove.exec(move);
-                            dstFile = m[1];
-                            dstRank = m[2];
-                            src = this.findPawnMoveSource(dstFile, dstRank, player);
-                            dst = dstFile + dstRank;
-                            this.movePiece(moveNumber, {from: src, to: dst} );
-
-                            // Pawn capture
-                        } else if ( this.patterns.pawnCapture.test(move) ) {
-                            m = this.patterns.pawnCapture.exec(move);
-                            dstFile = m[2];
-                            dstRank = m[3];
-                            srcFile = m[1];
-                            srcRank = parseInt(dstRank, 10) + ( (player === 'w') ? -1: 1 );
-
-                            // En passant
-                            var result = this.pieceAt(dstFile + dstRank);
-                            if (result === '-') {
-                                this.removePiece(moveNumber, dstFile + srcRank);
-                            }
-                            this.movePiece(moveNumber, {from: srcFile + srcRank, to: dstFile + dstRank });
-                        }
-
-                        // Queening
-                        if ( this.patterns.pawnQueen.test(move) ) {
-                            this.removePiece(moveNumber, dstFile + dstRank);
-
-                            m = this.patterns.pawnQueen.exec(move);
-                            var queeningPiece = m[1];
-                            queeningPiece = (player === 'w') ? queeningPiece: queeningPiece.toLowerCase();
-                            this.addPiece(moveNumber, queeningPiece, dstFile + dstRank);
-                        }
-                    }
-
-                    moveNumber++;
-                }, this));
-            },
-
             // srcSquare = square the piece is currently on
             // dstSquare = square the piece will move to
             cantMoveFromAbsolutePin: function(piece, srcSquare, dstSquare) {
@@ -804,18 +706,6 @@ $.fn.chessGame = function(options) {
 
                 return false;
             },
-
-            inSquaresArray: function(square, squares) {
-                var i;
-                for (i = 0; i < squares.length; i++) {
-                    if (squares[i] === square) {
-                        return true;
-                    }
-                }
-
-                return false;
-            },
-
             squaresBetweenEndPoints: function(s,e) {
                 var start = this.algebraic2Coord(s);
                 var end = this.algebraic2Coord(e);
@@ -963,73 +853,6 @@ $.fn.chessGame = function(options) {
                 }
                 return null;
             },
-
-            pieceAt: function(algebraic) {
-                var square = this.algebraic2Coord(algebraic);
-                return this._board[square[0]][square[1]];
-            },
-
-            // Ex: this.movePiece({from: 'e2', to: 'e4'})
-            movePiece: function(num, move) {
-                // console.log("Moving a piece: (" + num + ") " + " from " + move.from + " to " + move.to);
-
-                var from = this.algebraic2Coord(move.from);
-                var to = this.algebraic2Coord(move.to);
-                var piece = this.pieceAt(move.from);
-
-                if (this.pieceAt(move.to).piece) {
-                    this.removePiece(num, move.to);
-                }
-
-                this._board[to[0]][to[1]] = this._board[from[0]][from[1]];
-                this._board[from[0]][from[1]] = '-';
-
-                this.saveTransition({type: 'm', num: num, domId: piece.id, from: move.from, to: move.to});
-            },
-
-            removePiece: function(num, algebraic) {
-                var piece = this.pieceAt(algebraic);
-
-                var square = this.algebraic2Coord(algebraic);
-                this._board[square[0]][square[1]] = '-';
-
-                this.saveTransition({type: 'r', num: num, domId: piece.id, piece: piece.piece, from: algebraic});
-            },
-
-            addPiece: function(num, pieceChar, algebraic) {
-
-                var square = this.algebraic2Coord(algebraic);
-                var id = this.getNextPieceId();
-                this._board[square[0]][square[1]] = { id: id, piece: pieceChar };
-
-                this.saveTransition({type: 'a', num: num, domId: id, to: algebraic, piece: pieceChar});
-            },
-
-            // transitions = { 1: { forward: ["m:50:4,1:6,1"], backward: ["m:50:6,1:4,1"] },
-            // 2:{ forward: ["a:50:P:4,1", "m:6:4,1:1,4"], backward: ["r:50", "m:6:1,4:4,1"] } }
-            saveTransition: function(options) {
-                var forward = null;
-                var backward = null;
-                var num = options.num;
-
-                if (options.type === 'a') {
-                    forward = ["a:" + options.domId + ":" + options.piece + ":" + options.to];
-                    backward = ["r:" + options.domId];
-                } else if (options.type === 'm') {
-                    forward = ["m:" + options.domId + ":" + options.from + ":" + options.to];
-                    backward = ["m:" + options.domId + ":" + options.to + ":" + options.from];
-                } else if (options.type === 'r') {
-                    forward = ["r:" + options.domId];
-                    backward = ["a:" + options.domId + ":" + options.piece + ":" + options.from];
-                }
-
-                if (!this.game.transitions[num]) {
-                    this.game.transitions[num] = { forward: forward, backward: backward };
-                } else {
-                    this.game.transitions[num].forward = this.game.transitions[num].forward.concat(forward);
-                    this.game.transitions[num].backward = backward.concat(this.game.transitions[num].backward);
-                }
-            },
             /* Utility Functions */
             algebraic2Coord: function(algebraic) {
                 return [this.rank2Row(algebraic.substr(1, 1)), this.file2Col(algebraic.substr(0, 1))];
@@ -1038,47 +861,8 @@ $.fn.chessGame = function(options) {
             coord2Algebraic: function(row, col) {
                 return this.col2File(col) + this.row2Rank(row);
             },
-
-            rank2Row: function(rank) {
-                return 8 - parseInt(rank, 10);
-            },
-
-            file2Col: function(file) {
-                return file.charCodeAt(0) - ('a').charCodeAt(0);
-            },
-
-            row2Rank: function(row) {
-                return (8 - row) + '';
-            },
-
             col2File: function(col) {
                 return String.fromCharCode( col + ('a').charCodeAt(0) );
-            },
-
-            flipVector: function(v) {
-                return { x: (v.x * -1), y: (v.y * -1), limit: v.limit };
-            },
-
-            replaceNumberWithDashes: function(str) {
-                var numSpaces = parseInt(str, 10);
-                var newStr = '', i;
-                for (i = 0; i < numSpaces; i++) { newStr += '-'; }
-                return newStr;
-            },
-
-            pluckAnnotation: function(str) {
-                this.game.rawAnnotations = this.game.rawAnnotations || [];
-                var annNum = this.game.rawAnnotations.length;
-                var annot = str.substring(1,str.length-1); // Remove curly brackets
-                annot = annot.replace(/\\\{/g, '{');
-                annot = annot.replace(/\\\}/g, '}');
-
-                if (this.settings.jsonAnnotations) {
-                    annot = JSON.parse(annot);
-                }
-
-                this.game.rawAnnotations.push(annot);
-                return "annotation-" + annNum;
             },
            /* Definitions of pieces */
             pieces: {
