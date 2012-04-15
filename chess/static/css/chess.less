@@ -1,4 +1,3 @@
-
 .chess-board (@cell-size, @pieces-theme: 'merida') {
   background: transparent url('../images/boards/board@{cell-size}.png') no-repeat;
   width: @cell-size * 8;
@@ -37,5 +36,17 @@
   }
   &.board64 {
     .chess-board(64px);
+  }
+}
+
+.chess-notation {
+  .move {
+    cursor: default;
+    border-radius: 4px;
+    padding: 0 6px 1px;
+    &:hover {
+      background-color: #444;
+      color: white;
+    }
   }
 }

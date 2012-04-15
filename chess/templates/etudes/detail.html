@@ -14,7 +14,7 @@
 
 {% block content %}
 <div class="etude-detail-container">
-  <div class="etude-detail" data-fen="{{ etude.fen }}" data-cell-size="64" data-result="{{ etude.result }}" data-pg="{{ etude.moves }}">
+  <div class="etude-detail" data-fen="{{ etude.fen }}" data-cell-size="64" data-result="{{ etude.result }}" data-pgn="{{ etude.moves }}">
     <div class="pull-left chess-board board64"></div>
     <div class="pull-left">
       <div>
@@ -27,7 +27,7 @@
         <span class="year">{{ etude.year }}</span>
         <span class="result">{{ etude.get_result }}</span>
       </div>
-      <pre>{{ etude.moves|humanize_nag }}</pre>
+      <pre class="chess-notation">{{ etude.moves|humanize_nag }}</pre>
     </div>
   </div>
 </div>

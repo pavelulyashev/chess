@@ -30,6 +30,8 @@
  * Array.prototype.forEach
  * Array.prototype.map
  * Array.prototype.reverse
+ *
+ * Object.keys
  */
 
 /*
@@ -184,22 +186,27 @@ var MoveNode = function(move, number, player) {
 };
 MoveNode.prototype = {
     constructor: MoveNode,
-    toString: function() {
+    toString: function(toHtml) {
         var tokens = [], moveNode = this;
         var variationToString = function(variation) {
-            tokens.push(['(', variation.toString(), ')'].join(''));
+            tokens.push(['(', variation.toString(toHtml), ')'].join(''));
         };
         do {
             if (moveNode.player === 0 || !tokens.length ||
                 moveNode.prev.variations) {
                 tokens.push(moveNode.getNumberToken());
             }
-            tokens.push(moveNode.move);
+            tokens.push(toHtml ? moveNode.html() : moveNode.move);
             if (moveNode.variations) {
                 moveNode.variations.forEach(variationToString);
             }
         } while ((moveNode = moveNode.next));
-        return tokens.join(' ');
+        return tokens.join(toHtml ? '' : ' ');
+    },
+    html: function() {
+        var classes = ['move', this.player ? 'black' : 'white',
+                       'nesting-' + this.nesting].join(' ');
+        return ['<span class="', classes, '">', this.move, '</span>'].join('');
     },
     getNumberToken: function() {
         return this.number + (this.player === 0 ? '.' : '...');
@@ -234,6 +241,10 @@ ChessNotation.prototype = {
     constructor: ChessNotation,
     toString: function() {
         return [this.tree.toString(), this.result].join(' ');
+    },
+    html: function() {
+        var result = '<span class="result">' + this.result + '</span>';
+        return [this.tree.toString(true), result].join(' ');
     },
     patterns: {
         split: /(\{[^}]*\})|[()]|([^\s()]+)/g,
@@ -316,14 +327,15 @@ var ChessBoard = function(piecePlacement) {
 ChessBoard.prototype = {
     constructor: ChessBoard,
     init: function(piecePlacement) {
-        var board = [], countPieces = 0, pieces = [];
+        var board = [], countPieces = 0;
+        var pieces = {};
         piecePlacement = this._numbersToDashes(piecePlacement).split('/');
         piecePlacement.reverse().forEach(function(row, r) {
             row = board[r] = row.split('');
             row.forEach(function(piece, f) {
                 if (piece !== '-') {
                     row[f] = new ChessPiece(piece, f, r, ++countPieces);
-                    pieces.push(row[f]);
+                    (pieces[piece] = pieces[piece] || []).push(row[f]);
                 }
             });
         });
@@ -337,7 +349,11 @@ ChessBoard.prototype = {
         return utils.chess.pieces.replaceByUnicode(board);
     },
     getPieces: function() {
-        return this._pieces;
+        var pieces = [];
+        Object.keys(this._pieces).forEach(function(key) {
+            pieces = pieces.concat(this[key]);
+        }, this._pieces);
+        return pieces;
     },
     _numbersToDashes: function(piecePlacement) {
         return piecePlacement.replace(/\d/g, function(num) {
@@ -398,6 +414,9 @@ ChessGame.prototype = {
             return true;
         }
 
+        return this.getMoveTransitions(move);
+    },
+    getMoveTransitions: function() {
     },
     /*
      * moveForward (moveBackward) returns 
@@ -410,7 +429,6 @@ ChessGame.prototype = {
             this.currentMove = move;
             return move;
         }
-
     },
     moveBackward: function() {
         var move = this.currentMove.prev;
@@ -444,7 +462,8 @@ ChessGameView.prototype = {
             firstMove: '.first-move',
             lastMove: '.last-move',
             flipBoard: '.flip-board'
-        }
+        },
+        notation: '.chess-notation'
     },
     _initBoard: function() {
         var boardClass = this.options.boardClass;
@@ -539,6 +558,7 @@ ChessGameView.prototype = {
             e.preventDefault();
             self.moveBackward();
         });
+        jq.find(self.options.notation).html(self.chessGame.notation.html());
     }
 };
 
