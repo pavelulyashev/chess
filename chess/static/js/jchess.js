@@ -115,6 +115,13 @@ var utils = {
                     return nag.dict[number] || '';
                 });
             }
+        },
+        coord: {
+            getCellPosition: function(cellSize, cell, isFlippedBoard) {
+                var x = cell.file * cellSize, y = cell.rank * cellSize;
+                return isFlippedBoard ? { top: y, right: x } 
+                                      : { bottom: y, left: x };
+            }
         }
     }
 };
@@ -430,6 +437,7 @@ ChessGameView.prototype = {
         showAnnotations: false,
         boardClass: 'chess-board',
         pieceClass: 'piece',
+        flippedBoard: false,
         links: {
             nextMove: '.next-move',
             prevMove: '.prev-move',
@@ -455,27 +463,48 @@ ChessGameView.prototype = {
         pieces.forEach(this._addPiece, this);
     },
     _addPiece: function(piece) {
-        var cellSize = this.options.cellSize;
-        var classes = [this.options.pieceClass, piece.getClass()].join(' ');
+        var opt = this.options, position = utils.chess.coord.getCellPosition;
+        var classes = [opt.pieceClass, piece.getClass()].join(' ');
         var jqPiece = $('<div/>').addClass(classes);
-        jqPiece.attr('data-id', piece.id).css({
-            bottom: piece.rank * cellSize,
-            left: piece.file * cellSize
-        }).appendTo(this._jqBoard);
+
+        jqPiece.css(position(opt.cellSize, piece, opt.flippedBoard));
+        jqPiece.attr('data-id', piece.id).appendTo(this._jqBoard);
     },
-    _runMove: function(move, isBackward) {
+    _getPiece: function(id) {
+        return this._jqBoard.find(['.piece[data-id=', id, ']'].join(''));
+    },
+    _removePiece: function(piece) {
+        this._getPiece(piece.id).remove();
+    },
+    _movePiece: function(piece, destCell, animate) {
+        var opt = this.options, position = utils.chess.coord.getCellPosition;
+        var newPos = position(opt.cellSize, destCell, opt.flippedBoard);
+        var jqPiece = this._getPiece(piece.id);
+        return animate ? jqPiece.animate(newPos) : jqPiece.css(newPos);
+    },
+    _runMove: function(moveTransactions, animate) {
+        moveTransactions.forEach(function(transaction) {
+            var piece = transaction.piece, destCell = transaction.destCell;
+            if (transaction.remove) {
+                this._removePiece(piece);
+            } else if (transaction.add) {
+                this._addPiece(piece);
+            } else if (transition.move) {
+                this._movePiece(piece, destCell, animate);
+            }
+        }, this);
     },
     moveForward: function(animate) {
-        var move = this.chessGame.moveForward();
-        if (move) {
-            this._runMove(move, animate);
+        var moveTransactions = this.chessGame.moveForward();
+        if (moveTransactions) {
+            this._runMove(moveTransactions, animate);
             return true;
         }
     },
     moveBackward: function(animate) {
-        var move = this.chessGame.moveBackward();
-        if (move) {
-            this._runMove(move, animate, true);
+        var moveTransactions = this.chessGame.moveBackward();
+        if (moveTransactions) {
+            this._runMove(moveTransactions, animate);
             return true;
         }
     },
@@ -495,6 +524,7 @@ ChessGameView.prototype = {
                 right: self.css('left')
             });
         });
+        this.options.flippedBoard = !this.options.flippedBoard;
     },
     _initEvents: function() {
         var self = this, links = self.options.links;
