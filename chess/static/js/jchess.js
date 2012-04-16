@@ -32,6 +32,8 @@
  * Array.prototype.reverse
  *
  * Object.keys
+ *
+ * String.prototype.indexOf
  */
 
 /*
@@ -83,26 +85,42 @@ var utils = {
                 ]
             },
             getPossibleSourceCells: function(move) {
-                var cells = [], vectors, piece = move.piece.toUpperCase();
+                var cells = [], vectors, piece = move.piece;
+                var file = move.destFile, rank = move.destRank;
                 if (piece === 'P') {
-
+                    if (move.capturing) {
+                        cells = [{ file: file - 1, rank: rank - 1 },
+                                 { file: file + 1, rank: rank - 1 }];
+                    }
+                    cells.push({ file: file, rank: rank - 1 });
+                    if (file === 3) {
+                        cells.push({ file: file, rank: rank - 2 });
+                    }
+                } else if (piece === 'p') {
+                    if (move.capturing) {
+                        cells = [{ file: file - 1, rank: rank + 1 },
+                                 { file: file + 1, rank: rank + 1 }];
+                    }
+                    cells.push({ file: file, rank: rank + 1 });
+                    if (file === 4) {
+                        cells.push({ file: file, rank: rank + 2 });
+                    }
                 } else {
-                    vectors = this.vectors[piece];
+                    vectors = this.vectors[piece.toUpperCase()];
                     vectors.forEach(function(vect) {
-                        var i, file, rank;
+                        var i;
                         for (i = -vect.limit; i <= vect.limit; i++) {
                             if (i === 0) { continue; }
 
-                            file = move.file + vect.x * i;
-                            rank = move.rank + vect.y * i;
-                            if (file >= 0 && file <= 7 && 
-                                rank >= 0 && rank <= 7) {
-                                cells.push({ file: file, rank: rank });
-                            }
+                            cells.push({ file: file + vect.x * i,
+                                         rank: rank + vect.y * i });
                         }
                     });
                 }
-                return cells;
+                return cells.filter(function(cell) {
+                    return cell.file >= 0 && cell.file <= 7 && 
+                           cell.rank >= 0 && cell.rank <= 7;
+                });
             },
             unicode: {
                 K: '\u2654',
@@ -180,9 +198,11 @@ var utils = {
 
 
 
-var Move = function(token) {
+var Move = function(token, player) {
     this.source = token;
     this.parseToken(token);
+    this.reduceFileAndRankToCoordinates();
+    this.reducePieceByPlayer(player);
 };
 Move.prototype = {
     constructor: Move,
@@ -221,6 +241,18 @@ Move.prototype = {
             if (RegExp.$2) {
                 this.nag = RegExp.$2;
             }
+        }
+    },
+    reduceFileAndRankToCoordinates: function() {
+        var files = 'abcdefgh';
+        this.destFile = files.indexOf(this.destFile);
+        this.destRank = this.destRank - 1;
+        this.srcFile = this.srcFile ? files.indexOf(this.srcFile) : null;
+        this.srcRank = this.srcRank ? this.srcRank - 1 : null;
+    },
+    reducePieceByPlayer: function(player) {
+        if (player) {
+            this.piece = this.piece.toLowerCase();
         }
     },
     addAnnotation: function(annotation) {
@@ -331,7 +363,8 @@ ChessNotation.prototype = {
             } else if (token.match(this.patterns.annotation)) {
                 leafNode.move.addAnnotation(RegExp.$1);
             } else {
-                moveNode = new MoveNode(new Move(token), moveNum, player);
+                moveNode = new MoveNode(new Move(token, player), 
+                                        moveNum, player);
 
                 if (newBranch) {
                     if (leafNode) {
@@ -354,9 +387,9 @@ ChessNotation.prototype = {
 };
 
 
-var ChessPiece = function(letter, file, rank, id) {
-    this.letter = letter;
-    this.color = letter.match(/[bknqrp]/) ? 'b' : 'w';
+var ChessPiece = function(piece, file, rank, id) {
+    this.piece = piece;
+    this.color = piece.match(/[bknqrp]/) ? 'b' : 'w';
     this.id = id;
     this.file = file;
     this.rank = rank;
@@ -364,10 +397,10 @@ var ChessPiece = function(letter, file, rank, id) {
 ChessPiece.prototype = {
     constructor: ChessPiece,
     toString: function() {
-        return this.letter;
+        return this.piece;
     },
     getClass: function() {
-        return this.color + this.letter;
+        return this.color + this.piece;
     }
 };
 
@@ -407,15 +440,34 @@ ChessBoard.prototype = {
         }, this._pieces);
         return pieces;
     },
-    getSourceCell: function(move) {
+    getSourcePiece: function(move) {
         var cells = utils.chess.pieces.getPossibleSourceCells(move);
-        return cells.filter(function(cell) {
-            var chessPiece = this._board[cell.file][cell.rank];
+        var cell = cells.filter(function(cell) {
+            var chessPiece = this._board[cell.rank][cell.file];
             return chessPiece && chessPiece.piece === move.piece &&
                    (!move.srcRank || move.srcRank === cell.rank) &&
                    (!move.srcFile || move.srcFile === cell.file);
-
         }, this)[0];
+        return cell && this._board[cell.rank][cell.file];
+    },
+    runMove: function(moveTransactions) {
+        moveTransactions.forEach(function(transaction) {
+            var piece = transaction.piece, destCell = transaction.destCell;
+            if (transaction.add) {
+                this._addPiece(piece);
+            } else if (transaction.move) {
+                this._movePiece(piece, destCell);
+            }
+        }, this);
+    },
+    getPiece: function(file, rank) {
+        return this._board[rank][file];
+    },
+    _movePiece: function(piece, destCell) {
+        this._board[destCell.rank][destCell.file] = piece;
+        this._board[piece.rank][piece.file] = null;
+        piece.rank = destCell.rank;
+        piece.file = destCell.file;
     },
     _numbersToDashes: function(piecePlacement) {
         return piecePlacement.replace(/\d/g, function(num) {
@@ -432,6 +484,7 @@ var ChessGame = function(options) {
         this.parsePgn(this.options.pgn);
         this.currentMove = this.notation.tree;
     }
+    console.log(this.board + '');
 };
 ChessGame.prototype = {
     constructor: ChessGame,
@@ -472,13 +525,26 @@ ChessGame.prototype = {
         }
     },
     isMovePossible: function(move) {
-        if (move.validated === true) {
+        // if (move.validated === true) {
             return true;
-        }
+        // }
 
-        return this.getMoveTransitions(move);
+        // return this.getMoveTransitions(move);
     },
-    getMoveTransitions: function() {
+    getMoveTransitions: function(move) {
+        var piece = this.board.getSourcePiece(move);
+        var transactions = [{ 
+            move: true, 
+            piece: piece, 
+            destCell: { file: move.destFile, rank: move.destRank }
+        }];
+        if (move.capturing) {
+            transactions.push({
+                remove: true,
+                piece: this.board.getPiece(move.destFile, move.destRank)
+            });
+        }
+        return transactions;
     },
     /*
      * moveForward (moveBackward) returns 
@@ -486,10 +552,13 @@ ChessGame.prototype = {
      *     otherwise returns false
      */
     moveForward: function() {
-        var move = this.currentMove.next;
-        if (this.isMovePossible(move)) {
-            this.currentMove = move;
-            return move;
+        var moveNode = this.currentMove, transactions;
+        if (this.isMovePossible(moveNode.move)) {
+            transactions = this.getMoveTransitions(moveNode.move);
+            this.currentMove = moveNode.next;
+            this.board.runMove(transactions);
+            console.log(this.board + '', moveNode.move + '');
+            return transactions;
         }
     },
     moveBackward: function() {
@@ -554,23 +623,26 @@ ChessGameView.prototype = {
     _getPiece: function(id) {
         return this._jqBoard.find(['.piece[data-id=', id, ']'].join(''));
     },
-    _removePiece: function(piece) {
-        this._getPiece(piece.id).remove();
+    _removePiece: function(piece, animate) {
+        piece = this._getPiece(piece.id);
+        $.when(animate ? piece.fadeOut('fast') : null).done(function() {
+            piece.remove();
+        });
     },
     _movePiece: function(piece, destCell, animate) {
         var opt = this.options, position = utils.chess.coord.getCellPosition;
         var newPos = position(opt.cellSize, destCell, opt.flippedBoard);
         var jqPiece = this._getPiece(piece.id);
-        return animate ? jqPiece.animate(newPos) : jqPiece.css(newPos);
+        return animate ? jqPiece.animate(newPos, 'fast') : jqPiece.css(newPos);
     },
     _runMove: function(moveTransactions, animate) {
         moveTransactions.forEach(function(transaction) {
             var piece = transaction.piece, destCell = transaction.destCell;
             if (transaction.remove) {
-                this._removePiece(piece);
+                this._removePiece(piece, animate);
             } else if (transaction.add) {
                 this._addPiece(piece);
-            } else if (transition.move) {
+            } else if (transaction.move) {
                 this._movePiece(piece, destCell, animate);
             }
         }, this);
@@ -615,12 +687,14 @@ ChessGameView.prototype = {
             self.flipBoard();
         }).on(click, links.nextMove, function(e) { 
             e.preventDefault();
-            self.moveForward();
+            self.moveForward(true);
         }).on(click, links.prevMove, function(e) { 
             e.preventDefault();
-            self.moveBackward();
+            self.moveBackward(true);
         });
-        jq.find(self.options.notation).html(self.chessGame.notation.html());
+        if (self.chessGame.notation) {
+            jq.find(self.options.notation).html(self.chessGame.notation.html());
+        }
     }
 };
 
