@@ -29,6 +29,7 @@
  * XXX REQUIRED:
  * Array.prototype.forEach
  * Array.prototype.map
+ * Array.prototype.filter
  * Array.prototype.reverse
  *
  * Object.keys
@@ -86,7 +87,7 @@ var utils = {
             },
             getPossibleSourceCells: function(move) {
                 var cells = [], vectors, piece = move.piece;
-                var file = move.destFile, rank = move.destRank;
+                var file = move.dest.file, rank = move.dest.rank;
                 if (piece === 'P') {
                     if (move.capturing) {
                         cells = [{ file: file - 1, rank: rank - 1 },
@@ -118,7 +119,7 @@ var utils = {
                     });
                 }
                 return cells.filter(function(cell) {
-                    return cell.file >= 0 && cell.file <= 7 && 
+                    return cell.file >= 0 && cell.file <= 7 &&
                            cell.rank >= 0 && cell.rank <= 7;
                 });
             },
@@ -189,7 +190,7 @@ var utils = {
         coord: {
             getCellPosition: function(cellSize, cell, isFlippedBoard) {
                 var x = cell.file * cellSize, y = cell.rank * cellSize;
-                return isFlippedBoard ? { top: y, right: x } 
+                return isFlippedBoard ? { top: y, right: x }
                                       : { bottom: y, left: x };
             }
         }
@@ -220,15 +221,19 @@ Move.prototype = {
             this.castlingSide = RegExp.$1 ? 'queen' : 'king';     // '-O'
         } else if (token.match(this.patterns.generalMove)) {
             this.piece = RegExp.$1 || 'P';                        // [BKNQR]?
-            this.srcFile = RegExp.$2;                             // [a-h]?
-            this.srcRank = RegExp.$3;                             // [1-8]?
+            this.src = {
+                file: RegExp.$2,                                  // [a-h]?
+                rank: RegExp.$3                                   // [1-8]?
+            };
             this.capturing = Boolean(RegExp.$4);                  // x?
-            this.destFile = RegExp.$5;                            // [a-h]
-            this.destRank = RegExp.$6;                            // [1-8]
+            this.dest = {
+                file: RegExp.$5,                                  // [a-h]
+                rank: RegExp.$6                                   // [1-8]
+            };
             if (RegExp.$7 && RegExp.$8 && this.piece === 'P') {   // \=?
                 this.pawnPromotion = RegExp.$8;                   // [BNQR]
             }
-        } else { 
+        } else {
             console.assert(false, 'Invalid move format');
         }
 
@@ -245,14 +250,17 @@ Move.prototype = {
     },
     reduceFileAndRankToCoordinates: function() {
         var files = 'abcdefgh';
-        this.destFile = files.indexOf(this.destFile);
-        this.destRank = this.destRank - 1;
-        this.srcFile = this.srcFile ? files.indexOf(this.srcFile) : null;
-        this.srcRank = this.srcRank ? this.srcRank - 1 : null;
+        this.dest.file = files.indexOf(this.dest.file);
+        this.dest.rank = this.dest.rank - 1;
+        this.src.file = this.src.file ? files.indexOf(this.src.file) : null;
+        this.src.rank = this.src.rank ? this.src.rank - 1 : null;
     },
     reducePieceByPlayer: function(player) {
         if (player) {
             this.piece = this.piece.toLowerCase();
+            if (this.pawnPromotion) {
+                this.pawnPromotion = this.pawnPromotion.toLowerCase();
+            }
         }
     },
     addAnnotation: function(annotation) {
@@ -363,7 +371,7 @@ ChessNotation.prototype = {
             } else if (token.match(this.patterns.annotation)) {
                 leafNode.move.addAnnotation(RegExp.$1);
             } else {
-                moveNode = new MoveNode(new Move(token, player), 
+                moveNode = new MoveNode(new Move(token, player),
                                         moveNum, player);
 
                 if (newBranch) {
@@ -426,6 +434,7 @@ ChessBoard.prototype = {
         });
         this._board = board;
         this._pieces = pieces;
+        this._countPieces = countPieces;
     },
     toString: function() {
         var board = this._board.slice().reverse().map(function(row) {
@@ -443,25 +452,29 @@ ChessBoard.prototype = {
     getSourcePiece: function(move) {
         var cells = utils.chess.pieces.getPossibleSourceCells(move);
         var cell = cells.filter(function(cell) {
-            var chessPiece = this._board[cell.rank][cell.file];
+            var chessPiece = this.getPiece(cell);
             return chessPiece && chessPiece.piece === move.piece &&
-                   (!move.srcRank || move.srcRank === cell.rank) &&
-                   (!move.srcFile || move.srcFile === cell.file);
+                   (!move.src.rank || move.src.rank === cell.rank) &&
+                   (!move.src.file || move.src.file === cell.file);
         }, this)[0];
         return cell && this._board[cell.rank][cell.file];
     },
-    runMove: function(moveTransactions) {
-        moveTransactions.forEach(function(transaction) {
-            var piece = transaction.piece, destCell = transaction.destCell;
-            if (transaction.add) {
+    runMove: function(moveTransitions) {
+        moveTransitions.forEach(function(transition) {
+            var piece = transition.piece, destCell = transition.destCell;
+            if (transition.add) {
                 this._addPiece(piece);
-            } else if (transaction.move) {
+            } else if (transition.move) {
                 this._movePiece(piece, destCell);
             }
         }, this);
     },
-    getPiece: function(file, rank) {
-        return this._board[rank][file];
+    getPiece: function(cell) {
+        return this._board[cell.rank][cell.file];
+    },
+    addPiece: function(piece, cell) {
+        piece = new ChessPiece(piece, cell.file, cell.rank, ++this._countPieces);
+        return this._board[piece.rank][piece.file] = piece;
     },
     _movePiece: function(piece, destCell) {
         this._board[destCell.rank][destCell.file] = piece;
@@ -531,41 +544,60 @@ ChessGame.prototype = {
 
         // return this.getMoveTransitions(move);
     },
-    getMoveTransitions: function(move) {
+    getForwardTransitions: function(move) {
         var piece = this.board.getSourcePiece(move);
-        var transactions = [{ 
-            move: true, 
-            piece: piece, 
-            destCell: { file: move.destFile, rank: move.destRank }
+        var transitions = [{
+            move: true,
+            piece: piece,
+            destCell: move.dest
         }];
         if (move.capturing) {
-            transactions.push({
+            transitions.push({
                 remove: true,
-                piece: this.board.getPiece(move.destFile, move.destRank)
+                piece: this.board.getPiece(move.dest)
             });
         }
-        return transactions;
+        if (move.pawnPromotion) {
+            transitions.push({
+                add: true,
+                piece: this.board.addPiece(move.pawnPromotion, move.dest)
+            });
+        }
+        if (move.castling) {
+            // TODO
+        }
+        return transitions;
+    },
+    getBackwardTransitions: function(move) {
+        var transitions = [{
+            move: true,
+            piece: piece,
+            destCell: move.dest
+        }];
     },
     /*
-     * moveForward (moveBackward) returns 
+     * moveForward (moveBackward) returns
      *     move object if forward (backward) move exists in notation
      *     otherwise returns false
      */
     moveForward: function() {
-        var moveNode = this.currentMove, transactions;
-        if (this.isMovePossible(moveNode.move)) {
-            transactions = this.getMoveTransitions(moveNode.move);
+        var moveNode = this.currentMove, transitions;
+        if (moveNode && this.isMovePossible(moveNode.move)) {
+            transitions = this.getForwardTransitions(moveNode.move);
             this.currentMove = moveNode.next;
-            this.board.runMove(transactions);
+            this.board.runMove(transitions);
             console.log(this.board + '', moveNode.move + '');
-            return transactions;
+            return transitions;
         }
     },
     moveBackward: function() {
-        var move = this.currentMove.prev;
-        if (this.isMovePossible(move)) {
-            this.currentMove = move;
-            return move;
+        var moveNode = this.currentMove, transitions;
+        if (moveNode && this.isMovePossible(moveNode.move)) {
+            transitions = this.getBackwardTransitions(moveNode.move);
+            this.currentMove = moveNode.prev;
+            this.board.runMove(transitions);
+            console.log(this.board + '', moveNode.prev + '');
+            return transitions;
         }
     }
 };
@@ -604,7 +636,7 @@ ChessGameView.prototype = {
             jqBoard = this._jqWrapper;
         } else {
             jqBoard = this._jqWrapper.find(boardSelector);
-            jqBoard = jqBoard.size() ? jqBoard : 
+            jqBoard = jqBoard.size() ? jqBoard :
                 $('<div/>').addClass(boardClass).appendTo(this._jqWrapper);
         }
         this._jqBoard = jqBoard;
@@ -612,7 +644,11 @@ ChessGameView.prototype = {
     _initPieces: function(pieces) {
         pieces.forEach(this._addPiece, this);
     },
-    _addPiece: function(piece) {
+    _addPiece: function(piece, animate) {
+        var hiddenPiece = this._getPiece(piece.id);
+        if (hiddenPiece.size()) {
+            if (animate) { piece.fadeIn('fast'); } else { piece.show(); }
+        }
         var opt = this.options, position = utils.chess.coord.getCellPosition;
         var classes = [opt.pieceClass, piece.getClass()].join(' ');
         var jqPiece = $('<div/>').addClass(classes);
@@ -625,9 +661,7 @@ ChessGameView.prototype = {
     },
     _removePiece: function(piece, animate) {
         piece = this._getPiece(piece.id);
-        $.when(animate ? piece.fadeOut('fast') : null).done(function() {
-            piece.remove();
-        });
+        if (animate) { piece.fadeOut('fast'); } else { piece.hide(); }
     },
     _movePiece: function(piece, destCell, animate) {
         var opt = this.options, position = utils.chess.coord.getCellPosition;
@@ -635,37 +669,37 @@ ChessGameView.prototype = {
         var jqPiece = this._getPiece(piece.id);
         return animate ? jqPiece.animate(newPos, 'fast') : jqPiece.css(newPos);
     },
-    _runMove: function(moveTransactions, animate) {
-        moveTransactions.forEach(function(transaction) {
-            var piece = transaction.piece, destCell = transaction.destCell;
-            if (transaction.remove) {
+    _runMove: function(moveTransitions, animate) {
+        moveTransitions.forEach(function(transition) {
+            var piece = transition.piece, destCell = transition.destCell;
+            if (transition.remove) {
                 this._removePiece(piece, animate);
-            } else if (transaction.add) {
+            } else if (transition.add) {
                 this._addPiece(piece);
-            } else if (transaction.move) {
+            } else if (transition.move) {
                 this._movePiece(piece, destCell, animate);
             }
         }, this);
     },
     moveForward: function(animate) {
-        var moveTransactions = this.chessGame.moveForward();
-        if (moveTransactions) {
-            this._runMove(moveTransactions, animate);
+        var moveTransitions = this.chessGame.moveForward();
+        if (moveTransitions) {
+            this._runMove(moveTransitions, animate);
             return true;
         }
     },
     moveBackward: function(animate) {
-        var moveTransactions = this.chessGame.moveBackward();
-        if (moveTransactions) {
-            this._runMove(moveTransactions, animate);
+        var moveTransitions = this.chessGame.moveBackward();
+        if (moveTransitions) {
+            this._runMove(moveTransitions, animate);
             return true;
         }
     },
-    moveToFirst: function() {
-        while (this.moveBackward(false)) {}
+    moveToFirst: function(animate) {
+        while (this.moveBackward(animate || false)) {}
     },
-    moveToLast: function() {
-        while (this.moveForward(false)) {}
+    moveToLast: function(animate) {
+        while (this.moveForward(animate || false)) {}
     },
     flipBoard: function() {
         this._jqBoard.find('.' + this.options.pieceClass).each(function() {
@@ -682,13 +716,13 @@ ChessGameView.prototype = {
     _initEvents: function() {
         var self = this, links = self.options.links;
         var jq = self._jqWrapper, click = 'click.chess';
-        jq.on(click, links.flipBoard, function(e) { 
+        jq.on(click, links.flipBoard, function(e) {
             e.preventDefault();
             self.flipBoard();
-        }).on(click, links.nextMove, function(e) { 
+        }).on(click, links.nextMove, function(e) {
             e.preventDefault();
             self.moveForward(true);
-        }).on(click, links.prevMove, function(e) { 
+        }).on(click, links.prevMove, function(e) {
             e.preventDefault();
             self.moveBackward(true);
         });
@@ -892,7 +926,7 @@ $.fn.chessGame = function(options) {
                     if (result === null) {
                         break;
                     }
-                    if (result[0].piece === targetPiece) { 
+                    if (result[0].piece === targetPiece) {
                         return result[1];
                     }
                     if (result[0] !== '-') {
