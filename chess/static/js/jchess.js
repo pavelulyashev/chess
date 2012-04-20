@@ -94,7 +94,7 @@ var utils = {
                                  { file: file + 1, rank: rank - 1 }];
                     }
                     cells.push({ file: file, rank: rank - 1 });
-                    if (file === 3) {
+                    if (rank === 3) {
                         cells.push({ file: file, rank: rank - 2 });
                     }
                 } else if (piece === 'p') {
@@ -103,7 +103,7 @@ var utils = {
                                  { file: file + 1, rank: rank + 1 }];
                     }
                     cells.push({ file: file, rank: rank + 1 });
-                    if (file === 4) {
+                    if (rank === 4) {
                         cells.push({ file: file, rank: rank + 2 });
                     }
                 } else {
@@ -303,22 +303,24 @@ MoveNode.prototype = {
     },
     addNext: function(moveNode) {
         var numbersDiff = moveNode.number - this.number;
-        console.assert(this.player !== moveNode.player,
+        console.assert(this.player === undefined || 
+                       this.player !== moveNode.player,
                        'Consequtive moves for one player', this, moveNode);
-        console.assert(this.player === 0 && numbersDiff === 0 ||
+        console.assert(this.player === undefined || 
+                       this.player === 0 && numbersDiff === 0 ||
                        this.player === 1 && numbersDiff === 1,
                        'Invalid numbers for consequtive moves', this, moveNode);
         this.next = moveNode;
         moveNode.prev = this;
     },
     addVariation: function(moveNode) {
-        if (this.variations === undefined) {
-            this.variations = [moveNode];
-        } else {
-            this.variations.push(moveNode);
-        }
-        moveNode.prev = this;
+        var parent = this;
+        while (parent.variation) { parent = parent.variation; }
+        parent.variation = moveNode;
+        moveNode.prev = this.prev;
         moveNode.nesting = this.nesting + 1;
+
+        this.variations = (this.variations || []).concat(moveNode);
     }
 };
 
@@ -330,11 +332,11 @@ var ChessNotation = function(pgn) {
 ChessNotation.prototype = {
     constructor: ChessNotation,
     toString: function() {
-        return [this.tree.toString(), this.result].join(' ');
+        return [this.tree.next.toString(), this.result].join(' ');
     },
     html: function() {
         var result = '<span class="result">' + this.result + '</span>';
-        return [this.tree.toString(true), result].join(' ');
+        return [this.tree.next.toString(true), result].join(' ');
     },
     patterns: {
         split: /(\{[^}]*\})|[()]|([^\s()]+)/g,
@@ -354,6 +356,7 @@ ChessNotation.prototype = {
     createVariantsTree: function(tokens) {
         var i = 0, token, roots = [];
         var rootNode, leafNode, moveNum, player, moveNode, newBranch = true;
+        this.tree = new MoveNode();
 
         while ((token = tokens[i++])) {
             if (token.match(this.patterns.number)) {
@@ -363,7 +366,7 @@ ChessNotation.prototype = {
                 newBranch = true;
             } else if (token === ')') {
                 newBranch = false;
-                leafNode = rootNode.prev;
+                leafNode = rootNode.prev.next;
                 roots.pop();
                 rootNode = roots[roots.length - 1];
             } else if (token.match(this.patterns.result)) {
@@ -378,7 +381,7 @@ ChessNotation.prototype = {
                     if (leafNode) {
                         leafNode.addVariation(moveNode);
                     } else {
-                        this.tree = leafNode = moveNode;
+                        this.tree.addNext(leafNode = moveNode);
                     }
                     roots.push(leafNode = rootNode = moveNode);
                     newBranch = false;
@@ -389,8 +392,6 @@ ChessNotation.prototype = {
                 player = player ^ 1;
             }
         }
-        // TODO
-        // this.movesCount
     }
 };
 
@@ -466,6 +467,8 @@ ChessBoard.prototype = {
                 this._addPiece(piece);
             } else if (transition.move) {
                 this._movePiece(piece, destCell);
+            } else if (transition.promote) {
+                this._promotePiece(piece, transition.changeBy);
             }
         }, this);
     },
@@ -480,6 +483,10 @@ ChessBoard.prototype = {
         this._board[piece.rank][piece.file] = null;
         piece.rank = destCell.rank;
         piece.file = destCell.file;
+    },
+    _promotePiece: function(piece, changeBy) {
+        piece.oldClass = piece.getClass();
+        piece.piece = changeBy;
     },
     _numbersToDashes: function(piecePlacement) {
         return piecePlacement.replace(/\d/g, function(num) {
@@ -556,9 +563,10 @@ ChessGame.prototype = {
             });
         }
         if (move.pawnPromotion) {
+            move.originalPiece = move.piece;
             transitions.push({
                 promote: true,
-                piece: this.board.getPiece(move.piece),
+                piece: piece,
                 changeBy: move.pawnPromotion
             });
         }
@@ -582,8 +590,8 @@ ChessGame.prototype = {
         if (move.pawnPromotion) {
             transitions.push({
                 promote: true,
-                piece: this.board.getPiece(move.piece),
-                changeBy: move.piece
+                piece: this.board.getPiece(move.dest),
+                changeBy: move.originalPiece
             });
         }
         return transitions;
@@ -594,24 +602,37 @@ ChessGame.prototype = {
      *     otherwise returns false
      */
     moveForward: function() {
-        var moveNode = this.currentMove, transitions;
-        if (moveNode.move && this.isMovePossible(moveNode.move)) {
+        var moveNode = this.currentMove.next, transitions;
+        if (moveNode && this.isMovePossible(moveNode.move)) {
             transitions = this.getForwardTransitions(moveNode.move);
-            this.currentMove = moveNode.next || { prev: moveNode };
+            this.currentMove = moveNode;
             this.board.runMove(transitions);
             console.log(this.board + '', moveNode.move + '');
             return transitions;
         }
     },
     moveBackward: function() {
-        var moveNode = this.currentMove.prev, transitions;
-        if (moveNode && this.isMovePossible(moveNode.move)) {
+        var moveNode = this.currentMove, transitions;
+        if (moveNode.move && this.isMovePossible(moveNode.move)) {
             transitions = this.getBackwardTransitions(moveNode.move);
+            this.currentMove = moveNode.prev;
+            this.board.runMove(transitions);
+            console.log(this.board + '', moveNode.move + '');
+            return transitions;
+        }
+    },
+    moveNextVariation: function(moveNode) {
+        var transitions;
+        if (moveNode && this.isMovePossible(moveNode.move)) {
+            transitions = this.getForwardTransitions(moveNode.move);
             this.currentMove = moveNode;
             this.board.runMove(transitions);
             console.log(this.board + '', moveNode.move + '');
             return transitions;
         }
+    },
+    variationExists: function() {
+        return this.currentMove.variation;
     }
 };
 
@@ -637,6 +658,7 @@ ChessGameView.prototype = {
             prevMove: '.prev-move',
             firstMove: '.first-move',
             lastMove: '.last-move',
+            nextVariation: '.next-variation',
             flipBoard: '.flip-board'
         },
         notation: '.chess-notation'
@@ -682,6 +704,10 @@ ChessGameView.prototype = {
         var jqPiece = this._getPiece(piece.id);
         return animate ? jqPiece.animate(newPos, 'fast') : jqPiece.css(newPos);
     },
+    _promotePiece: function(piece) {
+        var jqPiece = this._getPiece(piece.id);
+        jqPiece.removeClass(piece.oldClass).addClass(piece.getClass());
+    },
     _runMove: function(moveTransitions, animate) {
         moveTransitions.forEach(function(transition) {
             var piece = transition.piece, destCell = transition.destCell;
@@ -691,6 +717,8 @@ ChessGameView.prototype = {
                 this._addPiece(piece);
             } else if (transition.move) {
                 this._movePiece(piece, destCell, animate);
+            } else if (transition.promote) {
+                this._promotePiece(piece);
             }
         }, this);
     },
@@ -706,6 +734,16 @@ ChessGameView.prototype = {
         if (moveTransitions) {
             this._runMove(moveTransitions, animate);
             return true;
+        }
+    },
+    moveNextVariation: function(animate) {
+        var variation = this.chessGame.variationExists();
+        if (variation && this.moveBackward()) {
+            var moveTransitions = this.chessGame.moveNextVariation(variation);
+            if (moveTransitions) {
+                this._runMove(moveTransitions, animate);
+                return true;
+            }
         }
     },
     moveToFirst: function(animate) {
@@ -738,6 +776,15 @@ ChessGameView.prototype = {
         }).on(click, links.prevMove, function(e) {
             e.preventDefault();
             self.moveBackward(true);
+        }).on(click, links.firstMove, function(e) {
+            e.preventDefault();
+            self.moveToFirst(false);
+        }).on(click, links.lastMove, function(e) {
+            e.preventDefault();
+            self.moveToLast(false);
+        }).on(click, links.nextVariation, function(e) {
+            e.preventDefault();
+            self.moveNextVariation(true);
         });
         if (self.chessGame.notation) {
             jq.find(self.options.notation).html(self.chessGame.notation.html());

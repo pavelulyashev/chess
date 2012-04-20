@@ -17,11 +17,14 @@
   <div class="etude-detail" data-fen="{{ etude.fen }}" data-cell-size="64" data-pgn="{{ etude.moves }}">
     <div class="pull-left chess-board board64"></div>
     <div class="pull-left">
-      <div>
-        <a class="prev-move" href="#">Backward</a>
-        <a class="next-move" href="#">Forward</a>
-        <a class="flip-board" href="#">Flip Board</a>
-      </div>
+      <ul>
+        <li><a class="first-move" href="#">Step To First</a></li>
+        <li><a class="prev-move" href="#">Backward</a></li>
+        <li><a class="next-move" href="#">Forward</a></li>
+        <li><a class="last-move" href="#">Step To Last</a></li>
+        <li><a class="next-variation" href="#">Variation</a></li>
+        <li><a class="flip-board" href="#">Flip Board</a></li>
+      </ul>
       <div class="description">
         <span class="author">{{ etude.get_authors }}</span> -
         <span class="year">{{ etude.year }}</span>
