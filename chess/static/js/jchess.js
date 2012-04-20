@@ -472,9 +472,8 @@ ChessBoard.prototype = {
     getPiece: function(cell) {
         return this._board[cell.rank][cell.file];
     },
-    addPiece: function(piece, cell) {
-        piece = new ChessPiece(piece, cell.file, cell.rank, ++this._countPieces);
-        return this._board[piece.rank][piece.file] = piece;
+    _addPiece: function(piece) {
+        return (this._board[piece.rank][piece.file] = piece);
     },
     _movePiece: function(piece, destCell) {
         this._board[destCell.rank][destCell.file] = piece;
@@ -538,11 +537,7 @@ ChessGame.prototype = {
         }
     },
     isMovePossible: function(move) {
-        // if (move.validated === true) {
-            return true;
-        // }
-
-        // return this.getMoveTransitions(move);
+        return true;
     },
     getForwardTransitions: function(move) {
         var piece = this.board.getSourcePiece(move);
@@ -551,16 +546,20 @@ ChessGame.prototype = {
             piece: piece,
             destCell: move.dest
         }];
+        move.src.file = piece.file;
+        move.src.rank = piece.rank;
+
         if (move.capturing) {
             transitions.push({
                 remove: true,
-                piece: this.board.getPiece(move.dest)
+                piece: (move.capturedPiece = this.board.getPiece(move.dest))
             });
         }
         if (move.pawnPromotion) {
             transitions.push({
-                add: true,
-                piece: this.board.addPiece(move.pawnPromotion, move.dest)
+                promote: true,
+                piece: this.board.getPiece(move.piece),
+                changeBy: move.pawnPromotion
             });
         }
         if (move.castling) {
@@ -571,9 +570,23 @@ ChessGame.prototype = {
     getBackwardTransitions: function(move) {
         var transitions = [{
             move: true,
-            piece: piece,
-            destCell: move.dest
+            piece: this.board.getPiece(move.dest),
+            destCell: move.src
         }];
+        if (move.capturing) {
+            transitions.push({
+                add: true,
+                piece: move.capturedPiece
+            });
+        }
+        if (move.pawnPromotion) {
+            transitions.push({
+                promote: true,
+                piece: this.board.getPiece(move.piece),
+                changeBy: move.piece
+            });
+        }
+        return transitions;
     },
     /*
      * moveForward (moveBackward) returns
@@ -582,21 +595,21 @@ ChessGame.prototype = {
      */
     moveForward: function() {
         var moveNode = this.currentMove, transitions;
-        if (moveNode && this.isMovePossible(moveNode.move)) {
+        if (moveNode.move && this.isMovePossible(moveNode.move)) {
             transitions = this.getForwardTransitions(moveNode.move);
-            this.currentMove = moveNode.next;
+            this.currentMove = moveNode.next || { prev: moveNode };
             this.board.runMove(transitions);
             console.log(this.board + '', moveNode.move + '');
             return transitions;
         }
     },
     moveBackward: function() {
-        var moveNode = this.currentMove, transitions;
+        var moveNode = this.currentMove.prev, transitions;
         if (moveNode && this.isMovePossible(moveNode.move)) {
             transitions = this.getBackwardTransitions(moveNode.move);
-            this.currentMove = moveNode.prev;
+            this.currentMove = moveNode;
             this.board.runMove(transitions);
-            console.log(this.board + '', moveNode.prev + '');
+            console.log(this.board + '', moveNode.move + '');
             return transitions;
         }
     }
@@ -647,7 +660,7 @@ ChessGameView.prototype = {
     _addPiece: function(piece, animate) {
         var hiddenPiece = this._getPiece(piece.id);
         if (hiddenPiece.size()) {
-            if (animate) { piece.fadeIn('fast'); } else { piece.show(); }
+            return animate ? hiddenPiece.fadeIn('fast') : hiddenPiece.show();
         }
         var opt = this.options, position = utils.chess.coord.getCellPosition;
         var classes = [opt.pieceClass, piece.getClass()].join(' ');
