@@ -24,7 +24,7 @@
  */
 
 
-
+(function($) {
 /*
  * XXX REQUIRED:
  * Array.prototype.forEach
@@ -786,6 +786,23 @@ ChessGameView.prototype = {
             e.preventDefault();
             self.moveNextVariation(true);
         });
+        $(document).on('keyup.chess', function(e) {
+            if (e.keyCode === 37) {             // Left arrow
+                if (e.shiftKey) {
+                    self.moveToFirst(false);
+                } else {
+                    self.moveBackward(true);
+                }
+            } else if (e.keyCode === 39) {      // Right arrow
+                if (e.shiftKey) {
+                    self.moveToLast(false);
+                } else {
+                    self.moveForward(true);
+                }
+            } else if (e.keyCode === 40) {      // Down arrow
+                self.moveNextVariation(true);
+            }
+        });
         if (self.chessGame.notation) {
             jq.find(self.options.notation).html(self.chessGame.notation.html());
         }
@@ -794,7 +811,6 @@ ChessGameView.prototype = {
 
 
 
-(function($) {
 $.fn.chessGame = function(options) {
     console.time('chess init');
     this.each(function() {
@@ -822,31 +838,6 @@ $.fn.chessGame = function(options) {
 
     $.extend({}, {
         prototype: {
-            // Example transitions
-            // ["m:50:e2:6,1"]
-            // ["a:50:P:e4", "m:6:4,1:c7"]
-            // ["r:50", "m:6:d7:d8"]
-            runTransitions: function(transitions) {
-                var self = this;
-                $.each(transitions, function(i, transition) {
-                    var pieces = transition.split(':');
-                    var transitionType = pieces[0];
-                    var id = pieces[1];
-
-                    switch(transitionType) {
-                        case 'r':
-                            self.removeDomPiece(id);
-                            break;
-                        case 'm':
-                            self.moveDomPiece(id, { from: pieces[2], to: pieces[3] });
-                            break;
-                        case 'a':
-                            self.addDomPiece(id, pieces[2], pieces[3]);
-                            break;
-                    }
-
-                });
-            },
             validateFen: function(fen) {
                 var pattern = /\s*([rnbqkpRNBQKP12345678]+\/){7}([rnbqkpRNBQKP12345678]+)\s[bw\-]\s(([kqKQ]{1,4})|(\-))\s(([a-h][1-8])|(\-))\s\d+\s\d+\s*/;
                 return pattern.test(fen);
@@ -1020,75 +1011,8 @@ $.fn.chessGame = function(options) {
                     return piece;
                 }
                 return null;
-            },
-            /* Utility Functions */
-            algebraic2Coord: function(algebraic) {
-                return [this.rank2Row(algebraic.substr(1, 1)), this.file2Col(algebraic.substr(0, 1))];
-            },
-
-            coord2Algebraic: function(row, col) {
-                return this.col2File(col) + this.row2Rank(row);
-            },
-            col2File: function(col) {
-                return String.fromCharCode( col + ('a').charCodeAt(0) );
-            },
-           /* Definitions of pieces */
-            pieces: {
-                R: {
-                    vectors: [
-                        { x: 0, y: 1, limit: 8 },
-                        { x: 1, y: 0, limit: 8 },
-                        { x: 0, y: -1, limit: 8 },
-                        { x: -1, y: 0, limit: 8 }
-                    ]
-                },
-                N: {
-                    vectors: [
-                        { x: 1, y: 2, limit: 1 },
-                        { x: 2, y: 1, limit: 1 },
-                        { x: 2, y: -1, limit: 1 },
-                        { x: 1, y: -2, limit: 1 },
-                        { x: -1, y: -2, limit: 1 },
-                        { x: -2, y: -1, limit: 1 },
-                        { x: -2, y: 1, limit: 1 },
-                        { x: -1, y: 2, limit: 1 }
-                    ]
-                },
-                B: {
-                    vectors: [
-                        { x: 1, y: 1, limit: 8 },
-                        { x: 1, y: -1, limit: 8 },
-                        { x: -1, y: -1, limit: 8 },
-                        { x: -1, y: 1, limit: 8 }
-                    ]
-                },
-                Q: {
-                    vectors: [
-                        { x: 0, y: 1, limit: 8 },
-                        { x: 1, y: 0, limit: 8 },
-                        { x: 0, y: -1, limit: 8 },
-                        { x: -1, y: 0, limit: 8 },
-
-                        { x: 1, y: 1, limit: 8 },
-                        { x: 1, y: -1, limit: 8 },
-                        { x: -1, y: -1, limit: 8 },
-                        { x: -1, y: 1, limit: 8 }
-                    ]
-                },
-                K: {
-                    vectors: [
-                        { x: 0, y: 1, limit: 1 },
-                        { x: 1, y: 0, limit: 1 },
-                        { x: 0, y: -1, limit: 1 },
-                        { x: -1, y: 0, limit: 1 },
-
-                        { x: 1, y: 1, limit: 1 },
-                        { x: 1, y: -1, limit: 1 },
-                        { x: -1, y: -1, limit: 1 },
-                        { x: -1, y: 1, limit: 1 }
-                    ]
-                }
             }
+            
         }
     });
 })(jQuery);
