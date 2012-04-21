@@ -55,6 +55,9 @@
 var utils = {
     extend: $.extend,
     trim: $.trim,
+    random: function() {
+        return Math.ceil(Math.random() * 1e5);
+    },
     chess: {
         pieces: {
             vectors: {
@@ -295,7 +298,7 @@ MoveNode.prototype = {
     },
     html: function() {
         var classes = ['move', this.player ? 'black' : 'white',
-                       'nesting-' + this.nesting].join(' ');
+                       'nesting-' + this.nesting, this.getClass()].join(' ');
         return ['<span class="', classes, '">', this.move, '</span>'].join('');
     },
     getNumberToken: function() {
@@ -321,6 +324,9 @@ MoveNode.prototype = {
         moveNode.nesting = this.nesting + 1;
 
         this.variations = (this.variations || []).concat(moveNode);
+    },
+    getClass: function() {
+        return this._class || (this._class = 'move-' + utils.random());
     }
 };
 
@@ -722,10 +728,15 @@ ChessGameView.prototype = {
             }
         }, this);
     },
+    _highlightMove: function(move) {
+        this._jqNotation.find('.move.active').removeClass('active');
+        this._jqNotation.find('.' + move.getClass()).addClass('active');
+    },
     moveForward: function(animate) {
         var moveTransitions = this.chessGame.moveForward();
         if (moveTransitions) {
             this._runMove(moveTransitions, animate);
+            this._highlightMove(this.chessGame.currentMove);
             return true;
         }
     },
@@ -733,6 +744,7 @@ ChessGameView.prototype = {
         var moveTransitions = this.chessGame.moveBackward();
         if (moveTransitions) {
             this._runMove(moveTransitions, animate);
+            this._highlightMove(this.chessGame.currentMove);
             return true;
         }
     },
@@ -742,6 +754,7 @@ ChessGameView.prototype = {
             var moveTransitions = this.chessGame.moveNextVariation(variation);
             if (moveTransitions) {
                 this._runMove(moveTransitions, animate);
+                this._highlightMove(this.chessGame.currentMove);
                 return true;
             }
         }
@@ -803,8 +816,9 @@ ChessGameView.prototype = {
                 self.moveNextVariation(true);
             }
         });
+        this._jqNotation = jq.find(self.options.notation);
         if (self.chessGame.notation) {
-            jq.find(self.options.notation).html(self.chessGame.notation.html());
+            this._jqNotation.html(self.chessGame.notation.html());
         }
     }
 };
