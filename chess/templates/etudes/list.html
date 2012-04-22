@@ -17,7 +17,7 @@
         <div class="etude-preview" data-fen="{{ etude.fen }}" data-cell-size="24" data-result="{{ etude.result }}">
           <a href="{% url etude_detail author.slug etude.id %}/"><div class="chess-board board24"></div></a>
           <div class="description">
-              <span class="author">{{ etude.get_authors }}</span> -
+              <span class="author">{{ etude.get_authors_short }}</span> -
               <span class="year">{{ etude.year }}</span>
               <span class="result">{{ etude.get_result }}</span>
           </div>

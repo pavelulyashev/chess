@@ -1,0 +1,138 @@
+@import "elements";
+
+
+ul, li {
+  list-style-type: none;
+  margin: 0;
+}
+.etudes-list-without-scroll {
+  width: 790px;
+  height: 500px;
+  overflow-y: auto;
+}
+.etudes-list-container {
+  width: 750px;
+  margin: auto;
+}
+
+.etude-cell {
+  padding: 16px 29px 16px;
+  float: left;
+
+  &.light {
+    background-color: #fefefe;
+  }
+  &.dark {
+    background-color: #fafafa;
+  }
+  &:hover {
+    background-color: #efefef;
+  }
+}
+
+.etude-preview {
+  margin: auto;
+
+  .description {
+    margin: 10px 0 0;
+    font-size: 12px;
+    font-weight: bold;
+    height: 14px;
+
+    .result {
+      float: right;
+    }
+  }
+}
+
+.etude-detail {
+  .etude-problem {
+    display: table;
+    margin: auto;  
+
+    .inner {
+      display: table-cell;
+
+      .description {
+        font-size: 25px;
+        font-weight: bold;
+        color: #555;
+        margin: 20px 0;
+      }
+    }
+
+  }
+  .etude-solution {
+    display: none;    
+  }
+
+  .slide-link {
+    display: table-cell;
+    vertical-align: middle;
+    cursor: pointer;
+
+    .link {
+      position: relative;
+      left: -65px;
+      font-size: 20px;
+      color: #bbb;
+      white-space: nowrap;
+      padding: 10px;
+
+      i { 
+        visibility: hidden;
+        display: inline-block;
+        margin: 4px;
+      } 
+
+      &:hover { 
+        background-color: #ededed;
+
+        i { visibility: visible; }
+      }
+
+      &.spoiler-reveal {
+        .rotation(90deg);
+      }
+      &.spoiler-hide {
+        .rotation(270deg);
+      }
+    }
+  }
+
+  &.solution-opened {
+    .etude-problem {
+      display: block;
+      float: left;
+        
+      .slide-link, .description {
+        display: none;
+      }
+    }
+    .etude-solution {
+      display: block;
+      float: left;
+      margin: 0 30px;
+
+      .inner {
+        display: table-cell;
+
+        .description {
+          margin: 0 0 20px;
+          font-size: 20px;
+        }
+        .chess-notation {
+          display: block;    
+          width: 300px;
+          margin: 0 0 20px;
+          word-wrap: normal;
+          word-break: normal;
+        }
+        .navigation .btn {
+          margin: 0 3px;     
+          padding: 4px 14px;
+        }
+      }
+    }
+  }
+}

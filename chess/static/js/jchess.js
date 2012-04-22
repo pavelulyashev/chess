@@ -760,10 +760,14 @@ ChessGameView.prototype = {
         }
     },
     moveToFirst: function(animate) {
+        console.time('moveToFirst');
         while (this.moveBackward(animate || false)) {}
+        console.timeEnd('moveToFirst');
     },
     moveToLast: function(animate) {
+        console.time('moveToLast');
         while (this.moveForward(animate || false)) {}
+        console.timeEnd('moveToLast');
     },
     flipBoard: function() {
         this._jqBoard.find('.' + this.options.pieceClass).each(function() {

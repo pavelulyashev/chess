@@ -1,12 +1,9 @@
 {% extends "base.html" %}
 
-{% load notation_tags %}
-
 
 {% block extra_head %}
   <link rel="stylesheet/less" type="text/css" media="all" href="{{ STATIC_URL }}css/chess.less" />
   <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-1.7.2.min.js"></script>
-  <!-- <script type="text/javascript" src="{{ STATIC_URL }}js/jchess-0.1.0.js"></script> -->
   <script type="text/javascript" src="{{ STATIC_URL }}js/jchess.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/app_chess.js"></script>
 
@@ -15,22 +12,52 @@
 {% block content %}
 <div class="etude-detail-container">
   <div class="etude-detail" data-fen="{{ etude.fen }}" data-cell-size="64" data-pgn="{{ etude.moves }}">
-    <div class="pull-left chess-board board64"></div>
-    <div class="pull-left">
-      <div>
-        <a class="btn first-move" href="#" title="To First"><i class="icon-fast-backward"></i></a>
-        <a class="btn prev-move" href="#" title="Backward"><i class="icon-backward"></i></a>
-        <a class="btn next-move" href="#" title="Forward"><i class="icon-forward"></i></a>
-        <a class="btn last-move" href="#" title="To Last"><i class="icon-fast-forward"></i></a>
-        <a class="btn next-variation" href="#" title="Variation"><i class="icon-random"></i></a>
-        <a class="btn flip-board" href="#" title="Flip Board"><i class="icon-retweet"></i></a>
+    <div class="etude-problem">
+      <div class="inner">
+        <div class="chess-board board64"></div>
+        <div class="description clearfix">
+            <span class="author">{{ etude.get_authors }}</span> -
+            <span class="year">{{ etude.year }}</span>
+            <span class="result pull-right">{{ etude.get_result }}</span>
+        </div>
       </div>
-      <div class="description">
-        <span class="author">{{ etude.get_authors }}</span> -
-        <span class="year">{{ etude.year }}</span>
-        <span class="result">{{ etude.get_result }}</span>
+
+      <div class="slide-link">
+        <div class="spoiler-reveal link">
+          <i class="icon-eject"></i>
+          Show Solution
+          <i class="icon-eject"></i>
+        </div>
       </div>
-      <pre class="chess-notation">{{ etude.moves|humanize_nag }}</pre>
+    </div>
+
+    <div class="etude-solution">
+      <div class="inner">
+        <div class="description">
+            <span class="author">{{ etude.get_authors }}</span> -
+            <span class="year">{{ etude.year }}</span>
+            <span class="result pull-right">{{ etude.get_result }}</span>
+        </div>
+
+        <pre class="chess-notation"></pre>
+
+        <div class="navigation">
+            <a class="btn first-move" href="#" title="To First (Shift ←)"><i class="icon-fast-backward"></i></a>
+            <a class="btn prev-move" href="#" title="Backward (←)"><i class="icon-backward"></i></a>
+            <a class="btn next-move" href="#" title="Forward (→)"><i class="icon-forward"></i></a>
+            <a class="btn last-move" href="#" title="To Last (Shift →)"><i class="icon-fast-forward"></i></a>
+            <a class="btn next-variation" href="#" title="Variation (↓)"><i class="icon-random"></i></a>
+            <a class="btn flip-board" href="#" title="Flip Board"><i class="icon-refresh"></i></a>
+        </div>
+      </div>
+
+      <div class="slide-link">
+        <div class="spoiler-hide link">
+          <i class="icon-eject"></i>
+          Hide Solution
+          <i class="icon-eject"></i>
+        </div>
+      </div>
     </div>
   </div>
 </div>

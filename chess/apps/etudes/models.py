@@ -46,6 +46,10 @@ class Etude(models.Model):
 
     def get_authors(self):
         authors_list = self.authors.all()
+        return ', '.join(author.__unicode__() for author in authors_list)
+
+    def get_authors_short(self):
+        authors_list = self.authors.all()
         return ', '.join(author.short() for author in authors_list)
 
     def get_result(self):
