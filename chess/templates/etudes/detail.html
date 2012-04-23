@@ -12,11 +12,11 @@
 {% block content %}
 <div class="etude-detail-container">
   <div class="etude-detail" data-fen="{{ etude.fen }}" data-cell-size="64" data-pgn="{{ etude.moves }}">
-    <div class="etude-problem">
+    <div class="etude-problem clearfix">
       <div class="inner">
         <div class="chess-board board64"></div>
         <div class="description clearfix">
-            <span class="author">{{ etude.get_authors }}</span> -
+            <span class="author">{{ etude.get_authors_short }}</span> -
             <span class="year">{{ etude.year }}</span>
             <span class="result pull-right">{{ etude.get_result }}</span>
         </div>
@@ -34,7 +34,7 @@
     <div class="etude-solution">
       <div class="inner">
         <div class="description">
-            <span class="author">{{ etude.get_authors }}</span> -
+            <div class="author">{{ etude.get_authors }}</div>
             <span class="year">{{ etude.year }}</span>
             <span class="result pull-right">{{ etude.get_result }}</span>
         </div>
@@ -53,9 +53,9 @@
 
       <div class="slide-link">
         <div class="spoiler-hide link">
-          <i class="icon-eject"></i>
+          <i class="icon-chevron-left"></i>
           Hide Solution
-          <i class="icon-eject"></i>
+          <i class="icon-chevron-left"></i>
         </div>
       </div>
     </div>

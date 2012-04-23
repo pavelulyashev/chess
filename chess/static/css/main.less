@@ -5,6 +5,17 @@ ul, li {
   list-style-type: none;
   margin: 0;
 }
+.navbar {
+  .form-search {
+    margin: 7px 20px;
+
+    input {
+      margin: 0;    
+      padding: 3px 10px;
+    }
+  }
+}
+
 .etudes-list-without-scroll {
   width: 790px;
   height: 500px;
@@ -23,10 +34,10 @@ ul, li {
     background-color: #fefefe;
   }
   &.dark {
-    background-color: #fafafa;
+    background-color: #efefef;
   }
   &:hover {
-    background-color: #efefef;
+    background-color: #dcdcdc;
   }
 }
 
@@ -46,13 +57,13 @@ ul, li {
 }
 
 .etude-detail {
+  display: table;
+  margin: 0 auto;  
+
   .etude-problem {
-    display: table;
-    margin: auto;  
+    position: relative;
 
     .inner {
-      display: table-cell;
-
       .description {
         font-size: 25px;
         font-weight: bold;
@@ -61,43 +72,39 @@ ul, li {
       }
     }
 
-  }
-  .etude-solution {
-    display: none;    
-  }
+    .slide-link {
+      cursor: pointer;
+      position: absolute;
+      right: -130px;
+      top: 235px;
 
-  .slide-link {
-    display: table-cell;
-    vertical-align: middle;
-    cursor: pointer;
+      .link {
+        font-size: 20px;
+        color: #bbb;
+        white-space: nowrap;
+        padding: 10px;
 
-    .link {
-      position: relative;
-      left: -65px;
-      font-size: 20px;
-      color: #bbb;
-      white-space: nowrap;
-      padding: 10px;
+        i { 
+          visibility: hidden;
+          display: inline-block;
+          margin: 4px;
+        } 
 
-      i { 
-        visibility: hidden;
-        display: inline-block;
-        margin: 4px;
-      } 
+        &:hover { 
+          background-color: #ededed;
 
-      &:hover { 
-        background-color: #ededed;
+          i { visibility: visible; }
+        }
 
-        i { visibility: visible; }
-      }
-
-      &.spoiler-reveal {
-        .rotation(90deg);
-      }
-      &.spoiler-hide {
-        .rotation(270deg);
+        &.spoiler-reveal {
+          .rotation(90deg);
+        }
       }
     }
+  }
+
+  .etude-solution {
+    display: none;    
   }
 
   &.solution-opened {
@@ -115,11 +122,13 @@ ul, li {
       margin: 0 30px;
 
       .inner {
-        display: table-cell;
-
         .description {
           margin: 0 0 20px;
           font-size: 20px;
+
+          .author {
+            margin: 0 0 20px;    
+          }
         }
         .chess-notation {
           display: block;    
@@ -131,6 +140,29 @@ ul, li {
         .navigation .btn {
           margin: 0 3px;     
           padding: 4px 14px;
+        }
+      }
+
+      .slide-link {
+        cursor: pointer;
+        margin: 20px 0 0;
+
+        .link {
+          font-size: 20px;
+          color: #bbb;
+          white-space: nowrap;
+          padding: 7px;
+          background-color: #ededed;
+          display: inline-block;
+
+          i { 
+            display: inline-block;
+            margin: 4px;
+          } 
+          &:hover i {
+            position: relative;
+            left: -1px;
+          }
         }
       }
     }

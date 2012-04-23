@@ -20,13 +20,21 @@
           <div class="container">
             <ul class="nav">
               <li class="active"><a href="#">Etudes</a></li>
+              <li><a href="{% url etude_random %}">Random Etude</a></li>
               <!-- <li><a href="#">Database</a></li> -->
               <!-- <li><a href="#">Fen Builder</a></li> -->
               <!-- <li><a href="#">Tournament Manager</a></li> -->
             </ul> 
+
             <ul class="nav pull-right">
               <li><a href="#" class="brand right">Precisely.So</a></li>
             </ul>
+
+            <form class="pull-right form-search" action="{% url etudes_search_author %}" method="post">
+              {% csrf_token %}
+              <input type="text" name="query" class="input-medium search-query" 
+                  placeholder="Search author" autocomplete="off">
+            </form>
           </div>
         </div>
       </div>
