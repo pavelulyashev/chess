@@ -518,7 +518,7 @@ ChessGame.prototype = {
     },
     patterns: {
         header: /\[(\w+) (["'])([^\]]*)\2\]/g,
-        notation: /\d+\.(\.\.)? [BNKQROa-h].*(1\-0|1\/2\-1\/2|0\-1|\*)/
+        notation: /(\d+\.(\.\.)? [BNKQROa-h].*(1\-0|1\/2\-1\/2|0\-1|\*))/
     },
     parseFen: function(fen) {
         console.assert(fen, 'Given FEN is empty', fen);
@@ -539,7 +539,7 @@ ChessGame.prototype = {
     },
     parsePgn: function(pgn) {
         if (pgn.match(this.patterns.notation)) {
-            this.notation = new ChessNotation(RegExp.$_);
+            this.notation = new ChessNotation(RegExp.$1);
         }
         this.parsePgnHeaders(pgn);
     },
@@ -650,6 +650,7 @@ var ChessGameView = function(jqWrapper, options) {
     this._initBoard();
     this._initPieces(game.board.getPieces());
     this._initEvents();
+    this._dfdMove = $.Deferred().resolve();
 };
 ChessGameView.prototype = {
     constructor: ChessGameView,
@@ -702,7 +703,7 @@ ChessGameView.prototype = {
     },
     _removePiece: function(piece, animate) {
         piece = this._getPiece(piece.id);
-        if (animate) { piece.fadeOut('fast'); } else { piece.hide(); }
+        return animate ? piece.fadeOut('fast') : piece.hide();
     },
     _movePiece: function(piece, destCell, animate) {
         var opt = this.options, position = utils.chess.coord.getCellPosition;
@@ -712,21 +713,32 @@ ChessGameView.prototype = {
     },
     _promotePiece: function(piece) {
         var jqPiece = this._getPiece(piece.id);
-        jqPiece.removeClass(piece.oldClass).addClass(piece.getClass());
+        return jqPiece.removeClass(piece.oldClass).addClass(piece.getClass());
     },
     _runMove: function(moveTransitions, animate) {
-        moveTransitions.forEach(function(transition) {
-            var piece = transition.piece, destCell = transition.destCell;
-            if (transition.remove) {
-                this._removePiece(piece, animate);
-            } else if (transition.add) {
-                this._addPiece(piece);
-            } else if (transition.move) {
-                this._movePiece(piece, destCell, animate);
-            } else if (transition.promote) {
-                this._promotePiece(piece);
-            }
-        }, this);
+        var self = this, dfdNextMove = $.Deferred();
+        self._dfdMove.done(function() {
+            var animations = moveTransitions.map(function(transition) {
+                var piece = transition.piece, destCell = transition.destCell;
+                var animation = null;
+                if (transition.remove) {
+                    animation = self._removePiece(piece, animate);
+                } else if (transition.add) {
+                    animation = self._addPiece(piece);
+                } else if (transition.move) {
+                    animation = self._movePiece(piece, destCell, animate);
+                } else if (transition.promote) {
+                    animation = self._promotePiece(piece);
+                }
+                return animation;
+            });
+            $.when.apply($, animations).done(function() {
+                setTimeout(function() {
+                    dfdNextMove.resolve();
+                }, 200);
+            });
+        });
+        self._dfdMove = dfdNextMove;
     },
     _highlightMove: function(move) {
         this._jqNotation.find('.move.active').removeClass('active');
@@ -803,7 +815,12 @@ ChessGameView.prototype = {
             e.preventDefault();
             self.moveNextVariation(true);
         });
+
+        var timeoutId = null;
         $(document).on('keyup.chess', function(e) {
+            clearTimeout(timeoutId);
+            timeoutId = null;
+
             if (e.keyCode === 37) {             // Left arrow
                 if (e.shiftKey) {
                     self.moveToFirst(false);
@@ -819,6 +836,19 @@ ChessGameView.prototype = {
             } else if (e.keyCode === 40) {      // Down arrow
                 self.moveNextVariation(true);
             }
+        }).on('keydown.chess', function(e) {
+            var keyCode = e.keyCode, run; 
+            if (!timeoutId && (keyCode === 37 || keyCode === 39)) {
+                run = function() {
+                    if (keyCode === 39) { 
+                        self.moveForward(true);
+                    } else {
+                        self.moveBackward(true);
+                    }
+                    timeoutId = setTimeout(run, 600);
+                };
+                timeoutId = setTimeout(run, 600);
+            } 
         });
         this._jqNotation = jq.find(self.options.notation);
         if (self.chessGame.notation) {
