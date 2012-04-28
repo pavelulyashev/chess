@@ -1,12 +1,13 @@
 from random import randrange
 
-from django.views.generic import ListView, DetailView
-from django.views.generic.edit import ProcessFormView
+from django.views.generic import ListView, DetailView, View
+from django.views.generic.edit import FormView
 from django.shortcuts import get_object_or_404
 from django.http import HttpResponseRedirect, Http404
 from django.core.urlresolvers import reverse
 
 from chess.apps.etudes.models import Etude, Composer
+from chess.apps.etudes.forms import SearchEtudeForm
 
 
 class EtudesByAuthor(ListView):
@@ -37,12 +38,8 @@ class EtudeDetail(DetailView):
         return get_object_or_404(Etude, id=etude_id, authors__in=[author])
 
 
-class RandomEtude(DetailView):
-    model = Etude
-    context_object_name = 'etude'
-    template_name = 'etudes/detail.html'
-
-    def get_object(self):
+class RandomEtude(View):
+    def get(self, request):
         count_all = Etude.objects.all().count()
         etude = None
         while not etude:
@@ -50,10 +47,12 @@ class RandomEtude(DetailView):
                 etude = Etude.objects.get(id=randrange(count_all) + 1)
             except Etude.DoesNotExist:
                 pass
-        return etude
+        author = etude.authors.all()[0]
+        return HttpResponseRedirect(reverse('etude_detail',
+                                            args=[author.slug, etude.id]))
 
 
-class SearchAuthor(ProcessFormView):
+class SearchAuthor(FormView):
     def post(self, request):
         query = request.POST.get('query', '')
         author = Composer.objects.filter(last_name__icontains=query)
@@ -61,3 +60,15 @@ class SearchAuthor(ProcessFormView):
             raise Http404
         return HttpResponseRedirect(reverse('etudes_by_composer',
                                             args=[author[0].slug]))
+
+
+class SearchEtudes(FormView):
+    template_name = 'etudes/search.html'
+
+    def get(self, request):
+        form = SearchEtudeForm()
+        return self.render_to_response(dict(form=form))
+
+    def post(self, request):
+        form = SearchEtudeForm(request.POST)
+        return self.render_to_response(dict(form=form))

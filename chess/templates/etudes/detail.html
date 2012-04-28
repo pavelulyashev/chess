@@ -3,10 +3,8 @@
 
 {% block extra_head %}
   <link rel="stylesheet/less" type="text/css" media="all" href="{{ STATIC_URL }}css/chess.less" />
-  <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-1.7.2.min.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/jchess.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/app_chess.js"></script>
-
 {% endblock %}
 
 {% block content %}
@@ -14,7 +12,7 @@
   <div class="etude-detail" data-fen="{{ etude.fen }}" data-cell-size="64" data-pgn="{{ etude.moves }}">
     <div class="etude-problem clearfix">
       <div class="inner">
-        <div class="chess-board board64"></div>
+        {% include "etudes/chess_board.html" with cell_size=64 board_as_table=1 %}
         <div class="description clearfix">
             <span class="author">{{ etude.get_authors_short }}</span> -
             <span class="year">{{ etude.year }}</span>

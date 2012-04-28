@@ -1,4 +1,5 @@
 from django.db import models
+from django.db.models.signals import post_save
 
 from autoslug import AutoSlugField
 
@@ -36,7 +37,7 @@ class Etude(models.Model):
     year = models.IntegerField(max_length=4)
 
     result = models.CharField(max_length=1, choices=RESULT_CHOICES)
-    fen = models.CharField(max_length=250, unique=True)
+    fen = models.CharField(max_length=100, unique=True)
     moves = models.TextField()
 
     def __unicode__(self):
@@ -54,3 +55,24 @@ class Etude(models.Model):
 
     def get_result(self):
         return dict(RESULT_CHOICES)[self.result]
+
+
+class Board(models.Model):
+    fen = models.CharField(max_length=75)
+    white_count = models.IntegerField()
+    black_count = models.IntegerField()
+
+    white_pieces = models.CommaSeparatedIntegerField(max_length=25)  # K,Q,R,B,N,P
+    black_pieces = models.CommaSeparatedIntegerField(max_length=25)  # k,q,r,b,n,p
+
+    etude = models.OneToOneField(Etude, related_name='board')
+
+
+def handler(instance, **kwargs):
+    if instance and kwargs.get('created', False):
+        from chess.apps.etudes.fen_to_board import create_board_from_fen
+        board = create_board_from_fen(instance.fen)
+        board.etude = instance
+        board.save()
+
+post_save.connect(handler, sender=Etude)

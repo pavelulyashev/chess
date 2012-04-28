@@ -1,0 +1,16 @@
+{% if board_as_table %}
+<div class="chess-board board-as-table board{{ cell_size }} {{ class }}">
+  <table border="0" cellpadding="0">
+    {% for rank in "12345678" %}
+      <tr data-rank="{{ rank }}">
+        {% for file in "abcdefgh" %}
+        <td data-file="{{ file }}" class="{% if forloop.counter|add:forloop.parentloop.counter|divisibleby:"2" %}white{% else %}black{% endif %}">
+        </td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </table>
+</div>
+{% elif board_as_image %}
+<div class="chess-board board-as-image board{{ cell_size }} {{ class }}"></div>
+{% endif %}

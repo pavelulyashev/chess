@@ -1,0 +1,59 @@
+@import "chess";
+@import "elements";
+
+
+@piece-size: 32px;
+@piece-margin: 2px;
+@total-input-width: 50px;
+
+
+.etudes-search {
+  .piece-block {
+    background-color: #efefef;
+    display: inline-block;
+    .piece { .chess-piece(@piece-size); }
+  }
+
+  .white-counts, .black-counts {
+    .rounded(5px);
+    border: 1px solid #ccc;
+
+    .block {
+      padding: @piece-margin; 
+      height: @piece-size;
+      width: @piece-size; 
+      display: block;
+      float: left;
+      border: none;
+      border-right: 1px solid #ccc;  
+      .rounded(0);
+    }
+    input.block {
+      border-top: 1px solid #ccc;  
+      text-align: center;
+    }
+
+    .piece-count {
+      border-top: 1px solid #ccc;
+    }
+    .total {
+      select, input {
+        width: @total-input-width; 
+        height: @piece-size + 2 * @piece-margin + 1px;
+        font-size: 2/3 * @piece-size;
+        box-sizing: border-box;
+        float: left;
+        text-align: center;
+      }    
+      .help-text {
+        width: 2 * @total-input-width;
+        text-align: center;
+        font-size: 0.4 * @piece-size;
+      }
+    }
+  }
+  
+  fieldset {
+    float: left;    
+  }
+}

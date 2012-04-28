@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+
+
+{% block title %}Search etudes{% endblock %}
+
+{% block extra_head %}
+  <link rel="stylesheet/less" type="text/css" media="all" href="{{ STATIC_URL }}css/search.less" />
+  <script type="text/javascript" src="{{ STATIC_URL }}js/bootstrap.min.js"></script>
+{% endblock %}
+
+{% block content %}
+<form class="form-horizontal etudes-search">
+  <fieldset class="text-fields">
+    <legend>Search by Meta Parameters</legend>
+    <div class="control-group">
+      <label class="control-label">{{ form.author.label }}</label>
+      <div class="controls">{{ form.author }}</div>
+    </div>
+    <div class="control-group">
+      <label class="control-label">{{ form.result.label }}</label>
+      <div class="controls btn-group" data-toggle="buttons-checkbox">
+        {% for choice in form.result.field.choices %}
+        <label for="id_result_{{ forloop.counter0 }}" 
+            class="btn{% if choice.0 in form.result.value %} active{% endif %}">
+          {{ choice.1 }}
+        </label>
+        {% endfor %}
+      </div>
+      <div class="hide">{{ form.result }}</div>
+    </div>
+    <div class="control-group">
+      <label class="control-label">{{ form.start_year.label }}</label>
+      <div class="controls">{{ form.start_year }} - {{ form.end_year }}</div>
+    </div>
+  </fieldset>
+
+  <fieldset class="position">
+    <legend>Search by Position</legend>
+    <div class="control-group">
+      <label class="control-label">{{ form.fen.label }}</label>
+      <div class="controls">{{ form.fen }}</div>
+    </div>
+    <div class="position-builder clearfix">
+      {% include "etudes/chess_board.html" with cell_size=36 board_as_table=1 class="pull-left" %}
+
+      <div class="pull-left">
+        <ul>
+        {% for piece in "KQRBNPhe" %} 
+          <li>
+            <span class="piece-block block"><span class="piece w{{ piece }}"></span></span>
+            <span class="piece-block block"><span class="piece b{{ piece|lower }}"></span></span>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </fieldset>
+
+  <fieldset class="pieces-count">
+    <legend>Specify pieces counts</legend>
+    <div class="white-counts clearfix pull-left">
+      <div class="pull-left pieces">
+        <div class="clearfix">
+          {{ form.white_pieces_regexp }}
+          {% for piece in "KQRBNP" %}
+            <span class="piece-block block"><span class="piece w{{ piece }}"></span></span>
+          {% endfor %}
+        </div>
+
+        <div class="clearfix">
+          {% for piece in "KQRBNP" %}
+            <input class="block" type="text" data-piece="{{ piece }}" {% if piece == 'K' %}disabled="disabled" value="1"{% endif %}/>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="total pull-left">
+        {{ form.white_count_cmp }}
+        {{ form.white_count }}
+        <div class="help-text">White Pieces Total</div>
+      </div>
+    </div>
+
+    <div class="black-counts clearfix pull-left">
+      <div class="pull-left pieces">
+        <div class="clearfix">
+          {{ for.black_pieces_regexp }}
+          {% for piece in "kqrbnp" %}
+            <span class="piece-block block"><span class="piece b{{ piece }}"></span></span>
+          {% endfor %}
+        </div>
+
+        <div class="clearfix">
+        {% for piece in "kqrbnp" %}
+          <input class="block" type="text" data-piece="{{ piece }}" {% if piece == 'k' %}disabled="disabled" value="1"{% endif %}/>
+        {% endfor %}
+        </div>
+      </div>
+
+      <div class="total pull-left">
+        {{ form.black_count_cmp }}
+        {{ form.black_count }}
+        <div class="help-text">Black Pieces Total</div>
+      </div>
+    </div>
+  </fieldset>
+</form>
+{% endblock %}
