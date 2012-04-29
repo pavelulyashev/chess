@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+<ul class="composers-list clearfix">
+  {% for composer in composers_list %}
+    <li class="composer">
+      <a class="link" href="{% url etudes_by_composer composer.slug %}">{{ composer }}</a>
+      <span class="etudes-count">{{ composer.etudes.all.count }}</span>
+    </li>
+  {% endfor %}
+</ul>
+{% endblock %}
