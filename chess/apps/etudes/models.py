@@ -1,5 +1,6 @@
 from django.db import models
 from django.db.models.signals import post_save
+from django.core.urlresolvers import reverse
 
 from autoslug import AutoSlugField
 
@@ -55,6 +56,10 @@ class Etude(models.Model):
 
     def get_result(self):
         return dict(RESULT_CHOICES)[self.result]
+
+    def get_absolute_url(self, author_slug=None):
+        author_slug = author_slug or self.authors.all()[0].slug
+        return reverse('etude_detail', args=[author_slug, self.id])
 
 
 class Board(models.Model):

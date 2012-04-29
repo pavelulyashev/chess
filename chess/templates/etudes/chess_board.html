@@ -1,10 +1,17 @@
+{% load chess_tags %}
+
+
 {% if board_as_table %}
 <div class="chess-board board-as-table board{{ cell_size }} {{ class }}">
   <table border="0" cellpadding="0">
     {% for rank in "12345678" %}
       <tr data-rank="{{ rank }}">
         {% for file in "abcdefgh" %}
-        <td data-file="{{ file }}" class="{% if forloop.counter|add:forloop.parentloop.counter|divisibleby:"2" %}white{% else %}black{% endif %}">
+        <td data-file="{{ file }}" class="{% if forloop.counter0|add:forloop.parentloop.counter0|divisibleby:"2" %}white{% else %}black{% endif %}">
+          {% if pieces_on_board %}
+            {% get_piece pieces_on_board forloop.counter0 forloop.parentloop.counter0 as piece %}
+            {% if piece %} <span class="{{ piece.semantic_class }} {{ piece.board_class }}" data-piece="{{ piece.piece }}"></span> {% endif %}
+          {% endif %}
         </td>
         {% endfor %}
       </tr>

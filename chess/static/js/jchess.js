@@ -732,11 +732,15 @@ ChessGameView.prototype = {
                 }
                 return animation;
             });
-            $.when.apply($, animations).done(function() {
-                setTimeout(function() {
-                    dfdNextMove.resolve();
-                }, 200);
-            });
+            if (animate) {
+                $.when.apply($, animations).done(function() {
+                    setTimeout(function() {
+                        dfdNextMove.resolve();
+                    }, 200);
+                });
+            } else {
+                dfdNextMove.resolve();
+            }
         });
         self._dfdMove = dfdNextMove;
     },

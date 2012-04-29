@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 
+{% load chess_tags %}
+
 
 {% block title %}Search etudes{% endblock %}
 
@@ -19,6 +21,8 @@
       <div class="pull-left">
         <fieldset class="text-fields">
           <legend>Search by Meta Parameters
+            <button class="btn btn-reset-fieldset">Clear</button>
+            {% comment %}
             <div class="operator-buttons btn-group" data-toggle="buttons-radio">
               {% for choice in form.meta_operator.field.choices %}
               <label for="id_result_{{ forloop.counter0 }}" 
@@ -28,6 +32,7 @@
               {% endfor %}
             </div>
             <div class="hide">{{ form.meta_operator }}</div>
+            {% endcomment %}
           </legend>
 
           <div class="control-group">
@@ -67,6 +72,8 @@
 
         <fieldset class="pieces-count">
           <legend>Search by Pieces Amount
+            <button class="btn btn-reset-fieldset">Clear</button>
+            {% comment %}
             <div class="operator-buttons btn-group" data-toggle="buttons-radio">
               {% for choice in form.pieces_operator.field.choices %}
               <label for="id_result_{{ forloop.counter0 }}" 
@@ -76,20 +83,21 @@
               {% endfor %}
             </div>
             <div class="hide">{{ form.pieces_operator }}</div>
+            {% endcomment %}
           </legend>
 
           <div class="white-counts clearfix">
+            {{ form.white_pieces_regexp }}
             <div class="pull-left pieces">
               <div class="clearfix">
-                {{ form.white_pieces_regexp }}
                 {% for piece in "KQRBNP" %}
                   <span class="piece-block block"><span class="piece w{{ piece }}"></span></span>
                 {% endfor %}
               </div>
 
               <div class="clearfix">
-                {% for piece in "KQRBNP" %}
-                  <input class="block" type="text" data-piece="{{ piece }}" {% if piece == 'K' %}disabled="disabled" value="1"{% endif %}/>
+                {% for value in form.white_pieces_regexp.value|default:"1,,,,,"|split:"," %}
+                  <input class="block" type="text" {% if forloop.first %}disabled="disabled"{% endif %} value="{{ value }}" />
                 {% endfor %}
               </div>
             </div>
@@ -102,18 +110,18 @@
           </div>
 
           <div class="black-counts clearfix">
+            {{ form.black_pieces_regexp }}
             <div class="pull-left pieces">
               <div class="clearfix">
-                {{ for.black_pieces_regexp }}
                 {% for piece in "kqrbnp" %}
                   <span class="piece-block block"><span class="piece b{{ piece }}"></span></span>
                 {% endfor %}
               </div>
 
               <div class="clearfix">
-              {% for piece in "kqrbnp" %}
-                <input class="block" type="text" data-piece="{{ piece }}" {% if piece == 'k' %}disabled="disabled" value="1"{% endif %}/>
-              {% endfor %}
+                {% for value in form.black_pieces_regexp.value|default:"1,,,,,"|split:"," %}
+                  <input class="block" type="text" {% if forloop.first %}disabled="disabled"{% endif %} value="{{ value }}" />
+                {% endfor %}
               </div>
             </div>
 
@@ -128,6 +136,8 @@
 
       <fieldset class="position pull-left">
         <legend>Search by Position
+          <button class="btn btn-reset-fieldset">Clear</button>
+          {% comment %}
           <div class="operator-buttons btn-group" data-toggle="buttons-radio">
             {% for choice in form.fen_operator.field.choices %}
             <label for="id_result_{{ forloop.counter0 }}" 
@@ -137,6 +147,7 @@
             {% endfor %}
           </div>
           <div class="hide">{{ form.fen_operator }}</div>
+          {% endcomment %}
         </legend>
 
         <div class="control-group">
@@ -149,7 +160,7 @@
 
         <div class="position-builder clearfix">
           {{ form.fen_regexp }}
-          {% include "etudes/chess_board.html" with cell_size=36 board_as_table=1 class="pull-left" %}
+          {% include "etudes/chess_board.html" with cell_size=36 board_as_table=1 class="pull-left" pieces_on_board=pieces_on_board %}
 
           <div class="pull-right">
             <ul>
@@ -178,6 +189,13 @@
     </div>
 
     <div class="form-actions">
+      {% if post %}
+        {% if form.errors %}
+          <div class="pull-left form-errors alert alert-error">{{ form.errors.values.0.0 }}</div>
+        {% elif not etudes_list %}
+          <div class="pull-left empty-result alert alert-error">Search result is empty</div>
+        {% endif %}
+      {% endif %}
       <button type="submit" class="btn btn-primary">Search</button>
       <button type="reset" class="btn">Reset</button>
     </div>
