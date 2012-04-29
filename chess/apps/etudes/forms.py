@@ -13,19 +13,40 @@ COMPARE_METHOD = (
         ('gt', '>'),
     )
 
+OPERATOR_CHOICES = (
+        ('and', 'And'),
+        ('or', 'Or'),
+    )
+
 
 class SearchEtudeForm(forms.Form):
+    #
+    # Meta information fields
+    #
     author = forms.CharField(max_length=250, required=False)
     result = forms.MultipleChoiceField(choices=RESULT_CHOICES, required=False,
                                        widget=forms.CheckboxSelectMultiple())
     start_year = forms.CharField(max_length=4, label='Year', required=False,
+                                 help_text='Specify year (first input) or year range',
                                  widget=forms.TextInput(attrs={'class': 'span1'}))
     end_year = forms.CharField(max_length=4, required=False,
                                widget=forms.TextInput(attrs={'class': 'span1'}))
+    notation = forms.CharField(max_length=256, required=False,
+                               help_text='e.g. Kf3, 0-0 axb6, b8=Q')
+    meta_operator = forms.ChoiceField(choices=OPERATOR_CHOICES, initial='and')
 
-    fen = forms.CharField(max_length=100, required=False)
-    fen_regexp = forms.CharField(max_length=75, required=False)
+    #
+    # Position
+    #
+    fen = forms.CharField(max_length=100, required=False,
+                          help_text='You can specify exact FEN or build part of position')
+    fen_regexp = forms.CharField(max_length=75, required=False,
+                                 widget=forms.HiddenInput())
+    fen_operator = forms.ChoiceField(choices=OPERATOR_CHOICES, initial='and')
 
+    #
+    # Pieces amounts
+    #
     white_count = forms.IntegerField(required=False)
     black_count = forms.IntegerField(required=False)
 
@@ -38,3 +59,4 @@ class SearchEtudeForm(forms.Form):
     black_pieces_regexp = forms.CharField(max_length=25,
                                           required=False,
                                           widget=forms.HiddenInput())
+    pieces_operator = forms.ChoiceField(choices=OPERATOR_CHOICES, initial='and')

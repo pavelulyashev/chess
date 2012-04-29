@@ -8,29 +8,47 @@
 
 
 .etudes-search {
+  .aux-piece {
+    width: 32px;
+    height: 32px;
+    background: url(../images/pieces/questions32.png);
+    display: block;
+    &.w-question { background-position: 0 0; }
+    &.b-question { background-position: -32px 0 }
+    &.wb-question { background-position: -64px 0 }
+  }
+  .chess-board {
+    .aux-piece { margin: 2px; }
+  }
+
   .piece-block {
     background-color: #efefef;
     display: inline-block;
     .piece { .chess-piece(@piece-size); }
   }
 
+  .block {
+    padding: @piece-margin;
+    height: @piece-size;
+    width: @piece-size;
+    display: block;
+    float: left;
+    border: none;
+    border-right: 1px solid #ccc;
+    .rounded(0);
+  }
+
   .white-counts, .black-counts {
     .rounded(5px);
     border: 1px solid #ccc;
+    display: inline-block;
+    margin: 0 12px 5px;
 
-    .block {
-      padding: @piece-margin; 
-      height: @piece-size;
-      width: @piece-size; 
-      display: block;
-      float: left;
-      border: none;
-      border-right: 1px solid #ccc;  
-      .rounded(0);
-    }
     input.block {
-      border-top: 1px solid #ccc;  
+      border-top: 1px solid #ccc;
       text-align: center;
+      outline: none;
+      box-shadow: none;
     }
 
     .piece-count {
@@ -38,13 +56,13 @@
     }
     .total {
       select, input {
-        width: @total-input-width; 
+        width: @total-input-width;
         height: @piece-size + 2 * @piece-margin + 1px;
         font-size: 2/3 * @piece-size;
         box-sizing: border-box;
         float: left;
         text-align: center;
-      }    
+      }
       .help-text {
         width: 2 * @total-input-width;
         text-align: center;
@@ -52,8 +70,63 @@
       }
     }
   }
-  
+
   fieldset {
-    float: left;    
+    width: 350px;
+    margin-right: 30px;
+
+    legend {
+      border: none;
+    }
+    .control-group {
+      .control-label {
+        width: 70px;
+      }
+      .controls {
+        margin-left: 80px;
+      }
+    }
+    &.position {
+      width: 380px;
+      margin: 0;
+      .control-group {
+        label { width: 40px; }
+        .controls {
+          margin-left: 70px;
+          input {
+            width: 100%;
+            margin-left: -10px;
+          }
+        }
+      }
+      .form-actions {
+        margin-bottom: 0;
+        padding: 15px;
+        margin-top: 12px;
+      }
+    }
+
+    .operator-buttons {
+      float: right;  
+      margin: 6px 0;
+      .btn {
+        padding: 1px 7px;    
+      }
+    }
+  }
+
+  form {
+    display: table;
+    margin: 0 auto;
+    background-color: #fdfdfd;
+    padding: 20px;
+
+    .form-actions {
+      margin-top: 6px;
+      button {
+        float: right;
+        margin-left: 5px;
+      }
+    }
   }
 }
