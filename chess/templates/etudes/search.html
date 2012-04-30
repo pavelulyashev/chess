@@ -14,178 +14,213 @@
 
 {% block content %}
 <div class="etudes-search">
-  <form class="form-horizontal etudes-search-form" method="post" action="{% url etudes_search %}">
+
+    <form class="form-horizontal etudes-search-form{% if etudes_list %} hide-form{% endif %}"
+          method="post" action="{% url etudes_search %}">
     {% csrf_token %}
 
-    <div class="clearfix">
-      <div class="pull-left">
-        <fieldset class="text-fields">
-          <legend>Search by Meta Parameters
+    {% if etudes_list %}
+      {% block custom_js %}
+        <script type="text/javascript" src="{{ STATIC_URL }}js/jchess.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}js/app_chess.js"></script>
+      {% endblock %}
+
+      <div class="etudes-list-container form-hidden">
+        <div class="etudes-list-without-scroll">
+          <ul class="etudes-list">
+          {% for etude in etudes_list %}
+          <li class="etude-cell {% if forloop.counter|divisibleby:"2" %}light{% else %}dark{% endif %}">
+              <div class="etude-preview" data-fen="{{ etude.fen }}" data-cell-size="24" data-result="{{ etude.result }}">
+              <a href="{{ etude.get_absolute_url }}">
+                  {% include "etudes/chess_board.html" with cell_size=24 board_as_image=1 %}
+              </a>
+
+              <div class="description">
+                  <span class="author">{{ etude.get_authors_short }}</span> -
+                  <span class="year">{{ etude.year }}</span>
+                  <span class="result">{{ etude.get_result }}</span>
+              </div>
+              </div>
+          </li>
+          {% endfor %}
+          </ul>
+        </div>
+      </div>
+    {% endif %}
+
+
+
+    <div class="form-fieldsets form-showed">
+      <div class="clearfix">
+        <div class="pull-left">
+          <fieldset class="text-fields">
+            <legend>Search by Meta Parameters
+              <button class="btn btn-reset-fieldset">Clear</button>
+              {% comment %}
+              <div class="operator-buttons btn-group" data-toggle="buttons-radio">
+                {% for choice in form.meta_operator.field.choices %}
+                <label for="id_result_{{ forloop.counter0 }}" 
+                    class="btn{% if choice.0 == form.meta_operator.value %} active{% endif %}">
+                  {{ choice.1 }}
+                </label>
+                {% endfor %}
+              </div>
+              <div class="hide">{{ form.meta_operator }}</div>
+              {% endcomment %}
+            </legend>
+
+            <div class="control-group">
+              <label class="control-label">{{ form.author.label }}</label>
+              <div class="controls">{{ form.author }}</div>
+            </div>
+
+            <div class="control-group">
+              <label class="control-label">{{ form.result.label }}</label>
+              <div class="controls btn-group" data-toggle="buttons-checkbox">
+                {% for choice in form.result.field.choices %}
+                <label for="id_result_{{ forloop.counter0 }}" 
+                    class="btn{% if choice.0 in form.result.value %} active{% endif %}">
+                  {{ choice.1 }}
+                </label>
+                {% endfor %}
+              </div>
+              <div class="hide">{{ form.result }}</div>
+            </div>
+
+            <div class="control-group">
+              <label class="control-label">{{ form.start_year.label }}</label>
+              <div class="controls">
+                {{ form.start_year }} - {{ form.end_year }}
+                <p class="help-block">{{ form.start_year.help_text }}</p>
+              </div>
+            </div>
+
+            <div class="control-group">
+              <label class="control-label">{{ form.notation.label }}</label>
+              <div class="controls">
+                {{ form.notation }}
+                <p class="help-block">{{ form.notation.help_text }}</p>
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset class="pieces-count">
+            <legend>Search by Pieces Amount
+              <button class="btn btn-reset-fieldset">Clear</button>
+              {% comment %}
+              <div class="operator-buttons btn-group" data-toggle="buttons-radio">
+                {% for choice in form.pieces_operator.field.choices %}
+                <label for="id_result_{{ forloop.counter0 }}" 
+                    class="btn{% if choice.0 == form.pieces_operator.value %} active{% endif %}">
+                  {{ choice.1 }}
+                </label>
+                {% endfor %}
+              </div>
+              <div class="hide">{{ form.pieces_operator }}</div>
+              {% endcomment %}
+            </legend>
+
+            <div class="white-counts clearfix">
+              {{ form.white_pieces_regexp }}
+              <div class="pull-left pieces">
+                <div class="clearfix">
+                  {% for piece in "KQRBNP" %}
+                    <span class="piece-block block"><span class="piece w{{ piece }}"></span></span>
+                  {% endfor %}
+                </div>
+
+                <div class="clearfix">
+                  {% for value in form.white_pieces_regexp.value|default:"1,,,,,"|split:"," %}
+                    <input class="block" type="text" {% if forloop.first %}disabled="disabled"{% endif %} value="{{ value }}" />
+                  {% endfor %}
+                </div>
+              </div>
+
+              <div class="total pull-left">
+                {{ form.white_count_cmp }}
+                {{ form.white_count }}
+                <div class="help-text">White Pieces Total</div>
+              </div>
+            </div>
+
+            <div class="black-counts clearfix">
+              {{ form.black_pieces_regexp }}
+              <div class="pull-left pieces">
+                <div class="clearfix">
+                  {% for piece in "kqrbnp" %}
+                    <span class="piece-block block"><span class="piece b{{ piece }}"></span></span>
+                  {% endfor %}
+                </div>
+
+                <div class="clearfix">
+                  {% for value in form.black_pieces_regexp.value|default:"1,,,,,"|split:"," %}
+                    <input class="block" type="text" {% if forloop.first %}disabled="disabled"{% endif %} value="{{ value }}" />
+                  {% endfor %}
+                </div>
+              </div>
+
+              <div class="total pull-left">
+                {{ form.black_count_cmp }}
+                {{ form.black_count }}
+                <div class="help-text">Black Pieces Total</div>
+              </div>
+            </div>
+          </fieldset>
+        </div>
+
+        <fieldset class="position pull-left">
+          <legend>Search by Position
             <button class="btn btn-reset-fieldset">Clear</button>
             {% comment %}
             <div class="operator-buttons btn-group" data-toggle="buttons-radio">
-              {% for choice in form.meta_operator.field.choices %}
+              {% for choice in form.fen_operator.field.choices %}
               <label for="id_result_{{ forloop.counter0 }}" 
-                  class="btn{% if choice.0 == form.meta_operator.value %} active{% endif %}">
+                  class="btn{% if choice.0 == form.fen_operator.value %} active{% endif %}">
                 {{ choice.1 }}
               </label>
               {% endfor %}
             </div>
-            <div class="hide">{{ form.meta_operator }}</div>
+            <div class="hide">{{ form.fen_operator }}</div>
             {% endcomment %}
           </legend>
 
           <div class="control-group">
-            <label class="control-label">{{ form.author.label }}</label>
-            <div class="controls">{{ form.author }}</div>
-          </div>
-
-          <div class="control-group">
-            <label class="control-label">{{ form.result.label }}</label>
-            <div class="controls btn-group" data-toggle="buttons-checkbox">
-              {% for choice in form.result.field.choices %}
-              <label for="id_result_{{ forloop.counter0 }}" 
-                  class="btn{% if choice.0 in form.result.value %} active{% endif %}">
-                {{ choice.1 }}
-              </label>
-              {% endfor %}
-            </div>
-            <div class="hide">{{ form.result }}</div>
-          </div>
-
-          <div class="control-group">
-            <label class="control-label">{{ form.start_year.label }}</label>
+            <label class="control-label">{{ form.fen.label }}</label>
             <div class="controls">
-              {{ form.start_year }} - {{ form.end_year }}
-              <p class="help-block">{{ form.start_year.help_text }}</p>
+              {{ form.fen }}
+              <p class="help-block">{{ form.fen.help_text }}</p>
             </div>
           </div>
 
-          <div class="control-group">
-            <label class="control-label">{{ form.notation.label }}</label>
-            <div class="controls">
-              {{ form.notation }}
-              <p class="help-block">{{ form.notation.help_text }}</p>
-            </div>
-          </div>
-        </fieldset>
+          <div class="position-builder clearfix">
+            {{ form.fen_regexp }}
+            {% include "etudes/chess_board.html" with cell_size=36 board_as_table=1 class="pull-left" pieces_on_board=pieces_on_board %}
 
-        <fieldset class="pieces-count">
-          <legend>Search by Pieces Amount
-            <button class="btn btn-reset-fieldset">Clear</button>
-            {% comment %}
-            <div class="operator-buttons btn-group" data-toggle="buttons-radio">
-              {% for choice in form.pieces_operator.field.choices %}
-              <label for="id_result_{{ forloop.counter0 }}" 
-                  class="btn{% if choice.0 == form.pieces_operator.value %} active{% endif %}">
-                {{ choice.1 }}
-              </label>
+            <div class="pull-right">
+              <ul>
+              {% for piece in "KQRBNP" %} 
+                <li>
+                  <span class="piece-block block"><span data-piece="{{ piece }}" class="piece w{{ piece }}"></span></span>
+                  <span class="piece-block block"><span data-piece="{{ piece|lower }}" class="piece b{{ piece|lower }}"></span></span>
+                </li>
               {% endfor %}
-            </div>
-            <div class="hide">{{ form.pieces_operator }}</div>
-            {% endcomment %}
-          </legend>
-
-          <div class="white-counts clearfix">
-            {{ form.white_pieces_regexp }}
-            <div class="pull-left pieces">
-              <div class="clearfix">
-                {% for piece in "KQRBNP" %}
-                  <span class="piece-block block"><span class="piece w{{ piece }}"></span></span>
-                {% endfor %}
-              </div>
-
-              <div class="clearfix">
-                {% for value in form.white_pieces_regexp.value|default:"1,,,,,"|split:"," %}
-                  <input class="block" type="text" {% if forloop.first %}disabled="disabled"{% endif %} value="{{ value }}" />
-                {% endfor %}
-              </div>
-            </div>
-
-            <div class="total pull-left">
-              {{ form.white_count_cmp }}
-              {{ form.white_count }}
-              <div class="help-text">White Pieces Total</div>
+                <li>
+                  <span class="piece-block block"><span data-piece="A" class="aux-piece w-question"></span></span>
+                  <span class="piece-block block"><span data-piece="a" class="aux-piece b-question"></span></span>
+                </li>
+                <li>
+                  <span class="piece-block block"><span data-piece="e" class="aux-piece wb-question"></span></span>
+                  <span class="piece-block block"><span class=""></span></span>
+                </li>
+              </ul>
             </div>
           </div>
 
-          <div class="black-counts clearfix">
-            {{ form.black_pieces_regexp }}
-            <div class="pull-left pieces">
-              <div class="clearfix">
-                {% for piece in "kqrbnp" %}
-                  <span class="piece-block block"><span class="piece b{{ piece }}"></span></span>
-                {% endfor %}
-              </div>
-
-              <div class="clearfix">
-                {% for value in form.black_pieces_regexp.value|default:"1,,,,,"|split:"," %}
-                  <input class="block" type="text" {% if forloop.first %}disabled="disabled"{% endif %} value="{{ value }}" />
-                {% endfor %}
-              </div>
-            </div>
-
-            <div class="total pull-left">
-              {{ form.black_count_cmp }}
-              {{ form.black_count }}
-              <div class="help-text">Black Pieces Total</div>
-            </div>
+          <div class="form-actions">
+            <button class="btn btn-clear-board">Clear Board</button>
           </div>
         </fieldset>
       </div>
-
-      <fieldset class="position pull-left">
-        <legend>Search by Position
-          <button class="btn btn-reset-fieldset">Clear</button>
-          {% comment %}
-          <div class="operator-buttons btn-group" data-toggle="buttons-radio">
-            {% for choice in form.fen_operator.field.choices %}
-            <label for="id_result_{{ forloop.counter0 }}" 
-                class="btn{% if choice.0 == form.fen_operator.value %} active{% endif %}">
-              {{ choice.1 }}
-            </label>
-            {% endfor %}
-          </div>
-          <div class="hide">{{ form.fen_operator }}</div>
-          {% endcomment %}
-        </legend>
-
-        <div class="control-group">
-          <label class="control-label">{{ form.fen.label }}</label>
-          <div class="controls">
-            {{ form.fen }}
-            <p class="help-block">{{ form.fen.help_text }}</p>
-          </div>
-        </div>
-
-        <div class="position-builder clearfix">
-          {{ form.fen_regexp }}
-          {% include "etudes/chess_board.html" with cell_size=36 board_as_table=1 class="pull-left" pieces_on_board=pieces_on_board %}
-
-          <div class="pull-right">
-            <ul>
-            {% for piece in "KQRBNP" %} 
-              <li>
-                <span class="piece-block block"><span data-piece="{{ piece }}" class="piece w{{ piece }}"></span></span>
-                <span class="piece-block block"><span data-piece="{{ piece|lower }}" class="piece b{{ piece|lower }}"></span></span>
-              </li>
-            {% endfor %}
-              <li>
-                <span class="piece-block block"><span data-piece="A" class="aux-piece w-question"></span></span>
-                <span class="piece-block block"><span data-piece="a" class="aux-piece b-question"></span></span>
-              </li>
-              <li>
-                <span class="piece-block block"><span data-piece="e" class="aux-piece wb-question"></span></span>
-                <span class="piece-block block"><span class=""></span></span>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="form-actions">
-          <button class="btn btn-clear-board">Clear Board</button>
-        </div>
-      </fieldset>
     </div>
 
     <div class="form-actions">
@@ -194,10 +229,16 @@
           <div class="pull-left form-errors alert alert-error">{{ form.errors.values.0.0 }}</div>
         {% elif not etudes_list %}
           <div class="pull-left empty-result alert alert-error">Search result is empty</div>
+        {% else %}
+          <div class="pull-left result alert alert-success">{{ etudes_list|length }} Etudes Are Found</div>
         {% endif %}
       {% endif %}
-      <button type="submit" class="btn btn-primary">Search</button>
-      <button type="reset" class="btn">Reset</button>
+
+      {% if etudes_list and not form.errors %}
+        <button class="btn btn-toggle-form form-hidden">Show Form</button>
+        <button class="btn btn-toggle-form form-showed">Show Etudes</button>
+      {% endif %}
+      <button type="submit" class="btn btn-primary form-showed">Search</button>
     </div>
   </form>
 </div>

@@ -46,10 +46,6 @@ class SearchEtudes(FormView):
         else:
             pieces = None
 
-        if etudes:
-            self.template_name = 'etudes/list.html'
-            return self.render_to_response(dict(etudes_list=etudes))
-
         return self.render_to_response(dict(form=form,
                                             pieces_on_board=pieces,
                                             etudes_list=etudes,

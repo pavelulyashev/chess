@@ -86,7 +86,12 @@ var SearchForm = {
         this.piecesCounter = new PiecesCounter(jqForm.find('.pieces-count'));
         this.posBuilder = new PositionBuilder(jqForm.find('.position'));
         jqForm.submit($.proxy(this.submit, this));
-        jqForm.find('.btn-reset-fieldset').click(function() {
+
+        this.bindEvents();
+    },
+    bindEvents: function() {
+        var jq = this.jq;
+        jq.find('.btn-reset-fieldset').click(function() {
             var fieldset = $(this).closest('fieldset');
             fieldset.find('input:text:not([disabled])').val('');
             fieldset.find(':checkbox').each(function() {
@@ -96,6 +101,11 @@ var SearchForm = {
                     self.prop('checked', false);
                 }
             });
+            return false;
+        });
+
+        jq.find('.btn-toggle-form').click(function() {
+            jq.toggleClass('hide-form');
             return false;
         });
     },
