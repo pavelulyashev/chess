@@ -26,7 +26,7 @@ class SearchEtudeForm(forms.Form):
     author = forms.CharField(max_length=250, required=False)
     result = forms.MultipleChoiceField(choices=RESULT_CHOICES, required=False,
                                        widget=forms.CheckboxSelectMultiple())
-    start_year = forms.IntegerField(label='Year', required=False,
+    start_year = forms.CharField(label='Year', required=False,
                                  help_text='Specify year (first input) or year range',
                                  widget=forms.TextInput(attrs={'class': 'span1'}))
     end_year = forms.IntegerField(required=False,
@@ -72,3 +72,8 @@ class SearchEtudeForm(forms.Form):
             raise forms.ValidationError('Please, specify search parameters')
 
         return data
+
+    # def clean_fen(self):
+    # def clean_fen_regexp(self):
+    # def clean_white_pieces_regexp(self):
+    # def clean_black_pieces_regexp(self):

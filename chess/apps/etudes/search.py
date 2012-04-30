@@ -70,11 +70,7 @@ class SearchEtudes(FormView):
         if result:
             query.add(Q(result__in=result), Q.AND)
 
-        start_year, end_year = data.get('start_year', None), data.get('end_year', None)
-        if start_year is not None:
-            year_q = Q(year=start_year) if end_year is None else\
-                     Q(year__gte=start_year, year__lte=end_year)
-            query.add(year_q, Q.AND)
+        query.add(self.build_year_query(data), Q.AND)
 
         notation = data.get('notation', None)
         if notation:
@@ -117,6 +113,20 @@ class SearchEtudes(FormView):
         if regexp:
             query_keyword = 'board__%s_pieces__regex' % (color,)
             query.add(Q(**{query_keyword: self.modify_pieces_regexp(regexp)}), Q.AND)
+        return query
+
+    def build_year_query(self, data):
+        year, end_year = data.get('start_year', None), data.get('end_year', None)
+        if year is not None:
+            try:
+                year = int(year)
+                query = Q(year=year) | Q(possible_year=year) if end_year is None\
+                        else Q(year__gte=year, year__lte=end_year)
+            except ValueError:
+                query = Q(possible_year=year)
+        else:
+            query = Q()
+
         return query
 
     def build_authors_query(self, author):

@@ -19,9 +19,11 @@
           </a>
 
           <div class="description">
-              <span class="author">{{ etude.get_authors_short }}</span> -
-              <span class="year">{{ etude.year }}</span>
-              <span class="result">{{ etude.get_result }}</span>
+            <div class="descr-left">
+                <span class="author">{{ etude.get_authors_short }}</span> -
+                <span class="year">{{ etude.get_year }}</span>
+            </div>
+            <span class="result">{{ etude.get_result }}</span>
           </div>
         </div>
       </li>

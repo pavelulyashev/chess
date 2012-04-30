@@ -1,3 +1,5 @@
+import re
+
 from django.db import models
 from django.db.models.signals import post_save
 from django.core.urlresolvers import reverse
@@ -14,6 +16,11 @@ RESULTS_RECOGNIZER = {
     '0-1': 'b',
     '1/2-1/2': 'd',
 }
+RESULT_CHOICES_WITH_UNKNOWN = RESULT_CHOICES + (('*', '*'),)
+
+
+def slugify_composer(composer):
+    return '%s%s' % (composer.first_name, composer.last_name)
 
 
 class Composer(models.Model):
@@ -22,9 +29,9 @@ class Composer(models.Model):
     rus_name = models.CharField(max_length=250, blank=True)
     life_years = models.CharField(max_length=30, blank=True)
 
-    slug = AutoSlugField(populate_from='last_name')
-    regexp = models.CharField(max_length=100,
-                              help_text='using when parse author from pgn')
+    slug = AutoSlugField(unique=True,
+                         populate_from=slugify_composer,
+                         always_update=True)
 
     def __unicode__(self):
         return u'%s, %s' % (self.last_name, self.first_name)
@@ -32,12 +39,17 @@ class Composer(models.Model):
     def short(self):
         return u'%s, %s' % (self.last_name, self.first_name[0])
 
+    def get_absolute_url(self):
+        return reverse('etudes_by_composer', args=[self.slug])
+
 
 class Etude(models.Model):
     authors = models.ManyToManyField(Composer, related_name='etudes')
-    year = models.IntegerField(max_length=4)
+    year = models.IntegerField(max_length=4, null=True)
+    possible_year = models.CharField(max_length=4, blank=True)
+    event = models.CharField(max_length=250)
 
-    result = models.CharField(max_length=1, choices=RESULT_CHOICES)
+    result = models.CharField(max_length=1, choices=RESULT_CHOICES_WITH_UNKNOWN)
     fen = models.CharField(max_length=100, unique=True)
     moves = models.TextField()
 
@@ -55,7 +67,20 @@ class Etude(models.Model):
         return ', '.join(author.short() for author in authors_list)
 
     def get_result(self):
-        return dict(RESULT_CHOICES)[self.result]
+        return dict(RESULT_CHOICES_WITH_UNKNOWN)[self.result]
+
+    def get_year(self):
+        if self.year:
+            result = self.year
+        else:
+            match = re.match('(\d{2-3})', self.possible_year)
+            if match is None:
+                result = 'unknown date'
+            else:
+                number = int(match.group())
+                result = ('%d0s' if number > 99 else '%ds century') % (number,)
+        print 'year --->', result, self.year, self.possible_year
+        return result
 
     def get_absolute_url(self, author_slug=None):
         author_slug = author_slug or self.authors.all()[0].slug

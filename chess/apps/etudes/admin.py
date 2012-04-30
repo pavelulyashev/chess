@@ -3,6 +3,20 @@ from django.contrib import admin
 from chess.apps.etudes.models import Etude, Composer, Board
 
 
+def merge_composers(modeladmin, request, queryset):
+    primary_composer = queryset[0]
+    for composer in queryset[1:]:
+        etudes = composer.etudes.all()
+        for etude in etudes:
+            etude.authors.remove(composer)
+            etude.authors.add(primary_composer)
+        composer.delete()
+
+
+def count_etudes(composer):
+    return composer.etudes.count()
+
+
 class ComposerAdmin(admin.ModelAdmin):
     model = Composer
 
@@ -10,15 +24,21 @@ class ComposerAdmin(admin.ModelAdmin):
         (None, {
             'fields': (
                 ('first_name', 'last_name'),
-                'rus_name', 'life_years', 'regexp',
+                'rus_name', 'life_years',
             ),
         }),
     )
 
     ordering = ['last_name', 'first_name']
-    list_display = ('__unicode__', 'first_name', 'last_name',
-                    'rus_name', 'regexp')
-    list_editable = ('first_name', 'last_name', 'rus_name', 'regexp')
+    list_display = ('__unicode__', 'last_name', 'first_name',
+                    count_etudes, 'rus_name', 'slug')
+    list_editable = ('first_name', 'last_name', 'rus_name')
+
+    search_fields = ('last_name',)
+    actions = [merge_composers]
+
+    alphabet_filter = 'last_name'
+    DEFAULT_ALPHABET = u'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 
 class ComposersInline(admin.TabularInline):

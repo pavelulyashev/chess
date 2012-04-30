@@ -15,7 +15,7 @@
         {% include "etudes/chess_board.html" with cell_size=64 board_as_table=1 %}
         <div class="description clearfix">
             <span class="author">{{ etude.get_authors_short }}</span> -
-            <span class="year">{{ etude.year }}</span>
+            <span class="year">{{ etude.get_year }}</span>
             <span class="result pull-right">{{ etude.get_result }}</span>
         </div>
       </div>
@@ -33,7 +33,7 @@
       <div class="inner">
         <div class="description">
             <div class="author">{{ etude.get_authors }}</div>
-            <span class="year">{{ etude.year }}</span>
+            <span class="year">{{ etude.get_year }}</span>
             <span class="result pull-right">{{ etude.get_result }}</span>
         </div>
 

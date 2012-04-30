@@ -15,7 +15,6 @@ class Command(BaseCommand):
         self.fen_set = set(fen[0] for fen in Etude.objects.values_list('fen'))
         self.total_count = self.success_count = self.failed_count = \
                            self.duplicated_count = 0
-        self.unknown_authors = set()
 
     def handle(self, *args, **kwargs):
         if not args:
@@ -30,7 +29,6 @@ class Command(BaseCommand):
         print "Success: %d" % self.success_count
         print "Failed: %d" % self.failed_count
         print "Duplicated: %d" % self.duplicated_count
-        print "Unknown authors: %s" % self.unknown_authors
 
     def _load_pgn_file(self, pgn_file):
         pgn_source = open(pgn_file).read()
@@ -46,38 +44,68 @@ class Command(BaseCommand):
         self.total_count += 1
         if game.fen in self.fen_set:
             self.duplicated_count += 1
+            print 'duplicated --->', self.total_count, game.white, game.fen
             return False
 
         self.fen_set.add(game.fen)
-        authors = self._parse_authors(game.white)
+        authors = self._get_or_create_authors(game.white)
         if authors:
             try:
-                etude = Etude(year=self._parse_date(game.date),
-                              fen=game.fen,
-                              moves=game.moves_source,
-                              result=self._parse_result(game.result))
+                etude_parameters = {
+                    'fen': game.fen,
+                    'event': game.event,
+                    'moves': game.moves_source,
+                    'result': self._parse_result(game.result, game.moves_source)
+                }
+                year = self._parse_date(game.date)
+                try:
+                    etude_parameters['year'] = int(year)
+                except ValueError:
+                    etude_parameters['possible_year'] = year
+
+                etude = Etude(**etude_parameters)
                 etude.save()
                 etude.authors.add(*authors)
                 # self.etudes_bulk.append(etude)
                 self.success_count += 1
+                print 'success --->', self.total_count, authors, game.fen
             except Exception, ex:
-                print ex
+                print 'error --->', self.total_count, ex,\
+                                    game.white, game.moves_source[-10:]
                 self.failed_count += 1
         else:
             self.failed_count += 1
-            self.unknown_authors.add(game.white)
+            print 'empty etude --->', self.total_count
 
-    def _parse_authors(self, token):
+    def _get_or_create_authors(self, token):
         if not token:
             return []
-        return [a for a in self.authors \
-                if re.search(a.regexp, token, flags=re.I)]
+
+        authors = []
+        for author in token.split(','):
+            names = re.search('([A-Z][a-z]+) ([A-Z])', author)
+            if names is not None:
+                last, first = names.groups()
+                author = Composer.objects.filter(last_name=last,
+                                                 first_name__contains=first)
+                try:
+                    authors.append(author[0])
+                except:
+                    composer = Composer(last_name=last, first_name=first)
+                    composer.save()
+                    authors.append(composer)
+
+        return authors
 
     def _parse_date(self, token):
-        return int(token[0:4])
+        return token[0:4]
 
-    def _parse_result(self, token):
-        return RESULTS_RECOGNIZER[token]
+    def _parse_result(self, token, notation):
+        if token == '*':
+            match = re.search('(1-0|1/2-1/2|0-1)', notation)
+            if match is not None:
+                token = match.group()
+        return RESULTS_RECOGNIZER.get(token, '*')
 
     def _get_file_list(self, path):
         if os.path.isfile(path):
