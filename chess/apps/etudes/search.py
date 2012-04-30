@@ -4,7 +4,30 @@ from django.views.generic.edit import FormView
 from django.db.models import Q
 
 from chess.apps.etudes.forms import SearchEtudeForm
-from chess.apps.etudes.models import Etude
+from chess.apps.etudes.models import Etude, Composer
+
+
+class ComposersList(FormView):
+    template_name = 'etudes/composers_list.html'
+
+    def get(self, request):
+        query_value = request.GET.get('q', None)
+        queryset = Composer.objects
+        if query_value:
+            tokens = re.split('\s+', query_value)
+            query = Q()
+            for token in tokens:
+                query.add(Q(last_name__icontains=token) |
+                          Q(first_name__icontains=token) |
+                          Q(rus_name__icontains=token), Q.AND)
+            queryset = queryset.filter(query)
+
+        queryset = queryset.order_by('last_name', 'first_name')
+
+        return self.render_to_response({
+                'composers_list': queryset,
+                'query_value': query_value,
+            })
 
 
 class SearchEtudes(FormView):

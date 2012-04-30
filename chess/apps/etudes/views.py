@@ -1,9 +1,8 @@
 from random import randrange
 
 from django.views.generic import ListView, DetailView, View
-from django.views.generic.edit import FormView
 from django.shortcuts import get_object_or_404
-from django.http import HttpResponseRedirect, Http404
+from django.http import HttpResponseRedirect
 from django.core.urlresolvers import reverse
 
 from chess.apps.etudes.models import Etude, Composer
@@ -49,21 +48,3 @@ class RandomEtude(View):
         author = etude.authors.all()[0]
         return HttpResponseRedirect(reverse('etude_detail',
                                             args=[author.slug, etude.id]))
-
-
-class SearchAuthor(FormView):
-    def post(self, request):
-        query = request.POST.get('query', '')
-        author = Composer.objects.filter(last_name__icontains=query)
-        if not author:
-            raise Http404
-        return HttpResponseRedirect(reverse('etudes_by_composer',
-                                            args=[author[0].slug]))
-
-
-class ComposersList(ListView):
-    context_object_name = 'composers_list'
-    template_name = 'etudes/composers_list.html'
-
-    def get_queryset(self):
-        return Composer.objects.order_by('last_name', 'first_name')

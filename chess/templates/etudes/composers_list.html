@@ -2,12 +2,19 @@
 
 
 {% block content %}
-<ul class="composers-list clearfix">
+<div>
+  <form class="composers-search-form search-form" method="get" action="{% url composers_list %}">
+    <input class="search-query" name="q" value="{{ query_value|default:"" }}" />
+    <input type="submit" class="btn" value="Search" />
+  </form>
+
+  <ul class="composers-list clearfix">
   {% for composer in composers_list %}
     <li class="composer">
       <a class="link" href="{% url etudes_by_composer composer.slug %}">{{ composer }}</a>
       <span class="etudes-count">{{ composer.etudes.all.count }}</span>
     </li>
   {% endfor %}
-</ul>
+  </ul>
+</div>
 {% endblock %}
