@@ -1,11 +1,15 @@
 from random import randrange
 
-from django.views.generic import ListView, DetailView, View
+from django.views.generic import ListView, DetailView, View, TemplateView
 from django.shortcuts import get_object_or_404
 from django.http import HttpResponseRedirect
 from django.core.urlresolvers import reverse
 
 from chess.apps.etudes.models import Etude, Composer
+
+
+class Index(TemplateView):
+    template_name = 'index.html'
 
 
 class EtudesByAuthor(ListView):

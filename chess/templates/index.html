@@ -1,27 +1,10 @@
 {% extends "base.html" %}
 
-{% block extra_head %}
-  <link rel="stylesheet" type="text/css" media="all" href="{{ STATIC_URL }}css/chess.css" />
-  <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-1.7.2.min.js"></script>
-  <script type="text/javascript" src="{{ STATIC_URL }}js/jchess-0.1.0.js"></script>
-  <script type="text/javascript" src="{{ STATIC_URL }}js/app_chess.js"></script>
-{% endblock %}
+
+{% block title %}Chess Etudes Database{% endblock %}
+
+{% block nav_index %}class="active"{% endblock %}
 
 {% block content %}
-<div class="etudes-list-container">
-  <ul class="etudes-list">
-    {% for etude in etudes_list %}
-    <li class="etude-cell {% if forloop.counter|divisibleby:"2" %}light{% else %}dark{% endif %}">
-      <div class="etude-preview" data-fen="{{ etude.fen }}" data-result="{{ etude.result }}" data-pgn="{{ etude.moves }}">
-        <div class="chess-board small"></div>
-        <div class="description">
-            <span class="author">{{ etude.get_authors }}</span> -
-            <span class="year">{{ etude.year }}</span>
-            <span class="result">{{ etude.get_result }}</span>
-        </div>
-      </div>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
-{% endblock content %}
+<h1>Chess Etudes Database</h1>
+{% endblock %}
