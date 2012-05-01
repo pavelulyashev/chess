@@ -153,6 +153,22 @@ li {
 .wrapper {
   margin-top: 60px;
 }
+.etudes-by-composer-container {
+  width: 918px;
+  margin: 0 auto;
+}
+.etudes-by-composer-container .etudes-count {
+  margin: 0 0 20px;
+  font-size: 16px;
+}
+.etudes-by-composer-container .etudes-count .count {
+  font-weight: bold;
+  color: green;
+}
+.etudes-by-composer-container .etudes-count .author {
+  font-weight: bold;
+  color: #08C;
+}
 .etudes-list-without-scroll {
   width: 958px;
   height: 612px;

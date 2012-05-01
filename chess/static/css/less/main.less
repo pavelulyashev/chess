@@ -1,6 +1,6 @@
 @import "chess";
 @import "elements";
-@import "vars850";
+@import "vars1024";
 @import "my_elements";
 
 
@@ -31,6 +31,25 @@ ul, li {
   margin-top: 60px;
 }
 
+.etudes-by-composer-container {
+  width: @main-etude-cell-size * 3;
+  margin: 0 auto;
+
+  .etudes-count {
+    margin: 0 0 20px;
+    font-size: 16px;
+
+    .count {
+      font-weight: bold;
+      color: green;
+    }
+    .author {
+      font-weight: bold;
+      color: #08C;
+    }
+
+  }
+}
 .etudes-list-without-scroll {
   width: @main-etude-cell-size * 3 + 40px;
   height: @main-etude-cell-size * 2;

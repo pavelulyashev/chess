@@ -9,7 +9,6 @@ from chess.apps.etudes.models import Etude, Composer
 
 
 class ComposersList(ListView):
-    template_name = 'etudes/composers_list.html'
     context_object_name = 'composers_list'
     paginate_by = 80
 
@@ -29,34 +28,62 @@ class ComposersList(ListView):
         return queryset.order_by('last_name', 'first_name')
 
     def get_context_data(self, **kwargs):
-        if self.request.is_ajax():
-            self.template_name = 'etudes/ajax_composers_list.html'
-
         context = super(ComposersList, self).get_context_data(**kwargs)
         context['query_value'] = self.query_value
         return context
 
+    def get_template_names(self):
+        return ['etudes/ajax_composers_list.html'] if self.request.is_ajax()\
+                else ['etudes/composers_list.html']
 
-class SearchEtudes(FormView):
-    template_name = 'etudes/search.html'
+
+class SearchEtudes(FormView, ListView):
+    form_class = SearchEtudeForm
+    context_object_name = 'etudes_list'
+    paginate_by = 12
 
     def get(self, request):
-        form = SearchEtudeForm()
+        form = self.get_form(self.form_class)
+        self.object_list = []
         return self.render_to_response(dict(form=form, etudes_list=None))
 
     def post(self, request):
-        form = SearchEtudeForm(request.POST)
-        etudes = self.search_etudes(form) if form.is_valid() else []
+        self.form = self.get_form(self.form_class)
+        queryset = self.get_queryset()
+
+        self.kwargs['page'] = request.POST.get('page', 1)
+        pagination_data = self.paginate_queryset(queryset,
+                                                 self.paginate_by)
+        context = self.get_context_data(*pagination_data)
+        return self.render_to_response(context)
+
+    def get_template_names(self):
+        return ['etudes/ajax_etudes_list.html'] if self.request.is_ajax()\
+                else ['etudes/search.html']
+
+    def get_queryset(self):
+        return self.search_etudes(self.form) if self.form.is_valid() else []
+
+    def get_context_data(self, *args, **kwargs):
+        form = self.form
 
         if form.is_valid():
             pieces = self.board_from_fen(form.cleaned_data.get('fen_regexp', None))
         else:
             pieces = None
+        paginator, page, object_list, is_paginated = args
+        print object_list
+        return dict(etudes_list=object_list,
+                    paginator=paginator,
+                    page_obj=page,
+                    is_paginated=is_paginated,
+                    pieces_on_board=pieces,
+                    form=self.form,
+                    post=True)
 
-        return self.render_to_response(dict(form=form,
-                                            pieces_on_board=pieces,
-                                            etudes_list=etudes,
-                                            post=True))
+    #
+    # search methods
+    #
 
     def search_etudes(self, form):
         query = Q()

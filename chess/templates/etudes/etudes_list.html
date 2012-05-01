@@ -2,5 +2,11 @@
 
 
 {% block content %}
-  {% include "etudes/auxilary_etudes_list.html" %}
+  <div class="etudes-by-composer-container">
+    {% with total=author.etudes.all|length %}
+      <div class="etudes-count"><span class="count">{{ total }}</span> etude{{ total|pluralize }} by <span class="author">{{ author }}</span></div>  
+    {% endwith %}
+
+    {% include "etudes/auxilary_etudes_list.html" with list_class="etudes-by-composer-list" %}
+  </div>
 {% endblock %}

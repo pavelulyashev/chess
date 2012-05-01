@@ -5,6 +5,7 @@ from chess.apps.etudes.search import SearchEtudes, ComposersList
 
 
 urlpatterns = patterns('chess.apps.etudes.views',
+    url(r'^$', RandomEtude.as_view(), name='etude_random'),
     url(r'^random/$', RandomEtude.as_view(), name='etude_random'),
     url(r'^search_etudes/$', SearchEtudes.as_view(), name='etudes_search'),
     url(r'^composers/$', ComposersList.as_view(), name='composers_list'),

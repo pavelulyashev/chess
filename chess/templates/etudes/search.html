@@ -21,10 +21,8 @@
     {% csrf_token %}
 
     {% if etudes_list %}
-      {% include "etudes/auxilary_etudes_list.html" %}
+      {% include "etudes/auxilary_etudes_list.html" with list_class="search-result-list" %}
     {% endif %}
-
-
 
     <div class="form-fieldsets form-showed">
       <div class="clearfix">
@@ -180,7 +178,9 @@
         {% elif not etudes_list %}
           <div class="pull-left empty-result alert alert-error">Search result is empty</div>
         {% else %}
-          <div class="pull-left result alert alert-success">{{ etudes_list|length }} etude{{ etudes_list|pluralize }} found</div>
+          {% with total=paginator.count %}
+            <div class="pull-left result alert alert-success">{{ total }} etude{{ total|pluralize }} found</div>
+          {% endwith %}
         {% endif %}
       {% endif %}
 

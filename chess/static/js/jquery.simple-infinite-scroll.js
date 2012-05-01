@@ -1,18 +1,21 @@
 (function($) {
-var InfiniteScroll = function(jq, total, threshold, url, method) {
+var InfiniteScroll = function(jq, total, threshold, url, method, data) {
     this.jq = jq;
     this.page = 1;
     this.total = total;
     this.threshold = threshold;
     this.url = url;
+    this.data = data;
     this.method = method;
     this.jq.scroll($.proxy(this.scroll, this));
 };
 InfiniteScroll.prototype = {
     constructor: InfiniteScroll,
     loadPage: function() {
-        var jq = this.jq;
-        this._loading = $[this.method](this.url, { page: ++this.page })
+        var jq = this.jq, url = this.url;
+
+        this.page++;
+        this._loading = $[this.method](url, this.getData())
                 .success(function(data) { jq.trigger('pageLoaded', data); });
         if (this.page === this.total) {
             this.jq.off('scroll');
@@ -26,12 +29,23 @@ InfiniteScroll.prototype = {
                 this.loadPage();
             }
         }
+    },
+    getData: function() {
+        if (!this.data) {
+            return { page: this.page };
+        }
+        if (data instanceof Object) {
+            data.page = this.page;
+            return data;
+        } else {
+            return [data, '&page=', this.page].join('');
+        }
     }
 };
 
 $.fn.simpleInfiniteScroll = function(options) {
     var infScroll = new InfiniteScroll(this, options.totalPagesNumber,
-                options.threshold, options.url, options.method);
+            options.threshold, options.url, options.method, options.ajaxData);
     this.data('infiniteScroll', infScroll)
         .on('pageLoaded', options.newPageLoaded);
     return this;

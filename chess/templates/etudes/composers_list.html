@@ -9,10 +9,15 @@
 
 {% block content %}
 <div class="composers-list-container">
-  <form class="composers-search-form search-form" method="get" action="{% url composers_list %}">
-    <input class="search-query" name="q" value="{{ query_value|default:"" }}" />
-    <input type="submit" class="btn" value="Search" />
-  </form>
+  <div class="clearfix">
+    <form class="composers-search-form search-form pull-left" method="get" action="{% url composers_list %}">
+      <input class="search-query" name="q" value="{{ query_value|default:"" }}" />
+      <input type="submit" class="btn" value="Search" />
+    </form>
+    {% with total=paginator.count %}
+      <div class="pull-right composers-count"><span>{{ total }}</span> composer{{ total|pluralize }}</div>
+    {% endwith %}
+  </div>
 
   <div class="composers-list-scroll">
     <ul class="composers-list clearfix"

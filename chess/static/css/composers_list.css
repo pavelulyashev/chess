@@ -1,16 +1,23 @@
 .composers-list-container {
-  width: 1000px;
+  width: 960px;
   margin: 0 auto;
+}
+.composers-list-container .composers-count {
+  font-size: 16px;
+  line-height: 30px;
+}
+.composers-list-container .composers-count span {
+  color: green;
+  font-weight: bold;
 }
 .composers-list-scroll {
   width: 950px;
 }
 .composers-list {
-  width: 1000px;
+  width: 960px;
   height: 480px;
   overflow-y: auto;
 }
-
 .composers-list .composer {
   float: left;
   background-color: #efefef;

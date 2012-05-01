@@ -1,5 +1,5 @@
 (function() {
-var initChessGame = function() {
+var initChessGame = $.initChessGame = function() {
     var self = $(this);
     var size = parseInt(self.find('.chess-board').width(), 10) / 8;
     self.data('cellSize', size).chessGame();
@@ -18,19 +18,19 @@ $(document).ready(function() {
 
     window.chess = $('.etude-detail').data('chess');
 
-    var jqScrollContainer = $('.etudes-list-without-scroll');
-    var url = jqScrollContainer.data('paginationUrl');
-    if (url) {
+    if ($.fn.simpleInfiniteScroll) {
+        var jqScrollContainer = $('.etudes-by-composer-list');
         var jqEtudesList = jqScrollContainer.find('.etudes-list');
         jqScrollContainer.simpleInfiniteScroll({
             totalPagesNumber: jqScrollContainer.data('totalPages'),
             threshold: 100,
-            url: url,
+            url: window.location.href,
             method: 'get',
             newPageLoaded: function(e, data) {
                 var etudes = $(data);
                 jqEtudesList.append(etudes);
                 etudes.find('.etude-preview').each(initChessGame);
+                return false;
             }
         });
     }

@@ -88,6 +88,7 @@ var SearchForm = {
         jqForm.submit($.proxy(this.submit, this));
 
         this.bindEvents();
+        this.initPagination();
     },
     bindEvents: function() {
         var jq = this.jq;
@@ -112,6 +113,25 @@ var SearchForm = {
     submit: function() {
         this.posBuilder.submit();
         this.piecesCounter.submit();
+    },
+    initPagination: function() {
+        if ($.fn.simpleInfiniteScroll) {
+            var jqScrollContainer = $('.search-result-list');
+            var jqEtudesList = jqScrollContainer.find('.etudes-list');
+            data = this.jq.serialize();
+            jqScrollContainer.simpleInfiniteScroll({
+                threshold: 200,
+                method: 'post',
+                url: window.location.href,
+                ajaxData: data,
+                newPageLoaded: function(e, data) {
+                    var etudes = $(data);
+                    jqEtudesList.append(etudes);
+                    etudes.find('.etude-preview').each($.initChessGame);
+                    return false;
+                }
+            });
+        }
     }
 };
 

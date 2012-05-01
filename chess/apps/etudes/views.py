@@ -10,7 +10,6 @@ from chess.apps.etudes.models import Etude, Composer
 
 class EtudesByAuthor(ListView):
     context_object_name = 'etudes_list'
-    template_name = 'etudes/etudes_list.html'
     paginate_by = 12
 
     def get_queryset(self):
@@ -19,12 +18,13 @@ class EtudesByAuthor(ListView):
         return self.author.etudes.all()
 
     def get_context_data(self, **kwargs):
-        if self.request.is_ajax():
-            self.template_name = 'etudes/ajax_etudes_list.html'
-
         context = super(EtudesByAuthor, self).get_context_data(**kwargs)
         context['author'] = self.author
         return context
+
+    def get_template_names(self):
+        return ['etudes/ajax_etudes_list.html'] if self.request.is_ajax()\
+                else ['etudes/etudes_list.html']
 
 
 class EtudeDetail(DetailView):

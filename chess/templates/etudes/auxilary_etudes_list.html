@@ -8,9 +8,8 @@
 
 
 <div class="etudes-list-container form-hidden"> 
-  <div class="etudes-list-without-scroll"
+  <div class="etudes-list-without-scroll {{ list_class }}"
     {% if is_paginated %}
-      data-pagination-url="{{ author.get_absolute_url }}"
       data-total-pages="{{ paginator.num_pages }}"
     {% endif %}>
 
