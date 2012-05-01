@@ -1,0 +1,25 @@
+.composers-list-container {
+  width: 1000px;
+  margin: 0 auto;
+}
+.composers-list-scroll {
+  width: 950px;
+}
+.composers-list {
+  width: 1000px;
+  height: 480px;
+  overflow-y: auto;
+}
+
+.composers-list .composer {
+  float: left;
+  background-color: #efefef;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+.composers-list .composer .etudes-count {
+  float: right;
+  color: green;
+}

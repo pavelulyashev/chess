@@ -1,17 +1,20 @@
 import re
 
 from django.views.generic.edit import FormView
+from django.views.generic import ListView
 from django.db.models import Q
 
 from chess.apps.etudes.forms import SearchEtudeForm
 from chess.apps.etudes.models import Etude, Composer
 
 
-class ComposersList(FormView):
+class ComposersList(ListView):
     template_name = 'etudes/composers_list.html'
+    context_object_name = 'composers_list'
+    paginate_by = 80
 
-    def get(self, request):
-        query_value = request.GET.get('q', None)
+    def get_queryset(self):
+        query_value = self.request.GET.get('q', None)
         queryset = Composer.objects
         if query_value:
             tokens = re.split('\s+', query_value)
@@ -22,12 +25,16 @@ class ComposersList(FormView):
                           Q(rus_name__icontains=token), Q.AND)
             queryset = queryset.filter(query)
 
-        queryset = queryset.order_by('last_name', 'first_name')
+        self.query_value = query_value
+        return queryset.order_by('last_name', 'first_name')
 
-        return self.render_to_response({
-                'composers_list': queryset,
-                'query_value': query_value,
-            })
+    def get_context_data(self, **kwargs):
+        if self.request.is_ajax():
+            self.template_name = 'etudes/ajax_composers_list.html'
+
+        context = super(ComposersList, self).get_context_data(**kwargs)
+        context['query_value'] = self.query_value
+        return context
 
 
 class SearchEtudes(FormView):

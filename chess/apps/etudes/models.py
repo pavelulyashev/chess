@@ -81,7 +81,6 @@ class Etude(models.Model):
             else:
                 number = int(match.group())
                 result = ('%d0s' if number > 99 else '%ds century') % (number,)
-        print 'year --->', result, self.year, self.possible_year
         return result
 
     def get_absolute_url(self, author_slug=None):

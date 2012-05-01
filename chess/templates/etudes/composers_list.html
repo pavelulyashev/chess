@@ -1,20 +1,27 @@
 {% extends "base.html" %}
 
+{% block custom_js %}
+  <link rel="stylesheet" type="text/css" media="all" href="{{ STATIC_URL }}css/composers_list.css" />
+  {% if is_paginated %}
+    <script type="text/javascript" src="{{ STATIC_URL }}js/jquery.simple-infinite-scroll.js"></script>
+  {% endif %}
+{% endblock %}
 
 {% block content %}
-<div>
+<div class="composers-list-container">
   <form class="composers-search-form search-form" method="get" action="{% url composers_list %}">
     <input class="search-query" name="q" value="{{ query_value|default:"" }}" />
     <input type="submit" class="btn" value="Search" />
   </form>
 
-  <ul class="composers-list clearfix">
-  {% for composer in composers_list %}
-    <li class="composer">
-      <a class="link" href="{% url etudes_by_composer composer.slug %}">{{ composer }}</a>
-      <span class="etudes-count">{{ composer.etudes.all.count }}</span>
-    </li>
-  {% endfor %}
-  </ul>
+  <div class="composers-list-scroll">
+    <ul class="composers-list clearfix"
+      {% if is_paginated %}
+        data-total-pages="{{ paginator.num_pages }}"
+      {% endif %}>
+        
+      {% include "etudes/ajax_composers_list.html" %}
+    </ul>
+  <div>
 </div>
 {% endblock %}

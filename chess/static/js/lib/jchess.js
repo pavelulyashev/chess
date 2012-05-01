@@ -52,6 +52,9 @@
  *
  * use namespace utils for this purposes
  */
+var debug = false;
+
+
 var utils = {
     extend: $.extend,
     trim: $.trim,
@@ -237,7 +240,7 @@ Move.prototype = {
                 this.pawnPromotion = RegExp.$8;                   // [BNQR]
             }
         } else {
-            console.assert(false, 'Invalid move format');
+            if (debug) { console.assert(false, 'Invalid move format'); }
         }
 
         if (token.match(this.patterns.endSymbols)) {
@@ -306,13 +309,15 @@ MoveNode.prototype = {
     },
     addNext: function(moveNode) {
         var numbersDiff = moveNode.number - this.number;
-        console.assert(this.player === undefined || 
-                       this.player !== moveNode.player,
-                       'Consequtive moves for one player', this, moveNode);
-        console.assert(this.player === undefined || 
-                       this.player === 0 && numbersDiff === 0 ||
-                       this.player === 1 && numbersDiff === 1,
-                       'Invalid numbers for consequtive moves', this, moveNode);
+        if (debug) {
+            console.assert(this.player === undefined || 
+                        this.player !== moveNode.player,
+                        'Consequtive moves for one player', this, moveNode);
+            console.assert(this.player === undefined || 
+                        this.player === 0 && numbersDiff === 0 ||
+                        this.player === 1 && numbersDiff === 1,
+                        'Invalid numbers for consequtive moves', this, moveNode);
+        }
         this.next = moveNode;
         moveNode.prev = this;
     },
@@ -355,7 +360,7 @@ ChessNotation.prototype = {
     },
     parsePgn: function(pgn) {
         var tokens = pgn.match(this.patterns.split);
-        console.assert(tokens !== null, 'Invalid notation');
+        if (debug) {console.assert(tokens !== null, 'Invalid notation'); }
 
         this.createVariantsTree(tokens);
     },
@@ -509,7 +514,7 @@ var ChessGame = function(options) {
         this.parsePgn(this.options.pgn);
         this.currentMove = this.notation.tree;
     }
-    console.log(this.board + '');
+    if (debug) { console.log(this.board + ''); }
 };
 ChessGame.prototype = {
     constructor: ChessGame,
@@ -521,7 +526,7 @@ ChessGame.prototype = {
         notation: /(\d+\.(\.\.)? [BNKQROa-h].*(1\-0|1\/2\-1\/2|0\-1|\*))/
     },
     parseFen: function(fen) {
-        console.assert(fen, 'Given FEN is empty', fen);
+        if (debug) { console.assert(fen, 'Given FEN is empty', fen); }
 
         var fenParts = utils.trim(fen).split(/\s+/);
 
@@ -613,7 +618,7 @@ ChessGame.prototype = {
             transitions = this.getForwardTransitions(moveNode.move);
             this.currentMove = moveNode;
             this.board.runMove(transitions);
-            console.log(this.board + '', moveNode.move + '');
+            if (debug) { console.log(this.board + '', moveNode.move + ''); }
             return transitions;
         }
     },
@@ -623,7 +628,7 @@ ChessGame.prototype = {
             transitions = this.getBackwardTransitions(moveNode.move);
             this.currentMove = moveNode.prev;
             this.board.runMove(transitions);
-            console.log(this.board + '', moveNode.move + '');
+            if (debug) { console.log(this.board + '', moveNode.move + ''); }
             return transitions;
         }
     },
@@ -633,7 +638,7 @@ ChessGame.prototype = {
             transitions = this.getForwardTransitions(moveNode.move);
             this.currentMove = moveNode;
             this.board.runMove(transitions);
-            console.log(this.board + '', moveNode.move + '');
+            if (debug) { console.log(this.board + '', moveNode.move + ''); }
             return transitions;
         }
     },
@@ -776,14 +781,14 @@ ChessGameView.prototype = {
         }
     },
     moveToFirst: function(animate) {
-        console.time('moveToFirst');
+        if (debug) { console.time('moveToFirst'); }
         while (this.moveBackward(animate || false)) {}
-        console.timeEnd('moveToFirst');
+        if (debug) { console.timeEnd('moveToFirst'); }
     },
     moveToLast: function(animate) {
-        console.time('moveToLast');
+        if (debug) { console.time('moveToLast'); }
         while (this.moveForward(animate || false)) {}
-        console.timeEnd('moveToLast');
+        if (debug) { console.timeEnd('moveToLast'); }
     },
     flipBoard: function() {
         this._jqBoard.find('.' + this.options.pieceClass).each(function() {
@@ -864,7 +869,7 @@ ChessGameView.prototype = {
 
 
 $.fn.chessGame = function(options) {
-    console.time('chess init');
+    if (debug) { console.time('chess init'); }
     this.each(function() {
         var self = $(this);
         var opt = $.extend({}, options);
@@ -874,7 +879,7 @@ $.fn.chessGame = function(options) {
         });
         self.data('chess', new ChessGameView(self, opt));
     });
-    console.timeEnd('chess init');
+    if (debug) { console.timeEnd('chess init'); }
     return this;
 };
 })(jQuery);

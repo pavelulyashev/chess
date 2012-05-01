@@ -1,0 +1,21 @@
+{% block custom_js %}
+  {% if is_paginated %}
+    <script type="text/javascript" src="{{ STATIC_URL }}js/jquery.simple-infinite-scroll.js"></script>
+  {% endif %}
+  <script type="text/javascript" src="{{ STATIC_URL }}js/lib/jchess.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/app_chess.js"></script>
+{% endblock %}
+
+
+<div class="etudes-list-container form-hidden"> 
+  <div class="etudes-list-without-scroll"
+    {% if is_paginated %}
+      data-pagination-url="{{ author.get_absolute_url }}"
+      data-total-pages="{{ paginator.num_pages }}"
+    {% endif %}>
+
+    <ul class="etudes-list">
+      {% include "etudes/ajax_etudes_list.html" %}
+    </ul>
+  </div>
+</div>
