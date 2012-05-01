@@ -1,36 +1,41 @@
 @import "chess";
 @import "elements";
+@import "vars850";
+@import "my_elements";
 
 
-@piece-size: 32px;
-@piece-margin: 2px;
-@total-input-width: 50px;
+.aux-piece (@size) {
+  width: @size;
+  height: @size;
+  background: url('../images/pieces/questions/@{size}.png');
+  display: block;
+  &.w-question { background-position: 0 0; }
+  &.b-question { background-position: -1 * @size 0 }
+  &.wb-question { background-position: -2 * @size 0 }
+}
 
+
+.etudes-search .position .chess-board {
+  .chess-board(@search-board-cell-size);
+}
+.etudes-search .position .aux-piece {
+  .aux-piece(@search-piece-size);
+}
+.etudes-search .position .chess-board .aux-piece {
+  .aux-piece(@search-board-cell-size);
+}
 
 .etudes-search {
-  .aux-piece {
-    width: 32px;
-    height: 32px;
-    background: url(../images/pieces/questions32.png);
-    display: block;
-    &.w-question { background-position: 0 0; }
-    &.b-question { background-position: -32px 0 }
-    &.wb-question { background-position: -64px 0 }
-  }
-  .chess-board {
-    .aux-piece { margin: 2px; }
-  }
-
   .piece-block {
     background-color: #efefef;
     display: inline-block;
-    .piece { .chess-piece(@piece-size); }
+    .piece { .chess-piece(@search-piece-size); }
   }
 
   .block {
-    padding: @piece-margin;
-    height: @piece-size;
-    width: @piece-size;
+    padding: @search-piece-margin;
+    height: @search-piece-size;
+    width: @search-piece-size;
     display: block;
     float: left;
     border: none;
@@ -42,13 +47,14 @@
     .rounded(5px);
     border: 1px solid #ccc;
     display: inline-block;
-    margin: 0 12px 5px;
+    margin: @search-counts-table-margin 0 0;
 
     input.block {
       border-top: 1px solid #ccc;
       text-align: center;
       outline: none;
       box-shadow: none;
+      font-size: 0.5 * @search-piece-size;
     }
 
     .piece-count {
@@ -56,28 +62,34 @@
     }
     .total {
       select, input {
-        width: @total-input-width;
-        height: @piece-size + 2 * @piece-margin + 1px;
-        font-size: 2/3 * @piece-size;
-        box-sizing: border-box;
+        width: @search-total-input-width;
+        height: @search-piece-size + 2 * @search-piece-margin + 1px;
+        font-size: 2/3 * @search-piece-size;
+        .box-sizing(border-box);
         float: left;
         text-align: center;
       }
       .help-text {
-        width: 2 * @total-input-width;
+        width: 2 * @search-total-input-width;
         text-align: center;
-        font-size: 0.4 * @piece-size;
+        font-size: 0.4 * @search-piece-size - 1px;
       }
     }
   }
 
   fieldset {
-    width: 350px;
+    width: @search-form-width / 2 - 30px;
     margin-right: 30px;
 
     legend {
       border: none;
+      text-align: left;
+      margin: 0;
     }
+    .fieldset-inner {
+      margin-top: @main-small-cell-size;    
+    }
+
     .control-group {
       .control-label {
         width: 70px;
@@ -86,8 +98,11 @@
         margin-left: 80px;
       }
     }
+    &.pieces-count {
+      text-align: center;    
+    }
     &.position {
-      width: 380px;
+      width: @search-form-width / 2;
       margin: 0;
       .control-group {
         label { width: 40px; }
@@ -99,10 +114,14 @@
           }
         }
       }
+      .help-block {
+        margin: 15px 0 20px;
+        font-size: 13px;
+      }
       .form-actions {
         margin-bottom: 0;
         padding: 15px;
-        margin-top: 12px;
+        margin-top: 20px;
       }
     }
 
@@ -120,14 +139,18 @@
     }
   }
 
-  form {
+  .etudes-search-form {
+    width: @search-form-width;
     display: table;
     margin: 0 auto;
-    background-color: #fdfdfd;
-    padding: 20px;
+    padding: 0;
+
+    .form-fieldsets {
+      height: @search-form-height;    
+    }
 
     .form-actions {
-      margin-top: 6px;
+      margin: 15px 0 0;
       padding-left: 20px;
 
       button {

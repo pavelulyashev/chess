@@ -2,7 +2,7 @@
 
 
 {% if board_as_table %}
-<div class="chess-board board-as-table board{{ cell_size }} {{ class }}">
+<div class="chess-board board-as-table {% if cell_size %}board{{ cell_size }}{% endif %} {{ class }}">
   <table border="0" cellpadding="0">
     {% for rank in "12345678" %}
       <tr data-rank="{{ rank }}">

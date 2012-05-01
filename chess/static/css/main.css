@@ -1,0 +1,330 @@
+/*---------------------------------------------------
+    LESS Elements 0.6
+  ---------------------------------------------------
+    A set of useful LESS mixins by Dmitry Fadeyev
+    Special thanks for mixin suggestions to:
+      Kris Van Herzeele,
+      Benoit Adam,
+      Portenart Emile-Victor,
+      Ryan Faerman
+
+    More info at: http://lesselements.com
+-----------------------------------------------------*/
+.etude-preview .chess-board {
+  width: 256px;
+  height: 256px;
+  position: relative;
+}
+.etude-preview .chess-board .piece {
+  position: absolute;
+  margin: 0;
+  background: transparent url('../images/pieces/alpha/32.png') no-repeat;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  display: block;
+}
+.etude-preview .chess-board .piece.wK {
+  background-position: 0px 0;
+}
+.etude-preview .chess-board .piece.wQ {
+  background-position: -32px 0;
+}
+.etude-preview .chess-board .piece.wR {
+  background-position: -64px 0;
+}
+.etude-preview .chess-board .piece.wB {
+  background-position: -96px 0;
+}
+.etude-preview .chess-board .piece.wN {
+  background-position: -128px 0;
+}
+.etude-preview .chess-board .piece.wP {
+  background-position: -160px 0;
+}
+.etude-preview .chess-board .piece.bk {
+  background-position: -192px 0;
+}
+.etude-preview .chess-board .piece.bq {
+  background-position: -224px 0;
+}
+.etude-preview .chess-board .piece.br {
+  background-position: -256px 0;
+}
+.etude-preview .chess-board .piece.bb {
+  background-position: -288px 0;
+}
+.etude-preview .chess-board .piece.bn {
+  background-position: -320px 0;
+}
+.etude-preview .chess-board .piece.bp {
+  background-position: -352px 0;
+}
+.etude-preview .chess-board.board-as-image {
+  background: transparent url('../images/boards/board32.png') no-repeat;
+}
+.etude-preview .chess-board.board-as-table td {
+  vertical-align: top;
+  width: 32px;
+  height: 32px;
+}
+.etude-preview .chess-board.board-as-table td.white {
+  background-color: white;
+}
+.etude-preview .chess-board.board-as-table td.black {
+  background-color: #b2b2b2;
+}
+.etude-detail .chess-board {
+  width: 640px;
+  height: 640px;
+  position: relative;
+}
+.etude-detail .chess-board .piece {
+  position: absolute;
+  margin: 0;
+  background: transparent url('../images/pieces/alpha/80.png') no-repeat;
+  width: 80px;
+  height: 80px;
+  padding: 0;
+  display: block;
+}
+.etude-detail .chess-board .piece.wK {
+  background-position: 0px 0;
+}
+.etude-detail .chess-board .piece.wQ {
+  background-position: -80px 0;
+}
+.etude-detail .chess-board .piece.wR {
+  background-position: -160px 0;
+}
+.etude-detail .chess-board .piece.wB {
+  background-position: -240px 0;
+}
+.etude-detail .chess-board .piece.wN {
+  background-position: -320px 0;
+}
+.etude-detail .chess-board .piece.wP {
+  background-position: -400px 0;
+}
+.etude-detail .chess-board .piece.bk {
+  background-position: -480px 0;
+}
+.etude-detail .chess-board .piece.bq {
+  background-position: -560px 0;
+}
+.etude-detail .chess-board .piece.br {
+  background-position: -640px 0;
+}
+.etude-detail .chess-board .piece.bb {
+  background-position: -720px 0;
+}
+.etude-detail .chess-board .piece.bn {
+  background-position: -800px 0;
+}
+.etude-detail .chess-board .piece.bp {
+  background-position: -880px 0;
+}
+.etude-detail .chess-board.board-as-image {
+  background: transparent url('../images/boards/board80.png') no-repeat;
+}
+.etude-detail .chess-board.board-as-table td {
+  vertical-align: top;
+  width: 80px;
+  height: 80px;
+}
+.etude-detail .chess-board.board-as-table td.white {
+  background-color: white;
+}
+.etude-detail .chess-board.board-as-table td.black {
+  background-color: #b2b2b2;
+}
+ul,
+li {
+  list-style-type: none;
+  margin: 0;
+}
+.navbar .form-search {
+  margin: 7px 20px;
+}
+.navbar .form-search input {
+  margin: 0;
+  padding: 3px 10px;
+}
+.wrapper {
+  margin-top: 60px;
+}
+.etudes-list-without-scroll {
+  width: 958px;
+  height: 612px;
+  overflow-y: auto;
+}
+.etudes-list-container {
+  width: 918px;
+  margin: auto;
+  background-color: #eee;
+}
+.etude-cell {
+  width: 306px;
+  height: 306px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  padding: 16px 25px;
+  float: left;
+}
+.etude-cell.light {
+  background-color: #fefefe;
+}
+.etude-cell.dark {
+  background-color: #efefef;
+}
+.etude-cell:hover {
+  background-color: #dcdcdc;
+}
+.etude-preview {
+  margin: auto;
+}
+.etude-preview .description {
+  margin: 9.6px 0 0;
+  font-size: 13.714285714285714px;
+  font-weight: bold;
+  height: 14px;
+  width: 256px;
+}
+.etude-preview .description .descr-left {
+  float: left;
+  width: 208px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 18px;
+  line-height: 18px;
+}
+.etude-preview .description .result {
+  float: right;
+  text-align: right;
+  width: 48px;
+}
+.etude-detail {
+  display: table;
+  margin: 0 auto;
+}
+.etude-detail .etude-problem {
+  position: relative;
+}
+.etude-detail .etude-problem .inner .description {
+  font-size: 25px;
+  font-weight: bold;
+  color: #555;
+  margin: 20px 0;
+}
+.etude-detail .etude-problem .slide-link {
+  cursor: pointer;
+  position: absolute;
+  right: -130px;
+  top: 320px;
+}
+.etude-detail .etude-problem .slide-link .link {
+  font-size: 20px;
+  color: #bbb;
+  white-space: nowrap;
+  padding: 10px;
+}
+.etude-detail .etude-problem .slide-link .link i {
+  visibility: hidden;
+  display: inline-block;
+  margin: 4px;
+}
+.etude-detail .etude-problem .slide-link .link:hover {
+  background-color: #ededed;
+}
+.etude-detail .etude-problem .slide-link .link:hover i {
+  visibility: visible;
+}
+.etude-detail .etude-problem .slide-link .link.spoiler-reveal {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.etude-detail .etude-solution {
+  display: none;
+}
+.etude-detail.solution-opened .etude-problem {
+  display: block;
+  float: left;
+}
+.etude-detail.solution-opened .etude-problem .slide-link,
+.etude-detail.solution-opened .etude-problem .description {
+  display: none;
+}
+.etude-detail.solution-opened .etude-solution {
+  display: block;
+  float: left;
+  margin: 0 30px;
+}
+.etude-detail.solution-opened .etude-solution .inner .description {
+  margin: 0 0 20px;
+  font-size: 20px;
+}
+.etude-detail.solution-opened .etude-solution .inner .description .author {
+  margin: 0 0 20px;
+}
+.etude-detail.solution-opened .etude-solution .inner .chess-notation {
+  display: block;
+  margin: 0 0 20px;
+  word-wrap: normal;
+  word-break: normal;
+  max-width: 300px;
+}
+.etude-detail.solution-opened .etude-solution .inner .chess-notation .move {
+  display: inline-block;
+  cursor: default;
+  border-radius: 4px;
+  padding: 0 6px 1px;
+}
+.etude-detail.solution-opened .etude-solution .inner .chess-notation .move.active {
+  background-color: #999;
+  color: white;
+}
+.etude-detail.solution-opened .etude-solution .inner .chess-notation .move:hover {
+  background-color: #444;
+  color: white;
+}
+.etude-detail.solution-opened .etude-solution .inner .navigation .btn {
+  margin: 0 3px;
+  padding: 4px 14px;
+}
+.etude-detail.solution-opened .etude-solution .slide-link {
+  cursor: pointer;
+  margin: 20px 0 0;
+}
+.etude-detail.solution-opened .etude-solution .slide-link .link {
+  font-size: 20px;
+  color: #bbb;
+  white-space: nowrap;
+  padding: 7px;
+  background-color: #ededed;
+  display: inline-block;
+}
+.etude-detail.solution-opened .etude-solution .slide-link .link i {
+  display: inline-block;
+  margin: 4px;
+}
+.etude-detail.solution-opened .etude-solution .slide-link .link:hover i {
+  position: relative;
+  left: -3px;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+.composers-list .composer {
+  float: left;
+  background-color: #efefef;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+.composers-list .composer .etudes-count {
+  float: right;
+  color: green;
+}

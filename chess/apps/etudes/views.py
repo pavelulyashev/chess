@@ -11,7 +11,7 @@ from chess.apps.etudes.models import Etude, Composer
 class EtudesByAuthor(ListView):
     context_object_name = 'etudes_list'
     template_name = 'etudes/list.html'
-    # paginate_by = 6
+    paginate_by = 12
 
     def get_queryset(self):
         author_slug = self.kwargs['author_slug']

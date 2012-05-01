@@ -1,6 +1,11 @@
 (function() {
 $(document).ready(function() {
-    $('.etudes-list .etude-preview, .etude-detail').chessGame();
+    $('.etudes-list .etude-preview, .etude-detail').each(function() {
+        var self = $(this);
+        var size = parseInt(self.find('.chess-board').width(), 10) / 8;
+        self.data('cellSize', size);
+    }).chessGame();
+
     $('.etude-detail').on('click', '.spoiler-reveal', function(e) {
         e.preventDefault();
         $(this).closest('.etude-detail').addClass('solution-opened');

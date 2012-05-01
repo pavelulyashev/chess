@@ -1,4 +1,15 @@
+@import "chess";
 @import "elements";
+@import "vars850";
+@import "my_elements";
+
+
+.etude-preview .chess-board {
+  .chess-board(@main-small-cell-size);
+}
+.etude-detail .chess-board {
+  .chess-board(@main-large-cell-size);
+}
 
 
 ul, li {
@@ -16,18 +27,26 @@ ul, li {
   }
 }
 
+.wrapper {
+  margin-top: 60px;
+}
+
 .etudes-list-without-scroll {
-  width: 790px;
-  height: 504px;
+  width: @main-etude-cell-size * 3 + 40px;
+  height: @main-etude-cell-size * 2;
   overflow-y: auto;
 }
 .etudes-list-container {
-  width: 750px;
+  width: @main-etude-cell-size * 3;
   margin: auto;
+  background-color: #eee;
 }
 
 .etude-cell {
-  padding: 16px 29px 16px;
+  width: @main-etude-cell-size;
+  height: @main-etude-cell-size;
+  .box-sizing(border-box);
+  padding: @main-etude-cell-vert-padding @main-etude-cell-horiz-padding;
   float: left;
 
   &.light {
@@ -45,15 +64,15 @@ ul, li {
   margin: auto;
 
   .description {
-    margin: 10px 0 0;
-    font-size: 12px;
+    margin: 0.3 * @main-small-cell-size 0 0;
+    font-size: 3/7 * @main-small-cell-size;
     font-weight: bold;
     height: 14px;
-    width: 188px;
+    width: @main-small-board-size;
 
     .descr-left {
       float: left;
-      width: 148px;
+      width: @main-small-board-size - @main-etude-cell-result-size;
       overflow: hidden;
       text-overflow: ellipsis;
       height: 18px;
@@ -62,6 +81,8 @@ ul, li {
 
     .result {
       float: right;
+      text-align: right;
+      width: @main-etude-cell-result-size;
     }
   }
 }
@@ -86,7 +107,7 @@ ul, li {
       cursor: pointer;
       position: absolute;
       right: -130px;
-      top: 235px;
+      top: @main-large-board-size / 2;
 
       .link {
         font-size: 20px;
@@ -142,11 +163,28 @@ ul, li {
         }
         .chess-notation {
           display: block;    
-          width: 300px;
           margin: 0 0 20px;
           word-wrap: normal;
           word-break: normal;
+          max-width: 300px;
+
+          .move {
+            display: inline-block;
+            cursor: default;
+            border-radius: 4px;
+            padding: 0 6px 1px;
+            &.active {
+              background-color: #999;
+              color: white;
+            }
+
+            &:hover {
+              background-color: #444;
+              color: white;
+            }
+          }
         }
+
         .navigation .btn {
           margin: 0 3px;     
           padding: 4px 14px;

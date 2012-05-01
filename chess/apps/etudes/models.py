@@ -1,3 +1,5 @@
+#-*- coding: utf-8 -*-
+
 import re
 
 from django.db import models
@@ -9,7 +11,7 @@ from autoslug import AutoSlugField
 RESULT_CHOICES = (
     ('w', '1-0'),
     ('b', '0-1'),
-    ('d', '1/2-1/2'),
+    ('d', '½-½'),
 )
 RESULTS_RECOGNIZER = {
     '1-0': 'w',

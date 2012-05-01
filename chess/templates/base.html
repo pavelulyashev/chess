@@ -3,14 +3,14 @@
   <head>
     <link rel="stylesheet" type="text/css" media="all" href="{{ STATIC_URL }}css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" media="all" href="{{ STATIC_URL }}css/bootstrap-responsive.min.css" />
-    <link rel="stylesheet/less" type="text/css" media="all" href="{{ STATIC_URL }}css/elements.less" />
-    <link rel="stylesheet/less" type="text/css" media="all" href="{{ STATIC_URL }}css/main.less" />
-    <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-1.7.2.min.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen and (max-height: 850px)" href="{{ STATIC_URL }}css/main850.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (min-height: 851px)" href="{{ STATIC_URL }}css/main.css" />
+    <script type="text/javascript" src="{{ STATIC_URL }}js/lib/jquery-1.7.2.min.js"></script>
 
     {% block extra_head %}{% endblock %}
     {% block custom_css %}{% endblock %}
     {% block custom_js %}{% endblock %}
-    <script type="text/javascript" src="{{ STATIC_URL }}js/less-1.3.0.min.js"></script>
+    <!-- <script type="text/javascript" src="{{ STATIC_URL }}js/lib/less-1.3.0.min.js"></script> -->
   
     <title>{% block title %}Chess etudes{% endblock %}</title>
   </head>
@@ -20,7 +20,6 @@
       {% block header %} {% include "header.html" %} {% endblock %}
       
       <div class="container">
-        <header class="page-header"></header>
         {% block content %}{% endblock %}
       </div>
       

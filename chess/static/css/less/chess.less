@@ -1,0 +1,46 @@
+.chess-piece(@cell-size, @pieces-theme: 'alpha') {
+  background: transparent url('../images/pieces/@{pieces-theme}/@{cell-size}.png') no-repeat;
+  width: @cell-size;
+  height: @cell-size;
+  padding: 0; 
+  display: block;
+
+  &.wK { background-position: @cell-size * (0) 0; }
+  &.wQ { background-position: @cell-size * (-1) 0; }
+  &.wR { background-position: @cell-size * (-2) 0; }
+  &.wB { background-position: @cell-size * (-3) 0; }
+  &.wN { background-position: @cell-size * (-4) 0; }
+  &.wP { background-position: @cell-size * (-5) 0; }
+
+  &.bk { background-position: @cell-size * (-6) 0; }
+  &.bq { background-position: @cell-size * (-7) 0; }
+  &.br { background-position: @cell-size * (-8) 0; }
+  &.bb { background-position: @cell-size * (-9) 0; }
+  &.bn { background-position: @cell-size * (-10) 0; }
+  &.bp { background-position: @cell-size * (-11) 0; }
+}
+
+
+.chess-board(@cell-size, @pieces-theme: 'alpha') {
+  width: @cell-size * 8;
+  height: @cell-size * 8;
+  position: relative;
+
+  .piece {
+    position: absolute;
+    margin: 0;
+    .chess-piece(@cell-size, @pieces-theme);
+  }
+  &.board-as-image {
+    background: transparent url('../images/boards/board@{cell-size}.png') no-repeat;
+  }
+  &.board-as-table {
+    td {
+      vertical-align: top;
+      width: @cell-size;
+      height: @cell-size;
+      &.white { background-color: white; }
+      &.black { background-color: #b2b2b2; }
+    }
+  }
+}
