@@ -208,8 +208,12 @@ var utils = {
 var Move = function(token, player) {
     this.source = token;
     this.parseToken(token);
-    this.reduceFileAndRankToCoordinates();
-    this.reducePieceByPlayer(player);
+    if (this.castling) {
+        this.setCastlingPieces(player);
+    } else {
+        this.reduceFileAndRankToCoordinates();
+        this.reducePieceByPlayer(player);
+    }
 };
 Move.prototype = {
     constructor: Move,
@@ -253,6 +257,20 @@ Move.prototype = {
                 this.nag = RegExp.$2;
             }
         }
+    },
+    setCastlingPieces: function(player) {
+        var rank = player === 0 ? 0 : 7;
+        var files = this.castlingSide === 'king' ? [4, 6, 7, 5] : [4, 2, 0, 3];
+        this.king = {
+            src: { file: files[0], rank: rank },
+            dest: { file: files[1], rank: rank },
+            piece: player === 0 ? 'K' : 'k'
+        };
+        this.rook = {
+            src: { file: files[2], rank: rank },
+            dest: { file: files[3], rank: rank },
+            piece: player === 0 ? 'R' : 'r'
+        };
     },
     reduceFileAndRankToCoordinates: function() {
         var files = 'abcdefgh';
@@ -558,6 +576,18 @@ ChessGame.prototype = {
         return true;
     },
     getForwardTransitions: function(move) {
+        if (move.castling) {
+            return [{
+                move: true,
+                piece: this.board.getPiece(move.king.src),
+                destCell: move.king.dest
+            }, {
+                move: true,
+                piece: this.board.getPiece(move.rook.src),
+                destCell: move.rook.dest
+            }];
+        }
+
         var piece = this.board.getSourcePiece(move);
         var transitions = [{
             move: true,
@@ -567,7 +597,24 @@ ChessGame.prototype = {
         move.src.file = piece.file;
         move.src.rank = piece.rank;
 
-        if (move.capturing) {
+        if (move.piece.toLowerCase() === 'p') {
+            if (Math.abs(move.dest.rank - move.src.rank) === 2) {
+                move.enPassant = true;
+            }
+            if (move.capturing && !this.board.getPiece(move.dest)) {
+                var cell = {
+                    file: move.dest.file,
+                    rank: move.dest.rank + (move.piece === 'P' ? -1 : 1)
+                };
+                move.enPassantCapture = true;
+                transitions.push({
+                    remove: true,
+                    piece: (move.capturedPiece = this.board.getPiece(cell))
+                });
+            }
+        }
+
+        if (move.capturing && !move.enPassantCapture) {
             transitions.push({
                 remove: true,
                 piece: (move.capturedPiece = this.board.getPiece(move.dest))
@@ -581,12 +628,21 @@ ChessGame.prototype = {
                 changeBy: move.pawnPromotion
             });
         }
-        if (move.castling) {
-            // TODO
-        }
         return transitions;
     },
     getBackwardTransitions: function(move) {
+        if (move.castling) {
+            return [{
+                move: true,
+                piece: this.board.getPiece(move.king.dest),
+                destCell: move.king.src
+            }, {
+                move: true,
+                piece: this.board.getPiece(move.rook.dest),
+                destCell: move.rook.src
+            }];
+        }
+
         var transitions = [{
             move: true,
             piece: this.board.getPiece(move.dest),
@@ -729,7 +785,7 @@ ChessGameView.prototype = {
                 if (transition.remove) {
                     animation = self._removePiece(piece, animate);
                 } else if (transition.add) {
-                    animation = self._addPiece(piece);
+                    animation = self._addPiece(piece, animate);
                 } else if (transition.move) {
                     animation = self._movePiece(piece, destCell, animate);
                 } else if (transition.promote) {

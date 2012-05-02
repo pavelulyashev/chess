@@ -32,7 +32,7 @@ class SearchEtudeForm(forms.Form):
     end_year = forms.IntegerField(required=False,
                                   widget=forms.TextInput(attrs={'class': 'span1'}))
     notation = forms.CharField(max_length=256, required=False,
-                               help_text='e.g. Kf3, 0-0 axb6, b8=Q')
+                               help_text='e.g. Kf3, O-O axb6, b8=Q')
     # meta_operator = forms.ChoiceField(choices=OPERATOR_CHOICES, initial='and')
 
     #
