@@ -26,7 +26,7 @@
  *
  * use namespace utils for this purposes
  */
-var debug = false;
+var debug = true;
 
 
 var utils = {
@@ -275,6 +275,7 @@ var MoveNode = function(move, number, player) {
     this.number = number;
     this.player = player;
     this.nesting = 0;
+    this.uid = utils.random();
 };
 MoveNode.prototype = {
     constructor: MoveNode,
@@ -298,7 +299,8 @@ MoveNode.prototype = {
     html: function() {
         var classes = ['move', this.player ? 'black' : 'white',
                        'nesting-' + this.nesting, this.getClass()].join(' ');
-        return ['<span class="', classes, '">', this.move, '</span>'].join('');
+        return ['<span class="', classes, '" data-uid="', this.uid, '">',
+                this.move, '</span>'].join('');
     },
     getNumberToken: function() {
         return this.number + (this.player === 0 ? '.' : '...');
@@ -327,13 +329,14 @@ MoveNode.prototype = {
         this.variations = (this.variations || []).concat(moveNode);
     },
     getClass: function() {
-        return this._class || (this._class = 'move-' + utils.random());
+        return 'move-' + this.uid;
     }
 };
 
 
 var ChessNotation = function(pgn) {
     this.source = pgn;
+    this.movesByUid = {};
     this.parsePgn(this.preparePgn(pgn));
 };
 ChessNotation.prototype = {
@@ -383,6 +386,7 @@ ChessNotation.prototype = {
             } else {
                 moveNode = new MoveNode(new Move(token, player),
                                         moveNum, player);
+                this.movesByUid[moveNode.uid] = moveNode;
 
                 if (newBranch) {
                     if (leafNode) {
@@ -451,7 +455,7 @@ ChessBoard.prototype = {
         return utils.chess.pieces.replaceByUnicode(board);
     },
     noPiecesBetweenEndPoints: function(move, src) {
-        if (!move.piece.match(/[QRB]/i)) {
+        if (!move.piece.match(/[QRBP]/i)) {
             return true;
         }
 
@@ -698,8 +702,8 @@ ChessGame.prototype = {
      *     move object if forward (backward) move exists in notation
      *     otherwise returns false
      */
-    moveForward: function() {
-        var moveNode = this.currentMove.next, transitions;
+    moveForward: function(move) {
+        var moveNode = move || this.currentMove.next, transitions;
         if (moveNode && this.isMovePossible(moveNode.move)) {
             transitions = this.getForwardTransitions(moveNode.move);
             this.currentMove = moveNode;
@@ -730,6 +734,14 @@ ChessGame.prototype = {
     },
     variationExists: function() {
         return this.currentMove.variation;
+    },
+    getPathToMove: function(uid) {
+        var moveNode = this.notation.movesByUid[uid], moves = [];
+        while (moveNode.prev) {
+            moves.unshift(moveNode);
+            moveNode = moveNode.prev;
+        }
+        return moves;
     }
 };
 
@@ -741,6 +753,7 @@ var ChessGameView = function(jqWrapper, options) {
     this._initBoard();
     this._initPieces(game.board.getPieces());
     this._initEvents();
+    this._initNotation();
     this._dfdMove = $.Deferred().resolve();
 };
 ChessGameView.prototype = {
@@ -839,8 +852,8 @@ ChessGameView.prototype = {
         this._jqNotation.find('.move.active').removeClass('active');
         this._jqNotation.find('.' + move.getClass()).addClass('active');
     },
-    moveForward: function(animate) {
-        var moveTransitions = this.chessGame.moveForward();
+    moveForward: function(animate, move) {
+        var moveTransitions = this.chessGame.moveForward(move);
         if (moveTransitions) {
             this._runMove(moveTransitions, animate);
             this._highlightMove(this.chessGame.currentMove);
@@ -947,10 +960,26 @@ ChessGameView.prototype = {
             } 
             e.preventDefault();
         });
-        this._jqNotation = jq.find(self.options.notation);
+    },
+    _initNotation: function() {
+        var self = this;
+        self._jqNotation = self._jqWrapper.find(self.options.notation);
         if (self.chessGame.notation) {
-            this._jqNotation.html(self.chessGame.notation.html());
+            self._jqNotation.html(self.chessGame.notation.html());
+            self._jqNotation.find('.move').click(function() {
+                var uid = $(this).data('uid');
+                self._selectMove(uid);
+            });
         }
+    },
+    _selectMove: function(uid) {
+        if (debug) { console.time('select move'); }
+        var moves = this.chessGame.getPathToMove(uid);
+        this.moveToFirst();
+        moves.forEach(function(move) {
+            this.moveForward(false, move);
+        }, this);
+        if (debug) { console.timeEnd('select move'); }
     }
 };
 
