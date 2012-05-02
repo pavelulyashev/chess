@@ -1,29 +1,3 @@
-/*
- * jChess 0.1.0 - Chess Library Built From jQuery
- *
- * Copyright (c) 2008 Ben Marini
- *
- * Permission is hereby granted, free of charge, to any person obtaining
- * a copy of this software and associated documentation files (the
- * "Software"), to deal in the Software without restriction, including
- * without limitation the rights to use, copy, modify, merge, publish,
- * distribute, sublicense, and/or sell copies of the Software, and to
- * permit persons to whom the Software is furnished to do so, subject to
- * the following conditions:
- *
- * The above copyright notice and this permission notice shall be
- * included in all copies or substantial portions of the Software.
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- * NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
- * LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
- * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
- * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- */
-
-
 (function($) {
 /*
  * XXX REQUIRED:
@@ -60,6 +34,10 @@ var utils = {
     trim: $.trim,
     random: function() {
         return Math.ceil(Math.random() * 1e5);
+    },
+    signum: function(a, b) {
+        var delta = a - b;
+        return delta && delta / Math.abs(delta);
     },
     chess: {
         pieces: {
@@ -368,7 +346,7 @@ ChessNotation.prototype = {
         return [this.tree.next.toString(true), result].join(' ');
     },
     patterns: {
-        split: /(\{[^}]*\})|[()]|([^\s()]+)/g,
+        split: /(\{[^}]*\})|(\d+\.(?:\.\.)?)|[()]|([^\s()]+)/g,
         number: /^(\d+)\.(\.\.)?$/,
         result: /^1\-0|1\/2\-1\/2|0\-1|\*$/,
         annotation: /^\{([^}]*)\}$/
@@ -472,6 +450,46 @@ ChessBoard.prototype = {
         }).join('\n');
         return utils.chess.pieces.replaceByUnicode(board);
     },
+    noPiecesBetweenEndPoints: function(move, src) {
+        if (!move.piece.match(/[QRB]/i)) {
+            return true;
+        }
+
+        var dest = move.dest, cell = { file: src.file, rank: src.rank };
+        var fileDelta = utils.signum(dest.file, src.file);
+        var rankDelta = utils.signum(dest.rank, src.rank);
+        while (cell.rank !== dest.rank || cell.file !== dest.file) {
+            cell.rank += rankDelta;
+            cell.file += fileDelta;
+            if (this.getPiece(cell)) {
+                return false;
+            }
+        }
+        return true;
+    },
+    noCheckIfMoveThisPiece: function(move, src) {
+        var king = this.getKing(move), piece;
+        var matchPieces = king.piece === 'K' ? /[qrb]/ : /[QRB]/;
+        var cell = { file: src.file, rank: src.rank };
+        var fileDelta = utils.signum(src.file, king.file);
+        var rankDelta = utils.signum(src.rank, king.rank);
+        while (cell.rank >= 0 && cell.rank <= 7 &&
+               cell.file >= 0 && cell.file <= 7) {
+            cell.rank += rankDelta;
+            cell.file += fileDelta;
+            piece = this.getPiece(cell);
+            if (piece) {
+                return !piece.piece.match(matchPieces);
+            }
+        }
+        return true;
+    },
+    getKing: function(move) {
+        if (move.piece.match(/[QRBNP]/)) {
+            return this._pieces.K[0];
+        }
+        return this._pieces.k[0];
+    },
     getPieces: function() {
         var pieces = [];
         Object.keys(this._pieces).forEach(function(key) {
@@ -480,14 +498,22 @@ ChessBoard.prototype = {
         return pieces;
     },
     getSourcePiece: function(move) {
-        var cells = utils.chess.pieces.getPossibleSourceCells(move);
-        var cell = cells.filter(function(cell) {
+        var cells = utils.chess.pieces.getPossibleSourceCells(move), cell;
+        cells = cells.filter(function(cell) {
             var chessPiece = this.getPiece(cell);
             return chessPiece && chessPiece.piece === move.piece &&
                    (!move.src.rank || move.src.rank === cell.rank) &&
                    (!move.src.file || move.src.file === cell.file);
-        }, this)[0];
-        return cell && this._board[cell.rank][cell.file];
+        }, this);
+        if (cells.length > 1) {
+            cells = cells.filter(function(cell) {
+                return this.noPiecesBetweenEndPoints(move, cell) &&
+                       this.noCheckIfMoveThisPiece(move, cell);
+            }, this);
+        }
+        
+        cell = cells[0];
+        return cell && this.getPiece(cell);
     },
     runMove: function(moveTransitions) {
         moveTransitions.forEach(function(transition) {
@@ -529,8 +555,12 @@ var ChessGame = function(options) {
     this.options = utils.extend({}, this.defaults, options);
     this.parseFen(this.options.fen);
     if (this.options.pgn) {
-        this.parsePgn(this.options.pgn);
-        this.currentMove = this.notation.tree;
+        try {
+            this.parsePgn(this.options.pgn);
+            this.currentMove = this.notation.tree;
+        } catch (e) {
+            if (debug) { console.error(e); }
+        }
     }
     if (debug) { console.log(this.board + ''); }
 };
@@ -901,6 +931,7 @@ ChessGameView.prototype = {
             } else if (e.keyCode === 40) {      // Down arrow
                 self.moveNextVariation(true);
             }
+            e.preventDefault();
         }).on('keydown.chess', function(e) {
             var keyCode = e.keyCode, run; 
             if (!timeoutId && (keyCode === 37 || keyCode === 39)) {
@@ -914,6 +945,7 @@ ChessGameView.prototype = {
                 };
                 timeoutId = setTimeout(run, 600);
             } 
+            e.preventDefault();
         });
         this._jqNotation = jq.find(self.options.notation);
         if (self.chessGame.notation) {
@@ -925,6 +957,8 @@ ChessGameView.prototype = {
 
 
 $.fn.chessGame = function(options) {
+    debug = (options && options.debug) || debug;
+
     if (debug) { console.time('chess init'); }
     this.each(function() {
         var self = $(this);
@@ -938,194 +972,4 @@ $.fn.chessGame = function(options) {
     if (debug) { console.timeEnd('chess init'); }
     return this;
 };
-})(jQuery);
-
-
-
-
-
-
-
-
-(function($) {
-
-    $.extend({}, {
-        prototype: {
-            validateFen: function(fen) {
-                var pattern = /\s*([rnbqkpRNBQKP12345678]+\/){7}([rnbqkpRNBQKP12345678]+)\s[bw\-]\s(([kqKQ]{1,4})|(\-))\s(([a-h][1-8])|(\-))\s\d+\s\d+\s*/;
-                return pattern.test(fen);
-            },
-            // srcSquare = square the piece is currently on
-            // dstSquare = square the piece will move to
-            cantMoveFromAbsolutePin: function(piece, srcSquare, dstSquare) {
-                // Look for an open vector from piece to the king.
-                var pieceChar = piece.piece;
-                var player = ( pieceChar === pieceChar.toLowerCase() ) ? 'b': 'w';
-
-                var result = this.findAbsolutePin(player, this.pieces.R.vectors, srcSquare, ['R','Q']);
-                if (result === null) {
-                    result = this.findAbsolutePin(player, this.pieces.B.vectors, srcSquare, ['B','Q']);
-                }
-
-                if (result !== null) {
-                    var vector = result[0];
-                    var kingsSquare = result[1];
-                    var pinningPiecesSquare = result[2];
-                    if (!this.inSquaresArray(dstSquare, this.squaresBetweenEndPoints(kingsSquare, pinningPiecesSquare))) {
-                        return true;
-                    }
-                }
-
-                return false;
-            },
-            squaresBetweenEndPoints: function(s,e) {
-                var start = this.algebraic2Coord(s);
-                var end = this.algebraic2Coord(e);
-                var tmp = start;
-                var squares = [];
-                squares.push(this.coord2Algebraic(start[0],start[1]));
-
-                while (tmp[0] !== end[0] || tmp[1] !== end[1]) {
-                    if (tmp[0] < end[0]) { tmp[0] += 1; }
-                    if (tmp[0] > end[0]) { tmp[0] -= 1; }
-                    if (tmp[1] < end[1]) { tmp[1] += 1; }
-                    if (tmp[1] > end[1]) { tmp[1] -= 1; }
-                    squares.push(this.coord2Algebraic(tmp[0],tmp[1]));
-                }
-
-                return squares;
-            },
-
-            findAbsolutePin: function(player, vectors, srcSquare, piecesThatCanPinOnThisVector) {
-                // Look at vectors
-                var result = this.findVectorToKing(player, vectors, srcSquare);
-                if (result !== null) {
-                    var vector = result[0];
-                    var kingsSquare = result[1];
-
-                    // Find the first piece in opposite direction
-                    var flippedVector = this.flipVector(vector);
-                    result = this.firstPieceFromSourceAndVector(srcSquare, flippedVector, flippedVector.limit);
-                    if (result !== null) {
-                        var pinningPiecesSquare = result[1], i;
-                        for (i = 0; i < piecesThatCanPinOnThisVector.length; i++) {
-                            var pinningPiece = (player === 'w') ?
-                                piecesThatCanPinOnThisVector[i].toLowerCase():
-                                piecesThatCanPinOnThisVector[i].toUpperCase();
-
-                            if (result[0].piece === pinningPiece) {
-                                return [vector, kingsSquare, pinningPiecesSquare];
-                            }
-                        }
-                    }
-                }
-                return null;
-            },
-
-            findVectorToKing: function(player, vectors, srcSquare) {
-                var king = (player === 'w') ? 'K': 'k', i;
-                for (i = 0; i < vectors.length; i++) {
-                    var vector = vectors[i];
-                    var result = this.firstPieceFromSourceAndVector(srcSquare, vector, vector.limit);
-                    if (result !== null && result[0].piece === king) {
-                        return [vector, result[1]];
-                    }
-                }
-                return null;
-            },
-
-            findMoveSource: function(piece, srcFile, srcRank, dstFile, dstRank, player) {
-                //console.log("Looking for move source for " + piece + " from " + dstRank + dstFile);
-                if ( srcFile && srcRank ) {
-                    return srcFile + srcRank;
-                }
-
-                var dstSquare = dstFile + dstRank, i, size;
-                var targetPiece = (player === 'w') ? piece: piece.toLowerCase();
-                targetPiece = targetPiece.toString();
-
-                for (i = 0; i < this.pieces[piece].vectors.length; i++) {
-                    var vector = this.pieces[piece].vectors[i];
-
-                    for (size = 1; size <= vector.limit; size++) {
-                        var result = this.pieceFromSourceAndVector(dstSquare, vector, size);
-                        //console.log("Looking at " + result);
-                        if (result === null) {
-                            break;
-                        }
-                        if (result[0] === '-') {
-                            continue;
-                        }
-
-                        if (result[0].piece === targetPiece) {
-                            // Check for absolute pin on the piece in question
-                            if (this.cantMoveFromAbsolutePin(result[0], result[1], dstSquare)) { break; }
-
-                            if (srcFile) {
-                                if (result[1].substr(0,1).toString() === srcFile) {
-                                    return result[1];
-                                }
-                            } else if (srcRank) {
-                                if (result[1].substr(1,1).toString() === srcRank) {
-                                    return result[1];
-                                }
-                            } else {
-                                return result[1];
-                            }
-                        } else {
-                            break;
-                        }
-                    }
-                }
-            },
-
-            findPawnMoveSource: function(dstFile, dstRank, player) {
-                var dstSquare = dstFile + dstRank;
-                var targetPiece = (player === 'w') ? 'P': 'p';
-                var direction = (player === 'w') ? -1: 1;
-                var vector = { x: 0, y: direction, limit: 2 }, size;
-
-                for (size = 1; size <= vector.limit; size++) {
-                    var result = this.pieceFromSourceAndVector(dstSquare, vector, size);
-                    if (result === null) {
-                        break;
-                    }
-                    if (result[0].piece === targetPiece) {
-                        return result[1];
-                    }
-                    if (result[0] !== '-') {
-                        break;
-                    }
-                }
-            },
-
-            pieceFromSourceAndVector: function(source, vector, limit) {
-                var sourceCoords = this.algebraic2Coord(source);
-                var row = sourceCoords[0] - (vector.y * limit);
-                var col = sourceCoords[1] - (vector.x * limit);
-
-                if ( row >= 8 || row < 0 || col >= 8 || col < 0 ) {
-                    return null;
-                }
-                piece = [this._board[row][col], this.coord2Algebraic(row, col)];
-                return piece;
-            },
-
-            firstPieceFromSourceAndVector: function(source, vector, limit) {
-                var i;
-                for (i = 1; i <= limit; i++) {
-                    piece = this.pieceFromSourceAndVector(source, vector, i);
-                    if (piece === null) {
-                        return null; // End of the board reached
-                    }
-                    if (piece[0] === '-') {
-                        continue; // Square is blank
-                    }
-                    return piece;
-                }
-                return null;
-            }
-            
-        }
-    });
 })(jQuery);
