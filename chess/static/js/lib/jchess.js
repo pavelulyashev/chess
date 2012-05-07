@@ -472,11 +472,24 @@ ChessBoard.prototype = {
         return true;
     },
     noCheckIfMoveThisPiece: function(move, src) {
+        if (!move.piece.match(/[QRB]/i)) {
+            return true;
+        }
         var king = this.getKing(move), piece;
         var matchPieces = king.piece === 'K' ? /[qrb]/ : /[QRB]/;
         var cell = { file: src.file, rank: src.rank };
         var fileDelta = utils.signum(src.file, king.file);
         var rankDelta = utils.signum(src.rank, king.rank);
+        var notRook = rankDelta && fileDelta;
+        var notBishop = Math.abs(src.file - king.file) !== 
+                        Math.abs(src.rank - king.rank);
+
+        if (move.piece.toLowerCase() === 'r' && notRook ||
+            move.piece.toLowerCase() === 'b' && notBishop ||
+            move.piece.toLowerCase() === 'q' && notRook && notBishop) {
+            return true;
+        }
+
         while (cell.rank >= 0 && cell.rank <= 7 &&
                cell.file >= 0 && cell.file <= 7) {
             cell.rank += rankDelta;
@@ -511,8 +524,12 @@ ChessBoard.prototype = {
         }, this);
         if (cells.length > 1) {
             cells = cells.filter(function(cell) {
-                return this.noPiecesBetweenEndPoints(move, cell) &&
-                       this.noCheckIfMoveThisPiece(move, cell);
+                return this.noPiecesBetweenEndPoints(move, cell);
+            }, this);
+        }
+        if (cells.length > 1) {
+            cells = cells.filter(function(cell) {
+                return this.noCheckIfMoveThisPiece(move, cell);
             }, this);
         }
         
