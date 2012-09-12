@@ -16,8 +16,15 @@
 <div class="composers-list-container">
   <div class="clearfix">
     <form class="composers-search-form search-form pull-left" method="get" action="{% url composers_list %}">
-      <input class="search-query" name="q" value="{{ query_value|default:"" }}" />
-      <input type="submit" class="btn" value="Search" />
+      <div class="pull-left">
+        <input class="search-query" name="q" value="{{ query_value|default:"" }}" />
+        <button class="btn" name="sorting" value="{{ sorting }}">Search</button>
+      </div>
+
+      <div class="sort-buttons btn-group pull-left">
+        <button class="btn{% if not sorting %} active{% endif %}" name="sorting" value="">Alphabetically</button>
+        <button class="btn{% if sorting %} active{% endif %}" name="sorting" value="count">By etudes amount</button>
+      </div>
     </form>
     {% with total=paginator.count %}
       <div class="pull-right composers-count"><span>{{ total }}</span> composer{{ total|pluralize }}</div>

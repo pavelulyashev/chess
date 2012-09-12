@@ -10,6 +10,9 @@
   color: green;
   font-weight: bold;
 }
+.composers-list-container .sort-buttons {
+  margin-left: 30px;
+}
 .composers-list-scroll {
   width: 950px;
 }

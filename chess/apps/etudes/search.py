@@ -2,7 +2,7 @@ import re
 
 from django.views.generic.edit import FormView
 from django.views.generic import ListView
-from django.db.models import Q
+from django.db.models import Q, Count
 
 from chess.apps.etudes.forms import SearchEtudeForm
 from chess.apps.etudes.models import Etude, Composer
@@ -14,6 +14,7 @@ class ComposersList(ListView):
 
     def get_queryset(self):
         query_value = self.request.GET.get('q', None)
+        self.sorting = self.request.GET.get('sorting', '')
         queryset = Composer.objects
         if query_value:
             tokens = re.split('\s+', query_value)
@@ -25,11 +26,18 @@ class ComposersList(ListView):
             queryset = queryset.filter(query)
 
         self.query_value = query_value
-        return queryset.order_by('last_name', 'first_name')
+
+        if self.sorting == 'count':
+            queryset = queryset.annotate(count_etudes=Count('etudes'))\
+                    .order_by('-count_etudes', 'last_name', 'first_name')
+        else:
+            queryset = queryset.order_by('last_name', 'first_name')
+        return queryset
 
     def get_context_data(self, **kwargs):
         context = super(ComposersList, self).get_context_data(**kwargs)
         context['query_value'] = self.query_value
+        context['sorting'] = self.sorting
         return context
 
     def get_template_names(self):

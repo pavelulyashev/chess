@@ -1,0 +1,10 @@
+
+sudo apt-get install python-dev
+
+- Installing mysql-python on Ubuntu
+sudo apt-get install mysql-server mysql-client libmysqlclient-dev
+pip install mysql-python
+
+- Installing psycopg2 on Ubuntu
+sudo apt-get install postgresql libpq-dev
+pip install psycopg2
