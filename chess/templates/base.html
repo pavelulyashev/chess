@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
   <head>
+    <link rel="shortcut icon" href="{{ STATIC_URL }}images/favicon.ico" />
+
     <link rel="stylesheet" type="text/css" media="all" href="{{ STATIC_URL }}css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" media="all" href="{{ STATIC_URL }}css/bootstrap-responsive.min.css" />
     <link rel="stylesheet" type="text/css" media="screen and (max-height: 850px)" href="{{ STATIC_URL }}css/main850.css" />
@@ -30,7 +32,9 @@
               </ul> 
 
               <ul class="nav pull-right">
-                <li><a href="#" class="brand right">Precisely.So</a></li>
+                <!-- <li><a href="#" class="brand right">Precisely.So</a></li> -->
+                <li><a href="mailto:{{ settings.CONTACT_EMAIL }}"
+                  target="_blank" class="right">Contact Precisely.So</a></li>
               </ul>
             </div>
           </div>
