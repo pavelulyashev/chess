@@ -148,16 +148,16 @@
               <div class="pull-right">
                 <ul>
                 {% for piece in "KQRBNP" %} 
-                  <li>
+                  <li class="clearfix">
                     <span class="piece-block block"><span data-piece="{{ piece }}" class="piece w{{ piece }}"></span></span>
                     <span class="piece-block block"><span data-piece="{{ piece|lower }}" class="piece b{{ piece|lower }}"></span></span>
                   </li>
                 {% endfor %}
-                  <li>
+                  <li class="clearfix">
                     <span class="piece-block block"><span data-piece="A" class="aux-piece w-question"></span></span>
                     <span class="piece-block block"><span data-piece="a" class="aux-piece b-question"></span></span>
                   </li>
-                  <li>
+                  <li class="clearfix">
                     <span class="piece-block block"><span data-piece="e" class="aux-piece wb-question"></span></span>
                     <span class="piece-block block"><span class=""></span></span>
                   </li>
