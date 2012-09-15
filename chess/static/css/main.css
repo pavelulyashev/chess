@@ -259,6 +259,7 @@ li {
 .etude-detail .etude-problem .slide-link .link.spoiler-reveal {
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
   transform: rotate(90deg);
 }
 .etude-detail .etude-solution {
