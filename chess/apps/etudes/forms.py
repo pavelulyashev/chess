@@ -20,6 +20,10 @@ OPERATOR_CHOICES = (
 
 
 class SearchEtudeForm(forms.Form):
+    true = forms.BooleanField(initial=True,
+                              required=False,
+                              widget=forms.HiddenInput())
+
     #
     # Meta information fields
     #

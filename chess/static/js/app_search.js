@@ -121,9 +121,8 @@ var SearchForm = {
             data = this.jq.serialize();
             jqScrollContainer.simpleInfiniteScroll({
                 threshold: 200,
-                method: 'post',
+                method: 'get',
                 url: window.location.href,
-                ajaxData: data,
                 newPageLoaded: function(e, data) {
                     var etudes = $(data);
                     jqEtudesList.append(etudes);

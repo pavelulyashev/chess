@@ -19,8 +19,8 @@
 <div class="etudes-search">
 
     <form class="form-horizontal etudes-search-form{% if etudes_list %} hide-form{% endif %}"
-          method="post" action="{% url etudes_search %}">
-    {% csrf_token %}
+          method="get" action="{% url etudes_search %}">
+    {{ form.true }}
 
     {% if etudes_list %}
       {% include "etudes/auxilary_etudes_list.html" with list_class="search-result-list" %}

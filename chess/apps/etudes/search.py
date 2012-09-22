@@ -1,6 +1,5 @@
 import re
 
-from django.views.generic.edit import FormView
 from django.views.generic import ListView
 from django.db.models import Q, Count
 
@@ -45,21 +44,27 @@ class ComposersList(ListView):
                 else ['etudes/composers_list.html']
 
 
-class SearchEtudes(FormView, ListView):
+class SearchEtudes(ListView):
     form_class = SearchEtudeForm
     context_object_name = 'etudes_list'
     paginate_by = 12
 
     def get(self, request):
-        form = self.get_form(self.form_class)
+        if request.GET.get('true', False):
+            return self.get_search_results(request)
+        else:
+            return self.get_search_form()
+
+    def get_search_form(self):
+        form = self.form_class()
         self.object_list = []
         return self.render_to_response(dict(form=form, etudes_list=None))
 
-    def post(self, request):
-        self.form = self.get_form(self.form_class)
+    def get_search_results(self, request):
+        self.form = self.form_class(request.GET)
         queryset = self.get_queryset()
 
-        self.kwargs['page'] = request.POST.get('page', 1)
+        self.kwargs['page'] = request.GET.get('page', 1)
         pagination_data = self.paginate_queryset(queryset,
                                                  self.paginate_by)
         context = self.get_context_data(*pagination_data)
@@ -80,7 +85,6 @@ class SearchEtudes(FormView, ListView):
         else:
             pieces = None
         paginator, page, object_list, is_paginated = args
-        print object_list
         return dict(etudes_list=object_list,
                     paginator=paginator,
                     page_obj=page,
