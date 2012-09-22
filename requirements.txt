@@ -1,4 +1,4 @@
-Django==1.4
+Django==1.4.1
 MySQL-python==1.2.3
 argparse==1.2.1
 django-alphafilter==0.5.5
