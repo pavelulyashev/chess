@@ -7,7 +7,7 @@ var PositionBuilder = function(jqPosBuilder) {
     this.jq.find('.chess-board td').droppable(this.dropOptions)
            .find('.piece, .aux-piece').draggable(this.dragFromBoard);
     this.jqFenRegexp = this.jq.find('#id_fen_regexp');
-    this.jq.find('.btn-clear-board').click($.proxy(function(e) {
+    this.jq.find('.btn-clear-board').click($.proxy(function() {
         this.jqBoard.find('.piece, .aux-piece').remove();
         return false;
     }, this));

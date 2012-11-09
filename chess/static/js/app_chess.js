@@ -34,5 +34,17 @@ $(document).ready(function() {
             }
         });
     }
+
+    $('.etude-cell .open-as-image').on('click', function(e) {
+        e.preventDefault();
+
+        var $board = $(this).next().find('.chess-board');
+        $board.html2canvas({
+            onrendered: function(canvas) {
+                var url = canvas.toDataURL();
+                window.open(url, 'asd', 'height=208,width=208,location=0');
+            }
+        });
+    })
 });
 }());

@@ -1,5 +1,7 @@
 {% for etude in etudes_list %}
 <li class="etude-cell {% if forloop.counter|divisibleby:"2" %}light{% else %}dark{% endif %}">
+  <a href="#" class="open-as-image"><i class="icon-picture"></i></a>
+
   <div class="etude-preview" data-fen="{{ etude.fen }}" data-result="{{ etude.result }}">
     <a href="{{ etude.get_absolute_url }}">
       {% include "etudes/chess_board.html" with board_as_image=1 %}

@@ -187,6 +187,16 @@ li {
   -webkit-box-sizing: border-box;
   padding: 16px 25px;
   float: left;
+  position: relative;
+}
+.etude-cell .open-as-image {
+  width: 20px;
+  height: 20px;
+  padding: 2px;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  display: none;
 }
 .etude-cell.light {
   background-color: #fefefe;
@@ -196,6 +206,9 @@ li {
 }
 .etude-cell:hover {
   background-color: #dcdcdc;
+}
+.etude-cell:hover .open-as-image {
+  display: block;
 }
 .etude-preview {
   margin: auto;

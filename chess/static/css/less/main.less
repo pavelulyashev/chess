@@ -67,6 +67,7 @@ ul, li {
   .box-sizing(border-box);
   padding: @main-etude-cell-vert-padding @main-etude-cell-horiz-padding;
   float: left;
+  position: relative;
 
   &.light {
     background-color: #fefefe;
@@ -74,8 +75,21 @@ ul, li {
   &.dark {
     background-color: #efefef;
   }
+  .open-as-image {
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    display: none;
+  }
   &:hover {
     background-color: #dcdcdc;
+
+    .open-as-image {
+      display: block;
+    }
   }
 }
 
