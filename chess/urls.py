@@ -18,4 +18,5 @@ urlpatterns = patterns('',
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', Index.as_view()),
     url(r'^etudes/', include('chess.apps.etudes.urls')),
+    url(r'^etude_image/', include('chess.apps.chess_position.urls')),
 )

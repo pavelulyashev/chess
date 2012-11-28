@@ -141,6 +141,7 @@ INSTALLED_APPS = (
     'alphafilter',
     'chess.apps.pgnparser',
     'chess.apps.etudes',
+    'chess.apps.chess_position',
 )
 
 # A sample logging configuration. The only tangible logging
@@ -171,6 +172,8 @@ LOGGING = {
         },
     }
 }
+
+PIECES_DIRECTORY = os.path.join(PROJECT_ROOT, 'static/images/pieces/alpha')
 
 try:
     from settings_local import *

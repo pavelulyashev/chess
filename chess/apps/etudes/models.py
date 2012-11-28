@@ -75,7 +75,7 @@ class Etude(models.Model):
         if self.year:
             result = self.year
         else:
-            match = re.match('(\d{2-3})', self.possible_year)
+            match = re.match('(\d{2,3})', self.possible_year)
             if match is None:
                 result = 'unknown date'
             else:

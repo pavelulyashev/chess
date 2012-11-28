@@ -4,3 +4,4 @@
 *.swo
 *_local.*
 .idea
+.DS_store
