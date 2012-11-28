@@ -1,5 +1,5 @@
 from django.conf.urls import patterns, url
-from apps.chess_position.views import GetEtudePositionImage
+from chess.apps.chess_position.views import GetEtudePositionImage
 
 
 urlpatterns = patterns('chess.apps.chess_position.views',

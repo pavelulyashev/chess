@@ -59,7 +59,7 @@ class ChessPositionDrawer(object):
     """
     n = 8
     white = (255, 255)
-    black = (192, 255)
+    black = (178, 255)
     pieces_literals = 'KQRBNPkqrbnp'
     sprites = {}
     pieces = {}
@@ -100,7 +100,7 @@ class ChessPositionDrawer(object):
         Clients are responsible for resizing this image and saving it,
         if required.
         """
-        self.create_pieces(square_size)
+        self._create_pieces(square_size)
         board = self.get_board(square_size)
         position = expand_fen(fen)
         print position
