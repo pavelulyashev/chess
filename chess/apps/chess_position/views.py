@@ -1,6 +1,6 @@
 from django.conf import settings
 from django.http import HttpResponse
-from django.views.generic import View
+from django.views.generic import View, TemplateView
 
 from chess.apps.chess_position.draw import ChessPositionDrawer
 from chess.apps.etudes.models import Etude
@@ -28,3 +28,6 @@ class GetEtudePositionImage(View):
         image.save(response, 'png')
 
         return response
+
+class ChessPositionBuilder(TemplateView):
+    template_name = 'chess_position/position_builder.html'

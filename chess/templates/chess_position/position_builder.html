@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+
+{% block title %}Build Chess Position Image{% endblock %}
+
+{% block nav_position_builder %}class="active"{% endblock %}
+
+{% block custom_js %}
+  <script type="text/javascript" src="{{ STATIC_URL }}js/chess_canvas.js"></script>
+{% endblock %}
+
+{% block content %}
+  <img id="image-from-canvas" style="float: right; margin-left: 40px;" />
+  <canvas id="position-image"></canvas>
+{% endblock %}
