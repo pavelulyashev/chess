@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html ng-app>
   <head>
     <meta name="keywords" content="chess,etude,etudes,database">
 
@@ -10,29 +10,31 @@
     <link rel="stylesheet" type="text/css" media="screen and (max-height: 850px)" href="{{ STATIC_URL }}css/main850.css" />
     <link rel="stylesheet" type="text/css" media="screen and (min-height: 851px)" href="{{ STATIC_URL }}css/main.css" />
     <script type="text/javascript" src="{{ STATIC_URL }}js/lib/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}js/lib/angular.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}js/ng/navigation.js"></script>
     <script type="text/javascript" src="{{ STATIC_URL }}js/support.js"></script>
 
     {% block extra_head %}{% endblock %}
     {% block custom_css %}{% endblock %}
     {% block custom_js %}{% endblock %}
-  
+
     <title>{% block title %}Chess etudes{% endblock %}</title>
-  
+
     {% include "ga.html" %}
   </head>
-  
+
   <body class="{% block body_class %}{% endblock%}">
     <div class="wrapper">
       {% block header %}
         <div class="navbar navbar-fixed-top">
           <div class="navbar-inner">
-            <div class="container">
-              <ul class="nav">
-                <li {% block nav_index %}{% endblock %}><a href="/">Etudes</a></li>
-                <li {% block nav_search %}{% endblock %}><a href="{% url etudes_search %}">Search Etudes</a></li>
-                <li {% block nav_random %}{% endblock %}><a href="{% url etude_random %}">Random Etude</a></li>
-                <li {% block nav_composers %}{% endblock %}><a href="{% url composers_list %}">Composers</a></li>
-              </ul> 
+            <div class="container" ng-app="navigation">
+              <ul class="nav" ng-controller="navController">
+                <li ng-class="class('/')"><a href="/">Etudes</a></li>
+                <li ng-class="class('/etudes/search_etudes/')"><a href="{% url etudes_search %}">Search Etudes</a></li>
+                <li><a href="{% url etude_random %}">Random Etude</a></li>
+                <li ng-class="class('/etudes/composers/')"><a href="{% url composers_list %}">Composers</a></li>
+              </ul>
 
               <ul class="nav pull-right">
                 <li><a href="mailto:{{ settings.CONTACT_EMAIL }}" target="_blank" class="right">Contact Precisely.So</a></li>
@@ -43,11 +45,11 @@
           </div>
         </div>
       {% endblock %}
-      
+
       <div class="container">
         {% block content %}{% endblock %}
       </div>
-      
+
       {% block footer %} {% include "footer.html" %} {% endblock %}
     </div>
   </body>
