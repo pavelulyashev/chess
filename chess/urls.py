@@ -16,6 +16,6 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^$', Index.as_view()),
+    url(r'^$', Index.as_view(), name='home'),
     url(r'^etudes/', include('chess.apps.etudes.urls')),
 )

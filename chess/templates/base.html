@@ -1,5 +1,5 @@
 <!doctype html>
-<html ng-app>
+<html>
   <head>
     <meta name="keywords" content="chess,etude,etudes,database">
 
@@ -28,12 +28,12 @@
       {% block header %}
         <div class="navbar navbar-fixed-top">
           <div class="navbar-inner">
-            <div class="container" ng-app="navigation">
-              <ul class="nav" ng-controller="navController">
-                <li ng-class="class('/')"><a href="/">Etudes</a></li>
-                <li ng-class="class('/etudes/search_etudes/')"><a href="{% url etudes_search %}">Search Etudes</a></li>
+            <div class="container" ng-app="navList">
+              <ul class="nav" ng-controller="navCtrl">
+                <li ng-class="class('{% url home %}')"><a href="{% url home %}">Etudes</a></li>
+                <li ng-class="class('{% url etudes_search %}')"><a href="{% url etudes_search %}">Search Etudes</a></li>
                 <li><a href="{% url etude_random %}">Random Etude</a></li>
-                <li ng-class="class('/etudes/composers/')"><a href="{% url composers_list %}">Composers</a></li>
+                <li ng-class="class('{% url composers_list %}')"><a href="{% url composers_list %}">Composers</a></li>
               </ul>
 
               <ul class="nav pull-right">
