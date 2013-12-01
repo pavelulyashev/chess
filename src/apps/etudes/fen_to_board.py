@@ -1,6 +1,6 @@
 import re
 
-from chess.apps.etudes.models import Board
+from src.apps.etudes.models import Board
 
 
 _rank_dict = dict(K=0, Q=1, R=2, B=3, N=4, P=5,

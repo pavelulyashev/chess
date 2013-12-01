@@ -101,7 +101,7 @@ class Board(models.Model):
 
 def handler(instance, **kwargs):
     if instance and kwargs.get('created', False):
-        from chess.apps.etudes.fen_to_board import create_board_from_fen
+        from src.apps.etudes.fen_to_board import create_board_from_fen
         board = create_board_from_fen(instance.fen)
         board.etude = instance
         board.save()
