@@ -4,3 +4,7 @@
 *.swo
 *_local.*
 .idea
+
+static/
+media/
+!src/apps/*/static/
