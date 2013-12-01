@@ -3,8 +3,8 @@ import re
 
 from django.core.management.base import BaseCommand, CommandError
 
-from chess.apps.etudes.models import Etude, Composer, RESULTS_RECOGNIZER
-from chess.apps.pgnparser import pgn
+from src.apps.etudes.models import Etude, Composer, RESULTS_RECOGNIZER
+from src.apps.pgnparser import pgn
 
 
 class Command(BaseCommand):

@@ -122,7 +122,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     "django.core.context_processors.tz",
     "django.contrib.messages.context_processors.messages",
 
-    "chess.context_processors.settings",
+    "src.context_processors.settings",
 )
 
 INSTALLED_APPS = (
@@ -137,8 +137,8 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
     'alphafilter',
-    'chess.apps.pgnparser',
-    'chess.apps.etudes',
+    'src.apps.pgnparser',
+    'src.apps.etudes',
 )
 
 # A sample logging configuration. The only tangible logging

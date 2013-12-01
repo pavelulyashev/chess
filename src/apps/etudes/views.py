@@ -5,7 +5,7 @@ from django.shortcuts import get_object_or_404
 from django.http import HttpResponseRedirect
 from django.core.urlresolvers import reverse
 
-from chess.apps.etudes.models import Etude, Composer
+from src.apps.etudes.models import Etude, Composer
 
 
 class Index(TemplateView):

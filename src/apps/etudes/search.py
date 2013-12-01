@@ -4,8 +4,8 @@ from django.views.generic.edit import FormView
 from django.views.generic import ListView
 from django.db.models import Q, Count
 
-from chess.apps.etudes.forms import SearchEtudeForm
-from chess.apps.etudes.models import Etude, Composer
+from src.apps.etudes.forms import SearchEtudeForm
+from src.apps.etudes.models import Etude, Composer
 
 
 class ComposersList(ListView):

@@ -1,10 +1,10 @@
 from django.conf.urls import patterns, url
 
-from chess.apps.etudes.views import EtudesByAuthor, EtudeDetail, RandomEtude
-from chess.apps.etudes.search import SearchEtudes, ComposersList
+from src.apps.etudes.views import EtudesByAuthor, EtudeDetail, RandomEtude
+from src.apps.etudes.search import SearchEtudes, ComposersList
 
 
-urlpatterns = patterns('chess.apps.etudes.views',
+urlpatterns = patterns('src.apps.etudes.views',
     url(r'^$', RandomEtude.as_view(), name='etude_random'),
     url(r'^random/$', RandomEtude.as_view(), name='etude_random'),
     url(r'^search_etudes/$', SearchEtudes.as_view(), name='etudes_search'),

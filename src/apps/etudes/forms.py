@@ -2,7 +2,7 @@
 
 from django import forms
 
-from chess.apps.etudes.models import RESULT_CHOICES
+from src.apps.etudes.models import RESULT_CHOICES
 
 
 COMPARE_METHOD = (

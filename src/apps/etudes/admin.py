@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from chess.apps.etudes.models import Etude, Composer, Board
+from src.apps.etudes.models import Etude, Composer, Board
 
 
 def merge_composers(modeladmin, request, queryset):
